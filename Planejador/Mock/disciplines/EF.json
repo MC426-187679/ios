@@ -1,0 +1,1321 @@
+[
+    {
+        "code": "EF091",
+        "name": "Atividade Física, Promoção da Saúde e Qualidade de Vida",
+        "credits": 2,
+        "syllabus": "Estudam-se os conceitos e as estratégias de promoção da saúde com a valorização da alimentação, atividade física e do relacionamento social visando a capacidade para a vida plena, a competência funcional e a qualidade de vida."
+    },
+    {
+        "code": "EF092",
+        "name": "Aspectos Alimentares e Nutricionais Relativos à Qualidade de Vida",
+        "credits": 2,
+        "syllabus": "Aspectos Históricos da alimentação humana, sua relação com os hábitos alimentares e a promoção da saúde e qualidade de vida. Demandas alimentares durante as fases do desenvolvimento humano. Associação entre a alimentação e a atividade física dirigidas à qualidade de vida."
+    },
+    {
+        "code": "EF101",
+        "name": "Educação Física Desportiva",
+        "credits": 2,
+        "syllabus": "Aerobismo. Conhecimento do conceito e identificação das formas de trabalho para conseguir a capacitação aeróbica. Desenvolvimento da resistência aeróbica geral e em especial atuação sobre os sistemas cardiovascular e respiratório. Conhecimento e prática de métodos de condicionamento físico e dos princípios de alternância dos esforços físicos de média e longe duração, bem como da maneira de executar o próprio controle fisiológico."
+    },
+    {
+        "code": "EF103",
+        "name": "Educação Física Desportiva",
+        "credits": 2,
+        "syllabus": "Aerobismo. Conhecimento do conceito e identificação das formas de trabalho para conseguir a capacitação aeróbica. Desenvolvimento da resistência aeróbica geral e em especial atuação sobre os sistemas cardiovascular e respiratório. Conhecimento e prática de métodos de condicionamento físico e dos princípios de alternância dos esforços físicos de média e longa duração, bem como da maneira de executar o próprio controle fisiológico."
+    },
+    {
+        "code": "EF107",
+        "name": "Educação Física Desportiva",
+        "credits": 2,
+        "syllabus": "Anaerobismo - Identificar os conceitos de resistência anaeróbica e resistência muscular. Conhecimento e aplicação prática do controle fisiológico nos esforços de anaerobismo, e também dos métodos de atividades musculares localizadas, bem como identificação dos meios diretos e indiretos para a melhoria da capacidade muscular. Desenvolvimento do sincronismo articular, do ritmo para esforços anaeróbicos e da qualidade de domínio psicológico quando submetido a um esforço intenso."
+    },
+    {
+        "code": "EF109",
+        "name": "Socorros de Urgência",
+        "credits": 4,
+        "syllabus": "Reconhecimento da situação de emergência, prioridades e condutas a serem tomadas. Prevenção de acidentes. Primeiros socorros em lesões mais frequentes e naquelas relacionadas às práticas de atividades físicas. Atuação do Professor de Educação Física como educador na prática de primeiro socorrista."
+    },
+    {
+        "code": "EF112",
+        "name": "História da Educação Física",
+        "credits": 4,
+        "syllabus": "Introdução aos estudos da história e da historiografia da Educação Física e do Esporte."
+    },
+    {
+        "code": "EF113",
+        "name": "Fundamentos de Antropologia e Educação Física",
+        "credits": 4,
+        "syllabus": "Fundamentos de Antropologia Social e suas implicações para a Educação Física. A relação entre Educação Física e Cultura."
+    },
+    {
+        "code": "EF114",
+        "name": "Fundamentos da Ginástica",
+        "credits": 4,
+        "syllabus": "Estudo e aplicação dos principais métodos de ginástica, sua influência e suas dimensões pedagógicas nos diferentes âmbitos de ação da Educação Física na atualidade."
+    },
+    {
+        "code": "EF115",
+        "name": "Jogo",
+        "credits": 4,
+        "syllabus": "Introdução aos estudos do jogo como fenômeno cultural e suas relações com a Educação e a Educação Física. Dimensões pedagógicas do jogo nos diferentes âmbitos de ação da Educação Física."
+    },
+    {
+        "code": "EF116",
+        "name": "Teorias do Conhecimento",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo das principais correntes do pensamento clássico, das ciências humanas e suas repercussões no pensamento contemporâneo."
+    },
+    {
+        "code": "EF209",
+        "name": "Atletismo",
+        "credits": 4,
+        "syllabus": "Introdução aos estudos do Atletismo, de suas concepções pedagógicas e de treinamento, bem como de seus aspectos organizacionais.",
+        "reqBy": [
+            "EF661"
+        ]
+    },
+    {
+        "code": "EF212",
+        "name": "Ritmo e Expressão",
+        "credits": 2,
+        "syllabus": "Estudos teórico-práticos sobre ritmo e suas relações com a Educação Física. Noções de linguagem musical e a sua manifestação na expressão do corpo: a voz, o som, o gesto e a palavra. Dimensões pedagógicas do ritmo nos diferentes âmbitos de ação da Educação Física.",
+        "reqBy": [
+            "EF452"
+        ]
+    },
+    {
+        "code": "EF213",
+        "name": "Fundamentos Metodológicos do Treinamento Desportivo",
+        "credits": 4,
+        "syllabus": "Conceituações e estrutura do treinamento desportivo. Princípios do Treinamento. Meios e Métodos do Treinamento. Caracterização das capacidades físicas. Etapas de preparação desportiva de muitos anos.",
+        "reqBy": [
+            "EF513"
+        ]
+    },
+    {
+        "code": "EF214",
+        "name": "Metodologia de Pesquisa",
+        "credits": 2,
+        "syllabus": "Estudos das diferentes técnicas e procedimentos necessários para o desenvolvimento de pesquisas e elaboração de textos científicos na área de Educação Física.",
+        "reqBy": [
+            "EF614"
+        ]
+    },
+    {
+        "code": "EF215",
+        "name": "Saúde Coletiva e Atividade Física",
+        "credits": 2,
+        "syllabus": "Saúde Coletiva e Atividade Física (SCAF): tendências e características básicas, principais concepções e práticas, bases biológicas e epidemiológicas. Conceitos fundamentais, classificação evolutiva das lesões desportivas (LD).",
+        "reqBy": [
+            "EF532"
+        ]
+    },
+    {
+        "code": "EF309",
+        "name": "Cinesiologia",
+        "credits": 4,
+        "syllabus": "Estudo dos diversos movimentos do corpo humano com ênfase na estrutura e funções das articulações e grupos musculares.",
+        "reqs": [
+            [
+                {
+                    "code": "BA210"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF312",
+        "name": "Teorias da Educação Física",
+        "credits": 2,
+        "syllabus": "Estudo das principais teorias da Educação Física e sua filiação epistemológica e suas implicações para a prática pedagógica."
+    },
+    {
+        "code": "EF313",
+        "name": "Fundamentos Teóricos do Lazer",
+        "credits": 4,
+        "syllabus": "Análise das principais concepções do Lazer e suas influências no pensamento contemporâneo.",
+        "reqBy": [
+            "EF531",
+            "EF711"
+        ]
+    },
+    {
+        "code": "EF314",
+        "name": "Dança",
+        "credits": 4,
+        "syllabus": "Introdução à linguagem da Dança como expressão histórica e cultural, popular, clássica e moderna e suas relações com a Educação Física. Estudo sobre os métodos de expressão corporal, pautados pela poética da Dança. Dimensões pedagógicas da dança nos diferentes âmbitos de ação da Educação Física.",
+        "reqBy": [
+            "EF650"
+        ]
+    },
+    {
+        "code": "EF315",
+        "name": "Luta",
+        "credits": 4,
+        "syllabus": "Estudos teórico-práticos sobre Luta e suas relações com a Educação Física. Noções das diferentes lutas e procedimentos pedagógicos para o seu ensino nos diferentes âmbitos de ação da Educação Física."
+    },
+    {
+        "code": "EF316",
+        "name": "Crescimento e Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Estudo dos processos que envolvem o crescimento físico, o desenvolvimento motor e os processos maturacionais relacionadas à atividade física.",
+        "reqBy": [
+            "EF513"
+        ]
+    },
+    {
+        "code": "EF411",
+        "name": "Biomecânica",
+        "credits": 4,
+        "syllabus": "Introdução aos fundamentos da Biomecânica, seus métodos de investigação e aplicações para descrição e análise do movimento humano no contexto da Educação Física e dos Esportes."
+    },
+    {
+        "code": "EF412",
+        "name": "Fundamentos Neurofuncionais do Movimento Humano",
+        "credits": 2,
+        "syllabus": "Abordagem neuroanatômica e funcional dos diferentes níveis de atividades do sistema nervoso. Aspectos neurofuncionais dos sistemas motores somáticos."
+    },
+    {
+        "code": "EF413",
+        "name": "Sociologia do Esporte",
+        "credits": 4,
+        "syllabus": "Estudo das relações Esporte e Sociedade e suas implicações na sociedade contemporânea."
+    },
+    {
+        "code": "EF414",
+        "name": "Fundamentos de Psicologia e Educação Física",
+        "credits": 2,
+        "syllabus": "Estudo das teorias psicológicas e suas visões de corpo e movimento. Conhecimento psicológico aplicado à Educação Física. Aspectos psicológicos do processo ensino-aprendizagem em Educação Física."
+    },
+    {
+        "code": "EF415",
+        "name": "Nado",
+        "credits": 2,
+        "syllabus": "Estudo das formas de expressão humana no meio aquático e suas diferentes manifestações na sociedade. Dimensões pedagógicas do nado nos diferentes âmbitos de ação da Educação Física.",
+        "reqBy": [
+            "EF648"
+        ]
+    },
+    {
+        "code": "EF416",
+        "name": "Esporte Coletivo",
+        "credits": 4,
+        "syllabus": "O esporte como expressão de cultura e suas implicações para o ensino das modalidades esportivas coletivas; o esporte coletivo como categoria. Dimensões pedagógicas do esporte coletivo nos diferentes âmbitos de ação da Educação Física."
+    },
+    {
+        "code": "EF428",
+        "name": "Natação",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático da Natação. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF648"
+        ]
+    },
+    {
+        "code": "EF441",
+        "name": "Basquetebol",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático do Basquetebol. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF641"
+        ]
+    },
+    {
+        "code": "EF442",
+        "name": "Futebol de Campo",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático do Futebol de Campo. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF642"
+        ]
+    },
+    {
+        "code": "EF443",
+        "name": "Futsal",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático do Futsal. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF643"
+        ]
+    },
+    {
+        "code": "EF444",
+        "name": "Ginástica Geral",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático da Ginástica Geral. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF644"
+        ]
+    },
+    {
+        "code": "EF445",
+        "name": "Ginástica Artística",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático da Ginástica Artística. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF645"
+        ]
+    },
+    {
+        "code": "EF446",
+        "name": "Ginástica Rítmica",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático da Ginástica Rítmica. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF646"
+        ]
+    },
+    {
+        "code": "EF447",
+        "name": "Handebol",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático do Handebol. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF647"
+        ]
+    },
+    {
+        "code": "EF448",
+        "name": "Atividades Corporais para Deficientes Mentais",
+        "credits": 4,
+        "syllabus": "Conceito histórico e realidade da Educação Física. Aspectos interdisciplinares da Educação Física Adaptada. Adaptações necessárias e implicações na elaboração e desenvolvimento de programa. Proposta de atividades físicas para pessoas portadoras de deficiência mental.",
+        "reqs": [
+            [
+                {
+                    "code": "EP111"
+                },
+                {
+                    "code": "EP158"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF449",
+        "name": "Voleibol",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático do Voleibol. Procedimentos pedagógicos para o seu ensino.",
+        "reqBy": [
+            "EF649"
+        ]
+    },
+    {
+        "code": "EF450",
+        "name": "Esportes de Raquete",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático dos Esportes de Raquete. Procedimentos pedagógicos para o seu ensino."
+    },
+    {
+        "code": "EF451",
+        "name": "Ginásticas Competitivas",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático das Ginásticas Competitivas: Ginástica Rítmica, Ginástica Artística, Ginástica Acrobática, Trampolim Acrobático, entre outras. Procedimentos pedagógicos para o ensino.",
+        "reqBy": [
+            "EF651"
+        ]
+    },
+    {
+        "code": "EF452",
+        "name": "Capoeira",
+        "credits": 2,
+        "syllabus": "Estudo da Capoeira como manifestação corporal e artística brasileira. O jogo, a luta, a música e a dança contidos nesta expressão. Desenvolvimento de uma compreensão básica de suas dinâmicas por meio do canto e do jogo.",
+        "reqs": [
+            [
+                {
+                    "code": "EF212"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF511",
+        "name": "Estatística Aplicada à Educação Física",
+        "credits": 2,
+        "syllabus": "Descrição e comparação de conjuntos de dados quantitativos e qualitativos. Inferência acerca da similaridade de conjunto de dados."
+    },
+    {
+        "code": "EF512",
+        "name": "Adaptações dos Sistemas Orgânicos ao Treinamento Físico",
+        "credits": 4,
+        "syllabus": "Estudo da Fisiologia do Exercício. Ajustes e adaptações dos sistemas orgânicos em resposta ao exercício e ao treinamento físico.",
+        "reqs": [
+            [
+                {
+                    "code": "BF410"
+                }
+            ],
+            [
+                {
+                    "code": "BF412"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF513",
+        "name": "Treinamento Desportivo e a Preparação do Desempenho",
+        "credits": 4,
+        "syllabus": "Estudo dos desportos de acordo com a característica das ações motoras, dos meios e métodos de treinamento, das capacidades motoras e sua relação com o princípio da especificidade. Modelos de estruturação e periodização do treinamento desportivo.",
+        "reqs": [
+            [
+                {
+                    "code": "EF213"
+                },
+                {
+                    "code": "EF316"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF514",
+        "name": "Educação Física Adaptada",
+        "credits": 4,
+        "syllabus": "Estudo dos conceitos da Educação Física Adaptada. Fundamentos e características das deficiências sensoriais, físicas e cognitivas. Considerações históricas e sociais."
+    },
+    {
+        "code": "EF521",
+        "name": "Estágio Supervisionado em Educação Física I",
+        "credits": 8,
+        "syllabus": "Atividades de estágio com ênfase na observação de práticas pedagógicas em Educação Física e do cotidiano escolar, nos diferentes níveis de ensino: educação infantil, ensino fundamental e ensino médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA445",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EF621"
+        ]
+    },
+    {
+        "code": "EF531",
+        "name": "Lazer e Planejamento",
+        "credits": 2,
+        "syllabus": "Compreensão dos elementos técnicos para o planejamento do trabalho do profissional de Educação Física considerando-se o conhecimento dos fundamentos teóricos e o campo do Lazer.",
+        "reqs": [
+            [
+                {
+                    "code": "EF313"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF532",
+        "name": "Saúde Coletiva e Performance Humana",
+        "credits": 4,
+        "syllabus": "Saúde Coletiva, o movimento sanitário e o Sistema Único de Saúde. Atuação do Professor de Educação Física como membro da Equipe de Saúde. Aspectos epidemiológicos das principais valências físicas.",
+        "reqs": [
+            [
+                {
+                    "code": "EF215"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF611",
+        "name": "Processo de Envelhecimento e Educação Física",
+        "credits": 4,
+        "syllabus": "Estudo do processo do envelhecimento, elaboração e desenvolvimento de programas específicos para essa fase da vida.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF612",
+        "name": "Fundamentos de Nutrição e Educação Física",
+        "credits": 2,
+        "syllabus": "Estudo dos nutrientes essenciais, seu papel metabólico e consequências de suas carências. Demandas alimentares durante as fases do desenvolvimento humano e na atividade física. Estudo sobre ergogênicos nutricionais."
+    },
+    {
+        "code": "EF613",
+        "name": "Aprendizagem Motora",
+        "credits": 2,
+        "syllabus": "Estudo das teorias, processos e mecanismos específicos da aprendizagem motora nos diferentes âmbitos de ação da Educação Física."
+    },
+    {
+        "code": "EF614",
+        "name": "Pesquisa em Educação Física I",
+        "credits": 2,
+        "syllabus": "Elaboração de textos e desenvolvimento de projeto de pesquisa para trabalho de conclusão de curso (TCC).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "EF214"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EF714"
+        ]
+    },
+    {
+        "code": "EF621",
+        "name": "Estágio Supervisionado em Educação Física II",
+        "credits": 8,
+        "syllabus": "Atividades de estágio de intervenção pedagógica em Educação Física nos diferentes níveis de ensino: educação infantil, ensino fundamental e ensino médio.",
+        "reqs": [
+            [
+                {
+                    "code": "EF521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF622",
+        "name": "Educação Física - Educação Infantil",
+        "credits": 4,
+        "syllabus": "Estudo das concepções e procedimentos pedagógicos da Educação Física e suas relações com a Educação Infantil."
+    },
+    {
+        "code": "EF631",
+        "name": "Esporte Adaptado",
+        "credits": 4,
+        "syllabus": "Estudo das modalidades esportivas adaptadas (histórico e evolução). Avaliação funcional do esporte adaptado. Regulamento e pontuação nas várias modalidades. A organização do Esporte Paraolímpico."
+    },
+    {
+        "code": "EF632",
+        "name": "Estudos Psicológicos do Esporte",
+        "credits": 4,
+        "syllabus": "Psicologia do Esporte e do exercício: teoria e aplicação. Conhecimento psicológico aplicado ao Esporte e ao exercício. Comportamento humano. Aspectos psicológicos da prática esportiva. Pesquisa em Psicologia aplicada ao Esporte e ao exercício.",
+        "reqBy": [
+            "EL774"
+        ]
+    },
+    {
+        "code": "EF641",
+        "name": "Aprofundamento em Basquetebol",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento do Basquetebol. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF441"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF642",
+        "name": "Aprofundamento em Futebol de Campo",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento do Futebol de Campo. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF442"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF643",
+        "name": "Aprofundamento em Futsal",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento do Futsal. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF443"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF644",
+        "name": "Aprofundamento em Ginástica Geral",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento da Ginástica Geral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF444"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF645",
+        "name": "Aprofundamento em Ginástica Artística",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento da Ginástica Artística. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF445"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF646",
+        "name": "Aprofundamento em Ginástica Rítmica",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento da Ginástica Rítmica. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF446"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF647",
+        "name": "Aprofundamento em Handebol",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento do Handebol. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF447"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF648",
+        "name": "Aprofundamento em Natação",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento da Natação. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF415"
+                },
+                {
+                    "code": "EF428"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF649",
+        "name": "Aprofundamento em Voleibol",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento do Voleibol. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF449"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF650",
+        "name": "Aprofundamento em Dança",
+        "credits": 3,
+        "syllabus": "A dança como componente estético no conhecimento em Eucação Física. Estudos sobre a consciência e ação do corpo na expressividade gestual. Transformações e inovações propostas pela dança contemporânea. Abordagem dos processos coreográficos como locuções para a dança educativa e como expressão consubstanciada na dança performance.",
+        "reqs": [
+            [
+                {
+                    "code": "EF314"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF651",
+        "name": "Aprofundamento em Ginásticas Competitivas",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento das Ginásticas Competitivas. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF451"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF661",
+        "name": "Aprofundamento em Atletismo",
+        "credits": 3,
+        "syllabus": "Planejamento, organização e execução de programas para o aprofundamento do Atletismo. Treinamento e melhoria do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EF209"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF711",
+        "name": "Lazer e Sociedade",
+        "credits": 2,
+        "syllabus": "Estudo das relações Lazer e Sociedade e suas implicações contemporâneas.",
+        "reqs": [
+            [
+                {
+                    "code": "EF313"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF714",
+        "name": "Pesquisa em Educação Física II",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de projeto de pesquisa sob orientação de um docente, tendo como objetivo o trabalho de conclusão de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "EF614"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EF814"
+        ]
+    },
+    {
+        "code": "EF722",
+        "name": "Educação Física Escolar - Ensino Fundamental",
+        "credits": 4,
+        "syllabus": "Estudo das concepções e procedimentos pedagógicos da Educação Física para o Ensino Fundamental."
+    },
+    {
+        "code": "EF723",
+        "name": "Educação Física Escolar Especial",
+        "credits": 4,
+        "syllabus": "Estudo das concepções e procedimentos pedagógicos da Educação Física relacionado à Educação Física Escolar Especial."
+    },
+    {
+        "code": "EF731",
+        "name": "Estágio Supervisionado em Educação Física I",
+        "credits": 8,
+        "syllabus": "Atividades de estágio que propiciem ao professor/profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF732",
+        "name": "Atividade Física para Grupos Diferenciados",
+        "credits": 2,
+        "syllabus": "Estudo das concepções e procedimentos para o desenvolvimento de programas de atividades físicas para grupos diferenciados, tais como: gestantes, obesos, cardiopatas, hipertensos e diabéticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF811",
+        "name": "Gestão em Esporte",
+        "credits": 2,
+        "syllabus": "Estudo da gestão e do planejamento das estruturas esportivas."
+    },
+    {
+        "code": "EF814",
+        "name": "Seminário de Monografia",
+        "credits": 4,
+        "syllabus": "Conclusão e apresentação pública do trabalho de conclusão de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "EF714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF822",
+        "name": "Educação Física Escolar - Ensino Médio",
+        "credits": 4,
+        "syllabus": "Estudo das concepções e procedimentos pedagógicos da Educação Física para o Ensino Médio."
+    },
+    {
+        "code": "EF831",
+        "name": "Estágio Supervisionado em Educação Física II",
+        "credits": 8,
+        "syllabus": "Atividades de estágio que propiciem ao professor/profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF832",
+        "name": "Políticas Públicas em Educação Física",
+        "credits": 4,
+        "syllabus": "Estudo das políticas públicas em Educação Física, Esporte e Lazer e suas implicações na sociedade contemporânea.",
+        "reqBy": [
+            "EL774"
+        ]
+    },
+    {
+        "code": "EF900",
+        "name": "Métodos de Condicionamento Físico: Uma Prática Saudável",
+        "credits": 2,
+        "syllabus": "Identificação de formas de trabalho, desenvolvimento e controle de capacidades físicas básicas. Trabalho das capacidades aeróbica, força, coordenação, velocidade e flexibilidade. Análise da utilidade da atividade física praticada. Conhecimento das várias formas e métodos de aplicação na Educação Física. Desenvolvimento dessas capacidades físicas associadas aos aspectos anatomobiofisiológicos."
+    },
+    {
+        "code": "EF901",
+        "name": "Métodos Aplicados da Educação Física Especial",
+        "credits": 2,
+        "syllabus": "Orientação para desenvolvimento de atividades, aos indivíduos com limitações para a Educação Física, através de jogos e esportes adaptados."
+    },
+    {
+        "code": "EF902",
+        "name": "Vivências Corporais",
+        "credits": 2,
+        "syllabus": "Oferece aos alunos oportunidades para que vivenciem corporalmente, ou seja, que atuem percebendo e tomando consciência de si, de sua atitude corporal, pela sua ação e intenção, a partir dos vários aspectos das abordagens propostas."
+    },
+    {
+        "code": "EF903",
+        "name": "Educação Física Musculação I",
+        "credits": 2,
+        "syllabus": "Conscientização da prática de exercícios com peso como elemento para aquisição da qualidade física. Resistência Muscular Localizada e Capacitação Aeróbica. Diretrizes metodológicas na execução de exercícios corretivos e posturais.",
+        "reqBy": [
+            "EF904"
+        ]
+    },
+    {
+        "code": "EF904",
+        "name": "Educação Física Musculação II",
+        "credits": 2,
+        "syllabus": "Conscientização da prática de exercícios com peso como elemento básico para aquisição de Força Dinâmica, Força Estática, Força Explosiva e Capacitação Anaeróbica. Programação de treinamentos. Ênfase na didática de ensino, execução e segurança.",
+        "reqs": [
+            [
+                {
+                    "code": "EF903"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EF905"
+        ]
+    },
+    {
+        "code": "EF905",
+        "name": "Educação Física Musculação III",
+        "credits": 2,
+        "syllabus": "Conhecimento, execução e diretrizes metodológicas para aquisição de Força Pura. Acompanhamento e desenvolvimento técnico e fisiológicos dos treinamentos programados.",
+        "reqs": [
+            [
+                {
+                    "code": "EF904"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF906",
+        "name": "Tae Kwon Do",
+        "credits": 2,
+        "syllabus": "Identificação do aluno no Tae Kwon Do como esporte e arte marcial, buscando no direcionamento de sua prática a construção e aperfeiçoamento do caráter humano. Desenvolver as qualidades físicas básicas e o controle emocional. Dar um conhecimento generalizado das modificações fisiológicas e morfológicas sobre o organismo. Treinamento de defesa pessoal. Desperta segurança, criatividade e afetividade."
+    },
+    {
+        "code": "EF907",
+        "name": "Iniciação à Natação I",
+        "credits": 2,
+        "syllabus": "Adaptação ao meio líquido, vivenciar os estilos crawl e costas, desenvolver segurança no meio líquido com atividades recreativas e de lazer.",
+        "reqBy": [
+            "EF908"
+        ]
+    },
+    {
+        "code": "EF908",
+        "name": "Aperfeiçoamento de Estilos - Natação II",
+        "credits": 2,
+        "syllabus": "Aperfeiçoamento dos estilos já adquiridos, iniciação dos estilos borboleta e peito, saídas e viradas dos estilos, processos elementares e salvamento.",
+        "reqs": [
+            [
+                {
+                    "code": "EF907"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF909",
+        "name": "Voleibol Recreativo I",
+        "credits": 2,
+        "syllabus": "Identificação no Voleibol como esporte que satisfaça em termos recreativos. Identificação das principais regras do esporte, aprendendo a aplicá-las na prática. Identificação e prática dos sistemas usuais. Prática dos fundamentos básicos do voleibol: toque por cima, manchete, toque por baixo, execução do rodízio. Análise do desenvolvimento de um set no que diz respeito à contagem, tempos debitados e substituições.",
+        "reqBy": [
+            "EF910"
+        ]
+    },
+    {
+        "code": "EF910",
+        "name": "Voleibol Recreativo II",
+        "credits": 2,
+        "syllabus": "Conscientização da prática correta dos movimentos e fundamentos específicos do Voleibol, conhecimento e aplicação das regras, análise do desenvolvimento de um set no que diz respeito à arbitragem e aos fundamentos e movimentos específicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EF909"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF911",
+        "name": "Futebol Recreativo",
+        "credits": 2,
+        "syllabus": "Identificação do futebol como modalidade esportiva que satisfaça em termos recreativos. Prática dos fundamentos básicos do futebol através do jogo."
+    },
+    {
+        "code": "EF912",
+        "name": "Futebol de Salão como Meio de Educação e Recreativo",
+        "credits": 2,
+        "syllabus": "Proporciona aos alunos oportunidade de conhecer o Futebol de Salão, sua história, evolução e atualidade. Fator Educacional: ênfase neste fator e o poder socializante que este esporte propicia. Expõe e prepara trabalhos práticos para o exercício dos fundamentos deste esporte dentro de uma sequência pedagógica."
+    },
+    {
+        "code": "EF913",
+        "name": "Educação Física Especial",
+        "credits": 2,
+        "syllabus": "Orientações para o desenvolvimento de exercícios, jogos e esportes adaptados, conforme a lesão apresentada, seja ela transitória ou permanente."
+    },
+    {
+        "code": "EF914",
+        "name": "Ginástica Aeróbica",
+        "credits": 2,
+        "syllabus": "A importância da Ginástica Aeróbica como um programa de condicionamento físico, utilizando a força motivadora que é a música. Busca uma forma útil e agradável de atingir efeitos benéficos à saúde, proporcionando também integração social."
+    },
+    {
+        "code": "EF915",
+        "name": "Handebol",
+        "credits": 2,
+        "syllabus": "Apresentação do Handebol como um esporte de prática fácil e útil na composição das atividades físicas de manutenção da saúde. A importância de conhecer o Handebol como meio de acompanhar a educação esportiva das crianças. Informações sobre as ações que envolvem o Handebol na Unicamp."
+    },
+    {
+        "code": "EF916",
+        "name": "Basquetebol Recreativo",
+        "credits": 2,
+        "syllabus": "Uso do Basquete e seus fundamentos como meio para a conscientização e o desenvolvimento das qualidades físicas básicas."
+    },
+    {
+        "code": "EF917",
+        "name": "Tênis de Campo",
+        "credits": 2,
+        "syllabus": "O Tênis de Campo, a cada dia que passa, vem ganhando um número maior de adeptos. Os locais de prática de Tênis estão com sua lotação sempre esgotada. Os meios de comunicação estão divulgando cada vez mais o Tênis de Campo, de maneira a despertar ainda mais o interesse das pessoas pela modalidade. Por ser um esporte originário de uma elite socioeconômica, sua prática ficou muito restrita. O Tênis de Campo da Unicamp tem o objetivo de permitir sua prática a todos os interessados."
+    },
+    {
+        "code": "EF918",
+        "name": "Tênis de Campo Recreativo",
+        "credits": 2,
+        "syllabus": "O Tênis de Campo, a cada dia que passa, vem ganhando um número maior de adeptos. Os locais de prática de Tênis estão com sua lotação sempre esgotada. Os meios de comunicação estão divulgando cada vez mais o Tênis de Campo de maneira a despertar ainda mais o interesse das pessoas pela modalidade. Por ser um esporte originário de uma elite socioeconômica, ficou muito restrita a sua prática. O Tênis de Campo da Unicamp tem o objetivo de permitir sua prática a todos os interessados."
+    },
+    {
+        "code": "EF919",
+        "name": "Ginástica Olímpica (Artística)",
+        "credits": 2,
+        "syllabus": "Identificação da Ginástica Olímpica (Artística) como elemento da cultura esportiva, buscando, no direcionamento da sua prática e teoria, a construção e o aperfeiçoamento das qualidades físicas, sociais, intelectuais e afetivas."
+    },
+    {
+        "code": "EF920",
+        "name": "Cinesiologia I",
+        "credits": 2,
+        "syllabus": "Estudo dos métodos de análise do movimento. Visão geral dos aspectos cinesiológicos fundamentais que deverão ser usados de forma coerente na avaliação e/ou proposta de solução para problemas específicos na prática de dança. Estudo dos movimentos dos membros superiores.",
+        "reqBy": [
+            "EF921"
+        ]
+    },
+    {
+        "code": "EF921",
+        "name": "Cinesiologia II",
+        "credits": 2,
+        "syllabus": "Estudo cinesiológico da coluna vertebral e membros inferiores. São enfatizados aspectos relacionados à maneira mais eficaz de utilização do corpo nos movimentos cotidianos e de dança, visando ao melhor desempenho e prevenção de traumas.",
+        "reqs": [
+            [
+                {
+                    "code": "EF920"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF922",
+        "name": "Fisiologia do Esforço",
+        "credits": 2,
+        "syllabus": "Introdução da fisiologia do exercício, conceitos e classificações das capacidades físicas. Estudo dos Ajustes e adaptações Fisiológicas em resposta ao exercício físico aplicado à dança."
+    },
+    {
+        "code": "EF930",
+        "name": "Atividade Física e Qualidade de Vida na Escola",
+        "credits": 4,
+        "syllabus": "Significados, definições e parâmetros da qualidade de vida. Educação, ensino de habilidades para a vida, estruturação de ambientes saudáveis e interação setorial com a escola. Orientações do PCN nos temas Saúde e Ambiente. Possibilidades de estruturação de programas de qualidade de vida na escola."
+    },
+    {
+        "code": "EF931",
+        "name": "Imagem Corporal",
+        "credits": 2,
+        "syllabus": "Perspectivas histórica e contemporânea da imagem corporal. O papel do contato interpessoal, das sensações e do movimento no desenvolvimento da imagem corporal. Reflexões sobre a aparência e o narcisismo. A singularidade e o dinamismo da imagem corporal. A compreensão e a utilização de princípios norteadores para facilitar o desenvolvimento da imagem corporal durante a prática da atividade física em diversos espaços como escolas, academias e áreas de lazer."
+    },
+    {
+        "code": "EF932",
+        "name": "Apoio Didático em Educação Física I",
+        "credits": 2,
+        "syllabus": "Atividades de apoio didático exercidas pelo discente sob orientação de docente responsável por disciplina de Graduação tendo como pré-requisito a disciplina na qual exercerá as atividades de apoio didático.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF933",
+        "name": "Apoio Didático em Educação Física II",
+        "credits": 4,
+        "syllabus": "Atividades de apoio didático exercidas pelo discente sob orientação de docente responsável por disciplina de Graduação tendo como pré-requisito a disciplina na qual exercerá as atividades de apoio didático.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF934",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "Atividades de iniciação científica em Educação Física, supervisionadas e orientadas por docente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EF935"
+        ]
+    },
+    {
+        "code": "EF935",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "Atividades de iniciação científica em Educação Física, supervisionadas e orientadas por docente.",
+        "reqs": [
+            [
+                {
+                    "code": "EF934"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF936",
+        "name": "Tópicos Especiais em Educação Física I",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF937",
+        "name": "Tópicos Especiais em Educação Física II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF938",
+        "name": "Tópicos Especiais em Educação Física III",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF939",
+        "name": "Tópicos Especiais em Educação Física IV",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF940",
+        "name": "Tópicos Especiais em Educação Física V",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF941",
+        "name": "Tópicos Especiais em Educação Física VI",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF942",
+        "name": "Tópicos Especiais em Educação Física VII",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF943",
+        "name": "Tópicos Especiais em Educação Física VIII",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF944",
+        "name": "Tópicos Especiais em Educação Física IX",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF945",
+        "name": "Tópicos Especiais em Educação Física X",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF946",
+        "name": "Tópicos Especiais em Educação Física XI",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF947",
+        "name": "Tópicos Especiais em Educação Física XII",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF948",
+        "name": "Tópicos Especiais em Educação Física XIII",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF949",
+        "name": "Tópicos Especiais em Educação Física XIV",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF950",
+        "name": "Comunicação Esportiva I",
+        "credits": 2,
+        "syllabus": "Abordar a compreensão dos processos socioculturais que permeiam a produção e a difusão das mensagens comunicacionais, focalizando o universo esportivo e a identidade, tendências e características da área da comunicação esportiva, tratando-a como uma vertente crítica dos meios comunicacionais."
+    },
+    {
+        "code": "EF951",
+        "name": "Ética e Cidadania",
+        "credits": 2,
+        "syllabus": "Discutir o papel da ética, da moral e da cidadania no contexto da sociedade destacando a sua relação com a atividade física, esporte e lazer. As questões éticas e o profissional de Educação Física."
+    },
+    {
+        "code": "EF952",
+        "name": "Futsal I",
+        "credits": 3,
+        "syllabus": "Características gerais do Futsal. A Pedagogia do treino. Sistemas ofensivos e defensivos.",
+        "reqBy": [
+            "EF953"
+        ]
+    },
+    {
+        "code": "EF953",
+        "name": "Futsal II",
+        "credits": 3,
+        "syllabus": "A lógica interna do jogo de futsal e o seu treinamento. Tática coletiva. O Treinamento técnico.",
+        "reqs": [
+            [
+                {
+                    "code": "EF952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EF954",
+        "name": "Tópicos Especiais em Educação Física XV",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos de Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF955",
+        "name": "Tópicos Especiais em Educação Física XVI",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF956",
+        "name": "Tópicos Especiais em Educação Física XVII",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelos docentes responsáveis e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF957",
+        "name": "Tópicos Especiais em Educação Física XVIII",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF958",
+        "name": "Tópicos Especiais em Educação Física XIX",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF959",
+        "name": "Tópicos Especiais em Educação Física XX",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Temas e Projetos em Educação Física. O curso terá seu programa definido pelo(s) docente(s) responsável(is) e aprovado pela Comissão de Ensino de Graduação da Faculdade de Educação Física."
+    },
+    {
+        "code": "EF960",
+        "name": "Corpo, Gênero e Sexualidade",
+        "credits": 4,
+        "syllabus": "Estudo do gênero e da sexualidade como construções histórico-sociais e suas relações com o corpo e a Educação Física."
+    },
+    {
+        "code": "EF961",
+        "name": "Escalada e Técnica Verticais",
+        "credits": 2,
+        "syllabus": "Ensino, instrução e condução de escalada nos diferentes ambientes artificiais e naturais propostos junto ao segmento dos esportes de aventura."
+    },
+    {
+        "code": "EF962",
+        "name": "Atividades Circenses e Educação Física",
+        "credits": 4,
+        "syllabus": "Estudo e aplicação das atividades circenses nos diferentes âmbitos (educativo, recreativo, social, artístico) e suas implicações pedagógicas, especialmente no campo da Educação Física."
+    },
+    {
+        "code": "EF963",
+        "name": "Bases do Treinamento de Força e Cinesiologia Aplicada",
+        "credits": 2,
+        "syllabus": "Preparar para os alunos para compreender e aplicar os princípios do treinamento de força nos seus diferentes objetivos (por exemplo, hipertrofia muscular, força, potência e resistência). A ênfase será em cinesiologia aplicada e as adaptações fisiológicas ao treinamento de força, com especial atenção a área da saúde e condicionamento físico."
+    }
+]

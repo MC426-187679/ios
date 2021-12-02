@@ -1,0 +1,589 @@
+[
+    {
+        "code": "DO102",
+        "name": "Metodologia Científica em Endodontia",
+        "credits": 2,
+        "syllabus": "Planejamento experimental em Endodontia. Uso da biblioteca. Formas de publicação científica. Normas da ABNT aplicadas à publicação científica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO105",
+        "name": "Psicologia Aplicada à Odontologia I",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de programas de prevenção precoce da doença bucal por meio do atendimento de bebês e orientação da família. Tais programas baseiam-se na integração, pesquisa e serviço odontológico e seguem orientação teórica da Psicologia Aplicada à Odontologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO107",
+        "name": "Fisiologia na Área Odontológica e na Pesquisa Científica",
+        "credits": 3,
+        "syllabus": "Estudo da fisiologia do sangue, do sistema cardiovascular, do sistema sensorial, do comportamento e do estresse e suas relações com a prática odontológica. Conhecimentos básicos sobre a pesquisa científica na área de Fisiologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO112",
+        "name": "Prótese Buco Maxilo Facial",
+        "credits": 6,
+        "syllabus": "Apresentação e Noção teórico - laboratorial dos fundamentos de diagnóstico, planejamento, confecção,instalação e preservação de diferentes tipos de próteses buco-maxilo-facial.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO113",
+        "name": "Clareamento de Dentes Vitais",
+        "credits": 4,
+        "syllabus": "Fundamentação do clareamento dental; estética do clareamento; técnicas profissionais e caseiras do clareamento dental; clínica de clareamento dental.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO114",
+        "name": "Instrumentação Rotatória em Endodontia",
+        "credits": 4,
+        "syllabus": "Execução de atividades pré-clínicas associadas à Área de Endodontia no preparo químico mecânico utilizando instrumentos rotatórios e obturação com técnicas termoplastificadas do sistema de canais radiculares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO115",
+        "name": "Estágio em Clínica Odontológica I",
+        "credits": 8,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos teórico-laboratoriais adquiridos, com ênfase na prevenção e/ou no tratamento de doenças bucodentais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO116",
+        "name": "Estágio em Urgências Endodônticas I",
+        "credits": 4,
+        "syllabus": "Execução de atividades clínicas associadas à Área de Endodontia para o alívio de dor de origem dental (dentes mono ou birradiculares) em pacientes que procuram o Serviço de Plantão de Urgência da FOP - Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO117",
+        "name": "Pesquisa em Cariologia e sua Aplicação Clínica",
+        "credits": 2,
+        "syllabus": "Discussão de pesquisas em desenvolvimento na área de Cariologia e afins da FOP/UNICAMP: análise do embasamento teórico-científico, justificativa, metodologia e forma de apresentação, discussão de resultados e aplicação clínica."
+    },
+    {
+        "code": "DO118",
+        "name": "Meditação e Odontologia I",
+        "credits": 2,
+        "syllabus": "Capacitar o discente no treinamento sistemático da aquietação da mente o que proporcionará o aprofundamento de seu autoconhecimento e autodesenvolvimento, obtenção de tranquilidade e paz interior, aumento de concentração e enriquecimento da percepção, baixa da pressão sanguínea, harmonização dos batimentos cardíacos ocasionando na diminuição do estresse, reforço do sistema imunológico, melhora na qualidade do sono dentre outros benefícios. Ao obter o treinamento adequado, o discente conseguirá reduzir a ansiedade e o medo de seus pacientes diante do tratamento odontológico. A meditação proporcionará uma significativa melhora na qualidade de vida pessoal, profissional e espiritual do discente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO119",
+        "name": "Acupuntura em Odontologia",
+        "credits": 2,
+        "syllabus": "Esta disciplina tem como objetivo introduzir o aluno no conhecimento teórico e prático da Acupuntura, para que possa iniciar sua visão na Medicina Tradicional Chinesa, incorporando neste momento uma parte deste conhecimento na prática clínica odontológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO120",
+        "name": "Odontologia Hospitalar com Ênfase em Oncologia",
+        "credits": 1,
+        "syllabus": "Estágio supervisionado que visa oferecer aos alunos a vivência em um serviço de Odontologia  que oferece atendimento a pacientes oncológicos de alta complexidade do Instituto do Câncer do Estado de São Paulo Octavio Frias de Oliveira (ICESP), acompanhando a rotina de uma equipe multiprofissional em saúde que atua em ambiente hospitalar, com ênfase para a participação do cirurgião-dentista no diagnóstico, no tratamento e na reabilitação de pacientes oncológicos. Esta disciplina será oferecida em 6 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 15 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO121",
+        "name": "Promoção da Saúde Aplicada à Odontologia I",
+        "credits": 4,
+        "syllabus": "Realizar ações em diferentes localidades (hospitais, empresas, ONGs, instituições filantrópicas e outros), por meio de atividades de extensão comunitária em promoção da saúde e propiciar a troca mútua de conhecimentos e experiências entre acadêmicos e as pessoas da comunidade atendida.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "DO221"
+        ]
+    },
+    {
+        "code": "DO122",
+        "name": "Técnicas de Oratória",
+        "credits": 2,
+        "syllabus": "Técnicas de oratória para apresentação em eventos científicos. Autoconfiança e naturalidade para falar em público. Controle e Manejo do medo de falar em público. Adequação do uso de tecnologias para apresentação e trabalhos científicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO123",
+        "name": "Inter-relação entre Dentística e Periodontia",
+        "credits": 4,
+        "syllabus": "Estudo de  procedimentos restauradores que envolvem a inter-relação entre Periodontia e Dentística, como instalação de prótese e prótese sobre implantes, procedimentos com cirurgias periodontias e restaurações diretas e indiretas e procedimentos estéticos em geral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO124",
+        "name": "Odontogeriatria",
+        "credits": 2,
+        "syllabus": "Estudo das características demográficas, sociais e econômicas da população de idosos no Brasil e no mundo, manejos técnicos para a reabilitação oral de pacientes idosos fragilizados e avaliação biofuncional de pacientes idosos com e sem desabilidades funcionais visando à reabilitação oral dos mesmos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO125",
+        "name": "Odontologia Defensiva Aplicada às Práticas Desportivas",
+        "credits": 2,
+        "syllabus": "Capacitação dos alunos para atuar em uma equipe multidisciplinar junto à Odontologia do Esporte. "
+    },
+    {
+        "code": "DO126",
+        "name": "Análises de Genomas Bacterianos",
+        "credits": 3,
+        "syllabus": "Estudo de genômica funcional aplicada à espécies bacterianas orais e capacitação para o desenvolvimento de análises in silico de genomas bacterianos, para identificação de sequências gênicas promotoras, reguladoras e codificadoras e análises de estrutura  genômico.  "
+    },
+    {
+        "code": "DO127",
+        "name": "Atuação Interdisciplinar Precoce em Saúde I",
+        "credits": 4,
+        "syllabus": "Conhecimento de um programa interdisciplinar de prevenção precoce em saúde bucal e geral, destinado a crianças de 0 a 60 meses de idade, denominado “Programa de Atenção Precoce à Saúde”, oferecido pelo Cepae, baseado na integração de pesquisa e serviço de saúde e seguindo orientação teórica da Psicologia Aplicada à Odontologia da FOP-Unicamp. É um programa interdisciplinar por envolver, em atendimento conjunto, as áreas de odontologia, psicologia, nutrição, fonoaudiologia, psicopedagogia, enfermagem e otorrinolaringologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO128",
+        "name": "Liga de Cirurgia e Traumatologia Bucomaxilofaciais",
+        "credits": 5,
+        "syllabus": "Estudo da Cirurgia Bucomaxilofacial por meio de aulas, seminários e atividades clínicas para aprofundamento de conhecimentos nas diversas condições tratadas pela Área, tais como Trauma, Deformidades dentofaciais, Patologias, Implantodontia e Reconstruções ósseas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC052"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO129",
+        "name": "Prática em simulador de procedimentos odontológicos em ambiente virtual 3D",
+        "credits": 1,
+        "syllabus": "Capacitar alunos a realizar múltiplos procedimentos odontológicos em um ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "DM041"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO130",
+        "name": "Aperfeiçoamento teórico-prático para alunos iniciantes em Endodontia",
+        "credits": 2,
+        "syllabus": " Identificar e capacitar alunos com habilidade ou interesse em endodontia para a prática clínica diária.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO131",
+        "name": "Novas tecnologias em Endodontia",
+        "credits": 2,
+        "syllabus": "Capacitar alunos a utilizar tecnologias atuais para o tratamento endodôntico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO132",
+        "name": "Tópicos avançados em metodologia de pesquisa em saúde coletiva para graduandos em Odontologia",
+        "credits": 2,
+        "syllabus": "Tópicos avançados de metodologia científica aplicada à saúde coletiva para Graduandos em Odontologia com vistas a instrumentalizá-los para melhor compreensão e desenvolvimento de suas atividades de iniciação científica nesta área."
+    },
+    {
+        "code": "DO133",
+        "name": "Introdução à metodologia de pesquisa em Saúde Coletiva para graduandos em Odontologia",
+        "credits": 2,
+        "syllabus": "Aspectos introdutórios de metodologia de pesquisa aplicada à saúde coletiva para Graduandos em Odontologia com vistas a\ninstrumentalizá-los para melhor compreensão e desenvolvimento de suas atividades de iniciação científica nesta área."
+    },
+    {
+        "code": "DO134",
+        "name": "Liga de Dentística Restauradora I",
+        "credits": 2,
+        "syllabus": "Reforçar o conhecimento teórico da disciplina de dentística restauradora para aplicação na prática clínica de tratamentos restauradores diretos, abordando aspectos de diagnóstico, uso e aplicação de materiais restauradores, anatomia e escultura dental em abordagem minimamente invasiva.",
+        "reqs": [
+            [
+                {
+                    "code": "DM041"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO135",
+        "name": "Liga de Endodontia I",
+        "credits": 2,
+        "syllabus": "Identificar e capacitar alunos com habilidade ou interesse em endodontia para a prática clínica diária."
+    },
+    {
+        "code": "DO136",
+        "name": "Liga de Endodontia II",
+        "credits": 2,
+        "syllabus": "Fundamentação dos princípios biológicos e técnicos do tratamento endodôntico e sua aplicação na prática clínica."
+    },
+    {
+        "code": "DO137",
+        "name": "Liga de Endodontia III",
+        "credits": 2,
+        "syllabus": "Capacitar os alunos sobre a importância da pesquisa no desenvolvimento cientifico e tecnológico da endodontia."
+    },
+    {
+        "code": "DO138",
+        "name": "Liga de Endodontia IV",
+        "credits": 2,
+        "syllabus": "Capacitar alunos a utilizar tecnologias atuais para o tratamento endodôntico."
+    },
+    {
+        "code": "DO202",
+        "name": "Iniciação Científica em Endodontia",
+        "credits": 2,
+        "syllabus": "Seminários e discussão dos projetos de pesquisa desenvolvidos na disciplina de Endodontia. Redação de trabalhos científicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO205",
+        "name": "Psicologia Aplicada à Odontologia II",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de programas de atenção precoce à doença bucal por meio do atendimento curativo de bebês acometidos por cárie ou traumatismos dentais e de intervenções fonoaudiológicas, nutricionais e ortodônticas de crianças entre 36 e 60 meses. Tais programas deverão ser orientados teoricamente pelos conhecimentos da Psicologia da Saúde de uma maneira geral e da Psicologia Aplicada à Odontologia de maneira particular.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO215",
+        "name": "Estágio em Clínica Odontológica II",
+        "credits": 8,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos teórico-laboratoriais adquiridos, com ênfase na prevenção e/ou tratamento de doenças bucodentais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO216",
+        "name": "Estágio em Urgências Endodônticas II",
+        "credits": 4,
+        "syllabus": "Execução de atividades clínicas associadas à Área de Endodontia para o alívio de dor de origem dental (dentes molares) em pacientes que procuram o Serviço de Plantão de Urgência da FOP - Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO218",
+        "name": "Meditação e Odontologia II",
+        "credits": 2,
+        "syllabus": "Capacitar o discente no treinamento sistemático da aquietação da mente o que proporcionará o aprofundamento de seu autoconhecimento e autodesenvolvimento, obtenção de tranquilidade e paz interior, aumento de concentração e enriquecimento da percepção, baixa da pressão sanguínea, harmonização dos batimentos cardíacos ocasionando na diminuição do estresse, reforço do sistema imunológico, melhora na qualidade do sono dentre outros benefícios. Ao obter o treinamento adequado, o discente conseguirá reduzir a ansiedade e o medo de seus pacientes diante do tratamento odontológico. A meditação proporcionará uma significativa melhora na qualidade de vida pessoal, profissional e espiritual do discente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO221",
+        "name": "Promoção da Saúde Aplicada à Odontologia II",
+        "credits": 4,
+        "syllabus": "Continuar a realizar ações em diferentes localidades (hospitais, empresas, ONGs, instituições filantrópicas e outros), por meio de atividades de extensão comunitária em promoção da saúde e propiciar a troca mútua de conhecimentos e experiências entre acadêmicos e as pessoas da comunidade atendida.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "DO121"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO222",
+        "name": "Técnicas de Oratória II",
+        "credits": 2,
+        "syllabus": "Aplicar as informações teóricas e eminentemente práticas que o discente adquiriu na disciplina de Técnicas de Oratória I em exercícios de apresentação oral. Aperfeiçoamento da dicção, da entonação da voz e do vocabulário, da postura, bem como do vestuário nos diversos tipos de eventos científicos. Treinamento na elaboração de slides e/ou posters e aplicação das tecnologias atuais e disponíveis em suas apresentações de trabalhos científicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO227",
+        "name": "Atuação Interdisciplinar Precoce em Saúde II",
+        "credits": 4,
+        "syllabus": "Participação nas etapas iniciais do “Programa de Atenção Precoce à Saúde”, um programa interdisciplinar de prevenção precoce voltado para saúde bucal e geral de crianças de 0 a 60 meses de idade, oferecido pelo Cepae, baseado na integração de pesquisa e serviço de saúde e seguindo orientação teórica da Psicologia Aplicada à Odontologia (FOP-Unicamp). E um programa interdisciplinar por envolver, em atendimento conjunto, as áreas de odontologia, psicologia, nutrição, fonoaudiologia, psicopedagogia, enfermagem e otorrinolaringologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO229",
+        "name": "Prática Avançada em simulador de procedimentos odontológicos em ambiente virtual 3D",
+        "credits": 1,
+        "syllabus": "Aprimorar a capacitação dos alunos na realização de múltiplos procedimentos odontológicos em um ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "DM051"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO234",
+        "name": "Liga de Dentística Restauradora II",
+        "credits": 2,
+        "syllabus": "Reforçar o conhecimento teórico da disciplina de dentística restauradora para aplicação na prática clínica em tratamentos reabilitadores através de restaurações indiretas metal-free, abordando aspectos de planejamento multidisciplinar, princípios de oclusão, execução, manutenção e longevidade do tratamento.",
+        "reqs": [
+            [
+                {
+                    "code": "DM051"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO302",
+        "name": "Metodologia Científica em Endodontia II",
+        "credits": 2,
+        "syllabus": "Planejamento experimental em Endodontia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO327",
+        "name": "Atuação Interdisciplinar Precoce em Saúde III",
+        "credits": 4,
+        "syllabus": "Participação nas etapas finais do “Programa de Atenção Precoce à Saúde”, um programa interdisciplinar de prevenção precoce voltado para saúde bucal e geral de crianças de 0 a 60 meses de idade, oferecido pelo Cepae, baseado na integração de pesquisa e serviço de saúde e seguindo orientação teórica da Psicologia Aplicada à Odontologia (FOP-Unicamp). É um programa interdisciplinar por envolver, em atendimento conjunto, as áreas de odontologia, psicologia, nutrição, fonoaudiologia, psicopedagogia, enfermagem e otorrinolaringologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO402",
+        "name": "Iniciação Científica em Endodontia II",
+        "credits": 2,
+        "syllabus": "Redação de artigos científicos. Seminários e discussão de projetos desenvolvidos na disciplina de Endodontia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO427",
+        "name": "Atuação Interdisciplinar Precoce em Saúde IV",
+        "credits": 4,
+        "syllabus": "Atuação nas etapas clínicas do “Programa de Atenção Precoce à Saúde”, um programa interdisciplinar de prevenção precoce voltado para saúde bucal e geral de crianças de 0 a 60 meses de idade, oferecido pelo Cepae, baseado na integração de pesquisa e serviço de saúde seguindo orientação teórica da Psicologia Aplicada à Odontologia (FOP-Unicamp). É um programa interdisciplinar por envolver, em atendimento conjunto, as áreas de odontologia, psicologia, nutrição, fonoaudiologia, psicopedagogia, enfermagem e otorrinolaringologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO527",
+        "name": "Atuação Interdisciplinar Precoce em Saúde V",
+        "credits": 4,
+        "syllabus": "Atuação direta nas etapas clínicas do “Programa de Atenção Precoce à Saúde”, um programa interdisciplinar de prevenção precoce voltado para saúde bucal e geral de crianças de 0 a 60 meses de idade, oferecido pelo Cepae, baseado na integração de pesquisa e serviço de saúde seguindo orientação teórica da Psicologia Aplicada à Odontologia (FOP-Unicamp). É um programa interdisciplinar por envolver, em atendimento conjunto, as áreas de odontologia, psicologia, nutrição, fonoaudiologia, psicopedagogia, enfermagem e otorrinolaringologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO627",
+        "name": "Atuação Interdisciplinar Precoce em Saúde VI",
+        "credits": 4,
+        "syllabus": "Atuação direta nas etapas clínicas e educacionais do “Programa de Atenção Precoce à Saúde”, um programa interdisciplinar de prevenção precoce voltado para saúde bucal e geral de crianças de 0 a 60 meses de idade, oferecido pelo Cepae, baseado na integração de pesquisa e serviço de saúde seguindo orientação teórica da Psicologia Aplicada à Odontologia (FOP-Unicamp). É um programa interdisciplinar por envolver, em atendimento conjunto, as áreas de odontologia, psicologia, nutrição, fonoaudiologia, psicopedagogia, enfermagem e otorrinolaringologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DO727",
+        "name": "Atuação Interdisciplinar Precoce em Saúde VII",
+        "credits": 4,
+        "syllabus": "Participação nos estudos avançados da Equipe, atuação direta nas etapas clínicas e educacionais do “Programa de Atenção Precoce à Saúde”, um programa interdisciplinar de prevenção precoce voltado para saúde bucal e geral de crianças de 0 a 60 meses de idade, oferecido pelo Cepae, baseado na integração de pesquisa e serviço de saúde seguindo orientação teórica da Psicologia Aplicada à Odontologia (FOP-Unicamp). É um programa interdisciplinar por envolver, em atendimento conjunto, as áreas de odontologia, psicologia, nutrição, fonoaudiologia, psicopedagogia, enfermagem e otorrinolaringologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

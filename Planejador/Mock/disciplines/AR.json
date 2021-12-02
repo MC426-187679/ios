@@ -1,0 +1,153 @@
+[
+    {
+        "code": "AR101",
+        "name": "Fundamentos Filosóficos da Arte Educação",
+        "credits": 4,
+        "syllabus": "O processo do conhecimento humano: vivências e significações. O conhecimento inteligível e o saber sensível. Linguagem e conhecimento conceitual (inteligível). Os signos estéticos como simbolização do saber sensível. A dimensão educacional da arte. Atualização dos saberes pré-adquiridos sobre a temática da disciplina.",
+        "reqBy": [
+            "AD071"
+        ]
+    },
+    {
+        "code": "AR110",
+        "name": "Tópicos Especiais em Artes I",
+        "credits": 2,
+        "syllabus": "Estudo de assunto relevante na área das artes."
+    },
+    {
+        "code": "AR111",
+        "name": "Introdução à Estética e Teoria da Arte",
+        "credits": 4,
+        "syllabus": "A proposta da disciplina é introduzir e discutir as grandes questões teóricas sobre as artes e suas transformações ao longo da história.",
+        "reqBy": [
+            "AP221"
+        ]
+    },
+    {
+        "code": "AR120",
+        "name": "Tópicos Especiais em Criação Artística I",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de projeto de criação artística, com ênfase na inter-relação das diferentes manifestações artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AR130",
+        "name": "Arte e Produção",
+        "credits": 2,
+        "syllabus": "Abordagens interdisciplinares sobre o processo de produção em arte. As relações entre a arte e os sistemas de difusão e exibição. Analisar as tendências contemporâneas na área de produção em artes visuais, artes cênicas, música erudita e popular, e no audiovisual."
+    },
+    {
+        "code": "AR210",
+        "name": "Tópicos Especiais em Artes II",
+        "credits": 2,
+        "syllabus": "Estudo de assunto relevante na área das artes.",
+        "reqBy": [
+            "AR310"
+        ]
+    },
+    {
+        "code": "AR220",
+        "name": "Tópicos Especiais em Criação Artística II",
+        "credits": 2,
+        "syllabus": "Desenvolvimentos de projetos de criação artística, com ênfase na inter-relação das diferentes manifestações artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AR301",
+        "name": "Psicologia do Desenvolvimento Aplicado às Artes I",
+        "credits": 4,
+        "syllabus": "A compreensão do desenvolvimento do ser humano em relação aos aspectos da habilidade motora, da ampliação do conhecimento e da capacidade criadora, levando-se em conta a expressão lúdica e o aprofundamento da percepção corporal, visual e auditiva do indivíduo. A experiência do fenômeno da arte, tanto em sua aproximação do material concreto quanto na realização de composições mais elaboradas, permitindo a compreensão do processo criativo e evidenciando a necessidade da expressão individual, experiência essa adequada às diversas fases evolutivas e variadas formas de aprendizagem.",
+        "reqBy": [
+            "AD071"
+        ]
+    },
+    {
+        "code": "AR310",
+        "name": "Tópicos Especiais em Artes III",
+        "credits": 2,
+        "syllabus": "Estudo de assunto relevante na área das artes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AR210"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AR410"
+        ]
+    },
+    {
+        "code": "AR320",
+        "name": "Tópicos Especiais em Criação Artística III",
+        "credits": 2,
+        "syllabus": "Desenvolvimentos de projetos de criação artística, com ênfase na inter-relação das diferentes manifestações artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AR410",
+        "name": "Tópicos Especiais em Artes IV",
+        "credits": 2,
+        "syllabus": "Estudo de assunto relevante na área das artes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AR310"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AR420",
+        "name": "Tópicos Especiais em Criação Artística IV",
+        "credits": 2,
+        "syllabus": "Desenvolvimentos de projetos de criação artística, com ênfase na inter-relação das diferentes manifestações artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AR601",
+        "name": "Processos Pedagógicos Voltados para o Corpo na Arte",
+        "credits": 4,
+        "syllabus": "Discute conhecimentos e problemáticas que integram corpo, arte, educação e sociedade, apresentando fundamentos histórico-contextuais, teóricos, práticos e metodológicos direcionados ao ensino. Prepara o aluno para refletir e atuar no ensino da arte em ambientes de educação formal e não formal, dando suporte ao ensino-aprendizado dos conteúdos necessários à condução dos estágios e demais práticas de ensino. Estuda processos educacionais e produções artísticas de diferentes públicos, propondo também estratégias de inclusão para alunos com deficiência e comunidades com demandas educativas especiais."
+    }
+]

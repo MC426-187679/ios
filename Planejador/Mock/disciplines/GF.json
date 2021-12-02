@@ -1,0 +1,599 @@
+[
+    {
+        "code": "GF001",
+        "name": "Iniciação Científica",
+        "credits": 6,
+        "syllabus": "Introdução à abordagem científica relacionada à pesquisa de Geografia. Teorias e hipóteses. Levantamentos de dados. Aplicação de técnicas de pesquisa. Análise de resultados. Elaboração de relatórios de pesquisa e outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA425",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF002",
+        "name": "Estágio Supervisionado I",
+        "credits": 4,
+        "syllabus": "Atividades de estágio que propiciem ao profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF003",
+        "name": "Estágio Supervisionado II",
+        "credits": 4,
+        "syllabus": "Atividades de estágio que propiciem ao profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF100",
+        "name": "Geomorfologia e Meio Ambiente",
+        "credits": 4,
+        "syllabus": "Conteúdo, semiologia e aplicabilidade das legendas geomorfológicas. Cartografia geomorfológica e planejamento: estudos de caso. Monitoramento ambiental e a questão dos geoindicadores."
+    },
+    {
+        "code": "GF102",
+        "name": "Movimentos Sociais",
+        "credits": 4,
+        "syllabus": "Debate sobre as teorias dos Movimentos Sociais. Formas de organização dos Movimentos Urbanos e Rurais. Autonomia, organizações locais, nacionais e internacionais. Movimentos libertários: feministas, ecologistas e estudantis. Organizações não governamentais."
+    },
+    {
+        "code": "GF105",
+        "name": "Metrópoles e Metropolização",
+        "credits": 4,
+        "syllabus": "O surgimento das metrópoles e o processo de metropolização contemporâneo. O fenômeno da urbanização/conurbação e as estratégias de planejamento. Qualidade de vida, sociedade e meio ambiente nas grandes metrópoles. As cidades mundiais."
+    },
+    {
+        "code": "GF106",
+        "name": "Turismo e Novas Territorialidades",
+        "credits": 4,
+        "syllabus": "Aspectos históricos do surgimento do turismo (sedentarismo, nomadismo, viajantes e turistas). A atividade turística na produção do espaço: paisagens, valores culturais e meio ambiente. Modalidades de turismo: da indústria do turismo de massa ao turismo ecológico. Planejamento, degradação e sustentabilidade."
+    },
+    {
+        "code": "GF107",
+        "name": "América Latina - Novas Relações",
+        "credits": 4,
+        "syllabus": "Geografia, colonização e geopolítica do continente americano. Os regimes militares, as lutas por emancipação e a nova integração econômica. O Mercosul e as identidades regionais. As metrópoles latino-americanas."
+    },
+    {
+        "code": "GF111",
+        "name": "Mudanças Globais no Sistema Terra",
+        "credits": 4,
+        "syllabus": "Abordagem integrada das alterações do Sistema Terra, analisando processos ecológicos e socioeconômicos em perspectiva histórica. Ênfase nos prementes problemas ambientais que atingem o planeta e que refletem o modelo de desenvolvimento e padrões de ocupação diferencial do espaço territorial, definidos em macro escala, mas que se cristalizam em escala local. Discussão de problemas atuais na busca de alternativas cientificamente viáveis e socialmente aceitáveis."
+    },
+    {
+        "code": "GF112",
+        "name": "Organização do Espaço Regional",
+        "credits": 4,
+        "syllabus": "Teorias e conceitos do desenvolvimento regional. Região, regionalização e regionalismos: planejamento e organização do espaço. Transformações econômicas e novas estratégias espaciais. Sociedade e natureza na organização socioespacial. Estudos de casos."
+    },
+    {
+        "code": "GF115",
+        "name": "Economia do Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Características estruturais das economias desenvolvidas e subdesenvolvidas. Modelos conceituais de interpretação do processo de desenvolvimento: análise keynesiana e neokeynesiana; e nokeynesiana; teorias do desenvolvimento; enfoque de Schumpeter. Industrialização, subdesenvolvimento e dependência na América Latina. Ecodesenvolvimento e desenvolvimento sustentado."
+    },
+    {
+        "code": "GF120",
+        "name": "Tópicos Especiais em Geografia",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF121",
+        "name": "Tópicos Avançados em Geografia",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF123",
+        "name": "Tópicos Especiais em Geografia I",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "GF124",
+        "name": "Tópicos Especiais em Geografia II",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "GF125",
+        "name": "Tópicos Avançados em Geografia I",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "GF126",
+        "name": "Tópicos Avançados em Geografia II",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "GF129",
+        "name": "Geografia Econômica",
+        "credits": 4,
+        "syllabus": "Fornecer instrumental conceitual básico da Economia Política do Território. Para tanto, elencamos os seguintes pontos: o espaço geográfico como condicionante econômico-social; as divisões técnicas, social e territorial do trabalho; centro, periferia e difusão das modernizações; cadeias e circuitos espaciais produtivos; concentração e centralização dos capitais; o território nacional como mediação entre os fluxos globais do capital e as economias regionais; monopólios, oligopólios e alienação dos espaços no Terceiro Mundo."
+    },
+    {
+        "code": "GF130",
+        "name": "Geografia Regional do Brasil",
+        "credits": 4,
+        "syllabus": "Fornecer noções metodológicas fundamentais de regionalização do espaço brasileiro. Para tanto, elencamos os seguintes itens: fundamentos teóricos do processo de regionalização brasileiro; identificação dos diferentes critérios de regionalização do território brasileiro; as funções da regionalização para o planejamento; a regionalização como instrumentalização das ações do Estado e do mercado; a região como categoria analítica e como conceito na geografia; fundamentos teóricos do planejamento regional brasileiro."
+    },
+    {
+        "code": "GF131",
+        "name": "Mapeamento Pedológico",
+        "credits": 4,
+        "syllabus": "Sistema Brasileiro de Classificação de Solos. Cartografia de solos. Sistemática de levantamento de solos em campo. Interpretação de análises químicas e físicas para classificação. Geração de mapas geológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "GF508"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF132",
+        "name": "Logística e Território Brasileiro",
+        "credits": 4,
+        "syllabus": "Origem, evolução e abordagens do conceito de logística. Abordagem geográfica da logística. Logística como expressão geográfica da circulação corporativa no período histórico atual e como variável ascendente da globalização. Logística e competitividade regional. As características do território brasileiro como indutora de estratégias, investimentos e organização logística. Logística e planejamento territorial no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "GF508"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF133",
+        "name": "Fundamentos de Micromorfologia de Solos",
+        "credits": 4,
+        "syllabus": "Introdução e histórico. Conceitos e definições. Hierarquias e cronologia das organizações. Os constituintes do fundo matricial. As feições pedológicas. Análise e interpretação de dados micromorfológicos com ênfase em solos tropicais.",
+        "reqs": [
+            [
+                {
+                    "code": "GF508"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF134",
+        "name": "Fotointerpretação e Mapeamento Térmico",
+        "credits": 4,
+        "syllabus": "Introdução à fotogrametria. Histórico da fotogrametria. Elementos de fotogrametria, estereoscopia e fotointerpretação. Fundamentos de restituição aerofotogramétrica. Aplicações de fotografias aéreas na Geografia. Procedimentos e técnicas de fotointerpretação geográfica. Processamento digital de fotos aéreas. Elaboração de mapeamentos temáticos a partir da interpretação de fotos aéreas."
+    },
+    {
+        "code": "GF135",
+        "name": "Antropologia da Moral e da Ética",
+        "credits": 4,
+        "syllabus": "Economia moral e ética em processos sociais contemporâneos. Antropologia da moral e da ética. Dimensões morais do estado, da ética, da ciência e da tecnologia. Processos de estruturação e de subjetivação do e no Estado, suas variações tecnológicas e formas de vida social."
+    },
+    {
+        "code": "GF136",
+        "name": "Cartografia Sistemática",
+        "credits": 4,
+        "syllabus": "Introdução à Cartografia. Princípios de Geodésia. Escalas. Sistemas de Coordenadas.\nProjeções Cartográficas. Sistema Cartográfico Nacional (SCN). Uso de Cartas, Mapas e\nPlantas em Ciências da Terra. Sistema de Posicionamento Global (GPS). Elementos de\nTopografia. Cartografia Digital. Trabalhos de campo e elaboração de relatório.",
+        "reqBy": [
+            "GF606"
+        ]
+    },
+    {
+        "code": "GF301",
+        "name": "História do Pensamento Geográfico",
+        "credits": 4,
+        "syllabus": "O conhecimento geográfico no Mundo Antigo e no Mundo Medieval. Período Renascentista e conhecimento do mundo. Filosofia, Ciência e Geografia dos Modernos. A Institucionalização da Geografia, Estado, colonialismo e conhecimento geográfico. O Pensamento Libertário e a geografia. Determinismo e possibilismo. Difusão das Escolas de Geografia. Renovação da geografia e redefinição do objeto. Geografia Pragmática e planejamento econômico. As geografias radicais. Tendências teórico-metodológicas atuais.",
+        "reqBy": [
+            "GF401"
+        ]
+    },
+    {
+        "code": "GF302",
+        "name": "Sensoriamento Remoto",
+        "credits": 4,
+        "syllabus": "1.Sensores remotos fotográficos 2.Sensores remotos orbitais 3.Espectro eletromagnético 4.Comportamento espectral de objetos geográficos 5.Estrutura das imagens orbitais 6.Processamento digital de imagens 7.Classificação digital de imagens 8.Geração de mapas temáticos a partir de imagens classificadas 9.Tópicos especiais de sensoriamento remoto para Geografia."
+    },
+    {
+        "code": "GF303",
+        "name": "Geomorfologia",
+        "credits": 4,
+        "syllabus": "Estudos das formas de relevo, gênese e evolução. Análise das inter-relações: rocha X solo X clima X relevo, com ênfase nos aspectos tectono-estruturais. Unidades morfoestruturais do globo terrestre. Processos endógenos no modelado do relevo. Teorias e técnicas de mapeamento geomorfológico.",
+        "reqs": [
+            [
+                {
+                    "code": "GN111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GF506"
+        ]
+    },
+    {
+        "code": "GF305",
+        "name": "Práticas de Geociências na Educação Básica",
+        "credits": 6,
+        "syllabus": "A disciplina pretende articular fundamentos de Geociências no ensino de Geografia na educação básica, bem como apresentar e desenvolver algumas práticas pedagógicas de geociências que se mostram mais eficazes no ensino. Ademais, serão trabalhadas práticas de ensino em sala de aula com recursos básicos, tecnológicos e audiovisuais, assim como, as práticas de campo como ferramenta de aprendizagem."
+    },
+    {
+        "code": "GF306",
+        "name": "Geografia Regional: América Latina",
+        "credits": 4,
+        "syllabus": " \nOs atributos naturais do continente americano enquanto recursos materiais de poder: recursos naturais, biodiversidade, recursos hídricos e energéticos. Os territórios e a formação diferenciada dos estados nacionais. A invenção da América Latina como categoria regional.  A geopolítica global e a geopolítica da América Latina.  América Latina: industrialização, urbanização e metropolização. A integração regional na América Latina.  As geografias dos organismos supranacionais na América Latina. As populações tradicionais do continente americano.  Atores extra-regionais na América Latina (EUA, EU e Rússia)\n "
+    },
+    {
+        "code": "GF401",
+        "name": "Metodologia da Geografia",
+        "credits": 4,
+        "syllabus": "Bases epistemológicas. Métodos e conceitos desenvolvidos ao longo da história do pensamento geográfico. Positivismo: determinismo, funcionalismo e estruturalismo. Orientações contemporâneas: positivismo lógico, fenomenologia e marxismo. Materialismo dialético e a Geografia como ciência crítica. O espaço geográfico e a dimensão temporal: forma, processo, estrutura e função no método da Geografia.",
+        "reqs": [
+            [
+                {
+                    "code": "GF301"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GF805"
+        ]
+    },
+    {
+        "code": "GF402",
+        "name": "História Econômica, Política e Sociedade do Brasil",
+        "credits": 3,
+        "syllabus": "Análise do processo de formação do Brasil contemporâneo. A inserção do país na divisão internacional do trabalho (1850-1930). Os principais fatores de integração da economia nacional (1870-1950). As mudanças políticas e sociais do período republicano."
+    },
+    {
+        "code": "GF403",
+        "name": "Hidrologia e Oceanografia",
+        "credits": 4,
+        "syllabus": "Fenômenos intervenientes nos fluxos de água. Ciclo hidrológico. Bacia hidrográfica. Precipitação. Interceptação vegetal. Infiltração. Escoamento superficial. Evaporação. Transpiração vegetal. Previsão de enchentes. Propagação de enchentes em reservatórios e canais. Oceanos e mares. Relevo submarino. Movimento das águas oceânicas. Erosão marinha. Problemas ambientais."
+    },
+    {
+        "code": "GF405",
+        "name": "Geografia do Brasil",
+        "credits": 4,
+        "syllabus": "As Regiões Brasileiras: contrastes e inter-relações. As especificidades regionais: bases físicas, ocupação e produção do espaço."
+    },
+    {
+        "code": "GF406",
+        "name": "Geografia Política",
+        "credits": 4,
+        "syllabus": "Definição. Geografia Política, geoestratégia e fronteiras. Organização do espaço como instrumento de poder. O Estado Moderno e as políticas territoriais internas e externas. A Geopolítica do período militar brasileiro. Cenário geopolítico mundial contemporâneo."
+    },
+    {
+        "code": "GF410",
+        "name": "Climatologia I",
+        "credits": 4,
+        "syllabus": "Tempo atmosférico e clima; Distribuição e balanço global de radiação; Composição e estrutura da atmosfera; Atmosfera pretérita e atual; Elementos do clima (temperatura, pressão atmosférica, umidade do ar, precipitações atmosféricas) - definições, unidades de medição, controles de grande escala, representação das suas variações espaço-temporais e suas influências no condicionamento de aspectos físicos e na vida; Gradiente vertical da atmosfera; Nuvens; Circulação geral da atmosfera (convectiva e meridional); Massas de ar, frentes e perturbações atmosféricas. Trabalhos de campo e elaboração de relatório.",
+        "reqBy": [
+            "GF509"
+        ]
+    },
+    {
+        "code": "GF411",
+        "name": "Didática da Geografia",
+        "credits": 6,
+        "syllabus": "História da geografia escolar brasileira; a construção dos conceitos e das categorias geográficas no ensino de geografia; políticas curriculares e geografia escolar; diferentes abordagens pedagógicas no ensino de geografia; qualidade e diversidade do material didático e paradidático no ensino de geografia."
+    },
+    {
+        "code": "GF412",
+        "name": "Climatologia Geográfica",
+        "credits": 4,
+        "syllabus": "A variação das condições climáticas ao longo do tempo e variabilidade atual. Climatologia e abordagem escalar; Metodologias de estudo da climatologia e alterações climáticas em diferentes escalas. Classificação Sinótico-Espacial e a Análise Rítmica; Teorias das mudanças climáticas (a teoria de Milankovitch; mudanças no ciclo do carbono; as variações na espacialização dos continentes e oceanos); A ação antrópica no clima (Poluição atmosférica; camada de ozônio e clima e saúde); As mudanças climáticas na escala local (O Clima no meio urbano; meio rural e desastres naturais). Geopolítica e Clima."
+    },
+    {
+        "code": "GF413",
+        "name": "Geografia Regional: África",
+        "credits": 4,
+        "syllabus": "Os atributos naturais do continente africano enquanto recursos materiais de poder: recursos naturais, biodiversidade, recursos hídricos e energéticos. Diásporas. Colonialismo, imperialismo e formação dos Estados nacionais pluriétnicos africanos. A presença do continente africano na geopolítica do mundo contemporâneo. Urbanização, industrialização e metropolização no continente africano. As relações África e Brasil ontem e hoje. Os desafios do ensino de geografia da África no ensino básico brasileiro."
+    },
+    {
+        "code": "GF501",
+        "name": "Geografia Agrária",
+        "credits": 4,
+        "syllabus": "Atividade agrícola e interdependência com outros setores da economia. Bases fundiárias e sociais: distribuição e tipos de propriedade, de estabelecimentos, de exploração econômica e de relações de trabalho. Bases econômicas do estabelecimento agrícola. A atividade agrícola e a natureza como recurso e restrição. Fatores da produção: terra, trabalho, capital e informação. Comercialização e mercado. Atributos da atividade. Regionalização.",
+        "reqBy": [
+            "GF703"
+        ]
+    },
+    {
+        "code": "GF502",
+        "name": "Geografia das Indústrias",
+        "credits": 4,
+        "syllabus": "A Primeira e Segunda Revolução Industrial: transição para o capitalismo, o nascimento da fábrica, a etapa monopolista do capitalismo e o surgimento das grandes corporações, gênese e difusão do taylorismo e do fordismo. A crise do fordismo e a emergência de um novo paradigma de organização industrial. A divisão internacional do trabalho. Sistemas industriais e organização do espaço: processos de concentração e desconcentração (nível mundial, nacional, regional e local). Política industrial e planejamento espacial: Estado, indústria e meio ambiente."
+    },
+    {
+        "code": "GF503",
+        "name": "Sociologia",
+        "credits": 3,
+        "syllabus": "Conceitos básicos, fundamentos e constituição da sociologia. Durkheim, Weber e Marx. Comportamento coletivo. Controle e desvio social. Organização social: estrutura, estratificação e mobilidade social. Grupos e Instituições. Mudança social. Política social. Movimentos sociais."
+    },
+    {
+        "code": "GF505",
+        "name": "Recursos Naturais, Meio Ambiente e Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Os recursos naturais como base para o desenvolvimento, a natureza como recurso. Avaliação socioeconômica e balanço entre oferta e demanda de recursos naturais. Recurso natural, meio ambiente e a mediação tecnológica. A gestão dos recursos naturais sob a ótica ambiental."
+    },
+    {
+        "code": "GF506",
+        "name": "Geomorfologia (Climática e Litorânea)",
+        "credits": 4,
+        "syllabus": "Perspectivas e pressuposições teóricas. Zonas morfoclimáticas do globo. O modelado das regiões quentes e úmidas. O sistema morfogenético e os processos denominantes. O sistema morfoclimático das regiões secas. Os mecanismos e as influências geomorfológicas das oscilações paleoclimáticas no quaternário.",
+        "reqs": [
+            [
+                {
+                    "code": "GF303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GF605"
+        ]
+    },
+    {
+        "code": "GF507",
+        "name": "Cartografia Temática",
+        "credits": 4,
+        "syllabus": "Pesquisa, análise e tratamento da informação. Representação cartográfica com temas significativos para o estudo da Terra e as características das variáveis. Formas de representação pontual, linear e zonal, considerando os fenômenos qualitativos, quantitativos, estáticos e dinâmicos. Propriedades perceptivas das variáveis gráficas: execução, leitura e interpretação.",
+        "reqBy": [
+            "GF606"
+        ]
+    },
+    {
+        "code": "GF508",
+        "name": "Pedologia",
+        "credits": 4,
+        "syllabus": "O processo de intemperismo nas diferentes regiões do globo terrestre. Fatores e processos de formação do solo. Principais propriedades físicas e químicas dos solos. Classificações taxonômicas e utilitárias dos solos. Cartografia de solos e suas aplicações em Ciências da Terra. Trabalhos de campo e elaboração de relatório.",
+        "reqBy": [
+            "GF131",
+            "GF132",
+            "GF133"
+        ]
+    },
+    {
+        "code": "GF509",
+        "name": "Climatologia II",
+        "credits": 4,
+        "syllabus": "A Climatologia no contexto das ciências atmosféricas e da ciência geográfica. Escalas climáticas. Variação das condições climáticas ao longo do tempo e variabilidade atual. Análise rítmica; Clima e suas relações com saúde, recursos hídricos, energia, agricultura; A ação antrópica no clima (poluição atmosférica, clima urbano, destruição da camada de ozônio estratosférico, etc.); Modelos de previsão de tempo e clima; A climatologia geográfica no planejamento territorial; O papel da mídia; Discussão das mudanças climáticas nos foros políticos; Ensino da climatologia no ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "GF410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF601",
+        "name": "Geografia Regional (Teoria e Regionalização Mundial)",
+        "credits": 4,
+        "syllabus": "A Região como categoria de análise da Geografia. Sistemas políticos, econômicos e quadros naturais na organização do espaço mundial. A formação contemporânea dos grandes blocos econômicos e geopolíticos no contexto da globalização da economia e mundialização da cultura. Análise téorica e através de estudos de casos das divisões: países capitalistas/países socialistas, centro-periferia, desenvolvimento / subdesenvolvimento, Norte/Sul. Potências econômicas mundiais. Analisar detalhadamente um continente (a escolher) como estudo de caso."
+    },
+    {
+        "code": "GF602",
+        "name": "Análise Redes e Fluxos (Transportes e Comunicação)",
+        "credits": 4,
+        "syllabus": "O aumento da circulação como um primeiro movimento para a mundialização. Os meios de transportes, a ocupação especial e a circulação de mercadorias e pessoas. Os meios de comunicação e as novas tecnologias de informação."
+    },
+    {
+        "code": "GF603",
+        "name": "Estudos Populacionais",
+        "credits": 4,
+        "syllabus": "População mundial: história e espaço geográfico. Teoria da transição democrática. Fontes de dados. Movimentos migratórios e mobilidade populacional. Natalidade, mortalidade, crescimento natural e vegetativo. Composição e técnicas de mensuração: etária, por sexo, étnica e estudos de PEA. Medidas de densidade e distribuição populacional. Processos de projeção populacional e tendências de mobilidade. Desigualdades regionais e o Planejamento. Estudos de caso."
+    },
+    {
+        "code": "GF604",
+        "name": "Geografia Urbana",
+        "credits": 4,
+        "syllabus": "Definição e evolução do fenômeno urbano. As cidades: os sítios, o crescimento horizontal e vertical, a estrutura urbana, as áreas funcionais, o sistema viário e a circulação. A interdisciplinaridade dos estudos urbanos. Centralidade, hierarquia e redes urbanas. Conjuntos urbanos complexos: áreas metropolitanas e conurbação. Valor e renda da terra. Meio ambiente e qualidade de vida no meio urbano. Paisagens, usos do solo e culturas urbanas.",
+        "reqBy": [
+            "GF702"
+        ]
+    },
+    {
+        "code": "GF605",
+        "name": "Geomorfologia do Brasil",
+        "credits": 4,
+        "syllabus": "O relevo brasileiro: os grandes conjuntos geomorfológicos brasileiro. Influências das oscilações climáticas no quaternário. O modelado do Estado de São Paulo: compartimentos geomorfológicos paulistas.",
+        "reqs": [
+            [
+                {
+                    "code": "GF506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF606",
+        "name": "Sistemas de Informação Geográfica",
+        "credits": 6,
+        "syllabus": "Introdução ao SIG. Dados geográficos: classes, aquisição e modelagem. Estruturas de representação da informação geográfica. Relações topológicas. Elementos essenciais de um SIG. Funcionalidades de um SIG. Principais áreas de aplicação. Uso de software SIG.",
+        "reqs": [
+            [
+                {
+                    "code": "GF136"
+                },
+                {
+                    "code": "GF507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF607",
+        "name": "Representações e Linguagens no Ensino de Geografia",
+        "credits": 6,
+        "syllabus": "Articulação de conhecimentos teóricos e práticos com vista à apropriação educativa da cartografia e das linguagens contemporâneas para o ensino de geografia. Aproximação de práticas escolares e culturais na produção de saberes e conhecimentos geográficos."
+    },
+    {
+        "code": "GF702",
+        "name": "Meio Ambiente Urbano",
+        "credits": 4,
+        "syllabus": "Produção e consumo da e na Cidade. A metropolização e as redes de relações. Problemáticas urbanas: uso do solo, segregação especial e problemas ambientais da urbanização.",
+        "reqs": [
+            [
+                {
+                    "code": "GF604"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF703",
+        "name": "Desenvolvimento da Agricultura Brasileira",
+        "credits": 4,
+        "syllabus": "Retrospectiva histórica da agricultura brasileira. Relações sociais na agricultura. Modernização da agricultura no Brasil. Caracterização da produção agrícola e agroindustrial: fatores de produção, estrutura agrária. Comercialização e abastecimento. Desenvolvimento agrícola e agroindustrial.",
+        "reqs": [
+            [
+                {
+                    "code": "GF501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF714",
+        "name": "Trabalho de Conclusão de Curso I",
+        "credits": 4,
+        "syllabus": "Levantamento de fontes de dados, técnicas, métodos de pesquisa e/ou de elaboração de materiais gráfico e cartográfico sobre o espaço geográfico e/ou educação em geografia, podendo ter como parâmetro um estudo de caso; elaboração de um projeto de pesquisa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF801",
+        "name": "Geografia das Relações Internacionais",
+        "credits": 4,
+        "syllabus": "Geografia Política. Organizações Internacionais e Regionais. Os blocos econômicos e os mercados comuns. Conflitos contemporâneos: etnias, religiões, recursos naturais e tecnológicos na disputa do poder político e econômico."
+    },
+    {
+        "code": "GF803",
+        "name": "Análise e Gestão de Bacias Hidrográficas",
+        "credits": 4,
+        "syllabus": "Conceituação, classificação, ocupação e gestão das bacias hidrográficas. Organização regional: a bacia hidrográfica como instrumento de análise regional e dado natural. A ocupação e os poderes público e privado e a organização social. Recursos hídricos: a relatividade da escassez e da abundância diante da tecnologia, da urbanização e da industrialização."
+    },
+    {
+        "code": "GF805",
+        "name": "Planejamento Territorial",
+        "credits": 4,
+        "syllabus": "O território como unidade condicionante do planejamento econômico. O planejamento como instrumento de ação política. O papel do estado (Federal, Estadual, Municipal) e das empresas no planejamento do território. A regionalização como instrumento de ação do planejamento. A organização do território impondo-se às ações de planejamento econômico no atual período técnico-científico e informacional. As noções de progresso, desenvolvimento e competitividade como norteadoras do processo de planejamento capitalista. O desenvolvimento geograficamente desigual e os paradoxos do planejamento territorial. Esta disciplina prevê a realização de trabalho de campo.",
+        "reqs": [
+            [
+                {
+                    "code": "GF401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF806",
+        "name": "Estágio Supervisionado de Geografia I",
+        "credits": 6,
+        "syllabus": "Enfoque de práticas, a partir da análise e reflexão dos conteúdos propriamente geográficos representativos para os ensinos médio e fundamental; Análise e reflexão sobre o exercício e as práticas da ação administrativa, docente e de supervisão em escolas ou outras instituições; acompanhamento de atividades e/ou instituições educativas e pedagógicas em escolas ou outras instituições.",
+        "reqs": [
+            [
+                {
+                    "code": "EL774"
+                },
+                {
+                    "code": "EL874"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GF901"
+        ]
+    },
+    {
+        "code": "GF814",
+        "name": "Trabalho de Conclusão de Curso II",
+        "credits": 8,
+        "syllabus": "Utilização de métodos e técnicas de pesquisa em geografia e/ou educação em geografia: documentação indireta (dados, documentos, mapas, cartas, imagens), documentação direta (pesquisa de campo, observação, medição, entrevista, questionários fechados e abertos) e outras metodologias, tendo por objetivo a realização de uma dentre quatro categorias de pesquisa: 1) trabalhos teórico-empíricos e/ou síntese bibliográfica de temas afeitos à pesquisa geográfica e/ou educação em geografia (tipo monografia); 2) mapeamentos e suas interpretações e relatórios; 3) relatório final de iniciação científica; 4) relatório final de estágio profissional supervisionado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF901",
+        "name": "Estágio Supervisionado de Geografia II",
+        "credits": 8,
+        "syllabus": "Enfoque continuado a partir do percurso iniciado em práticas, a partir da análise e reflexão dos conteúdos propriamente geográficos representativos para os ensinos médio e fundamental; Análise e reflexão e avaliação sobre o exercício e as práticas da ação administrativa, docente e de supervisão escolar, acompanhamento, participação e avaliação do cotidiano de instituições que fundam-se sobre práticas educativas, escolares e de orientação pedagógica.",
+        "reqs": [
+            [
+                {
+                    "code": "GF806"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GF902",
+        "name": "Tópicos Especiais em Atividades Científicas e Culturais I",
+        "credits": 7,
+        "syllabus": "A formação científico-cultural objetiva aprofundar conhecimentos relativos a áreas relacionadas ao trabalho pedagógico na educação, tendo especial atenção com a ampliação e enriquecimento geral incluindo experiências extra-curriculares diversificadas que propiciem acesso, conhecimento e familiaridade com linguagens culturais, artísticas, corporais e científicas, indispensáveis para o trabalho em sala de aula."
+    },
+    {
+        "code": "GF903",
+        "name": "Tópicos Especiais em Atividades Científicas e Culturais II",
+        "credits": 7,
+        "syllabus": "A formação científico-cultural objetiva aprofundar conhecimentos relativos a áreas relacionadas ao trabalho pedagógico na educação, tendo especial atenção com a ampliação e enriquecimento geral incluindo experiências extra-curriculares diversificadas que propiciem acesso, conhecimento e familiaridade com linguagens culturais, artísticas, corporais e científicas, indispensáveis para o trabalho em sala de aula."
+    }
+]

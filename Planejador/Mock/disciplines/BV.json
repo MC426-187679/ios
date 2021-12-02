@@ -1,0 +1,322 @@
+[
+    {
+        "code": "BV091",
+        "name": "Biodiversidade",
+        "credits": 2,
+        "syllabus": "A origem da vida. Biodiversidade e sua importância. Biomas, Sistemas de classificação e dilogenia. Taxonomia e nomenclatura. Interações e conservação."
+    },
+    {
+        "code": "BV315",
+        "name": "Plantas medicinais, aromaticas e condimentares",
+        "credits": 2,
+        "syllabus": "Extração, análise e usos de plantas medicinais, aromáticas e condimentares e seus fitoderivados. Metabolismo vegetal e biossíntese de metabolitos secundários. Estudos de casos e aplicações."
+    },
+    {
+        "code": "BV481",
+        "name": "Fisiologia Vegetal Básica: Metabolismo",
+        "credits": 4,
+        "syllabus": "Relações hídricas, absorção iônica e transporte de solutos, nutrição mineral, assimilação de nitrogênio, fixação simbiótica do nitrogênio, fotossíntese, relações fonte-dreno, respiração. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BL034",
+            "BV884",
+            "BV885",
+            "BV886",
+            "BV888"
+        ]
+    },
+    {
+        "code": "BV500",
+        "name": "Iniciação Científica em Fisiologia Vegetal I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Fisiologia Vegetal. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV581",
+        "name": "Fisiologia Vegetal Básica: Desenvolvimento",
+        "credits": 2,
+        "syllabus": "Hormônios Vegetais. Fotomorfogênese. Embriogênese e Germinação. Florescimento. Frutificação. Senescência. Abscisão. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BL034",
+            "BV586",
+            "BV587"
+        ]
+    },
+    {
+        "code": "BV586",
+        "name": "Propagação e Reprodução de Plantas",
+        "credits": 3,
+        "syllabus": "Propagação vegetativa versus reprodução sexuada em plantas. Propagação vegetativa natural: bulbos, cormos, tubérculos, etc. Técnicas artificiais de propagação vegetativa: estaquia, alporquia, enxertia, cultura de tecidos. Reprodução sexuada: Indução e desenvolvimento floral; polinização e fecundação; Autogamia versus alogamia. Evolução das estruturas reprodutivas das plantas.",
+        "reqs": [
+            [
+                {
+                    "code": "BV581"
+                }
+            ],
+            [
+                {
+                    "code": "BV720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV587",
+        "name": "Cultura de Tecidos Vegetais",
+        "credits": 3,
+        "syllabus": "Objetivos e usos da cultura de tecidos vegetais. Equipamentos e técnicas usuais empregadas em cultura de tecidos vegetais. Meios de cultura. Interações hormonais. Cultura de embriões zigóticos e órgãos vegetais. Micropropagação. Organogênese. Embriogênese somática. Cultura de anteras e micrósporos. Regeneração de transformantes.",
+        "reqs": [
+            [
+                {
+                    "code": "BV581"
+                }
+            ],
+            [
+                {
+                    "code": "BV720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV600",
+        "name": "Iniciação Científica em Fisiologia Vegetal II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Fisiologia Vegetal. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV620",
+        "name": "Fisiologia Vegetal Geral: Metabolismo",
+        "credits": 4,
+        "syllabus": "Relações hídricas, absorção iônica e transporte de solutos, nutrição mineral, assimilação do nitrogênio, fixação simbiótica do nitrogênio, fotossíntese, relações fonte-dreno, respiração. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BL034",
+            "BV884",
+            "BV885",
+            "BV886",
+            "BV888"
+        ]
+    },
+    {
+        "code": "BV700",
+        "name": "Estágio Supervisionado em Fisiologia Vegetal I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa em Fisiologia Vegetal, do Departamento de Biologia Vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV720",
+        "name": "Fisiologia Vegetal Geral: Desenvolvimento",
+        "credits": 2,
+        "syllabus": "Hormônios Vegetais. Fotomorfogênese. Embriogênese e Germinação. Florescimento. Frutificação. Senescência. Abscisão. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BL034",
+            "BV586",
+            "BV587"
+        ]
+    },
+    {
+        "code": "BV782",
+        "name": "Genética e Genômica Vegetal",
+        "credits": 4,
+        "syllabus": "A disciplina abordará aspectos teóricos e práticos de conceitos genéticos e genômicos aplicados ao estudo genético de vegetais, cujos avanços nos últimos anos promoveram uma revolução nas áreas de Ciências Biológicas voltadas aos estudos dos vegetais, tais como: conceitos básicos de genética aplicados aos vegetais; genômica estrutural e genômica funcional, aplicadas aos vegetais; marcadores moleculares e sua importância para o estudo da variabilidade, conservação e melhoramento de plantas. Serão apresentados resultados recentes na literatura obtidos com algumas espécies vegetais utilizadas como modelo para os estudos genéticos e genômicos.",
+        "reqs": [
+            [
+                {
+                    "code": "BG380"
+                }
+            ],
+            [
+                {
+                    "code": "BG520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV800",
+        "name": "Estágio Supervisionado em Fisiologia Vegetal II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de pesquisa de Fisiologia Vegetal, do Departamento de Biologia Vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV880",
+        "name": "Melhoramento Genético de Plantas",
+        "credits": 4,
+        "syllabus": "A disciplina aborda aspectos teóricos e práticos da aplicação da genética e da conservação e uso do germoplasma na obtenção de cultivares de plantas, as quais terão diversas aplicações de importância econômica (alimentação, industrial, cosmetológica, farmacêutica e paisagística). Serão apresentados os conceitos de heterose e endogamia e sua importãncia no melhoramento genético, bem como as metodologias utilizadas no melhoramento de plantas autógamas, alógamas e de propagação vegetativa. Também será abordada a obtenção de híbridos, utilização da biotecnologia no melhoramento vegetal, bem como a importância de bancos de germoplasma para o melhoramento. Tais assuntos visam possibilitar aos alunos da Biologa os conhecimentos necessários e suficientes para atuarem profissionalmente em programas de melhoramento, por meio da interação com os melhoristas em diferentes etapas do processo de obtenção de novas cultivares melhoradas.",
+        "reqs": [
+            [
+                {
+                    "code": "BG380"
+                }
+            ],
+            [
+                {
+                    "code": "BG520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV884",
+        "name": "Metabolismo de Plantas sob Estresse",
+        "credits": 6,
+        "syllabus": "Metabolismo de carbono, nitrogênio e secundário em plantas sob estresse abiótico. Serão abordados assuntos sobre a importância do sistema antioxidante e a sinalização em situações limitantes, assim como a atenuação dos efeitos de estresses pela  interação das plantas com microrganismos.",
+        "reqs": [
+            [
+                {
+                    "code": "BV481"
+                }
+            ],
+            [
+                {
+                    "code": "BV620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV885",
+        "name": "Mudanças Climáticas",
+        "credits": 2,
+        "syllabus": "A disciplina abordará como as mudanças climáticas podem afetar as plantas e qual a resposta das mesmas às modificações do meio. As estratégias morfo-fisiológicas das plantas e as consequências para o acúmulo de biomassa e sobrevivência serão abordadas em aulas expositivas, com participação dos alunos através de seminários sobre o tema.",
+        "reqs": [
+            [
+                {
+                    "code": "BV481"
+                }
+            ],
+            [
+                {
+                    "code": "BV620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV886",
+        "name": "Tópicos em Fisiologia Vegetal",
+        "credits": 4,
+        "syllabus": "Assuntos que envolvem a fisiologia vegetal aplicada serão abordados na disciplina, que terá palestras de especialistas em temas como caracterização da resposta vegetal ao ambiente, tópicos específicos sobre nutrição de plantas, genética, biologia molecular de plantas, interação planta-ambiente e respostas fisiológicas de plantas em condições limitantes. Os alunos participarão da disciplina conduzindo seminários e elaborando relatórios sobre as palestras ministradas.",
+        "reqs": [
+            [
+                {
+                    "code": "BV481"
+                }
+            ],
+            [
+                {
+                    "code": "BV620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV887",
+        "name": "Projetos em Fisiologia Vegetal",
+        "credits": 6,
+        "syllabus": "Criar hipóteses, planejar e executar experimentos voltados para assuntos relacionados com Fisiologia do Metabolismo Vegetal, elaborar relatório de pesquisa com os resultados esperados ou obtidos durante a disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV888",
+        "name": "Práticas em Bioquímica de Plantas",
+        "credits": 6,
+        "syllabus": "Boas práticas  no laboratório (medidas de segurança); Noções básicas no preparo de soluções, limpeza e cuidados com vidraria e equipamentos. Colorimetria e espectrofotometria. Extração e quantificação de pigmentos fotossintéticos e carboidratos solúveis e amido. Determinação de diversos metabólitos vegetais como: fenóis, amônia e aminoácidos livres. Extração, quantificação e separação de proteínas. Atividade enzimática. Avaliação de dano oxidativo.",
+        "reqs": [
+            [
+                {
+                    "code": "BV481"
+                }
+            ],
+            [
+                {
+                    "code": "BV620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV915",
+        "name": "Metabolismo Vegetal e Produção de Fitofármacos",
+        "credits": 2,
+        "syllabus": "Propagação e domesticação de plantas. Manutenção da biodiversidade. Fatores ambientais e crescimento das plantas. Fotossíntese. Respiração. Hormônios vegetais. Biossíntese e metabolismo secundário: fenil-propanoides, terpenoides, alcaloides. Manipulação genética. Biofábrica. Extração, análise e bioatividade de fitoderivados."
+    },
+    {
+        "code": "BV916",
+        "name": "Expressão do Genoma: RNAs Reguladores e Epigenética",
+        "credits": 4,
+        "syllabus": "Os últimos dez anos revelaram o papel fundamental dos RNAs (ncRNA, miRNA e siRNA) no controle da expressão gênica. A disciplina visa estabelecer os princípios básicos do modo de ação dos RNA reguladores tanto no controle da estabilidade e tradução dos mRNA quanto na regulação da estrutura da cromatina (epigenética e epigenoma). Uma ênfase maior será dada para genomas de plantas.",
+        "reqs": [
+            [
+                {
+                    "code": "BG380"
+                }
+            ],
+            [
+                {
+                    "code": "BG520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BV925",
+        "name": "Procedimentos Analíticos para Estudos em Biologia Vegetal e Biociências",
+        "credits": 2,
+        "syllabus": "Principais métodos e procedimentos analíticos usados para separar e análisar substâncias (voláteis e não voláteis) a partir de matrizes vegetais e de amostras de interesse na área de biociências (métodos cromatográficos, extração líquido-líquido e sólido-líquido). Métodos de espectroscópicos mais usados para identificação de substâncias em biociências. Aplicação de modernas técnicas cromatográficas hifenadas com espectrometria de massas no estudo de substâncias de origem biológica em diferentes matrizes. Metodologia analítica usada em estudos metabolômicos e em biociências. Estudos de casos."
+    }
+]

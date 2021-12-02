@@ -1,0 +1,150 @@
+[
+    {
+        "code": "EC104",
+        "name": "Desenho Técnico Fundamental",
+        "credits": 3,
+        "syllabus": "Introdução dos conceitos básicos do Desenho Projetivo.",
+        "reqBy": [
+            "EC204",
+            "EC529"
+        ]
+    },
+    {
+        "code": "EC204",
+        "name": "Desenho Assistido por Computador - CAD",
+        "credits": 3,
+        "syllabus": "Apresentação de uma ferramenta de desenho e projeto assistido por computador.",
+        "reqs": [
+            [
+                {
+                    "code": "EC104",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU909",
+            "EC304"
+        ]
+    },
+    {
+        "code": "EC207",
+        "name": "Tópicos de Álgebra Linear",
+        "credits": 2,
+        "syllabus": "Álgebra Matricial. Espaços Vetoriais. Aplicações Lineares. Autovalores e Autovetores. Aplicações à Engenharia Civil.",
+        "reqs": [
+            [
+                {
+                    "code": "MA141",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EC306"
+        ]
+    },
+    {
+        "code": "EC304",
+        "name": "Desenho de Arquitetura e Engenharia Assistido por Computador",
+        "credits": 3,
+        "syllabus": "Apresentação do projeto de Arquitetura e Engenharia assistido por computador e operação com softwares de CAD específicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EC204",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU904",
+            "AU908"
+        ]
+    },
+    {
+        "code": "EC306",
+        "name": "Métodos Matemáticos em Engenharia Civil",
+        "credits": 6,
+        "syllabus": "Equações diferenciais ordinárias: tipos e métodos de resolução. Aplicações à Engenharia Civil: flexão de vigas engastadas e biapoiadas, vigas sobre base elástica, equação da linha elástica, instabilidade de barras, estudo de vibrações; fluxo em meios porosos e problemas de hidráulica. Sistemas de equações diferenciais. Equações diferenciais e parciais: separação de variáveis. Condução de calor. Equação da onda.",
+        "reqs": [
+            [
+                {
+                    "code": "EC207",
+                    "partial": true
+                },
+                {
+                    "code": "MA211",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE838"
+        ]
+    },
+    {
+        "code": "EC321",
+        "name": "Física Aplicada à Engenharia Civil II",
+        "credits": 3,
+        "syllabus": "Elasticidade. Hidrostática. Hidrodinâmica e viscosidade, com aplicações à hidráulica. Temperatura e dilatação. Calorimetria e transferência de calor. Termodinâmica. Aplicações ao conforto térmico de ambientes.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "F 129"
+                },
+                {
+                    "code": "MA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU900"
+        ]
+    },
+    {
+        "code": "EC322",
+        "name": "Física Aplicada à Engenharia Civil III",
+        "credits": 3,
+        "syllabus": "Ondas em meios materiais. Propagação de ondas. Corpos vibrantes. Fenômenos acústicos. Aplicações ao conforto acústico de ambientes. Ondas eletromagnéticas. Natureza e propagação da luz. Iluminação e fotometria. Lentes e instrumentos óticos. Noções de física moderna.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "F 129"
+                },
+                {
+                    "code": "MA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU900"
+        ]
+    },
+    {
+        "code": "EC529",
+        "name": "Topografia e Geodésia I",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais (sistemas de coordenadas, unidades de medidas, plano topográfico local, efeito de curvatura da terra, escalas). Planimetria (medições de distâncias e ângulos; taqueometria, topometria). Altimetria. Métodos de representação do relevo. Locação de obras de engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "EC104",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EC850",
+        "name": "Tecnologia da Informação e Comunicação no Projeto",
+        "credits": 4,
+        "syllabus": "Fundamentos da tecnologia da informação e comunicação. Ferramentas e ambientes de colaboração: intranets e extranets de projeto. Estratégia organizacional para engenharia colaborativa. Estudos de caso. Desenvolvimento de projeto."
+    }
+]

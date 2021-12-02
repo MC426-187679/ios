@@ -1,0 +1,1231 @@
+[
+    {
+        "code": "EA006",
+        "name": "Trabalho de Fim de Curso",
+        "credits": 6,
+        "syllabus": "Princípios de Metodologia Científica e Tecnológica, redação e expressão gráfica técno-científica. Trabalho de síntese dos conhecimentos, com caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas dos cursos de Engenharia Elétrica ou de Engenharia de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA018",
+        "name": "Trabalho de Fim de Curso I",
+        "credits": 2,
+        "syllabus": "Disciplina de prospecção de conteúdo do trabalho que será realizado no TFC. Atividade relacionada principalmente para a definição do tema  e levantamento da bibliografia e para a elaboração do plano de trabalho que mostre o tema a ser tratado, sua importância, a metodologia a ser empregada, os eventuais resultados esperados, o cronograma de execução e a bibliografia pesquisada. É também recomendável aproveitar a disciplina para o início das atividades do TFC.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA019"
+        ]
+    },
+    {
+        "code": "EA019",
+        "name": "Trabalho de Fim de Curso II",
+        "credits": 4,
+        "syllabus": "Trabalho de síntese dos conhecimentos, com caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas do curso de Engenharia Elétrica ou de Engenharia de Computação. O trabalho desenvolvido deverá estar embasado no Plano de Trabalho preparado na primeira disciplina  de TFC - EA018 -. Em caso de mudança do tema ou dos objetivos, deverá haver uma justificativa no relatório final.",
+        "reqs": [
+            [
+                {
+                    "code": "EA018"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA030",
+        "name": "Automação Industrial",
+        "credits": 4,
+        "syllabus": "Histórico. Automação de processos contínuos e discretos. Modelagem de sistemas contínuos e discretos. Automação da Manufatura. Sistemas de informação e controle integrados. Requisitos de hardware, software e sistema de tempo real. Controle inteligente. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                },
+                {
+                    "code": "EA869"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA043",
+        "name": "Programa da Produção em Sistemas de Manufatura",
+        "credits": 4,
+        "syllabus": "Técnicas de Controle de Chão de Fábrica, Problemas de Scheduling, Processamento em uma Máquina, Algoritmos construtivos para Flow-shops e Job-shops, Métodos gerais para o problema de uma máquina. Scheduling em Flow-shops. Scheduling em Job-shops. Scheduling em Sistemas flexíveis de manufatura.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA044"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA044",
+        "name": "Planejamento e Análise de Sistemas de Produção",
+        "credits": 4,
+        "syllabus": "Introdução a Sistemas de Produção. Introdução à Modelagem Matemática. Modelos de Otimização. Modelos de Programação Linear. Resolução de Modelos de Programação Linear. Resolução de Problemas através de Programação Dinâmica. Modelos de Otimização Discretos. Modelos de Programação Não Linear.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA043",
+            "EG411",
+            "EG443",
+            "EG545"
+        ]
+    },
+    {
+        "code": "EA051",
+        "name": "Pesquisa Operacional II",
+        "credits": 4,
+        "syllabus": "Conceitos de probabilidade. Introdução aos modelos de programação estocástica. Modelos de programação dinâmica estocástica. Cadeias de Markov. Introdução aos modelos de filas. Modelos estocásticos de estoque. Confiabilidade. Previsão. Análise de decisão. Simulação.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA052",
+        "name": "Engenharia Econômica",
+        "credits": 4,
+        "syllabus": "Cálculo de juros e valores equivalentes. Comparação de alternativas de investimento. Depreciação. Imposto de renda. Inflação. Análise custo/benefício. Riscos. Incertezas e sensibilidade. Substituição de equipamentos. Modelos de decisão econômica",
+        "reqs": [
+            [
+                {
+                    "code": "CE738"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA060",
+        "name": "Projeto e Análise de Circuitos Digitais",
+        "credits": 4,
+        "syllabus": "Lógica Combinacional: algoritmos de simplificação e introdução a projetos com auxílio de computadores, síntese de circuitos em dispositivos lógicos programáveis (PLD). Lógica Sequencial: máquinas síncronas e assíncronas, algoritmos de simplificação e síntese de circuitos sequenciais. Metodologia de Projeto Digital: níveis de projeto, análise de circuitos, simulação, linguagens de descrição de hardware e introdução à testabilidade de circuito.",
+        "reqs": [
+            [
+                {
+                    "code": "EA772"
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA071",
+        "name": "Projetos de Redes Locais em Ambiente Industrial",
+        "credits": 4,
+        "syllabus": "Conceito de comunicação digital: métodos físicos de transmissão, topologias e controle de acesso. Modelo de camadas ISO/OSI. Redes locais industriais baseadas nos projetos MAP (Manufacturing Automation Protocol), TOP (Technical and Office Protocol) e Proway. Projeto de redes, desenvolvimento de protocolos, software, análise de topologias, taxas de transmissão e tolerância a falha.",
+        "reqs": [
+            [
+                {
+                    "code": "EA075"
+                },
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA075"
+                },
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "MC504"
+                },
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA072",
+        "name": "Inteligência Artificial em Aplicações Industriais",
+        "credits": 4,
+        "syllabus": "Resolução de problemas. Fundamentos lógico matemáticos. Lógica proposicional e Lógica de primeira ordem. Representação do conhecimento. Mecanismos de inferência. Aprendizagem. Linguagens para implementação. Inteligência computacional. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "MC346"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA074",
+        "name": "Introdução às Redes de Computadores",
+        "credits": 4,
+        "syllabus": "Introdução. Modelos de Referência: estrutura em camadas, conceitos de protocolos e serviços. Interconexão de redes de computadores. Redes Locais. Redes Públicas. Rede Internet: Protocolos e Serviços. Redes de Alto Desempenho. Gerenciamento de Redes. Redes na Automação Industrial.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ],
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA080",
+            "EG803"
+        ]
+    },
+    {
+        "code": "EA075",
+        "name": "Introdução ao Projeto de Sistemas Embarcados",
+        "credits": 4,
+        "syllabus": "Introdução. Interligação entre módulos. Ligação com o barramento interno. Memória. Organização da memória. Microprocessador. Coprocessadores e controladores. Entrada/Saída. Periféricos.",
+        "reqs": [
+            [
+                {
+                    "code": "EA869"
+                }
+            ],
+            [
+                {
+                    "code": "MC404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA071",
+            "EA071",
+            "EA076",
+            "EG432",
+            "EG841",
+            "EG842"
+        ]
+    },
+    {
+        "code": "EA076",
+        "name": "Laboratório de Sistemas Embarcados",
+        "credits": 2,
+        "syllabus": "Aplicações de microcontroladores em instrumentação e controle de tempo real. Aspectos práticos de programação de microcontroladores.",
+        "reqs": [
+            [
+                {
+                    "code": "EA075"
+                },
+                {
+                    "code": "EA773"
+                },
+                {
+                    "code": "EA871"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA080",
+        "name": "Laboratório de Redes de Computadores",
+        "credits": 2,
+        "syllabus": "Atividades práticas envolvendo a operação, configuração e gerenciamento de redes de computadores.",
+        "reqs": [
+            [
+                {
+                    "code": "EA074"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA082",
+        "name": "Programação de Sistema Tempo Real",
+        "credits": 4,
+        "syllabus": "Características básicas de sistemas tempo real; programação concorrente; exclusão mútua; semáforos; monitores; núcleo de tempo real; troca de mensagens; projeto e implementação de software distribuído para tempo real.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ],
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA085",
+        "name": "Controle Robusto: Fundamentos",
+        "credits": 4,
+        "syllabus": "Introdução. Breve revisão de álgebra linear e de controle por realimentação. Normas de sinais e sistemas. Estabilidade interna. Critérios de desempenho. Incerteza e Robustez. Transformações fracionais lineares. Modelagem da malha. Estrutura do compensador. Análise e síntese. Parametrização de Youla. Controle H2 e controle H∞.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA086",
+        "name": "Controle Automático Multivariável",
+        "credits": 4,
+        "syllabus": "Introdução. Breve revisão de projeto de controle monovariável. Polos, zeros e estabilidade de sistemas multivariáveis. Ganhos principais. Lugares característicos. O procedimento de recuperação. O filtro Kalman e o regulador LQG. Identidade de Kalman. Projeto LQG/LTR. Modelagem da malha. Aspectos numéricos e computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA087",
+        "name": "Controle Adaptativo Robusto: Princípios",
+        "credits": 4,
+        "syllabus": "Passos no projeto de um sistema de controle. Controle adaptativo e controle robusto. Ordenação de ganhos. Controle adaptativo direto e indireto. Controle adaptativo por alocação de polos. Modelagem de sistemas e estimação de parâmetro em tempo real. Identificadores de parâmetros e observadores adaptativos. Reguladores auto ajustáveis determinísticos, estocásticos e preditivos. Controle adaptativo por modelo de referência.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA090",
+        "name": "Introdução a Sistemas Embarcados",
+        "credits": 6,
+        "syllabus": "Linguagem para programação de microcontroladores. Estruturas de dados elementares. Entrada e saída paralela, serial e analógica. Varredura e interrupção. Temporizadores. Conversão A/D e D/A. Sensores e atuadores. Introcução a projetos de processadores dedicados. Linguagem de descrição de hardware.",
+        "reqs": [
+            [
+                {
+                    "code": "EA773"
+                }
+            ],
+            [
+                {
+                    "code": "EA869"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA091"
+        ]
+    },
+    {
+        "code": "EA091",
+        "name": "Laboratório de Projetos de Sistemas Embarcados",
+        "credits": 4,
+        "syllabus": "Metodologia de Projeto. Especificação, desenvolvimento e implementação de projetos de sistemas embarcados. Protocolos de comunicação. Revisão de circuitos eletrônicos para interface com atuadores e sensores. Concorrência entre tarefas. Expansão de memória. Princípios de SO de tempo real. ",
+        "reqs": [
+            [
+                {
+                    "code": "EA090"
+                }
+            ],
+            [
+                {
+                    "code": "EE530"
+                },
+                {
+                    "code": "EE532"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA097",
+        "name": "Técnicas Experimentais em Engenharia Biomédica",
+        "credits": 4,
+        "syllabus": "Medição de potenciais neuroelétricos e estudo de propriedades do potencial de ação. Atividade elétrica e mecânica do músculo esquelético. Eletromiograma. Eletrocardiograma. Propriedades elétricas e contráteis do músculo cardíaco. Resposta a drogas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA997"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA098",
+        "name": "Tópicos em Engenharia de Computação",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia de Computação. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA099",
+        "name": "Tópicos em Engenharia de Computação",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: Tendências, desenvolvimento e técnicas modernas em Engenharia de Computação. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA201",
+        "name": "Sistemas Embarcados: Teoria e Prática",
+        "credits": 6,
+        "syllabus": "Introdução. Interligação entre módulos. Ligação com o barramento interno. Memória. Organização da memória. Microprocessador. Coprocessadores e controladores. Entrada/Saída. Periféricos. Aplicações de microcontroladores em instrumentação e controle de tempo real. Aspectos práticos de programação de microcontroladores.",
+        "reqs": [
+            [
+                {
+                    "code": "EA773"
+                },
+                {
+                    "code": "EA869"
+                },
+                {
+                    "code": "EA871"
+                },
+                {
+                    "code": "EE531"
+                }
+            ],
+            [
+                {
+                    "code": "EA773"
+                },
+                {
+                    "code": "EA871"
+                },
+                {
+                    "code": "EE534"
+                },
+                {
+                    "code": "MC404"
+                }
+            ],
+            [
+                {
+                    "code": "EA773"
+                },
+                {
+                    "code": "EA871"
+                },
+                {
+                    "code": "EE531"
+                },
+                {
+                    "code": "MC404"
+                }
+            ],
+            [
+                {
+                    "code": "EA773"
+                },
+                {
+                    "code": "EA869"
+                },
+                {
+                    "code": "EA871"
+                },
+                {
+                    "code": "EE534"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA202",
+        "name": "Engenharia de Software: Teoria e Prática",
+        "credits": 6,
+        "syllabus": "Software e engenharia de software. Análise de sistemas computacionais. Análise de requisitos de software. Metodologias de análise de requisitos. Projeto de software: projeto preliminar e projeto detalhado. Metodologias de projeto de software. O paradigma da Orientação a Objetos. Projeto e desenvolvimento de sistemas complexos de software.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ],
+            [
+                {
+                    "code": "MC202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA513",
+        "name": "Circuitos Elétricos",
+        "credits": 4,
+        "syllabus": "Elementos e Leis de Circuitos. Equacionamento e Soluções de Circuitos por métodos Algébricos e Matriciais. Equacionamento de Circuitos Dinâmicos. Circuitos Monofásicos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA611",
+            "EA616",
+            "EA619",
+            "EA997",
+            "EE103",
+            "EE521",
+            "EE521",
+            "EE530",
+            "EE532",
+            "EE938",
+            "EG938",
+            "ES926",
+            "ET616"
+        ]
+    },
+    {
+        "code": "EA611",
+        "name": "Circuitos II",
+        "credits": 4,
+        "syllabus": "Transformada de Laplace. Teoremas de Reciprocidade e de Miller, Dualidade; Estruturas de Dois Pares de Terminais. Circuitos Trifásicos, Representação de Sistemas de Energia Elétrica. Componentes Simétricos.",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ET520",
+            "ET520",
+            "ET521",
+            "ET521"
+        ]
+    },
+    {
+        "code": "EA614",
+        "name": "Análise de Sinais",
+        "credits": 4,
+        "syllabus": "Sinais contínuos e discretos. Sistemas lineares e invariantes no tempo. Análise de Fourier de sinais contínuos. Análise de Fourier de sinais discretos. Filtragem através de sistemas lineares e invariantes no tempo.  Amostragem de sinais. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE881",
+            "EG409",
+            "EG622",
+            "EG663",
+            "EG912",
+            "EG940",
+            "EG950",
+            "EG974"
+        ]
+    },
+    {
+        "code": "EA616",
+        "name": "Análise Linear de Sistemas",
+        "credits": 4,
+        "syllabus": "Caracterização de sistemas lineares. Modelamento de processos dinâmicos contínuos e discretos no tempo. Transformada de Laplace e Transformada Z. Solução de Equações diferenciais lineares. Solução de equações a diferenças lineares. Estabilidade. Função de transferência. Resposta em frequência de sistemas contínuos e discretos no tempo. Representação de estado de sistemas contínuos e discretos no tempo. Introdução ao controle por realimentação.",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                },
+                {
+                    "code": "EE400"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA721",
+            "EA722",
+            "EG402",
+            "EG950",
+            "EM050"
+        ]
+    },
+    {
+        "code": "EA619",
+        "name": "Laboratório de Análise Linear",
+        "credits": 2,
+        "syllabus": "Experimentos utilizando ferramentas computacionais especializadas: modelagem e simulação de sistemas lineares e não lineares. Linearização de sistemas. Análise da resposta temporal e resposta em frequência. Identificação de parâmetros. Experimentos utilizando processos em escala reduzida e equipamentos de controle e aquisição de dados disponíveis no laboratório: Identificação de sistemas. Análise da resposta temporal e resposta em frequência. Discretização de sistemas. Controle por realimentação.",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                },
+                {
+                    "code": "EE400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA722"
+        ]
+    },
+    {
+        "code": "EA721",
+        "name": "Princípios de Controle e Servomecanismo",
+        "credits": 4,
+        "syllabus": "Propriedades e conceitos básicos do controle de sistemas dinâmicos em malha fechada. Projeto de controladores utilizando lugar das raízes. Projeto de controladores utilizando resposta em frequência. Projeto de controladores utilizando representação de estados.",
+        "reqs": [
+            [
+                {
+                    "code": "EA616"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA030",
+            "EA085",
+            "EA086",
+            "EA087",
+            "EA826",
+            "EA932",
+            "EA935",
+            "EE901",
+            "EG085",
+            "EG400",
+            "EG403",
+            "EG404",
+            "EG405",
+            "EG433",
+            "EG434",
+            "EG436",
+            "EG444",
+            "EG451",
+            "EG456",
+            "EG503",
+            "EG514",
+            "EG515",
+            "EG538",
+            "EG539",
+            "EG546",
+            "EG578",
+            "EG625",
+            "EG821",
+            "EG888"
+        ]
+    },
+    {
+        "code": "EA722",
+        "name": "Laboratório de Controle e Servomecanismo",
+        "credits": 2,
+        "syllabus": "Experimentos utilizando processos em escala reduzida e equipamentos de controle e aquisição de dados disponíveis no laboratório: propriedades do controle por realimentação. Projeto de controladores PID. Projeto de controladores utilizando lugar das raízes e resposta em frequência. Projeto de controladores utilizando representação de estados. Projeto de controladores utilizando alocação de polos.",
+        "reqs": [
+            [
+                {
+                    "code": "EA616"
+                },
+                {
+                    "code": "EA619"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA772",
+        "name": "Circuitos Lógicos",
+        "credits": 4,
+        "syllabus": "Conceitos lógicos. Circuitos básicos. Minimização de funções Booleanas. Sistemas de numeração. Aritmética binária. Códigos. Circuitos a contato. Síntese de circuitos combinacionais. Circuitos de memória. Circuitos sequenciais. Projeto de circuitos sequenciais. Considerações sobre a velocidade de operação dos circuitos digitais.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqBy": [
+            "EA060",
+            "EA773",
+            "EA869",
+            "MC613",
+            "MC732"
+        ]
+    },
+    {
+        "code": "EA773",
+        "name": "Laboratório de Circuitos Lógicos",
+        "credits": 4,
+        "syllabus": "Circuitos integrados fundamentais. Elementos lógicos com memória. Contadores digitais. Famílias lógicas, sistemas de numeração. Operações aritméticas: soma, subtração, multiplicação, divisão. Unidade lógica e aritmética. Memória ROM. Aplicações.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EA772"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA076",
+            "EA090",
+            "EA201",
+            "EA201",
+            "EA201",
+            "EA201",
+            "EG808",
+            "EG809"
+        ]
+    },
+    {
+        "code": "EA826",
+        "name": "Sistemas de Controle I",
+        "credits": 4,
+        "syllabus": "Introdução ao controle de sistemas multivariáveis. Teoria de matrizes e álgebra linear. Representação de sistemas através de equações dinâmicas: solução geral e operações algébricas com sistemas. Análise de sistemas descritos por equações dinâmicas: modos próprios, controlabilidade, observabilidade e estabilizabilidade. Redução de ordem. Projeto de controladores utilizando realimentação de estados. Projeto de observadores de estados. Projeto de controladores utilizando realimentação de saídas. Controle ótimo linear-quadrático. Introdução ao controle ótimo H2, H∞.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA955"
+        ]
+    },
+    {
+        "code": "EA869",
+        "name": "Introdução a Sistemas de Computação Digital",
+        "credits": 4,
+        "syllabus": "Computabilidade. Complexidade. Representação numérica e não-numérica. Arquitetura de computadores: ULA, unidade de controle, memórias, entrada/ saída, barramentos. Ciclo de instrução. Pipeline. Subrotinas. INterrupções. Linguagem e programação em Assembly. Noções de montagem, ligação, carregamento e software de sistema.",
+        "reqs": [
+            [
+                {
+                    "code": "EA772"
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA030",
+            "EA075",
+            "EA090",
+            "EA201",
+            "EA201",
+            "EA871",
+            "EA876",
+            "EA877",
+            "EA879",
+            "EA935",
+            "MC504"
+        ]
+    },
+    {
+        "code": "EA871",
+        "name": "Laboratório de Programação Básica de Sistemas Digitais",
+        "credits": 4,
+        "syllabus": "Programação em linguagem Assembly. Instruções de máquina. Diretivas do montador. Depuradores. Interfaces de entrada/saída. Programação de interface serial. Comunicação entre computadores. Programação de interface paralela. Interrupções.",
+        "reqs": [
+            [
+                {
+                    "code": "EA869"
+                }
+            ],
+            [
+                {
+                    "code": "MC404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA076",
+            "EA201",
+            "EA201",
+            "EA201",
+            "EA201"
+        ]
+    },
+    {
+        "code": "EA872",
+        "name": "Laboratório de Programação de Software Básico",
+        "credits": 2,
+        "syllabus": "Experiências sobre montadores,  carregadores, compiladores e sistemas operacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA876",
+        "name": "Introdução a Software de Sistema",
+        "credits": 4,
+        "syllabus": "Montadores. Carregadores. Compiladores. Sistemas Operacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EA869"
+                }
+            ],
+            [
+                {
+                    "code": "MC404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA071",
+            "EA072",
+            "EA074",
+            "EA082",
+            "EA202",
+            "EA872",
+            "EA960",
+            "EA962",
+            "EA976",
+            "EA979",
+            "EG811",
+            "EG812",
+            "EG844",
+            "EG847",
+            "MC714"
+        ]
+    },
+    {
+        "code": "EA877",
+        "name": "Micro e Minicomputadores: Software",
+        "credits": 4,
+        "syllabus": "Introdução. Linguagem Assembly. Montadores. Linguagem Macro. Processador de Macro. Carregadores. Compiladores. Sistemas Operacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EA869"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA071",
+            "EA074",
+            "EA082",
+            "EA202",
+            "EA872",
+            "EA960",
+            "EA962",
+            "EA976",
+            "EA979"
+        ]
+    },
+    {
+        "code": "EA879",
+        "name": "Introdução a Software Básico",
+        "credits": 4,
+        "syllabus": "Revisão sobre linguagem assembly, linguagem C e montadores. Estruturas de dados. Compiladores. Sistemas Operacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EA869"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA074",
+            "EA082",
+            "EA202",
+            "EA872",
+            "EA960",
+            "EA962",
+            "EA976",
+            "EA979",
+            "EG811",
+            "EG812",
+            "EG844",
+            "EG847"
+        ]
+    },
+    {
+        "code": "EA900",
+        "name": "Ciência, Tecnologia e Engenharia",
+        "credits": 2,
+        "syllabus": "Evolução técnica e histórica do homem. Influência da tecnologia no desenvolvimento econômico: passado e presente. A revolução industrial, sua tecnologia, a presença da engenharia. Necessidades tecnológicas do capitalismo. Ciência como meio de produção. Efeitos da tecnologia sobre o trabalhador. Dependência econômica e tecnológica. A problemática dos países subdesenvolvidos. Efeitos da importação de tecnologia. O engenheiro: funções técnica e social.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA932",
+        "name": "Sistemas de Controle II",
+        "credits": 4,
+        "syllabus": "Sistemas não lineares: conceitos básicos, comportamento estacionário, plano de fase, funções descritivas. Teoria de processos estocásticos: conceitos básicos, sistemas dinâmicos, filtros de Kalman, Princípio da separação. Princípios de controle robusto. Princípios de controle adaptativo.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA935",
+        "name": "Processamento de Sinais e Controle Digital",
+        "credits": 4,
+        "syllabus": "Introdução ao controle digital. Breve revisão de princípios de controle e de análise de sinais e de sistemas discretos. Sistemas amostrados. Equivalentes discretos. Projeto no espaço de frequências. Processamento de sinais no espaço de estado. Projeto no espaço de estado. Modelos de perturbações. Identificação. Controle ótimo linear quadrático e filtro de Kalman discretos. Efeitos de quantização. Seleção de taxa de amostragem.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                },
+                {
+                    "code": "EA869"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA954",
+        "name": "Otimização de Sistemas",
+        "credits": 4,
+        "syllabus": "Introdução à Pesquisa Operacional. Programação Linear. Fluxo em Redes. Programação Linear Inteira. Programação Não Linear.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                }
+            ],
+            [
+                {
+                    "code": "MC102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG411",
+            "EG443"
+        ]
+    },
+    {
+        "code": "EA955",
+        "name": "Análise Dinâmica e Controle de Sistemas Econômicos",
+        "credits": 4,
+        "syllabus": "Modelos dinâmicos em economia. Formulação por variáveis de estado. Sistemas dinâmicos bilineares. Controlabilidade, observabilidade e estabilidade. Modelo de economia aberta. Análise da estabilidade de modelos de ajustamento dinâmico. Modelo de desequilíbrio monetário. Estabilização e controle de sistemas econômicos dinâmicos determinísticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA826"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA960",
+        "name": "Organização de Computadores",
+        "credits": 4,
+        "syllabus": "Introdução à organização de computadores. Classificação. Sistemas de memória hierárquica. Subsistemas de entrada/saída. Processadores vetoriais. Processadores matriciais. Multiprocessadores. Outras arquiteturas.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ],
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG864"
+        ]
+    },
+    {
+        "code": "EA962",
+        "name": "Laboratório de Sistemas Computacionais",
+        "credits": 2,
+        "syllabus": "Projeto e desenvolvimento de sistemas computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA975",
+        "name": "Laboratório de Engenharia de Software",
+        "credits": 2,
+        "syllabus": "Projeto e desenvolvimento de sistemas complexos de software.",
+        "reqs": [
+            [
+                {
+                    "code": "EA976"
+                }
+            ],
+            [
+                {
+                    "code": "MC426"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA976",
+        "name": "Engenharia de Software",
+        "credits": 4,
+        "syllabus": "Software e engenharia de software. Análise de sistemas computacionais. Análise de requisitos de software. Metodologias de análise de requisitos. Projeto de software: projeto preliminar e projeto detalhado. Metodologias de projeto de software. O paradigma da Orientação a Objetos.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ],
+            [
+                {
+                    "code": "MC202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA975"
+        ]
+    },
+    {
+        "code": "EA979",
+        "name": "Introdução à Computação Gráfica e ao Processamento de Imagem",
+        "credits": 4,
+        "syllabus": "Dispositivos de aquisição e exibição de imagens, arquitetura de sistemas gráficos interativos, transformações geométricas, transformação de visualização, calibração de câmeras, modelos de iluminação e tonalização, texturas, algoritmos de recorte, algoritmos de remoção de linhas/superfícies escondidas, algoritmos de rasterização, técnicas de antialiasing, representação de curvas e superfícies, operações aritméticas com imagem, técnicas de filtragem de imagem, algoritmos de realce, algoritmos de detecção de bordas, modelos de cor, transformação entre modelos de cor, algoritmos de quantização.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA877"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ],
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA990",
+        "name": "Tópicos em Engenharia de Computação",
+        "credits": 2,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia de Computação. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: Pré-requisito será definido por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA991",
+        "name": "Tópicos em Engenharia de Computação",
+        "credits": 2,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia de Computação. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: Pré-requisito será definido por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA997",
+        "name": "Introdução à Engenharia Biomédica",
+        "credits": 4,
+        "syllabus": "O que é a Engenharia Biomédica e suas subdivisões. Bioengenharia. Engenharia Médica. Engenharia Clínica e Hospitalar. Engenharia de Reabilitação. Visitas e demonstração práticas relacionadas a cada uma das grandes subáreas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA513"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA097",
+            "EG787",
+            "EG880"
+        ]
+    },
+    {
+        "code": "EA998",
+        "name": "Tópicos em Engenharia de Computação",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: Tendências, desenvolvimentos e técnicas modernas em Engenharia de Computação. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EA999",
+        "name": "Tópicos em Engenharia de Computação",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis. Tendências, desenvolvimento e técnicas modernas em Engenharia de Computação. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

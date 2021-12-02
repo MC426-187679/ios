@@ -1,0 +1,759 @@
+[
+    {
+        "code": "BH125",
+        "name": "Citologia e Histologia",
+        "credits": 4,
+        "syllabus": "Noções básicas sobre citologia e histologia geral e especial, compreendendo o estudo histológico dos principais órgãos e sistemas.",
+        "reqBy": [
+            "BI214",
+            "BM215",
+            "BP223",
+            "MD231"
+        ]
+    },
+    {
+        "code": "BH127",
+        "name": "Embriologia",
+        "credits": 2,
+        "syllabus": "Embriologia geral: introdução à embriologia, fecundação, implantação, gastrulação, neurulação, dobramentos e fechamento do corpo do embrião, anexos fetais, período fetal e malformações congênitas. Embriologia dos sistemas: digestivo, respiratório, urinário, cardiovascular, cabeça e pescoço."
+    },
+    {
+        "code": "BH131",
+        "name": "Biologia Tecidual",
+        "credits": 2,
+        "syllabus": "Noções básicas sobre Biologia Tecidual geral e dos segmentos da cabeça e pescoço envolvidos nos processos fono-articulatórios."
+    },
+    {
+        "code": "BH132",
+        "name": "Embriologia Humana",
+        "credits": 2,
+        "syllabus": "Embriologia geral: introdução à embriologia e aos defeitos congênitos, gametogênese, fecundação, fenômenos pré-implantacionais, implantação, gastrulação, neurulação, dobramentos e fechamento do corpo do embrião, anexos fetais e período fetal. Embriologia da cabeça, face, cavidade bucal, orelha, pescoço e aparelho respiratório."
+    },
+    {
+        "code": "BH250",
+        "name": "Biologia Tecidual do Corpo Humano Aplicada à Fisioterapia",
+        "credits": 4,
+        "syllabus": "Constituição e arranjo dos tecidos biológicos e as suas formas de interação na organização funcional dos órgãos e sistemas do corpo humano. Plasticidade, hiperplasia, hipertrofia e regeneração dos tecidos nos mecanismos funcionais dos órgãos e sistemas do corpo humano.",
+        "reqBy": [
+            "BH550",
+            "BS260"
+        ]
+    },
+    {
+        "code": "BH280",
+        "name": "Histologia Geral",
+        "credits": 4,
+        "syllabus": "Estudo histológico e histofisiológico básico dos tecidos (epitelial, conjuntivo, muscular, nervoso, linfóide e do sangue).",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BH381",
+            "BH382",
+            "BH582",
+            "MD231"
+        ]
+    },
+    {
+        "code": "BH282",
+        "name": "Fundamentos da Biologia Tecidual",
+        "credits": 4,
+        "syllabus": "Identificação e compreensão da diversidade morfofuncional das células. Biologia das associações e interações celulares para a composição dos diversos tecidos animais. Biologia do tecido epitelial na delimitação de ambientes e secreção celular. Biologia da matriz extracelular e sua organização na variedade dos tecidos conjuntivos. Biologia e integração das células dos tecidos conjuntivos. Biologia das diversidades e organizações morfofuncionais das células musculares. Biologia do tecido nervoso - citofisiologia dos neurônios e das células da glia. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BH382",
+            "BH420",
+            "BH484",
+            "BH620",
+            "BH694"
+        ]
+    },
+    {
+        "code": "BH381",
+        "name": "Histologia Especial",
+        "credits": 4,
+        "syllabus": "Estudo morfológico e histofisiológico dos órgãos e sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "BH280",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD231"
+        ]
+    },
+    {
+        "code": "BH382",
+        "name": "Biologia Tecidual Aplicada a Vertebrados",
+        "credits": 4,
+        "syllabus": "Biologia tecidual aplicada na correlação morfofuncional em órgãos e, sistemas e sua pluralidade nos vertebrados.",
+        "reqs": [
+            [
+                {
+                    "code": "BH280",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "BH282",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH420",
+        "name": "Embriologia Comparada",
+        "credits": 2,
+        "syllabus": "Estudo da embriologia comparada, com ênfase nos processos comuns ao desenvolvimento animal. Os tópicos incluem gametogênese, fecundação e embriogênese inicial de organismos-modelo invertebrados (ouriço-do-mar e drosófila) e vertebrados (peixe-zebra, Xenopus, galinha e camundongo), bem como o estudo do desenvolvimento embrionário humano. As aulas-práticas consistirão na observação de lâminas de embriões de galinha em diferentes estágios do desenvolvimento. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BH282"
+                }
+            ],
+            [
+                {
+                    "code": "BH482"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BH520",
+            "BH684",
+            "BH780"
+        ]
+    },
+    {
+        "code": "BH482",
+        "name": "Fundamentos da Biologia Tecidual",
+        "credits": 4,
+        "syllabus": "Identificação e compreensão da diversidade morfofuncional das células. Biologia das associações e interações celulares para a composição dos diversos tecidos animais. Biologia do tecido epitelial na delimitação de ambientes e secreção celular. Biologia da matriz celular e sua organização na variedade dos tecidos conjuntivos. Biologia e integração das células dos tecidos conjuntivos. Biologia das diversidades e organizações morfofuncionais das células musculares. Biologia do tecido nervoso - citofisiologia dos neurônios e das células da glia. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BH420",
+            "BH484",
+            "BH582",
+            "BH620",
+            "BH694"
+        ]
+    },
+    {
+        "code": "BH484",
+        "name": "Biologia do Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Estudo dos processos do desenvolvimento, incluindo aspectos morfológicos, bem como os mecanismos celulares e moleculares universais que atuam na Embriogênese e na Diferenciação Celular. Estes processos serão abordados no contexto do desenvolvimento de diferentes organismos vertebrados e invertebrados, de forma a promover uma ampla compreensão dos eventos que ocorrem no desenvolvimento animal, da fecundação à formação do organismo completo.",
+        "reqs": [
+            [
+                {
+                    "code": "BH282"
+                }
+            ],
+            [
+                {
+                    "code": "BH482"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH500",
+        "name": "Iniciação Científica em Histologia I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Histologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH501",
+        "name": "Iniciação Científica em Embriologia I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Embriologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH502",
+        "name": "Iniciação Científica em Biologia Tecidual I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia Tecidual. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH511",
+        "name": "Iniciação Científica em Biologia do Desenvolvimento I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia do Desenvolvimento. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH515",
+        "name": "Citotécnicas e Histotécnicas em Ciências Farmacêuticas",
+        "credits": 4,
+        "syllabus": "Introdução às técnicas de histoprocessamento e histotécnicas de materiais de origem animal e vegetal. Fundamentos da Citoquímica. Cultivo celular primário e de linhagens estabelecidas de origem animal para fins de bioensaios. Princípios de microscopia de luz e processamento de imagens.",
+        "reqs": [
+            [
+                {
+                    "code": "BS215",
+                    "partial": true
+                },
+                {
+                    "code": "BT315",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH520",
+        "name": "Biologia do Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Princípios celulares e moleculares do desenvolvimento. Controle genético e molecular da diferenciação celular. Estabelecimento dos eixos corporais. Organogênese e desenvolvimento de estruturas especializadas. Evolução e Desenvolvimento. Questões éticas e de biossegurança relacionadas à Biologia do Desenvolvimento. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BG380"
+                },
+                {
+                    "code": "BH420"
+                }
+            ],
+            [
+                {
+                    "code": "BG520"
+                },
+                {
+                    "code": "BH620"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BH684",
+            "BH694"
+        ]
+    },
+    {
+        "code": "BH525",
+        "name": "Fundamentos e Práticas de Microscopia Aplicados à Biologia",
+        "credits": 4,
+        "syllabus": "Fundamentos da microscopia óptica e eletrônica aplicados à biologia. Noções básicas de preparo de amostra biológica, instrumentação, análise de resultados e quantificação. Apresentação do estado da arte no desenvolvimento tecnológico das sondas moleculares na fronteira da biologia tecidual e molecular aplicados à microscopia correlativa."
+    },
+    {
+        "code": "BH526",
+        "name": "Métodos Didáticos e Instrumentais em Biologia Tecidual",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de estratégias e métodos didáticos para o ensino de fudamentos de biologia tecidual (tecidos epitelial, conjuntivo, muscular e neural) de mamíferos, em cursos das áreas biológica e biomédica. Desenvolvimento de projetos com processamento e análise de materiais biológicos em microscopia fotônica e eletrônica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH530",
+        "name": "Análise Crítica de Artigos Científicos",
+        "credits": 2,
+        "syllabus": "Estudo de artigos de alta relevância para as linhas de pesquisa em Biologia Celular e do Desenvolvimento, visando conferir ao aluno métodos de leitura crítica e formulação de hipóteses baseados nos resultados e conclusões sendo apresentadas. Além da análise do conteúdo científico, a disciplina irá abordar aspectos visuais e estéticos dos artigos. \"Não ensine seu filho a ler, ensine-o a criticar o que estiver lendo\" - frase modificada de George Carlin."
+    },
+    {
+        "code": "BH550",
+        "name": "Biologia do Envelhecimento Humano",
+        "credits": 4,
+        "syllabus": "Estudo dos aspectos biológicos do envelhecimento, incluindo alterações moleculares, celulares, fisiológicas e imunológicas do corpo humano. Organismos modelo no estudo do envelhecimento. Teoria do estresse oxidativo e envelhecimento. Vias de sinalização molecular envolvidas no envelhecimento. Papel dos telômeros, células-tronco e das mitocôndrias no envelhecimento. Doenças ligadas ao envelhecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "BH250"
+                },
+                {
+                    "code": "BS150"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH555",
+        "name": "Biologia do Envelhecimento Animal",
+        "credits": 2,
+        "syllabus": "Histórico, Definições e Epidemiologia. Aspectos Evolutivos. Doenças Associadas ao Envelhecimento. Envelhecimento em Modelos Animais. Genética do Envelhecimento. Ontogenia e Envelhecimento. Nutrição, Metabolismo e Envelhecimento. Mitocôndria, Balanço Redox e Envelhecimento. Controle Neuroendócrino do Envelhecimento. Controle da Proteostase. Mecanismos de Reparo e Resposta ao Estresse. Ciclo Celular e Senescência. Células-Tronco, Regeneração e Reparo Tecidual. Estratégias Terapêuticas para o Envelhecimento e para suas Doenças Associadas.",
+        "reqs": [
+            [
+                {
+                    "code": "BB381"
+                },
+                {
+                    "code": "BC282"
+                },
+                {
+                    "code": "BG380"
+                }
+            ],
+            [
+                {
+                    "code": "BB381"
+                },
+                {
+                    "code": "BC283"
+                },
+                {
+                    "code": "BG520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH582",
+        "name": "Biologia Tecidual Aplicada a Vertebrados",
+        "credits": 4,
+        "syllabus": "Biologia tecidual aplicada na correlação morfofuncional em órgãos e, sistemas e sua pluralidade nos vertebrados.",
+        "reqs": [
+            [
+                {
+                    "code": "BH280",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "BH482",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH586",
+        "name": "Células-Tronco Embrionárias, as Células que Fazem a Diferença",
+        "credits": 2,
+        "syllabus": "Introdução à biologia das células-tronco embrionárias, explorando o seu estado pluripotente e as suas semelhanças e diferenças com os diferentes tipos celulares do embrião em desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH600",
+        "name": "Iniciação Científica em Histologia II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Histologia. Teorias e hipóteses levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH601",
+        "name": "Iniciação Científica em Embriologia II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia do desenvolvimento. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH602",
+        "name": "Iniciação Científica em Biologia Tecidual II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia Tecidual. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH611",
+        "name": "Iniciação Científica em Biologia do Desenvolvimento I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia do Desenvolvimento. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH620",
+        "name": "Embriologia Comparada",
+        "credits": 2,
+        "syllabus": "Estudo da embriologia comparada, com ênfase nos processos comuns ao desenvolvimento animal. Os tópicos incluem gametogênese, fecundação e embriogênese inicial de organismos-modelo invertebrados (ouriço-do-mar e drosófila) e vertebrados (peixe-zebra, Xenopus, galinha e camundongo), bem como o estudo do desenvolvimento embrionário humano. As aulas-práticas consistirão na observação de lâminas de embriões de galinha em diferentes estágios do desenvolvimento. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BH282"
+                }
+            ],
+            [
+                {
+                    "code": "BH482"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BH520",
+            "BH780"
+        ]
+    },
+    {
+        "code": "BH684",
+        "name": "Embriologia Humana",
+        "credits": 4,
+        "syllabus": "Aspectos morfológicos, celulares, moleculares e funcionais da biologia do desenvolvimento humano. Embriologia geral e dos sistemas. Métodos de estudo e terapêuticos em medicina fetal. Correlações do desenvolvimento humano com as malformações congênitas.",
+        "reqs": [
+            [
+                {
+                    "code": "BH420"
+                },
+                {
+                    "code": "BH520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH685",
+        "name": "Técnicas para Diferenciação de Tecidos a Partir de Células-Tronco Embrionárias",
+        "credits": 2,
+        "syllabus": "Técnicas morfológicas e moleulares para a determinação do estado de diferenciação e tipos celulares. Diferenciação de neurônios, células cardíacas, sangue e cartilagem a partir de células-tronco embrionárias murinas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH694",
+        "name": "Ensino de Biologia VI: Biologia Tecidual e do Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Biologia Tecidual e do Desenvolvimento. Abordagens e elaboração de diferentes metodologias para o ensino de Biologia tecidual e do Desenvolvimento. Articulação temática e integrada de temas contemporâneos para o ensino de biologia. Criação de conteúdos e formas de ensinar pautados na ideia de transversalidade no currículo.",
+        "reqs": [
+            [
+                {
+                    "code": "BH282"
+                },
+                {
+                    "code": "BH520"
+                }
+            ],
+            [
+                {
+                    "code": "BH482"
+                },
+                {
+                    "code": "BH780"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH700",
+        "name": "Estágio Supervisionado em Histologia e Embriologia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas nas áreas de pesquisa em Biologia Tecidual, Embriologia ou Biologia do Desenvolvimento do Departamento de Bioquímica e Biologia Tecidual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH702",
+        "name": "Estágio Supervisionado em Biologia Tecidual I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Histologia e Embriologia, área de Biologia Tecidual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH711",
+        "name": "Estágio Supervisionado em Embriologia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Histologia e Embriologia, área de Embriologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH712",
+        "name": "Estágio Supervisionado em Biologia do Desenvolvimento I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Histologia e Embriologia, área de Biologia do Desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH760",
+        "name": "Planejamento Estratégico e Gestão de Carreira na Área Biológica",
+        "credits": 3,
+        "syllabus": "Desenvolvimento de estratégias para o planejamento inicial e futura gestão da carreira profissional do graduando na área biológica. Mapeamento de motivadores, competências e talentos. Estrutura de currículos. Estratégias de marketing pessoal. Mapeamento do mercado de trabalho na área de graduação. Vivência de dinâmicas de grupo empregadas no recrutamento de recursos humanos. Estratégias para networking. Noções sobre gestão de conflitos, trabalho em equipe e sobre características do líder contemporâneo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH780",
+        "name": "Biologia do Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Princípios celulares e moleculares do desenvolvimento. Controle genético e molecular da diferenciação celular. Estabelecimento dos eixos corporais. Organogênese e desenvolvimento de estruturas especializadas. Evolução e Desenvolvimento.Questões éticas e de biossegurança relacionadas à Biologia do Desenvolvimento. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BG380"
+                },
+                {
+                    "code": "BH420"
+                }
+            ],
+            [
+                {
+                    "code": "BG520"
+                },
+                {
+                    "code": "BH620"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BH694"
+        ]
+    },
+    {
+        "code": "BH800",
+        "name": "Estágio Supervisionado em Histologia e Embriologia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas nas áreas de pesquisa em Biologia Tecidual, Embriologia ou Biologia do Desenvolvimento do Departamento de Bioquimica e Biologia Tecidual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH802",
+        "name": "Estágio Supervisionado em Biologia Tecidual II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Histologia e Embriologia, área de Biologia Tecidual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH811",
+        "name": "Estágio Supervisionado em Embriologia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de pesquisa em Embriologia, do Departamento de Histologia e Embriologia. ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BH812",
+        "name": "Estágio Supervisionado em Biologia do Desenvolvimento II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Histologia e Embriologia, na área de Biologia do Desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

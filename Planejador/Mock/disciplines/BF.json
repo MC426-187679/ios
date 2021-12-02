@@ -1,0 +1,373 @@
+[
+    {
+        "code": "BF082",
+        "name": "Fisiologia Humana",
+        "credits": 4,
+        "syllabus": "Estudo dos mecanismos de ação hormonal; das funções do sistema endócrino, de reprodução e desenvolvimento. Sistema digestivo e nutrição, regulação do metabolismo interno e da temperatura corpórea."
+    },
+    {
+        "code": "BF092",
+        "name": "O Corpo Humano",
+        "credits": 2,
+        "syllabus": "Estudo da estrutura e função do organismo humano. Inter-relação entre os sistemas nervoso, cardíaco, respiratório, renal, digestório e endócrino, proporcionando conhecimento dos processos básicos das relações do corpo humano em relação ao ambiente."
+    },
+    {
+        "code": "BF180",
+        "name": "Fisiologia Humana Geral",
+        "credits": 6,
+        "syllabus": "Estudo da fisiologia dos sistemas digestório, respiratório, cardiovascular, renal, endócrino e reprodutor, destacando-se os aspectos fundamentais da respiração, fonação, audição e fisiologia oral, correlacionando à lactação, à cronologia da erupção dentária, à mastigação, à articulação temporomandibular e à deglutição. Relação entre os diversos sistemas orgânicos e a fisiologia dos órgãos da fala e da audição.",
+        "reqBy": [
+            "FN400"
+        ]
+    },
+    {
+        "code": "BF223",
+        "name": "Fisiologia do Movimento",
+        "credits": 2,
+        "syllabus": "Estudo dos mecanismos neurofisiológicos relacionados à organização da função motora no homem. Os aspectos referentes às vias de transmissão periférica e ao aparelho locomotor são abordados conforme as necessidades do curso. São enfatizadas as questões relacionadas à produção de movimentos voluntários complexos e à aquisição de habilidades motoras. O curso será desenvolvido através de aulas teóricas e práticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AD116"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF284",
+        "name": "Fisiologia e Biofísica Humana Básica",
+        "credits": 7,
+        "syllabus": "Estudo do funcionamento do organismo humano. Fisiologia e biofísica dos sistemas neurovascular e neurovegetativo; sistema nervoso central; órgãos dos sentidos; sangue e líquidos corporais; sistema cardiovascular; aparelhos respiratório, digestivo e renal; temperatura e metabolismo, glândulas endócrinas e reprodução.",
+        "reqs": [
+            [
+                {
+                    "code": "BA133"
+                },
+                {
+                    "code": "BB123"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN322",
+            "EN421",
+            "EN470",
+            "MD362"
+        ]
+    },
+    {
+        "code": "BF310",
+        "name": "Fisiologia Humana I",
+        "credits": 3,
+        "syllabus": "Aquisição de conhecimentos gerais do funcionamento dos sistemas nervoso, neuromuscular e endócrino nas diversas condições ambientais a que são expostos os seres humanos, tais como, crescimento, maturação, variação de disponibilidade de alimento, atividade física, diversos estresses, etc.",
+        "reqs": [
+            [
+                {
+                    "code": "BA210"
+                },
+                {
+                    "code": "BB110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BF410",
+            "BF412"
+        ]
+    },
+    {
+        "code": "BF312",
+        "name": "Fisiologia Humana I",
+        "credits": 3,
+        "syllabus": "Aquisição de conhecimentos gerais do funcionamento dos sistemas nervoso, neuromuscular e endócrino nas diversas condições ambientais a que são expostos os seres humanos, tais como, crescimento, maturação, variação de disponibilidade de alimento, atividade física, diversos estresses, etc.",
+        "reqs": [
+            [
+                {
+                    "code": "BA210"
+                },
+                {
+                    "code": "BB110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BF412"
+        ]
+    },
+    {
+        "code": "BF381",
+        "name": "Biofísica e Fisiologia Humana I",
+        "credits": 4,
+        "syllabus": "Estudo do funcionamento dos sistemas nervoso, neuromuscular e endócrino em diferentes condições ambientais a que são expostos os seres humanos. Elaboração de relatórios referentes às atividades de laboratório para cada tema abordado na disciplina, sistema nervoso, neuromuscular e endócrino. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqBy": [
+            "BF481",
+            "BF583"
+        ]
+    },
+    {
+        "code": "BF410",
+        "name": "Fisiologia Humana II",
+        "credits": 3,
+        "syllabus": "Aquisição de conhecimentos gerais do funcionamento dos sistemas digestivo, cardiovascular, respiratório e renal nas diversas condições ambientais a que são expostos os seres humanos, tais como, atividade física e diferentes fatores estressantes.",
+        "reqs": [
+            [
+                {
+                    "code": "BF310",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EF512",
+            "MH209",
+            "MH602",
+            "MH607",
+            "MH905"
+        ]
+    },
+    {
+        "code": "BF412",
+        "name": "Fisiologia Humana II",
+        "credits": 3,
+        "syllabus": "Aquisição de conhecimentos gerais do funcionamento dos sistemas digestivo, cardiovascular, respiratório e renal nas diversas condições ambientais a que são expostos os seres humanos, tais como, atividade física e fatores estressantes.",
+        "reqs": [
+            [
+                {
+                    "code": "BF310"
+                }
+            ],
+            [
+                {
+                    "code": "BF312"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EF512"
+        ]
+    },
+    {
+        "code": "BF481",
+        "name": "Biofísica e Fisiologia Humana II",
+        "credits": 4,
+        "syllabus": "Estudo do funcionamento dos sistemas digestório, cardiovascular, respiratório e renal em diferentes condições ambientais a que são expostos os seres humanos. Elaboração de relatórios referentes às atividades de laboratório para cada tema abordado na disciplina, sistemas digestório, cardiovascular, respiratório e renal. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BF381"
+                }
+            ],
+            [
+                {
+                    "code": "BF483"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BF586"
+        ]
+    },
+    {
+        "code": "BF483",
+        "name": "Biofísica e Fisiologia Humana I",
+        "credits": 4,
+        "syllabus": "Estudo do funcionamento dos sistemas nervoso, neuromuscular e endócrino em diferentes condições ambientais a que são expostos os seres humanos. Elaboração de relatórios referentes às atividades de laboratório para cada tema abordado na disciplina, sistema nervoso, neuromuscular e endócrino. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqBy": [
+            "BF481",
+            "BF583"
+        ]
+    },
+    {
+        "code": "BF500",
+        "name": "Iniciação Científica em Fisiologia e Biofísica I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Fisiologia e Biofísica. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF501",
+        "name": "Iniciação Científica em Fisiologia Humana I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Fisiologia Humana. Teorias e hipóteses, levantamento de dados, execução de técnicas e protocolos, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF583",
+        "name": "Biofísica e Fisiologia Humana II",
+        "credits": 4,
+        "syllabus": "Estudo do funcionamento dos sistemas digestório, cardiovascular, respiratório e renal em diferentes condições ambientais a que são expostos os seres humanos. Elaboração de relatórios referentes às atividades de laboratório para cada tema abordado na disciplina, sistemas digestório, cardiovascular, respiratório e renal. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BF381"
+                }
+            ],
+            [
+                {
+                    "code": "BF483"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BF586"
+        ]
+    },
+    {
+        "code": "BF586",
+        "name": "Fisiologia Animal Comparada",
+        "credits": 4,
+        "syllabus": "Fisiologia dos sistemas: nervoso, locomotor, digestório, endócrino, reprodutor, cardiovascular, respiratório e renal em invertebrados e vertebrados.",
+        "reqs": [
+            [
+                {
+                    "code": "BF481"
+                }
+            ],
+            [
+                {
+                    "code": "BF583"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF587",
+        "name": "Neurociência",
+        "credits": 4,
+        "syllabus": "Processos biofísicos responsáveis pela aquisição e integração de informações, e ação do sistema nervoso. Sistemas sensoriais, motores e integração sensoriomotora. Mecanismos de aprendizagem e memória, sono e vigília. Bases neurais da emoção, linguagem, cognição e consciência."
+    },
+    {
+        "code": "BF590",
+        "name": "Fisiologia Humana do Desenvolvimento",
+        "credits": 3,
+        "syllabus": "Estudo dos aspectos da reprodução humana relacionados com diferenciação sexual, puberdade, anticoncepção e parto. Abordagem de temas sobre processos nutricionais e fisiologia endócrina do crescimento e desenvolvimento humano."
+    },
+    {
+        "code": "BF594",
+        "name": "Práticas em Fisiologia de Vertebrados",
+        "credits": 3,
+        "syllabus": "Estudo prático do funcionamento dos sistemas nervoso, endócrino, disgestório, cadiovascular, respiratório e renal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF600",
+        "name": "Iniciação Científica em Fisiologia e Biofísica II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Fisiologia e Biofísica. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF601",
+        "name": "Iniciação Científica em Fisiologia Humana II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Fisiologia Humana. Teorias e hipóteses, levantamento de dados, execução de técnicas e protocolos, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF694",
+        "name": "Ensino de Biologia IV: Fisiologia Humana",
+        "credits": 4,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Fisiologia Humana. Abordagem e elaboração de diferentes metodologias para o ensino de Fisiologia Humana. Articulação temática e integrada de temas contemporâneos para o ensino de biologia. Criação de conteúdos e formas de ensinar pautados na ideia de transversalidade no currículo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF700",
+        "name": "Estágio Supervisionado em Fisiologia e Biofísica I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Biologia Estrutural e Funcional, na área de Fisiologia e Biofísica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BF785",
+        "name": "Socorros Urgentes para Biólogos",
+        "credits": 3,
+        "syllabus": "Estuda os tipos mais comuns de primeiros socorros, enquanto não chega auxílio especializado, frente a situações de distúrbio da consciência, parada cardiorrespiratória, estado de choque, hemorragias, ferimentos e lacerações, afogamentos, intoxicações e lesões ósseas, articulares e tendiosas. Desenvolve ainda procedimentos para atenuar o sofrimento humano no local do acidente ou enquanto ocorre alguma doença súbita. Estabelece também limitações de seus procedimentos de acordo com os conhecimentos e treinamentos adquiridos."
+    },
+    {
+        "code": "BF800",
+        "name": "Estágio Supervisionado em Fisiologia e Biofísica II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de Fisiologia e Biofísica do Departamento de Biologia Estrutural e Funcional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,910 @@
+[
+    {
+        "code": "GE001",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 12,
+        "syllabus": "Treinamento para executar autonomamente projetos geológicos específicos técnicos ou científicos, procurando aplicar os conhecimentos adquiridos em disciplinas do curso, em escala de detalhe ou regional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE002",
+        "name": "Estágio Supervisionado I",
+        "credits": 4,
+        "syllabus": "Atividades de estágio que propiciem ao profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE003",
+        "name": "Estágio Supervisionado II",
+        "credits": 4,
+        "syllabus": "Atividades de estágio que propiciem ao profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE005",
+        "name": "Iniciação Científica I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica relacionada à pesquisa de Geologia. Teorias e hipóteses. Levantamentos de dados. Aplicação de técnicas de pesquisa. Análise de resultados. Elaboração de relatórios de pesquisa e outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA425",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE006",
+        "name": "Iniciação Científica II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica relacionada à pesquisa de Geologia. Teorias e hipóteses. Levantamentos de dados. Aplicação de técnicas de pesquisa. Análise de resultados. Elaboração de relatórios de pesquisa e outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA425",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE007",
+        "name": "Estágio Supervisionado",
+        "credits": 8,
+        "syllabus": "Atividades de estágio que propiciem ao profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional, de acordo com as Diretrizes Curriculares Nacionais para os cursos de graduação na área de Geologia. O estágio deve ser realizado junto a empresas credenciadas pela Coordenadoria de Graduação do Instituto de Geociências e pelo Serviço de Apoio ao Estudante (SAE) da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE100",
+        "name": "Estratégia e Gestão Organizacional",
+        "credits": 3,
+        "syllabus": "Discussão das teorias emergentes e de construção de um novo paradigma de gestão organizacional que suportam o debate atual sobre a reestruturação estratégica, cultura e mudança organizacional."
+    },
+    {
+        "code": "GE101",
+        "name": "Geoestatística",
+        "credits": 4,
+        "syllabus": "Conceito de variáveis espaciais (regionalizadas). Aplicação da geoestatística em geociências. Análise variográfica: modelos de anisotropia, estruturas imbricadas, efeito pepita e modelagem global de variogramas. Estimativa de recursos: krigagem simples, ordinária, com deriva. Modelo linear multivariado e cokrigagem."
+    },
+    {
+        "code": "GE102",
+        "name": "Análise Estatística de Dados Geológicos",
+        "credits": 4,
+        "syllabus": "Aplicação de métodos estatísticos univariantes e multivariantes a problemas geológicos, com distribuição aleatória e regionalizada. Estudos de variabilidade. Análise de regressão e correlação linear. Introdução à Geoestatística."
+    },
+    {
+        "code": "GE104",
+        "name": "Metamorfismo de Alto Grau e Evolução Crustal",
+        "credits": 4,
+        "syllabus": "Características do metamorfismo de alto grau: paragêneses mineralógicas, reações metamórficas e condições físico-químicas atuantes. Exemplos de terrenos típicos de alto grau e sua formação. O papel do metamorfismo na evolução crustal através de processos tectono-metamórficos, magmáticos e ultrametamorfismo."
+    },
+    {
+        "code": "GE106",
+        "name": "Evolução Metalogenética",
+        "credits": 3,
+        "syllabus": "Conceitos básicos em metalogênese. Evolução das teorias metalogenéticas. Metais através da história geológica. Contextos geológicos nas principais épocas e províncias metalogenéticas. Cartografia metalogenética. Metalogênese exploração mineral."
+    },
+    {
+        "code": "GE107",
+        "name": "Petrografia de Minérios",
+        "credits": 4,
+        "syllabus": "Prática de laboratório incluindo a observação das propriedades dos minerais de minérios à luz refletida e transmitida. Preparação de amostras. Identificação de fases e texturas minerais mais comuns. Estudo de paragêneses e condições de formação de minérios. Aplicação da petrografia de minérios em tecnologia mineral e ambiental."
+    },
+    {
+        "code": "GE108",
+        "name": "Geoquímica Ambiental",
+        "credits": 4,
+        "syllabus": "Objeto da geoquímica ambiental. Anomalia geoquímica, background natural e ação antrópica. Fontes de elementos tóxicos. Geoquímica de águas, solos e sedimentos. Elementos de biogeoquímica. Monitoramento ambiental e recuperação de áreas degradadas. Técnicas de amostragem."
+    },
+    {
+        "code": "GE109",
+        "name": "Inclusões Fluidas",
+        "credits": 2,
+        "syllabus": "Petrografia de inclusões fluidas: tipos e cronologias. Microtermometria, espectroscopia Raman e fundamentos teóricos de mudanças de fase no sistema C-O-H-N-S-sais. Interpretação dos dados microtermométricos: composição química, salinidade, densidade, pressão, temperatura e evolução de fluidos em ambientes geológicos. Aplicação das inclusões fluidas em modelos genéticos de mineralizações e na exploração mineral."
+    },
+    {
+        "code": "GE110",
+        "name": "Indústria dos Minerais Não Metálicos",
+        "credits": 3,
+        "syllabus": "Análise dos principais minerais não-metálicos. Ocorrência, extração, processamento e mercadologia. Organização industrial. Mercados nacional e internacional."
+    },
+    {
+        "code": "GE111",
+        "name": "Depósitos Lateríticos",
+        "credits": 4,
+        "syllabus": "Laterização e formação de perfis lateríticos. Depósitos minerais formados por laterização: Al, Fe, Mi, Mn, Au, fosfatos, outros: caracterização, gênese, distribuição no Brasil e no mundo, principais depósitos brasileiros."
+    },
+    {
+        "code": "GE112",
+        "name": "Geocronologia e Geologia Isotópica",
+        "credits": 4,
+        "syllabus": "Os métodos de datação radiométrica principais e aplicações da geologia isotópica em petrogênese, jazidas minerais e ciências ambientais."
+    },
+    {
+        "code": "GE113",
+        "name": "Engenharia Econômica de Recursos Minerais",
+        "credits": 3,
+        "syllabus": "Noções básicas sobre a indústria mineral. Métodos de avaliação econômica de jazidas minerais. Dinâmica de negócios na indústria mineral. Escolha da estratégia competitiva. Noções básicas sobre a atividade empreendedora e organização empresarial. Avaliação global de um projeto de mineração."
+    },
+    {
+        "code": "GE114",
+        "name": "Indústria dos Minerais Metálicos",
+        "credits": 3,
+        "syllabus": "Análise dos principais minerais metálicos. Ocorrência, extração, processamento e mercadologia. Organização industrial. Mercados nacional e internacional."
+    },
+    {
+        "code": "GE115",
+        "name": "Técnicas de Microanálise Eletrônica",
+        "credits": 4,
+        "syllabus": "Princípios básicos das técnicas de microanálise eletrônica e suas aplicações em geologia. Microscopia eletrônica de varredura, microssonda eletrônica e iônica. Preparação de amostras, práticas de laboratório e apresentação dos resultados."
+    },
+    {
+        "code": "GE116",
+        "name": "Política e Administração de Recursos Petrolíferos",
+        "credits": 3,
+        "syllabus": "Evolução da indústria de petróleo mundial. Política de petróleo no Brasil. Modalidades de acordos de exploração e produção de petróleo. Acordo de petróleo e meio ambiente. Legislação e regulamentação do setor de petróleo e meio ambiente. Legislação e regulamentação do setor de petróleo do Brasil. Recursos petrolíferos do Brasil."
+    },
+    {
+        "code": "GE117",
+        "name": "Geoquímica Analítica",
+        "credits": 4,
+        "syllabus": "A evolução do pensamento geoquímico versus desenvolvimento das técnicas analíticas. Tipos de amostras e elementos analisados. A interação da radiação eletromagnética com a matéria. Principais técnicas analíticas utilizadas em litogeoquímica, geoquímica ambiental e isotópica. Práticas de coleta de amostras no campo, preparação de amostras, uso de equipamentos e controle de qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "GE503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE118",
+        "name": "Planejamento de Recursos Minerais",
+        "credits": 4,
+        "syllabus": "Critérios geológicos, econômicos, políticos e jurídicos para o planejamento sobre o uso dos recursos minerais. Importância dos recursos minerais para a sociedade. Instrumentos de planejamento e os recursos minerais. Planos diretores de mineração."
+    },
+    {
+        "code": "GE119",
+        "name": "Greenstone Belts",
+        "credits": 3,
+        "syllabus": "Definições básicas. Características petrográficas, petrológicas, geoquímicas e estruturais de seus contribuintes. Estratigrafia e evolução dos terrenos granito-greenstone do Canadá, Austrália, África, Índia e Brasil. Importância metalogenética dos greenstone belts."
+    },
+    {
+        "code": "GE120",
+        "name": "Geofísica-Sísmica",
+        "credits": 4,
+        "syllabus": "Fundamentos do método sísmico. Elasticidade. Equação da onda. Reflexão e transmissão de ondas em interfaces. Aquisição, processamento e interpretação de dados sísmicos. Aplicações à indústria de petróleo e geotecnia."
+    },
+    {
+        "code": "GE121",
+        "name": "Mineração e Meio Ambiente",
+        "credits": 3,
+        "syllabus": "A mineração como atividade de aproveitamento de recursos ambientais. Consumo de produtos minerais. Princípios de conservação e gestão ambiental. Referencial teórico. Impactos ambientais da mineração. Ferramentas de gestão ambiental."
+    },
+    {
+        "code": "GE122",
+        "name": "Tópicos Especiais em Geologia",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE123",
+        "name": "Tópicos Avançados em Geologia",
+        "credits": 5,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE124",
+        "name": "Tópicos Especiais em Geologia I",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "GE125",
+        "name": "Tópicos Especiais em Geologia II",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "GE126",
+        "name": "Tópicos Avançados em Geologia I",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "GE127",
+        "name": "Tópicos Avançados em Geologia II",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "GE128",
+        "name": "Remediação de Áreas Contaminadas",
+        "credits": 2,
+        "syllabus": "Conceitos básicos relacionados com a remediação de áreas contaminadas. Tecnologias de remediação de solos e águas subterrâneas contaminadas. Modelagem hidrogeoquímica. Aspectos legais relacionados a áreas contaminadas."
+    },
+    {
+        "code": "GE207",
+        "name": "Introdução ao Sensoriamento Remoto e Fotogeologia",
+        "credits": 4,
+        "syllabus": "Definição, histórico e evolução do sensoriamento remoto. Princípios físicos do sensoriamento remoto. O espectro eletromagnético. Características espectrais de materiais naturais e artificiais. Introdução à espectroscopia de reflectância e interpretação de curvas de reflectância espectral. Sistemas sensores. Camêras aerofotogramétricas e fotografias aéreas. Princípios de estereoscopia e interpretação estereoscópica. Princípios de interpretação de fotografias aéreas.",
+        "reqs": [
+            [
+                {
+                    "code": "GN111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV323",
+            "GE407",
+            "GE507"
+        ]
+    },
+    {
+        "code": "GE300",
+        "name": "Mineralogia I",
+        "credits": 4,
+        "syllabus": "Minerais: conceito, classificação, abundância e ambientes de formação. Cristalo-química. Ligações químicas, número de coordenação e poliedro de coordenação. Substituições iônicas: soluções sólidas, isomorfismo e polimorfismo. Composição química, estrutura cristalina e radiação eletromagnética. Propriedades mecânicas: clivagem, fratura, dureza, traço, hábito e densidade. Propriedades óticas (cor, brilho, luminescência), magnéticas e radiotividade. Cristalografia: cela unitária, retículo cristalino, elementos de simetria, sistemas e classes de simetria. Estruturas cristalinas dos minerais.",
+        "reqBy": [
+            "GE406"
+        ]
+    },
+    {
+        "code": "GE402",
+        "name": "Elementos de Paleontologia",
+        "credits": 4,
+        "syllabus": "Introduzir o aluno no conhecimento e estudo dos fósseis, bem como nos ambientes onde eles ocorrem. Noções básicas de reconhecimento dos principais filos de invertebrados, vertebrados e vegetais encontrados no registro em nível mundial e no Brasil, que auxiliem a Geologia, tanto na interpretação de idade quanto nos aspectos do meio abiótico (paleocologia, paleoclimatologia, etc.). Dar bases para estudos micropaleontológicos e bioestratigráficos, além de treinar os alunos na coleta e interpretação dos fósseis no campo.",
+        "reqs": [
+            [
+                {
+                    "code": "GE601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE706"
+        ]
+    },
+    {
+        "code": "GE403",
+        "name": "Micropalentologia e Palinologia",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de sistemática de microfósseis e palinomorfos (polens, esporos e dinoflagelados) e suas aplicações para bioestratigrafia, paleoclimatologia e paleoecologia. Treinamento no reconhecimento de microfósseis e nas técnicas de preparação para estudo."
+    },
+    {
+        "code": "GE405",
+        "name": "Direito dos Recursos Naturais",
+        "credits": 2,
+        "syllabus": "Conceitos básicos sobre direito e recursos naturais. Código de Mineração, Código Florestal, Código das Águas. Legislações mineral, paramineral e ambiental e os impactos nas políticas públicas setoriais. Administração pública, recursos naturais e a compatibilização com o meio ambiente. Atuação profissional e legislação."
+    },
+    {
+        "code": "GE406",
+        "name": "Mineralogia II",
+        "credits": 4,
+        "syllabus": "Princípios de Mineralogia Ótica: Propriedades da luz: polarização, isotropia e anisotropia. O microscópio petrográfico. Propriedades óticas dos minerais sob luz natural e polarizada ao microscópio petrográfico: minerais isotrópicos e anisotrópicos (uniaxiais e biaxiais). Estudo das classes minerais em microscópio petrográfico. Outros métodos analíticos em Mineralogia: Difratometria de raios X, Microscopia Eletrônica de Varredura e Geoquímica Isotópica.",
+        "reqs": [
+            [
+                {
+                    "code": "GE300"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE502",
+            "GE503",
+            "GE506",
+            "GE606"
+        ]
+    },
+    {
+        "code": "GE407",
+        "name": "Desenho Geológico",
+        "credits": 4,
+        "syllabus": "Princípios de Geometria Espacial e Descritiva e Aplicações em Geologia. Fundamentos de projeção estereográfica e exercícios práticos de análise de estruturas planares e lineares. Representação espacial de camadas e feições lineares por métodos gráficos e analíticos. Uso de ábacos. Mergulho real e aparente de camadas, profundidade e espessura: real e aparente. Mapas topográficos, geológicos e estruturais. Leitura e análise de mapas geológicos. Construção de perfis geológicos. Exercícios práticos de interpretação de mapas temáticos.",
+        "reqs": [
+            [
+                {
+                    "code": "GE207"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE603"
+        ]
+    },
+    {
+        "code": "GE501",
+        "name": "Gestão Mineral e Ambiental",
+        "credits": 2,
+        "syllabus": "Aspectos políticos, legais, econômicos, sociais e ambientais ligados ao aproveitamento dos recursos minerais. Compatibilização da exploração mineral com a preservação ambiental. Os recursos minerais nos planejamentos territoriais. A Legislação mineral, paramineral e ambiental. Políticas e administração públicas. Certificação ambiental, série ISO 14000 e outros. Recuperação de áreas degradadas.",
+        "reqs": [
+            [
+                {
+                    "code": "GE803"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE502",
+        "name": "Petrografia Sedimentar",
+        "credits": 4,
+        "syllabus": "Estudo dos componentes físicos, químicos e biológicos dos depósitos sedimentares (recentes e antigos), visando à identificação de estruturas, texturas, evidências genéticas e do arranjo espacial, para compreensão da geometria e dinâmica dos corpos estratiformes.",
+        "reqs": [
+            [
+                {
+                    "code": "GE406"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE503",
+        "name": "Geoquímica",
+        "credits": 4,
+        "syllabus": "Desenvolvimento histórico da Geoquímica. Abundância cósmica dos elementos, estrutura e composição da geosfera. Química da hidrosfera e atmosfera. A biosfera e os depósitos biogênicos. Conceitos básicos de geoquímica superficial aplicáveis ao entendimento da formação de solos e dos depósitos lateríticos. Paisagens geoquímicas, processos naturais e antrópicos. Aplicações de geoquímica em exploração mineral e em estudos ambientais.",
+        "reqs": [
+            [
+                {
+                    "code": "GE406"
+                },
+                {
+                    "code": "QF331"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE117",
+            "GE803",
+            "GE901"
+        ]
+    },
+    {
+        "code": "GE504",
+        "name": "Matemática (Geologia)",
+        "credits": 4,
+        "syllabus": "Derivadas e diferenciais, integrais múltiplas, integrais de linha e de superfície. Conceitos e exercícios de matemática e computação visando complementar a formação dos geólogos com os tópicos não cobertos pelas demais disciplinas do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MS220"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 328",
+            "F 329"
+        ]
+    },
+    {
+        "code": "GE506",
+        "name": "Petrografia e Petrologia Ígnea",
+        "credits": 6,
+        "syllabus": "Identificação de minerais, estruturas e texturas de rochas ígneas. Fundamentos da geoquímica de elementos maiores, traços e de isótopos. Classificações das rochas ígneas. Estudo do equilíbrio de fases. Ambientes tectônicos de formação das rochas ígneas. Trabalho de campo para visita a afloramentos de rochas ígneas.",
+        "reqs": [
+            [
+                {
+                    "code": "GE406"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE708"
+        ]
+    },
+    {
+        "code": "GE507",
+        "name": "Sensoriamento Remoto",
+        "credits": 6,
+        "syllabus": "Introdução aos sistemas de sensoriamento remoto orbital multiespectral, hiperespectral e de radar. Interpretação de imagens orbitais pancromáticas, multiespectrais e de radar. Introdução ao processamento digital de imagens de sensoriamento remoto. Aplicações do sensoriamento remoto aéreo e orbital em mapeamento geológico-estrutural, geomorfologia e no estudo do uso e ocupação do solo.",
+        "reqs": [
+            [
+                {
+                    "code": "GE207"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE804"
+        ]
+    },
+    {
+        "code": "GE510",
+        "name": "Geologia de Petróleo",
+        "credits": 2,
+        "syllabus": "Introdução à Geologia de petróleo. Rochas geradoras e reservatórios. Trapas estruturais e estratigráficas. Métodos de exploração. Rochas selantes. Rochas reservatórios siliciclásticas e carbonáticas. Estruturas sedimentares. Sistemas deposicionais terrígenos e carbonáticos. Bacias sedimentares brasileiras."
+    },
+    {
+        "code": "GE511",
+        "name": "Geologia de Campo I",
+        "credits": 12,
+        "syllabus": "Treinamento de campo em mapeamento geológico de sucessões sedimentares em bacias não deformadas. Elaboração de mapas, perfis estratigráficos, seções geológicas e relatórios.",
+        "reqs": [
+            [
+                {
+                    "code": "GE601"
+                },
+                {
+                    "code": "GN304"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE708",
+            "GE902"
+        ]
+    },
+    {
+        "code": "GE512",
+        "name": "Gestão, Governança e Sustentabilidade",
+        "credits": 2,
+        "syllabus": "A evolução do conceito de sustentabilidade e suas implicações para a regulação das atividades econômicas de exploração de recursos naturais, com foco em energia e mineração. Gestão e governança sustentáveis das empresas e  instituições nesses setores. Papel da inovação como vetor de desenvolvimento sustentável na exploração de recursos naturais."
+    },
+    {
+        "code": "GE601",
+        "name": "Sedimentologia",
+        "credits": 6,
+        "syllabus": "Estudo de descrição e classificação das rochas sedimentares. Análise dos processos que geram as rochas sedimentares através da textura, das estruturas sedimentares e das geometrias das camadas. Conceitos básicos de análise de fácies. Atividade prática no campo de análise sedimentológica.",
+        "reqs": [
+            [
+                {
+                    "code": "GN106"
+                },
+                {
+                    "code": "GN208"
+                }
+            ],
+            [
+                {
+                    "code": "GN111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE402",
+            "GE511",
+            "GE704",
+            "GE805",
+            "GE806",
+            "GE902"
+        ]
+    },
+    {
+        "code": "GE602",
+        "name": "Economia dos Recursos Minerais e Energéticos",
+        "credits": 2,
+        "syllabus": "Importância dos recursos minerais e energéticos no contexto da economia brasileira e mundial. Escassez de recursos minerais e energéticos, regras de exaustão, produção e consumo de bens minerais, preços e mercados de bens minerais. A pauta brasileira de exportação versus importação. Dotação mineral e desenvolvimento econômico."
+    },
+    {
+        "code": "GE603",
+        "name": "Geologia Estrutural",
+        "credits": 6,
+        "syllabus": "Princípios e mecanismos de deformação das rochas. Categoriais de análise estrutural: descritiva, cinemática e dinâmica. Arranjos estruturais: acamamento, foliação, lineação, dobras, dobramentos e superpostos, transposição, juntas e fraturas, falhas, zonas de cisalhamento, associações estruturais. Níveis estruturais. Relações entre metamorfismo e deformação; Princípios de microtectônica. Exercícios geométricos, projeção estereográfica, análise estatística de dados estruturais, perfis geológico-estruturais complexos. Trabalhos de campo e elaboração de relatórios.",
+        "reqs": [
+            [
+                {
+                    "code": "GE407"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE704",
+            "GE708",
+            "GE711",
+            "GE802",
+            "GE803",
+            "GE901",
+            "GE902"
+        ]
+    },
+    {
+        "code": "GE606",
+        "name": "Petrografia e Petrologia Metamórfica",
+        "credits": 6,
+        "syllabus": "Classificação das rochas metamórficas em escalas macroscópicas e microscópicas. Tipos de metamorfismo e seus ambientes tectônicos. Mineralogia e texturas típicas; relações texturais entre minerais; significado das texturas; reações metamórficas. Fatores condicionantes de metamorfismo e conceito de fácies metamórfica. Análise de gráficos de composições químicas dos minerais e rochas e paragêneses metamórficas. Papel de rochas metamórficas na evolução crustal. Trabalhos de campo e elaboração de relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "GE406"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE708",
+            "GE802",
+            "GE803"
+        ]
+    },
+    {
+        "code": "GE702",
+        "name": "História e Teoria das Organizações",
+        "credits": 3,
+        "syllabus": "Abordagem histórica e comparativa da evolução das principais teorias de administração e gestão organizacional e suas relações com o pensamento econômico e sociológico."
+    },
+    {
+        "code": "GE703",
+        "name": "Geofísica",
+        "credits": 4,
+        "syllabus": "Geofísica geral e aplicada. Aplicações de métodos geofísicos em mapeamento geológico, determinação de feições tectono-estruturais, prospecção mineral, hidrogeologia e estudos ambientais.",
+        "reqs": [
+            [
+                {
+                    "code": "F 328"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE704",
+        "name": "Estratigrafia",
+        "credits": 6,
+        "syllabus": "Estudo da organização geométrica das rochas sedimentares e de baixo grau metamórfico da crosta terrestre. Análise dos princípios e métodos da lito-, bio- e cronoestratigrafia, da arquitetura deposicional e da Estratigrafia de Sequências aplicadas aos principais sistemas deposicionais. Análise de bacias e relações entre tectônica e sedimentação. Aplicação em campo de todos os métodos estratigráficos.",
+        "reqs": [
+            [
+                {
+                    "code": "GE601"
+                },
+                {
+                    "code": "GE603"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE711"
+        ]
+    },
+    {
+        "code": "GE706",
+        "name": "Geologia Histórica e do Brasil",
+        "credits": 6,
+        "syllabus": "Estudo da ordem cronológica dos principais eventos geológicos que afetaram a evolução do planeta, suas causas e reflexos na paleogeografia, com ênfase para os fenômenos que ocorreram no território brasileiro. Trabalho de campo para conhecer exposições de unidades rochosas que refletem a evolução geológica do território brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "GE402"
+                },
+                {
+                    "code": "GE802"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE707",
+        "name": "Sensoriamento Remoto e Fotogeologia",
+        "credits": 6,
+        "syllabus": "Princípios de interpretação geológica de fotografias aéreas. Introdução aos sistemas de sensoriamento remoto orbital multiespectral, hiperespectral e de radar. Interpretação de imagens orbitais pancromáticas, multiespectrais e de radar. Introdução ao processamento digital de imagens de sensoriamento remoto. Aplicações do sensoriamento remoto aéreo e orbital em mapeamento geológico-estrutural, geomorfologia e no estudo do uso e ocupação do solo.",
+        "reqs": [
+            [
+                {
+                    "code": "GN207"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE804"
+        ]
+    },
+    {
+        "code": "GE708",
+        "name": "Geologia de Campo II",
+        "credits": 12,
+        "syllabus": "Treinamento de campo em mapeamento geológico de terrenos com ocorrência de rochas ígneas e metamórficas. Elaboração de mapas e relatórios.",
+        "reqs": [
+            [
+                {
+                    "code": "GE506"
+                },
+                {
+                    "code": "GE511"
+                },
+                {
+                    "code": "GE603"
+                },
+                {
+                    "code": "GE606"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE910"
+        ]
+    },
+    {
+        "code": "GE711",
+        "name": "Geologia de Hidrocarbonetos",
+        "credits": 4,
+        "syllabus": "A disciplina aborda aspectos básicos da dinâmica da Geologia de hidrocarbonetos com ênfase nas jazidas petrolíferas, envolvendo a produção e a acumulação de matéria orgânica, as rochas geradoras, migração, as rochas-reservatório, armadilhas (trapas) e a distribuição das reservas e recursos. São abordados aspectos relativos a caracterização, cálculo e armazenamento em reservatórios naturais. Tópicos relativos à locação, perfuração, instalação, completação, explotação, manutenção e monitoramento de poços também serão abordados no curso.",
+        "reqs": [
+            [
+                {
+                    "code": "GE603"
+                },
+                {
+                    "code": "GE704"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE801",
+        "name": "História das Ciências Naturais",
+        "credits": 2,
+        "syllabus": "O Renascimento e seu impacto na cosmovisão: a releitura do mundo natural. A Revolução Científica e o nascimento da ciência moderna: a Filosofia Natural, a História Natural e a especialização das disciplinas científicas. A 1a. Revolução Industrial, o Naturalismo científico e os viajantes. Colecionismo, Gabinetes e Museus. O processo de institucionalização e profissionalização das ciências naturais com ênfase no Brasil e América Latina."
+    },
+    {
+        "code": "GE802",
+        "name": "Geotectônica",
+        "credits": 6,
+        "syllabus": "Tectônica de Placas e Tectônica Global. Estudo e caracterização de ambientes geológico-tectônicos. Regimes tectônicos, regime convergente e cinturões de cavalgamento, regime transcorrente e cinturões transcorrentes, regime distensivo e cinturões distensivos, regime intraplaca. Análise de ambientes tectônicos principais no Brasil, América do Sul e África. Neotectônica. Trabalho de campo e elaboração de relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "GE603"
+                },
+                {
+                    "code": "GE606"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE706"
+        ]
+    },
+    {
+        "code": "GE803",
+        "name": "Geologia Econômica",
+        "credits": 4,
+        "syllabus": "O curso tem como objetivos principais apresentar: (1) os processos magmáticos, hidrotermais, sedimentares, metamórficos e supergênicos que atuam na concentração de metais e formação de depósitos minerais na crosta terrestre; (2) o arcabouço geológico e as características fundamentais de várias classes de depósitos minerais, enquadrando-os nos seus respectivos ambientes tectônicos; (3) os controles de formação de um determinado depósito mineral e implicações na sua exploração; e (4) as províncias metalogenéticas do Brasil e seus depósitos minerais. Trabalhos de campo e elaboração de relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "GE503"
+                },
+                {
+                    "code": "GE603"
+                },
+                {
+                    "code": "GE606"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE501",
+            "GE901"
+        ]
+    },
+    {
+        "code": "GE804",
+        "name": "Sistemas de Informações Georreferenciadas",
+        "credits": 4,
+        "syllabus": "Elementos essenciais de um SIG. Dados espaciais. Projeção de mapas. Captura de dados para SIG. Aquisição, estrutura e análise de dados espaciais. Funções de SIG. Uso de GRASS, IDRISI, ARCINFO.",
+        "reqs": [
+            [
+                {
+                    "code": "GE507"
+                }
+            ],
+            [
+                {
+                    "code": "GE707"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE805",
+        "name": "Hidrogeologia",
+        "credits": 4,
+        "syllabus": "A disciplina visa apresentar os fundamentos da dinâmica das águas subterrâneas, seus princípios, e hidroquímica, visando fazer com que o aluno adquira o conhecimento hidrogeológico, com prática e exercícios. Temas: Ciclo hidrológico; Balanço hídrico, tipos de aquíferos, aquíferos sedimentares e fraturados, parâmetros hidrodinâmicos (porosidade; lei de Darcy; condutividade hidráulica; transmissividade; armazenamento e coeficiente de armazenamento); Potenciometria; Obras de captação; Hidráulica de poços; Hidrogeoquímica e qualidade, contaminação e transporte de massa, hidrogeologia do Brasil; Trabalhos de campo e elaboração de relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "GE601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE806",
+        "name": "Mecânica de Solos e Rochas",
+        "credits": 4,
+        "syllabus": "Constituição, classificação e propriedades dos solos. Compressibilidade e adensamento, Resistência ao cisalhamento e empuxos da terra. Permeabilidade. Propriedades Mecânicas das Rochas. Ensaios de Campo e Laboratório em solos e rocha. Taludes, fundações e aberturas subterrâneas. Trabalhos de campo e elaboração de relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "GE601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE902",
+            "GE904"
+        ]
+    },
+    {
+        "code": "GE901",
+        "name": "Prospecção",
+        "credits": 6,
+        "syllabus": "Estudo das técnicas aplicadas à exploração regional, prospecção, pesquisa e avaliação de recursos minerais. Métodos diretos e indiretos utilizados nas fases de busca a avaliação de jazidas minerais. Discussão das ferramentas quantitativas para estimativa e avaliação de reserva. Análise de custos e otimização de campanhas exploratórias de recursos minerais. Aspectos ambientais relacionados à exploração mineral. Impacto da legislação mineral nas atividades de exploração e produção. Trabalhos de campo e elaboração de relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "GE503"
+                },
+                {
+                    "code": "GE603"
+                },
+                {
+                    "code": "GE803"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE902",
+        "name": "Geologia de Minas, Lavra e Tratamento de Minério",
+        "credits": 4,
+        "syllabus": "Conhecimentos técnicos geológicos utilizados no acompanhamento das operações de desenvolvimento das minas, técnicas de lavra e tratamento de minérios. Planejamento e gerenciamento ambiental relacionado à lavra e beneficiamento de minérios.",
+        "reqs": [
+            [
+                {
+                    "code": "GE511"
+                },
+                {
+                    "code": "GE601"
+                },
+                {
+                    "code": "GE603"
+                },
+                {
+                    "code": "GE806"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE903",
+        "name": "Geologia Urbana",
+        "credits": 4,
+        "syllabus": "Gestão, supervisão, orientação técnica sobre geologia ambiental. Coleta de dados, planejamento e projeto geológicos do curso e ocupação do solo urbano. Estudo e recuperação ambiental de solos e águas subterrâneas, contaminadas, implantação de aterros de resíduos sólidos e avaliação de impactos ambientais, risco geológico (erosão, inundações, instabilidade de encostas). Cartas geotécnica, planejamento do uso racional de recursos minerais hídricos. Trabalhos de campo e elaboração de relatório referente a casos de tratamento de resíduos, levantamento de contaminação e risco geológico."
+    },
+    {
+        "code": "GE904",
+        "name": "Geotecnia",
+        "credits": 4,
+        "syllabus": "Conhecimentos sobre os problemas geológicos que afetam as obras de engenharia civil, incluindo o uso de materiais de construção, instabilidade de taludes, erosão e assoreamento. Obras viárias, fundações, barragens, túneis e outras obras subterrâneas, desmonte de rochas. Técnicas de cartografia geotécnica. Trabalhos de campo e elaboração de relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "GE806"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE910",
+        "name": "Geologia de Campo III",
+        "credits": 12,
+        "syllabus": "Treinamento de campo em levantamentos básicos do meio físico, utilizando e integrando os conhecimentos adquiridos em várias disciplinas do curso e objetivando a aplicação dos resultados em mapeamentos geológico, metalogênese e prospecção; planejamento do uso e ocupação do solo, manejo de bacias hidrográficas, planejamento urbano e gestão ambiental, entre outras aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "GE708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE911",
+        "name": "Comunicação Científica em Ciências da Terra",
+        "credits": 2,
+        "syllabus": "Fundamentos de editoração de artigos científicos. Regras básicas de redação e ilustração. Padronização técnica de artigos, relatórios e textos de divulgação. Noções básicas de operação de programas de ilustração técnica. Internet e Ciências da Terra. Evolução histórica dos recursos didáticos em Geociências. Intercâmbio de formatos de arquivo e utilização de ilustrações, diagramas e mapas no ensino. Exercícios de laboratório e gabinete."
+    },
+    {
+        "code": "GE912",
+        "name": "Mapas e Linguagem Visual no Ensino de Ciências Naturais",
+        "credits": 3,
+        "syllabus": "Mapas e linguagem visual como ferramentas das ciências naturais. Emergência das representações cartográficas e evolução histórica da representação espacial. Princípios metodológicos da elaboração de mapas geológicos e mapas temáticos. Aquisição de dados espaciais no campo e representação da informação científica por meio de geoinformática. Problemas de escala e técnicas de representação. Questões interdisciplinares de educação em ciências relacionadas a mapas. Exercícios de laboratório e gabinete."
+    },
+    {
+        "code": "GE913",
+        "name": "Ciências Naturais e Ambiente",
+        "credits": 3,
+        "syllabus": "Abordagem epistemológica que busca a construção do entendimento de como as ciências naturais integram-se do ponto de vista de seus objetos de estudo e métodos quando se estuda o ambiente, seja em suas inter-relações no presente - processos e fenômenos atuais, seja em sua evolução ao longo da história da Terra. Natureza do conhecimento geocientífico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GE914",
+        "name": "Ciência e Linguagens",
+        "credits": 3,
+        "syllabus": "Relações entre linguagem / retórica / discurso e a produção e circulação de conhecimentos científico-tecnológicos; interações discursivas e enunciativas em sala de aula; linguagem e cognição; linguagem e epistemologia; leituras da ciência na escola; linguagens e geociências."
+    },
+    {
+        "code": "GE915",
+        "name": "Educação, Ciência, Tecnologia e Sociedade",
+        "credits": 3,
+        "syllabus": "Abordagem CTSA (Ciência, Tecnologia, Sociedade e Ambiente) na Educação básica: princípios pressupostos e elaboração de estratégias de ensino. O papel das Geociências em processos de tomada de decisão e posicionamentos em questões sócio-político-ambientais: impacto ambiental, saúde, riscos naturais e tecnologia para enfrentar esses problemas. Estudos de caso de questões socioambientais envolvendo conhecimentos estudos da Terra."
+    },
+    {
+        "code": "GE916",
+        "name": "Ensino de Ciências da Terra e do Ambiente",
+        "credits": 3,
+        "syllabus": "Importância do ensino de Ciências da Terra para o ensino básico. Modelos e dificuldades comuns de ensino e aprendizagem. Importância e perspectiva cognitiva, ambiental e política do ensino de ciclo da água. Papel estratégico do ciclo da água entre temas ensinados em ciências naturais, experimentais e tecnológicas. Inclui levantamentos das condições de ensino de problemas ambientais relativos à circulação da água."
+    }
+]

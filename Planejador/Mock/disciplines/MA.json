@@ -1,0 +1,1267 @@
+[
+    {
+        "code": "MA044",
+        "name": "Matemática IV",
+        "credits": 4,
+        "syllabus": "Números complexos. Funções de variável complexa. Equações de Cauchy-Riemann. Integral de linha. Sequências e séries de números complexos. Séries de potências. Teorema dos resíduos. Transformações conformes.",
+        "reqs": [
+            [
+                {
+                    "code": "MA141"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 520",
+            "MS431",
+            "MS591"
+        ]
+    },
+    {
+        "code": "MA091",
+        "name": "Matemática Básica",
+        "credits": 6,
+        "syllabus": "Conjuntos de números, operações aritméticas. Equações e Inequações. Regra de três. Estudo de funções reais: gráficos, operações com funções, tipos de funções. Funções polinomiais, raízes. Função exponencial e função logarítmica. Sequências. Progressões. Modelagem de problemas reais."
+    },
+    {
+        "code": "MA093",
+        "name": "Matemática Básica 2",
+        "credits": 6,
+        "syllabus": "Axiomas básicos da geometria Euclidiana plana. Polígonos. Circunferência e círculo. Teorema de Tales. Semelhança de triângulos. Triângulos retângulos. Área de figuras planas. Funções trigonométricas. Trigonometria do triângulo retângulo. Trigonometria analítica. Matrizes e determinantes. Sistemas lineares. Pontos, retas e circunferências no plano. Posições relativas, interseções, distâncias e ângulos."
+    },
+    {
+        "code": "MA104",
+        "name": "Seminários Sobre o Ensino de Matemática",
+        "credits": 2,
+        "syllabus": "Palestras sobre o ensino de matemática no ensino fundamental e médio, visando o direcionamento da formação acadêmica dos alunos ingressantes."
+    },
+    {
+        "code": "MA105",
+        "name": "Matemática Elementar",
+        "credits": 8,
+        "syllabus": "Coordenadoria",
+        "reqBy": [
+            "MA750"
+        ]
+    },
+    {
+        "code": "MA111",
+        "name": "Cálculo I",
+        "credits": 6,
+        "syllabus": "Intervalos e desigualdades. Funções. Limites. Continuidade. Derivada e diferencial. Integral. Técnicas de integração.",
+        "reqBy": [
+            "CE112",
+            "CE262",
+            "CV301",
+            "EA513",
+            "EC321",
+            "EC322",
+            "EM306",
+            "EM513",
+            "F 308",
+            "F 308",
+            "F 328",
+            "F 329",
+            "FT210",
+            "MA211",
+            "MA507",
+            "MA750",
+            "MA752",
+            "ME210",
+            "ME414",
+            "ME951",
+            "MS211",
+            "MS213",
+            "MS317",
+            "MS328",
+            "QF331",
+            "QF331",
+            "QF331",
+            "QF333",
+            "QF335"
+        ]
+    },
+    {
+        "code": "MA116",
+        "name": "Tópicos de Matemática para Economia",
+        "credits": 4,
+        "syllabus": "Funções. Limites. Derivada. Integral.",
+        "reqBy": [
+            "MS317"
+        ]
+    },
+    {
+        "code": "MA141",
+        "name": "Geometria Analítica e Vetores",
+        "credits": 4,
+        "syllabus": "Sistemas lineares. Vetores, operações. Bases, sistemas de coordenadas. Distância, norma e ângulo. Produtos escalar e vetorial. Retas no plano e no espaço. Planos. Posições relativas, interseções, distâncias e ângulos. Círculo e esfera. Coordenadas polares, cilíndricas e esféricas. Seções cônicas, classificação. Introdução às quádricas.",
+        "reqBy": [
+            "EC207",
+            "EM050",
+            "EM050",
+            "EM095",
+            "EM306",
+            "EM904",
+            "F 308",
+            "F 308",
+            "F 313",
+            "F 328",
+            "F 328",
+            "FA374",
+            "MA044",
+            "MA211",
+            "MA327",
+            "MA752",
+            "MS211",
+            "MS213"
+        ]
+    },
+    {
+        "code": "MA148",
+        "name": "Fundamentos da Matemática",
+        "credits": 4,
+        "syllabus": "Visa apresentar um primeiro contato com o rigor matemático, ensinar os alunos a demonstrar proposições simples, de modo rigoroso e coerentemente redigido, a partir de conceitos desenvolvidos no ensino médio. Devem ser introduzidas apenas noções básicas de lógica e conjuntos, além de princípio de indução, conjuntos de números (naturais, inteiros, racionais, reais e complexos), sequências reais e noções básicas de combinatória."
+    },
+    {
+        "code": "MA211",
+        "name": "Cálculo II",
+        "credits": 6,
+        "syllabus": "Funções de várias variáveis reais. Fórmula de Taylor. Máximos e mínimos. Integrais múltiplas. Integrais de linha. Teorema da divergência. Teorema de Stokes.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "MA141"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE138",
+            "CV311",
+            "CV312",
+            "CV431",
+            "CV431",
+            "EA044",
+            "EC306",
+            "EE300",
+            "EE521",
+            "EE521",
+            "EE522",
+            "EM360",
+            "EM404",
+            "EM406",
+            "EQ314",
+            "EQ415",
+            "EQ514",
+            "F 313",
+            "F 315",
+            "F 320",
+            "FA374",
+            "FT310",
+            "MA044",
+            "MA311",
+            "MA312",
+            "MA502",
+            "MA720",
+            "MA811",
+            "MA811",
+            "MA812",
+            "MA812",
+            "MA813",
+            "MA813",
+            "ME310",
+            "ME322",
+            "ME323",
+            "MS400",
+            "MS416",
+            "MS428",
+            "MS480",
+            "MS500",
+            "MS505",
+            "MS629",
+            "MS680",
+            "QF431"
+        ]
+    },
+    {
+        "code": "MA220",
+        "name": "Matemática Discreta",
+        "credits": 4,
+        "syllabus": "Indução Matemática. Princípio multiplicativo. Princípio aditivo. Permutação, arranjo, combinação. Princípio de inclusão e exclusão. Funções geradoras. Partição de um inteiro. Relações de recorrência. O princípio da casa dos pombos. Noções de teoria dos grafos."
+    },
+    {
+        "code": "MA224",
+        "name": "Resolução de Problemas Matemáticos",
+        "credits": 6,
+        "syllabus": "Resolução de problemas matemáticos nem sempre elementares, utilizando matemática elementar. Os problemas propostos abordarão os seguintes tópicos: proporcionalidade, funções de primeiro e segundo grau, áreas e volumes, funções exponenciais e logarítmicas, Teorema de Pitágoras, trigonometria e aplicações, combinatória e probabilidade.Discussão e reflexão sobre como apresentar  e orientar alunos da escola básica na resolução de problemas. Preparação de listas de exercícios e avaliações para o ensino básico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA225",
+        "name": "Análise de Livros e Materiais Didáticos de Matemática",
+        "credits": 6,
+        "syllabus": "Exame crítico de livros e/ou materiais didáticos disponíveis para ensino fundamental e médio, analisando-os em relação à adequação de conteúdo e linguagem, riqueza de problemas propostos e exercícios. Preparação de textos para o ensino de matemática na escola básica, incluindo listas de exercícios e avaliações.\n \n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA311",
+        "name": "Cálculo III",
+        "credits": 6,
+        "syllabus": "Séries numéricas e séries de funções. Equações diferenciais ordinárias. Transformadas de Laplace. Sistemas de equações de primeira ordem. Equações diferenciais parciais e séries de Fourier.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE838",
+            "CV015",
+            "CV422",
+            "CV511",
+            "CV511",
+            "EA614",
+            "EE400",
+            "EE940",
+            "EM461",
+            "EM570",
+            "EM853",
+            "EM977",
+            "EM983",
+            "EM988",
+            "EQ502",
+            "EQ541",
+            "ES401",
+            "ES406",
+            "ES570",
+            "ES601",
+            "F 589",
+            "F 625",
+            "FA097",
+            "FA474",
+            "FT410",
+            "FT411",
+            "MC920",
+            "MC946",
+            "MS519",
+            "MS550",
+            "MS590",
+            "MS591",
+            "MS780",
+            "QF530",
+            "QF536",
+            "TA431"
+        ]
+    },
+    {
+        "code": "MA312",
+        "name": "Modelagem Matemática e Equações Diferenciais",
+        "credits": 6,
+        "syllabus": "Equações diferenciais de 1ª ordem: equações separáveis, modelos básicos: dinâmica de populações, estabilidade, resfriamento de um corpo. Equações diferenciais de 2ª ordem, modelos básicos; dinâmica de uma partícula, oscilador harmônico, campos centrais de forças. Transformada de Laplace. Teoria básica de sistemas de equações diferenciais: equações algébricas, autovalores, autovetores; sistemas lineares homogêneos com coeficientes constantes; sistemas lineares não homogêneos; variação dos parâmetros; sistemas não lineares; modelos básicos: o pêndulo, o modelo predador-presa.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA327",
+        "name": "Álgebra Linear",
+        "credits": 4,
+        "syllabus": "Espaços vetoriais reais. Subespaços. Base e dimensão. Transformações lineares e matrizes. Núcleo e imagem. Projeções. Autovalores e autovetores. Produto interno. Matrizes reais especiais. Diagonalização.",
+        "reqs": [
+            [
+                {
+                    "code": "MA141"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV015",
+            "CV422",
+            "CV511",
+            "CV511",
+            "EA044",
+            "EA051",
+            "EA614",
+            "EA616",
+            "EA954",
+            "EE600",
+            "EG293",
+            "EM503",
+            "EM607",
+            "ES601",
+            "F 689",
+            "MA312",
+            "MA553",
+            "MA719",
+            "MA720",
+            "MC558",
+            "MC886",
+            "MC886",
+            "MC906",
+            "MC920",
+            "MC937",
+            "MC946",
+            "MC949",
+            "MC949",
+            "ME524",
+            "ME613",
+            "ME613",
+            "ME921",
+            "ME921",
+            "MS400",
+            "MS416",
+            "MS428",
+            "MS431",
+            "MS480",
+            "MS500",
+            "MS505",
+            "MS512",
+            "MS519",
+            "MS550",
+            "MS629",
+            "MS991"
+        ]
+    },
+    {
+        "code": "MA419",
+        "name": "Análise Real",
+        "credits": 8,
+        "syllabus": "Medida e integral. Integral de Lebesgue no Rn. Conjuntos mensuráveis. Teorema de convergência monótona. Teorema da convergência dominada. Convergência em medida. Espaços L(p). Teorema de Egorov. Teorema de Radon-Nikodym. Teorema de Representação de Riesz. Teorema de Fubini.",
+        "reqs": [
+            [
+                {
+                    "code": "MA602"
+                }
+            ],
+            [
+                {
+                    "code": "MA720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA445",
+        "name": "Anéis e Corpos",
+        "credits": 8,
+        "syllabus": "Anéis comutativos, ideais e operações com ideais, homomorfismos entre anéis, teoremas do isomorfismo. Polinômios simétricos, fórmulas de Newton e aplicações. Corpos, característica, extensões algébricas, corpos de raízes, normalidade, corpos finitos. Teorema de Galois. Grupo de Galois de uma extensão e de um polinômio. Extensões cíclicas, construções com régua e compasso, solubilidade de equações em radicais e outras aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MA446"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA446",
+        "name": "Grupos e Representações",
+        "credits": 8,
+        "syllabus": "Grupos, subgrupos, classes laterais, teorema de Lagrange, homomorfismo, subgrupos normais, teoremas do isomorfismo, produtos diretos e semi-diretos, grupos de permutações, grupo alternado, ações de grupos em conjuntos, órbitas e contagem, classes de conjugação e equação de classe, classificação dos grupos abelianos finitamente gerados, p-grupos e p-subgrupos, teorema de Cauchy, teoremas de Sylow e aplicações, grupos solúveis, representações de grupos finitos, subrepresentações e teoremas do isomorfismo, lema de Schur, Teorema de Maschke, produto tensorial de representações, caracteres, tabelas de caracteres, relações de ortogonalidade, restrição e indução de representações e seus caracteres, aplicações da teoria de representações a solubilidade de grupos finitos e composição de formas quadráticas.",
+        "reqs": [
+            [
+                {
+                    "code": "MA719"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MA445"
+        ]
+    },
+    {
+        "code": "MA449",
+        "name": "Introdução às Equações Diferenciais Parciais",
+        "credits": 8,
+        "syllabus": "Dedução da Equação da Onda e da Equação do Calor. Equação de Laplace e Poisson. Espaço H1 de Sobolev. Séries de Fourier: unicidade, convolução, núcleos, médias de Abel e de Cesàro, O Teorema de Féjer, o núcleo de Poisson, convergência, aplicações. A transformada de Fourier em R: definição, espaços de Schwartz (S), transformada de Fourier em S, fórmula de inversão de Fourier, Fórmula de Plancherel. Aplicações da transformada de Fourier às equações, fórmula do somatório de Poisson, o Princípio da Incerteza. A transformada de Fourier em Rn e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MA602"
+                }
+            ],
+            [
+                {
+                    "code": "MA720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA453",
+        "name": "Topologia Geral",
+        "credits": 8,
+        "syllabus": "Espaços Métricos. Exemplos. Noções básicas de Topologia. Espaços topológicos. Bases.  Funções contínuas, subespaços, espaços, produto e quociente. Convergência de sequências, redes e filtros.\nEspaços de Hausdorff. Espaços regulares, normais, compactos, localmente compactos. Metrização. Paracompacidade. Espaços conexos e conexos por caminhos. Homotopia e grupo fundamental. Espaços de recobrimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MA604"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA456",
+        "name": "Equações Diferenciais Ordinárias",
+        "credits": 8,
+        "syllabus": "Teoria de Existência e Unicidade. Método das aproximações sucessivas para existência e unicidade de soluções. Teorema de Peano de existência de soluções. Soluções maximais, fluxos. Sistemas lineares e suas soluções maximais. Dependência diferenciável de soluções em relação a parâmetros e a condições iniciais. Diferencial do fluxo. Teoremas de fluxo tubular. Campos completos. Colchetes de Lie de campos de vetores. Espaço de fase. Classificação das órbitas. Teorema de Hartman-Grobmann. Estabilidade de Lyapunov, funções de Lyapunov e expoentes de Lyapunov. Teorema de Poincaré-Bendixon. Campos conservativos. Recorrência e teorema de recorrência de Poincaré.",
+        "reqs": [
+            [
+                {
+                    "code": "MA602"
+                }
+            ],
+            [
+                {
+                    "code": "MA720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA502",
+        "name": "Análise I",
+        "credits": 6,
+        "syllabus": "Conjuntos finitos e infinitos. Números reais. Sequências e séries numéricas. Funções contínuas. Funções deriváveis.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MA602",
+            "MA604",
+            "MA720",
+            "MA731",
+            "MA733",
+            "MS612",
+            "MS712",
+            "MS991"
+        ]
+    },
+    {
+        "code": "MA507",
+        "name": "Introdução à Análise",
+        "credits": 8,
+        "syllabus": "Os números reais. Sequências e séries, o número e é irracional; convergência de Cauchy; séries infinitas, testes da comparação, razão e integral; não-enumerabilidade dos números reais, Teorema de Bolzano-Weierstrass, divergência da série harmônica. Funções contínuas: limites, Teoremas de Bolzano, de Weierstrass e do Valor Intermediário, continuidade uniforme. Derivadas, extremos locais, o Teorema do Valor Médio, funções inversas. Integral. O Teorema Fundamental do Cálculo. Aplicações: funções trigonométicas, pi é irracional, as funções logarítmica e exponencial, aproximação por polinômios.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA520",
+        "name": "Geometria Plana e Desenho Geométrico",
+        "credits": 4,
+        "syllabus": "Tratamento axiomático da geometria euclidiana plana. Introdução às geometrias não euclidianas. Isometrias no plano. Desenho geométrico. Tópicos da história da geometria.",
+        "reqBy": [
+            "MA620"
+        ]
+    },
+    {
+        "code": "MA521",
+        "name": "Geometria Plana",
+        "credits": 4,
+        "syllabus": "Os 5 postulados de Euclides; noções comuns da geometria; construções com régua e compasso; crítica das noções comuns. Os axiomas de Hilbert: incidência; ordem e teorema de Pasch; congruência de segmentos e ângulos; paralelas; continuidade e completude. Corpos de segmentos: soma por concatenação, multiplicação via paralelismo, números construtíveis, semelhança de triângulos; a propriedade do supremo.",
+        "reqBy": [
+            "MA621"
+        ]
+    },
+    {
+        "code": "MA553",
+        "name": "Teoria Aritmética dos Números",
+        "credits": 4,
+        "syllabus": "Estruturas algébricas (operações binárias, grupos, anéis e corpos). Axiomas de Peano e construção do anel dos números inteiros e racionais. Outros exemplos de anéis e corpos (polinômios, corpos quadráticos, inteiros de Gauss, Zm). Domínios euclideanos. Representação de números inteiros em bases diversas. Máximo divisor comum, mínimo múltiplo comum e o Algoritmo de Euclides. Elementos irredutíveis e primos e critérios de divisibilidade. Domínios principais, fatoriais e o teorema fundamental da aritmética. Equações diofantinas de grau um. Sistemas residuais, congruências lineares e o teorema chinês do resto. Os teoremas de Euler e Wilson. Congruências de grau dois, símbolos de Legendre e Jacobi e Lei da Reciprocidade Quadrática. Ternas pitagóricas e números que podem ser escritos como soma de dois quadrados. Equações diofantinas notáveis. Ordem multiplicativa e raízes primitivas. Noções de criptografia.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MA673",
+            "MA732"
+        ]
+    },
+    {
+        "code": "MA602",
+        "name": "Análise II",
+        "credits": 4,
+        "syllabus": "Integral de Riemann. Integral imprópria. Sequências e séries de funções. Convergência uniforme. Teorema de aproximação de Weierstrass. Teorema de Ascoli.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA502"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MA419",
+            "MA449",
+            "MA456"
+        ]
+    },
+    {
+        "code": "MA604",
+        "name": "Topologia dos Espaços Métricos",
+        "credits": 4,
+        "syllabus": "Métrica. Funções contínuas. Homeomorfismos. Conjuntos abertos e fechados. Conjuntos compactos. Conjuntos convexos e conexos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA502"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MA453",
+            "MA734"
+        ]
+    },
+    {
+        "code": "MA620",
+        "name": "Geometria Espacial e Geometria Descritiva",
+        "credits": 4,
+        "syllabus": "Tratamento axiomático da geometria euclidiana espacial. Introdução à geometria projetiva. Geometria descritiva. Tópicos da história da geometria.",
+        "reqs": [
+            [
+                {
+                    "code": "MA520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA621",
+        "name": "Geometria Espacial",
+        "credits": 4,
+        "syllabus": "Teoria de poliedros: revisão dos axiomas de Hilbert; os números reais como corpo de segmentos; convexidade de polígonos e poliedros; fórmula de Euler para poliedros convexos. Áreas e volumes: princípio de Cavalieri; áreas superficiais e volumes de sólidos (prisma, pirâmide, cilindro, cone e esfera). Isometrias: definição por congruência; classificação das isometrias da reta, do plano e do espaço.",
+        "reqs": [
+            [
+                {
+                    "code": "MA521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA673",
+        "name": "Elementos de Álgebra",
+        "credits": 4,
+        "syllabus": "Grupos, Teorema de Lagrange e Teoremas de Isomorfismo. Exemplos: grupos cíclicos, simétricos e diedrais, grupos de transformações lineares (SL(n), O (n)). Classificação dos grupos abelianos finitamente gerados. Ações de grupos em conjuntos, órbitas e contagem, classes de conjugação. Corpo de frações e localização. Números algébricos e transcendentes. Característica de um corpo. Corpos finitos. Polinômios simétricos. Teorema fundamental da álgebra. Fórmulas de Newton. Aplicações. Relações entre raízes e coeficientes de um polinômio.",
+        "reqs": [
+            [
+                {
+                    "code": "MA553"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA700",
+        "name": "Monografia I",
+        "credits": 6,
+        "syllabus": "Projeto teórico ou prático, orientado por um ou mais docentes do IMECC ou da FE, ou ainda de outras unidades, mediante autorização da Coordenadoria de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA705",
+        "name": "Currículo e Didática da Matemática: Teoria e Prática",
+        "credits": 6,
+        "syllabus": "O currículo de matemática do ensino básico. Planejamento de disciplinas. Preparação de aula (definição e revisão de conteúdos prévios, estratégias de apresentação em sala, escolha de exemplos, lição de casa). Acessórios didáticos. Preparação de listas de exercícios e atividades de casa. Avaliação em matemática. Dificuldades de aprendizagem dos alunos da escola básica. Educação colaborativa e adaptada. Orientação para resolução de problemas.  Aulas práticas: tutoria com os alunos da MA105 sob supervisão docente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA711",
+        "name": "Tópicos Especiais de Matemática I",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA712",
+        "name": "Tópicos Especiais de Matemática II",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA713",
+        "name": "Tópicos Especiais de Matemática III",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA714",
+        "name": "Tópicos Especiais de Matemática IV",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA715",
+        "name": "Tópicos Especiais de Matemática V",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA716",
+        "name": "Tópicos Especiais de Matemática VI",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA717",
+        "name": "Tópicos Especiais de Matemática VII",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA718",
+        "name": "Tópicos Especiais de Matemática VIII",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA719",
+        "name": "Álgebra Linear Avançada",
+        "credits": 8,
+        "syllabus": "Revisão: espaços vetoriais, bases e coordenadas, transformações lineares e matrizes, posto, nulidade, produto interno, operadores normais e autoadjuntos, diagonalização. Espaço dual e a transposta, teorema de Cayley-Hamilton, polinômio mínimo de endomorfismo linear, forma de Jordan, forma de Jordan real, forma racional. Transformação multilinear, função alternada, determinante, produto tensorial de espaços vetoriais, álgebra tensorial, álgebra dos tensores simétricos. Álgebra de Grassmann, álgebra de Clifford, estrutura de formas bilineares e quadráticas, transformação ortogonal e simplética.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MA446"
+        ]
+    },
+    {
+        "code": "MA720",
+        "name": "Análise no R(n)",
+        "credits": 8,
+        "syllabus": "Cálculo de várias variáveis: Aplicações diferenciáveis, Diferencial e Matriz jacobiana, Desigualdade do valor médio, Regra da Cadeia, Derivadas de ordem superior, Fórmula de Taylor, Teorema da função inversa e implícita, Forma local das imersões e submersões e o teorema do posto. Subvariedades de Rn Valores e pontos regulares, espaço tangente, parametrizações locais. Integração, integrais de linha e de superfícies, Formas diferenciais e integração sobre variedades, Teorema de Stokes (Green e Gauss).",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MA502"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MA419",
+            "MA449",
+            "MA456",
+            "MA852"
+        ]
+    },
+    {
+        "code": "MA724",
+        "name": "Tópicos Distinguidos de Matemática I",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA725",
+        "name": "Tópicos Distinguidos de Matemática II",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA726",
+        "name": "Tópicos Distinguidos de Matemática III",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA727",
+        "name": "Tópicos Distinguidos de Matemática IV",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA728",
+        "name": "Tópicos Distinguidos de Matemática V",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA729",
+        "name": "Tópicos Distinguidos de Matemática VI",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA731",
+        "name": "Tópicos Especiais de Análise",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA502"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA732",
+        "name": "Tópicos Especiais de Álgebra",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA553"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA733",
+        "name": "Tópicos Especiais de Geometria",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA502"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA734",
+        "name": "Tópicos Especiais de Topologia",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA604"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA740",
+        "name": "Matemática do Ensino Médio para Professores I",
+        "credits": 6,
+        "syllabus": "Revisão e aprofundamento do conteúdo de funções, combinatória e probabilidade no currículo de matemática do ensino básico. Desenvolvimento de atividades envolvendo os conceitos abordados com vistas ao tratamento para o ensino dos mesmos na escola básica. Conjuntos. Números naturais, reais. Progressões. Funções: polinomiais, exponencial, logarítmica; gráficos, crescimento, taxa de variação. Trigonometria. Combinatória, permutações e combinações; o triângulo aritmético, o binômio de Newton. Probabilidade. Médias e o princípio das gavetas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA741",
+        "name": "Tópicos Especiais de Ensino de Matemática I",
+        "credits": 6,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA742",
+        "name": "Tópicos Especiais de Ensino de Matemática II",
+        "credits": 6,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA743",
+        "name": "Tópicos Especiais de História da Matemática I",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA744",
+        "name": "Tópicos Especiais de História da Matemática II",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA750",
+        "name": "Recursos Computacionais no Ensino de Matemática",
+        "credits": 6,
+        "syllabus": "Análise de aplicativos de informática para o ensino-aprendizagem de matemática na educação básica. Sistemas de computação algébrica e simbólica.  Ambientes de geometria dinâmica. Processadores de textos matemáticos e científicos. Resolução de problemas em situações de ensino envolvendo, por exemplo, sistemas lineares, equações polinomiais, geometria analítica e funções de uma variável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA105"
+                }
+            ],
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA752",
+        "name": "História da Matemática",
+        "credits": 6,
+        "syllabus": "Tópicos de história da matemática tendo em vista a formação de professores de matemática para a escola básica: Pitágoras, a Geometria grega e a teoria dos números; a Matemática grega antes de Euclides; a geometria pré-euclidiana; a Matemática grega depois de Euclides; Arquimedes, o desenvolvimento das ideias da Álgebra, números complexos e funções. A matemática do século XVII. Matemática e Mecânica. História moderna: geometria diferencial e não-euclidiana, topologia e combinatória. Criação de texto. História da Educação Matemática.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "MA141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA770",
+        "name": "Geometria",
+        "credits": 4,
+        "syllabus": "Isometrias e similaridades do plano euclidiano, cristalografia bi-dimensional, círculos e esferas, coordenadas e números complexos, sólidos platônicos, geometria de ordem, geometrias afim, projetiva, absoluta e hiperbólica."
+    },
+    {
+        "code": "MA800",
+        "name": "Monografia II",
+        "credits": 6,
+        "syllabus": "Projeto teórico ou prático, orientado por um ou mais docentes do IMECC ou da FE, ou ainda de outras unidades, mediante autorização da Coordenadoria de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA811",
+        "name": "Cultura Matemática I",
+        "credits": 4,
+        "syllabus": "Participação em seminários, palestras, conferências e outras atividades de enriquecimento do universo cultural matemático.",
+        "reqs": [
+            [
+                {
+                    "code": "EL284"
+                },
+                {
+                    "code": "MA211"
+                }
+            ],
+            [
+                {
+                    "code": "EL285"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA812",
+        "name": "Cultura Matemática II",
+        "credits": 4,
+        "syllabus": "Participação em seminários, palestras, conferências e outras atividades de enriquecimento do universo cultural matemático.",
+        "reqs": [
+            [
+                {
+                    "code": "EL284"
+                },
+                {
+                    "code": "MA211"
+                }
+            ],
+            [
+                {
+                    "code": "EL285"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA813",
+        "name": "Cultura Matemática III",
+        "credits": 4,
+        "syllabus": "Participaçao em seminários, palestras, conferências e outras atividades de enriquecimento do universo cultural matemático.",
+        "reqs": [
+            [
+                {
+                    "code": "EL284"
+                },
+                {
+                    "code": "MA211"
+                }
+            ],
+            [
+                {
+                    "code": "EL285"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA840",
+        "name": "Matemática do Ensino Médio para Professores II",
+        "credits": 6,
+        "syllabus": "Revisão e aprofundamento do conteúdo de geometria e álgebra no currículo de matemática do ensino fundamental e médio. Desenvolvimento de atividades e resolução de problemas em situações de ensino envolvendo os conceitos abordados com vistas ao tratamento para o ensino dos mesmos na educação básica. Geometria analítica plana e espacial. Poliedros, sólidos, volumes e áreas, superfícies e sólidos de revolução. Sistemas de equações lineares, matrizes e determinantes. Equações algébricas e números complexos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA852",
+        "name": "Geometria Diferencial",
+        "credits": 8,
+        "syllabus": "Curvas no plano e espaço: Curvatura e torção - Teorema Fundamental das Curvas Planas. Superfícies no Espaço - Primeira e segunda forma fundamental, área. Aplicação normal de Gauss. Curvaturas gaussiana e média, Linhas de Curvatura. Geometria intrínseca, derivada covariante, Teorema Egregium, Curvatura Geodésica, geodésicas, a aplicação exponencial. O Teorema de Gauss-Bonet. Tópicos adicionais.",
+        "reqs": [
+            [
+                {
+                    "code": "MA720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA861",
+        "name": "Seminários de Matemática",
+        "credits": 2,
+        "syllabus": "Palestras sobre temas matemáticos e a interação da matemática com outras ciências, visando o direcionamento da formação acadêmica dos alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA901",
+        "name": "Estágio Supervisionado I",
+        "credits": 8,
+        "syllabus": "Elaboração, planejamento e execução de atividades de ensino de matemática, seguida de análise e reestruturação das mesmas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA902",
+        "name": "Estágio Supervisionado II",
+        "credits": 8,
+        "syllabus": "Elaboração, planejamento e execução de atividades de ensino de matemática, seguida de análise e reestruturação das mesmas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA903",
+        "name": "Iniciação Científica I",
+        "credits": 4,
+        "syllabus": "Iniciação a um projeto de pesquisa sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MA904"
+        ]
+    },
+    {
+        "code": "MA904",
+        "name": "Iniciação Científica II",
+        "credits": 4,
+        "syllabus": "Iniciação a um projeto de pesquisa sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA903"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MA905",
+        "name": "Prática de Pesquisa em Matemática",
+        "credits": 4,
+        "syllabus": "Uso de bases de dados eletrônicas, como por exemplo Mathscinet, Google Scholar, arXiv e Portal Capes, para pesquisa bibliográfica. Produção de textos matemáticos baseados em LaTeX. Prática de apresentação de seminários em matemática.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

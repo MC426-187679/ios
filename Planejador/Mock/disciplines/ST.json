@@ -1,0 +1,4394 @@
+[
+    {
+        "code": "ST001",
+        "name": "Português",
+        "credits": 2,
+        "syllabus": "Desenvolvimento verbal. Organização do pensamento. Linguagem escrita e falada. Redação de textos técnicos. Elaboração de Relatório. Regras de tratamento e utilização de tempos verbais."
+    },
+    {
+        "code": "ST002",
+        "name": "Inglês Técnico",
+        "credits": 2,
+        "syllabus": "Traduções e Interpretações de Textos Técnicos. Vocabulário e Gramática."
+    },
+    {
+        "code": "ST003",
+        "name": "Teorias da Qualidade",
+        "credits": 2,
+        "syllabus": "Conceitos de Qualidade. As Teorias da Qualidade. Normas para a Qualidade. Controle Estatístico do Processo. Evolução Histórica da Administração da Qualidade."
+    },
+    {
+        "code": "ST004",
+        "name": "Legislação Trabalhista e Segurança do Trabalho",
+        "credits": 2,
+        "syllabus": "Direito Trabalhista: Conceito e formação histórica. O empregador e o empregado. Contrato de trabalho e suas alterações. Salário e remuneração. Estabilidade. Normas gerais de proteção ao trabalho. A justiça do trabalho. Previdência social. Segurança do trabalho: Introdução à segurança, higiene e medicina do trabalho. Avaliação e controle dos riscos profissionais. Normas e leis. Proteção contra incêndios. Responsabilidades sobre acidentes."
+    },
+    {
+        "code": "ST005",
+        "name": "Relações Humanas",
+        "credits": 3,
+        "syllabus": "Das ciências do comportamento: individual e social. Princípios éticos e hierárquicos. Da divisão das pessoas: naturais e jurídicas. Da responsabilidade civil. Direitos Humanos e suas implicações nas relações individuais. Noções de Direito Civil."
+    },
+    {
+        "code": "ST007",
+        "name": "Humanidades",
+        "credits": 2,
+        "syllabus": "Estrutura do mundo moderno. Ação do indivíduo na atualidade. Os veículos de comunicação em massas. As artes e sua conceituação. O indivíduo como componente de um mundo cultural. O cinema, o teatro e sua importância no mundo moderno. Os grandes conflitos e suas consequências no plano cultural. Relacionamento entre os povos."
+    },
+    {
+        "code": "ST008",
+        "name": "Metodologia do Trabalho Científico",
+        "credits": 2,
+        "syllabus": "Método científico: conceitos e histórico; métodos e técnicas de pesquisa; Pesquisa: conceitos, definições e tipos; elaboração, comunicação e divulgação da pesquisa: fases da elaboração da pesquisa, comunicação da pesquisa (estrutura, forma e conteúdo); normas ABNT; linguagem científica; monografias; dissertações; teses, relatórios técnicos; artigos; eventos científicos."
+    },
+    {
+        "code": "ST009",
+        "name": "Regulamentação e Política Ambiental",
+        "credits": 4,
+        "syllabus": "Legislação ambiental na constituição federal. Legislação ambiental na constituição estadual. Política nacional do meio ambiente. História do movimento ambientalista no Brasil."
+    },
+    {
+        "code": "ST010",
+        "name": "Casa de Química e Laboratório de ETAs",
+        "credits": 3,
+        "syllabus": "Produtos químicos para tratamento de água. Armazenamento. Preparação de soluções e suspensões. Dosagens. Sulfato de alumínio. Cloreto férrico. Álcalis. Cloro e compostos de cloro. Compostos de flúor. Carvão ativado. Polímeros. Organização de laboratório físico-químico. Organização de laboratório bacteriológico.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST011",
+        "name": "Tópicos Especiais de Coagulação-Floculação em ETAs",
+        "credits": 2,
+        "syllabus": "Estabilidade das partículas coloidais e substâncias húmicas. Coagulantes e mecanismos de coagulação. Diagramas de coagulação. Auxiliares de floculação. Interação entre partículas na água. Mistura rápida e floculação. Parâmetros de projeto. Unidades de mistura rápida: tipos e dimensionamento. Unidades de floculação: tipos e dimensionamento.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST012",
+        "name": "Tópicos Especiais de Sedimentação em ETAs",
+        "credits": 2,
+        "syllabus": "Teoria da sedimentação. Decantador ideal e não ideal. Decantadores simples. Projeto de decantadores convencionais de escoamento horizontal. Decantadores convencionais com escoamento vertical. Decantadores de alta taxa.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST013",
+        "name": "Tópicos Especiais de Filtração em ETAs",
+        "credits": 2,
+        "syllabus": "Teoria da filtração rápida e da fluidificação. Características dos filtros rápidos. Fundo dos filtros rápidos. Lavagem dos filtros rápidos. Controle dos filtros rápidos. Filtração direta descendente. Filtração direta ascendente. Filtração lenta.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST014",
+        "name": "Irrigação",
+        "credits": 2,
+        "syllabus": "Introdução. Transferência no sistema solo-água-planta-atmosfera. Demanda de água para irrigação. Estudo de estiagens. Métodos de irrigação.",
+        "reqs": [
+            [
+                {
+                    "code": "ST306"
+                },
+                {
+                    "code": "ST403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST015",
+        "name": "Resíduos Sólidos Industriais",
+        "credits": 2,
+        "syllabus": "Caracterização. Classificação. Armazenamento. Tratamento e disposição final. Legislação de controle.",
+        "reqs": [
+            [
+                {
+                    "code": "ST574"
+                },
+                {
+                    "code": "ST671"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST016",
+        "name": "Tópicos Especiais em Saneamento Básico",
+        "credits": 2,
+        "syllabus": "Estudo de assuntos relevantes introduzidos em Saneamento Básico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST017",
+        "name": "Estudos Econômicos do Saneamento Básico",
+        "credits": 2,
+        "syllabus": "Custos do saneamento básico. Custos de implantação e manutenção de sistemas de saneamento básico. Histórico dos programas nacionais de saneamento. Linhas de financiamento.",
+        "reqs": [
+            [
+                {
+                    "code": "ST211"
+                },
+                {
+                    "code": "TT101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST018",
+        "name": "Saneamento Básico e Impacto Ambiental",
+        "credits": 2,
+        "syllabus": "Os impactos ambientais provocados pelas obras de saneamento: caracterização dos problemas. Estudos e medidas mitigadoras. EIA-RIMA.",
+        "reqs": [
+            [
+                {
+                    "code": "ST207"
+                },
+                {
+                    "code": "ST405"
+                },
+                {
+                    "code": "ST613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST019",
+        "name": "A Sociedade e os Portadores de Necessidades Especiais",
+        "credits": 2,
+        "syllabus": "Histórico. Legislação. Desenho universal. Inclusão. Tecnologia assistiva. O trabalho e a legislação. Trabalho prático.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST020",
+        "name": "Processos Construtivos",
+        "credits": 2,
+        "syllabus": "A evolução tecnológica da construção na história. Exposição dos processos: taipa de mão, taipa de pilão, alvenaria de cerâmica, alvenaria de blocos, alvenaria armada e sistemas industrializados.",
+        "reqs": [
+            [
+                {
+                    "code": "ST515",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST021",
+        "name": "Projeto Executivo",
+        "credits": 4,
+        "syllabus": "Metodologia para desenvolvimento de projeto de execução. A interação entre os vários níveis de projeto. A coordenação entre projetos: arquitetônico, estrutural, hidráulico, elétrico e outros.",
+        "reqs": [
+            [
+                {
+                    "code": "ST525",
+                    "partial": true
+                },
+                {
+                    "code": "ST626",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST022",
+        "name": "Instalações Prediais Hidráulico-Sanitárias - Complementação",
+        "credits": 4,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "ST626"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST023",
+        "name": "Instalações Prediais Elétricas - Complementação",
+        "credits": 4,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "ST525"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST024",
+        "name": "Prática da Construção Civil III",
+        "credits": 2,
+        "syllabus": "Movimento de terra: escoramento de vizinhos, cuidados legais, vistorias. Fundações: riscos a construções próximas. Lençol freático. Concreto: microssílica, concretos especiais. Concreto aparente: tratamentos. Instalações: interferências com a estrutura de concreto e entre hidráulica e elétrica; ar condicionado; telefone, interfone, antena coletiva em edifícios. Visitas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST515"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST025",
+        "name": "Computação Gráfica Aplicada I",
+        "credits": 4,
+        "syllabus": "Desenho técnico auxiliado por computador em duas dimensões.",
+        "reqs": [
+            [
+                {
+                    "code": "ST103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST026"
+        ]
+    },
+    {
+        "code": "ST026",
+        "name": "Computação Gráfica Aplicada II",
+        "credits": 4,
+        "syllabus": "Desenho técnico auxiliado por computador em três dimensões.",
+        "reqs": [
+            [
+                {
+                    "code": "ST025",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST213",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST617"
+        ]
+    },
+    {
+        "code": "ST027",
+        "name": "Tópicos Especiais em Edifícios",
+        "credits": 2,
+        "syllabus": "Estudo de assuntos relevantes introduzidos em Edifícios.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST028",
+        "name": "Orçamentos de Construções",
+        "credits": 4,
+        "syllabus": "Sistemas de contratos. Fundamentos de concorrência. Dados de projetos e memoriais descritivos. Gestão de orçamentos: planos de contas, estimativas de custos, custos diretos e indiretos, composição de preços unitários, orçamentos sintéticos e analíticos, relatórios sintéticos e analíticos de custos e insumos. Curvas ABC de custos e insumos, impostos, encargos sociais, benefícios e despesas indiretas-BDI. Aplicativos Computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "ST515",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST029",
+        "name": "Barreiras Arquitetônicas e os Portadores de Necessidades Especiais",
+        "credits": 2,
+        "syllabus": "NBR 9050 e suas aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST030",
+        "name": "Investigação do Subsolo",
+        "credits": 2,
+        "syllabus": "Introdução. Conceituação. Importância do conhecimento do subsolo. Métodos geofísicos indiretos de investigação do subsolo. Métodos semidiretos: prova de carga direta sobre placa metálica; ensaio de palheta (vane-test); ensaio de penetração do cone (deep sounding); ensaios pressiométricos. Métodos diretos: abertura de poços e trincheiras; sondagens - diversos tipos. Determinação da permeabilidade in situ de solos - diversos métodos. Controle de compactação no campo. Considerações finais - conclusões.",
+        "reqs": [
+            [
+                {
+                    "code": "ST536"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST031",
+        "name": "Drenagem de Estradas",
+        "credits": 4,
+        "syllabus": "Considerações gerais. Drenagem de superfície. Drenagem de profundidade. Utilização de materiais sintéticos em drenagem.",
+        "reqs": [
+            [
+                {
+                    "code": "ST306"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST032",
+        "name": "Elementos de Mecânica das Rochas",
+        "credits": 4,
+        "syllabus": "Introdução. Propriedades mecânicas da rocha intacta. Propriedades mecânicas das descontinuidades. Estabilidade de taludes em rochas. Aplicação da mecânica das rochas às fundações de barragens. Aplicação da mecânica das rochas a túneis e cavidades subterrâneas. Classificação geomecânica de maciços rochosos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST537"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST033",
+        "name": "Tópicos Especiais em Obras de Solos",
+        "credits": 2,
+        "syllabus": "Estudo de assuntos relevantes introduzidos em Obras de Solos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST034",
+        "name": "Gerenciamento de Resíduos Sólidos Domiciliares",
+        "credits": 2,
+        "syllabus": "Gestão integral de resíduos sólidos urbanos. Origem e composição dos resíduos sólidos. Serviços de limpeza. Disposição final dos resíduos sólidos. Tratamento dos resíduos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST035",
+        "name": "Tratamento de Efluentes por Processos Químicos Avançados",
+        "credits": 4,
+        "syllabus": "Tratamento de Efluentes por meio de Processos Oxidativos Avançados (POAs). Estudos dos Processos de Tratamento empregando Ozônio, Peróxido de Hidrogênio, Reação de Fenton. Processos Fotocatalítico, Eletroquímico e Fotoeletroquímico. Estudos mecanísticos de cada método. Práticas empregando Fotocatálise e processos Eletroquímicos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST572"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST037",
+        "name": "Microbiologia Aplicada",
+        "credits": 2,
+        "syllabus": "Estudo da Microbiologia. Diversidade dos micro-organismos. Ecologia microbiana do solo e a recuperação de áreas degradadas. Biodegradação e Biorremediação. Métodos de avaliação da atividade microbiana no solo.",
+        "reqs": [
+            [
+                {
+                    "code": "ST207"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST040",
+        "name": "Cálculo de N Variáveis",
+        "credits": 2,
+        "syllabus": "Funções de n variáveis, domínio e imagem; continuidade e limites; derivadas parciais; gradiente e derivadas dirigidas; integrais de linha, integrais de superfície e integrais de volume.",
+        "reqs": [
+            [
+                {
+                    "code": "TT201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST041",
+        "name": "Introdução a Interfaces Homem-Computador",
+        "credits": 2,
+        "syllabus": "Construção de Interfaces Homem-Computador. Aspectos Humanos e Tecnológicos. Uso de Ferramentas para desenvolvimento de interfaces de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST365"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST042",
+        "name": "Processo de Projeto",
+        "credits": 2,
+        "syllabus": "A importância do projeto nos empreendimentos imobiliários. Idealização do Produto. Projetos do Produto. Indicadores da Qualidade em Projeto. Projetos para Produção. Projeto As Built. Avaliação Pós-Ocupação.",
+        "reqs": [
+            [
+                {
+                    "code": "ST515",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST043",
+        "name": "Biomatemática",
+        "credits": 2,
+        "syllabus": "Evolução dos modelos. Formulação e estudo de modelos matemáticos ligados à biomatemática.",
+        "reqs": [
+            [
+                {
+                    "code": "EB101",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "TT101",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST044",
+        "name": "Alvenaria Estrutural",
+        "credits": 4,
+        "syllabus": "Histórico e arquitetura, materiais, sistema construtivo, modulação, concepção, estrutural, distribuição das ações, tensões admissíveis, vergas e vigas, paredes e pilares, disposições construtivas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST527",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST045",
+        "name": "Hidrologia das Águas Subterrâneas",
+        "credits": 2,
+        "syllabus": "Recursos hídricos. Tipos de aquífero. Origem e distribuição das águas subterrâneas. Processos físicos do fluxo de água em meios porosos e fraturados. Métodos de investigação das águas subsuperficiais e subterrâneas. Noções de hidrogeoquímica de águas subterrâneas. Físico-química dos processos de contaminação de águas subterrâneas. Processos de descontaminação e remediação de áreas contaminadas. Estudos de casos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST306",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST046",
+        "name": "Projeto de Estruturas de Concreto Assistido por Computador",
+        "credits": 4,
+        "syllabus": "Modelagem. Lançamento da estrutura e análise estrutural. Avaliação estrutural: durabilidade, estabilidade global e estados limites de serviço. Obtenção de esforços. Dimensionamento.",
+        "reqs": [
+            [
+                {
+                    "code": "ST628",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST047",
+        "name": "Introdução a Interfaces Humano-Computador",
+        "credits": 2,
+        "syllabus": "Construção de Interfaces Humano-Computador. Aspectos Humanos e Tecnológicos. Uso de Ferramentas para desenvolvimento de interfaces de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST266"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST048",
+        "name": "Compiladores",
+        "credits": 4,
+        "syllabus": "Teoria de linguagens. Análise léxica e sintática. Geração e otimização de código. Análise semântica. Aspectos e ferramentas para construção de compiladores.",
+        "reqs": [
+            [
+                {
+                    "code": "TT304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST049",
+        "name": "Sistemas Distribuídos",
+        "credits": 4,
+        "syllabus": "Coordenação, sincronização e comunicação entre processos. Sistemas operacionais distribuídos: Sistemas de arquivos, Servidores de nomes, Memória compartilhada. Segurança.",
+        "reqs": [
+            [
+                {
+                    "code": "ST568"
+                },
+                {
+                    "code": "TT304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST050",
+        "name": "Tópicos Avançados em Redes",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida na ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "ST564"
+                }
+            ],
+            [
+                {
+                    "code": "ST568"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST051",
+        "name": "Protocolos de Comunicação e Redes",
+        "credits": 2,
+        "syllabus": "Modelo OSI; arquiteturas TCP/IP; interconexão de redes e transporte; protocolo IPv4; protocolo IPv6; protocolo ICMP; protocolo ARP; protocolo RARP; DNS; protocolo RSVP; protocolo TCP; protocolo UDP; protocolo de roteamento; protocolo RIP; protocolo Hello; protocolo OSPF; protocolo IGPR; protocolo EGP; protocolo BGP; protocolo CDIR; outros protocolos; protocolo SNMP; protocolo SMTP; protocolo FTP; protocolo X.25; ISDN; ATM; Multicast.",
+        "reqs": [
+            [
+                {
+                    "code": "ST564"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST052",
+        "name": "Introdução ao Processamento Discreto de Sinais",
+        "credits": 4,
+        "syllabus": "Sinais e Sistemas Discretos no Tempo. Amostragem de Sinais Contínuos no Tempo. Transformada de Fourier Discreta. Computação e Análise de Sinais usando Transformada de Fourier Discreta.",
+        "reqs": [
+            [
+                {
+                    "code": "ST462"
+                }
+            ],
+            [
+                {
+                    "code": "TT220"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST053",
+        "name": "Tópicos em Modelagem Computacional",
+        "credits": 4,
+        "syllabus": "Aplicações computacionais na resolução de problemas de diferentes naturezas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST462"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST054",
+        "name": "Protocolos de Comunicação e Redes",
+        "credits": 2,
+        "syllabus": "Protocolos adaptativos. Protocolos de sinalização. Implementação de protocolos de comunicação. Máquinas de estado dirigidas por eventos. Modelos de tráfego em redes. Simulações e emulações.",
+        "reqs": [
+            [
+                {
+                    "code": "ST568"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST055",
+        "name": "Tópicos Especiais em Edifícios II",
+        "credits": 2,
+        "syllabus": "Estudo de assuntos relevantes introduzidos em Edifícios.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST056",
+        "name": "Tópicos Especiais em Edifícios III",
+        "credits": 4,
+        "syllabus": "Estudo de assuntos relevantes introduzidos em Edifícios.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST057",
+        "name": "Tópicos Especiais em Edifícios IV",
+        "credits": 4,
+        "syllabus": "Estudo de assuntos relevantes introduzidos em Edifícios.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST058",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "A ser definida em função de pesquisas em que o aluno se engajar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST059",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "A ser definida em função de pesquisas em que o aluno se engajar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST060",
+        "name": "Tópicos Avançados em Banco de Dados",
+        "credits": 4,
+        "syllabus": "Estudo de assuntos avançados em Banco de Dados. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "ST567"
+                }
+            ],
+            [
+                {
+                    "code": "ST661"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST061",
+        "name": "Tópicos Avançados em Programação",
+        "credits": 4,
+        "syllabus": "Estudo de Assuntos Avançados em Programação.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201"
+                }
+            ],
+            [
+                {
+                    "code": "SI300"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST062",
+        "name": "Engenharia de Software III",
+        "credits": 4,
+        "syllabus": "Aplicação de técnicas de engenharia de software em um ambiente simulado para o desenvolvimento, validação e verificação de sistemas de software.",
+        "reqs": [
+            [
+                {
+                    "code": "SI304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST063",
+        "name": "Introdução à Eletrônica",
+        "credits": 4,
+        "syllabus": "Introdução à Teoria dos Circuitos. Corrente Contínua e Alternada. Instrumentos para uso em Laboratório. Noções sobre Componentes Eletrônicos Básicos.",
+        "reqs": [
+            [
+                {
+                    "code": "TT101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST094"
+        ]
+    },
+    {
+        "code": "ST065",
+        "name": "Introdução a Microprocessadores",
+        "credits": 4,
+        "syllabus": "Controladores. Projeto de Controladores. Microprocessadores Comerciais. Instruções dos Microprocessadores. Operações de Entrada e Saída.",
+        "reqs": [
+            [
+                {
+                    "code": "ST161"
+                },
+                {
+                    "code": "TT106"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST066",
+        "name": "Tópicos Avançados em Arquitetura de Computadores",
+        "credits": 4,
+        "syllabus": "Tópicos de organização e arquitetura. Máquinas multinível. Máquinas risc. Arquitetura paralela. Arquiteturas avançadas e alternativas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST261"
+                }
+            ],
+            [
+                {
+                    "code": "TT106"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST067",
+        "name": "Tópicos Especiais em Informática",
+        "credits": 4,
+        "syllabus": "Estudo de Assuntos Especiais de Informática de acordo com a Evolução Tecnológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA425",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST068",
+        "name": "Introdução à Inteligência Artificial",
+        "credits": 4,
+        "syllabus": "Introdução à Inteligência Artificial. Lógica e Dedução. Estratégias de busca. Sistemas Especialistas. Processamento de Linguagem Natural. Sistemas de programação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "ST363"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST069",
+        "name": "Tópicos em Teoria da Computação",
+        "credits": 4,
+        "syllabus": "Estudo de Assuntos Especiais em Teoria da Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "EB102"
+                },
+                {
+                    "code": "SI201"
+                }
+            ],
+            [
+                {
+                    "code": "SI201"
+                },
+                {
+                    "code": "SI221"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST070",
+        "name": "Radiações Não Ionizantes",
+        "credits": 2,
+        "syllabus": "Terminologia utilizada. Campo elétrico, campo magnético e campo eletromagnético. Influência da distância nos campos eletromagnéticos. Campo próximo e campo distante. Radiofreqüência, microondas, radiações infravermelhas, radiações ultravioletas, laser - conceituação, limites de tolerância e medidas de controle. Normas internacionais. Avaliação da exposição a radiações não-ionizantes. Efeitos biológicos das radiações não-ionizantes nos seres humanos. Exemplo de trabalhos e processos utilizando radiação não-ionizante e seu controle.",
+        "reqs": [
+            [
+                {
+                    "code": "ST209"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST071",
+        "name": "Ciência da Mudança Global",
+        "credits": 2,
+        "syllabus": "Histórico das mudanças globais. Clima e Sistemas hidrológicos. Processos estratosféricos e influência solar. Ciclos biogeoquímicos. Sistemas ecológicos e seu desenvolvimento. Evolução humana e sua interação com o meio ambiente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST072",
+        "name": "Recursos Energéticos e Meio Ambiente",
+        "credits": 2,
+        "syllabus": "Recursos energéticos e matriz energética do Brasil. Atividades antrópicas, demanda de energia e desenvolvimento socioeconômico. Disponibilidade de fontes e avaliação do potencial de geração de energia. Energia elétrica: fundamentos sobre geração, transmissão e distribuição. Usinas hidroelétricas, termoelétricas e nucleares. Energia solar. Energia eólica. Energia fóssil. Energia da biomassa. Impactos ambientais decorrentes da geração, transmissão, disponibilidade e oferta de energia no desenvolvimento regional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST073",
+        "name": "Qualidade do Meio Ambiente e Normas Específicas",
+        "credits": 2,
+        "syllabus": "Noções sobre qualidade. Desenvolvimento histórico da qualidade nas organizações. Noções sobre as normas ISO 9000. Planejamento estratégico nas organizações e sua importância para a gestão ambiental. Técnicas de qualidade aplicadas ao meio ambiente. Normas internacionais: Responsable Care (Atuação Responsável - ABIQUIM), ISO 14001."
+    },
+    {
+        "code": "ST074",
+        "name": "Técnica de Amostragem de Poluentes Atmosféricos",
+        "credits": 2,
+        "syllabus": "Metodologia de avaliação das características qualitativas e quantitativas de amostragem. Normas técnicas específicas de amostragem. Realização prática de amostragem de chaminé.",
+        "reqs": [
+            [
+                {
+                    "code": "ST675"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST075",
+        "name": "Tópicos Especiais em Controle Ambiental",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes introduzidos na área de interesse.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST076",
+        "name": "Ecossistemas Marinhos Costeiros",
+        "credits": 4,
+        "syllabus": "Populações marinhas costeiras. Fatores ecológicos em ambiente marinho. Biodiversidade. Influência do crescimento populacional humano no ambiente marinho costeiro. Influência de emissários de esgotos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST207"
+                },
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST077",
+        "name": "Preservação e Conservação de Recursos Hídricos",
+        "credits": 2,
+        "syllabus": "Usos múltiplos dos recursos hídricos. Planejamento territorial e conservação dos recursos hídricos. Uso múltiplo e integrado de recursos hídricos. Avaliação de impactos ambientais.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST078",
+        "name": "Meio Ambiente e Desenvolvimento",
+        "credits": 2,
+        "syllabus": "Temas ligados aos grandes desafios atuais envolvendo questões ambientais: aquecimento global e clima mundial, matriz energética, consumo consciente, geração de resíduos, consumo da água, preservação de florestas naturais, sustentabilidade (Agenda 21, Relatório Brundtland, Protocolo de Kyoto).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST080",
+        "name": "Radiação Ionizante",
+        "credits": 2,
+        "syllabus": "Terminologia utilizada. Conceituação de acidente, irradiação, contaminação, monitoração e dose. Limites de doses. Normas da CNEN - Comissão Nacional de Energia Nuclear. Introdução à proteção radiológica. Avaliação da exposição a radiações ionizantes. Efeitos biológicos das radiações ionizantes nos seres humanos. Métodos de controle da exposição. Exemplo de trabalhos e processos utilizando radiação ionizante e seu controle. O descarte de fontes radioativas e do lixo nuclear. Principais acidentes ambientais envolvendo materiais radioativos registrados.",
+        "reqs": [
+            [
+                {
+                    "code": "ST209"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST081",
+        "name": "Cidade e Meio Ambiente",
+        "credits": 2,
+        "syllabus": "Urbanização brasileira: políticas e influência no meio ambiente. Iniciativas locais de desenvolvimento sustentável. Desenvolvimento e políticas públicas de sucesso. Riscos ambientais. Dimensões sociais e econômicas. Pesquisa de campo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST083",
+        "name": "Recuperação de Áreas Degradadas",
+        "credits": 2,
+        "syllabus": "Conceitos de degradação e recuperação; ecologia florestal, restauração de processos ecológicos, procedimentos para recuperação de áreas degradadas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST084",
+        "name": "Cromatografia Gasosa Aplicada ao Saneamento",
+        "credits": 2,
+        "syllabus": "Definições básicas da cromatografia gasosa e evolução histórica; Esquema de um cromatógrafo a gás; Instrumentação básica; Parâmentros fundamentais; Fases estacionárias; Colunas cromatográficas; Detectores: Características básicas; Detector por Ionização em Chama (DIC); Análises Quantitativas e Qualitativas aplicadas a amostras ambientais; Coleta e preservação de amostras; Pré-concentração de amostras ambientais; Padronização; Curvas de calibração.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST085",
+        "name": "Tópicos Especiais em Saneamento Básico I",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes introduzidos em saneamento básico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST086",
+        "name": "Tópicos Especiais em Saneamento Básico II",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes introduzidos em saneamento básico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST087",
+        "name": "Tópicos Especiais em Saneamento Básico III",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes introduzidos em saneamento básico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST088",
+        "name": "Tópicos Especiais em Controle Ambiental I",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes introduzidos na área de interesse.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST089",
+        "name": "Tópicos Especiais em Controle Ambiental II",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes introduzidos na área de interesse.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST090",
+        "name": "Ergonomia - Aplicação Prática ao Trabalho",
+        "credits": 2,
+        "syllabus": "Conceitos sobre o estudo do espaço, posturas e posições de trabalho. Manipulação de materiais e ferramentas manuais. Movimentação de materiais. Trabalho repetitivo e com computador. Organização do trabalho. A importância da antropometria na adequação do trabalho ao homem. Condições ambientais de trabalho (Norma Regulamentadora 17). Avaliação ergonômica: roteiros e métodos para simplificar a avaliação."
+    },
+    {
+        "code": "ST091",
+        "name": "Tópicos em Tecnologia da Construção Civil",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes na construção civil de acordo com a evolução tecnológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST092",
+        "name": "Tópicos em Tecnologia Sanitária",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes na área de saneamento ambiental de acordo com a evolução tecnológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST093",
+        "name": "Tópicos em Tecnologia de Informática",
+        "credits": 2,
+        "syllabus": "Estudo de assuntos relevantes em informática de acordo com a evolução tecnológica."
+    },
+    {
+        "code": "ST094",
+        "name": "Introdução às Telecomunicações",
+        "credits": 2,
+        "syllabus": "Sistemas de comunicação. Propagação de ondas eletromagnéticas. Eletrônica básica para telecomunicações: amplificadores, osciladores, filtros e casamento de impedâncias. Modulação em amplitude e frequência. Modulação chaveada. Rádio digital. Telefonia celular. Comunicação por satélites. Transmissão digital. Transmissão por fibras ópticas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST063"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST095",
+        "name": "Técnicas de Interfaceamento com Computadores",
+        "credits": 4,
+        "syllabus": "Organização geral de um computador. Dispositivos de entrada e saída. Portas paralelas e seriais. Técnicas de interfaceamento usando portas paralelas. Técnicas de interfaceamento usando portas seriais. Desenvolvimento de hardware para interfaceamento. Aplicações práticas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT106"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST096",
+        "name": "Ciência, Tecnologia e Sociedade",
+        "credits": 2,
+        "syllabus": "Estudo de aspectos das relações entre ciência, tecnologia e sociedade ao longo da história, com ênfase na atualidade; análise de valores e ideologias envolvendo a produção e divulgação da ciência e da tecnologia; diferentes concepções de ciência, técnica e tecnologia e de suas relações; a participação pública na produção e nos debates envolvendo simultaneamente questões científicas, técnicas, tecnológicas e sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA435",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST097",
+        "name": "Tópicos em Ciência, Tecnologia e Sociedade",
+        "credits": 2,
+        "syllabus": "Tópicos selecionados de aprofundamento nos estudos sobre aspectos de relações entre ciência, tecnologia e sociedade, visando ao desenvolvimento de trabalhos que culminem na elaboração de artigos de divulgação científico-tecnológica produzidos pelos estudantes, e/ou o desenvolvimento de análises de situações relacionadas à sua área profissional, sob orientação do professor, com a aplicação de conhecimentos adquiridos na disciplina anterior.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST098",
+        "name": "Gestão de Recursos Ambientais e Sociais",
+        "credits": 2,
+        "syllabus": "Responsabilidade social das empresas: gestão do impacto ambiental na ótica econômica; comunidades locais; parceiros; direitos humanos; rótulos sociais e ecológicos; Investimento socialmente responsável; modelos de análise de impactos sociais e ambientais."
+    },
+    {
+        "code": "ST099",
+        "name": "Autômatos",
+        "credits": 4,
+        "syllabus": "Revisão de Conceitos Básicos. Alfabetos e linguagens. Autômatos Finitos. Linguagens Regulares. Linguagens Livres de Contexto. Linguagens Recursivas e Linguagem Recursivamente Enumeráveis. Computabilidade e Decidibilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST100",
+        "name": "Tópicos Especiais em Controle Ambiental III",
+        "credits": 2,
+        "syllabus": "Estudos de assuntos relevantes introduzidos na área de interesse.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST103",
+        "name": "Desenho Técnico",
+        "credits": 4,
+        "syllabus": "Noções fundamentais para o desenho técnico. Teoria das projeções ortogonais. Aplicação das projeções nos desenhos de arquitetura. Perspectivas axiométrica e isométrica.",
+        "reqBy": [
+            "EB502",
+            "ST025",
+            "ST213",
+            "ST214",
+            "ST301"
+        ]
+    },
+    {
+        "code": "ST107",
+        "name": "Biologia Aplicada I",
+        "credits": 4,
+        "syllabus": "Noções básicas sobre biologia celular e molecular. Principais grupos de organismos de importância no saneamento ambiental (microrganismos, protozoários e metazoários). Principais doenças relacionadas. Noções sobre segurança em laboratórios e controle de microrganismos. Cultura e observação microscópica.",
+        "reqBy": [
+            "EB207",
+            "ST207"
+        ]
+    },
+    {
+        "code": "ST108",
+        "name": "Química Aplicada",
+        "credits": 6,
+        "syllabus": "Estrutura atômica. Periodicidade Química. Ligações Químicas. Geometria e Interações Intermoleculares. Propriedades físicas da matéria. Teorias ácido-base e funções inorgânicas. Gases e poluentes atmosféricos. Balanceamento de reações químicas. Equilíbrio Químico. Processos de óxido redução. Grandezas químicas e cálculos estequiométricos. Preparo e padronização de soluções. Instrumentação elementar para análises sanitário-ambientais. Tratamento e apresentação de dados de análises químicas. Noções de cinética química.",
+        "reqBy": [
+            "EB305",
+            "ST305",
+            "ST310"
+        ]
+    },
+    {
+        "code": "ST109",
+        "name": "Física Aplicada I",
+        "credits": 4,
+        "syllabus": "Vetores. Cinemática do ponto. Leis de Newton. Estática. Trabalho, energia e potência. Momento linear. Momento angular. Rotação de corpos rígidos.",
+        "reqBy": [
+            "EB203",
+            "ST209",
+            "ST210",
+            "ST215"
+        ]
+    },
+    {
+        "code": "ST111",
+        "name": "Ética e Educação Ambiental",
+        "credits": 4,
+        "syllabus": "Educação Ambiental. A relação ser Humano-Natureza e as Relações Sociais. A Responsabilidade Social sobre as Mudanças Globais. Valor social. A interdisciplinaridade como abordagem para a resolução de problemas. Metodologias participativas em trabalhos sociais. Estratégias de trabalho."
+    },
+    {
+        "code": "ST112",
+        "name": "Introdução à Construção de Edifícios",
+        "credits": 4,
+        "syllabus": "Estudo de assuntos relevantes na área de Construção de Edifícios."
+    },
+    {
+        "code": "ST113",
+        "name": "Fundamentos de Eletricidade",
+        "credits": 2,
+        "syllabus": "Conceitos de Eletrostática. Conceitos de Eletrodinâmica. Medições Elétricas. Instalações Elétricas. Normas para Instalações Elétricas."
+    },
+    {
+        "code": "ST114",
+        "name": "Fundamentos de Química Aplicada a Construção Civil",
+        "credits": 2,
+        "syllabus": "Revisão de conceitos básicos de Química. Propriedades Químicas de Materiais utilizados em Construção Civil. Reações Químicas. Equilíbrio Químico. Estudo de Casos."
+    },
+    {
+        "code": "ST115",
+        "name": "Processamento de Imagens",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de imagens digitais; representação de imagens; histograma; rotulação e filtragem; segmentação.",
+        "reqs": [
+            [
+                {
+                    "code": "EB102"
+                }
+            ],
+            [
+                {
+                    "code": "SI221"
+                }
+            ],
+            [
+                {
+                    "code": "TT202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST116",
+        "name": "Fundamentos de Jogos Digitais",
+        "credits": 4,
+        "syllabus": "Terminologia; Introdução à matemática e física de jogos; Princípios básicos de áudio e vídeo: características e manipulação; Técnicas e elementos para construção de jogos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST364"
+                },
+                {
+                    "code": "TT102"
+                }
+            ],
+            [
+                {
+                    "code": "ST765"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST117",
+        "name": "Introdução à Tecnologia em Saneamento Ambiental",
+        "credits": 2,
+        "syllabus": "Origem, evolução e situação atual do saneamento. Noções sobre poluição. Problemas ambientais locais, regionais e globais. Atribuições e competências do Tecnólogo em Saneamento Ambiental, aspectos legais e perspectivas profissionais."
+    },
+    {
+        "code": "ST118",
+        "name": "Análise de Sistemas de Informação I",
+        "credits": 4,
+        "syllabus": "Introdução ao Sistema de Informação. Conceitos Gerais de Sistemas de Informação. Ciclo de Vida de um Projeto de Sistemas. Viabilidade e Implementação de Sistemas. Ferramentas da Análise Estruturada. Diagramas de Fluxo de Dados. Dicionário de Dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ST265"
+                },
+                {
+                    "code": "TT106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST119"
+        ]
+    },
+    {
+        "code": "ST119",
+        "name": "Análise de Sistemas de Informação II",
+        "credits": 4,
+        "syllabus": "Análise de casos de uso. Análise orientada a objetos. Diagramas estáticos e dinâmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST118"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST120",
+        "name": "Administração de Informática",
+        "credits": 2,
+        "syllabus": "Evolução do uso da Informática na Organização. Recursos Humanos em Tecnologia da Informação. Relacionamento da Informática com o negócio: ambientes de tecnologia da informação, estados da administração, atitudes da alta gerência, função da informática na organização. Uso estratégico da tecnologia da informação. Modelo Genérico de Governança: Regulamentações e normas, alinhamento estratégico, planejamento de TI, Operações e Serviços, relacionamento com usuários e fornecedores e Segurança.",
+        "reqs": [
+            [
+                {
+                    "code": "TT350"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST161",
+        "name": "Introdução à Lógica",
+        "credits": 4,
+        "syllabus": "Cálculo Proposicional. Teoria dos Conjuntos. Álgebra Booleana. Funções Lógicas e Circuitos Combinacionais. Mapas de Karnaugh.",
+        "reqBy": [
+            "ST065",
+            "TT040"
+        ]
+    },
+    {
+        "code": "ST163",
+        "name": "Linguagem e Técnica de Programação I",
+        "credits": 6,
+        "syllabus": "Conceito de Algoritmo e Programa. Algoritmos: Representações, Técnicas de Construção e Estruturas. Representação de dados. Introdução a uma Linguagem de Programação de Alto Nível. Implementação de Programas."
+    },
+    {
+        "code": "ST164",
+        "name": "Elementos Básicos de Computação",
+        "credits": 2,
+        "syllabus": "Histórico do computador. Partes componentes de um computador. Introdução à informática. Sistemas numéricos. Noções de sistemas operacionais, compiladores, interpretadores, bancos de dados, redes e internet."
+    },
+    {
+        "code": "ST207",
+        "name": "Biologia Aplicada II",
+        "credits": 4,
+        "syllabus": "Hidrobiologia sanitária. Análises bacteriológicas da água (Colimetria). A água como meio ecológico. Cíclos Biogeoquímicos. Problemas causados por organismos ao abastecimento. Noções de ecossistemas aquáticos. Controle de organismos em águas de abastecimento. Efeitos biológicos da poluição. Depuração Biológica de águas residuárias.",
+        "reqs": [
+            [
+                {
+                    "code": "ST107"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB506",
+            "ST018",
+            "ST037",
+            "ST076",
+            "ST307",
+            "ST308",
+            "ST614",
+            "ST620",
+            "ST712"
+        ]
+    },
+    {
+        "code": "ST209",
+        "name": "Física Aplicada II",
+        "credits": 4,
+        "syllabus": "Oscilações. Ondas mecânicas. Deformações e elasticidade. Noções de hidrostática e hidrodinâmica. Termologia. Noções de termodinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "EB103"
+                }
+            ],
+            [
+                {
+                    "code": "ST109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST070",
+            "ST080",
+            "ST303",
+            "ST309",
+            "ST511",
+            "ST776",
+            "TT092",
+            "TT093",
+            "TT097"
+        ]
+    },
+    {
+        "code": "ST210",
+        "name": "Eletrotécnica Aplicada",
+        "credits": 4,
+        "syllabus": "Conceitos de eletrostática. Eletrodinâmica. Geradores. Resistores. Medidas de grandezas elétricas. Leis de Kirchhoff. Campos magnéticos. Tensões e correntes alternadas. Transformadores. Motores.",
+        "reqs": [
+            [
+                {
+                    "code": "EB101"
+                },
+                {
+                    "code": "EB103"
+                }
+            ],
+            [
+                {
+                    "code": "ST109"
+                },
+                {
+                    "code": "TT101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST525"
+        ]
+    },
+    {
+        "code": "ST211",
+        "name": "Estatística",
+        "credits": 4,
+        "syllabus": "Estatística descritiva. Probabilidade. Distribuições: Binomial, Poisson e Normal. Amostragem Estimação. Testes de hipótese. Intervalos de confiança. Regressão. Correlação.",
+        "reqBy": [
+            "EB701",
+            "ST017",
+            "ST306",
+            "ST574",
+            "ST673",
+            "TT050",
+            "TT080"
+        ]
+    },
+    {
+        "code": "ST212",
+        "name": "Química Orgânica Aplicada",
+        "credits": 4,
+        "syllabus": "Estrutura eletrônica e ligação. Ácidos e bases orgânicas. Hidrocarbonetos: nomenclatura, propriedades, HPAs e impactos ambientais. Ésteres, óleos, gorduras e alimentos: classificação, grupos funcionais, características químicas e reações de interesse no saneamento. Fármacos e estrogênios ambientais: estruturas, identificação, características químicas, reações em ETAs. Defensivos agrícolas: principais estruturas, propriedades químicas, predição de compostos derivados. Compostos nitrogenados: nomenclatura, estruturas, propriedades físico-químicas, principais reações, usos e disposição no ambiente."
+    },
+    {
+        "code": "ST213",
+        "name": "Desenho Assistido por Computador",
+        "credits": 4,
+        "syllabus": "Introdução à computação gráfica. Representação gráfica em 2D. Desenho para construção civil.",
+        "reqs": [
+            [
+                {
+                    "code": "ST103",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST026",
+            "ST627"
+        ]
+    },
+    {
+        "code": "ST214",
+        "name": "Desenho Arquitetônico e Estrutural",
+        "credits": 2,
+        "syllabus": "Coordenação entre desenho arquitetônico e projeto estrutural (formas). Execução de cortes de um edifício constando o desenho arquitetônico e formas da estrutura.",
+        "reqs": [
+            [
+                {
+                    "code": "ST103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST627"
+        ]
+    },
+    {
+        "code": "ST215",
+        "name": "Mecânica Geral",
+        "credits": 4,
+        "syllabus": "Estática, conceitos fundamentais. Força. Momento de uma força. Vínculos e ligações. Grau de mobilidade. Trabalhos virtuais. Equilíbrio de fios, catenária e cabos parabólicos. Cinemática. Movimento, velocidade, aceleração. Dinâmica. Conservação de energia.",
+        "reqs": [
+            [
+                {
+                    "code": "EB101",
+                    "partial": true
+                },
+                {
+                    "code": "EB102",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "EB101",
+                    "partial": true
+                },
+                {
+                    "code": "ST362",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST109",
+                    "partial": true
+                },
+                {
+                    "code": "ST362",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST309",
+            "ST309",
+            "ST409"
+        ]
+    },
+    {
+        "code": "ST216",
+        "name": "Geologia Geral",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de geologia. Estrutura e composição da Terra. Tectônica de placas. Rochas e minerais. Processos desenvolvidos nas interfaces do Sistema Terra ao longo do tempo. Circulação atmosférica e clima. Noções de geologia estrutural e de engenharia. Mapas e representação gráfica de processos. Materiais terrestre como fonte de matéria-prima na construção civil. Geologia do Brasil e de São Paulo.",
+        "reqBy": [
+            "ST410"
+        ]
+    },
+    {
+        "code": "ST261",
+        "name": "Organização e Arquitetura de Computadores",
+        "credits": 4,
+        "syllabus": "Introdução à Organização Básica de Computadores. Representação de Informação. Unidades Funcionais. Memórias e CPUs. Interfaces. Descrição de Microprocessadores Típicos.",
+        "reqBy": [
+            "ST066"
+        ]
+    },
+    {
+        "code": "ST262",
+        "name": "Linguagem de Programação Comercial",
+        "credits": 4,
+        "syllabus": "Aplicação de conceitos de estruturação de dados, Organização e manipulação de Arquivos. Desenvolvimento de programas em uma linguagem de Programação Comercial.",
+        "reqs": [
+            [
+                {
+                    "code": "TT103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST563"
+        ]
+    },
+    {
+        "code": "ST263",
+        "name": "Laboratório de Programação I",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de Programas utilizando a Linguagem estudada em Linguagem e Técnicas de Programação I.",
+        "reqs": [
+            [
+                {
+                    "code": "TT103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST364"
+        ]
+    },
+    {
+        "code": "ST264",
+        "name": "Inglês para Informática",
+        "credits": 2,
+        "syllabus": "Compreensão e Interpretação de Textos Gerais e Técnicos. Tradução de textos de caráter eminentemente técnico."
+    },
+    {
+        "code": "ST265",
+        "name": "Laboratório de Programação I",
+        "credits": 4,
+        "syllabus": "Alocação dinâmica de memória. Manipulação de arquivos. Implementação de programas utilizando a Linguagem estudada em Linguagem e Técnicas de Programação I.",
+        "reqs": [
+            [
+                {
+                    "code": "TT130"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST118",
+            "ST363",
+            "ST364"
+        ]
+    },
+    {
+        "code": "ST266",
+        "name": "Engenharia de Software I",
+        "credits": 2,
+        "syllabus": "Produção de software. Paradigmas. Especificação de requisitos. Análise e projeto de software. Verificação e validação.",
+        "reqs": [
+            [
+                {
+                    "code": "SI100"
+                }
+            ],
+            [
+                {
+                    "code": "TT130"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI304",
+            "SI404",
+            "ST047",
+            "ST366",
+            "TT060"
+        ]
+    },
+    {
+        "code": "ST301",
+        "name": "Topografia I",
+        "credits": 6,
+        "syllabus": "Conceitos fundamentais. Fundamentos aerofotogramétricos e fotointerpretação. Cartas topográficas e sistemas de projeção. Planimetria e altimetria: Elementos básicos de geodésia. Introdução ao Sistema de Posicionamento Global (GPS). Aplicativos computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "ST103",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB701",
+            "ST306",
+            "ST401",
+            "ST409",
+            "ST611",
+            "ST612",
+            "ST613"
+        ]
+    },
+    {
+        "code": "ST303",
+        "name": "Hidrotécnica I",
+        "credits": 4,
+        "syllabus": "Fluido. Lei de Viscosidade de Newton. Estática dos fluidos. Manometria. Forças sobre superfícies planas e curvas. Escoamentos dos fluídos. Teorema de Reynolds. Equação da continuidade. Equação da quantidade de movimento. Equação da energia. Análise dimensional e semelhança.",
+        "reqs": [
+            [
+                {
+                    "code": "EB101",
+                    "partial": true
+                },
+                {
+                    "code": "EB103",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST209",
+                    "partial": true
+                },
+                {
+                    "code": "TT101",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST403",
+            "ST411",
+            "ST512",
+            "ST514",
+            "ST601",
+            "ST611",
+            "ST614",
+            "ST626"
+        ]
+    },
+    {
+        "code": "ST304",
+        "name": "Materiais de Construção Civil I",
+        "credits": 4,
+        "syllabus": "Normas. Agregados. Aglomerantes. Ensaios em Laboratório.",
+        "reqBy": [
+            "ST420"
+        ]
+    },
+    {
+        "code": "ST305",
+        "name": "Química Sanitária e Laboratório de Saneamento I",
+        "credits": 4,
+        "syllabus": "Importância da água. Parâmetros físicos e químicos indicadores de qualidade da água em saneamento ambiental: conceitos, aplicações e métodos para determinação em laboratório. Amostragem de corpos hídricos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST308",
+            "ST405"
+        ]
+    },
+    {
+        "code": "ST306",
+        "name": "Hidrologia e Drenagem",
+        "credits": 4,
+        "syllabus": "Ciência hidrologia. Ciclo hidrológico. Precipitação pluviométrica. Chuva crítica. Bacias hidrográficas. Medição de chuva e vazão. Escoamento superficial. Previsão de enchentes. Drenagem superficial. Drenagem subterrânea.",
+        "reqs": [
+            [
+                {
+                    "code": "ST211",
+                    "partial": true
+                },
+                {
+                    "code": "ST301",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST014",
+            "ST031",
+            "ST045",
+            "ST615"
+        ]
+    },
+    {
+        "code": "ST307",
+        "name": "Saúde Pública",
+        "credits": 4,
+        "syllabus": "Conceitos de Saúde. Noções de Epidemiologia. Epidemiologia Ambiental. Mudanças climáticas e o impacto na Saúde Pública. Doenças emergentes e reemergentes. Aspectos gerais das grandes endemias transmitidas por vetores no Brasil. Principais Zoonoses de interesse em Saúde Pública. Controle de vetores e da fauna sinantrópica. Noções de Vigilância Sanitária.",
+        "reqs": [
+            [
+                {
+                    "code": "ST207"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST308",
+        "name": "Poluição e Saneamento Ambiental",
+        "credits": 4,
+        "syllabus": "Noções sobre poluição ambiental. Introdução ao saneamento ambiental. Sistemas de controle de poluição hídrica. Sistemas de controle de poluição atmosférica. Atividades de limpeza pública. Sistemas de controle de poluição do solo. Resíduos sólidos. Processos e mecanismos legais para controle e preservação ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "ST207"
+                },
+                {
+                    "code": "ST305"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST422"
+        ]
+    },
+    {
+        "code": "ST309",
+        "name": "Resistência dos Materiais I",
+        "credits": 4,
+        "syllabus": "Vinculação das estruturas, definições e considerações gerais. Graus de mobilidade e classificação das estruturas. Esforços solicitantes e relações diferenciais. Diagramas de esforços solicitantes. Vigas isostáticas, pórticos e vigas Gerber. Momentos de 1a. e 2a. ordem, centro de gravidade e momentos de inércia.",
+        "reqs": [
+            [
+                {
+                    "code": "EB101",
+                    "partial": true
+                },
+                {
+                    "code": "ST215",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST209",
+                    "partial": true
+                },
+                {
+                    "code": "ST215",
+                    "partial": true
+                },
+                {
+                    "code": "TT101",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST423",
+            "ST735"
+        ]
+    },
+    {
+        "code": "ST310",
+        "name": "Caracterização e Monitoramento de Poluentes do Ar e do Solo",
+        "credits": 4,
+        "syllabus": "Poluentes orgânicos e inorgânicos. Fenômenos químicos da poluição do ar, solo e águas subterrâneas. Monitoramento da qualidade do ar. Monitoramento do solo e águas subterrâneas. Noções sobre processos de recuperação de solos e águas subterrâneas contaminadas. Normas técnicas e legislação específica.",
+        "reqs": [
+            [
+                {
+                    "code": "ST108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB803",
+            "EB903",
+            "EB904",
+            "EB904",
+            "EB907"
+        ]
+    },
+    {
+        "code": "ST314",
+        "name": "Segurança, Saúde e Meio Ambiente",
+        "credits": 2,
+        "syllabus": "Meio ambiente do trabalho e social: riscos à saúde das pessoas. Segurança, higiene e saúde. Prevenção de acidentes e doenças relacionadas ao meio ambiente do trabalho. Controle dos riscos no meio ambiente do trabalho com ênfase em ruído e vibrações. Ruído e vibrações no meio ambiente social. Aspectos legais - Normas Regulamentadoras. Situações de emergências e primeiros socorros."
+    },
+    {
+        "code": "ST362",
+        "name": "Geometria Analítica e Álgebra Linear",
+        "credits": 4,
+        "syllabus": "Vetores no R2 e no R3. Produto Escalar e Vetorial. A Reta. O Plano. Distâncias. Cônicas e Quádricas. Dependência e Independência Linear. Espaço Vetorial Real. Transformações Lineares. Autovalores e Autovetores.",
+        "reqBy": [
+            "ST215",
+            "ST215"
+        ]
+    },
+    {
+        "code": "ST363",
+        "name": "Linguagem e Técnica de Programação II",
+        "credits": 4,
+        "syllabus": "Estudo e desenvolvimento em uma linguagem de programação Orientada a Objetos. Técnicas de depuração e documentação de programas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST265"
+                }
+            ],
+            [
+                {
+                    "code": "TT103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST068",
+            "ST463",
+            "ST662",
+            "ST670"
+        ]
+    },
+    {
+        "code": "ST364",
+        "name": "Estruturas de Dados",
+        "credits": 4,
+        "syllabus": "Representação e Manipulação de Dados na Memória Interna do Computador: Tabelas, Listas, Árvores e Grafos. Algoritmos correspondentes de Busca, Inserção, Remoção e Percurso. Desenvolvimento de programas utilizando a linguagem estudada em Laboratório de Programação I.",
+        "reqs": [
+            [
+                {
+                    "code": "ST263"
+                }
+            ],
+            [
+                {
+                    "code": "ST265",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST116",
+            "ST464",
+            "ST562",
+            "ST661",
+            "ST662",
+            "ST765"
+        ]
+    },
+    {
+        "code": "ST365",
+        "name": "Princípios de Engenharia de Software",
+        "credits": 2,
+        "syllabus": "Produção de software. Paradigmas. Especificação de requisitos. Análise e projeto de software. Verificação e validação. Testes.",
+        "reqs": [
+            [
+                {
+                    "code": "TT103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST041",
+            "ST466"
+        ]
+    },
+    {
+        "code": "ST366",
+        "name": "Engenharia de Software II",
+        "credits": 4,
+        "syllabus": "Conceitos de análise e projeto orientados a objetos. Interfaces. Linguagem de modelagem. Testes. Desenvolvimento de software utilizando aspectos estudados em Engenharia de Software I.",
+        "reqs": [
+            [
+                {
+                    "code": "ST266"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST401",
+        "name": "Topografia II",
+        "credits": 6,
+        "syllabus": "Sistema de Posicionamento Global (GPS) aplicado. Normas e procedimentos técnicos, analíticos e práticos de georreferenciamento. Processamento de dados georreferenciados. Sensoriamento remoto. Cadastramento de áreas urbanas. Cadastramento de áreas rurais e áreas de preservação ambiental. Demarcação de obras civis: teoria e prática.",
+        "reqs": [
+            [
+                {
+                    "code": "ST301",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST528",
+            "ST536",
+            "ST538",
+            "ST539",
+            "ST540",
+            "ST617",
+            "ST632",
+            "ST736"
+        ]
+    },
+    {
+        "code": "ST403",
+        "name": "Hidrotécnica II",
+        "credits": 4,
+        "syllabus": "Equação da Energia. Perdas distribuídas. Perdas localizadas. Instalação de recalque. Curva do sistema. Bombas. Curvas Características. Associação de bombas. Escolha de bombas. Medidores de fluidos: Pressão e Vazão.",
+        "reqs": [
+            [
+                {
+                    "code": "ST303",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST014",
+            "ST613",
+            "ST615"
+        ]
+    },
+    {
+        "code": "ST405",
+        "name": "Química Sanitária e Laboratório de Saneamento II",
+        "credits": 4,
+        "syllabus": "Lançamento de águas residuárias: Características físico-químicas. Legislação ambiental Federal e Estadual aplicada a padrões de lançamento. Análises físico-químicas dos principais parâmetros. Amostragem em estações de tratamento de águas residuárias.",
+        "reqs": [
+            [
+                {
+                    "code": "ST305"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB604",
+            "EB606",
+            "ST010",
+            "ST011",
+            "ST012",
+            "ST013",
+            "ST018",
+            "ST034",
+            "ST076",
+            "ST077",
+            "ST083",
+            "ST084",
+            "ST411",
+            "ST514",
+            "ST516",
+            "ST572",
+            "ST573",
+            "ST575",
+            "ST671",
+            "ST712",
+            "ST715"
+        ]
+    },
+    {
+        "code": "ST409",
+        "name": "Introdução à Geologia e Mecânica dos Solos",
+        "credits": 4,
+        "syllabus": "Constituição do globo terrestre, o tempo geológico, a crosta terrestre. Minerais, noções de cristalografia, características principais, propriedades físicas e químicas. Rochas, gênese, classificação e tipos principais. Intemperismo, tipos, erosão e sedimentação. Origem e formação dos solos, tipos, aplicação na construção civil, propriedades físicas, comportamento hidráulico, compactação.",
+        "reqs": [
+            [
+                {
+                    "code": "ST215"
+                },
+                {
+                    "code": "ST301"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST528",
+            "ST536",
+            "ST537"
+        ]
+    },
+    {
+        "code": "ST410",
+        "name": "Mecânica dos Solos I",
+        "credits": 4,
+        "syllabus": "Propriedades e índices. Identificação tactil-visual. Técnicas de amostragem, ensaios e classificação dos solos. Investigação do subsolo. Permeabilidade, compacidade, limites de consistência. Ensaios e equipamentos de laboratório. Ensaios de controle de compactação.",
+        "reqs": [
+            [
+                {
+                    "code": "ST216",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB953",
+            "EB957",
+            "ST529",
+            "ST639",
+            "ST639"
+        ]
+    },
+    {
+        "code": "ST411",
+        "name": "Sistemas de Abastecimento de Água",
+        "credits": 4,
+        "syllabus": "Mananciais Superficiais e Subterrâneos. Unidades Constituintes de um Sistema de Abastecimento de Água: Captação, Adução, Recalque e Distribuição. Normas e requisitos para o dimensionamento de sistemas de abastecimento de água.",
+        "reqs": [
+            [
+                {
+                    "code": "ST303"
+                },
+                {
+                    "code": "ST405"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB904",
+            "ST517"
+        ]
+    },
+    {
+        "code": "ST420",
+        "name": "Materiais de Construção Civil II",
+        "credits": 4,
+        "syllabus": "Concreto de cimento Portland. Aço para concreto armado. Fios e cordoalhas para concreto protendido. Ensaios em laboratórios.",
+        "reqs": [
+            [
+                {
+                    "code": "ST304",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST515",
+            "ST523",
+            "ST527",
+            "ST735"
+        ]
+    },
+    {
+        "code": "ST422",
+        "name": "Análise de Risco",
+        "credits": 2,
+        "syllabus": "Conceitos básicos sobre riscos. Análise preliminar de perigos. Análise de perigos e operabilidade. Introdução à confiabilidade. Análise de árvore de falhas. Análise de árvore de eventos. Análise e avaliação de consequências e de vulnerabilidade. Estimativa e avaliação de riscos. Gerenciamento de riscos. Planos de emergência.",
+        "reqs": [
+            [
+                {
+                    "code": "ST308"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST423",
+        "name": "Resistência dos Materiais II",
+        "credits": 4,
+        "syllabus": "Cargas axiais e tangenciais. Torção em barras de secção circular. Tensões em vigas, flexão simples, composta e oblíqua. Estados de tensão. Circulo de Mohr. Conceito de polo. Combinação de esforços. Critérios de resistência.",
+        "reqs": [
+            [
+                {
+                    "code": "ST309",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB944",
+            "EB954",
+            "EB956",
+            "ST526",
+            "ST527",
+            "ST527",
+            "ST528",
+            "ST529",
+            "ST536"
+        ]
+    },
+    {
+        "code": "ST461",
+        "name": "Administração I",
+        "credits": 2,
+        "syllabus": "Teoria Geral da Administração. 1- Teoria dos Sistemas. Gráficos de Gerenciamento. Técnicas de Análise Administrativas. 2- A corrente Psicofisiológica no trabalho. O modelo Modernista de Administração.",
+        "reqBy": [
+            "ST561"
+        ]
+    },
+    {
+        "code": "ST462",
+        "name": "Cálculo Numérico",
+        "credits": 4,
+        "syllabus": "Erro de truncamento e arredondamento. Aritmética de ponto flutuante. Zeros de funções. Métodos de solução de sistemas lineares. Resolução de problemas não-lineares. Interpolação. Ajuste de funções. Integração numérica. Resolução numérica de equações diferenciais.",
+        "reqs": [
+            [
+                {
+                    "code": "TT101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST052",
+            "ST053",
+            "ST565"
+        ]
+    },
+    {
+        "code": "ST463",
+        "name": "Laboratório de Programação II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e Implementação de Programas na Linguagem de Programação Estudada em Linguagem e Técnicas de Programação II.",
+        "reqs": [
+            [
+                {
+                    "code": "ST363"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST464",
+        "name": "Laboratório de Estruturas de Dados",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e Implementação de Programas utilizando Estruturas de Dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ST364"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST466",
+        "name": "Laboratório de Engenharia de Software",
+        "credits": 2,
+        "syllabus": "Desenvolvimento utilizando aspectos estudados em princípios de engenharia de software.",
+        "reqs": [
+            [
+                {
+                    "code": "ST365"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST468",
+        "name": "Cálculo Numérico",
+        "credits": 4,
+        "syllabus": "Erro de truncamento e arredondamento. Aritmética de ponto flutuante. Zeros de funções. Métodos de solução de sistemas lineares. Resolução de problemas não-lineares. Interpolação. Ajuste de funções. Integração numérica.",
+        "reqBy": [
+            "ST680"
+        ]
+    },
+    {
+        "code": "ST501",
+        "name": "Gestão de Sistemas de Saneamento",
+        "credits": 4,
+        "syllabus": "Organização de Sistemas de Saneamento. Estruturas de Planejamento e de Administração. Contratação e obras e serviços. Licitações. Gestão de Recursos Humanos. Gestão Financeira. Programas de Qualidade."
+    },
+    {
+        "code": "ST511",
+        "name": "Resistência dos Materiais e de Concreto",
+        "credits": 4,
+        "syllabus": "Estática elementar aplicada. Vinculações dos sistemas planos. Esforços solicitantes em estruturas planas. Estudo elementar da resistência. Estudos das tensões e deformações. Pequenas estruturas. Considerações sobre as dimensões e finalidade dos seguintes elementos estruturais: sapatas, blocos e estacas, tubulões, vigas baldrames e invertidas, pilares, lajes e reservatórios.",
+        "reqs": [
+            [
+                {
+                    "code": "ST209"
+                },
+                {
+                    "code": "TT101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST512",
+        "name": "Tubulações e Construção de Rede de Água",
+        "credits": 2,
+        "syllabus": "Projetos. Recebimento e aceitação dos materiais. Locação da obra. Abertura de valas. Preparação do material. Tubulações. Aterro das valas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST514",
+        "name": "Tratamento de Água",
+        "credits": 4,
+        "syllabus": "Características das águas; padrões de potabilidade (legislações). Seleção de tecnologias de tratamento em função da qualidade da água bruta. Captação. Pré-tratamento e tratamento convencional (ciclo completo). Correção de pH. Teorias da coagulação. Mistura rápida. Floculação. Decantação. Filtração. Flotação. Desinfecção. Rede de distribuição. Tratamento e disposição dos resíduos gerados nas ETAs (lodo). Estações de tratamento de água (ETAs).",
+        "reqs": [
+            [
+                {
+                    "code": "ST303"
+                },
+                {
+                    "code": "ST405"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST711"
+        ]
+    },
+    {
+        "code": "ST515",
+        "name": "Tecnologia da Construção de Edifícios I",
+        "credits": 2,
+        "syllabus": "Implantação da construção: reconhecimento do terreno, topografia do terreno, interferências, restrições e responsabilidades legais, sondagens, locação da construção. Movimento de terra: terraplenagem, escavação manual. Fundações: definições, fundações rasas, fundações profundas. Concreto: condições de recepção e armazenamento, transporte lançamento, vibração e cura do concreto. Formas: quantificação, reaproveitamento, escoamento. Aço: dobramentos, tabelas de ferros, substituição de tipos e bitolas. Concreto aparente: condições e execução. Gestão da qualidade em obras.",
+        "reqs": [
+            [
+                {
+                    "code": "ST420",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST020",
+            "ST024",
+            "ST028",
+            "ST042",
+            "ST618"
+        ]
+    },
+    {
+        "code": "ST516",
+        "name": "Tratamento de Águas Residuárias I",
+        "credits": 4,
+        "syllabus": "Sistema de coleta e afastamento de esgoto doméstico. Tratamentos Preliminares e Primários. Processos aeróbios, anaeróbios e combinados aplicados a tratamentos secundários. Seleção de processo. Controle de operação. Manutenção preventiva e corretiva.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST616"
+        ]
+    },
+    {
+        "code": "ST517",
+        "name": "Tratamento de Água de Abastecimento",
+        "credits": 4,
+        "syllabus": "Tecnologias de Tratamento de Água; Sistema de Tratamento de Água de Ciclo Completo; Mistura Rápida; Tipos de coagulantes primários e auxiliares de coagulação, Unidades de mistura rápida mecanizada e hidráulica, Ensaios de Jartest. Unidades de floculação hidráulica e mecanizada. Decantação convencional de alta taxa. Flotação. Unidades de filtração. Desinfecção. Unidades de tratamento de lodos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST411"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST523",
+        "name": "Prática da Construção Civil I",
+        "credits": 4,
+        "syllabus": "Implantação da construção: reconhecimento do terreno, topografia do terreno, interferências, restrições e responsabilidades legais, sondagens, locação da construção. Movimento de terra: terraplenagem, escavação manual. Fundações: definições, fundações rasas, fundações profundas. Concreto: condições de recepção e armazenamento, transporte lançamento, vibração e cura do concreto. Formas: quantificação, reaproveitamento, escoramento. Aço: dobramentos, tabelas de ferros, substituição de tipos e bitolas. Concreto aparente: condições de execução. Gestão da qualidade em obras.",
+        "reqs": [
+            [
+                {
+                    "code": "ST420"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST623"
+        ]
+    },
+    {
+        "code": "ST525",
+        "name": "Instalações Prediais Elétricas",
+        "credits": 6,
+        "syllabus": "Planejamento de uma instalação elétrica. Marcação de pontos. Traçado de tubulação. Dimensionamento de fios e tubulações. Dispositivos de proteção de circuitos. Dispositivos de controle dos circuitos. Luminotécnica. Quadros de distribuição. Cabos de entrada. Instalações de pára-raios e redes telefônicas. Projeto elétrico completo de um edifício.",
+        "reqs": [
+            [
+                {
+                    "code": "ST210",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST021",
+            "ST023"
+        ]
+    },
+    {
+        "code": "ST526",
+        "name": "Estática das Estruturas",
+        "credits": 4,
+        "syllabus": "Treliças. Processos de equilíbrio dos nós, Ritter e Cremona. Flechas e contra flechas em vigas. Equação da linha elástica. Flambagem. Cisalhamento em rebites e parafusos. Vigas hiperestáticas, resolução pelo processo de Cross. Coeficientes relativos à forma, cargas e condições de extremidades das barras.",
+        "reqs": [
+            [
+                {
+                    "code": "ST423",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST628",
+            "ST628",
+            "ST722"
+        ]
+    },
+    {
+        "code": "ST527",
+        "name": "Concreto Armado I",
+        "credits": 6,
+        "syllabus": "Fundamentos e princípios básicos de dimensionamento, hipóteses de cálculo. Comportamento das estruturas. Métodos dos Estados Limites. Estados Limites últimos para solicitações. Estados limites de utilização.",
+        "reqs": [
+            [
+                {
+                    "code": "EB603",
+                    "partial": true
+                },
+                {
+                    "code": "ST423",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST420",
+                    "partial": true
+                },
+                {
+                    "code": "ST423",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST044",
+            "ST628",
+            "ST727",
+            "ST729"
+        ]
+    },
+    {
+        "code": "ST528",
+        "name": "Mecânica dos Solos e Obras de Terra",
+        "credits": 4,
+        "syllabus": "Solos: propriedades e índices. Identificação táctil visual. Permeabilidade, compacidade, limites de consistência. Tensões nos solos. Compressibilidade e adensamento dos solos. Recalques. Resistência ao cisalhamento dos solos. Compactação dos solos. Estabilidade dos taludes. Rebaixamento do lençol freático. Empuxos sobre estrutura de arrimo. Tipos de estrutura de arrimo. Escoramento de valas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST401"
+                },
+                {
+                    "code": "ST409"
+                },
+                {
+                    "code": "ST423"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST529",
+        "name": "Mecânica dos Solos II",
+        "credits": 4,
+        "syllabus": "Adensamento e compressibilidade. Recalques por adensamento. Resistência ao cisalhamento dos solos. Empuxos. Estruturas de arrimo. CBR. Ensaios. Fluxo de água nos solos. Redes de fluxo. Subpressão das estruturas enterradas. Ensaios.",
+        "reqs": [
+            [
+                {
+                    "code": "ST410",
+                    "partial": true
+                },
+                {
+                    "code": "ST423",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB950",
+            "EB956",
+            "EB957",
+            "ST625",
+            "ST638"
+        ]
+    },
+    {
+        "code": "ST536",
+        "name": "Mecânica e Ensaios de Solos I",
+        "credits": 8,
+        "syllabus": "Propriedades e índices. Identificação táctil-visual. Técnicas de amostragem, ensaios e classificação dos solos. Investigação do subsolo. Permeabilidade, compacidade, limites de consistência. Ensaios e equipamentos de laboratório. Ensaios de controle de compactação.",
+        "reqs": [
+            [
+                {
+                    "code": "ST401"
+                },
+                {
+                    "code": "ST409"
+                },
+                {
+                    "code": "ST423"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST030",
+            "ST631",
+            "ST632",
+            "ST636"
+        ]
+    },
+    {
+        "code": "ST537",
+        "name": "Geologia Aplicada",
+        "credits": 6,
+        "syllabus": "Minerais, principais grupos, minerais formadores de rochas, reconhecimento prático. Teoria das placas, magma, vulcanismo, plutonismo e tectonismo. Rochas, tipos e reconhecimento prático. Hidrogeologia. Propriedades tecnológicas. Perturbações das rochas. Materiais naturais de construção. Geologia do Brasil e do Estado de São Paulo. Mapeamento geológico. Investigação do subsolo. Aerofotogrametria. Geologia de barragens e túneis.",
+        "reqs": [
+            [
+                {
+                    "code": "ST409"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST032"
+        ]
+    },
+    {
+        "code": "ST538",
+        "name": "Projeto e Construção de Estradas",
+        "credits": 6,
+        "syllabus": "Projeto geométrico de estradas. Anteprojeto. Aerofotogramétrico. Reconhecimento e exploração. Curvas circulares. Curvas de transição. Perfil do terreno natural. Cálculo de cotas sobre as rampas e nas curvas de concordância. Superelevação e superlargura. Seções transversais, primitivas e de projeto. Cálculo de áreas. Diagrama de massas. Sinalização horizontal e vertical.",
+        "reqs": [
+            [
+                {
+                    "code": "ST401"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST637",
+            "ST639"
+        ]
+    },
+    {
+        "code": "ST539",
+        "name": "Projeto de Estradas",
+        "credits": 4,
+        "syllabus": "Projeto geométrico de estradas. Anteprojeto. Aerofotogramétrico. Reconhecimento e exploração. Curvas circulares. Curvas de transição. Perfil do terreno natural. Cálculo de cotas sobre as rampas e nas curvas de concordância. Superelevação e superlargura. Seções transversais, primitivas e projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "ST401"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST639",
+            "ST736"
+        ]
+    },
+    {
+        "code": "ST540",
+        "name": "Sistemas de Informações Geográficas",
+        "credits": 4,
+        "syllabus": "Elementos essenciais do SIG. Estrutura de dados. Vetorial e Matricial. Aquisição de dados. Gerenciamento de dados. Análise de dados. Fundamentos e técnicas de análise espacial. Exemplos e aplicações de uso do SIG em transportes.",
+        "reqs": [
+            [
+                {
+                    "code": "EB938",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST401",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EB958",
+            "EB981",
+            "EB982"
+        ]
+    },
+    {
+        "code": "ST561",
+        "name": "Administração II",
+        "credits": 2,
+        "syllabus": "As Funções do Administrador. Organização Administrativa. Correlação entre Administração Contemporânea e Moderna. Técnicas da Administração Moderna. Teoria da Ergonometria.",
+        "reqs": [
+            [
+                {
+                    "code": "ST461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST562",
+        "name": "Estruturas de Arquivos",
+        "credits": 4,
+        "syllabus": "Dispositivos de armazenamento. Estrutura básica de armazenamento e Recuperação de Informação em Arquivos. Arquivos sequenciais, indexados e de acesso Hashing. Compressão de arquivos. Recuperação e segurança de arquivos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201"
+                }
+            ],
+            [
+                {
+                    "code": "ST364"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST563",
+        "name": "Análise de Sistema em Processamento de Dados I",
+        "credits": 4,
+        "syllabus": "Introdução ao Sistema de Processamento de Dados. Conceitos Gerais de Sistemas de Informação. Ciclo de Vida de um Projeto de Sistemas. Viabilidade e Implementação de Sistemas. Ferramentas da Análise Estruturada. Diagramas de Fluxo de Dados. Dicionário de Dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ST262"
+                },
+                {
+                    "code": "TT106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST663"
+        ]
+    },
+    {
+        "code": "ST564",
+        "name": "Introdução a Teleprocessamento e Redes",
+        "credits": 4,
+        "syllabus": "Noções Básicas de Teleprocessamento: comutação por circuitos e comutação por pacotes. Tipos de enlace. Modos e Meios de Transmissão. Protocolos e Serviços. Introdução a redes de computadores locais e de longa distância. Topologias. Introdução aos modelos de arquitetura.",
+        "reqs": [
+            [
+                {
+                    "code": "TT106"
+                }
+            ],
+            [
+                {
+                    "code": "TT304"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST050",
+            "ST051",
+            "ST664"
+        ]
+    },
+    {
+        "code": "ST565",
+        "name": "Pesquisa Operacional",
+        "credits": 4,
+        "syllabus": "Problema Padrão da Programação Linear. Métodos Simplex. Modelos de Transporte e de Designação. Teoria do Estoque. Teoria das Filas. Programação Dinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "ST462"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST566",
+        "name": "Tópicos em Desenvolvimento Tecnológico",
+        "credits": 4,
+        "syllabus": "Estudos de assuntos ligados a informática de acordo com os avanços da tecnologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST567",
+        "name": "Banco de Dados I",
+        "credits": 4,
+        "syllabus": "Fundamentos de sistemas de bancos de dados e conceitos relacionados com a estrutura conceitual e lógica dos bancos de dados. Modelos de dados e sua aplicação no desenvolvimento de projetos de bancos de dados. Introdução a Sistemas de Gerenciamento de Banco de Dados.",
+        "reqs": [
+            [
+                {
+                    "code": "SI100"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST060",
+            "ST767"
+        ]
+    },
+    {
+        "code": "ST568",
+        "name": "Redes de Comunicação I",
+        "credits": 4,
+        "syllabus": "Teleprocessamento, comutação e sinalização. Comutação por circuitos. Comutação por pacotes. Enlaces e canais de comunicação. Protocolos e Serviços. Modelos de referência. Camada de Aplicação. Camada de Transporte, Camada de Rede, Camada de Enlace, Camada Física.",
+        "reqs": [
+            [
+                {
+                    "code": "TT106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI501",
+            "ST049",
+            "ST050",
+            "ST054",
+            "ST668"
+        ]
+    },
+    {
+        "code": "ST571",
+        "name": "Geologia Ambiental",
+        "credits": 2,
+        "syllabus": "Noções gerais de geologia. Noções gerais de topografia. Processos e produtos sedimentares. Cartografia aplicada a estudos ambientais. Noções gerais de sensoreamento remoto. Mapeamento geotécnico. Poluição de águas subterrâneas. Elementos de geotecnia. Métodos geofísicos aplicados a estudos ambientais. Ambientes deposicionais e sua fisiografia. Estrutura e análise de estudos de impacto ambiental relacionados à geologia. Origem e evolução dos solos."
+    },
+    {
+        "code": "ST572",
+        "name": "Tratamento de Efluentes Líquidos",
+        "credits": 4,
+        "syllabus": "Caracterização de efluentes líquidos. Tipos de sistemas de tratamento. Seleção de sistema. Controle de operação. Manutenção preventiva e corretiva.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST035"
+        ]
+    },
+    {
+        "code": "ST573",
+        "name": "Toxicologia Ambiental",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de toxicologia, agentes tóxicos, toxicocinética e toxicodinâmica. Principais tipos de poluentes químicos, natureza e modo de ação. Testes de toxicidade e genotoxicidade. Biomarcadores de efeito e exposição. Noções sobre avaliação de risco e derivação de critérios de qualidade ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST574",
+        "name": "Processos Industriais",
+        "credits": 4,
+        "syllabus": "Noções sobre processamentos industriais. Fluxogramas de processos. Operações unitárias. Levantamentos industriais. Produção mais Limpa (P+L). Visitas a indústrias.",
+        "reqs": [
+            [
+                {
+                    "code": "ST211"
+                },
+                {
+                    "code": "TT101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST015",
+            "ST774",
+            "ST775"
+        ]
+    },
+    {
+        "code": "ST575",
+        "name": "Química da Poluição Ambiental",
+        "credits": 4,
+        "syllabus": "Fenômenos químicos da poluição: hídrica, atmosférica, do solo e sua dinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST672",
+            "ST675",
+            "ST775"
+        ]
+    },
+    {
+        "code": "ST601",
+        "name": "Instalações Prediais Hidráulico-Sanitárias",
+        "credits": 4,
+        "syllabus": "Instalação predial de água fria. Instalação predial de água quente. Instalação predial de esgoto sanitário. Instalação predial de água pluvial. Instalação predial de combate a incêndio.",
+        "reqs": [
+            [
+                {
+                    "code": "ST303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST611",
+        "name": "Obras de Abastecimento",
+        "credits": 4,
+        "syllabus": "Consumo de água. Captação das águas subterrâneas. Captação das águas superficiais. Reservatórios de acumulação e barragens. Linhas adutoras e órgãos acessórios. Reservatórios de distribuição de água. Redes de distribuição de água.",
+        "reqs": [
+            [
+                {
+                    "code": "ST301"
+                },
+                {
+                    "code": "ST303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST711",
+            "ST713"
+        ]
+    },
+    {
+        "code": "ST612",
+        "name": "Tubulações e Construção de Rede de Esgoto",
+        "credits": 2,
+        "syllabus": "Construção dos coletores de esgotos. Valas. Escavação manual e escavação mecânica. Escoramentos. Esgotamento. Coletores de esgotos de secção circular. Materiais empregados. Tipos de juntas. Materiais, equipamentos e ferramentas. Assentamento dos coletores. Alinhamento e declividade. Métodos práticos de controle. Órgãos complementares (poços de visitas, tubos de queda, etc). Higiene e segurança do trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "ST301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST613",
+        "name": "Sistema de Coleta e Disposição de Esgotos",
+        "credits": 4,
+        "syllabus": "Sistemas de esgotos sanitários. Sistemas de esgotamento. Líquidos a serem esgotados. Quantidade de líquidos a esgotar. Hidráulica das redes de esgotos. Condições técnicas a serem satisfeitas pelos coletores. Rede de esgotos. Órgãos acessórios das redes. Interceptores e emissários. Operação e manutenção dos serviços de esgoto.",
+        "reqs": [
+            [
+                {
+                    "code": "ST301"
+                },
+                {
+                    "code": "ST403"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST018",
+            "ST711",
+            "ST713"
+        ]
+    },
+    {
+        "code": "ST614",
+        "name": "Tratamento de Esgoto",
+        "credits": 4,
+        "syllabus": "Generalidades. Grades. Caixas de areia. Remoção de material graxo. Decantadores de lodo. Secagem do lodo. Filtros biológicos. Processo dos lodos ativados. Lagoas de estabilização. Processos anaeróbios. Despejos líquidos industriais.",
+        "reqs": [
+            [
+                {
+                    "code": "ST207"
+                },
+                {
+                    "code": "ST303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST717"
+        ]
+    },
+    {
+        "code": "ST615",
+        "name": "Obras Hidráulicas",
+        "credits": 4,
+        "syllabus": "Canais. Regimes de escoamento. Movimento uniforme. Movimento gradualmente variado. Ressalto hidráulico. Curvas de remanso. Vertedores. Barragens tomadas d'água. Ensecadeiras. Reservatórios.",
+        "reqs": [
+            [
+                {
+                    "code": "ST306"
+                },
+                {
+                    "code": "ST403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST616",
+        "name": "Tratamento de Águas Residuárias II",
+        "credits": 4,
+        "syllabus": "Tratamentos terciários. Tecnologias Avançadas de Tratamento. Reuso de efluentes. Critérios de seleção de tecnologias. Controle operacional. Tratamento de lodos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST617",
+        "name": "Desenho Urbano e Habitação de Interesse Social",
+        "credits": 6,
+        "syllabus": "Ensino de assuntos relevantes em arquitetura.",
+        "reqs": [
+            [
+                {
+                    "code": "ST026",
+                    "partial": true
+                },
+                {
+                    "code": "ST401",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST618",
+        "name": "Tecnologia da Construção de Edifícios II",
+        "credits": 2,
+        "syllabus": "Alvenarias: recepção, armazenamento de materiais e execução. Coberturas: traçado de águas, estruturas de suporte, técnicas de execução. Impermeabilização de lajes. Revestimentos e pavimentações. Esquadrias e ferragens: tipos e materiais usuais. Vidros, tipos e sistemas de colocação. Escadas e rampas. Pinturas. Lesões nas edificações. Segurança no trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "ST515",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST723"
+        ]
+    },
+    {
+        "code": "ST620",
+        "name": "Biorremediação de Áreas Contaminadas",
+        "credits": 2,
+        "syllabus": "Estudo da Microbiologia. Diversidade dos micro-organismos. Ecologia microbiana do solo e a recuperação de áreas degradadas. Biodegradação e Biorremediação. Métodos de avaliação da atividade microbiana no solo.",
+        "reqs": [
+            [
+                {
+                    "code": "EB207"
+                }
+            ],
+            [
+                {
+                    "code": "ST207"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST623",
+        "name": "Práticas da Construção Civil II",
+        "credits": 4,
+        "syllabus": "Alvenarias: recepção, armazenamento de materiais e execução. Coberturas: traçado de águas, estruturas de suporte, técnicas de execução. Impermeabilização de lajes. Revestimentos e pavimentações. Esquadrias e ferragens: tipos e materiais usuais. Vidros, tipos e sistema de colocação. Escadas e rampas. Pinturas. Lesões nas edificações. Segurança no trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "ST523"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST625",
+        "name": "Fundações",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo das fundações. Classificação das fundações. Fundações diretas: conceito de capacidade de carga, tensão admissível dos solos, métodos de avaliação. Dimensionamento de sapatas. Fundações profundas: Tipos. Tubulões: Capacidade de carga, tensão admissível dos solos, dimensionamento de tubulões. Estacas: Capacidade de cargas das estacas, formulações teóricas, métodos empíricos de avaliação. Dimensionamento de fundações por estacas. Projeto de estaqueamento.",
+        "reqs": [
+            [
+                {
+                    "code": "ST529",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST626",
+        "name": "Projetos de Instalações Prediais Hidráulico-Sanitárias",
+        "credits": 6,
+        "syllabus": "Instalação predial de água fria, água quente, esgoto sanitário, água pluvial e combate a incêndio. Dimensionamento e projeto com uso de programas e computação gráfica.",
+        "reqs": [
+            [
+                {
+                    "code": "ST303",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST021",
+            "ST022"
+        ]
+    },
+    {
+        "code": "ST627",
+        "name": "Tópicos de Arquitetura",
+        "credits": 2,
+        "syllabus": "Ensino de assuntos relevantes em arquitetura.",
+        "reqs": [
+            [
+                {
+                    "code": "ST213"
+                }
+            ],
+            [
+                {
+                    "code": "ST214"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST628",
+        "name": "Concreto Armado II",
+        "credits": 6,
+        "syllabus": "Fundamentos e princípios do projeto estrutural. Formas de concreto armado. Cargas atuantes nas estruturas. Fundamentos da técnica de armar. Ancoragem. Peças usuais de concreto armado: lajes, vigas e pilares. Dimensionamento e projeto com uso de programas e computação gráfica.",
+        "reqs": [
+            [
+                {
+                    "code": "EB944",
+                    "partial": true
+                },
+                {
+                    "code": "ST526",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST526",
+                    "partial": true
+                },
+                {
+                    "code": "ST527",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST046",
+            "ST725",
+            "ST730"
+        ]
+    },
+    {
+        "code": "ST631",
+        "name": "Fundações I",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo das fundações. Generalidades. Requisitos. Classificação das fundações. Fundações diretas ou superficiais. Tipos. Conceito de capacidade de carga para fundações diretas. Modos de ruptura: generalizada e localizada. Tensão admissível ao solo sob fundação direta: métodos de avaliação. Prova de carga direta sobre placa. Dimensionamento de sapatas: diversas situações. Projeto de fundações diretas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST536"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST731"
+        ]
+    },
+    {
+        "code": "ST632",
+        "name": "Movimento de Terra I",
+        "credits": 4,
+        "syllabus": "Projeto de Terraplenagem de um trecho de Estrada. Trabalhos Preparatórios. Introdução à Terraplenagem. Estudos de materiais de Superfície. Locomoção e Produtividade dos Equipamentos de Terraplenagem. Previsão de Produção dos diversos Equipamentos. Seleção e manutenção dos Equipamentos de Terraplenagem.",
+        "reqs": [
+            [
+                {
+                    "code": "ST401"
+                },
+                {
+                    "code": "ST536"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST732"
+        ]
+    },
+    {
+        "code": "ST636",
+        "name": "Mecânica e Ensaios de Solos II",
+        "credits": 6,
+        "syllabus": "Compressibilidade e adensamento dos solos. Recalques por adensamento. Ensaios de adensamento. Resistência ao cisalhamento: solos e areia. Envoltória da resistência ao cisalhamento. Ensaio de cisalhamento direto. Solos coesivos e não coesivos. Percolação de água no solo. Redes de fluxo. Subpressão das estruturas enterradas. Ensaios de compressão simples e triaxial. Estabilidade de Taludes. Método de Cullman, Fellinius, Bishop e das Cunhas. Ensaios CBR. Rebaixamento de lençol freático.",
+        "reqs": [
+            [
+                {
+                    "code": "ST536"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST733"
+        ]
+    },
+    {
+        "code": "ST637",
+        "name": "Pavimentação e Segurança de Estradas",
+        "credits": 6,
+        "syllabus": "Investigação e Classificação de Solos para Estradas. O solo como Material de Construção em Pavimentação. Aterros sobre solo mole. Pavimentação. Segurança de Estradas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST538"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST734"
+        ]
+    },
+    {
+        "code": "ST638",
+        "name": "Mecânica dos Solos III",
+        "credits": 4,
+        "syllabus": "Estabilidade de taludes. Escavações e escoramentos. Barragens. Ensaios.",
+        "reqs": [
+            [
+                {
+                    "code": "ST529"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST639",
+        "name": "Pavimentação I",
+        "credits": 4,
+        "syllabus": "Introdução, conceituação e tipos de pavimentos. Fatores que governam o comportamento dos pavimentos, ruína estrutural e funcional. Estudo do subleito e camadas de reforço, sub-base e base. Ensaios.",
+        "reqs": [
+            [
+                {
+                    "code": "ST410"
+                },
+                {
+                    "code": "ST539"
+                }
+            ],
+            [
+                {
+                    "code": "ST410"
+                },
+                {
+                    "code": "ST538"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST737"
+        ]
+    },
+    {
+        "code": "ST640",
+        "name": "Tecnologia dos Transportes I",
+        "credits": 4,
+        "syllabus": "O sistema de transportes. Componentes dos sistemas de transporte. Mecânica da locomoção de veículos ferroviários e rodoviários. Fluxo de veículos e seu controle. Princípios fundamentais dos fluxos de veículos. Modelos de fluxo de tráfego rodoviário.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST740"
+        ]
+    },
+    {
+        "code": "ST661",
+        "name": "Banco de Dados",
+        "credits": 4,
+        "syllabus": "Introdução a Sistemas de Gerenciamento de Banco de Dados. Modelagem de Dados: Modelos Conceituais e Modelos Operacionais. Normalização. Arquitetura de Sistemas de Gerenciamento de Banco de Dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ST364"
+                }
+            ],
+            [
+                {
+                    "code": "TT204"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST060",
+            "ST761"
+        ]
+    },
+    {
+        "code": "ST662",
+        "name": "Linguagem e Técnicas de Programação III",
+        "credits": 4,
+        "syllabus": "Estudo e Técnicas Avançadas de Programação e desenvolvimento de uma Linguagem de Programação de Alto Nível.",
+        "reqs": [
+            [
+                {
+                    "code": "ST363"
+                },
+                {
+                    "code": "ST364"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST762"
+        ]
+    },
+    {
+        "code": "ST663",
+        "name": "Análise de Sistemas em Processamento de Dados II",
+        "credits": 4,
+        "syllabus": "Análise de casos de uso. Análise orientada a objetos. Diagramas estáticos e dinâmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST563"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST664",
+        "name": "Redes de Computadores",
+        "credits": 4,
+        "syllabus": "Protocolos para interconexão de redes: X.25, Frame Relay, ATM. Protocolos de acesso múltiplo. Estudo e implementação de protocolos. Segurança em redes. Redes sem fio: arquiteturas e protocolos. Redes ad hoc e protocolos de roteamento.",
+        "reqs": [
+            [
+                {
+                    "code": "ST564"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST668",
+        "name": "Redes de Comunicação II",
+        "credits": 4,
+        "syllabus": "Protocolos para interconexão de redes. Arquiteturas e Protocolos para comunicação sem fio. Gerência de redes. Introdução a redes móveis e ópticas. Comunicação multimídia. Modelos de tráfego. Desenvolvimento de protocolos de comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "ST568"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST670",
+        "name": "Tópicos em Programação WEB",
+        "credits": 2,
+        "syllabus": "Estudo de assuntos em programação web. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "ST363"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST671",
+        "name": "Gerenciamento de Resíduos Sólidos",
+        "credits": 4,
+        "syllabus": "Técnicas de amostragem. Caracterização dos resísuos. Avaliação para definição sobre a disposição final dos resíduos. Controle de resíduos sólidos: acondicionamento, coleta, transporte, armazenamento. Técnicas de tratamento. Normas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST015",
+            "ST773"
+        ]
+    },
+    {
+        "code": "ST672",
+        "name": "Monitoramento Ambiental",
+        "credits": 4,
+        "syllabus": "Monitoramento da qualidade da água; programas de controle. Monitoramento da qualidade do ar; programas de controle. Normas. Amostragem.",
+        "reqs": [
+            [
+                {
+                    "code": "ST575"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST772",
+            "ST773",
+            "ST774"
+        ]
+    },
+    {
+        "code": "ST673",
+        "name": "Estudos Econômicos da Poluição",
+        "credits": 2,
+        "syllabus": "Custos ambientais. Custos de implantação e manutenção de sistemas de controle. Componente ambiental na análise de custos da empresa. Linhas de financiamento.",
+        "reqs": [
+            [
+                {
+                    "code": "EB101"
+                },
+                {
+                    "code": "EB403"
+                }
+            ],
+            [
+                {
+                    "code": "ST211"
+                },
+                {
+                    "code": "TT101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST774"
+        ]
+    },
+    {
+        "code": "ST674",
+        "name": "Planejamento Ambiental",
+        "credits": 2,
+        "syllabus": "Teoria do planejamento ambiental. Modelos e instrumentos de planejamento ambiental. Inserção do planejamento no sistema de gestão ambiental. Cidades sustentáveis.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST675",
+        "name": "Controle de Poluição do Ar",
+        "credits": 4,
+        "syllabus": "Caracterização de poluentes atmosféricos. Tipos de equipamentos de controle de poluição do ar. Seleção de equipamento. Controle de operação. Manutenção preventiva e corretiva.",
+        "reqs": [
+            [
+                {
+                    "code": "ST575"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST074",
+            "ST773",
+            "ST775"
+        ]
+    },
+    {
+        "code": "ST676",
+        "name": "Ecologia Aplicada ao Saneamento",
+        "credits": 2,
+        "syllabus": "Conceitos básicos sobre ecologia, o ambiente físico e suas variações, comunidades biológicas e sua estrutura, ciclagem de nutrientes. Intervenção antrópica, transporte, distribuição e transformação de agentes químicos, bioacumulação e biomagnificação. Avaliação integrada da qualidade ambiental e regulamentação.",
+        "reqs": [
+            [
+                {
+                    "code": "EB207"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST680",
+        "name": "Pesquisa Operacional",
+        "credits": 2,
+        "syllabus": "Problema Padrão da Programação Linear. Métodos Simplex. Teoria do Estoque. Teoria das Filas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST468"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST711",
+        "name": "Planejamento de Sistemas de Saneamento",
+        "credits": 4,
+        "syllabus": "Teorias sobre os programas de saneamento, vistas sob os tópicos seguintes: padrões de serviços, situação atual, metas e política governamentais. Recursos Disponíveis. Problemas. Elaboração de Relatório Técnico preliminar sobre os seguintes serviços de uma comunidade urbana: Abastecimento de água. Sistemas de esgotos. Drenagem de águas pluviais.",
+        "reqs": [
+            [
+                {
+                    "code": "ST514"
+                },
+                {
+                    "code": "ST611"
+                },
+                {
+                    "code": "ST613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST712",
+        "name": "Saneamento Rural e de Pequenas Comunidades",
+        "credits": 4,
+        "syllabus": "Abastecimento de água. Desinfecção. Coleta e disposição dos esgotos em zonas rurais e pequenas comunidades. Disposição dos esgotos sem transporte hídrico. Disposição dos esgotos com transporte hídrico.",
+        "reqs": [
+            [
+                {
+                    "code": "ST207"
+                },
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST713",
+        "name": "Sistemas de Recalque de Água e Esgoto",
+        "credits": 4,
+        "syllabus": "Bombas. Bombas de pistão. Sistema de \"Air Lift\". Carneiro Hidráulico. Bombas centrífugas. Sistemas de recalque. Instalação de sistemas elevatórios. Operação e manutenção de bombas centrífugas. Especificações técnicas para aquisição de uma bomba centrífuga. Equipamentos elétricos. Sala de máquinas. Sistemas elevatórios para esgotos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST611"
+                },
+                {
+                    "code": "ST613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST714",
+        "name": "Higiene e Segurança Ocupacional",
+        "credits": 2,
+        "syllabus": "O ambiente de trabalho e os riscos à saúde. Segurança e higiene ocupacional. Prevenção de acidentes e doenças relacionadas ao trabalho. Aspectos legais (Normas Regulamentadoras). Noções de toxicologia ocupacional. Controle dos riscos nos ambientes de trabalho e de situações de emergências. Primeiros socorros."
+    },
+    {
+        "code": "ST715",
+        "name": "Técnicas de Separação e Análises Cromatográficas Aplicadas ao Meio Ambiente",
+        "credits": 2,
+        "syllabus": "Conceitos em separação química. Definições básicas da cromatografia e evolução histórica. Cromatografia líquida. Equipamentos para HPLC. Cromatografia gasosa. Instrumentação básica. Fases estacionárias. Colunas cromatográficas. Detectores: características básicas, análises quantitativas e qualitativas aplicadas às amostras ambientais, pré-concentração de amostras ambientais, extração líquido-líquido (ELL). Extração em fase sólida (SPE). Padronização. Calibração. Validação.",
+        "reqs": [
+            [
+                {
+                    "code": "ST405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST716",
+        "name": "Limnologia Aplicada ao Saneamento Ambiental",
+        "credits": 4,
+        "syllabus": "Fundamentos de Limnologia, estrutura e funcionamento de ambientes límnicos. Biomanipulação. Eutrofização. Poluentes químicos em ambientes límnicos. Gerenciamento e manejo da qualidade de água. Ecotecnologia aplicada à qualidade da água."
+    },
+    {
+        "code": "ST717",
+        "name": "Resíduos Sólidos Urbanos",
+        "credits": 2,
+        "syllabus": "Caracterização. Classificação. Armazenamento. Tratamento e disposição final. Legislação de controle.",
+        "reqs": [
+            [
+                {
+                    "code": "ST614"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST722",
+        "name": "Estruturas de Aço e Madeira",
+        "credits": 6,
+        "syllabus": "Estruturas de madeira. Estruturas metálicas. Prática.",
+        "reqs": [
+            [
+                {
+                    "code": "ST526",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST723",
+        "name": "Planejamento e Controle da Construção",
+        "credits": 4,
+        "syllabus": "Sistemas de planejamento e controle: metodologia, sistemática de programação e controle, conceituação de WBS (Work Breakdown Structure), programação utilizando técnicas de rede: métodos COM e PERT, Diagrama de Gantt, cronograma físico-financeiro, nivelamento de recursos através de histogramas. Estruturas organizacionais para gerenciamento de operações nas empresas e no canteiro de obras. Utilização de ferramentas de informática no planejamento e controle.",
+        "reqs": [
+            [
+                {
+                    "code": "ST618",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST725",
+        "name": "Estruturas de Concretos Especiais",
+        "credits": 4,
+        "syllabus": "Estruturas pré moldadas de concreto, sistemas e peças usuais, ligações e elementos de fundação. Noções de concreto protendido, sistema e aplicações. Concretos de alto desempenho. Concreto com adição de fibras.",
+        "reqs": [
+            [
+                {
+                    "code": "ST628"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST726",
+        "name": "Construção e Meio Ambiente",
+        "credits": 2,
+        "syllabus": "Meio ambiente e desenvolvimento sustentável. Impactos Ambientais. Reciclagem de materiais na construção civil. Legislação ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST727",
+        "name": "Concreto Armado III",
+        "credits": 6,
+        "syllabus": "Fundamentos e princípios do projeto estrutural. Peças usuais de concreto armado. Lajes planas, cogumelo e nervuradas. Punção. Consolos curtos. Vigas parede. Elementos de fundação. Escadas usuais. Reservatórios. Dimensionamento e projeto com uso de programas e computação gráfica.",
+        "reqs": [
+            [
+                {
+                    "code": "EB944",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST527",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST728",
+        "name": "Introdução ao Trabalho de Graduação e Estágio Supervisionado",
+        "credits": 4,
+        "syllabus": "Definir plano do trabalho de graduação interdisciplinar ou estágio supervisionado e revisão bibliográfica, sob orientação de um professor. Obs: Não é responsabilidade da Unicamp providenciar estágios para alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST824",
+            "ST833",
+            "ST834"
+        ]
+    },
+    {
+        "code": "ST729",
+        "name": "Noções de Concreto Protendido",
+        "credits": 4,
+        "syllabus": "Conceitos de protensão aplicada ao concreto: materiais e sistemas de protensão. Estados limites de serviços e últimos. Aplicações em estruturas de edifícios.",
+        "reqs": [
+            [
+                {
+                    "code": "EB944",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "ST527",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST730",
+        "name": "Estruturas de Concreto Pré-Moldado",
+        "credits": 6,
+        "syllabus": "Estruturas pré-moldadas de concreto, sistemas e peças usuais, ligações e elementos de fundação. Concretos de alto desempenho. Concreto com adição de fibras.",
+        "reqs": [
+            [
+                {
+                    "code": "ST628",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST731",
+        "name": "Fundações II",
+        "credits": 4,
+        "syllabus": "Fundações Profundas: Estacas e Tubulões - Tipos de Estacas de Tubulões - Capacidade de Carga e Tensão admissível dos solos para tubulões - Dimensionamento de Tubulões a céu aberto - Tubulões pneumáticos - Projeto de Fundações por tubulões. Capacidade de carga de estacas - formulações teóricas - métodos empíricos de avaliação: Décourt - Quaresma/Philiponnet/Aokiveloso, etc. Dimensionamento de Fundações por estacas - projeto de estaqueamento - Comprovação do comportamento de estacas - Estaqueamento sujeito a forças horizontais e momentos fletores.",
+        "reqs": [
+            [
+                {
+                    "code": "ST631"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST732",
+        "name": "Movimento de Terra II",
+        "credits": 4,
+        "syllabus": "Acompanhamento das operações de Máquinas de Terraplenagem - Custo de Utilização dos equipamentos - Aterros e obras de Consolidação da Estrada - Escavação em Rocha - Barragens de Terra.",
+        "reqs": [
+            [
+                {
+                    "code": "ST632"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST733",
+        "name": "Mecânica dos Solos III",
+        "credits": 4,
+        "syllabus": "Empuxos sobre estrutura de arrimo. Tipos de estruturas de arrimo. Teorias clássicas de Coulomb e de Rankine para determinação de empuxos ativos e passivos. Empuxo em repouso-coeficiente de empuxo. Extensão das teorias clássicas para determinação de empuxo em solos coesivos. Segurança contra o deslizamento e o tombamento do muro de arrimo-tensões na fundação-escoramentos de valas-tipos de escoramento-análise de escoramentos em balanço e com uma ou mais linhas de estroncas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST636"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST734",
+        "name": "Ensaios de Pavimentação",
+        "credits": 2,
+        "syllabus": "Ensaio CBR. Índice de suporte Califórnia. Determinação do peso específico para agregado grosso MB-29 da ABNT, e para agregado fino. Determinação de resistência ao impacto. Ensaio de abrasão Los Angeles. Ensaio de adensidade. Ensaios de durabilidade dos agregados. Ensaio do índice de cubicidade ou de forma do agregado. Ensaios com materiais betuminosos: consistência. Penetração, viscosidade. Flutuação. Ponto de fulgor. Ponto de amolecimento. Ductibilidade. Ensaio Marshall.",
+        "reqs": [
+            [
+                {
+                    "code": "ST637"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST735",
+        "name": "Elementos de Concreto",
+        "credits": 4,
+        "syllabus": "Fundamentos. Projeto estrutural. Carregamento. Disposições Construtivas Desenho de concreto armado.",
+        "reqs": [
+            [
+                {
+                    "code": "ST309"
+                },
+                {
+                    "code": "ST420"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST736",
+        "name": "Movimento de Terra",
+        "credits": 4,
+        "syllabus": "Projeto de Terraplenagem de um trecho de Estrada. Trabalhos Preparatórios. Introdução à Terraplenagem. Estudos de materiais de Superfície. Locomoção e Produtividade dos Equipamentos de Terraplenagem. Previsão de Produção dos diversos Equipamentos. Seleção e manutenção dos Equipamentos de Terraplenagem. Acompanhamento das operações de Máquinas de Terraplenagem - Custo de Utilização dos equipamentos - Aterros e obras de Consolidação da Estrada.",
+        "reqs": [
+            [
+                {
+                    "code": "ST401",
+                    "partial": true
+                },
+                {
+                    "code": "ST539",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST737",
+        "name": "Pavimentação II",
+        "credits": 4,
+        "syllabus": "Revestimentos asfálticos. Estudo do carregamento veicular. Concepção, dimensionamento de pavimentos. Avaliação e reforço de pavimentos. Ensaios.",
+        "reqs": [
+            [
+                {
+                    "code": "ST639"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST738",
+        "name": "Logística",
+        "credits": 4,
+        "syllabus": "Atividades de Logística. Enfoque sistêmico e análise do custo total. Sistemas de controle de estoques. Relacionamento estoque, transporte e distribuição. Modelos logísticos integrados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST739",
+        "name": "Impactos Ambientais dos Transportes",
+        "credits": 4,
+        "syllabus": "Definições básicas, possíveis impactos ocasionados por projetos de transportes. Estudos dos Impactos Ambientais: sua obrigatoriedade no Brasil e a sua composição. Processo de licenciamento ambiental. A experiência brasileira na avaliação de impactos ambientais. Métodos e procedimentos para avaliação quantitativa dos impactos ambientais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST740",
+        "name": "Tecnologia dos Transportes II",
+        "credits": 4,
+        "syllabus": "Fluxos de tráfego interrompidos. Controle de tráfego. Fluxo de veículos em intersecções. Cruzamentos não semaforizados. Capacidade e nível de serviço de vias. Transporte público urbano: conceitos, definições e tecnologias. Custos e tarifação. Programação da operação. Levantamentos e pesquisas. Planejamento físico. Terminais.",
+        "reqs": [
+            [
+                {
+                    "code": "ST640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST752",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 12,
+        "syllabus": "Realização do Trabalho de Conclusão de Curso de Tecnologia em Saneamento Ambiental, com objetivo de aprofundar e aplicar os conhecimentos específicos das disciplinas, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST753",
+        "name": "Estágio Supervisionado",
+        "credits": 12,
+        "syllabus": "Realização do Estágio Supervisionado do Curso de Tecnologia em Saneamento Ambiental, sob orientação de um professor. Obs.: Não é responsabilidade da UNICAMP providenciar o estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST761",
+        "name": "Técnica de Projeto e Programação em Banco de Dados",
+        "credits": 2,
+        "syllabus": "Ferramentas e Técnicas utilizadas na Solução de Problemas de Sistemas de Informação utilizando Banco de Dados. Modelagem. Mapeamento do projeto lógico para o projeto físico. Implementação de um Sistema.",
+        "reqs": [
+            [
+                {
+                    "code": "ST661"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST762",
+        "name": "Laboratório de Programação III",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Programas Utilizando Linguagem de Programação Estudada em Linguagem e Técnicas de Programação III.",
+        "reqs": [
+            [
+                {
+                    "code": "ST662"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST763",
+        "name": "Administração em Processamento de Dados",
+        "credits": 2,
+        "syllabus": "Recursos Humanos em Processamento de Dados. Avaliação dos Sistemas e Recursos Computacionais. Uso dos Centros de Informações. Controle de Custos em Informática. Plano Anual de Operações. Gerência Estratégica da Tecnologia de Informação.",
+        "reqs": [
+            [
+                {
+                    "code": "TT404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST765",
+        "name": "Computação Gráfica",
+        "credits": 4,
+        "syllabus": "Conceitos básicos em Computação Gráfica; Sistemas e dispositivos gráficos; áreas de processamento Digital de Imagens; sistema de cor; desenho de linhas e círculos; algoritmos de preenchimento de regiões; transformações geométricas 2D e 3D; projeções perspectivas e ortográficas; renderização: iluminação e textura.",
+        "reqs": [
+            [
+                {
+                    "code": "EB102"
+                },
+                {
+                    "code": "SI201"
+                }
+            ],
+            [
+                {
+                    "code": "SI201"
+                },
+                {
+                    "code": "SI221"
+                }
+            ],
+            [
+                {
+                    "code": "ST364"
+                },
+                {
+                    "code": "TT102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST116"
+        ]
+    },
+    {
+        "code": "ST766",
+        "name": "Organização Industrial",
+        "credits": 4,
+        "syllabus": "Estudo de Métodos e Tempos. Administração de Materiais (Sistema). O sistema de planejamento. Programação e Controle da Produção. Técnicas de Programação. Arranjo Físico.",
+        "reqs": [
+            [
+                {
+                    "code": "TT404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST767",
+        "name": "Banco de Dados II",
+        "credits": 4,
+        "syllabus": "Conceitos relacionados com a estrutura física dos bancos de dados. Linguagem de acesso a banco de dados. Ferramentas e técnicas utilizadas na implementação de sistemas de bancos de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ST567"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI502"
+        ]
+    },
+    {
+        "code": "ST772",
+        "name": "Modelos Computacionais para Sistemas Ambientais",
+        "credits": 2,
+        "syllabus": "Aplicação de modelos computacionais no estudo de sistemas do meio ambiente.",
+        "reqs": [
+            [
+                {
+                    "code": "ST672"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST773",
+        "name": "Avaliação de Impacto Ambiental",
+        "credits": 4,
+        "syllabus": "Documentação jurídica na área ambiental: conceitos, tratamentos e aplicação. Estudos de impacto ambiental: exigências legais e métodos de avaliação. Métodos de avaliação EIA/RIMA. Análise de risco e programas de medidas emergenciais. Auditoria ambiental prévia e pós implantação de obras. Remediação e recuperação ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "ST671"
+                },
+                {
+                    "code": "ST672"
+                },
+                {
+                    "code": "ST675"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST774",
+        "name": "Gerenciamento Ambiental",
+        "credits": 4,
+        "syllabus": "Conceitos do gerenciamento ambiental de empresas. Instrumentos de gerenciamento ambiental e Sistemas de Gestão Ambiental. Auditorias ambientais.",
+        "reqs": [
+            [
+                {
+                    "code": "ST574"
+                },
+                {
+                    "code": "ST672"
+                },
+                {
+                    "code": "ST673"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST775",
+        "name": "Poluição Industrial: Estudo de Caso",
+        "credits": 4,
+        "syllabus": "Levantamento, diagnóstico e proposição de medidas de controle ambiental na indústria.",
+        "reqs": [
+            [
+                {
+                    "code": "EB605"
+                },
+                {
+                    "code": "EB606"
+                },
+                {
+                    "code": "EB907"
+                }
+            ],
+            [
+                {
+                    "code": "ST574"
+                },
+                {
+                    "code": "ST575"
+                },
+                {
+                    "code": "ST675"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST776",
+        "name": "Poluição Sonora e Vibrações",
+        "credits": 2,
+        "syllabus": "Noções básicas sobre acústica. Pressão sonora e nível de pressão sonora. Propagação do som. Adição e subtração de níveis de pressão sonora. A audição humana. Influência dos níveis de ruído na saúde humana: perda auditiva. Influência da vibração na saúde humana: sistema esquelético, articulações e sistema circulatório. Fontes de geração de ruídos e vibrações. Metodologia de avaliação (Norma Regulamentadora 15, NHO 01 da Fundacentro, Normas da ABNT). Técnicas de minimização de ruídos e vibrações. Normas.",
+        "reqs": [
+            [
+                {
+                    "code": "ST209"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST777",
+        "name": "Legislação Ambiental",
+        "credits": 2,
+        "syllabus": "Fundamentos do direito ambiental e questões de direito ambiental internacional. O meio ambiente na Constituição Federal. O licenciamento ambiental. Infrações e sanções administrativas. O código florestal e a legislação de proteção da flora. Responsabilidade penal. Condutas tipificadas como crime ambiental. Responsabilidade penal da pessoa natural. Das pessoas jurídicas e dos entes coletivos. Sanções penais à luz da lei de crimes ambientais. Ação civil pública.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST778",
+        "name": "Introdução ao Trabalho de Graduação e ao Estágio Supervisionado",
+        "credits": 2,
+        "syllabus": "Definir o Plano do Trabalho de Graduação Interdisciplinar ou Estágio Supervisionado, contendo a revisão bibliográfica sobre o trabalho a ser desenvolvido, sob a orientação de um professor.\nObs.: Não é responsabilidade da Unicamp providenciar estágio para alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST813",
+            "ST814",
+            "ST873"
+        ]
+    },
+    {
+        "code": "ST801",
+        "name": "Atividades Complementares I",
+        "credits": 8,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST802"
+        ]
+    },
+    {
+        "code": "ST802",
+        "name": "Atividades Complementares II",
+        "credits": 8,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "ST801"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST813",
+        "name": "Trabalho de Graduação Interdisciplinar",
+        "credits": 4,
+        "syllabus": "Realização do Trabalho de Graduação Interdisciplinar do Curso de Tecnologia em Saneamento Ambiental, com objetivo de aprofundar e aplicar os conhecimentos específicos das disciplinas, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "ST778"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST814",
+        "name": "Estágio Supervisionado",
+        "credits": 4,
+        "syllabus": "Realização do Estágio Supervisionado do Curso de Tecnologia em Saneamento Ambiental, sob orientação de um professor.\nObs.: Não é responsabilidade da Unicamp providenciar estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST778"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST821",
+        "name": "Estágio Supervisionado",
+        "credits": 6,
+        "syllabus": "Trabalho aliando o conhecimento científico com o prático, com a supervisão do CESET nas seguintes áreas: Construção Civil em geral, Escritórios de Projetos Arquitetônicos. Cálculo de Concreto, Madeira e Aço, Planejamento e Orçamento de Obras. Vistoria de Obras e Atividades afins. OBS.: O estágio será supervisionado pelo CESET e servirá como complemento didático para o aluno. Não será responsabilidade do CESET procurar estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST823",
+        "name": "Estágio Supervisionado",
+        "credits": 4,
+        "syllabus": "Estágio Supervisionado em Tecnologia em Construção de Edifícios, sob a orientação de um professor.\nObs.: Não é responsabilidade da Unicamp providenciar estágios para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST824",
+        "name": "Trabalho de Graduação Interdisciplinar",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de um trabalho em Tecnologia em Construção de Edifícios, com objetivo de aplicar e aprofundar os conhecimentos específicos das disciplinas, sob a orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "ST728"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST833",
+        "name": "Estágio Supervisionado",
+        "credits": 4,
+        "syllabus": "Estágio supervisionado em Tecnologia em Estradas, sob a orientação de um professor.\nObs.: Não é responsabilidade da Unicamp providenciar estágios para alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST728"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST834",
+        "name": "Trabalho de Graduação Interdisciplinar",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de um trabalho em Tecnologia em Estradas, com o objetivo de aplicar e aprofundar os conhecimentos específicos das disciplinas, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "ST728"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST861",
+        "name": "Estágio Supervisionado",
+        "credits": 6,
+        "syllabus": "Estágio supervisionado na área de Tecnologia em Informática.\nObs.: Não é responsabilidade da Unicamp providenciar estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST862",
+        "name": "Trabalho de Graduação Interdisciplinar",
+        "credits": 6,
+        "syllabus": "Desenvolvimento de trabalho de Processamento de Dados, com o objetivo de aprofundar e aproximar da prática temas desenvolvidos nas disciplinas de formação específica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA485",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST863",
+        "name": "Introdução ao Estágio Supervisionado",
+        "credits": 2,
+        "syllabus": "Elaboração do plano de estágio supervisionado revisão bibliográfica sobre o trabalho a ser desenvolvido.\nObs.: Não é responsabilidade da Unicamp procurar e obter estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST864"
+        ]
+    },
+    {
+        "code": "ST864",
+        "name": "Estágio Supervisionado",
+        "credits": 4,
+        "syllabus": "Estágio Supervisionado na área de Tecnologia em Informática.\nObs.: Não é responsabilidade da Unicamp procurar e obter estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST863"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST865",
+        "name": "Introdução ao Trabalho de Graduação",
+        "credits": 2,
+        "syllabus": "Projeto e revisão bibliográfica sobre o tema da monografia do trabalho de graduação interdisciplinar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST866"
+        ]
+    },
+    {
+        "code": "ST866",
+        "name": "Trabalho de Graduação Interdisciplinar",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e apresentação da monografia referente ao trabalho de graduação interdisciplinar, área de Tecnologia em Informática.",
+        "reqs": [
+            [
+                {
+                    "code": "ST865"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST873",
+        "name": "Trabalho de Graduação Interdisciplinar",
+        "credits": 4,
+        "syllabus": "Realização do Trabalho de Graduação Interdisciplinar do Curso de Tecnologia em Controle Ambiental, com objetivo de aprofundar e aplicar os conhecimentos específicos das disciplinas, sob orientação do professor.",
+        "reqs": [
+            [
+                {
+                    "code": "ST778"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST874",
+        "name": "Estágio Supervisionado",
+        "credits": 4,
+        "syllabus": "Realização do Estágio Supervisionado do Curso de Tecnologia em Controle Ambiental, sob orientação de um professor.\nObs.: Não é responsabilidade da Unicamp providenciar o estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST880",
+        "name": "Administração da Produção para Tecnologia da Informação",
+        "credits": 2,
+        "syllabus": "Sistemas de produção, ferramentas da produção enxuta e produção sustentável. Gestão da cadeia de suprimentos. Planejamento e coordenação de atividades em projetos. Indicadores de desempenho. Estratégia de produção.",
+        "reqs": [
+            [
+                {
+                    "code": "TT350"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST900",
+        "name": "Trabalho de Conclusão de Curso I",
+        "credits": 2,
+        "syllabus": "Definir o Plano do Trabalho de Conclusão de Curso de Tecnologia em Controle Ambiental, contendo a revisão bibliográfica sobre o trabalho a ser desenvolvido, sob a orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST901"
+        ]
+    },
+    {
+        "code": "ST901",
+        "name": "Trabalho de Conclusão de Curso II",
+        "credits": 4,
+        "syllabus": "Realização do Trabalho de Conclusão de Curso de Tecnologia em Controle Ambiental, com objetivo de aprofundar e aplicar os conhecimentos específicos das disciplinas, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "ST900"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST902",
+        "name": "Iniciação Científica I",
+        "credits": 4,
+        "syllabus": "Atividades de Iniciação Científica, desenvolvidas sob orientação de docente da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST903"
+        ]
+    },
+    {
+        "code": "ST903",
+        "name": "Iniciação Científica II",
+        "credits": 4,
+        "syllabus": "Atividades de Iniciação Científica, desenvolvidas sob orientação de docente da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "ST902"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ST904",
+        "name": "Projetos de Extensão I",
+        "credits": 4,
+        "syllabus": "Atividades de extensão desenvolvidas sob orientação de docente da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST905"
+        ]
+    },
+    {
+        "code": "ST905",
+        "name": "Projetos de Extensão II",
+        "credits": 4,
+        "syllabus": "Atividades de extensão desenvolvidas sob orientação de docente da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "ST904"
+                }
+            ]
+        ]
+    }
+]

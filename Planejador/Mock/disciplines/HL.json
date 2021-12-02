@@ -1,0 +1,1340 @@
+[
+    {
+        "code": "HL001",
+        "name": "Leitura de Textos Latinos I",
+        "credits": 2,
+        "syllabus": "Tradução de trechos de obra em prosa da época clássica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL643"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL002",
+        "name": "Leitura de Textos Latinos II",
+        "credits": 2,
+        "syllabus": "Tradução de trechos de obra poética da época clássica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL643"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL004",
+        "name": "Introdução a Métodos Quantitativos em Linguística",
+        "credits": 4,
+        "syllabus": "Cálculo e probabilidade para análise linguística. Estatística Descritiva e Introdução à Estatística Inferencial voltada à análise de dados linguísticos. Coleta e organização de dados. Relação entre hipóteses científicas e procedimentos experimentais. Interpretação de resultados de análises estatísticas. "
+    },
+    {
+        "code": "HL005",
+        "name": "Métodos Quantitativos em Linguística: Abordagens Experimentais",
+        "credits": 2,
+        "syllabus": "Fundamentos de Estatística Inferencial voltados à análise de dados linguísticos. Estabelecimento de teste de hipóteses. Interpretação de resultados de análises estatísticas. Refinamento de análises. "
+    },
+    {
+        "code": "HL006",
+        "name": "Introdução à Ciência e Tecnologias da Fala",
+        "credits": 2,
+        "syllabus": "A fala como objeto de estudo. Integração entre Ciência e Tecnologia de Fala. Modelos de Produção de Fala e sua reprodução. Máquinas falantes. Métodos e técnicas de síntese da fala. O problema geral do reconhecimento de fala."
+    },
+    {
+        "code": "HL007",
+        "name": "Ciência e Tecnologias da Fala",
+        "credits": 4,
+        "syllabus": "Técnicas de síntese e reconhecimento de fala. Técnicas de Tradução Automática. Elementos do estado-da-arte em tecnologias de fala."
+    },
+    {
+        "code": "HL008",
+        "name": "Laboratório de Políticas Linguísticas",
+        "credits": 2,
+        "syllabus": "Práticas de análise de políticas linguísticas em materiais como legislações, normas e outros documentos pertinentes, segundo recortes temáticos e espaço-temporais escolhidos pelo docente. "
+    },
+    {
+        "code": "HL044",
+        "name": "Leitura de Textos Gregos I",
+        "credits": 2,
+        "syllabus": "O curso pretende aprofundar o conhecimento de Língua Grega a partir da leitura de textos que ofereçam possibilidade de discussão sobre aspectos fundamentais da cultura clássica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL444"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL052",
+        "name": "Psicolinguística",
+        "credits": 4,
+        "syllabus": "Problemas epistemológicos da psicologia da linguagem. A Psicolinguística nas suas relações com outras disciplinas recentes que abordam as relações entre mente e linguagem. Bases biológicas da linguagem. Cérebro e mente: os debates atuais e suas implicações para o campo. O papel da linguagem nas atividades mentais: percepção, atenção, memória, solução de problemas, a leitura e escrita. A organização mental e/ou comportamental do conhecimento linguístico."
+    },
+    {
+        "code": "HL053",
+        "name": "Neurolinguística",
+        "credits": 4,
+        "syllabus": "A disciplina pretende desenvolver os seguintes aspectos: a) histórico do nascimento da Neurolinguística e suas implicações para as relações entre a Linguística, as Neurociências e outros domínios do estudo da cognição humana; b) aspectos biológicos e socioculturais do funcionamento cerebral e da linguagem; c) discussão em torno das relações entre o normal e o patológico nos estudos da linguagem; d) análise do método clínico e de procedimentos avaliativos relativos à linguagem; e) teorização linguística das afasias e outras patologias linguístico-cognitivas; f) a relação entre oralidade e escrita.",
+        "reqBy": [
+            "HL055"
+        ]
+    },
+    {
+        "code": "HL055",
+        "name": "Linguística e Avaliação de Linguagem",
+        "credits": 2,
+        "syllabus": "Contribuição das teorias linguísticas para avaliação de linguagem nas patologias. Crítica à perspectiva normativa dos testes de linguagem em contraposição a uma perspectiva discursiva dos fenômenos neurolinguísticos e neuropsicológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "HL053"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL056",
+        "name": "Linguagem e Psicanálise",
+        "credits": 2,
+        "syllabus": "A linguagem na construção da subjetividade; o inconsciente como efeito da linguagem; a noção de língua materna a partir da psicanálise; o inconsciente e a estrutura da linguagem.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL070",
+        "name": "O Português no Brasil",
+        "credits": 2,
+        "syllabus": "A implantação da língua no Brasil: aspectos históricos e sociais; formação do português brasileiro: variedades padrão e não padrão; estudo de variedades do português brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL660",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL071",
+        "name": "Estágio Supervisionado",
+        "credits": 8,
+        "syllabus": "Estágio supervisionado a ser cumprido em uma das áreas de atuação previstas pelo curso."
+    },
+    {
+        "code": "HL080",
+        "name": "Estudos Gramaticais",
+        "credits": 2,
+        "syllabus": "Elementos de descrição, análise e representação gramatical.",
+        "reqBy": [
+            "HL081",
+            "HL085"
+        ]
+    },
+    {
+        "code": "HL081",
+        "name": "Estudos Gramaticais: Sintaxe",
+        "credits": 4,
+        "syllabus": "Estudo de relações gramaticais na perspectiva da sintaxe gerativa.",
+        "reqs": [
+            [
+                {
+                    "code": "HL080"
+                }
+            ],
+            [
+                {
+                    "code": "HL220"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL082",
+        "name": "Estudos Gramaticais: Morfologia",
+        "credits": 4,
+        "syllabus": "Estudo de propriedades morfológicas das línguas naturais."
+    },
+    {
+        "code": "HL083",
+        "name": "Tópicos de Gramática",
+        "credits": 2,
+        "syllabus": "Estudo de um ou mais temas em sintaxe e/ou morfologia."
+    },
+    {
+        "code": "HL084",
+        "name": "Tópicos de Teoria Gramatical",
+        "credits": 4,
+        "syllabus": "Estudo de um ou mais temas em Teoria Gramatical."
+    },
+    {
+        "code": "HL085",
+        "name": "Linguística de Corpus",
+        "credits": 2,
+        "syllabus": "Procedimentos para constituição e utilização de grandes corpora.",
+        "reqs": [
+            [
+                {
+                    "code": "HL080"
+                }
+            ],
+            [
+                {
+                    "code": "HL220"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL090",
+        "name": "Tópicos de Linguística I",
+        "credits": 2,
+        "syllabus": "Estudo de um tema de linguística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL091",
+        "name": "Tópicos de Linguística II",
+        "credits": 2,
+        "syllabus": "Estudo de um tema de linguística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL092",
+        "name": "Tópicos de Linguística III",
+        "credits": 2,
+        "syllabus": "Estudo de um tema de linguística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL093",
+        "name": "Tópicos de Linguística IV",
+        "credits": 2,
+        "syllabus": "Estudo de um tema de linguística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL094",
+        "name": "Tópicos de Linguística V",
+        "credits": 2,
+        "syllabus": "Estudo de um tema de linguística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL111",
+        "name": "Introdução aos Estudos da Linguagem I",
+        "credits": 4,
+        "syllabus": "Visão geral do fenômeno da linguagem e de seus métodos de investigação científica, considerando temas como: linguagem e sociedade, linguagem e línguas naturais, a língua como objeto de estudo, o problema do objeto e do método, áreas da linguística, a linguística e outras ciências. Apresentação e problematização de fatos de linguagem pertinentes para as teorias linguísticas."
+    },
+    {
+        "code": "HL120",
+        "name": "Linguagem e Investigação em Ciências Humanas",
+        "credits": 4,
+        "syllabus": "Estudo das diferentes teorias do social na história, assim como do que é fato social, visando à perspectiva dos estudos da linguagem."
+    },
+    {
+        "code": "HL121",
+        "name": "Fonética, Fonologia e Morfologia",
+        "credits": 4,
+        "syllabus": "Conhecimento básico de fonética, fonologia e morfologia do português: teoria e prática. Mód 1: Fonética: a produção da fala - processos aerodinâmicos, fonatórios e articulatórios. Modos e lugares de articulação. Prática de produção e transcrição. Mód 2: Fonologia: a organização dos sons da fala em sistemas fonológicos - fonema, alofone e arquifonema. Mód 3: Morfologia: morfologia flexional e derivacional do português; processos morfofonêmicos.",
+        "reqBy": [
+            "HL321",
+            "HL521"
+        ]
+    },
+    {
+        "code": "HL127",
+        "name": "Introdução às Ciências da Linguagem",
+        "credits": 4,
+        "syllabus": "Visão geral do fenômeno da linguagem e dos métodos de investigação científica desse objeto. Mód 1: Textos fundamentais da linguística. Mód 2: História das Ideias Linguísticas: linguística, língua nacional e instrumentos de gramatização."
+    },
+    {
+        "code": "HL135",
+        "name": "Escrita e Oralidade",
+        "credits": 2,
+        "syllabus": "Estudo de processos relativos a usos da oralidade e da escrita. Mód 1: Caracterização da oralidade e da escrita: processos de produção oral e de produção escrita; usos sociais da linguagem: gêneros orais e escritos; consequências para o ensino de língua portuguesa. Mód 2: Sistemas de escrita: escrita alfabética e sua base fonológica; marcação prosódica na oralidade, pontuação e outros sinais na escrita; avaliação e compreensão de desvios ortográficos. Mód 3: Política linguística e normatização; história da ortografia da língua portuguesa; reformas ortográficas."
+    },
+    {
+        "code": "HL143",
+        "name": "Latim I",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo da palavra latina (em especial, do nome e do verbo latinos e suas particularidades morfossintáticas) e da literatura e civilização romanas. Tradução comentada de trechos adaptados da Aulularia de Plauto. Noções de história do latim e de latim vulgar, e de aspectos relevantes ao ensino do português. (Seções 1A-1D do método: Aprendendo Latim, Ed. Odysseus.)",
+        "reqBy": [
+            "HL243"
+        ]
+    },
+    {
+        "code": "HL144",
+        "name": "Grego Clássico I",
+        "credits": 4,
+        "syllabus": "Introdução à língua e à cultura grega: alfabeto; rudimentos de morfologia nominal e verbal; leitura de textos adaptados do método Reading Greek (Cambridge University Press), seções 1 a 4; realização de séries de exercícios pelos alunos fora do horário das aulas.",
+        "reqBy": [
+            "HL244"
+        ]
+    },
+    {
+        "code": "HL153",
+        "name": "Tópicos em Estudos Clássicos I",
+        "credits": 2,
+        "syllabus": "Estudo de temas concernentes a língua e literatura clássica (grego e/ou latim)."
+    },
+    {
+        "code": "HL163",
+        "name": "Tópicos em Estudos Clássicos II",
+        "credits": 2,
+        "syllabus": "Estudo de temas concernentes a língua e literatura clássica (grego e/ou latim)."
+    },
+    {
+        "code": "HL170",
+        "name": "Tópicos de Língua e Cultura Latina",
+        "credits": 2,
+        "syllabus": "Estudo do período composto latino ou de tema da civilização clássica."
+    },
+    {
+        "code": "HL171",
+        "name": "Tópicos em Análise do Discurso",
+        "credits": 2,
+        "syllabus": "A produção, a circulação, a estrutura e a interpretação de textos breves quase formulares (chistes, provérbios, slogans)."
+    },
+    {
+        "code": "HL172",
+        "name": "Tópicos em Análise de Textos Orais",
+        "credits": 2,
+        "syllabus": "A transcrição de dados orais: o modelo de transcrição desenvolvido pelo NURC. As estratégias de construção de texto falado. As características organizacionais da conversação; os marcadores conversacionais; coerência conversacional e organização do tópico. Análise de dados conversacionais e de elocuções formais."
+    },
+    {
+        "code": "HL173",
+        "name": "Tópicos em Análise de Textos Escritos",
+        "credits": 2,
+        "syllabus": "Conceitos de coesão e coerência. Processos de referenciação. A progressão referencial. A progressão textual. Os articuladores textuais. Análise de textos escritos considerando as categorias estudadas."
+    },
+    {
+        "code": "HL174",
+        "name": "Tópicos em Línguas Indígenas",
+        "credits": 2,
+        "syllabus": "Temas de fonologia e/ou morfossintaxe de línguas indígenas selecionadas."
+    },
+    {
+        "code": "HL175",
+        "name": "Tópicos em Língua e Sociedade",
+        "credits": 2,
+        "syllabus": "Conceitos teóricos principais: variação e mudança; variedades linguísticas - variedades sociais e regionais; variedades padrão e não padrão; fatores externos condicionantes da mudança linguística. Temas de interesse: bilinguismo, plurilinguismo, línguas veiculares; pidgins e crioulos; atitudes e comportamentos linguísticos."
+    },
+    {
+        "code": "HL176",
+        "name": "Tópicos em Sociolinguística e Ensino",
+        "credits": 2,
+        "syllabus": "Histórico e constituição da disciplina Língua Portuguesa nos currículos escolares; o problema da aquisição do padrão; a perspectiva sociolinguística na sala de aula: o problema da escolha de códigos comunicativos e linguísticos e de estilos de fala."
+    },
+    {
+        "code": "HL177",
+        "name": "Tópicos em Linguística de Corpus",
+        "credits": 2,
+        "syllabus": "Introdução à Linguística de Corpus: aspectos linguísticos e computacionais da construção de grandes corpora eletrônicos e da elaboração de ferramentas de anotação e busca.",
+        "reqBy": [
+            "HL277"
+        ]
+    },
+    {
+        "code": "HL178",
+        "name": "Tópicos em Linguagem e Psicanálise",
+        "credits": 2,
+        "syllabus": "Língua, linguagem, fala e lalíngua; \"O inconsciente estruturado como uma linguagem\", \"o que é a língua se a Psicanálise existe?\" (Milner)"
+    },
+    {
+        "code": "HL179",
+        "name": "Tópicos em História das Ideias Linguísticas",
+        "credits": 2,
+        "syllabus": "Processos de gramatização. Língua nacional e processo de identificação do sujeito brasileiro. Colégios, gramáticas e dicionários."
+    },
+    {
+        "code": "HL180",
+        "name": "Tópicos em Aquisição da Linguagem",
+        "credits": 2,
+        "syllabus": "Introdução à pesquisa na área de aquisição da linguagem com foco especial na descrição e análise de dados longitudinais do português como língua materna."
+    },
+    {
+        "code": "HL181",
+        "name": "Tópicos em Fonética e Fonologia",
+        "credits": 2,
+        "syllabus": "Conceitos fundamentais da Fonologia: princípio fonêmico, fonema, traço distintivo, neutralização, alofonia, introdução à análise fonológica. Princípios gerais de produção e percepção dos sons das línguas naturais."
+    },
+    {
+        "code": "HL182",
+        "name": "Tópicos em Psicolinguística",
+        "credits": 2,
+        "syllabus": "Discussão sobre as relações entre mente e linguagem, abordadas à luz da literatura sobre um ou mais dos seguintes temas: estudos experimentais e/ou simulações computacionais da organização mental do conhecimento linguístico, filogênese da gramática, relações entre cognição, linguagem, ação e emoção."
+    },
+    {
+        "code": "HL183",
+        "name": "Tópicos em Estudos Clássicos",
+        "credits": 2,
+        "syllabus": "Análise e estudo de textos gregos e latinos."
+    },
+    {
+        "code": "HL184",
+        "name": "Tópicos em Neurolinguística",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de temas da área, dentre os quais aspectos neurolinguísticos da aquisição da língua materna e de segunda língua e processamento linguístico."
+    },
+    {
+        "code": "HL185",
+        "name": "Tópicos em Semântica da Enunciação",
+        "credits": 2,
+        "syllabus": "Aspectos atuais da análise enunciativa da significação: o sujeito, a palavra, o enunciado, o texto. Exercício de análise."
+    },
+    {
+        "code": "HL186",
+        "name": "Tópicos em Metodologias Experimentais",
+        "credits": 4,
+        "syllabus": "Estudo, desenho e aplicação de diferentes metodologias experimentais em linguística."
+    },
+    {
+        "code": "HL201",
+        "name": "Introdução à Semântica e à Pragmática",
+        "credits": 4,
+        "syllabus": "Dimensões da significação: sentido, referência. Significado lexical e relações de sentido. Enunciação, subjetividade e sentido. Significação e uso da linguagem: o papel do contexto e do cotexto. A construção dos sentidos implícitos na interlocução. Performatividade e atos da fala."
+    },
+    {
+        "code": "HL220",
+        "name": "Prática de Análise Gramatical",
+        "credits": 2,
+        "syllabus": "Descrição, análise e representação de estruturas gramaticais.",
+        "reqBy": [
+            "HL081",
+            "HL085"
+        ]
+    },
+    {
+        "code": "HL221",
+        "name": "Fonética e Fonologia",
+        "credits": 4,
+        "syllabus": "Os aspectos fônicos da linguagem; a produção da fala; aparelho fonador; processos aerodinâmicos, fonatórios e articulatórios; modos e pontos de articulação; consoantes e vogais; articulações secundárias; a sílaba; a prosódia do ritmo e da entoação; prática de produção, reconhecimento e transcrição dos sons da linguagem; a organização dos sons da fala em sistemas fonológicos; fonema, alofone, arquifonema: as noções de oposição, contraste, distribuição complementar, neutralização; traços distintivos; processos e representações fonológicas; prática de análise fonológica.",
+        "reqBy": [
+            "HL321",
+            "HL341",
+            "HL521",
+            "HL571"
+        ]
+    },
+    {
+        "code": "HL235",
+        "name": "Prática de Análise da Linguagem",
+        "credits": 2,
+        "syllabus": "Apresentação e problematização de fatos de linguagem."
+    },
+    {
+        "code": "HL236",
+        "name": "Linguagem: Dimensões Históricas e Sociais",
+        "credits": 4,
+        "syllabus": "Aspectos sociais e históricos da diversidade linguística do Brasil: teoria e prática. Implicações para o ensino. Mód 1: Sociolinguística: dimensões históricas e socioculturais da linguagem, o campo da sociolinguística, variedades do português brasileiro e suas implicações para o ensino. Mód 2: Diversidade linguística e situações de contato linguístico nas sociedades indígenas do Brasil, bilinguismo e multilinguismo. Mód 3: Formação do português brasileiro: a questão das origens e o papel do contato com as línguas indígenas e africanas."
+    },
+    {
+        "code": "HL243",
+        "name": "Latim II",
+        "credits": 4,
+        "syllabus": "Tradução comentada de trechos adaptados da Aulularia e das Báquides (Bacchides) de Plauto e de epigramas de Marcial, a partir dos quais se estudarão os respectivos tópicos gramaticais. (Seções 1E-2A do método.)",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL143"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL343"
+        ]
+    },
+    {
+        "code": "HL244",
+        "name": "Grego Clássico II",
+        "credits": 4,
+        "syllabus": "Aprofundamento do estudo da língua grega, com leitura de textos adaptados de Aristófanes, Platão e Heródoto (método Reading Greek, seções 5 e 6), realização de séries de exercícios pelos alunos fora do horário das aulas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL144"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL344"
+        ]
+    },
+    {
+        "code": "HL245",
+        "name": "Escrita e Oralidade: Prática de Análise",
+        "credits": 2,
+        "syllabus": "Relações entre fala/escrita e oralidade/letramento e os modos de funcionamento da fala nos variados contextos de interação. Os impactos da concepção do contínuo oralidade-escrita no ensino de língua materna. Projetos de ensino com gêneros orais formais públicos. Projetos de ensino com gêneros literários enfocando os índices de oralidade neles presentes."
+    },
+    {
+        "code": "HL260",
+        "name": "Sociolinguística",
+        "credits": 4,
+        "syllabus": "O campo da sociolinguística: histórico e constituição. Conceitos teóricos principais: variação e mudança; variedades linguísticas - variedades sociais e regionais; variedades padrão e não padrão; mudança linguística.Temas de interesse; bilinguismo, plurilinguismo, línguas veiculares; pidgins e crioulos; planejamento linguístico; atitudes e comportamentos linguísticos. Contribuições da sociolinguística para o ensino de língua materna."
+    },
+    {
+        "code": "HL277",
+        "name": "Tópicos em Linguística de Corpus II",
+        "credits": 2,
+        "syllabus": "Prática de construção e exploração de grandes corpora anotados.",
+        "reqs": [
+            [
+                {
+                    "code": "HL177"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL304",
+        "name": "Introdução à Teoria Gramatical",
+        "credits": 2,
+        "syllabus": "Introdução ao estudo teórico das relações gramaticais."
+    },
+    {
+        "code": "HL311",
+        "name": "Fundamentos da Aquisição de Linguagem",
+        "credits": 4,
+        "syllabus": "A disciplina visa levar a uma reflexão sobre a fala da criança, sobre a escrita inicial e sobre certos fenômenos que, genericamente, podem ser compreendidos como patologias da fala infantil, mas que no curso serão debatidos e interrogados à luz de uma teorização sobre a aquisição de linguagem. As questões empíricas serão tratadas a partir da análise de corpora da fala e escrita da criança. Serão estudados aspectos estruturais da fala da criança no processo de aquisição da língua materna."
+    },
+    {
+        "code": "HL321",
+        "name": "Fonética Experimental",
+        "credits": 2,
+        "syllabus": "Observação, experimento e medida. Instrumentos de medida em Fonética. O papel da Fonética Acústica para tornar a fala acessível à mensuração. Elementos de Fonética Acústica: onda sonora, espectro. A teoria fonte-filtro da produção da fala. Principais características acústicas das vogais. Principais características acústicas das consoantes. Acústica dos traços prosódicos. O papel das pistas acústicas na percepção de fala. Aspectos cognitivos e linguísticos da percepção de fala.",
+        "reqs": [
+            [
+                {
+                    "code": "HL121"
+                }
+            ],
+            [
+                {
+                    "code": "HL221"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL571"
+        ]
+    },
+    {
+        "code": "HL323",
+        "name": "Linguagem e Significação: Teoria e Prática",
+        "credits": 4,
+        "syllabus": "Linguagem e significação: teoria e prática. Mód 1: Discurso e Texto: produção e formulação de sentidos; gêneros discursivos e textuais; texto, intertexto e interdiscurso; leitura e interpretação; condições de produção; processo de subjetivação, autoria. Mód 2: Semântica e Pragmática: sentido e referência; relações de sentido; polissemia; enunciação; implícitos; atos de fala. Mód 3: Lexicologia e Lexicografia: noções básicas de lexicologia; problemas de definição lexicográfica; léxico, dicionário e significação."
+    },
+    {
+        "code": "HL324",
+        "name": "Linguagem e Significação no Ensino de Língua Portuguesa",
+        "credits": 4,
+        "syllabus": "Construção de modos de abordagem da significação no ensino de língua portuguesa. Enunciação, argumentação e sentido: relações entre sujeito falante, língua, linguagem e exterioridade; divisão de sentidos e argumentação. A palavra como unidade linguística: criação lexical, mecanismos de formação de palavras, sentido e construção da referência, dicionarização da língua."
+    },
+    {
+        "code": "HL325",
+        "name": "Texto, Discurso e Ensino de Língua",
+        "credits": 2,
+        "syllabus": "Apresentação e discussão de conceitos básicos da Análise de Discurso, tendo por objetivo a compreensão do funcionamento e circulação dos discursos e práticas do campo escolar. Análise discursiva de materiais de ensino, de textos da legislação educacional e de textos que circulam no ambiente escolar."
+    },
+    {
+        "code": "HL330",
+        "name": "Semântica Formal",
+        "credits": 2,
+        "syllabus": "No curso serão ilustrados, a partir de tratamentos clássicos, os conceitos fundamentais de uma teoria formal da significação: a distinção entre sentido, referência e aspectos psicológicos; a composicionalidade do sentido em função da sintaxe; a utilidade de noções como predicado, argumento, variável, quantificadores, eventos. Serão exploradas as implicações e as limitações de um tratamento semântico-formal dos enunciados."
+    },
+    {
+        "code": "HL332",
+        "name": "Texto e Discurso",
+        "credits": 4,
+        "syllabus": "Texto e contexto. Implícitos e sentidos inferidos. Intertexto e interdiscurso. A produção do sentido. A questão da autoria."
+    },
+    {
+        "code": "HL333",
+        "name": "Laboratório de Metodologias Experimentais I",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de experimentos supervisionados por um docente."
+    },
+    {
+        "code": "HL334",
+        "name": "Laboratório de Metodologias Experimentais II",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de experimentos supervisionados por um docente."
+    },
+    {
+        "code": "HL335",
+        "name": "Laboratório de Fala, Leitura e Escrita",
+        "credits": 2,
+        "syllabus": "Prática de análise de textos orais e escritos por diferentes sujeitos (crianças, jovens, adultos, idosos)."
+    },
+    {
+        "code": "HL336",
+        "name": "Laboratório de Produção Textual I",
+        "credits": 4,
+        "syllabus": "Os estudos a serem desenvolvidos nessa disciplina enfocarão os seguintes conteúdos: análise de aspectos linguísticos dos textos; análise dos processos de progressão referencial e textual; análise dos processos sociocognitivos envolvidos na produção e na interpretação textual; análise dos processos de estruturação composicional dos textos; práticas de produção e revisão de textos; práticas de pesquisa adotadas nos estudos textuais."
+    },
+    {
+        "code": "HL337",
+        "name": "Laboratório de Produção Textual II",
+        "credits": 8,
+        "syllabus": "Os estudos a serem desenvolvidos nesta disciplina enfocarão os seguintes conteúdos: a produção de tecnologias de ensino considerando os processos de progressão referencial e textual; produção de tecnologias de ensino considerando as diferenças entre oralidade e escrita; produção de grades de correção de diferentes gêneros textuais (orais e escritos); produção de tecnologias de ensino considerando os processos de estruturação composicional dos textos; práticas de produção e revisão de textos acadêmicos de divulgação científica."
+    },
+    {
+        "code": "HL341",
+        "name": "Fonética Instrumental",
+        "credits": 4,
+        "syllabus": "Observação, experimento e medida. O papel da Fonética Acústica para tornar a fala acessível à mensuração. Análise estatística inferencial aplicada a dados fonético-acústicos. Elementos de Fonética Acústica: onda sonora, representações espectrais e outras técnicas de análise acústica. A teoria fonte-filtro da produção da fala. Principais características acústicas das vogais. Principais características acústicas das consoantes.",
+        "reqs": [
+            [
+                {
+                    "code": "HL221"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL343",
+        "name": "Latim III",
+        "credits": 4,
+        "syllabus": "Tradução comentada de trechos adaptados das Báquides de Plauto e de epigramas de Marcial, a partir dos quais se estudarão os respectivos tópicos gramaticais. (Seções 2B-2E do método.)",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL243"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL443"
+        ]
+    },
+    {
+        "code": "HL344",
+        "name": "Grego Clássico III",
+        "credits": 4,
+        "syllabus": "Continuação do estudo da língua grega pelo método Reading Greek (seções 7 a 10), com leitura e análise de textos adaptados da comédia grega (Aristófanes); realização de séries de exercícios pelos alunos fora do horário das aulas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL244"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL444"
+        ]
+    },
+    {
+        "code": "HL377",
+        "name": "Linguística Computacional",
+        "credits": 4,
+        "syllabus": "Introdução a aplicações computacionais da teoria linguística para o processamento automático de língua natural."
+    },
+    {
+        "code": "HL422",
+        "name": "Linguagem e Pensamento: Teoria e Prática",
+        "credits": 4,
+        "syllabus": "Aquisição da língua materna. O normal e o patológico.\nMód 1: Fundamentos teóricos e metodológicos da investigação em aquisição da língua materna. Aspectos estruturais da aquisição da linguagem oral e da linguagem escrita. Descrição de alguns fenômenos da aquisição do português como língua materna. Aspectos gerais e aspectos singulares do processo.\n Mód 2: Neurolinguística: a relação entre linguagem, cérebro e mente; a relação normal/patológico; visão crítica sobre patologias da linguagem."
+    },
+    {
+        "code": "HL423",
+        "name": "Aquisição da Linguagem e Ensino de Língua",
+        "credits": 2,
+        "syllabus": "Aquisição da língua materna. Fundamentos teóricos e metodológicos da investigação em aquisição da língua materna. Aspectos estruturais da aquisição da linguagem oral e da linguagem escrita. Análise de cenários pedagógicos dentre: (i) estudo de caso: aspectos  da gramática adquirida e comparação com a gramática ensinada na escola; (ii) análise de problemas de escrita de alunos do ensino fundamental, visando verificar as hipóteses construídas pelo aluno;  e (iii) manipulação de corpora de aquisição e outras fontes textuais, para uso em atividades de análise linguística para o ensino."
+    },
+    {
+        "code": "HL424",
+        "name": "Neurolinguística e Ensino de Língua",
+        "credits": 2,
+        "syllabus": "O normal e o patológico: (i) Fundamentos teórico-metodológicos em Neurolinguística: as relações entre cérebro, linguagem e cognição: (ii) A relação normal/patológico; reflexão crítica sobre a patologização de processos de ensino-aprendizagem; conceitos de “erro” e de “desvio”; (iii) Práticas de análise linguística (formais e discursivas) de dados empíricos (verbais e não-verbais, de oralidade e de escrita), em contextos escolares; (iv) Desenvolvimento de atividades de natureza reflexiva sobre processos linguístico-cognitivos implicados em processos de ensino e aprendizagem."
+    },
+    {
+        "code": "HL443",
+        "name": "Latim IV",
+        "credits": 4,
+        "syllabus": "Tradução comentada de trechos adaptados do Anfitrião (Amphitruo) de Plauto e de epigramas de Marcial, a partir dos quais se estudarão os respectivos tópicos gramaticais. (Seções 3A-3D do método.)",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL343"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL543"
+        ]
+    },
+    {
+        "code": "HL444",
+        "name": "Grego Clássico IV",
+        "credits": 4,
+        "syllabus": "Leitura e estudo de textos adaptados da oratória grega (Demóstenes), (métodos Reading Greek, seções 11 a 13); realização de séries de exercícios pelos alunos fora do horário das aulas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL344"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL044",
+            "HL544"
+        ]
+    },
+    {
+        "code": "HL445",
+        "name": "Linguística Românica",
+        "credits": 2,
+        "syllabus": "O método histórico-comparativo e a filosofia clássica. O latim vulgar: sua formação, estrutura, expansão e dialetação. Aspectos gerais da formação e consolidação das línguas românicas."
+    },
+    {
+        "code": "HL481",
+        "name": "Línguas Indígenas I",
+        "credits": 4,
+        "syllabus": "Línguas Indígenas faladas no Brasil: critérios de classificação e sua distribuição. Demografia. Principais características fonológicas e gramaticais de línguas selecionadas. Teoria e métodos de trabalho de campo para o estudo de línguas indígenas."
+    },
+    {
+        "code": "HL503",
+        "name": "Processamento de Linguagem",
+        "credits": 2,
+        "syllabus": "Percepção e produção da fala. Leitura e processamento da linguagem: processamento lexical, parsing e processamento do sentido."
+    },
+    {
+        "code": "HL505",
+        "name": "Pesquisa em Linguística I",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL506",
+        "name": "Pesquisa em Linguística II",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL507",
+        "name": "Pesquisa em Linguística III",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor, com elaboração de monografia. Ao final do semestre, opcionalmente e com a autorização do orientador, a monografia poderá ser submetida a defesa pública do trabalho perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL509",
+        "name": "Monografia em Linguística",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor, com elaboração de monografia. Ao final do semestre, opcionalmente e com a autorização do orientador, a monografia poderá ser submetida a defesa pública do trabalho perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL521",
+        "name": "Modelos de Análise Fonológica",
+        "credits": 2,
+        "syllabus": "Pressupostos teóricos e metodologia de investigação e análise fonológica. Modelos estruturalistas e gerativistas de análise fonológica; fonologias lineares e não lineares; noções básicas de fonologia autossegmental, lexical, métrica e prosódica; a caracterização dos segmentos: geometrias de traços, subespecificação; representações, regras, restrições; otimidade e harmonia em fonologia.",
+        "reqs": [
+            [
+                {
+                    "code": "HL121"
+                }
+            ],
+            [
+                {
+                    "code": "HL221"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL524",
+        "name": "Semântica da Enunciação",
+        "credits": 4,
+        "syllabus": "Apresentação dos conceitos fundamentais de uma semântica enunciativa a partir de uma discussão geral sobre o significado em relação à subjetividade e à exterioridade. Espaço de enunciação: línguas e falantes. Enunciação e textualidade: reescrituração e articulação. Heterogeneidade enunciativa."
+    },
+    {
+        "code": "HL531",
+        "name": "Semântica e Pragmática",
+        "credits": 4,
+        "syllabus": "Discussão da relação entre língua, linguagem, referência e subjetividade no tratamento da significação na linguagem a partir de teorias semânticas e pragmáticas."
+    },
+    {
+        "code": "HL532",
+        "name": "Linguística Textual",
+        "credits": 4,
+        "syllabus": "Processos e estratégias de organização textual e sua atuação na construção do sentido."
+    },
+    {
+        "code": "HL533",
+        "name": "História das Ideias Linguísticas",
+        "credits": 4,
+        "syllabus": "Estudo de procedimentos e conceitos na constituição e circulação do saber linguístico, importantes para a compreensão da Linguística como ciência e de sua relação com outras disciplinas do conhecimento. Discussão de processos e instrumentos de gramatização, especificamente gramáticas e dicionários. Os colégios e seu papel na construção da língua nacional."
+    },
+    {
+        "code": "HL543",
+        "name": "Latim V",
+        "credits": 2,
+        "syllabus": "Tradução comentada de trechos adaptados das Verrinas (In Verrinas orationes) de Cícero, a partir dos quais se estudarão os respectivos tópicos gramaticais. (Seções 4A-4C do método.)",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL443"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL563",
+            "HL643"
+        ]
+    },
+    {
+        "code": "HL544",
+        "name": "Grego Clássico V",
+        "credits": 2,
+        "syllabus": "Leitura e análise de textos originais de tragédia grega (Eurípides) e oratória, sem adaptação (método Reading Greek, seções 13 a 16).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL444"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL564",
+            "HL644"
+        ]
+    },
+    {
+        "code": "HL545",
+        "name": "Linguística Histórica do Português I",
+        "credits": 2,
+        "syllabus": "A formação histórica da língua portuguesa - elementos de fonologia, morfologia e sintaxe do português arcaico - panorama da evolução da língua depois do século XVI, em Portugal e no Brasil - a questão da periodização."
+    },
+    {
+        "code": "HL550",
+        "name": "Aquisição da Linguagem",
+        "credits": 2,
+        "syllabus": "Fundamentos teóricos e metodológicos da investigação em aquisição da língua materna. Aspectos estruturais da aquisição da linguagem. Descrição de alguns fenômenos da aquisição do português como língua materna."
+    },
+    {
+        "code": "HL563",
+        "name": "Tópicos Avançados em Tradução de Textos Latinos I",
+        "credits": 2,
+        "syllabus": "Tradução e estudo de textos latinos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL543"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL564",
+        "name": "Tópicos Avançados em Tradução de Textos Gregos I",
+        "credits": 2,
+        "syllabus": "Tradução e estudo de textos gregos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL544"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL571",
+        "name": "Modelos Fonéticos e Fonológicos",
+        "credits": 2,
+        "syllabus": "Discussão sobre as relações entre a Fonética e a Fonologia, abordadas à luz da literatura sobre um ou mais dos seguintes temas: representações fônicas, detalhe fonético, fonotaxe, morfofonologia, estrutura do léxico, estrutura dos inventários fônicos, estrutura prosódica, relação prosódia-segmentos.",
+        "reqs": [
+            [
+                {
+                    "code": "HL221"
+                },
+                {
+                    "code": "HL321"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL573",
+        "name": "Tópicos Avançados em Tradução de Textos Latinos II",
+        "credits": 2,
+        "syllabus": "Tradução e estudo de textos latinos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL643"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL574",
+        "name": "Tópicos Avançados em Tradução de Textos Gregos II",
+        "credits": 2,
+        "syllabus": "Tradução e estudos de textos gregos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL644"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL624",
+        "name": "Lexicologia e Lexicografia",
+        "credits": 4,
+        "syllabus": "Noções básicas de lexicologia: problemas de definição lexical. Léxico e dicionário."
+    },
+    {
+        "code": "HL631",
+        "name": "Linguagem e Processos Cognitivos",
+        "credits": 4,
+        "syllabus": "Processos cognitivos subjacentes à linguagem no contexto das ciências cognitivas: arquitetura mental e representação da linguagem. Processamento lexical e parsing; processamento de texto. Modelamento computacional."
+    },
+    {
+        "code": "HL643",
+        "name": "Latim VI",
+        "credits": 2,
+        "syllabus": "Tradução comentada de trechos adaptados das Verrinas de Cícero e das Res gestae de Augusto, a partir dos quais se estudarão os respectivos tópicos gramaticais. (Seções 4D-4G do método.)",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL543"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL001",
+            "HL002",
+            "HL573",
+            "HL743"
+        ]
+    },
+    {
+        "code": "HL644",
+        "name": "Grego Clássico VI",
+        "credits": 2,
+        "syllabus": "Leitura e análise de textos originais de prosa grega: trechos do diálogo Protágoras, de Platão e trechos do livro I da História, de Heródoto (em dialeto jônico), (método Reading Greek, seções 17 e 18).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL544"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL574",
+            "HL744"
+        ]
+    },
+    {
+        "code": "HL645",
+        "name": "Linguística Histórica do Português II",
+        "credits": 2,
+        "syllabus": "Estudo da história da língua portuguesa em Portugal e no Brasil, com enfoque no período posterior ao séc. XVI, a partir da leitura e análise de textos não modernizados."
+    },
+    {
+        "code": "HL681",
+        "name": "Línguas Indígenas do Brasil II",
+        "credits": 4,
+        "syllabus": "Estrutura de uma língua indígena: prática de análise fonológica e gramatical com dados de uma língua selecionada."
+    },
+    {
+        "code": "HL743",
+        "name": "Latim VII",
+        "credits": 2,
+        "syllabus": "Tradução comentada de trechos da Conspiração de Catilina (De coniuratione Catilinae) de Salústrio, das Catilinárias (In Catilinam orationes) de Cícero e da Eneida (Aeneis) de Virgílio, a partir dos quais se estudarão os respectivos tópicos gramaticais. (Seções 5A-5C do método.)",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL643"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL843"
+        ]
+    },
+    {
+        "code": "HL744",
+        "name": "Grego Clássico VII",
+        "credits": 2,
+        "syllabus": "Introdução ao dialeto homérico; poesia oral; leitura e análise de trechos da Odisseia de Homero (método Reading Greek, seção 19).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL644"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HL844"
+        ]
+    },
+    {
+        "code": "HL750",
+        "name": "Psicolinguística I",
+        "credits": 4,
+        "syllabus": "Relações entre processos mentais e linguagem. Teorias da Aquisição da Linguagem. Questões de metodologia na área."
+    },
+    {
+        "code": "HL781",
+        "name": "Políticas linguísticas e Planejamento linguístico em Sociedades Indígenas",
+        "credits": 4,
+        "syllabus": "Políticas linguísticas das metrópoles coloniais na América do Sul. Políticas Linguísticas na República brasileira. Política e Planejamento Linguístico nas línguas indígenas sul-americanas."
+    },
+    {
+        "code": "HL804",
+        "name": "Linguística e Ensino de Português",
+        "credits": 2,
+        "syllabus": "Distinção entre erro, variação e patologias de linguagem. As noções de norma e padrão. O lugar da gramática e das teorias de texto e discurso no ensino de língua materna. Conceitos de gramática. O lugar da metalinguagem no ensino de língua materna. Fundamentos de Linguística relevantes para o ensino de língua materna."
+    },
+    {
+        "code": "HL832",
+        "name": "Análise do Discurso",
+        "credits": 4,
+        "syllabus": "Análise linguística e análise discursiva. Análise do Discurso e Pragmática. Enunciação. Condições de produção, história, ideologia. A questão da subjetividade. A questão do sentido e a da leitura. Metodologias de análise. Discurso e gêneros textuais. Intertextualidade e interdiscursividade."
+    },
+    {
+        "code": "HL843",
+        "name": "Latim VIII",
+        "credits": 2,
+        "syllabus": "Tradução comentada de trechos da Conspiração de Catilina de Salústio, das Catilinárias de Cícero, da Eneida de Virgílio e de poemas de Catulo e outros autores, a partir dos quais se estudarão os respectivos tópicos gramaticais. (Seções 5D-5G do método.)",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL743"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL844",
+        "name": "Grego Clássico VIII",
+        "credits": 2,
+        "syllabus": "Introdução aos dialetos da lírica grega (eólico, dórico, jônico); leitura e estudo de autores de poesia lírica, épica ou dramática, a critério do professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HL744"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL900",
+        "name": "Seminários em Linguística",
+        "credits": 2,
+        "syllabus": "Atividades acadêmicas e temas de pesquisa em Linguística."
+    },
+    {
+        "code": "HL904",
+        "name": "Investigação Científica I",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL905",
+        "name": "Investigação Científica II",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL906",
+        "name": "Investigação Científica III",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL907",
+        "name": "Monografia",
+        "credits": 10,
+        "syllabus": "Trabalho final de curso envolvendo tema de pesquisa em Linguística, desenvolvido individualmente pelo aluno sob orientação de um professor. A disciplina prevê defesa pública do trabalho perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL910",
+        "name": "Pesquisa em Arquivos I",
+        "credits": 6,
+        "syllabus": "Atividade regular junto ao acervo do CEDAE e/ou outros, visando selecionar material para desenvolvimento de projeto de investigação científica."
+    },
+    {
+        "code": "HL913",
+        "name": "Políticas Linguísticas",
+        "credits": 4,
+        "syllabus": "Gestos de intervenção sobre as línguas e seus efeitos na constituição histórica dos grupos sociais. Línguas e suas divisões: oficiais, nacionais, transnacionais, francas, maternas, estrangeiras, entre outras. Línguas minoritárias e línguas de Estado. Políticas de ensino de línguas e planificação. Relações entre línguas e relações entre Estados nacionais. Organismos supranacionais e políticas linguísticas. Documentação de línguas. Português globalizado."
+    },
+    {
+        "code": "HL915",
+        "name": "Monografia em Português como Segunda Língua / Língua Estrangeira I",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de projeto de pesquisa (definição de objetivos, revisão bibliográfica, constituição de corpus e análise preliminar dos dados) com vistas à elaboração de trabalho final de curso acerca de políticas de planificação e gestão linguística do português como L2/LE no contexto nacional e mundial, desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL916",
+        "name": "Monografia em Português como Segunda Língua / Língua Estrangeira II",
+        "credits": 8,
+        "syllabus": "Conclusão da análise de dados e redação de trabalho final de curso envolvendo pesquisa individual acerca de políticas de planificação e gestão linguística do português como L2/LE no contexto nacional e mundial, sob orientação de um professor. A disciplina prevê, ao final do semestre, defesa pública do trabalho perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HL920",
+        "name": "Pesquisa em Arquivos II",
+        "credits": 6,
+        "syllabus": "Atividade regular junto ao acervo do CEDAE e/ou outros, visando selecionar material para desenvolvimento de projeto de investigação científica."
+    }
+]

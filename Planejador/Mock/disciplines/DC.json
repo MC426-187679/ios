@@ -1,0 +1,198 @@
+[
+    {
+        "code": "DC052",
+        "name": "Clínica Odontológica Integrada I",
+        "credits": 4,
+        "syllabus": "Aplicação prática, através de atividades de estágio clínico, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas relacionados à Cirurgia, Periodontia e Dentística.\nEstágio Clínico Supervisionado de 60 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DM041"
+                },
+                {
+                    "code": "DM042"
+                },
+                {
+                    "code": "DM043"
+                },
+                {
+                    "code": "DM045"
+                },
+                {
+                    "code": "DM046"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC062",
+            "DO128",
+            "DS061",
+            "DS062"
+        ]
+    },
+    {
+        "code": "DC062",
+        "name": "Clínica Odontológica Integrada II",
+        "credits": 8,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e realização de procedimentos relacionados à Cirurgia, Periodontia, Dentística, Semiologia, Endodontia e Prótese Parcial Removivel (Planejamento). Estágio Clínico Supervisionado de 120 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC052"
+                },
+                {
+                    "code": "DM051"
+                },
+                {
+                    "code": "DM052"
+                },
+                {
+                    "code": "DM057"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC072",
+            "DM074",
+            "DM075"
+        ]
+    },
+    {
+        "code": "DC072",
+        "name": "Clínica Odontológica Integrada III",
+        "credits": 8,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e realização de procedimentos relacionados à Cirurgia, Periodontia, Endodontia, Dentística, Semiologia e Prótese Parcial Removível. Plantão de Urgência de 20 horas. Estágio Clínico Supervisionado de 100 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC062"
+                },
+                {
+                    "code": "DM067"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC082"
+        ]
+    },
+    {
+        "code": "DC073",
+        "name": "Clínica Odontológica Integrada Infantil I",
+        "credits": 4,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e realização de procedimentos de Odontopediatria e Ortodontia. Estágio Clínico Supervisionado de 60 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DM068"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC083"
+        ]
+    },
+    {
+        "code": "DC082",
+        "name": "Clínica Odontológica Integrada IV",
+        "credits": 8,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e procedimentos relacionados à Cirurgia, Periodontia, Endodontia, Dentística, Prótese Total e Prótese Parcial Removível. Plantão de Urgência de 20 horas. Estágio Clínico Supervisionado de 100 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC072"
+                },
+                {
+                    "code": "DM074"
+                },
+                {
+                    "code": "DM075"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC092",
+            "DE091",
+            "DE101"
+        ]
+    },
+    {
+        "code": "DC083",
+        "name": "Clínica Odontológica Integrada Infantil II",
+        "credits": 4,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e realização de procedimentos de Odontopediatria e Ortodontia. Estágio Clínico Supervisionado de 60 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC073"
+                },
+                {
+                    "code": "DM078"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC093",
+            "DE091",
+            "DE101"
+        ]
+    },
+    {
+        "code": "DC092",
+        "name": "Clínica Odontológica Integrada V",
+        "credits": 16,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e realização de procedimentos de: Cirurgia, Periodontia, Dentística, Endodontia, Prótese Total, Parcial Removível e Prótese Fixa. Plantões de Urgência de 20hs. Estágio Clínico Supervisionado de 220 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC082"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC102"
+        ]
+    },
+    {
+        "code": "DC093",
+        "name": "Clínica Odontológica Integrada Infantil III",
+        "credits": 4,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e realização de procedimentos de Odontopediatria e Ortodontia. Estágio Clínico Supervisionado de 60 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC083"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC103"
+        ]
+    },
+    {
+        "code": "DC102",
+        "name": "Clínica Odontológica Integrada VI",
+        "credits": 12,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e procedimentos relacionados à Cirurgia, Periodontia, Endodontia, Dentística,  Prótese Total, Prótese Parcial Removível e Prótese Fixa. Plantões de Urgência de 20 horas. Estágio Clínico Supervisionado de 160 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC092"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DC103",
+        "name": "Clínica Odontológica Integrada Infantil IV",
+        "credits": 4,
+        "syllabus": "Aplicação prática, através de atividades clínicas, dos conhecimentos adquiridos nas disciplinas pré-requisitos, objetivando a prevenção e/ou tratamento de anormalidades odontológicas e realização de procedimentos de Odontopediatria e Ortodontia. Estágio Clínico Supervisionado de 60 horas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC093"
+                }
+            ]
+        ]
+    }
+]

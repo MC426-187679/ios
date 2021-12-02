@@ -1,0 +1,1860 @@
+[
+    {
+        "code": "AD011",
+        "name": "Ateliê de Prática em Dança I",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de atividades em Consciência Corporal, Expressão e Movimento e estudos de organização física do espaço. Realização de outros trabalhos que propiciem leituras corporais e de exercícios rítmicos, onde haja integração entre música e dança. Objetiva reunir organicamente as habilidades e competências, teóricas e práticas, de refletir e compreender criticamente os fundamentos que organizam o conhecimento específico na dança.",
+        "reqBy": [
+            "AD012"
+        ]
+    },
+    {
+        "code": "AD012",
+        "name": "Ateliê de Prática em Dança II",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de atividades em Consciência Corporal e Expressão e Movimento, de modo que seus conteúdos sejam integrados as técnicas de dança. Realização de outros trabalhos que propiciem leituras corporais e ênfase na fundamentação estética das relações entre as linguagens musicais e a dança. Aprofundamento e desenvolvimento do Ateliê de Prática em Dança I.",
+        "reqs": [
+            [
+                {
+                    "code": "AD011"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD013",
+        "name": "Ateliê de Prática e Ensino da Dança I",
+        "credits": 8,
+        "syllabus": "Desenvolvimento teórico-prático de atividades de sensibilização, consciência e expressão corporal. Estudos da interação corpo-espaço e dos fundamentos estruturais e funcionais que organizam conhecimentos específicos na dança. Investigação e reflexão crítica sobre a contribuição dos princípios somáticos nas práticas pedagógicas da dança, considerando o contexto de ensino formal e não formal.",
+        "reqBy": [
+            "AD014",
+            "AD081",
+            "AD083"
+        ]
+    },
+    {
+        "code": "AD014",
+        "name": "Ateliê de Prática e Ensino da Dança II",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de atividades em Consciência Corporal e Expressão e Movimento, de modo que seus conteúdos sejam integrados as técnicas de dança. Aprofundamento e desenvolvimento do Ateliê de Prática em Dança I. Proposição de outros trabalhos que propiciem leituras corporais e ênfase na fundamentação estética das relações entre as linguagens artísticas. Abordagem dessas temáticas – corpo, movimento, a dança e as artes – no contexto pedagógico e escolar. Realização de atividades extensionistas para compartilhamento das aprendizagens em desenvolvimento.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD013"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD061",
+            "AD063",
+            "AD065"
+        ]
+    },
+    {
+        "code": "AD015",
+        "name": "Dança do Brasil II: Prática e Ensino",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de um ensino da dança que contemple as manifestações tradicionais populares brasileiras e seus respectivos segmentos sociais. Investigação dos processos de ensino-aprendizagem relacionados à diversidade dos corpos presentes nas festividades existentes no Brasil, considerando suas especificidades socioculturais. Enfoque sobre o corpo em movimento que reflita uma condição não etnocêntrica.",
+        "reqs": [
+            [
+                {
+                    "code": "AD136"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD137",
+            "AD335"
+        ]
+    },
+    {
+        "code": "AD016",
+        "name": "Técnica III: Prática, Análise e Ensino da Dança",
+        "credits": 10,
+        "syllabus": "Desenvolvimento dos conteúdos das técnicas clássica e contemporânea. Enfoque de vocabulários, dinâmicas e organizações espaço-temporais específicas às técnicas abordadas. Estudo de metodologias voltadas ao ensino técnico da dança para diferentes contextos e faixa etárias, visando a formação do futuro artista-educador da dança.",
+        "reqs": [
+            [
+                {
+                    "code": "AD042"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD044"
+        ]
+    },
+    {
+        "code": "AD017",
+        "name": "Ateliê de Criação IV: Prática e Ensino",
+        "credits": 4,
+        "syllabus": "A disciplina aprofunda os estudos do Ateliê de Criação III. Fornece subsídios para o desenvolvimento de estudos coreográficos, por meio da análise e construção de métodos de composição em dança. Explora a relação entre estrutura musical e movimento corporal. Aborda a inter-relação entre criação em dança e seus processos de ensino-aprendizagem, propondo práticas e reflexões sobre a ação docente em diferentes ciclos e contextos educacionais.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AD023"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD025",
+            "AD026",
+            "AD027",
+            "AD128"
+        ]
+    },
+    {
+        "code": "AD018",
+        "name": "Técnica III: Prática, Análise e Ensino da Dança",
+        "credits": 5,
+        "syllabus": "Desenvolvimento dos conteúdos das técnicas contemporâneas de dança. Enfoque de vocabulários, dinâmicas e organizações espaço-temporais específicas às técnicas abordadas. Estudo de metodologias voltadas ao ensino técnico da dança para diferentes contextos e faixas etárias, visando a formação do futuro artista-educador da dança.",
+        "reqs": [
+            [
+                {
+                    "code": "AD036"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD037"
+        ]
+    },
+    {
+        "code": "AD019",
+        "name": "Técnica X: Estudos Técnicos de Dança Clássica II: Tradição e contemporaneidade",
+        "credits": 5,
+        "syllabus": "Ampliar as dinâmicas de uma aula de Técnica Clássica (exercícios de barra e centro), visando maior coordenação motora em sequências estruturadas. Controle, transferências de peso e deslocamentos no espaço. Abordar modos de ensino aprofundando a função dos exercícios. Refletir acerca dos elementos técnicos da dança direcionando-os para uma expressão individualizada e saudável. Aumento de complexidade nas sequências de movimentos, direções no espaço, musicalidade e fluidez. Reflexão teórica e prática acerca dos elementos tradicionais da linguagem e suas possíveis transformações na contemporaneidade, artísticas e pedagógicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AD038"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD039",
+            "AD063",
+            "AD065"
+        ]
+    },
+    {
+        "code": "AD021",
+        "name": "Ateliê de Criação I",
+        "credits": 4,
+        "syllabus": "A disciplina tem por objetivo fornecer subsídios para o desenvolvimento criativo de estudos coreográficos através da improvisação como meio de pesquisa corporal. Exercícios individuais e em grupos de percepção, abordando conteúdos concernentes ao espaço, peso e forma na dança.",
+        "reqBy": [
+            "AD022"
+        ]
+    },
+    {
+        "code": "AD022",
+        "name": "Ateliê de Criação II",
+        "credits": 4,
+        "syllabus": "A disciplina tem por objetivo fornecer subsídios para o desenvolvimento criativo de estudos coreográficos, através de estruturas auxiliares no processo de composição em dança.",
+        "reqs": [
+            [
+                {
+                    "code": "AD021"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD023"
+        ]
+    },
+    {
+        "code": "AD023",
+        "name": "Ateliê de Criação III",
+        "credits": 4,
+        "syllabus": "A disciplina tem por objetivo fornecer subsídios para o desenvolvimento criativo de estudos coreográficos, através da improvisação com ênfase na investigação de focos, relação entre as partes do corpo e a interação deste com o outro. Aprofundamento e desenvolvimento do Ateliê de Criação II. Estudos prático-teóricos mediados por tecnologias de informação e comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "AD022"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD017",
+            "AD024"
+        ]
+    },
+    {
+        "code": "AD024",
+        "name": "Ateliê de Criação IV",
+        "credits": 4,
+        "syllabus": "A disciplina tem por objetivo fornecer subsídios para o desenvolvimento criativo de estudos coreográficos, através da análise e construção de métodos de composição em dança. Desenvolvimento da relação entre a estrutura música e da dança. Aprofundamento e desenvolvimento do Ateliê de Criação II.",
+        "reqs": [
+            [
+                {
+                    "code": "AD023"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD025",
+        "name": "Ateliê de Criação V",
+        "credits": 8,
+        "syllabus": "A disciplina tem por objetivo realizar pesquisa visando uma síntese coreográfica através dos conteúdos abordados nos Ateliês de Criação anteriores. Pretende estabelecer relações entre concepção coreográfica e outras áreas do conhecimento artístico, incluindo-se as tecnologias de informação e comunicação. Desenvolver um olhar analítico e crítico, através da realização de um processo criativo, considerando que os processos artísticos carregam em si a dimensão prático-pedagógica.",
+        "reqs": [
+            [
+                {
+                    "code": "AD017"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD026",
+        "name": "Ateliê de Criação VI",
+        "credits": 8,
+        "syllabus": "A disciplina tem por objetivo realizar pesquisa visando uma síntese coreográfica através dos conteúdos abordados nos Ateliês de Criação anteriores. Pretende estabelecer relações entre o indivíduo, o coletivo e seus espaços de atuação. Considerando que os processos artísticos carregam em si a dimensão prático-pedagógica, busca enfatizar a interação entre outras áreas de investigação, incluindo-se as tecnologias de comunicação e informação, na composição de poéticas cênicas. Integra atividades extencionistas a partir do compartilhamento público de resultados.",
+        "reqs": [
+            [
+                {
+                    "code": "AD017"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD061",
+            "AD063",
+            "AD065",
+            "AD081",
+            "AD083"
+        ]
+    },
+    {
+        "code": "AD027",
+        "name": "Ateliê de Criação Dança e Novas Tecnologias",
+        "credits": 8,
+        "syllabus": "A disciplina amplia conteúdos abordados nos Ateliês de Criação anteriores. Orienta atividades prático-teóricas especializadas na interação da dança com as novas tecnologias e no conhecimento de formatos artísticos híbridos, como a videodança, o vídeo-cenário e a performance multimídia. Realiza análises, pautadas em uma abordagem historiográfica, de obras criadas neste campo estético interdisciplinar. Pesquisa novas perspectivas sobre o corpo, a criação do movimento e a concepção do espetáculo cênico, compondo com conceitos linguísticos e recursos tecnológicos provenientes do cinema, da fotografia e do vídeo. Culmina em um processo criativo, considerando que os processos artísticos carregam em si a dimensão prático-pedagógica. Integra atividades extensionistas a partir do compartilhamento público de resultados.",
+        "reqs": [
+            [
+                {
+                    "code": "AD017"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD063",
+            "AD065"
+        ]
+    },
+    {
+        "code": "AD030",
+        "name": "Ateliê de Produção Cênica",
+        "credits": 4,
+        "syllabus": "Refletir o que seja uma produção artística em dança por meio de estudos prático-teóricos. Conhecer as etapas que envolvem o processo de criação, desde sua concepção até a apresentação cênica. Desenvolver habilidades técnicas e criativas para a elaboração de textos e redação de projetos de produção cênica.",
+        "reqBy": [
+            "AD061",
+            "AD063",
+            "AD065",
+            "AD081",
+            "AD083"
+        ]
+    },
+    {
+        "code": "AD036",
+        "name": "Técnica II: Investigação e Percepção",
+        "credits": 5,
+        "syllabus": "Construção de uma relação ativa com a gravidade. Prática de alongamento e sustentação baseado na oposição de forças que participam do movimento. Iniciação e sequência do movimento como preparação para o trabalho de independência das partes do corpo. Investigação da dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.",
+        "reqs": [
+            [
+                {
+                    "code": "AD041"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD018",
+            "AD045"
+        ]
+    },
+    {
+        "code": "AD037",
+        "name": "Técnica IV: Prática e Análise",
+        "credits": 5,
+        "syllabus": "Abordagem dos elementos da dança contemporânea anteriormente estudados, integrados a outras linguagens de dança. Aprofundamento dos conceitos que trabalham com peso e espaço: queda e recuperação e a relação com o impulso. Flexibilização do uso de diferentes direções no espaço tridimensional, a partir da projeção da organização do espaço interno. Análise da dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.\n \n ",
+        "reqs": [
+            [
+                {
+                    "code": "AD018"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD040",
+            "AD045",
+            "AD128"
+        ]
+    },
+    {
+        "code": "AD038",
+        "name": "Técnica IX Estudos Técnicos de Dança Clássica I: Passado e Presente",
+        "credits": 5,
+        "syllabus": "Desenvolvimento dos conteúdos técnicos da dança clássica, com o uso de dinâmicas e sequencias estruturadas. Trabalhos relacionados a independência articular visando a qualidade do movimento e coordenação motora. Práticas variadas de movimentos, considerando os aspectos prático-pedagógicos desse conteúdo curricular, com ênfase em deslocamentos no espaço, uso dos eixos, saltos e giros. Dar visibilidade às questões estruturais da linguagem e seus reflexos políticos na contemporaneidade, visando sua atualização.",
+        "reqs": [
+            [
+                {
+                    "code": "AD041"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD019"
+        ]
+    },
+    {
+        "code": "AD039",
+        "name": "Técnica XI: Estudos Técnicos de Dança Clássica III: Transformações e Rupturas",
+        "credits": 5,
+        "syllabus": "Aperfeiçoar os conteúdos abordados anteriormente nas aulas de Técnica Clássica, dando continuidade à compreensão anatômica como suporte para resposta técnica mais apurada. Ênfase na precisão e no controle em sequência complexas, deslocamento no espaço, giros, saltos, espirais etc. Diálogos entre o vocabulário do balé e conceitos de dança contemporânea, fomentando o trânsito entre variadas linhas de estudo corporal. Reflexões sobre transformações na linguagem e rupturas em práticas contemporâneas, na técnica e na poética.",
+        "reqs": [
+            [
+                {
+                    "code": "AD019"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD040",
+        "name": "Técnica VI: Variação e Exploração",
+        "credits": 4,
+        "syllabus": "Trabalhos enfatizando o registro dos movimentos em sequências e variações. Maior atenção na aplicação da memória espacial anteriormente construída através do trabalho de percepção tridimensional do corpo no espaço. Estudo da utilização do foco e sua projeção no movimento. Desenvolvimento das estruturas de movimento levando em consideração as complexidades rítmicas. Aprofundamento na dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.",
+        "reqs": [
+            [
+                {
+                    "code": "AD037"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD047",
+            "AD063",
+            "AD065"
+        ]
+    },
+    {
+        "code": "AD041",
+        "name": "Técnica I: Investigação e Percepção",
+        "credits": 6,
+        "syllabus": "Introduzir os três elementos básicos da dança: eixo, equilíbrio e alinhamento dinâmico. Organização do corpo em movimento enfatizando o apoio da musculatura profunda nos trabalhos de transferência de peso. Mobilidade do eixo central em suas direções básicas - frente, trás e lados. Adequação do tônus muscular através de variadas dinâmicas, buscando a construção de uma percepção tridimensional do corpo no espaço. Investigação da dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.",
+        "reqBy": [
+            "AD036",
+            "AD038",
+            "AD042"
+        ]
+    },
+    {
+        "code": "AD042",
+        "name": "Técnica II: Investigação e Percepção",
+        "credits": 10,
+        "syllabus": "Construção de uma relação ativa com a gravidade. Prática de alongamento e sustentação baseado na oposição de forças que participam do movimento. Iniciação e sequência do movimento como preparação para o trabalho de independência das partes do corpo. Introdução aos conceitos elucidados em AD041 sob o enfoque do vocabulário da dança clássica. Investigação da dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.",
+        "reqs": [
+            [
+                {
+                    "code": "AD041"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD016",
+            "AD043"
+        ]
+    },
+    {
+        "code": "AD043",
+        "name": "Técnica III: Prática e Análise",
+        "credits": 10,
+        "syllabus": "Desenvolvimento dos conteúdos da dança clássica, acrescentando o uso de dinâmicas e sequências estruturadas. Trabalhos relacionados a independência articular visando a qualidade do movimento e coordenação motora. Práticas variadas de movimentos com ênfase em deslocamentos no espaço, uso de espirais, saltos e giros. Introdução à contração.",
+        "reqs": [
+            [
+                {
+                    "code": "AD042"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD044",
+        "name": "Técnica IV: Prática e Análise",
+        "credits": 10,
+        "syllabus": "Abordagem dos elementos da dança clássica, anteriormente estudados, integrados a outras linguagens de dança. Aprofundamento dos conceitos que trabalham com peso e espaço: queda e recuperação e a relação com o impulso. Flexibilização do uso de diferentes direções no espaço tridimensional, a partir da projeção da organização do espaço interno. Análise da dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.",
+        "reqs": [
+            [
+                {
+                    "code": "AD016"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD045",
+        "name": "Técnica V: Variação e Exploração",
+        "credits": 6,
+        "syllabus": "Estudos e ênfase no uso dos apoios no solo que propiciem um ativo suporte nas quedas e recuperação. Relação do peso, do tempo e do contratempo. Importância da respiração integrada ao movimento e a percepção do uso consistente da energia durante a aula. Exploração do espaço com ritmos variados e dinâmicos. Aprofundamento na dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular",
+        "reqs": [
+            [
+                {
+                    "code": "AD036"
+                },
+                {
+                    "code": "AD037"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD046",
+            "AD063",
+            "AD065"
+        ]
+    },
+    {
+        "code": "AD046",
+        "name": "Técnica VI: Variação e Exploração",
+        "credits": 6,
+        "syllabus": "Trabalhos enfatizando o registro dos movimentos em sequências e variações. Maior atenção na aplicação da memória espacial anteriormente construída através do trabalho de percepção tridimensional do corpo no espaço. Estudo da utilização do foco e sua projeção no movimento. Desenvolvimento das estruturas de movimento levando em consideração as complexidades rítmicas. Aprofundamento na dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.",
+        "reqs": [
+            [
+                {
+                    "code": "AD045"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD061",
+            "AD081",
+            "AD083"
+        ]
+    },
+    {
+        "code": "AD047",
+        "name": "Técnica VII: Expressão e Integração",
+        "credits": 6,
+        "syllabus": "Fluência em variações elaboradas. Ênfase no domínio do movimento e a capacidade de responder a sequências, que integrem além de complexidade técnica, o expressividade e desempenho performático. Apropriação da dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.",
+        "reqs": [
+            [
+                {
+                    "code": "AD040"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD048"
+        ]
+    },
+    {
+        "code": "AD048",
+        "name": "Técnica VIII: Expressão e Integração",
+        "credits": 6,
+        "syllabus": "Qualidades performáticas, disponibilidade, prontidão técnica e expressiva respondendo a integração dos elementos desenvolvidos ao longo das disciplinas AD041, AD042, AD043, AD044, AD045, AD046 e AD047. Apropriação da dimensão artística considerando os aspectos prático-pedagógicos desse conteúdo curricular.",
+        "reqs": [
+            [
+                {
+                    "code": "AD047"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD051",
+        "name": "Atividade Científico Cultural I",
+        "credits": 2,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.\n ",
+        "reqBy": [
+            "AD052"
+        ]
+    },
+    {
+        "code": "AD052",
+        "name": "Atividade Científico Cultural II",
+        "credits": 2,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD051"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD053"
+        ]
+    },
+    {
+        "code": "AD053",
+        "name": "Atividade Científico Cultural III",
+        "credits": 2,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD052"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD054"
+        ]
+    },
+    {
+        "code": "AD054",
+        "name": "Atividade Científico Cultural IV",
+        "credits": 2,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD053"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD055"
+        ]
+    },
+    {
+        "code": "AD055",
+        "name": "Atividade Científico Cultural V",
+        "credits": 3,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD054"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD056"
+        ]
+    },
+    {
+        "code": "AD056",
+        "name": "Atividade Científico Cultural VI",
+        "credits": 2,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD055"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD057",
+        "name": "Atividade Científico Cultural I",
+        "credits": 4,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico, educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea."
+    },
+    {
+        "code": "AD058",
+        "name": "Atividade Científico Cultural II",
+        "credits": 4,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico, educacional e/ou de extensão, como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea."
+    },
+    {
+        "code": "AD059",
+        "name": "Atividade Científico Cultural III",
+        "credits": 5,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico práticas de ampliação e aprofundamento artístico, cultural, científico, educacional e/ou de extensão, como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea."
+    },
+    {
+        "code": "AD061",
+        "name": "Trabalho de Conclusão de Curso I",
+        "credits": 10,
+        "syllabus": "Configura-se numa atividade de orientação específica para o desenvolvimento de pesquisa, criação e atuação em Dança que deverá evidenciar a integração dos conteúdos desenvolvidos durante o curso. Propõe a interação com outras áreas artísticas e de investigação, incluindo-se as tecnologias de informação e comunicação, na composição de poéticas cênicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD014"
+                },
+                {
+                    "code": "AD026"
+                },
+                {
+                    "code": "AD030"
+                },
+                {
+                    "code": "AD046"
+                },
+                {
+                    "code": "AD435"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD062"
+        ]
+    },
+    {
+        "code": "AD062",
+        "name": "Trabalho de Conclusão de Curso II",
+        "credits": 10,
+        "syllabus": "Prosseguimento e término das atividades que se iniciaram em Trabalho de Conclusão de Curso I, resultando em apresentação cênica, aberta ao público, da criação coreográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD061"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD063",
+        "name": "Trabalho de Conclusão de Curso em Dança I",
+        "credits": 8,
+        "syllabus": "Configura-se numa atividade de orientação específica para o desenvolvimento de pesquisa, criação e atuação em Dança que deverá evidenciar a integração dos conteúdos desenvolvidos durante o curso. Propõe a interação com outras áreas artísticas e de investigação, incluindo-se as tecnologias de informação e comunicação, na composição de poéticas cênicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD014",
+                    "partial": true
+                },
+                {
+                    "code": "AD019"
+                },
+                {
+                    "code": "AD026",
+                    "partial": true
+                },
+                {
+                    "code": "AD027"
+                },
+                {
+                    "code": "AD030",
+                    "partial": true
+                },
+                {
+                    "code": "AD040"
+                },
+                {
+                    "code": "AD045",
+                    "partial": true
+                },
+                {
+                    "code": "AD138"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD064",
+            "AD066"
+        ]
+    },
+    {
+        "code": "AD064",
+        "name": "Trabalho de Conclusão de Curso em Dança  II",
+        "credits": 4,
+        "syllabus": "Prosseguimento e término das atividades que se iniciaram em Trabalho de Conclusão de Curso I, resultando em apresentação cênica, aberta ao público, da criação coreográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD063"
+                },
+                {
+                    "code": "AD065"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD065",
+        "name": "Extensão I: Planejamento e gestão de projetos de dança",
+        "credits": 2,
+        "syllabus": "A disciplina pretende introduzir o aluno em práticas extensionistas vinculadas ao desenvolvimento de projetos artísticos em dança. Comporta atividades de orientação, estudos teóricos, e a dimensão prática da elaboração, planejamento, captação e gestão de projetos artísticos em desenvolvimento no Curso de Dança com vistas a construção de parcerias, convênios e redes colaborativas entre Universidade e outros segmentos da sociedade (setor público, setor privado e terceiro setor).\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD014"
+                },
+                {
+                    "code": "AD019"
+                },
+                {
+                    "code": "AD026"
+                },
+                {
+                    "code": "AD027"
+                },
+                {
+                    "code": "AD030"
+                },
+                {
+                    "code": "AD040"
+                },
+                {
+                    "code": "AD045"
+                },
+                {
+                    "code": "AD138"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD064",
+            "AD066"
+        ]
+    },
+    {
+        "code": "AD066",
+        "name": "Extensão II: Realização e Difusão de Projetos Artísticos em Dança",
+        "credits": 6,
+        "syllabus": "A disciplina pretende dar prosseguimento às práticas extensionistas desenvolvidas na disciplina Extensão I, vinculadas ao desenvolvimento de projetos artísticos em dança. Comporta atividades de orientação, estudos teóricos e a dimensão prática da montagem, difusão e mediação de obras cênicas desenvolvidas no Curso de Dança, para diferentes públicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD063"
+                },
+                {
+                    "code": "AD065"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD071",
+        "name": "Estágio I",
+        "credits": 7,
+        "syllabus": "Instrumentalização do aluno para o desenvolvimento de atividade supervisionada de ensino, no ambiente formal (ensino infantil, fundamental e médio) e não formal, baseada no levantamento do meio sociocultural onde se encontra inserida a instituição educacional e no conhecimento da população por ela atendida. Pesquisa sobre as experiências educativas dos alunos e contextualização dos seus conhecimentos artístico-pedagógicos a partir de leituras do corpo, noções de dança e educação. Orientação da futura ação docente por meio de reflexões sobre as instâncias pedagógica e administrativa que atravessam as relações de ensino-aprendizagem. Reflexão sobre a relação entre as novas tecnologias e a educação.",
+        "reqs": [
+            [
+                {
+                    "code": "AR101"
+                },
+                {
+                    "code": "AR301"
+                },
+                {
+                    "code": "EL212"
+                },
+                {
+                    "code": "EL511"
+                },
+                {
+                    "code": "EL683"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD072"
+        ]
+    },
+    {
+        "code": "AD072",
+        "name": "Estágio II",
+        "credits": 6,
+        "syllabus": "Desenvolvimento, finalização e avaliação das atividades supervisionadas de ensino iniciadas em Estágio I. Instrumentalização do aluno para construção pedagógica de planejamentos de ensino. Conhecimento de abordagens avaliativas do rendimento escolar.",
+        "reqs": [
+            [
+                {
+                    "code": "AD071"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD081",
+            "AD083"
+        ]
+    },
+    {
+        "code": "AD081",
+        "name": "Trabalho de Conclusão de Curso em Arte Educação I",
+        "credits": 4,
+        "syllabus": "Orientação específica para o desenvolvimento de monografia, onde haja uma reflexão sobre a realidade sociocultural dos alunos, o papel da arte no seu desenvolvimento educacional e a relação entre arte, educação e sociedade. Aprimoramento dos estudos de língua portuguesa. Será indicada bibliografia pertinente e serão realizados grupos de estudo para o debate sobre estes temas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD013"
+                },
+                {
+                    "code": "AD026"
+                },
+                {
+                    "code": "AD030"
+                },
+                {
+                    "code": "AD046"
+                },
+                {
+                    "code": "AD072"
+                },
+                {
+                    "code": "AD435"
+                },
+                {
+                    "code": "EL874"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD082",
+            "AD084"
+        ]
+    },
+    {
+        "code": "AD082",
+        "name": "Trabalho de Conclusão de Curso em Arte Educação II",
+        "credits": 4,
+        "syllabus": "Prosseguimento e término das atividades que se iniciaram em Trabalho de Conclusão de Curso em Arte Educação I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD081"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD083",
+        "name": "Trabalho de Conclusão de Curso I: Licenciatura em Dança",
+        "credits": 4,
+        "syllabus": "Orientação específica para o desenvolvimento de monografia, onde haja uma reflexão sobre a realidade sociocultural dos alunos, o papel da arte no seu desenvolvimento educacional e a relação entre arte, educação e sociedade. Aprimoramento dos estudos de língua portuguesa. Será indicada bibliografia pertinente e serão realizados grupos de estudo para o debate sobre estes temas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD013"
+                },
+                {
+                    "code": "AD026"
+                },
+                {
+                    "code": "AD030"
+                },
+                {
+                    "code": "AD046"
+                },
+                {
+                    "code": "AD072"
+                },
+                {
+                    "code": "AD435"
+                },
+                {
+                    "code": "EL874"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD084"
+        ]
+    },
+    {
+        "code": "AD084",
+        "name": "Trabalho de Conclusão de Curso II: Licenciatura em Dança",
+        "credits": 4,
+        "syllabus": "Prosseguimento e término das atividades que se iniciaram em Trabalho de Conclusão de Curso em Arte Educação I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD081"
+                }
+            ],
+            [
+                {
+                    "code": "AD083"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD101",
+        "name": "Consciência Corporal I",
+        "credits": 2,
+        "syllabus": "Desenvolver o conceito de corpo como uma unidade psico-física. A percepção do eixo e a integração das partes do corpo em relação a esse eixo. Trabalho de equilíbrio, fluência, flexibilidade, alinhamento e postura. Abordagem de técnicas de consciência corporal integradas às técnicas de dança, visando o fortalecimento do corpo.",
+        "reqBy": [
+            "AD201"
+        ]
+    },
+    {
+        "code": "AD109",
+        "name": "Elementos de Música: Rítmica I",
+        "credits": 2,
+        "syllabus": "Desenvolvimento da percepção rítmica através de exercícios de escuta, solfejo e exercícios corporais simples. Apresentação teórica das figuras rítmicas. Ritmos trabalhados no semestre: divisões binária e ternária, formas de compasso simples e composto.",
+        "reqBy": [
+            "AD209"
+        ]
+    },
+    {
+        "code": "AD111",
+        "name": "Expressão e Movimento: Princípios da Dança I",
+        "credits": 2,
+        "syllabus": "Integração grupal através da comunicação. Recuperação e desenvolvimento da espontaneidade, do sentido de humor e do ludismo. Desenvolvimento dos cinco sentidos e suas relações com o movimento corporal. Exploração do espaço e suas quatro subdivisões. Estudo dos gestos e movimentos cotidianos. Exploração dos apoios internos e externos. Iniciação ao estudo da força da gravidade e sua relação com o movimento corporal. Todos estes temas estão relacionados com a dança e serão explorados pelos alunos através de exercícios específicos e improvisões dirigidas.",
+        "reqBy": [
+            "AD211"
+        ]
+    },
+    {
+        "code": "AD116",
+        "name": "Anatomia e Fisiologia Humana Básica",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de conceitos morfológicos e fisiológicos fundamentais dos sistemas orgânicos do homem. Os aspectos relacionados ao aparelho locomotor e sistema nervoso serão enfatizados devido à especificidade desta disciplina aos alunos interessados na dança e por ser ela pré-requisito das demais disciplinas que visam ao estudo do movimento. O curso prevê a atualização de saberes pré-adquiridos sobre a temática da disciplina através do desenvolvimento de aulas teóricas e práticas com ênfase na relação forma-função em todos os aspectos abordados.",
+        "reqBy": [
+            "BF223"
+        ]
+    },
+    {
+        "code": "AD127",
+        "name": "Traje e Espaço Cênico para a Dança I",
+        "credits": 3,
+        "syllabus": "Estudos experimentais de figurinos alternativos para dança. Pesquisa de materiais plásticos e técnicas construtivas. Planificação da forma humana. Relações de forma/função. O figurino como elemento cênico. Exercícios de cenografia em escala reduzida.",
+        "reqBy": [
+            "AD227"
+        ]
+    },
+    {
+        "code": "AD128",
+        "name": "Visualidades na Dança",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático sobre a plasticidade, a materialidade, a espacialidade dos elementos que compõe a criação em dança. Investigação e composição de objetos, figurinos e espaços cênicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AD017"
+                },
+                {
+                    "code": "AD037"
+                },
+                {
+                    "code": "AD138"
+                },
+                {
+                    "code": "AD601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD135",
+        "name": "Dança do Brasil I",
+        "credits": 4,
+        "syllabus": "Iniciação ao estudo do movimento e aprendizado de um vocabulário provindo de manifestações tradicionais e populares brasileiras. Investigação de manifestações culturais que envolvem a história pessoal do aluno. Atualização dos saberes pré-adquiridos sobre a temática da disciplina",
+        "reqBy": [
+            "AD235"
+        ]
+    },
+    {
+        "code": "AD136",
+        "name": "Dança do Brasil I: corpo e contexto",
+        "credits": 4,
+        "syllabus": "Iniciação ao estudo prático-teórico do corpo inserido em contextos específicos que dão origem às manifestações tradicionais populares brasileiras, considerando suas dinâmicas de movimento e suas implicações socio-político-econômicas. Investigação de manifestações culturais que envolvem a história pessoal do aluno. Reflexão sobre as relações do corpo e seus contextos a partir dessa pesquisa individualizada e ampliando para outros cenários.",
+        "reqBy": [
+            "AD015"
+        ]
+    },
+    {
+        "code": "AD137",
+        "name": "Dança do Brasil III: desierarquização de saberes",
+        "credits": 4,
+        "syllabus": "A partir de um tema específico proposto sobre realidades míticas, da percepção de rituais populares religiosos de povos brasileiros, desenvolver de forma criativa, interdisciplinar o trabalho de expressividade do intérprete na Dança do Brasil. Refletir sobre as relações entre culturas, considerando-se as zonas fronteiriças. Discutir questões como etnocentrismo, colonialismo, dominação cultural e relações de poder, no que se refere aos conhecimentos e pontos de vista construídos sócio culturalmente e à repercussão dessas dinâmicas no corpo.",
+        "reqs": [
+            [
+                {
+                    "code": "AD015"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD138"
+        ]
+    },
+    {
+        "code": "AD138",
+        "name": "Dança do Brasil IV: vivências de alteridade",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de processo criativo e interdisciplinar no trabalho de expressividade do intérprete. Levantamento e pesquisa de campo de rituais, manifestações tradicionais populares e/ou de segmentos sociais brasileiros específicos levando o aluno para fora da universidade. Estabelecimento de temas específicos de estudos teórico-práticos a partir dos contextos pesquisados. Exposição para a comunidade acadêmica e/ou não acadêmica das pesquisas realizadas.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AD137"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD063",
+            "AD065",
+            "AD128",
+            "AD139"
+        ]
+    },
+    {
+        "code": "AD139",
+        "name": "Dança do Brasil V: imersão criativa",
+        "credits": 4,
+        "syllabus": "Continuidade do desenvolvimento dos processos criativos deflagrados nas disciplinas anteriores de Dança do Brasil. Foco na criação artística em dança a partir das pesquisas de campo dos rituais, manifestações tradicionais populares e/ou de segmentos sociais brasileiros específicos. Reflexão sobre o trabalho do intérprete no fazer artístico desenvolvido a partir de conteúdos psicofísicos e sociais presentes em si e nos campos investigados. Síntese de um trabalho de expressividade do intérprete.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AD138"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD140"
+        ]
+    },
+    {
+        "code": "AD140",
+        "name": "Dança do Brasil VI: síntese criativa",
+        "credits": 4,
+        "syllabus": "Síntese dos resultados das atividades desenvolvidas nos semestres anteriores em Dança do Brasil em trabalhos de criação artística e de reflexão crítica e teórica. Integra atividades extensionistas a partir do compartilhamento público de resultados.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD139"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD144",
+        "name": "Dança - Investigação e Percepção I",
+        "credits": 6,
+        "syllabus": "Introduzir os três elementos básicos da dança: eixo, equilíbrio e postura. Organização da estrutura física para transferência de peso. Combinação de alongamentos laterais através de movimentos pendulares no plano vertical. Adequação do tônus muscular através de variadas dinâmicas, tendo como referência elementos básicos da dança.",
+        "reqBy": [
+            "AD244"
+        ]
+    },
+    {
+        "code": "AD201",
+        "name": "Consciência Corporal II",
+        "credits": 2,
+        "syllabus": "Aprofundar o estudo dos conceitos desenvolvidos em AD101, visando uma maior integração às técnicas de dança.",
+        "reqs": [
+            [
+                {
+                    "code": "AD101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD301"
+        ]
+    },
+    {
+        "code": "AD209",
+        "name": "Elementos de Música: Rítmica II",
+        "credits": 2,
+        "syllabus": "Introdução do universo rítmico brasileiro usando as mesmas ferramentas pedagógicas do curso de rítmica I, como treino de escuta e reconhecimento, solfejo e exercícios corporais rítmicos do universo das danças brasileiras.",
+        "reqs": [
+            [
+                {
+                    "code": "AD109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD311",
+            "AD334",
+            "AD534"
+        ]
+    },
+    {
+        "code": "AD211",
+        "name": "Expressão e Movimento: Princípios da Dança II",
+        "credits": 2,
+        "syllabus": "Continuação do estudo da força da gravidade e sua relação com os apoios internos e externos, do estudo das relações entre o espaço, o ritmo, a força e a fluência. Exploração das qualidades expressivas do movimento em função da combinação destes elementos. Relação entre estas qualidades e os gestos cotidianos. Orientação no espaço e suas quatro subdivisões. Exploração de formas de movimento. Estudo dos impulsos e dinâmicas da Dança. Todos estes temas serão explorados pelos alunos através de exercícios específicos e improvisações dirigidas.",
+        "reqs": [
+            [
+                {
+                    "code": "AD111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD303"
+        ]
+    },
+    {
+        "code": "AD213",
+        "name": "Introdução à Metodologia de Pesquisa",
+        "credits": 2,
+        "syllabus": "Relação entre ciência e arte. Noções básicas de metodologia de pesquisa. A pesquisa em dança. Desenvolver habilidades técnicas e criativas para a elaboração de textos e redação de projetos de pesquisa."
+    },
+    {
+        "code": "AD220",
+        "name": "Dança Clássica I",
+        "credits": 4,
+        "syllabus": "Trabalhar com os elementos básicos da técnica de dança clássica, considerando as condições físicas apresentadas por cada aluno. A estrutura da técnica e linguagem clássica deverá ser trabalhada de maneira consciente, possibilitando um desenvolvimento técnico do corpo de forma a contribuir para o seu trabalho nas diversas linguagens da dança.",
+        "reqBy": [
+            "AD320"
+        ]
+    },
+    {
+        "code": "AD227",
+        "name": "Traje e Espaço Cênico para a Dança II",
+        "credits": 2,
+        "syllabus": "Estudo de elementos plásticos e soluções recorrentes nos figurinos das danças populares brasileiras. O Parangolé. Objetos cênicos e adereços. A geringonça. Exploração de espaços alternativos e improvisação cenográfica. A rua como espaço cênico.",
+        "reqs": [
+            [
+                {
+                    "code": "AD127"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD235",
+        "name": "Dança do Brasil II",
+        "credits": 4,
+        "syllabus": "Aprofundamento dos estudos do movimento provindo de manifestações tradicionais e populares brasileiras. Estudo coreográfico de uma manifestação específica. Primeiras experiências em pesquisa de campo.",
+        "reqs": [
+            [
+                {
+                    "code": "AD135"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD244",
+        "name": "Dança - Investigação e Percepção II",
+        "credits": 6,
+        "syllabus": "Aprofundamento dos elementos básicos da dança introduzidos na disciplina AD144.",
+        "reqs": [
+            [
+                {
+                    "code": "AD144"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD344"
+        ]
+    },
+    {
+        "code": "AD301",
+        "name": "Consciência Corporal III",
+        "credits": 2,
+        "syllabus": "Aprofundamento do estudo dos conceitos desenvolvidos em AD-101 e AD-201, com vista à incorporação deles às técnicas de dança.",
+        "reqs": [
+            [
+                {
+                    "code": "AD201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD303",
+        "name": "Expressão e Movimento: Princípios da Dança III",
+        "credits": 2,
+        "syllabus": "Aprofundamento dos estudos e exercícios iniciados nos semestres anteriores. Utilização de objetos auxiliares na Dança, trabalhando, assim, a comunicação, a criatividade e a dramaticidade. Todos estes temas serão explorados pelos alunos através de exercícios específicos e improvisações dirigidas.",
+        "reqs": [
+            [
+                {
+                    "code": "AD211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD311",
+        "name": "Acompanhamento Música e Dança: Percussão",
+        "credits": 2,
+        "syllabus": "Contato com diversos instrumentos de percussão: membranofones e idiofones. Técnica específica dos instrumentos: baquetas; mãos; vivência musical; montagem de pequenas peças em grupo. Improvisação rítmica e improvisação livre.",
+        "reqs": [
+            [
+                {
+                    "code": "AD209"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD313",
+        "name": "Psicologia do Desenvolvimento Aplicado à Dança I",
+        "credits": 2,
+        "syllabus": "Compreensão do processo de desenvolvimento do indivíduo, desde o crescimento físico até a maturidade psicoemocional, do ponto de vista do movimento expressivo e simbólico. Análise do meio de aquisição de conhecimentos que contribuem no processo formativo do dançarino e do professor de dança.",
+        "reqBy": [
+            "AD413"
+        ]
+    },
+    {
+        "code": "AD314",
+        "name": "Cultura Brasileira",
+        "credits": 2,
+        "syllabus": "Reflexão e debate sobre a cultura de um país a partir das questões problematizadas na criação de seus coreógraficos, na carreia de seus professores e na ação de produtores, gestores e críticos. Abordagem das questões da identidade em dança, em suas relações com mundo contemporâneo crescentemente globalizado no qual as discussões sobre a diversidade e o etnocentrismo se fazem cada vez mais necessárias. Debates em torno da economia da dança, cultura da dança e coreográfica, difusão e validação nacionais e internacionais, abrindo-se um panorama de discussões sobre \"políticas da cultura\"."
+    },
+    {
+        "code": "AD317",
+        "name": "Introdução à Composição Coreográfica",
+        "credits": 2,
+        "syllabus": "Estudo dos elementos básicos para a construção coreográfica. Estruturas auxiliares no processo de composição coreográfica. Estudo concernente ao espaço, ao peso, a forma, ao uso do tempo e da estrutura musical.",
+        "reqBy": [
+            "AD417"
+        ]
+    },
+    {
+        "code": "AD320",
+        "name": "Dança Clássica II",
+        "credits": 4,
+        "syllabus": "Introdução à dinâmica e a harmonia dos conceitos básicos de uma aula de técnica clássica, abordando questões relativas às formas de ensino e à função de seus exercícios. Trabalho de barra, aquecimento, plié, batt-tendu, batt-glissé, rond de jambe (ar terre e en lair), founds, batt-frappé, adagio, gradbattement. Trabalho de centro: alongamento, exercícios de força, batt-tendu, prática de centro, giros, adágios, aquecimento para salto, seguindo pequeno, médio e grande salto.",
+        "reqs": [
+            [
+                {
+                    "code": "AD220"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD420"
+        ]
+    },
+    {
+        "code": "AD321",
+        "name": "Introdução à Antropologia da Arte",
+        "credits": 2,
+        "syllabus": "Abordar a arte como \"totalidade\", isto é, incluindo os campos tradicionalmente vistos como fazendo parte da arte (música, dança, etc) mas, também o que existe de arte no fazer um instrumento como o da pesca. A linguagem como simbólica da arte. Arte como saber. Arte como aprendizado formal e não formal, através de grupos de socialização primária (família, vizinhança, etc).",
+        "reqBy": [
+            "AD412"
+        ]
+    },
+    {
+        "code": "AD334",
+        "name": "Elementos de Linguagem Musical para Bailarinos",
+        "credits": 2,
+        "syllabus": "Introduz o aluno de dança no universo do pensamento musical, apresentando a ele tanto elementos estruturais constitutivos da linguagem musical quanto uma visão histórica geral do seu desenvolvimento no Ocidente. O aluno aprenderá a reconhecer estruturas e formas musicais através da escuta e desenvolverá critérios na escolha de repertório musical para dança.",
+        "reqs": [
+            [
+                {
+                    "code": "AD209"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD534"
+        ]
+    },
+    {
+        "code": "AD335",
+        "name": "Dança do Brasil III",
+        "credits": 4,
+        "syllabus": "A partir de um tema específico proposto sobre realidades míticas, da percepção de rituais populares e religiosos de povos brasileiros, desenvolver de forma criativa, interdisciplinar o trabalho de expressividade do intérprete na Dança do Brasil. Atualização dos saberes pré-adquiridos sobre a temática da disciplina",
+        "reqs": [
+            [
+                {
+                    "code": "AD015"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD435"
+        ]
+    },
+    {
+        "code": "AD344",
+        "name": "Dança - Prática e Análise I",
+        "credits": 6,
+        "syllabus": "Técnicas de isolamento e alongamento. Prática de movimentos espiralados, dinâmicas variadas de giros, saltos e contrações.",
+        "reqs": [
+            [
+                {
+                    "code": "AD244"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD444"
+        ]
+    },
+    {
+        "code": "AD412",
+        "name": "Introdução de Métodos de Pesquisa Antropológica I",
+        "credits": 2,
+        "syllabus": "Elaboração de projeto de pesquisa em Antropologia. Aborda a relação do pesquisador com o campo da pesquisa, que inclui os sujeitos estudados e o grupo maior onde estão incluídos. Levanta questões relacionadas ao etnocentrismo do pesquisador, ao diálogo que se cria entre o pesquisador e os pesquisados no campo de investigação, as relações do poder e do conflito presentes no campo de estudo e as questões éticas a serem observadas pelo pesquisador. Expõe os diferentes métodos e técnicas e as abordagens teóricas implicadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AD321"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD512"
+        ]
+    },
+    {
+        "code": "AD413",
+        "name": "Psicologia do Desenvolvimento Aplicado à Dança II",
+        "credits": 3,
+        "syllabus": "Seminários visando ao aprofundamento de temas apresentados em projetos de pesquisa dos alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AD313"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD417",
+        "name": "Improvisação I",
+        "credits": 2,
+        "syllabus": "Exploração do espaço, peso e tempo através de técnicas de improvisação. Exercícios individuais e em grupos de percepção. Criação de movimento, técnicas de isolamento, expressão dramática e foco.",
+        "reqs": [
+            [
+                {
+                    "code": "AD317"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD517",
+            "AD723"
+        ]
+    },
+    {
+        "code": "AD420",
+        "name": "Dança Clássica III",
+        "credits": 4,
+        "syllabus": "Aprofundamento dos estudos iniciados no semestre anterior (Técnica de Dança Clássica II - AD320), ampliando a nomenclatura e a execução dos exercícios contidos em cada setor.",
+        "reqs": [
+            [
+                {
+                    "code": "AD320"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD520",
+            "AD901"
+        ]
+    },
+    {
+        "code": "AD421",
+        "name": "História da Dança I",
+        "credits": 2,
+        "syllabus": "Traçar um panorama sobre a história da dança em sua relação com aspectos teóricos das artes e da cultura. Recorte na cronologia da dança cênica ocidental: dos primórdios do Balé até os movimentos emergentes do final do século XIX na Europa e Américas. Apontamentos sobre novas perspectivas de estudo historiográfico (pós-colonial e de-colonial) da dança. Pesquisa documental, análise de obras coreográficas e produção de textos.",
+        "reqBy": [
+            "AD521"
+        ]
+    },
+    {
+        "code": "AD435",
+        "name": "Dança do Brasil IV",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de processo criativo e interdisciplinar em trabalho de expressividade do intérprete. Pesquisa de campo e estabelecimento de tema específico a partir de rituais de manifestações e/ou de segmentos sociais pesquisados.",
+        "reqs": [
+            [
+                {
+                    "code": "AD335"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD061",
+            "AD081",
+            "AD083",
+            "AD535",
+            "AD700"
+        ]
+    },
+    {
+        "code": "AD442",
+        "name": "Tópicos Especiais I",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD444",
+        "name": "Dança - Prática e Análise II",
+        "credits": 6,
+        "syllabus": "Aprofundamento dos conceitos de peso e espaço introduzidos na disciplina AD344. Ênfase no conhecimento cinestésico aplicada à prática da dança.",
+        "reqs": [
+            [
+                {
+                    "code": "AD344"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD544"
+        ]
+    },
+    {
+        "code": "AD512",
+        "name": "Introdução de Métodos de Pesquisa Antropológica II",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de projeto de pesquisa em Antropologia. Aborda a relação do pesquisador com o campo da pesquisa, que inclui os sujeitos estudados e o grupo maior onde estão incluídos. Levanta questões relacionadas ao etnocentrismo do pesquisador, ao diálogo que se cria entre o pesquisador e os pesquisados no campo de investigação, as relações do poder e do conflito presentes no campo de estudo e as questões éticas a serem observadas pelo pesquisador. Expõe os diferentes métodos e técnicas e as abordagens teóricas implicadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AD412"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD517",
+        "name": "Improvisação II",
+        "credits": 2,
+        "syllabus": "Aprofundamento do conteúdo abordado em AD417, contextualizando-o a partir de experiências de apreciação, de vivência e incorporação dos elementos de manifestações culturais específicas brasileiras.",
+        "reqs": [
+            [
+                {
+                    "code": "AD417"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD700"
+        ]
+    },
+    {
+        "code": "AD520",
+        "name": "Dança Clássica IV",
+        "credits": 4,
+        "syllabus": "Aprofundamento dos estudos iniciados no semestre anterior (AD420), esperando maior fluência, uso do espaço e qualidade na resposta técnica. Estudo metodológico sob a orientação do professor, desenvolvendo a capacidade do aluno para o ensino.",
+        "reqs": [
+            [
+                {
+                    "code": "AD420"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD700"
+        ]
+    },
+    {
+        "code": "AD521",
+        "name": "História da Dança II",
+        "credits": 2,
+        "syllabus": "Traçar um panorama sobre a história da dança cênica no século XX em sua relação com aspectos teóricos das artes e da cultura, considerando também a perspectiva pós colonial e de-colonial. Dança moderna, dança pós-moderna, happening e performance, dança-teatro, novas tendências, dança e novas mídias. Pesquisa documental, análise de obras coreográficas e produção de textos.",
+        "reqs": [
+            [
+                {
+                    "code": "AD421"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD601"
+        ]
+    },
+    {
+        "code": "AD534",
+        "name": "Música e Dança: Exercícios de Linguagem",
+        "credits": 2,
+        "syllabus": "Depois do conhecimento básico da linguagem musical oferecido nas disciplinas AD-109, AD-209 e AD-334, o aluno terá, neste curso, condições para poder pensar na relação entre dança e música, penetrando no universo de concepções da composição coreográfica em relação às estruturas musicais. Este estudo se dá tanto através de análises de coreografias em vídeo, quanto de trabalhos práticos de dança orientados.",
+        "reqs": [
+            [
+                {
+                    "code": "AD209"
+                },
+                {
+                    "code": "AD334"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD535",
+        "name": "Dança do Brasil V",
+        "credits": 4,
+        "syllabus": "Pesquisa de campo, continuidade do desenvolvimento do processo criativo e reflexão crítica e teórica para a elaboração de relatório. Sistematização do material das pesquisas de campo e dos resultados do processo criativo em trabalho de expressividade do intérprete.",
+        "reqs": [
+            [
+                {
+                    "code": "AD435"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD635"
+        ]
+    },
+    {
+        "code": "AD542",
+        "name": "Tópicos Especiais II",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD544",
+        "name": "Dança - Variação e Exploração I",
+        "credits": 6,
+        "syllabus": "Introdução a quedas, abertura com sustentação. Aplicação prática de movimentos de contração e de giros. Relação do peso, do tempo e do contratempo. Variações de giros, saltos e quedas. Variações com amplo uso do espaço.",
+        "reqs": [
+            [
+                {
+                    "code": "AD444"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD644",
+            "AD901"
+        ]
+    },
+    {
+        "code": "AD601",
+        "name": "História da Dança no Brasil",
+        "credits": 2,
+        "syllabus": "Estudo da dança e de sua história no Brasil, do Brasil e sobre o Brasil. Atualização dos saberes pré-adquiridos sobre nação e folclore, dança e nação, as questões do nacional-popular. Pré-românticos, balé romântico e nação, dança moderna e contemporânea: o século XX no Brasil. O mundial e o topológico: o Brasil na rede da dança.",
+        "reqs": [
+            [
+                {
+                    "code": "AD521"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD128"
+        ]
+    },
+    {
+        "code": "AD620",
+        "name": "Educação Através da Arte",
+        "credits": 4,
+        "syllabus": "A disciplina abrange os componentes da atividade pedagógica para o ensino da dança e suas relações com o processo histórico-social. Investiga as condições, formas e dinâmicas dos processos didáticos que vigoram no ensino e orientam a ação docente. Estuda as diferentes tendências teórico-metodológicas da prática educativa da dança, abordando os requisitos para o planejamento dos processos de ensino-aprendizagem."
+    },
+    {
+        "code": "AD621",
+        "name": "Pedagogia e Didática da Dança",
+        "credits": 4,
+        "syllabus": "A disciplina abrange os componentes da atividade pedagógica para o ensino da dança e suas relações com o processo histórico-social. investiga as condições, formas e dinâmicas dos processos didáticos que vigoram no ensino e orientam a ação docente. Estuda as diferentes tendências teórico-metodológicas da prática educativa da dança, abordando os requisitos para o planejamento dos processos de ensino-aprendizagem. Realiza atividades extensionistas para compartilhamento das aprendizagens em desenvolvimento.\n "
+    },
+    {
+        "code": "AD635",
+        "name": "Dança do Brasil VI",
+        "credits": 4,
+        "syllabus": "Síntese dos resultados das atividades desenvolvidas nos semestres anteriores em trabalhos de criação artística e de reflexão crítica e teórica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AD535"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD642",
+        "name": "Tópicos Especiais III",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD644",
+        "name": "Dança - Variação e Exploração II",
+        "credits": 6,
+        "syllabus": "Aprofundamento do trabalho de memória do movimento nas linguagens de dança. Desenvolvimento das estruturas de movimento levando em consideração as complexidades rítmicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AD544"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD700",
+            "AD744"
+        ]
+    },
+    {
+        "code": "AD700",
+        "name": "Trabalho de Graduação Integrado I",
+        "credits": 10,
+        "syllabus": "O curso visa proporcionar subsídios teóricos e práticos para que o aluno elabore um projeto de criação em dança que evidencie a integração dos conteúdos desenvolvidos durante o curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AD435"
+                },
+                {
+                    "code": "AD517"
+                },
+                {
+                    "code": "AD520"
+                },
+                {
+                    "code": "AD644"
+                },
+                {
+                    "code": "AD823"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD800"
+        ]
+    },
+    {
+        "code": "AD723",
+        "name": "Composição Coreográfica I",
+        "credits": 2,
+        "syllabus": "Analisar a construção de métodos de composição de movimentos, aprofundando os conceitos abordados em AD317 e elaborando novos processos de composições.",
+        "reqs": [
+            [
+                {
+                    "code": "AD417"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD823"
+        ]
+    },
+    {
+        "code": "AD724",
+        "name": "Artes Corporais do Oriente I",
+        "credits": 2,
+        "syllabus": "Apresenta e familiariza o aluno com as técnicas corporais do Oriente. Aborda os princípios que regem as artes corporais orientais, enfocando os seus aspectos práticos e teóricos."
+    },
+    {
+        "code": "AD742",
+        "name": "Tópicos Especiais IV",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD743",
+        "name": "Tópicos Especiais V",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD744",
+        "name": "Dança - Expressão e Integração I",
+        "credits": 6,
+        "syllabus": "Fluência no desempenho técnico em variações complexas.",
+        "reqs": [
+            [
+                {
+                    "code": "AD644"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD844"
+        ]
+    },
+    {
+        "code": "AD800",
+        "name": "Trabalho de Graduação Integrado II",
+        "credits": 10,
+        "syllabus": "O aluno deverá desenvolver um projeto de criação em dança. A apresentação do trabalho deverá evidenciar a integração dos conteúdos desenvolvidos durante o curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AD700"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD823",
+        "name": "Composição Coreográfica II",
+        "credits": 2,
+        "syllabus": "Considerando os conhecimentos adquiridos em Introdução à Composição Coreográfica e Composição Coreográfica I, realizar pesquisa visando uma síntese coreográfica, que parta de manifestações culturais brasileiras.",
+        "reqs": [
+            [
+                {
+                    "code": "AD723"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD700"
+        ]
+    },
+    {
+        "code": "AD824",
+        "name": "Artes Corporais do Oriente II",
+        "credits": 2,
+        "syllabus": "Aprofundamento dos estudos iniciados em Artes Corporais do Oriente I."
+    },
+    {
+        "code": "AD843",
+        "name": "Tópicos Especiais VI",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD844",
+        "name": "Dança - Expressão e Integração II",
+        "credits": 6,
+        "syllabus": "Qualidades perfomáticas a partir da integração dos elementos desenvolvidos ao longo das disciplinas AD144, AD244, AD344, AD444, AD544, AD644 e AD744",
+        "reqs": [
+            [
+                {
+                    "code": "AD744"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD900",
+        "name": "Atividades Orientadas de Pesquisa",
+        "credits": 6,
+        "syllabus": "O objetivo da disciplina é capacitar o aluno a elaborar projeto e desenvolver pesquisa integrando conteúdos assimilados em períodos anteriores de modo a preparar o graduando para dar continuidade a sua formação como pesquisador. Os resultados obtidos deverão demonstrar capacidade de articular processos de criação, preparação técnica e interpretação em Dança à reflexão crítica e procedimentos metodológicos de pesquisa. Fará parte da metodologia desta disciplina a exposição por parte de docentes e convidados de suas pesquisas em andamento."
+    },
+    {
+        "code": "AD901",
+        "name": "Estágio em Artes Cênicas I",
+        "credits": 6,
+        "syllabus": "Acompanhamento e execução de atividades profissionais, desde a participação como intérprete em companhias profissionais credenciadas pelo departamento, até as atividades que envolvem a produção cênica em teatros e festivais. Está inclusa também, atividades de pesquisa documental em fontes de memória.",
+        "reqs": [
+            [
+                {
+                    "code": "AD420"
+                },
+                {
+                    "code": "AD544"
+                },
+                {
+                    "code": "AD630",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AD942",
+        "name": "Tópicos Especiais VII",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD943",
+        "name": "Tópicos Especiais VIII",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD944",
+        "name": "Tópicos Especiais IX",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD945",
+        "name": "Tópicos Especiais X",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD946",
+        "name": "Tópicos Especiais XI",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "AD947",
+        "name": "Tópicos Especiais XII",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião de seu oferecimento."
+    }
+]

@@ -1,0 +1,173 @@
+[
+    {
+        "code": "BL031",
+        "name": "Metodologia e Prática de Ensino em Biologia IV: Doenças Infecciosas",
+        "credits": 2,
+        "syllabus": "Planejamento, elaboração, aplicação, avaliação de atividades e programas para o ensino de Microbiologia e Parasitologia com ênfase em patógenos humanos, e Imunologia com ênfase nos mecanismos de defesa de humanos. Abordagem e elaboração de diferentes metodologias para o ensino desses temas da área de saúde no ensino fundamental e médio."
+    },
+    {
+        "code": "BL034",
+        "name": "Metodologia e Práticas de Ensino em Biologia e Ciências da Natureza I",
+        "credits": 2,
+        "syllabus": "Estudo das propostas de ensino de Biologia e Ciências da Natureza na escola fundamental e média. Análise de recursos e materiais para o ensino com ênfase em Biologia Vegetal. Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Biologia Vegetal na escola fundamental e média. Elaboração de projetos, textos e relatórios em Biologia Vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "BT285"
+                },
+                {
+                    "code": "BT485"
+                },
+                {
+                    "code": "BV481"
+                },
+                {
+                    "code": "BV581"
+                }
+            ],
+            [
+                {
+                    "code": "BT285"
+                },
+                {
+                    "code": "BT485"
+                },
+                {
+                    "code": "BV620"
+                },
+                {
+                    "code": "BV720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BL035",
+        "name": "Metodologia e Prática de Ensino em Biologia: Ecologia e Fauna",
+        "credits": 2,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Zoologia e Ecologia de Invertebrados e Vertebrados. Abordagem e elaboração de diferentes metodologias para o ensino de Zoologia e Ecologia de Invertebrados e Vertebrados. Articulação temática e integrada de temas contemporâneos para o ensino de biologia. Criação de conteúdos e formas de ensinar pautados na ideia de transversalidade no currículo."
+    },
+    {
+        "code": "BL036",
+        "name": "Metodologia e Práticas de Ensino em Ciências e Biologia: Genética, Evolução e Vida na Terra",
+        "credits": 4,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas de Genética, Evolução e Vida na Terra para o Ensino Fundamental e Médio. Abordagem e elaboração de diferentes metodologias, articulação temática e integrada de temas contemporâneos em Genética, Evolução e História da Vida na Terra para o Ensino Fundamental e Médio. Estudos de caso e problemas brasileiros e mundiais, uso de ferramentas tecnológicas, espaços alternativos e ambiente de laboratório no Ensino de Genética, Evolução e Vida na Terra."
+    },
+    {
+        "code": "BL037",
+        "name": "Metodologia e Práticas de Ensino em Ciências e Biologia: Morfofisiologia",
+        "credits": 4,
+        "syllabus": "Aplicação de métodos e estratégias didático-pedagógicas contemporâneas, tais como ferramentas para ensino à distância, preparação de roteiros e materias para aulas práticas, utilização de programas digitais, textos e jogos, para capacitar o estudante de Ciências Biológicas para atuar no Ensino Fundamental e Médio no desenvolvimento de conteúdos pertinentes á área de Biologia Celular, Embriologia, Biologia Tecidual, Anatomia e Fisiologia Humana.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BL300",
+        "name": "Introdução à Filosofia das Ciências Naturais",
+        "credits": 3,
+        "syllabus": "Apresentação dos pontos de vista dos principais filósofos,  dos pré-socráticos aos atuais, e dos principais problemas abordados pela filosofia das ciências naturais. Análise de textos em língua portuguesa publicados na imprensa e em periódicos especializados. Elaboração de questões-guia e de exposições audiovisuais. Apresentação de seminários e debate das questões-guia.  Discussão de filmes sob diferentes pontos de vista da filosofia das ciências naturais.Discussão dos principais pontos de vista da filosofia das ciências naturais com vistas à sua aplicação no ensino de Ciências e Biologia."
+    },
+    {
+        "code": "BL500",
+        "name": "Iniciação Científica em Ensino I",
+        "credits": 4,
+        "syllabus": "Introdução à pesquisa qualitativa do campo das ciências humanas. Pesquisa e estudos em epistemologia da ciência aplicados ao ensino de ciências e biologia. Coleta de dados, metodologias de pesquisa e abordagem científica, análise dos resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BL583",
+        "name": "Construção de Mídias para o Ensino de Ciências e Biologia",
+        "credits": 8,
+        "syllabus": "Utilização de computadores para o desenvolvimento de material didático nas áreas de Ciências e Biologia. Edição digital de textos, imagens, áudio e vídeos. Redação de argumento de roteiros de material didático. Apresentação oral da produção feita durante a disciplina."
+    },
+    {
+        "code": "BL600",
+        "name": "Produção e Análise de Textos em Ciências Biológicas",
+        "credits": 3,
+        "syllabus": "Vivenciar processos de geração e avaliação de textos em Língua Portuguesa contendo conhecimento de Ciências ou Biologia. Reconhecer espaços institucionais relacionados às Ciências de Biologia (laboratórios, museus, parques, TV, imprensa, mídias sociais, etc.) onde há necessidade de produção de textos em Língua Portuguesa. Reconhecer as diferentes formas de tratamento do conhecimento científicos e biológico sob a forma de texto nestes diferentes espaços de ensino. Reconhecer as diferentes produções textuais como indicadores de aprendizagem. Realizar a avaliar a produção de textos em diferentes contextos (relatórios científicos, pôsteres, sítios de internet, elementos de publicação em mídias sociais, etc.)."
+    },
+    {
+        "code": "BL601",
+        "name": "Iniciação Científica em Ensino II",
+        "credits": 4,
+        "syllabus": "Introdução à pesquisa qualitativa do campo das ciências humanas. Pesquisa e estudos em epistemologia da ciência aplicados ao ensino de ciências e biologia. Coleta de dados, metodologias de pesquisa e abordagem científica, análise dos resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BL682",
+        "name": "Ensino em Ecologia de Organismos, Populações, Comunidades e Ecossistemas",
+        "credits": 4,
+        "syllabus": "Importância de Ensino de Ecologia em níveis pré-universitários. Estratégias de Ensino de Ecologia, com a participação do aluno na construção do conhecimento novo, através de debate, diálogo, dinâmicas e atividades práticas de laboratório e campo. Abordagens sobre Biodiversidade, Organismos, populações e comunidades. Ecologia Humana (Urbana, Rural e Industrial). Comunidades tradicionais (indígenas, caiçaras, quilombolas dentre outros). Educação Ambiental & Socioambiental. Desenvolvimento sustentável e preservação ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "BG200"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BL700",
+        "name": "Estágio Supervisionado em Ensino I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas junto ao Instituto de Biologia em uma das áreas de pesquisa em Educação em Ciências e Biologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BL800",
+        "name": "Estágio Supervisionado em Ensino II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas junto ao Instituto de Biologia em uma das áreas de pesquisa em Educação em Ciências e Biologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,2230 @@
+[
+    {
+        "code": "TT001",
+        "name": "Tópicos em Computação e Informática I",
+        "credits": 2,
+        "syllabus": "Estudo de temas relevantes em Computação e Informática. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA425",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT002",
+        "name": "Tópicos em Computação e Informática II",
+        "credits": 2,
+        "syllabus": "Estudo de temas relevantes em Computação e Informática. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA435",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT003",
+        "name": "Tópicos em Computação e Informática III",
+        "credits": 2,
+        "syllabus": "Estudo de temas relevantes em Computação e Informática. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT004",
+        "name": "Tópicos em Computação e Informática IV",
+        "credits": 2,
+        "syllabus": "Estudo de temas relevantes em Computação e Informática. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT005",
+        "name": "Tópicos Especiais em Telecomunicações I",
+        "credits": 2,
+        "syllabus": "Estudo de assuntos relevantes em telecomunicações de acordo com a evolução tecnológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT006",
+        "name": "Tópicos Especiais em Telecomunicações II",
+        "credits": 4,
+        "syllabus": "Estudo de assuntos relevantes em telecomunicações de acordo com a evolução tecnológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT007",
+        "name": "Tópicos Especiais em Telecomunicações III",
+        "credits": 2,
+        "syllabus": "Estudo de assuntos relevantes em telecomunicações de acordo com a evolução tecnológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT008",
+        "name": "Tópicos Especiais em Telecomunicações IV",
+        "credits": 4,
+        "syllabus": "Estudo de assuntos relevantes em telecomunicações de acordo com a evolução tecnológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT011",
+        "name": "Estruturas Algébricas",
+        "credits": 4,
+        "syllabus": "Assuntos preliminares: conjuntos, relações, relações de equivalência, congruência. Grupos. Anéis. Corpos. Polinômios.",
+        "reqs": [
+            [
+                {
+                    "code": "TT101"
+                },
+                {
+                    "code": "TT202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT012",
+        "name": "Grafos",
+        "credits": 2,
+        "syllabus": "Conceito, representação e aplicação de grafos. Operações sobre grafos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA425",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT013",
+        "name": "Redes Complexas",
+        "credits": 2,
+        "syllabus": "Redes complexas: introdução, exemplos. Redes complexas em sistemas naturais e construídos pelo ser humano. Modelagem e representação de redes complexas. Modelos estáticos e de crescimento. Caracterização e medidas de redes complexas. Operação, falhas, falhas em cascata, ataques e dinâmica de redes complexas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT020",
+        "name": "Contabilidade Geral",
+        "credits": 4,
+        "syllabus": "A empresa e a contabilidade. Princípios Contábeis Geralmente Aceitos. Demonstrações Contábeis. Operações da Contabilidade.",
+        "reqBy": [
+            "TT021"
+        ]
+    },
+    {
+        "code": "TT021",
+        "name": "Contabilidade de Custos",
+        "credits": 4,
+        "syllabus": "Evolução e objetivos da Contabilidade de Custos. Terminologia contábil. Classificação de custos. Elementos de custos diretos e indiretos. Materiais diretos e indiretos. Materiais diretos e mão-de-obra direta: controle de valoração. Custos indiretos de fabricação: aplicação, controle, departamentalização e rateio. Métodos e Sistemas de Custeio. Integração da contabilidade de custos à financeira.",
+        "reqs": [
+            [
+                {
+                    "code": "TT020"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT030",
+        "name": "Contabilidade Geral",
+        "credits": 2,
+        "syllabus": "Evento financeiro e fato contábil. Fluxo de origem e aplicação de recursos. Estrutura de contas: graus de liquidez. Estrutura de capital: estados. Mecânica Contábil. Livros básicos. Balanço Patrimonial e Demonstração de Resultado do Exercício."
+    },
+    {
+        "code": "TT031",
+        "name": "Contabilidade de Custos",
+        "credits": 2,
+        "syllabus": "Componentes do custo. Terminologia. Componentes diretos e indiretos do custo. Estratégia de departamentalização. Sistemas de acumulação por ordem de produção, por processo e por atividades. Análise de curto prazo."
+    },
+    {
+        "code": "TT040",
+        "name": "Matemática Discreta Aplicada",
+        "credits": 2,
+        "syllabus": "Lógica proposicional. Métodos de prova. Indução matemática. Relações de recorrências. Noções de teoria dos grafos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST161"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT050",
+        "name": "Sistemas de Apoio à Decisão",
+        "credits": 4,
+        "syllabus": "Teoria da decisão, modelos de decisão; modelagem qualitativa; árvores de decisão, agentes de decisão, análise multicritério; Processo cognitivo e tomada de decisão; Heuristicas de solução de problemas. Sistemas especialistas e sistemas baseados em conhecimento. Introdução às Tecnologias de suporte à decisão.",
+        "reqs": [
+            [
+                {
+                    "code": "ST211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT060",
+        "name": "Gestão de Projetos",
+        "credits": 4,
+        "syllabus": "Conceitos de subprojeto, projeto, programa, portfólio e plano estratégico. Processos para gestão de projeto. Ferramentas para gestão de escopo, prazo, custo, qualidade, comunicação, risco, contratos, recursos humanos e integralização das atividades. Ciclos de vida de produto e de projeto. A cultura organizacional. Estrutura organizacional. A postura esperada de um gestor: acompanhamento (follow-up) e feedback.",
+        "reqs": [
+            [
+                {
+                    "code": "ST266"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI502"
+        ]
+    },
+    {
+        "code": "TT080",
+        "name": "Matemática Discreta Aplicada",
+        "credits": 4,
+        "syllabus": "Introdução matemática. Princípio multiplicativo. Princípio aditivo. Permutação, arranjo, combinação. Princípio de inclusão e exclusão. Funções geradoras. Partição de um inteiro. Relações de recorrências. O princípio da casa dos pombos. Noções de teoria dos grafos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST211"
+                },
+                {
+                    "code": "TT201"
+                }
+            ],
+            [
+                {
+                    "code": "TT201"
+                },
+                {
+                    "code": "TT207"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT081",
+        "name": "Teoria da Informação",
+        "credits": 4,
+        "syllabus": "Conceitos, princípios e fundamentos gerais de sistemas de informações."
+    },
+    {
+        "code": "TT083",
+        "name": "Conceitos de Televisão",
+        "credits": 4,
+        "syllabus": "Introdução. Sistemas de TV acromáticos de baixa resolução e sinais envolvidos. Sistemas de TV a cores e sinais envolvidos. Modulação e demodulação de sinais de TV em AM-VSB. Transmissores e receptores e suas características. Dimensionamento de enlaces em UHF e SHF. Modulação demodulação FM. Análise e dimensionamento de TV a cabo. Fundamentos de TV de alta definição - HDTV: principais sistemas, sinais de áudio e vídeo, digitalização, compressão, correção de erro e multiplexação."
+    },
+    {
+        "code": "TT084",
+        "name": "Micro-Ondas",
+        "credits": 4,
+        "syllabus": "Dispositivos ativos de micro-ondas. Diodos especiais. Transistores para micro-ondas. Detectores para micro-ondas. Amplificadores para micro-ondas. Osciladores de micro-ondas. Válvulas de micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT086",
+        "name": "Microcontroladores II",
+        "credits": 4,
+        "syllabus": "Projeto utilizando micro-controladores.",
+        "reqs": [
+            [
+                {
+                    "code": "TT401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT087",
+        "name": "Eletrônica de Potência",
+        "credits": 4,
+        "syllabus": "Diodos de potência. Retificadores. Tiristores. Retificadores controlados. Controladores de tensão AC. Transistores de potência. Retalhadores DC. Inversores. Controle de motores DC. Controle do motores AC. Experimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "TT206"
+                }
+            ],
+            [
+                {
+                    "code": "TT305"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT089",
+        "name": "Comutação em Telecomunicações",
+        "credits": 4,
+        "syllabus": "Introdução. Comutação de circuitos: técnicas de comutação, tipos de centrais, hierarquia de centrais. Tráfego telefônico. Dimensionamento de centrais. Exemplos de equipamentos. Introdução à comutação de pacotes e de células. Análise comparativa entre os diversos tipos de comutação e suas aplicações típicas. Técnicas de sinalização."
+    },
+    {
+        "code": "TT090",
+        "name": "Conversão de Energia",
+        "credits": 4,
+        "syllabus": "Circuitos magnéticos. Transformadores. Princípios de conversão eletromecânica de energia. Introdução às máquinas elétricas rotativas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT092",
+        "name": "Resistência de Materiais",
+        "credits": 4,
+        "syllabus": "Grafostática. Classificação das estruturas. Esforços solicitantes em estruturas planas isostáticas. Centro de gravidade. Momentos de inércia.",
+        "reqs": [
+            [
+                {
+                    "code": "ST209"
+                },
+                {
+                    "code": "TT201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT093",
+        "name": "Fenômenos de Transporte",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais. Primeira e segunda leis da termodinâmica. Equações gerais da cinemática e dinâmica dos fluidos. Equações básicas de transferência de calor e massa.",
+        "reqs": [
+            [
+                {
+                    "code": "ST209"
+                },
+                {
+                    "code": "TT201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT094",
+        "name": "Automação e Controle",
+        "credits": 4,
+        "syllabus": "Análise e síntese de sistemas contínuos e discretos. Obtenção de diagrama de bloco e função de transferência. Modelos e simulação. Controle realimentado. Estabilidade e otimização. Critério de estabilidade de Routh. Análise por frequência. Análise pelo lugar das raízes. Aplicações em filtros e em sistemas industriais. Modos de controle. Controlador programável e sistemas de controle digital. Transdutores e interfaces.",
+        "reqs": [
+            [
+                {
+                    "code": "TT206"
+                }
+            ],
+            [
+                {
+                    "code": "TT305"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT095",
+        "name": "Tópicos em Circuitos Digitais",
+        "credits": 4,
+        "syllabus": "Dispositivos lógicos programáveis. Projeto de máquinas sequênciais, máquinas de estados.",
+        "reqs": [
+            [
+                {
+                    "code": "TT302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT096",
+        "name": "Processamento Digital de Sinais",
+        "credits": 4,
+        "syllabus": "Digitalização de sinais analógicos, sinais e sistemas discretos no tempo. Estrutura de realização de sistemas discretos: equação de diferença e função de transparência, resposta em frequência e estabilidade. Filtros Digitais: classificação e estruturas de realização. Transformada de Fourier: transformada discreta de Fourier e convolução circular, algoritmo da transformada rápida de Fourier e aplicações. Efeitos de quantização de coeficientes e variáveis. Projeto de filtros digitais: projeto de filtros recursivos, projeto de filtros não recursivos, considerações práticas para implementação.",
+        "reqs": [
+            [
+                {
+                    "code": "TT308"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT097",
+        "name": "Introdução à Física Moderna",
+        "credits": 4,
+        "syllabus": "Origens da Física Quântica. Radiação de corpo negro. Efeito fotoelétrico. Difração de elétrons. Função de onda de Broglie. Princípio de incerteza. Equação de Schrödinger. Poços de potencial simples. Números quânticos. Tunelamento. Modelos atômicos. Níveis de energia. Transições. Séries espectrais. Átomo de Hidrogênio. Laser.",
+        "reqs": [
+            [
+                {
+                    "code": "ST209"
+                },
+                {
+                    "code": "TT201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT098",
+        "name": "Programação Orientada a Objetos",
+        "credits": 4,
+        "syllabus": "Programação estruturada e programação orientada a objetos: análise; recursos de C++ equivalentes à linguagem C; modularidade e abstração; tipos abstratos de dados; classes e objetos; encapsulamento, construtores e destrutores; sobrecarga, herança e polimorfismo; programação orientada a eventos.",
+        "reqs": [
+            [
+                {
+                    "code": "TT103"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT099",
+        "name": "Fundamentos de Telefonia Fixa",
+        "credits": 4,
+        "syllabus": "Princípios de Telefonia Fixa; Redes Telefônicas; Comutação de Circuitos e Técnicas de Comutação; Centrais Telefônicas; Tráfego telefônico; Técnicas de sinalização; Comutação de pacotes e de células; Voz sobre IP (VoIP); Redes de Acesso; Tecnologias e Sistemas de Banda Larga Fixa; Operadoras de Múltiplos Serviços e Triple Play."
+    },
+    {
+        "code": "TT101",
+        "name": "Cálculo I",
+        "credits": 6,
+        "syllabus": "Conjuntos numéricos. Função de uma variável real. Limites. Continuidade. Derivadas. Máximos e mínimos de uma função. Diferencial de uma função. Integrais definidas e indefinidas. Técnicas de Integração. Aplicações. Equações diferenciais ordinárias. Sistemas de equações de primeira ordem.",
+        "reqBy": [
+            "ST017",
+            "ST043",
+            "ST063",
+            "ST210",
+            "ST303",
+            "ST309",
+            "ST462",
+            "ST511",
+            "ST574",
+            "ST673",
+            "TT011",
+            "TT201",
+            "TT208"
+        ]
+    },
+    {
+        "code": "TT102",
+        "name": "Geometria Analítica e Vetores",
+        "credits": 4,
+        "syllabus": "Sistemas lineares. Vetores. Operações. Bases, sistemas de coordenadas. Distância, norma e ângulo. Produtos escalar e vetorial. Retas no plano e no espaço. Planos. Posições relativas, intersecções, distâncias e ângulos. Círculo e esfera. Coordenadas polares, cilíndricas e esféricas. Secções cônicas, classificação. Introdução às quádricas.",
+        "reqBy": [
+            "ST116",
+            "ST765",
+            "TT202"
+        ]
+    },
+    {
+        "code": "TT103",
+        "name": "Linguagem e Técnica de Programação I",
+        "credits": 6,
+        "syllabus": "Partes componentes de um computador. Representação interna de numeração. Sistemas numéricos. Compiladores. Tipos de processamento. Organização e arquivos. Conceito de algoritmo e programa. Algoritmos: representações, técnicas de construção e estruturas. Representação de dados. Introdução a uma linguagem de programação de alto nível. Implementação de programas.",
+        "reqBy": [
+            "ST262",
+            "ST263",
+            "ST363",
+            "ST365",
+            "TT098",
+            "TT204"
+        ]
+    },
+    {
+        "code": "TT104",
+        "name": "Leitura e Redação de Textos Técnicos",
+        "credits": 2,
+        "syllabus": "Linguagem escrita e falada. Redação de textos técnicos. Elaboração de relatório."
+    },
+    {
+        "code": "TT105",
+        "name": "Introdução às Ciências Humanas",
+        "credits": 2,
+        "syllabus": "Liberdade, igualdade, fraternidade. As promessas e os novos problemas trazidos pelo moderno. Modernidade e sociologia. A emergência do indivíduo moderno. A descoberta da sociedade. A cidade moderna e a pobreza. Classes sociais e conflito social. Tradição, valores e ordem moral. Ciência e desordem: crítica. Indagações."
+    },
+    {
+        "code": "TT106",
+        "name": "Organização e Arquitetura de Computadores",
+        "credits": 4,
+        "syllabus": "Histórico do computador. Álgebra Booleana. Funções Lógicas e Circuitos Combinacionais. Memórias, unidades centrais de processamento. Endereçamento, barramento, interrupção, comunicações, interfaces e periféricos. Computadores típicos. Implementação de uma CPU. Noções de programação em linguagem assembly.",
+        "reqBy": [
+            "ST065",
+            "ST066",
+            "ST095",
+            "ST118",
+            "ST563",
+            "ST564",
+            "ST568",
+            "TT304",
+            "TT310"
+        ]
+    },
+    {
+        "code": "TT107",
+        "name": "Circuitos Elétricos I",
+        "credits": 2,
+        "syllabus": "Carga elétrica. Campo elétrico. Diferença de potencial, corrente e resistência elétrica. Elementos e leis de circuitos. Equacionamento e Soluções de circuitos por métodos algébricos e matriciais. Teoremas de Thevenin e Norton. Instrumentos de medida.",
+        "reqBy": [
+            "TT206",
+            "TT305"
+        ]
+    },
+    {
+        "code": "TT108",
+        "name": "Fundamentos para Telecomunicações",
+        "credits": 2,
+        "syllabus": "Histórico das telecomunicações, introdução aos sinais e sistemas de telecomunicações, atualidades e tendências da tecnologia de telecomunicações.",
+        "reqBy": [
+            "TT308"
+        ]
+    },
+    {
+        "code": "TT109",
+        "name": "Geometria Analítica e Álgebra Linear",
+        "credits": 4,
+        "syllabus": "Vetores no R2 e no R3. Produto Escalar e Vetorial. A Reta. O Plano. Distâncias. Cônicas e Quádricas. Dependência e Independência Linear. Espaço Vetorial Real. Transformações Lineares. Autovalores e Autovetores."
+    },
+    {
+        "code": "TT110",
+        "name": "Introdução ao Trabalho em Laboratórios",
+        "credits": 2,
+        "syllabus": "Introdução aos erros, conceitos elementares de estatística, lógica e procedimento experimental, instrumentos e métodos de laboratório do curso de oferecimento da disciplina, processamento de resultados experimentais, noções de segurança de trabalho no laboratório, elaboração de documentos técnicos e científicos."
+    },
+    {
+        "code": "TT111",
+        "name": "Geometria Analítica e Álgebra Linear",
+        "credits": 6,
+        "syllabus": "Matrizes, Sistemas Lineares e Determinantes. Espaços Vetoriais de Dimensão Finita. Produto Escalar e Vetorial. Retas e Planos. Projeção Ortogonal. Distâncias. Transformações Lineares, Autovalores e Autovetores. Diagonalização. Classificação das Cônicas",
+        "reqBy": [
+            "TT313",
+            "TT514"
+        ]
+    },
+    {
+        "code": "TT112",
+        "name": "Física Aplicada I",
+        "credits": 4,
+        "syllabus": "Vetores. Cinemática do ponto. Leis de Newton. Estática. Trabalho, energia e potência. Momento linear. Momento angular. Rotação de corpos rígidos.",
+        "reqBy": [
+            "TT212",
+            "TT213",
+            "TT313",
+            "TT512"
+        ]
+    },
+    {
+        "code": "TT113",
+        "name": "Laboratório de Física Aplicada I",
+        "credits": 2,
+        "syllabus": "Medidas; Erros e Propagação de Erros; Algarismos Significativos e Gráficos; Método dos Mínimos Quadrados; Linearização e Gráficos log-log; Movimento em Uma Dimensão; Trajetória de um Projétil.",
+        "reqBy": [
+            "TT213"
+        ]
+    },
+    {
+        "code": "TT114",
+        "name": "Expressão Gráfica",
+        "credits": 4,
+        "syllabus": "Noções fundamentais para o desenho técnico. Teoria das projeções ortogonais. Aplicação das projeções para Projetos Elétricos e de Telecomunicações. Uso do Autocad e suas Toolboxes para auxílio em Projetos de Telecomunicações."
+    },
+    {
+        "code": "TT120",
+        "name": "Cálculo I",
+        "credits": 6,
+        "syllabus": "Conjuntos numéricos. Funções. Limites. Continuidade. Derivadas. Máximos e mínimos de uma função. Diferencial de uma função. Integrais definidas e indefinidas. Técnicas de Integração. Aplicações.",
+        "reqBy": [
+            "TT220",
+            "TT312",
+            "TT315",
+            "TT513"
+        ]
+    },
+    {
+        "code": "TT130",
+        "name": "Linguagem e Técnica de Programação I",
+        "credits": 4,
+        "syllabus": "Algoritmos: representações e técnicas de construção. Estruturas de dados e de controle de programas. Introdução a uma linguagem de programação de alto nível. Modularização em linguagem de programação. Recursividade. Implementação de programas.",
+        "reqBy": [
+            "ST265",
+            "ST266"
+        ]
+    },
+    {
+        "code": "TT201",
+        "name": "Cálculo II",
+        "credits": 6,
+        "syllabus": "Funções de várias variáveis reais. Derivadas e diferenciais. Máximos e mínimos. Integrais múltiplas. Integrais de linha. Teorema e Stokes. Séries numéricas e séries de funções. Transformada de Laplace. Equações diferenciais parciais e série de Fourier.",
+        "reqs": [
+            [
+                {
+                    "code": "TT101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST040",
+            "TT080",
+            "TT080",
+            "TT092",
+            "TT093",
+            "TT097"
+        ]
+    },
+    {
+        "code": "TT202",
+        "name": "Álgebra Linear",
+        "credits": 2,
+        "syllabus": "Espaços vetoriais reais. Subespaços. Base e dimensão. Transformações lineares e matrizes. Autovalores e autovetores. Produto interno. Diagonalização.",
+        "reqs": [
+            [
+                {
+                    "code": "TT102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST115",
+            "TT011"
+        ]
+    },
+    {
+        "code": "TT204",
+        "name": "Linguagem e Técnicas de Programação II",
+        "credits": 4,
+        "syllabus": "Representação e manipulação de dados na memória interna do computador. Tabelas, listas, árvores e grafos. Algoritmos correspondentes de busca. Inserção, remoção e percurso.",
+        "reqs": [
+            [
+                {
+                    "code": "TT103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST661"
+        ]
+    },
+    {
+        "code": "TT206",
+        "name": "Circuitos Elétricos II",
+        "credits": 4,
+        "syllabus": "Capacitores. Indutores. Equacionamento de circuitos dinâmicos. Circuitos em correntes alternadas. Números complexos. Impedância complexa. Fasores. Transformada de Laplace e Fourier. Circuitos ressonantes. Transitórios. Circuitos monofásicos. Sistemas Polifásicos. Osciloscópios e geradores de funções.",
+        "reqs": [
+            [
+                {
+                    "code": "TT107"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT087",
+            "TT094"
+        ]
+    },
+    {
+        "code": "TT207",
+        "name": "Probabilidades e Teoria da Informação",
+        "credits": 6,
+        "syllabus": "Conceitos básicos de estatística. Medidas de tendência central. Medidas de dispersão. Correlação Linear. Teoria elementar de probabilidade. Distribuição Binomial, de Poisson, Exponencial Negativa, Normal, de Rayliehg, Rician e Nakagami. Introdução aos processos estocásticos. Aplicações nas telecomunicações. Conceitos, princípios e fundamentos gerais da teoria dos sistemas de transmissão de informação.",
+        "reqBy": [
+            "TT080"
+        ]
+    },
+    {
+        "code": "TT208",
+        "name": "Métodos Matemáticos para Telecomunicações",
+        "credits": 4,
+        "syllabus": "Funções de várias variáveis reais. Derivadas e diferenciais. Máximos e Mínimos. Integrais Múltiplas. Séries Numéricas e Séries de Funções. Transformada de Laplace. Equações diferenciais parciais e série de Fourier. Outros temas relevantes para o curso.",
+        "reqs": [
+            [
+                {
+                    "code": "TT101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT209",
+        "name": "Introdução ao Eletromagnetismo",
+        "credits": 2,
+        "syllabus": "Cálculo vetorial aplicado ao eletromagnetismo. Campos eletrostáticos no vácuo e nos materiais dielétricos. Aplicações das equações de Poisson e Laplace.",
+        "reqBy": [
+            "TT301"
+        ]
+    },
+    {
+        "code": "TT210",
+        "name": "Circuitos Eletrônicos",
+        "credits": 2,
+        "syllabus": "Semicondutores. Circuitos com diodos semicondutores. Transistores bipolares. O transistor como fonte de corrente. Circuitos polarização.",
+        "reqBy": [
+            "TT306",
+            "TT408",
+            "TT409"
+        ]
+    },
+    {
+        "code": "TT211",
+        "name": "Oscilações e Ondas",
+        "credits": 2,
+        "syllabus": "Oscilações, Ondas Mecânicas, Ondas Eletromagnéticas, Interferência, Difração, Tópicos Especiais sobre Ondas Eletromagnéticas."
+    },
+    {
+        "code": "TT212",
+        "name": "Física Aplicada II",
+        "credits": 4,
+        "syllabus": "Oscilações. Ondas Mecânicas. Deformações e Elasticidade. Noções de Hidrostática e Hidrodinâmica. Termologia. Noções de Termodinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "TT112"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT417",
+            "TT417",
+            "TT420"
+        ]
+    },
+    {
+        "code": "TT213",
+        "name": "Laboratório de Física Aplicada II",
+        "credits": 2,
+        "syllabus": "Densidade; Pêndulos Simples e Físico; Escoamento de Líquido; Dilatação de Metais; Determinação do coeficiente de dilatação térmica de metais; Ondas Estacionárias.",
+        "reqs": [
+            [
+                {
+                    "code": "TT112"
+                },
+                {
+                    "code": "TT113"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT214",
+        "name": "Linguagem e Técnica de Programação I",
+        "credits": 4,
+        "syllabus": "Partes Componentes de um Computador. Representação Interna de Numeração. Sistemas Numéricos. Compiladores. Tipos de Processamento. Organização e Arquivos. Conceito de Algoritmo e Programa. Algoritmos: Representações, Técnicas de Construção e Estruturas. Representação de dados. Introdução a uma Linguagem de Programação de Alto Nível. Implementação de Programas.",
+        "reqBy": [
+            "TT314",
+            "TT802"
+        ]
+    },
+    {
+        "code": "TT215",
+        "name": "Comunicação e Expressão",
+        "credits": 2,
+        "syllabus": "Níveis de linguagem, Seleção lexical (questões de precisão vocabular), Questões de pontuação, Adequação da forma e do conteúdo do texto aos interesses do leitor, Análise de modelos de documentos de Redação Técnica, O resumo e a resenha crítica, As relações de significado na construção do pensamento (aplicação prática da análise sintática), Análise de textos e imagens quanto à construção e à expressão das idéias, tendo em vista a clareza e a coerência."
+    },
+    {
+        "code": "TT216",
+        "name": "Metodologia do Trabalho Científico",
+        "credits": 2,
+        "syllabus": "Método científico: conceitos e histórico; métodos e técnicas de pesquisa; Pesquisa: conceitos, definições e tipos; elaboração, comunicação e divulgação da pesquisa: fases da elaboração da pesquisa, comunicação da pesquisa (estrutura, forma e conteúdo); normas ABNT; linguagem científica; monografias; dissertações; teses, relatórios técnicos; artigos; eventos científicos."
+    },
+    {
+        "code": "TT217",
+        "name": "Química Aplicada",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de conceitos fundamentais de química para entendimento de sistemas naturais através de fórmulas e equações químicas. Estrutura atômica. Classificação periódica e propriedades dos elementos. Ligações químicas, estrutura e propriedades das substâncias. Equilíbrio químico. Minerais. Polímeros naturais e sintéticos. Gases e poluentes gasosos. Noções básicas de espectrofotometria. Tratamento de dados analíticos. Experimentos ilustrando o método científico, preparação de soluções, padronização de soluções, equilíbrio ácido-base, determinação de pH de amostras ambientais."
+    },
+    {
+        "code": "TT220",
+        "name": "Cálculo II",
+        "credits": 6,
+        "syllabus": "Funções de várias variáveis reais. Derivadas e diferenciais. Máximos e mínimos. Integrais múltiplas. Integrais de linha. Teorema da divergência. Teorema de Stokes. Séries numéricas e séries de funções. Série de Fourier.",
+        "reqs": [
+            [
+                {
+                    "code": "TT120"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ST052",
+            "TT313",
+            "TT316",
+            "TT512"
+        ]
+    },
+    {
+        "code": "TT301",
+        "name": "Eletromagnetismo",
+        "credits": 6,
+        "syllabus": "Campos magnéticos, correntes estacionárias e materiais não magnéticos. Força eletromotriz induzida e energia magnética. Materiais magnéticos. Equações de Maxwell. Redação e propagação de ondas eletromagnéticas no vácuo.",
+        "reqs": [
+            [
+                {
+                    "code": "TT209"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT090",
+            "TT402",
+            "TT406",
+            "TT407",
+            "TT501"
+        ]
+    },
+    {
+        "code": "TT302",
+        "name": "Circuitos Digitais",
+        "credits": 4,
+        "syllabus": "Sistemas de numeração; Portas lógicas e álgebra booleana; Circuitos lógicos combinacionais; Flip-Flops e dispositivos relacionados; Aritmética digital: Operações e circuitos; Famílias lógicas; Contadores e registradores; Contadores binários: tipos, divisor da frequência. Memórias: tipos, expansão, tempo de acesso. Conversores analógicos/digitais.",
+        "reqBy": [
+            "TT095",
+            "TT401",
+            "TT411",
+            "TT507",
+            "TT508",
+            "TT509",
+            "TT516",
+            "TT608"
+        ]
+    },
+    {
+        "code": "TT304",
+        "name": "Sistemas Operacionais",
+        "credits": 4,
+        "syllabus": "Gerenciamento de processos. Processos concorrentes. Gerenciamento de memória. Organização interna e externa de sistemas de arquivos e diretórios. Virtualização. Segurança.",
+        "reqs": [
+            [
+                {
+                    "code": "TT106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI801",
+            "ST048",
+            "ST049",
+            "ST564"
+        ]
+    },
+    {
+        "code": "TT305",
+        "name": "Eletrônica Analógica",
+        "credits": 6,
+        "syllabus": "Amplificadores operacionais ideais. Circuitos com amplificadores operacionais. Semicondutores. Circuitos com diodos semicondutores. Transistores bipolares. O transistor como fonte de corrente. Circuitos polarização. Amplificadores de potência e fontes de alimentação. Princípios de operação e características de FETs. Polarização de FETs. Configurações típicas. Acoplamento entre estágios amplificadores. Resposta de frequência de amplificadores. Amplificadores de potência de AF. Osciladores. Tiristores. Temporizador. Multivibrador astável. Schmitt trigger.",
+        "reqs": [
+            [
+                {
+                    "code": "TT107"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT087",
+            "TT094",
+            "TT405"
+        ]
+    },
+    {
+        "code": "TT306",
+        "name": "Circuitos Eletrônicos II",
+        "credits": 6,
+        "syllabus": "Amplificadores operacionais ideais. Circuitos com amplificadores operacionais. Amplificadores de potência e fontes de alimentação. Princípios de operação e características de FETs. Polarização de FETs. Configurações típicas. Acoplamento entre estágios amplificadores. Resposta de frequência de amplificadores. Amplificadores de potência de AF. Osciladores. Temporizador. Multivibrador astável. Shimitt trigger.",
+        "reqs": [
+            [
+                {
+                    "code": "TT210"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT405"
+        ]
+    },
+    {
+        "code": "TT307",
+        "name": "Fundamentos dos Materiais Elétricos",
+        "credits": 2,
+        "syllabus": "Elementos de ciência dos materiais. Tecnologia dos materiais elétricos. Materiais condutores e isolantes. Materiais semicondutores. Materiais magnéticos. Principais aplicações. Técnicas de microfabricação. Teoria e Aplicações.",
+        "reqBy": [
+            "TT503"
+        ]
+    },
+    {
+        "code": "TT308",
+        "name": "Fundamentos para Processamento Digital de Sinais",
+        "credits": 2,
+        "syllabus": "Familiarização e utilização de ferramenta computacional para simulação de sistemas de telecomunicações. Caracterização de sinais analógicos e digitais. Aplicações da Transformada de Fourier para a Análise Temporal e Espectral de sinais. Transmissão de sinais digitais, conceitos de banda passante e ruído de canal. Amostragem de sinais analógicos, quantização e critério de Nyquist. Conceitos básicos de Modulações Analógicas e Digitais.",
+        "reqs": [
+            [
+                {
+                    "code": "TT108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT096"
+        ]
+    },
+    {
+        "code": "TT309",
+        "name": "Projetos de Dispositivos e Sistemas de Telecomunicações",
+        "credits": 2,
+        "syllabus": "Modelagem de dispositivos e sistemas de Telecomunicações utilizando ferramentas computacionais baseadas em softwares comerciais, softwares livres e/ou softwares desenvolvidos em ambientes acadêmicos."
+    },
+    {
+        "code": "TT310",
+        "name": "Redes de Comunicação I",
+        "credits": 4,
+        "syllabus": "Teleprocessamento, comutação e sinalização. Comutação por circuitos. Comutação por pacotes. Enlaces e canais de comunicação. Protocolos e Serviços. Modelos de referência. Camada de Aplicação. Camada de Transporte, Camada de Rede, Camada de Enlace, Camada Física.",
+        "reqs": [
+            [
+                {
+                    "code": "TT106"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT311",
+        "name": "Circuitos Elétricos I",
+        "credits": 4,
+        "syllabus": "Carga e campo elétrico. Diferença de potencial, corrente e resistência elétrica. Elementos e leis de circuitos lineares. Equacionamento e Soluções de circuitos por métodos algébricos e matriciais – malhas e nós. Teoremas de Thevenin e Norton, Millman, Superposição, Máxima Transferência de Potência. Uso de instrumentos de medida.",
+        "reqBy": [
+            "TT410",
+            "TT410",
+            "TT517"
+        ]
+    },
+    {
+        "code": "TT312",
+        "name": "Cálculo III",
+        "credits": 4,
+        "syllabus": "Séries numéricas e séries de funções. Equações diferenciais ordinárias. Transformadas de Laplace. Sistemas de equações de primeira ordem. Equações diferenciais parciais e séries de Fourier.",
+        "reqs": [
+            [
+                {
+                    "code": "TT120"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT410",
+            "TT413",
+            "TT417",
+            "TT417"
+        ]
+    },
+    {
+        "code": "TT313",
+        "name": "Física Aplicada III",
+        "credits": 4,
+        "syllabus": "Cargas Elétricas; Campos Elétricos; Lei de Gauss; Potencial Elétrico ;  Capacitância;  Corrente Elétrica e Resistência Elétrica;  Circuitos;  Campos Magnéticos;  Campos Magnéticos produzidos por correntes;  Indução e Indutância; Oscilações eletromagnéticas e Corrente Alternada;  Introdução as Equações de Maxwell.",
+        "reqs": [
+            [
+                {
+                    "code": "EB102",
+                    "partial": true
+                },
+                {
+                    "code": "EB103"
+                },
+                {
+                    "code": "EB201"
+                }
+            ],
+            [
+                {
+                    "code": "TT111",
+                    "partial": true
+                },
+                {
+                    "code": "TT112"
+                },
+                {
+                    "code": "TT220"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT416",
+            "TT418",
+            "TT420",
+            "TT420",
+            "TT511"
+        ]
+    },
+    {
+        "code": "TT314",
+        "name": "Orientação a Objetos I",
+        "credits": 4,
+        "syllabus": "Estudo e desenvolvimento em uma linguagem de programação Orientada a Objetos. Técnicas de depuração e documentação de programas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT214"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT419",
+            "TT905"
+        ]
+    },
+    {
+        "code": "TT315",
+        "name": "Probabilidades e Teoria da Informação",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de estatística. Medidas de tendência central. Medidas de dispersão. Correlação Linear. Teoria elementar de probabilidade. Distribuição Binomial, de Poison, Exponencial Negativa, Normal, de Rayliehg, Rician e Nakagami. Aplicações nas telecomunicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EB101"
+                }
+            ],
+            [
+                {
+                    "code": "TT120"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT414",
+            "TT609",
+            "TT709"
+        ]
+    },
+    {
+        "code": "TT316",
+        "name": "Cálculo III",
+        "credits": 6,
+        "syllabus": "Séries numéricas e séries de funções. Equações diferenciais ordinárias. Transformadas de Laplace. Sistemas de equações de primeira ordem. Equações diferenciais parciais e séries de Fourier.",
+        "reqs": [
+            [
+                {
+                    "code": "TT220"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT350",
+        "name": "Administração de Empresas",
+        "credits": 4,
+        "syllabus": "Evolução do pensamento em administração. Tendências contemporâneas em administração. Processo decisório e estratégia corporativa. Organizações que aprendem. Processos de controle. Administração de marketing. Estrutura do capital. Participação nos lucros e distribuição de dividendos.",
+        "reqBy": [
+            "SI350",
+            "SI450",
+            "SI703",
+            "ST120",
+            "ST880"
+        ]
+    },
+    {
+        "code": "TT401",
+        "name": "Microcontroladores",
+        "credits": 4,
+        "syllabus": "Arquitetura e princípios de operação de microcontroladores. Interfaces. Projeto com microcontroladores.",
+        "reqs": [
+            [
+                {
+                    "code": "TT302"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT086"
+        ]
+    },
+    {
+        "code": "TT402",
+        "name": "Ondas Guiadas",
+        "credits": 6,
+        "syllabus": "Guias dielétricos; modos TE e TM; fibras ópticas, tipos, propagação, atenuação e dispersão; topologia das fibras ópticas; guias metálicos; teoria de linhas de transmissão: impedância característica, transformação de impedâncias, casamento de impedâncias, carta de Smith.",
+        "reqs": [
+            [
+                {
+                    "code": "TT301"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT503"
+        ]
+    },
+    {
+        "code": "TT404",
+        "name": "Administração de Empresas",
+        "credits": 4,
+        "syllabus": "Os primórdios da Administração. Influências. As escolas Clássica, Científica e Comportamentalista. A era modernista, a escola contemporânea. Organizações que pensam. A estrutura corporativa. Empreendedorismo. Regulamentação do setor: LGT, Regulamentação de Usos, Serviços, Interesse Público e Societário. Contratos e Distratos, Arrecadação de Receitas. Plano de negócios.",
+        "reqBy": [
+            "ST763",
+            "ST766"
+        ]
+    },
+    {
+        "code": "TT405",
+        "name": "Eletrônica de Alta Frequência",
+        "credits": 6,
+        "syllabus": "Filtros, casadores de impedância, transmissores, receptores, amplificadores sintonizados de baixo sinal, osciladores de RF. Modulação analógica em amplitude, frequência e fase, misturadores, PLL e sintetizadores de frequência. Parâmetros de dispersão. Dispositivos passivos de micro-ondas. Ruído. Diodos de micro-ondas. Amplificadores de RF de potência transistorizados. Osciladores de micro-ondas e semicondutores. Válvulas de micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT305"
+                }
+            ],
+            [
+                {
+                    "code": "TT306"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT510"
+        ]
+    },
+    {
+        "code": "TT406",
+        "name": "Ondas Guiadas",
+        "credits": 4,
+        "syllabus": "Teoria de Linhas de Transmissão: Equação de Onda, Tensão e Corrente na Linha, Constante de Propagação, Impedância Característica, Coeficiente de Reflexão, Razão de Onda Estacionária, Carta de Smith. Casamento de Impedâncias. Guias de Ondas; Modos TE e TM, Perdas em Guias de Ondas, Dispersão. Cavidades Ressonantes. Outros Dispositivos. Parâmetros S. Matriz de parâmetros S. Guias de Ondas Dielétricos: Fibras Ópticas, Propagação, Atenuação e Dispersão em Fibras Ópticas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT301"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT503"
+        ]
+    },
+    {
+        "code": "TT407",
+        "name": "Laboratório de Ondas Guiadas",
+        "credits": 2,
+        "syllabus": "Técnicas de Medições em Linhas de Transmissão e Guias de Ondas. Medições no domínio do tempo: tempo de trânsito na linha, impedância característica, velocidade de propagação, permissividade relativa do dielétrico. Medições de indutância e capacitância. Diagrama Zig-Zag. Medições no domínio da frequência: defasagem da linha de Transmissão. Medição da atenuação vs frequência. Introdução ao Analisador Vetorial de Redes e ao Refletômetro Óptico. Manuseio de fibras ópticas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT408",
+        "name": "Tecnologias de Radiofrequência e Micro-Ondas",
+        "credits": 4,
+        "syllabus": "Filtros, Casadores de Impedância, Transmissores, Receptores, Amplificadores Sintonizados de Baixo Sinal, Osciladores de RF. Modulação Analógica em Amplitude, Frequência e Fase, Misturadores, PLL e Sintetizadores de Frequência. Parâmetros de Espalhamento (parâmetro S). Dispositivos Passivos de Micro-ondas. Ruído. Diodos de Micro-ondas. Amplificadores de RF e Micro-ondas. Transistorizados. Osciladores de Micro-ondas a Semicondutores. Válvulas de Micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT210",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT510"
+        ]
+    },
+    {
+        "code": "TT409",
+        "name": "Laboratório de Radiofrequência e Micro-Ondas",
+        "credits": 2,
+        "syllabus": "Técnicas de Medições em Dispositivos de Radiofrequência e Micro-ondas. Utilização do Analisador Vetorial de Redes, Analisador de Espectros e outros equipamentos de Radiofrequência e Micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT210",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT410",
+        "name": "Circuitos Elétricos II",
+        "credits": 4,
+        "syllabus": "Capacitores. Indutores. Equacionamento de circuitos dinâmicos. Circuitos em correntes alternadas. Impedância complexa. Fasores. Transformada de Laplace e Fourier. Circuitos ressonantes. Transitórios. Projeto de sistemas de 2a ordem.",
+        "reqs": [
+            [
+                {
+                    "code": "EB301",
+                    "partial": true
+                },
+                {
+                    "code": "TT311"
+                }
+            ],
+            [
+                {
+                    "code": "TT311"
+                },
+                {
+                    "code": "TT312",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT515",
+            "TT707",
+            "TT803"
+        ]
+    },
+    {
+        "code": "TT411",
+        "name": "Circuitos Digitais II",
+        "credits": 2,
+        "syllabus": "Dispositivos lógicos programáveis. Projeto de máquinas sequenciais, máquinas de estados.",
+        "reqs": [
+            [
+                {
+                    "code": "TT302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT413",
+        "name": "Métodos Matemáticos para Telecomunicacões",
+        "credits": 4,
+        "syllabus": "Números complexos. Funções de variável complexa. Equações de Cauchy-Riemann. Funções Elementares. Transformações. Integrais. Sequências e séries de números complexos. Séries de potências. Resíduos e polos. Transformações conformes.  Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EB301"
+                }
+            ],
+            [
+                {
+                    "code": "TT312"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT514",
+            "TT514",
+            "TT609"
+        ]
+    },
+    {
+        "code": "TT414",
+        "name": "Redes de Comunicação II",
+        "credits": 4,
+        "syllabus": "Protocolos para interconexão de redes. Arquiteturas e Protocolos para comunicação sem fio. Gerência de redes. Introdução a redes móveis e ópticas. Comunicação multimídia. Modelos de tráfego. Desenvolvimento de protocolos de comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "TT315"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT416",
+        "name": "Ciência dos Materiais e Materiais Elétricos",
+        "credits": 4,
+        "syllabus": "Introdução aos Materiais; Ondas Eletromagnéticas e Ondas de Matéria;  Mecânica Quantica; Elétrons em Cristais; Materiais Semicondutores; Dispositivos Semicondutores; Materiais e Dispositivos Opto-Eletrônicos; Materiais e Dispositivos Magnéticos; Materiais Importantes para a Eletrônica.",
+        "reqs": [
+            [
+                {
+                    "code": "TT313"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT708"
+        ]
+    },
+    {
+        "code": "TT417",
+        "name": "Fenômenos de Transporte",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais. Primeira e segunda leis da termodinâmica. Equações gerais da cinemática e dinâmica dos fluidos. Equações básicas de transferência de calor e massa.",
+        "reqs": [
+            [
+                {
+                    "code": "EB203"
+                },
+                {
+                    "code": "EB301"
+                }
+            ],
+            [
+                {
+                    "code": "EB203"
+                },
+                {
+                    "code": "TT312"
+                }
+            ],
+            [
+                {
+                    "code": "EB301"
+                },
+                {
+                    "code": "TT212"
+                }
+            ],
+            [
+                {
+                    "code": "TT212"
+                },
+                {
+                    "code": "TT312"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT418",
+        "name": "Óptica e Relatividade",
+        "credits": 2,
+        "syllabus": "Natureza da luz, tipos de imagem, espelhos planos e esféricos, lentes, interferência, difração, redes de difração, postulados da relatividade restrita, eventos, transformações de Lorentz, relatividade do tempo e distância, efeito Doppler, momento relativístico, energia cinética e energia de repouso.",
+        "reqs": [
+            [
+                {
+                    "code": "TT313"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT511"
+        ]
+    },
+    {
+        "code": "TT419",
+        "name": "Programação de Dispositivos Móveis",
+        "credits": 4,
+        "syllabus": "Estudo de linguagens de programação de alto nível apropriadas para criação de sistemas voltados para dispositivos móveis. Atividades práticas de implementação de sistemas para dispositivos móveis.",
+        "reqs": [
+            [
+                {
+                    "code": "TT314"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT420",
+        "name": "Ciência dos Materiais",
+        "credits": 4,
+        "syllabus": "Introdução aos Materiais para a eletrônica: Ondas e Partículas na Matéria; Mecânica Quântica; Elétrons em Cristais; Materiais Semicondutores; Materiais Opto-Eletrônicos; Materiais Magnéticos; Materiais Importantes para a eletrônica.",
+        "reqs": [
+            [
+                {
+                    "code": "EB203"
+                },
+                {
+                    "code": "TT313"
+                }
+            ],
+            [
+                {
+                    "code": "TT212"
+                },
+                {
+                    "code": "TT313"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT708"
+        ]
+    },
+    {
+        "code": "TT501",
+        "name": "Propagação de Ondas Eletromagnéticas - Antenas",
+        "credits": 4,
+        "syllabus": "Tipos de propagação. Propagação no espaço livre. Propagação na atmosfera. Influência do solo e de obstáculos. Propagação ionosférica. Efeitos da atmosfera na propagação de micro-ondas e de ondas milimétricas. Características gerais das antenas. Antenas lineares de onda estacionária. Antenas de ondas caminhantes. Redes de antenas. Síntese de redes de antenas. Antenas de abertura. Antenas com refletores. Sistemas de alimentação das antenas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT301"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT084"
+        ]
+    },
+    {
+        "code": "TT503",
+        "name": "Dispositivos Fotônicos",
+        "credits": 2,
+        "syllabus": "Introdução. Estado atual da tecnologia. Propagação de Luz em Fibras Ópticas: Propriedades. Tipos de fibra - características: dispersão, atenuação, efeitos não-lineares. Cabos Ópticos. Conectores Ópticos. Emendas, Acopladores. Geradores e receptores Ópticos. Fotodetectores PIN e APD. Amplificação Óptica. Novas tecnologias. Óptica integrada.",
+        "reqs": [
+            [
+                {
+                    "code": "TT307"
+                },
+                {
+                    "code": "TT406"
+                }
+            ],
+            [
+                {
+                    "code": "TT402"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT603"
+        ]
+    },
+    {
+        "code": "TT504",
+        "name": "Economia e Finanças",
+        "credits": 4,
+        "syllabus": "Modelo Keynesiano, Governo: Política Orçamentária, Setor Externo, Mercado: Inflação e Emprego. Análise microeconômica, planejamento econômico. Capacidade de geração de serviços. Noções de custos, formação de preço de venda. Aspectos societários e trabalho autônomo, aspectos trabalhistas, regimes tributários. Gestão do conhecimento e da informação. Sistemas de apoio à decisão."
+    },
+    {
+        "code": "TT505",
+        "name": "Introdução ao Estágio Supervisionado",
+        "credits": 2,
+        "syllabus": "Elaboração do plano de estágio supervisionado, revisão bibliográfica sobre o trabalho a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT613"
+        ]
+    },
+    {
+        "code": "TT506",
+        "name": "Introdução ao Trabalho de Graduação Interdisciplinar",
+        "credits": 2,
+        "syllabus": "Definição do projeto do trabalho de graduação interdisciplinar, revisão bibliográfica sobre o tema da Monografia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT614"
+        ]
+    },
+    {
+        "code": "TT507",
+        "name": "Sistema de Telecomunicações",
+        "credits": 6,
+        "syllabus": "Modulações chaveadas, Temas escolhidos de Rádio Digital. Comunicação via satélite, arquitetura dos transponders e da estação terrena. Temas escolhidos de transmissão digital, hierarquias digitais PDH e SDH, Sistemas Digitais de Radioenlaces por micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT302"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT602"
+        ]
+    },
+    {
+        "code": "TT508",
+        "name": "Sistema de Telecomunicações",
+        "credits": 4,
+        "syllabus": "Modulações analógicas e digitais. Temas escolhidos de Rádio Digital. Comunicação via satélite, arquitetura dos transponders e da estação terrena. Temas escolhidos de transmissão digital, hierarquias digitais PDH e SDH, Sistemas Digitais de Radioenlaces por Micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT509",
+        "name": "Projetos de Sistemas de Telecomunicações",
+        "credits": 2,
+        "syllabus": "Projetos assistidos por computador de sistemas e subsistemas de telecomunicações. Simulação e/ou Projetos das modulações analógicas e digitais de AM, FM e Fase. Projetos de Amplificadores de RF. Projetos de Radioenlaces. Simulação de redes de alta velocidade.",
+        "reqs": [
+            [
+                {
+                    "code": "TT302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT510",
+        "name": "Comunicações Móveis",
+        "credits": 4,
+        "syllabus": "Sistemas de comunicações móveis; Técnicas de predição de sinais; Caracterização do canal rádio móvel em ambientes internos e externos; Estudos de interferência; Modulação e sistemas de transmissão; Métodos de acessos em comunicações móveis; Projetos de sistemas móveis; Telefonia móvel celular: descrição dos sistemas (1G, 2G, 2.5G, 3G e 4G), protocolos e sinalização, padrões; Portabilidade Numérica; RFID; WiMAX; Noções de sistemas de comunicação móveis por satélite; Redes de comunicações pessoais.",
+        "reqs": [
+            [
+                {
+                    "code": "TT405",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "TT408",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT511",
+        "name": "Eletromagnetismo Aplicado",
+        "credits": 4,
+        "syllabus": "Campos magnéticos, correntes estacionárias e materiais não frequência. Força eletromotriz induzida e energia magnética, Materiais magnéticos. Equações de Maxwell. Radiação e propagação de ondas eletromagnéticas no vácuo. ",
+        "reqs": [
+            [
+                {
+                    "code": "TT313"
+                },
+                {
+                    "code": "TT418",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT606",
+            "TT607",
+            "TT701"
+        ]
+    },
+    {
+        "code": "TT512",
+        "name": "Mecânica dos Sólidos",
+        "credits": 4,
+        "syllabus": "Operações básicas com vetores (força). Definição de momento de uma força. Equivalência entre conjuntos de forças. Equilíbrio de ponto material e de corpo rígido, no plano e no espaço. Definição, cálculo e representação gráfica das cargas internas em vigas no plano. Definição de deformações e tensões (Lei de Hooke). Análise dos efeitos individuais das cargas internas em vigas: cargas axiais, torques, momentos fletores e esforços cortantes. Superposições de tensões normais. Transformação de tensões (círculo de Mohr).",
+        "reqs": [
+            [
+                {
+                    "code": "TT112"
+                },
+                {
+                    "code": "TT220"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT513",
+        "name": "Cálculo Numérico",
+        "credits": 4,
+        "syllabus": "Erro de Truncamento e Arredondamento. Aritmética de Ponto Flutuante. Zeros de Funções. Métodos de solução de Sistemas Lineares. Resolução de Problemas não-lineares. Interpolação. Ajuste de Funções. Integração Numérica. Resolução Numérica de Equações.",
+        "reqs": [
+            [
+                {
+                    "code": "TT120"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT514",
+        "name": "Sinais e Sistemas",
+        "credits": 2,
+        "syllabus": "Introdução a Sinais e Sistemas.  Sistemas Lineares e Invariantes no Tempo.  Análise de Fourier de Sinais Contínuos e de Sinais Discretos. Caracterização no Tempo e na Frequência de Sinais e Sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "EB102",
+                    "partial": true
+                },
+                {
+                    "code": "TT413",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "TT111",
+                    "partial": true
+                },
+                {
+                    "code": "TT413",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT604"
+        ]
+    },
+    {
+        "code": "TT515",
+        "name": "Eletrônica Analógica I",
+        "credits": 4,
+        "syllabus": "Semicondutores. Circuitos com diodos semicondutores. Transistores bipolares. O transistor como fonte de corrente. Circuitos de polarização. Amplificadores operacionais ideais. Circuitos com amplificadores operacionais. Amplificadores de potência e fontes de alimentação. Simulação e projeto de placas de circuito impresso com softwares profissionais.",
+        "reqs": [
+            [
+                {
+                    "code": "TT410",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT605",
+            "TT705",
+            "TT706",
+            "TT710"
+        ]
+    },
+    {
+        "code": "TT516",
+        "name": "Microcontroladores I",
+        "credits": 4,
+        "syllabus": "Arquitetura e Princípios de Operação de microcontroladores. Interfaces. Projeto com Microcontroladores.",
+        "reqs": [
+            [
+                {
+                    "code": "TT302"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT615"
+        ]
+    },
+    {
+        "code": "TT517",
+        "name": "Instalações Elétricas",
+        "credits": 2,
+        "syllabus": "Elementos e visão do planejamento de uma instalação elétrica. Dispositivos de proteção e controle dos circuitos. Estudos para projeto elétrico de um edifício. Automação predial. Prédios inteligentes.",
+        "reqs": [
+            [
+                {
+                    "code": "TT311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT550",
+        "name": "Economia e Finanças",
+        "credits": 4,
+        "syllabus": "Introdução à Economia; economia política e marxista. Introdução à teoria do consumidor e teoria do mercado. Introdução à engenharia econômica. Tipos de investimento e métodos de análise de investimento."
+    },
+    {
+        "code": "TT601",
+        "name": "Gestão Empreendedora",
+        "credits": 2,
+        "syllabus": "Empreendedorimo, ética profissional, diagnóstico empresarial, modelos de avaliação econômico-financeiros. Plano estratégico, modelos de avaliação de impacto social e ambiental: balanço social."
+    },
+    {
+        "code": "TT602",
+        "name": "Comunicações Móveis",
+        "credits": 4,
+        "syllabus": "Sistemas de comunicações móveis: Técnicas de predição de sinais. Caracterização do canal rádio móvel em ambientes internos e externos. Estudos de interferência. Modulação e sistemas de transmissão: Cálculo de relação S/N em ambiente com desvanecimento. Métodos de acessos em comunicações móveis. Projetos de sistemas móveis. Telefonia móvel celular: descrição dos sistemas, protocolos e sinalização, padrões. Noções de sistemas de comunicação móveis por satélite. Redes de comunicações pessoais.",
+        "reqs": [
+            [
+                {
+                    "code": "TT507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT603",
+        "name": "Comunicações Ópticas",
+        "credits": 4,
+        "syllabus": "Introdução. Propagação em fibras ópticas: degradação de sinal. Sistemas Ponto-Ponto. Sistemas WDM. Tendências Evolutivas. Capacidade e fatores limitantes. Balanço de Potência. Critérios de Projeto. Enlaces com Amplificadores Ópticos. Compensação de dispersão. Efeitos não-lineares. Sistemas Ópticos em rede. Tipos de serviços. Redes locais. Redes metropolitanas. Redes CATV. Redes Integradas. Comutação Óptica. Medidas e caracterização de enlaces. Caracterização de fontes, receptores e sistemas. Ruídos. Tópicos Avançados.",
+        "reqs": [
+            [
+                {
+                    "code": "TT503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT604",
+        "name": "Processamento Digital de Sinais",
+        "credits": 4,
+        "syllabus": "Estrutura de realização de sistemas discretos: equação de diferença e função de transparência, resposta em frequência e estabilidade. Filtros Digitais: classificação e estruturas de realização.Transformada de Fourier: transformada discreta de Fourier e convolução circular, algoritmo da transformada rápida de Fourier e aplicações. Efeitos de quantização de coeficientes e variáveis. Projeto de filtros digitais: projeto de filtros recursivos, projeto de filtros não recursivos, considerações práticas para implementação.",
+        "reqs": [
+            [
+                {
+                    "code": "TT514"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT605",
+        "name": "Eletrônica Analógica II",
+        "credits": 4,
+        "syllabus": "Princípios de operação e características de FETs. Polarização de FETs. Configurações típicas. Acoplamento entre estágios amplificadores. Resposta de frequência de amplificadores. Amplificadores de potência de AF. Osciladores. Temporizador. Multivibrador astável. Schmitt trigger. Simulação e projeto de placas de circuito impresso com softwares profissionais.",
+        "reqs": [
+            [
+                {
+                    "code": "TT515"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT804"
+        ]
+    },
+    {
+        "code": "TT606",
+        "name": "Ondas Guiadas",
+        "credits": 4,
+        "syllabus": "Teoria de Linhas de Transmissão: Equação de Onda, Tensão e Corrente na Linha, Constante de Propagação, Impedância Característica, Coeficiente de Reflexão, Razão de Onda Estacionária, Carta de Smith. Casamento de Impedâncias. Guias de Ondas; Modos TE e TM, Perdas em Guias de Ondas, Dispersão. Cavidades Ressonantes. Outros Dispositivos. Parâmetros S. Matriz de parâmetros S. Guias de Ondas Dielétricos: Fibras Ópticas, Propagação, Atenuação e Dispersão em Fibras Ópticas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT511"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT705",
+            "TT706",
+            "TT708",
+            "TT708",
+            "TT710"
+        ]
+    },
+    {
+        "code": "TT607",
+        "name": "Laboratório de Ondas Guiadas",
+        "credits": 2,
+        "syllabus": "Técnicas de Medições em Linhas de Transmissão e Guias de Ondas. Medições no domínio do tempo: tempo de trânsito na linha, impedância característica, velocidade de propagação, permissividade relativa do dielétrico. Medições de indutância e capacitância. Diagrama Zig-Zag. Medições no domínio da frequência: defasagem da linha de Transmissão. Medição da atenuação vs frequência. Introdução ao Analisador Vetorial de Redes e ao Refletômetro Óptico. Manuseio de fibras ópticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "TT511"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT608",
+        "name": "Laboratório de Sistemas de Telecomunicações",
+        "credits": 2,
+        "syllabus": "Projetos assistidos por computador de sistemas e subsistemas de telecomunicações. Simulação e/ou Projetos das modulações analógicas e digitais de AM, FM e Fase. Projetos de Amplificadores de RF. Projetos de Radioenlaces. Simulação de redes de alta velocidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "TT302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT609",
+        "name": "Sistemas de Telecomunicações",
+        "credits": 4,
+        "syllabus": "Modulações analógicas e digitais. Temas escolhidos de Rádio Digital. Comunicação via satélite, arquitetura dos transponders e da estação terrena. Temas escolhidos de transmissão digital, hierarquias digitais PDH e SDH, Sistemas Digitais de Radioenlaces por Micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT315"
+                },
+                {
+                    "code": "TT413"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT704",
+            "TT901",
+            "TT903"
+        ]
+    },
+    {
+        "code": "TT613",
+        "name": "Estágio Supervisionado",
+        "credits": 4,
+        "syllabus": "Estágio supervisionado na área de Telecomunicações.\nObs.: Não é responsabilidade da Unicamp providenciar estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "TT505"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT614",
+        "name": "Trabalho de Graduação Interdisciplinar",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de trabalho de pesquisa na área de Telecomunicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "TT506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT615",
+        "name": "Microcontroladores II",
+        "credits": 2,
+        "syllabus": "Arquitetura de microcontroladores. Assembly, diassembly - memória e portas (E/S). Transmissão serial assíncrona. Programação em linguagem C e Real Time Clock (RTC). Sistema operacional embarcado. Projetos utilizando microcontroladores.",
+        "reqs": [
+            [
+                {
+                    "code": "TT516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT701",
+        "name": "Propagação de Ondas Eletromagnéticas Antenas",
+        "credits": 4,
+        "syllabus": "Tipos de Propagação. Propagação no espaço livre. Propagação na atmosfera. Influência do solo e de obstáculos. Propagação ionosférica. Efeitos da atmosfera na propagação de freqüência e de ondas milimétricas. Características Gerais das Antenas. Antenas Lineares de onda estacionária. Antenas de ondas caminhantes. Redes de antenas. Síntese de redes de antenas. Antenas de abertura. Antenas com refletores. Sistemas de alimentação das antenas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT511"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT704",
+        "name": "Comunicações Móveis",
+        "credits": 4,
+        "syllabus": "Sistemas de Comunicações Móveis: Introdução. Técnicas de predição de sinais: modelos de propagação e cobertura estatística. Caracterização do canal rádio móvel em ambientes internos e externos. Estudos de interferência. Modulação e sistemas de transmissão: Cálculo de relação S/N em ambiente com desvanecimento. Métodos de acesso em comunicações móveis. Projetos de sistemas móveis: conceitos iniciais, engenharia de tráfego e capacidade do sistema, reuso de requência e algoritmos de alocação de canais, estratégias de hand-off. Telefonia Móvel Celular: descrição dos sistemas, protocolos e sinalização, padrões. Noções de sistemas de comunicação móveis por satélite. Redes de comunicações pessoais.",
+        "reqs": [
+            [
+                {
+                    "code": "TT609"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT705",
+        "name": "Tecnologias de Radiofrequência e Micro-Ondas",
+        "credits": 4,
+        "syllabus": "Filtros, Casadores de Impedância, Transmissores, Receptores, Amplificadores Sintonizados de Baixo Sinal, Osciladores de RF. Modulação Analógica em Amplitude, Frequência e Fase, Misturadores, PLL e Sintetizadores de Frequência. Parâmetros de Espalhamento (parâmetro S). Dispositivos Passivos de Micro-ondas. Ruído. Diodos de Micro-ondas. Amplificadores de RF e Micro-ondas. Transistorizados. Osciladores de Micro-ondas a Semicondutores. Válvulas de Micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT515",
+                    "partial": true
+                },
+                {
+                    "code": "TT606",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT706",
+        "name": "Laboratório de Tecnologias de Radiofrequência e Micro-Ondas",
+        "credits": 2,
+        "syllabus": "Técnicas de Medições em Dispositivos de Radiofrequência e Micro-ondas. Utilização do Analisador Vetorial de Redes, Analisador de Espectros e outros equipamentos de Radiofrequência e Micro-ondas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "TT515",
+                    "partial": true
+                },
+                {
+                    "code": "TT606",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT707",
+        "name": "Conversão de Energia",
+        "credits": 2,
+        "syllabus": "Circuitos magnéticos. Transformadores. Princípios de conversão eletromecânica de energia. Introdução às máquinas elétricas rotativas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT410",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT708",
+        "name": "Dispositivos Fotônicos",
+        "credits": 2,
+        "syllabus": "Introdução. Fibras Ópticas: dispersão, atenuação, efeitos não-lineares. Cabos Ópticos, processos de construção e aplicações. Conectores Ópticos. Emendas, Acopladores. Geradores e receptores Ópticos. Fotodetectores. Amplificação Óptica. Óptica integrada. Elementos de redes ópticas passivas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT416"
+                },
+                {
+                    "code": "TT606",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "TT420"
+                },
+                {
+                    "code": "TT606",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TT916"
+        ]
+    },
+    {
+        "code": "TT709",
+        "name": "Telefonia e Comutação",
+        "credits": 4,
+        "syllabus": "Introdução. Comutação de circuitos: técnicas de comutação, tipos de centrais, hierarquia de centrais. Tráfego telefônico. Dimensionamento de centrais. Exemplos de equipamentos. Introdução à comutação de pacotes e de células. Análise comparativa entre os diversos tipos de comutação e suas aplicações típicas. Técnicas de sinalização. Programação de centrais telefônicas. Projetos de sistemas telefônicos.",
+        "reqs": [
+            [
+                {
+                    "code": "TT315"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT710",
+        "name": "Tecnologias de Radiofrequência e Micro-Ondas",
+        "credits": 6,
+        "syllabus": "Características dos projetos de radiofrequência e micro-ondas, Subsistemas de Transmissão e Recepção de Radiofrequência, Aplicações da Radiofrequência e as Micro-ondas, Comportamento dos componentes em radiofrequência, circuitos ressonantes, definições básicas, conversão serie-paralelo e paralelo-serie, acoplamento de circuitos ressonantes, acoplamento capacitivo e indutivo, acoplamento de circuitos ativos, técnicas de transformação de impedâncias, casamento de impedância com dois elementos,  seções L, casamento de impedância com 3 elementos, redes tipo T e tipo Pi,  divisor capacitivo, divisor indutivo,  casamento de impedâncias com múltiplos elementos, parâmetros de redes, parâmetros Z e Y, parâmetros Híbridos, parâmetros de transmissão, a matriz ABCD,  parâmetros S, conceitos de sínteses de redes, rede simétrica, rede equivalente, rede dual, Projeto de Filtros, Dispositivos Passivos de Micro-ondas, Dispositivos Ativos, Amplificadores de RF, Amplificadores Lineares de Baixo Ruído (LNA), Osciladores, Misturadores de Frequência, Sintetizadores de Frequência, Familiarização com Software de Simulação de Projetos de RF e Micro-ondas, Técnicas de Medições em Radiofrequência e Micro-ondas, O Analisador Vetorial de Redes (VNA), O Analisador de Espectros. Outros equipamentos de Medidas em RF e Micro-ondas.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "TT515",
+                    "partial": true
+                },
+                {
+                    "code": "TT606"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT800",
+        "name": "Atividades de Intercâmbio",
+        "credits": 12,
+        "syllabus": "Participação em Intercâmbio Acadêmico."
+    },
+    {
+        "code": "TT801",
+        "name": "Gestão Empreendedora",
+        "credits": 2,
+        "syllabus": "Empreendedorismo e tipo psicológico do empreendedor. Gestão da Inovação e sustentabilidade. Análise estratégica. Fatores críticos de sucesso e vantagem competitiva. Análise de cenários, técnicas de mercado para novos produtos. Análise financeira de investimento e formação de preço de venda. Composição de plano de negócios."
+    },
+    {
+        "code": "TT802",
+        "name": "Banco de Dados I",
+        "credits": 4,
+        "syllabus": "Fundamentos de sistemas de bancos de dados e conceitos relacionados com a estrutura conceitual e lógica dos bancos de dados. Modelos de dados e sua aplicação no desenvolvimento de projetos de bancos de dados. Introdução a Sistemas de Gerenciamento de Banco de Dados.",
+        "reqs": [
+            [
+                {
+                    "code": "TT214"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT803",
+        "name": "Automação e Controle I",
+        "credits": 4,
+        "syllabus": "Análise e síntese de sistemas contínuos e discretos. Obtenção de diagrama de bloco e função de transferência. Modelos e simulação. Controle realimentado. Estabilidade e otimização. Critério de estabilidade de Routh. Análise por frequência. Análise pelo lugar das raízes. Aplicações em filtros e em sistemas industriais. Modos de controle. Controlador programável e sistemas de controle digital. Transdutores e Interfaces.",
+        "reqs": [
+            [
+                {
+                    "code": "TT410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT804",
+        "name": "Fundamentos de Eletrônica de Potência",
+        "credits": 4,
+        "syllabus": "Potência. Retificadores. Conversores. Fontes de Alimentação. Inversores. Conversores Ressonantes. Acionamento, proteção e dissipação de calor.",
+        "reqs": [
+            [
+                {
+                    "code": "TT605"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT901",
+        "name": "Transmissão de Sinais",
+        "credits": 4,
+        "syllabus": "Fundamentos da teoria estatística da decisão. Análise no espaço de sinais. Receptores Ótimos. Capacidade de Canal. Codificação de Canal. Modulação e codificação. Protocolos ARQ. Sincronização. Equalização. Introdução à Criptografia.",
+        "reqs": [
+            [
+                {
+                    "code": "TT609"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT902",
+        "name": "Introdução ao Trabalho de Conclusão de Curso",
+        "credits": 2,
+        "syllabus": "Definir o Plano do Trabalho de Conclusão do Curso de Engenharia de Telecomunicações, contendo a revisão bibliográfica sobre o trabalho a ser desenvolvido, sob a orientação de um professor."
+    },
+    {
+        "code": "TT903",
+        "name": "Conceitos de Televisão",
+        "credits": 4,
+        "syllabus": "Introdução. Sistemas de TV acromáticos de baixa resolução e sinais envolvidos. Sistemas de TV a cores e sinais envolvidos. Modulação e demodulação de sinais de TV em AM-VSB. Transmissores e receptores e sua características. Dimensionamento de enlaces em UHF e SHF. Modulação demodulação FM. Análise e dimensionamento de TV a cabo. Fundamentos de TV de alta definição – HDTV: Principais sistemas, sinais de áudio e vídeo, digitalização, compressão, correção de erro e multiplexação.",
+        "reqs": [
+            [
+                {
+                    "code": "TT609"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT904",
+        "name": "Economia e Finanças",
+        "credits": 4,
+        "syllabus": "Modelo Keynesiano, Governo: Política Orçamentária, Setor Externo, Mercado: Inflação e Emprego. Análise microeconômica, planejamento econômico. Capacidade de geração de serviços. Noções de custos, formação de preço de venda. Aspectos societários e trabalho autônomo, aspectos trabalhistas, regimes tributários. Gestão do conhecimento e da informação. Sistemas de apoio à decisão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT905",
+        "name": "Programação Web",
+        "credits": 2,
+        "syllabus": "Programação para a web com Servlets, JSP e JSF. Desenvolvimento de sistemas estruturado segundo o padrão MVC (Model-View-Controller).",
+        "reqs": [
+            [
+                {
+                    "code": "TT314"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT907",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 4,
+        "syllabus": "Realização do Trabalho de Conclusão do Curso de Engenharia de Telecomunicações com o objetivo de aprofundar e aplicar os conhecimentos específicos das disciplinas, sob orientação do professor."
+    },
+    {
+        "code": "TT908",
+        "name": "Projetos de Extensão Comunitária",
+        "credits": 2,
+        "syllabus": "Assuntos relevantes para a educação comunitária e inclusão social."
+    },
+    {
+        "code": "TT909",
+        "name": "Ciências do Ambiente",
+        "credits": 2,
+        "syllabus": "População humana e recursos naturais renováveis e não renováveis. Interação entre o homem e seu ambiente natural ou construído, rural ou urbano. O ambiente como ameaça ao homem: predação, competição, doença ambiental. Ambientes brasileiros terrestres e aquáticos. Análise de ambientes: diagramas energéticos e modelos. O homem como ameaça ao ambiente: população, energia, clima, ecotoxicologia, extinção. Direito ecológico e política ambiental. Responsabilidade do profissional à sociedade e ao ambiente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT910",
+        "name": "Gestão Empreendedora",
+        "credits": 2,
+        "syllabus": "Empreendedorismo, ética profissional, diagnóstico empresarial, modelos de avaliação econômico-financeiros. Plano estratégico, modelos de avaliação de impacto social e ambiental: balanço social.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT911",
+        "name": "Administração de Empresas",
+        "credits": 4,
+        "syllabus": "Os primórdios da Administração. Influências. As escolas Clássica, Científica e Comportamentalista. A era modernista, a escola contemporânea. Organizações que pensam. A estrutura corporativa. Empreendedorismo. Regulamentação do Setor: LGT, Regulamentação de Usos, Serviços, Interesse Público e Societário. Contratos e Distratos, Arrecadação de Receitas. Plano de negócios.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT912",
+        "name": "Relações Humanas",
+        "credits": 2,
+        "syllabus": "Das ciências do comportamento: individual e social. Princípios éticos e hierárquicos. Da divisão das pessoas: naturais e jurídicas. Da responsabilidade civil. Direitos Humanos e suas implicações nas relações individuais. Noções de Direito Civil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT913",
+        "name": "Ergonomia-Aplicação Prática ao Trabalho",
+        "credits": 2,
+        "syllabus": "Conceitos sobre o estudo do espaço. Ferramentas e técnicas de trabalho adequadas às capacidades humanas. Técnicas de avaliação de condições ambientais pré-existentes. (EQ ST090).",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT914",
+        "name": "Estágio Supervisionado",
+        "credits": 12,
+        "syllabus": "Estágio desenvolvido de acordo com regras internas da Faculdade de Tecnologia.\nObs.: Não é responsabilidade da Unicamp procurar e obter estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT915",
+        "name": "Atividades Complementares",
+        "credits": 8,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TT916",
+        "name": "Comunicações Ópticas",
+        "credits": 4,
+        "syllabus": "Sistemas Ponto-Ponto. Sistemas WDM. Tendências Evolutivas. Capacidade e fatores limitantes. Balanço de Potência. Critérios de Projeto. Enlaces com Amplificadores Ópticos. Compensação de dispersão. Efeitos não-lineares. Sistemas Ópticos em rede. Tipos de serviços. Redes locais. Redes metropolitanas. Redes CATV. Redes Integradas. Comutação Óptica. Medidas e caracterização de enlaces. Caracterização de fontes, receptores e sistemas. Ruídos. Dispositivos e subsistemas fotônicos avançados. Simulação de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT708"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,814 @@
+[
+    {
+        "code": "ER001",
+        "name": "Tópicos Especiais em Engenharia de Produção I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "ER002",
+        "name": "Tópicos Especiais em Engenharia de Produção II",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "ER003",
+        "name": "Tópicos Especiais em Engenharia de Produção III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "ER004",
+        "name": "Tópicos Especiais em Engenharia de Produção IV",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "ER005",
+        "name": "Tópicos em Pesquisa Operacional I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "ER006",
+        "name": "Tópicos em Pesquisa Operacional II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "ER007",
+        "name": "Tópicos em Pesquisa Operacional III",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "ER008",
+        "name": "Tópicos em Pesquisa Operacional IV",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "ER010",
+        "name": "Trabalho de Graduação",
+        "credits": 4,
+        "syllabus": "Trabalho de caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas do curso de Engenharia de Produção/Manufatura. Este trabalho deverá ser uma continuação do trabalho iniciado na disciplina ER902, e será desenvolvido sob a orientação de um professor, com apresentação final escrita, analisada por, ao menos, dois professores de áreas relevantes do trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "ER902"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER011",
+        "name": "Estágio II",
+        "credits": 9,
+        "syllabus": "Estudos de situações reais em engenharia, com acompanhamento de projetos, especialização, fabricação, montagem e implementação de sistemas junto a empresas ou órgãos credenciados pela Universidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER012",
+        "name": "Trabalho de Graduação II",
+        "credits": 4,
+        "syllabus": "Trabalho de caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas do curso de Engenharia de Produção/Manufatura. Este trabalho deverá ser uma continuação do trabalho iniciado na disciplina ER902, e será desenvolvido sob a orientação de um professor, com apresentação final escrita, analisada por, ao menos, dois professores de áreas relevantes do trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "ER902"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER120",
+        "name": "Programação Inteira",
+        "credits": 4,
+        "syllabus": "Modelagem. Transformações usando variáveis 0-1. Formulações melhores usando pré-processamento. Modelos de problemas de otimização combinatorial. Estratégias clássicas à solução. Branch and Cut. Branch and Price. Solução via heurística, relaxação e particionamento. Soluções com software comercial.",
+        "reqs": [
+            [
+                {
+                    "code": "ER401"
+                }
+            ],
+            [
+                {
+                    "code": "LE901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER130",
+        "name": "Programação Não-Linear",
+        "credits": 4,
+        "syllabus": "Revisão de cálculo e álgebra linear. Convexidade. Aplicações. Otimização numérica irrestrita. Condições de Otimalidade e Dualidade. Otimização numérica restrita.",
+        "reqs": [
+            [
+                {
+                    "code": "ER401"
+                }
+            ],
+            [
+                {
+                    "code": "LE901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER140",
+        "name": "Métodos Computacionais em Álgebra Linear",
+        "credits": 4,
+        "syllabus": "Aspectos teóricos e computacionais de: sistemas lineares, fatoração LU, fatoração de Cholesky, espaços vetoriais, independência linear, base e dimensão, os quatro subespaços fundamentais, transformações lineares, ortogonalidade, quadrados mínimos, fatoração QR, autovalores e autovetores. Uso da linguagem Matlab.",
+        "reqs": [
+            [
+                {
+                    "code": "ER401"
+                }
+            ],
+            [
+                {
+                    "code": "LE402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER160",
+        "name": "Logística e Operações Globais",
+        "credits": 4,
+        "syllabus": "Compreendendo a cadeia de suprimentos. Gestão do Comércio Internacional. A magnitude da logística global: mercados globais; elementos de competitividade; operações logísticas. Gestão de demanda. Regimes aduaneiros especiais e o papel da aduana na Gestão da Cadeia de Suprimentos com âmbito global. Incoterms. Gestão de risco em cadeias de suprimentos."
+    },
+    {
+        "code": "ER190",
+        "name": "Análise Multivariada de Dados",
+        "credits": 4,
+        "syllabus": "O que é análise multivariada. Conceitos básicos em análise multivariada. Diretrizes para construção de modelos multivariados: definição do problema, dos objetivos e da técnica, plano de análise, avaliação das suposições inerente, estimação do modelo e ajuste, interpretação e validação do modelo. Descrição geral de técnicas multivariadas. Aplicação e desenvolvimento de técnicas como:  Análise Fatorial; Análise de Agrupamentos e Equações Estruturais (SEM).",
+        "reqs": [
+            [
+                {
+                    "code": "GL400"
+                }
+            ],
+            [
+                {
+                    "code": "LE409"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER200",
+        "name": "Gestão Ambiental",
+        "credits": 2,
+        "syllabus": "Conceituação de Gestão Ambiental, Gestão Sustentável e Desenvolvimento Sustentável. Sistema de Gerenciamento Ambiental. Desempenho sustentável de organizações públicas e privadas e auditoria ambiental. Políticas ambiental e para o desenvolvimento sustentável. Indicadores de sustentabilidade. Ferramentas e Metodologias de Gestão Sustentável. Normas, selos e certificações socioambientais. Análise de riscos. Gestão Sustentável na Cadeia de Suprimentos. Questões atuais de gestão sustentável.",
+        "reqs": [
+            [
+                {
+                    "code": "LE105"
+                }
+            ],
+            [
+                {
+                    "code": "NC400"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER201",
+        "name": "Gestão Sustentável",
+        "credits": 4,
+        "syllabus": "Conceito de gestão sustentável e desenvolvimento sustentável. Planejamento, gestão e desempenho sustentável de organizações públicas e privadas. Políticas e legislação para o desenvolvimento sustentável. Indicadores de sustentabilidade. Ferramentas e metodologias de gestão sustentável. Questões atuais de gestão sustentável.",
+        "reqs": [
+            [
+                {
+                    "code": "NC400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER340"
+        ]
+    },
+    {
+        "code": "ER210",
+        "name": "Aprendizado Estatístico",
+        "credits": 4,
+        "syllabus": "Paradigma de aprendizado supervisionado. Métodos lineares de regressão. Métodos lineares de classificação. Redes Neurais. Máquinas de vetores suporte. Decisão Bayesiana. Paradigma de aprendizado não-supervisionado: Agrupamento de dados (clustering). Principais Métodos de Análise de Variáveis Latentes. Análise de Fatores. Análise de Componentes Principais. Análise de Componentes Independentes.",
+        "reqs": [
+            [
+                {
+                    "code": "GL400"
+                }
+            ],
+            [
+                {
+                    "code": "LE409"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER220",
+        "name": "Probabilidade e Processos Estocásticos",
+        "credits": 4,
+        "syllabus": "Teoria de Probabilidade. Variáveis Aleatórias discretas e contínuas. Momentos e função característica. Variáveis multidimensionais. Correlação e Covariância. Funções de variáveis aleatórias. Processos estocásticos estacionários e ergódicos. Função de autocorrelação. Cadeias de Markov. Introdução à teoria de filas. Introdução às séries temporais.",
+        "reqs": [
+            [
+                {
+                    "code": "GL400"
+                }
+            ],
+            [
+                {
+                    "code": "LE409"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER240",
+        "name": "Introdução à Meta-Heurística",
+        "credits": 4,
+        "syllabus": "Origens. Teoria da complexidade. Solução de problemas Np-difíceis. Métodos construtivos. Representação de Soluções. Vizinhanças. Busca local. Meta-heurísticas: Simulated annealing, Busca tabu, Path-relinking, GRASP, VNS/ VND, Algoritmos genéticos, Colônias de formigas. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "ER401"
+                }
+            ],
+            [
+                {
+                    "code": "LE901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER250",
+        "name": "Scheduling",
+        "credits": 4,
+        "syllabus": "Modelos determinísticos. Modelos com máquina única. Modelos com máquinas em pararelo. Flow Shop determinístico e flexível. Open Shop. Esquematização de Job Shop. Modelos estocásticos. Modelos com máquina única. Modelos com máquinas em paralelo. Flow Shop, Open Shop e Job Shop estocásticos.",
+        "reqs": [
+            [
+                {
+                    "code": "ER401"
+                }
+            ],
+            [
+                {
+                    "code": "LE901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER260",
+        "name": "Planejamento Avançado da Cadeia de Suprimentos",
+        "credits": 4,
+        "syllabus": "Gestão de Cadeia de Suprimentos. Sistemas de suporte à decisão em cadeia de suprimentos. Planejamento e controle da produção. Hierarquia de planejamento: planejamento estratégico, tático e operacional. Sistemas de otimização e abordagens multiagentes. Processo de implementação.",
+        "reqs": [
+            [
+                {
+                    "code": "LE703"
+                }
+            ],
+            [
+                {
+                    "code": "MG500"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER270",
+        "name": "Mineração de Dados",
+        "credits": 4,
+        "syllabus": "Pré-processamento de dados. Redução de Dimensionalidade: Projeção Aleatória, PCA, outros métodos. Métodos para Seleção de Atributos. Agrupamentos de Dados: Conceitos e aplicações. Introdução ao aprendizado de máquina. Principais métodos de classificação de padrões. Introdução às redes neurais artificiais. Classificador SVM (Support Vector Machine).",
+        "reqs": [
+            [
+                {
+                    "code": "GL400"
+                }
+            ],
+            [
+                {
+                    "code": "LE409"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER280",
+        "name": "Otimização Multi-Critérios",
+        "credits": 4,
+        "syllabus": "Otimização com multi-critério, espaço das decisões, espaço das restrições, classificação dos problemas de otimização multi-critérios, soluções eficientes e pontos não-dominados, limites nos conjuntos não-dominados, soluções fracamente eficientes, eficiência própria, não-dominância própria, método da soma ponderada, técnicas de escalarização, métodos de não-escalarização, programação linear multi-critério, método simplex multi-objetivo, otimização combinatória multi-objetivo.",
+        "reqs": [
+            [
+                {
+                    "code": "ER401"
+                }
+            ],
+            [
+                {
+                    "code": "LE901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER300",
+        "name": "Economia dos Transportes",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de Economia aplicada aos Transportes. Caracterização dos sistemas de transporte. Investimentos em transportes. Intermodalidade. Corredores de transporte. Políticas de transporte. Fundamentos da Regulação de Transportes.",
+        "reqs": [
+            [
+                {
+                    "code": "LE703"
+                }
+            ],
+            [
+                {
+                    "code": "MG500"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER320",
+        "name": "Produção Enxuta",
+        "credits": 4,
+        "syllabus": "Mapeamento do Fluxo de Valor. Sistemas Kanban. Os Sete Desperdícios. Os 14 princípios do Sistema Toyota de Produção. Fluxo Contínuo. Fluxo Puxado. Evento Kaizen. Gestão Visual. 5S.",
+        "reqs": [
+            [
+                {
+                    "code": "LE703"
+                }
+            ],
+            [
+                {
+                    "code": "MG500"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER340",
+        "name": "Produção Sustentável",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de sustentabilidade e desenvolvimento sustentável. Indicadores de sustentabilidade. Desenvolvimento de produtos e processos sustentáveis. Estratégias e ferramentas para gestão estratégica. Sustentabilidade na cadeia produtiva. Tendências em produção sustentável.",
+        "reqs": [
+            [
+                {
+                    "code": "ER201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER350",
+        "name": "Planejamento e Análise de Experimentos",
+        "credits": 4,
+        "syllabus": "Funções Estatísticas. Testes de hipóteses e intervalos de confiança. Procedimento para  o planejamento experimental. Planejamentos por blocos, latinos, greco-latinos e fatoriais. Correlação. Análise de resultados experimentais. Método de Taguchi. Aplicação do planejamento experimental na metodologia Seis Sigma.",
+        "reqs": [
+            [
+                {
+                    "code": "GL400"
+                }
+            ],
+            [
+                {
+                    "code": "LE409"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER360",
+        "name": "Modelagem e Simulação de Sistemas de Engenharia",
+        "credits": 4,
+        "syllabus": "Introdução à modelagem de sistemas interdisciplinares (multi-domínio). Diagrama de blocos: conceito de nós, blocos dinâmicos e algorítmicos, multiplexadores, fontes e saídas. Equações de estado. Fluxos de energia e sinais. Aplicações em transferência de calor, sistemas hidráulicos, vibrações de sistemas mecânicos e circuitos eletrônicos. Simulação dinâmica multi-corpos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER390",
+        "name": "Aplicações de Pesquisa Operacional em Finanças",
+        "credits": 4,
+        "syllabus": "Aplicações de Pesquisa Operacional nas atividades do Mercado Financeiro e de Capitais, nas Finanças Corporativas e nas Finanças Públicas. Carteiras de investimentos. Gestão de receitas. Análise de riscos. Alocação de recursos entre projetos. Decisões de financiamento. Market timing. Engenharia financeira. Análise multicritério em finanças.",
+        "reqs": [
+            [
+                {
+                    "code": "GL501"
+                }
+            ],
+            [
+                {
+                    "code": "LE609"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER400",
+        "name": "Introdução a Probabilidade",
+        "credits": 4,
+        "syllabus": "Probabilidade condicional e independência, Teorema de Bayes. Variável aleatória. Função de distribuição acumulada. Funções densidade discreta e contínua. Momentos e função geradora de momentos. Desigualdade de Tchebyshev. Distribuições discretas: Binomial, Hipergeométrica, Pascal e Poisson. Distribuições contínuas: Uniforme, Beta, Normal, Gama (exponencial e Qui-quadrado). Transformações de Variáveis aleatórias."
+    },
+    {
+        "code": "ER401",
+        "name": "Pesquisa Operacional",
+        "credits": 4,
+        "syllabus": "A pesquisa operacional como método de apoio à decisão. Problemas de otimização. Problemas de programação linear. Solução gráfica e noções geométricas do método simplex. Uso de softwares para resolução de PL. Noções de dualidade. Métodos de apoio à decisão multicritério. Análise envoltória de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "GL201"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER120",
+            "ER130",
+            "ER140",
+            "ER240",
+            "ER250",
+            "ER280"
+        ]
+    },
+    {
+        "code": "ER402",
+        "name": "Economia para Engenharia",
+        "credits": 4,
+        "syllabus": "Mecanismo básico de funcionamento dos mercados. Oferta e Demanda. Elasticidade. A função de produção e os custos da firma. Os agregados macroeconômicos e as diferentes medidas do produto. Trade-off entre inflação e desemprego e a curva de Phillips. Inflação, taxa de juros e taxa de câmbio. Moeda, bancos e crédito.",
+        "reqBy": [
+            "ER704"
+        ]
+    },
+    {
+        "code": "ER450",
+        "name": "Introdução ao Aprendizado de Máquina e à Mineração de Dados",
+        "credits": 4,
+        "syllabus": "Paradigma de aprendizado supervisionado: Métodos lineares de regressão. Métodos lineares de classificação. Classificadores não-lineares. Paradigma de aprendizado não-supervisionado: Agrupamento de dados (clustering); Principais Métodos de Análise de Variáveis Latentes: Análise de Componentes Principais e Análise de Componentes Independentes"
+    },
+    {
+        "code": "ER460",
+        "name": "Métodos de Apoio à Decisão Multicritério",
+        "credits": 4,
+        "syllabus": "Introdução à tomada de decisão multicritério e seus problemas típicos (escolha, categorização e priorização). Noções de otimização multiobjetivo. Métodos baseados em comparações par a par. Métodos baseados na teoria de utilidade. Métodos alternativos de agregação. Tomada de decisão com base em séries históricas utilizando métodos de aprendizado de máquina. Aplicação da análise envoltória de dados em decisão. Dificuldades práticas na aplicação de métodos multicritérios de apoio à decisão."
+    },
+    {
+        "code": "ER500",
+        "name": "Programação Linear",
+        "credits": 4,
+        "syllabus": "Formulação de problemas de programação linear. Resolução Gráfica. Método Simplex. Teoria de Dualidade. Análise de sensibilidade e análise paramétrica. Algoritmos de pontos interiores.",
+        "reqs": [
+            [
+                {
+                    "code": "LE402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER501",
+        "name": "Termodinâmica e Aplicações",
+        "credits": 4,
+        "syllabus": "Operações e processos unitários. Estequiometria. Conservação de Massa e Energia. Entropia. Equações de Estado de Substâncias Puras. Relações entre grandezas Termodinâmicas. Caracterização do Equilíbrio.",
+        "reqs": [
+            [
+                {
+                    "code": "LE201"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER601"
+        ]
+    },
+    {
+        "code": "ER600",
+        "name": "Operações Unitárias",
+        "credits": 4,
+        "syllabus": "Processos e equipamentos para separação de misturas heterogêneas. Processos e equipamentos envolvendo troca térmica. Processos e equipamentos para separação de misturas homogêneas.",
+        "reqs": [
+            [
+                {
+                    "code": "LE501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER601",
+        "name": "Introdução aos Processos Químicos",
+        "credits": 4,
+        "syllabus": "Descrição da indústria química. Desenvolvimento de processos químicos. Operações e processos unitários. Estequiometria. Conservação de Massa e Energia. Aplicações simples a processos de balanço de massa e energia combinadas.",
+        "reqs": [
+            [
+                {
+                    "code": "ER501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER602",
+        "name": "Operações Unitárias I",
+        "credits": 4,
+        "syllabus": "Equipamentos para o transporte de fluidos: bombas, válvulas, compressores. Dinâmica de partículas. Colunas de recheio. Fluidização. Transporte hidráulico e pneumático. Filtração. Sedimentação. Centrifugação. Tratamento e separação de sólidos. Precipitação eletrostática. Flotação. Agitação e mistura.",
+        "reqs": [
+            [
+                {
+                    "code": "LE501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER703"
+        ]
+    },
+    {
+        "code": "ER603",
+        "name": "Noções Gerais dos Processos de Manufatura",
+        "credits": 4,
+        "syllabus": "Conceitos gerais e classificação dos processos de manufatura: metalúrgicos e mecânicos. Noções de fundição e soldagem. Noções de usinagem convencional e não-convencional. Noções de conformação mecânica: forjamento, estampagem, extrusão, trefilação e laminação. Noções sobre metalurgia do pó. Noções sobre processamento de cerâmicos, polímeros e compósitos. Noções sobre tratamentos de superfície. Condições econômicas, otimização e custos envolvidos no processo.",
+        "reqs": [
+            [
+                {
+                    "code": "LE503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER700",
+        "name": "Seleção de Materiais",
+        "credits": 2,
+        "syllabus": "Critérios de seleção de materiais. Matriz de decisão ponderada. Seleção de materiais (metálicos, poliméricos, cerâmicos e conjugados) para atender às solicitações: resistência mecânica, fadiga, tenacidade, desgaste, altas temperaturas, corrosão. Trabalho prático de seleção de materiais junto à indústria.",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                },
+                {
+                    "code": "LE500"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER701",
+        "name": "Simulação de Sistemas",
+        "credits": 4,
+        "syllabus": "Processos estocásticos, geradores de números aleatórios. Noções de teoria de filas e de teorias de estoques. Simulação de sistemas discretos com lista de eventos futuros.",
+        "reqs": [
+            [
+                {
+                    "code": "LE303"
+                },
+                {
+                    "code": "LE409"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER702",
+        "name": "Síntese de Processos Químicos",
+        "credits": 4,
+        "syllabus": "Noções de reatores químicos e cinética de reações químicas. Reações homogêneas. Reações elementares. Reações complexas. O fenômeno catalítico. Desvio de comportamento ideal de reatores químicos. Reatores catalíticos homogêneos. Noções de síntese de processos químicos industriais.",
+        "reqs": [
+            [
+                {
+                    "code": "LE504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER703",
+        "name": "Operações Unitárias II",
+        "credits": 4,
+        "syllabus": "Trocadores de calor. Combustão e geração de vapor. Caldeiras. Evaporação. Cristalização. Refrigeração.",
+        "reqs": [
+            [
+                {
+                    "code": "ER602"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER805"
+        ]
+    },
+    {
+        "code": "ER704",
+        "name": "Engenharia Econômica",
+        "credits": 4,
+        "syllabus": "Cálculo Financeiro Básico: Juros Simples e Juros Compostos. Tabela Price. Método Hamburguês. Sistema de Amortização Francês. Análise de Investimentos. Conceitos financeiros básicos. Equivalência de capitais. Métodos para comparação de oportunidades de investimentos. Depreciação. Análise de substituição de equipamentos. A influência do imposto de renda na comparação de alternativas de investimentos. Avaliação financeira de projetos e empresas. Métodos matemáticos em gestão de risco.",
+        "reqs": [
+            [
+                {
+                    "code": "ER402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER800",
+        "name": "Gestão Estratégica",
+        "credits": 4,
+        "syllabus": "Contexto na globalização. Vantagem Competitiva. Questão para a definição de cenários. A teoria do planejamento estratégico. A formulação estratégica e as unidades de negócios. Análise estratégica do ambiente. Análise estratégica no nível da unidades de negócios; aspectos financeiros, market, fabricação e global. Pesquisa e desenvolvimento e recursos humanos. Estrutura organizacional e o processo de administração estratégica. Implementação do planejamento estratégico para as pequenas unidades de negócios.",
+        "reqs": [
+            [
+                {
+                    "code": "LE701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER801",
+        "name": "Desenvolvimento de Produtos",
+        "credits": 4,
+        "syllabus": "Introdução ao desenvolvimento de produtos. Estratégia de desenvolvimento de produtos. Engenharia simultânea. Análise do valor. Processo e metodologias de desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "LE701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER802",
+        "name": "Fluxo em Rede",
+        "credits": 4,
+        "syllabus": "Noções de teoria do grafos. Problemas de transporte, designação, caminho mínimo, fluxo máximo, fluxo com custo mínimo e árvore geradora mínima.",
+        "reqs": [
+            [
+                {
+                    "code": "LE701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER803",
+        "name": "Projeto de Arranjo Físico",
+        "credits": 4,
+        "syllabus": "Conceitos e metodologias para concepção e projeto de fábricas. Projeto e organização dos processos de produção, movimentação interna e armazenagem. Simulação computacional na concepção e avaliação de alternativas para o projeto de produção.",
+        "reqs": [
+            [
+                {
+                    "code": "LE703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER804",
+        "name": "Gestão de Cadeias Integradas de Suprimentos",
+        "credits": 2,
+        "syllabus": "Logística e sua importância; Supply Chain; O papel estratégico do Supply Chain, custos envolvidos na cadeia logística; O estoque e sua função; Gestão de estoque; Software de gestão do supply chain."
+    },
+    {
+        "code": "ER805",
+        "name": "Operações Unitárias III",
+        "credits": 4,
+        "syllabus": "Destilação. Extração. Lixiviação. Absorção. Operações em estágios e em colunas de recheio.",
+        "reqs": [
+            [
+                {
+                    "code": "ER703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER806",
+        "name": "Laboratório de Processos Químicos",
+        "credits": 4,
+        "syllabus": "Experimentos em fenômenos de transporte e operações unitárias mais relevantes na Indústria Química, com montagem, medição e interpretação de resultados.",
+        "reqs": [
+            [
+                {
+                    "code": "LE501"
+                },
+                {
+                    "code": "LE504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER807",
+        "name": "Análise e Simulação de Processos",
+        "credits": 4,
+        "syllabus": "Simulação de processos. Modelos matemáticos e físicos. Simulação de processos por computador. Identificação de parâmetros. Otimização de processos. Análise de dados de entrada/saída.",
+        "reqs": [
+            [
+                {
+                    "code": "LE501"
+                },
+                {
+                    "code": "LE504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER808",
+        "name": "Projeto de Fábrica",
+        "credits": 2,
+        "syllabus": "Conceitos e metodologias para concepção e projeto de fábricas. Projeto e organização dos processos de produção, movimentação interna e armazenagem. Simulação computacional na concepção e avaliação de alternativas para o projeto de produção.",
+        "reqs": [
+            [
+                {
+                    "code": "LE703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER900",
+        "name": "Análise Ergonômica do Trabalho",
+        "credits": 4,
+        "syllabus": "Ação ergonômica e análise do trabalho. Trabalho, tarefa e atividade. Método da Análise Ergonômica do Trabalho. Instrução da demanda e planejamento da intervenção ergonômica. Funcionamento da organização e características da população trabalhadora. Observações abertas e globais das situações de trabalho. Elaboração do pré-diagnóstico e das observações sistemáticas. Validação. Diagnóstico, transformação e acompanhamento das situações de trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "LE403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER901",
+        "name": "Estágio I",
+        "credits": 9,
+        "syllabus": "Estudos de situações reais em engenharia, com acompanhamento de projetos, especificação, fabricação, montagem e implementação de sistemas junto a empresas ou órgãos credenciados pela Universidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ER902",
+        "name": "Trabalho de Graduação I",
+        "credits": 4,
+        "syllabus": "Trabalho de caráter teórico e/ou prático, envolvendo os conhecimentos adquiridos nas disciplinas do curso de Engenharia de Produção/Manufatura. O trabalho será desenvolvido sob a orientação de um professor, com apresentação final escrita.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER010",
+            "ER012"
+        ]
+    },
+    {
+        "code": "ER903",
+        "name": "Controle Estatístico da Qualidade",
+        "credits": 4,
+        "syllabus": "Fundamentos de controle estatístico de processo. Gráficos de controle por variáveis. Gráficos de controle por atributos. Capacidade de processo. Gráficos especiais de controle. Planos de amostragem. Análise do sistema de medição. Melhoria da qualidade do processo. Delineamento de experimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "LE409"
+                },
+                {
+                    "code": "LE700"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,529 @@
+[
+    {
+        "code": "SL001",
+        "name": "Tópicos Especiais em Saúde I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "SL002",
+        "name": "Tópicos Especiais em Saúde II",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "SL003",
+        "name": "Tópicos Especiais em Saúde III",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "SL004",
+        "name": "Estágio em Organizações Estudantis",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e acompanhamento de atividades que contribuam para a formação acadêmica, profissional e humana do estudante em novos ambientes para além da sala de aula. Essas atividades englobam participação em projetos desenvolvidos por organizações estudantis com supervisão de um docente. O estágio é concluído com a apresentação de um relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL005",
+        "name": "Estágio em Organizações Estudantis",
+        "credits": 2,
+        "syllabus": "Desenvolvimento e acompanhamento de atividades que contribuam para a formação acadêmica, profissional e humana do estudante em novos ambientes para além da sala de aula. Essas atividades englobam participação em projetos desenvolvidos por organizações estudantis com supervisão de um docente. O estágio é concluído com a apresentação de um relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL006",
+        "name": "Projetos de Extensão: Estudos de Caso",
+        "credits": 4,
+        "syllabus": "Apresentação de projetos de extensão, realizados por organizações estudantis, como estudos de caso, visando discutir a articulação das atividades de extensão com os diferentes conteúdos curriculares das disciplinas dos cursos de graduação. Discussão dos projetos de extensão quanto aos seus impactos e prospecção de novos projetos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL100",
+        "name": "A Célula",
+        "credits": 4,
+        "syllabus": "Aspectos estruturais e funcionais de moléculas, células e tecidos. Métodos de estudo, organização de Pró e Eucarióticos. Organelas celulares; biologia do desenvolvimento; interações celulares e transporte; principais tecidos humanos. Ênfase nos principais aspectos do funcionamento normal e anormal dos diversos sistemas, nos níveis celular e molecular; conhecimentos básicos da estrutura e função celular; técnicas diagnósticas e terapêuticas. Integração entre conhecimentos de bioquímica, biologia celular e molecular, genética, fisiologia e biofísica, histologia e as diferentes áreas da saúde."
+    },
+    {
+        "code": "SL101",
+        "name": "Morfofisiologia Humana I",
+        "credits": 6,
+        "syllabus": "Estudo integrado de anatomia, histologia e fisiologia humana, abordando do ponto de vista estrutural e funcional o sistema nervoso e o músculo esquelético. Estudo dos princípios gerais de homeostasia; processos de transporte através de membranas celulares e bioeletrogênese.",
+        "reqBy": [
+            "SL200"
+        ]
+    },
+    {
+        "code": "SL102",
+        "name": "Antropologia e a Construção Social",
+        "credits": 4,
+        "syllabus": "Análise reflexiva sobre construção do raciocínio antropológico e sua relação com a ideia de universo, natureza e cultura através do entendimento do etnocentrismo, do relativismo cultural e da produção da existência."
+    },
+    {
+        "code": "SL103",
+        "name": "Filosofia e Pensamento Humano",
+        "credits": 4,
+        "syllabus": "Análise reflexiva sobre a construção do pensamento humano através da compreensão histórica do papel da filosofia. Estudo das relações do homem da perspectiva da evolução biológica, cultural e sua interface com a religião, arte e ciência."
+    },
+    {
+        "code": "SL104",
+        "name": "Saúde e Sociedade",
+        "credits": 4,
+        "syllabus": "Relação saúde e sociedade nos diferentes momentos históricos. Práticas de saúde como construção social. Racionalidades terapêuticas. Corporeidade. Relações entre o processo saúde-doença e as determinações socioculturais. Identidade e prática dos profissionais de saúde. Aspectos de promoção e prevenção em saúde. Demanda, necessidade de saúde e intervenção social.",
+        "reqBy": [
+            "SL205",
+            "SL403"
+        ]
+    },
+    {
+        "code": "SL105",
+        "name": "Biologia Celular e Molecular",
+        "credits": 4,
+        "syllabus": "Organização molecular da célula. Estrutura e função do núcleo. Estudo dos processos de replicação, transcrição e tradução. Aspectos estruturais e funcionais das biomembranas. Interações celulares, citoesqueleto e transporte. Conhecimentos básicos da estrutura e função celular e das principais organelas citoplasmáticas. Ciclo e morte celular.",
+        "reqBy": [
+            "CP307",
+            "NT205",
+            "SL200"
+        ]
+    },
+    {
+        "code": "SL106",
+        "name": "Anatomia e Histologia Aplicadas ao Esporte I",
+        "credits": 2,
+        "syllabus": "Estudo integrado de anatomia e histologia humana, abordando do ponto de vista estrutural o sistema nervoso central e periférico, órgãos dos sentidos com ênfase aos relacionados à visão e equilíbrio, neuromuscular, ósseo e articular. Planos de construção do corpo humano e nomenclatura anatômica.",
+        "reqBy": [
+            "SL108",
+            "SL204",
+            "SL206"
+        ]
+    },
+    {
+        "code": "SL107",
+        "name": "Anatomia e Histologia Aplicadas à Nutrição I",
+        "credits": 2,
+        "syllabus": "Estudo integrado de anatomia e histologia humana, abordando do ponto de vista estrutural o sistema nervoso central e periférico, musculo-esquelético e órgãos dos sentidos com ênfase no sistema estomatognático. Planos de construção do corpo humano e nomenclatura anatômica.",
+        "reqBy": [
+            "SL207"
+        ]
+    },
+    {
+        "code": "SL108",
+        "name": "Fisiologia Humana I",
+        "credits": 4,
+        "syllabus": "Estudo da fisiologia humana do sistema nervoso e a sua relação com os diferentes sistemas orgânicos. Estudo da fisiologia do sistema músculo-esquelético. Introdução aos conceitos gerais de homeostasia e bioeletrogênese.",
+        "reqs": [
+            [
+                {
+                    "code": "SL106"
+                }
+            ],
+            [
+                {
+                    "code": "SL109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SL208",
+            "SL208"
+        ]
+    },
+    {
+        "code": "SL109",
+        "name": "Anatomia e Histologia Aplicadas à Nutrição",
+        "credits": 6,
+        "syllabus": "Oferecimento de treinamento teórico-prático em anatomia e histologia dos sistemas nervoso, muscular esquelético, circulatório, respiratório, urinário, digestório, endócrino e reprodutor. Ênfase nos aspectos histológicos e anatômicos que repercutem nas patologias dos diversos sistemas abordados.",
+        "reqBy": [
+            "SL108",
+            "SL208",
+            "SL501"
+        ]
+    },
+    {
+        "code": "SL110",
+        "name": "Saúde e Sociedade",
+        "credits": 2,
+        "syllabus": "Relação saúde e sociedade nos diferentes momentos históricos. Práticas de saúde como construção social. Racionalidades terapêuticas. Corporeidade. Relações entre o processo saúde-doença e as determinações socioculturais. Identidade e prática dos profissionais de saúde. Aspectos de promoção e prevenção em saúde.  Demanda, necessidade de saúde e intervenção social.",
+        "reqBy": [
+            "SL205"
+        ]
+    },
+    {
+        "code": "SL200",
+        "name": "Morfofisiologia Humana II",
+        "credits": 8,
+        "syllabus": "Estudo integrado de anatomia, histologia e fisiologia humana, abordando do ponto de vista estrutural e funcional os sistemas cardiovascular, respiratório, digestório, urinário, endócrino e reprodutor.",
+        "reqs": [
+            [
+                {
+                    "code": "SL101"
+                },
+                {
+                    "code": "SL105"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SL402",
+            "SL501"
+        ]
+    },
+    {
+        "code": "SL201",
+        "name": "Agressão e Defesa: Relação Parasita-Hospedeiro",
+        "credits": 2,
+        "syllabus": "Relação parasita-hospedeiro. O mundo dos microrganismos/parasitos e o homem. Classificação dos microrganismos e parasitas. Ciclos biológicos dos parasitos. Crescimento, morte e controle dos microrganismos. Funcionalidade do sistema imunológico nas relações com parasitos. Relação entre o ser humano e o ambiente. Microrganismo e parasitos associados com o ser humano. Relações de equilíbrio na associação entre organismos. Biologia dos microrganismos e parasitas e suas relações com a epidemiologia, patologia, diagnóstico, controle e profilaxia. Resposta imune e sua regulação nas infecções."
+    },
+    {
+        "code": "SL202",
+        "name": "Prática de Ciências: Epidemiologia e Bioestatística",
+        "credits": 4,
+        "syllabus": "Introdução ao Cálculo. Descrição e apresentação de dados, medidas de tendência central, variabilidade e simetria. Probabilidade e distribuição de variáveis aleatórias. Testes de hipóteses: medidas e proporções. Medidas de associação. Correlação e regressão."
+    },
+    {
+        "code": "SL203",
+        "name": "Neurociências",
+        "credits": 4,
+        "syllabus": "Fundamentos de neuroanatomia, neurofisiologia, neurofarmacologia, genética do comportamento, embriologia do sistema nervoso e mediação neural dos processos mentais, com uma visão integrada do homem visto como ser biopsicossocial, introduzindo-se, assim, no estudo mais aprofundado de problemas da neurobiologia, neurologia, psiquiatria e neuropsicologia."
+    },
+    {
+        "code": "SL204",
+        "name": "Cinesiologia I",
+        "credits": 2,
+        "syllabus": "Estudo dos diversos movimentos do corpo humano com ênfase na estrutura e funções das articulações e grupos musculares.",
+        "reqs": [
+            [
+                {
+                    "code": "SL106"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL205",
+        "name": "Saúde Coletiva",
+        "credits": 4,
+        "syllabus": "Campo e história da Saúde Coletiva. Políticas e modelos assistenciais. SUS e ações de saúde. Saúde da Família. Planejamento em Saúde. Interdisciplinaridade no trabalho em saúde. Produção de serviços de saúde, formação de pessoal de saúde e estrutura social. Possibilidades de intervenção.",
+        "reqs": [
+            [
+                {
+                    "code": "SL104"
+                }
+            ],
+            [
+                {
+                    "code": "SL110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SL401"
+        ]
+    },
+    {
+        "code": "SL206",
+        "name": "Anatomia e Histologia Aplicadas ao Esporte II",
+        "credits": 2,
+        "syllabus": "Estudo integrado de anatomia e histologia, fornecendo os conceitos necessários para a identificação e localização e constituição dos órgãos e tecidos que constituem o corpo humano, dando subsídios para entender os processos fisiológicos desempenhados pelo corpo humano.",
+        "reqs": [
+            [
+                {
+                    "code": "SL106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SL208",
+            "SL501"
+        ]
+    },
+    {
+        "code": "SL207",
+        "name": "Anatomia e Histologia Aplicadas à Nutrição II",
+        "credits": 2,
+        "syllabus": "Oferecimento de treinamento teórico-prático em anatomia e histologia dos sistemas circulatório, respiratório, urinário, digestório, endócrino e reprodutor. Ênfase nos aspectos histológicoso e anatômicos que repercutem nas patologias dos diversos sistemas abordados.",
+        "reqs": [
+            [
+                {
+                    "code": "SL107"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL208",
+        "name": "Fisiologia Humana II",
+        "credits": 6,
+        "syllabus": "Estudo de fisiologia humana, abordando do ponto de vista funcional os sistemas cardiovascular, respiratório, digestório, urinário, endócrino e reprodutor.",
+        "reqs": [
+            [
+                {
+                    "code": "CP307"
+                },
+                {
+                    "code": "SL108"
+                },
+                {
+                    "code": "SL206"
+                }
+            ],
+            [
+                {
+                    "code": "NT210"
+                },
+                {
+                    "code": "SL108"
+                },
+                {
+                    "code": "SL109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CP410",
+            "CP506",
+            "NT405",
+            "NT410",
+            "NT600",
+            "NT607",
+            "NT608",
+            "NT609",
+            "SL501",
+            "SL501"
+        ]
+    },
+    {
+        "code": "SL209",
+        "name": "Matemática para Ciências da Saúde",
+        "credits": 2,
+        "syllabus": "Funções de uma variável. Aspectos gráficos de funções. Introdução às funções vetoriais. Noções de derivada e integral. Aplicações de funções em problemas práticos de Nutrição e Ciências do Esporte.",
+        "reqBy": [
+            "CP411",
+            "SL303"
+        ]
+    },
+    {
+        "code": "SL300",
+        "name": "Ações de Saúde Coletiva e de Sociedade",
+        "credits": 4,
+        "syllabus": "Analisar a situação de saúde no país, compreensão da evolução dos modelos de atenção básica no Brasil. Conhecimentos e aplicação de técnicas para diagnóstico da saúde de comunidades - diagnóstico de saúde de populações - indicadores de saúde capacitação para trabalhos com grupos; Conceitos e aplicação de programas em saúde coletiva, estudo das políticas públicas para a criança, adolescente, mulher, saúde de família, saúde mental e do trabalhador. Estudo das políticas públicas para nutrição e esporte. Compreensão e manejo dos principais bancos de dados de morbidade e mortalidade."
+    },
+    {
+        "code": "SL301",
+        "name": "Ética e Bioética: Conceito e Atividade Profissional",
+        "credits": 4,
+        "syllabus": "Introdução aos conceitos básicos da ética e suas articulações na sociedade a partir da análise de situações concretas que permitam enfatizar o estudo da posição e dos direitos humanos na Sociedade Brasileira e no contexto internacional. Ética e pesquisa em seres humanos. Atuação dos comitês de ética em pesquisa. Noções de políticas públicas em saúde. Abordagem profissional e filosófica sobre educação, cultura e valor. Parâmetros legais, cultura e religiosidade dos pacientes. Introdução ao código de ética profissional."
+    },
+    {
+        "code": "SL302",
+        "name": "Comunicação e Saúde",
+        "credits": 4,
+        "syllabus": "Desenvolver as várias formas de comunicação (escrita, verbal, não verbal e corporal) como ferramenta terapêutica na assistência à saúde."
+    },
+    {
+        "code": "SL303",
+        "name": "Estatística e Bioestatística",
+        "credits": 4,
+        "syllabus": "Revisão de estatística descritiva. Probabilidade e Regra de Bayes no contexto da bioestatística. Variáveis aleatórias discretas e contínuas. Distribuição normal e aplicações em saúde. Distribuições amostrais. Estimação intervalar e noções de amostragem. Teste de hipótese. Análise da variância. Análise de regressão e correlação. Tabelas de contingência.",
+        "reqs": [
+            [
+                {
+                    "code": "SL209"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CP508",
+            "NT503",
+            "SL500"
+        ]
+    },
+    {
+        "code": "SL400",
+        "name": "Crescimento e Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Estudo dos aspectos que envolvem o crescimento e o desenvolvimento nas fases da vida (infância, adolescência e vida adulta), e da influência e importância da atividade física e esporte em cada uma destas fases."
+    },
+    {
+        "code": "SL401",
+        "name": "Educação e Comunicação em Saúde",
+        "credits": 4,
+        "syllabus": "Fundamentos teóricos e históricos da educação em saúde no Brasil; diferentes abordagens pedagógicas; limites e possibilidades; metodologias alternativas didático-pedagógicas (oficinas). Teorias da comunicação, linguagem. Elementos básicos do processo de comunicação. Diferentes tipos de comunicação (verbal e não-verbal). Subjetividade. A comunicação como ferramenta para estabelecer relações de cuidado. O trabalho em equipes multidisciplinares.",
+        "reqs": [
+            [
+                {
+                    "code": "SL205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SL500"
+        ]
+    },
+    {
+        "code": "SL402",
+        "name": "Conceitos de Imunologia Aplicados à Nutrição",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de imunologia. Modificações no sistema imune decorrentes da ação de nutrientes como zinco, selênio, ferro, vitamina A, vitamina D, ácido graxos e aminoácidos. Aspectos gerais da imunidade de mucosa e do sistema imune em condições como desnutrição e obesidade.",
+        "reqs": [
+            [
+                {
+                    "code": "NT210"
+                },
+                {
+                    "code": "SL200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT510"
+        ]
+    },
+    {
+        "code": "SL403",
+        "name": "Saúde Coletiva e Epidemiologia",
+        "credits": 4,
+        "syllabus": "Campo e história da Saúde Coletiva. Interdisciplinaridade no trabalho em saúde Políticas e modelos assistenciais. SUS e ações de saúde. Saúde da Família e a Ciências do Esporte. Intervenção em saúde. Introdução à Epidemiologia. Medidas de frequência de doenças e indicadores de saúde. Desenhos de estudos epidemiológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "SL104"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL500",
+        "name": "Epidemiologia",
+        "credits": 4,
+        "syllabus": "Conceitos, métodos e aplicabilidade. Epidemiologia descritiva. História natural das doenças. Distribuição de doenças e agravos à saúde. Coeficientes e índices. Indicadores de saúde. Método epidemiológico. Vigilância epidemiológica. Delineamentos de Pesquisa. Análises e interpretação das medidas de risco e associação.",
+        "reqs": [
+            [
+                {
+                    "code": "SL303"
+                },
+                {
+                    "code": "SL401"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT507"
+        ]
+    },
+    {
+        "code": "SL501",
+        "name": "Metabolismo e Exercício Físico: A Relação com Processos Dolorosos",
+        "credits": 2,
+        "syllabus": "Estudo dos mecanismos neurofisiológicos e moleculares envolvidos no desenvolvimento e manutenção de diferentes condições dolorosas associadas ao esporte e às alterações do metabolismo. Analisar os mecanismos pelos quais o exercício físico induz dor ou analgesia. Analisar os mecanismos pelos quais indivíduos com alterações metabólicas podem apresentar aumento ou diminuição da sensibilidade dolorosa.  ",
+        "reqs": [
+            [
+                {
+                    "code": "SL109"
+                },
+                {
+                    "code": "SL208"
+                }
+            ],
+            [
+                {
+                    "code": "SL200"
+                }
+            ],
+            [
+                {
+                    "code": "SL206"
+                },
+                {
+                    "code": "SL208"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL600",
+        "name": "Introdução à Prática de Ciências",
+        "credits": 2,
+        "syllabus": "Introdução ao pensamento crítico sobre as ciências e ao pensamento científico. Desenvolvimento da mentalidade investigativa e planejamento da pesquisa. Apresentar normas para elaboração do trabalho de conclusão de curso. Revisar e discutir o projeto de pesquisa realizado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CP804"
+        ]
+    },
+    {
+        "code": "SL601",
+        "name": "Bioética",
+        "credits": 4,
+        "syllabus": "Conceitos, origem e princípios. Relações ético-terapêuticas com o usuário, família, comunidade e ambiente. A dignidade humana no ciclo vital. O agir profissional. Aspectos bioéticos em pesquisa com seres humanos e animais.",
+        "reqs": [
+            [
+                {
+                    "code": "NC100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL602",
+        "name": "Educação e Difusão de Conhecimento em Nutrição e Esporte",
+        "credits": 4,
+        "syllabus": "Organização de práticas educacionais voltadas à promoção da saúde, com ênfase em atividades de difusão de conhecimento para aplicação em diferentes comunidades. Recomendações nutricionais e de atividades físicas, ilustrando o impacto de medidas preventivas no combate a doenças.",
+        "reqs": [
+            [
+                {
+                    "code": "CP602"
+                }
+            ],
+            [
+                {
+                    "code": "NT508"
+                },
+                {
+                    "code": "NT512"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SL800",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 3,
+        "syllabus": "Trabalho Monográfico a ser conduzido pelo aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

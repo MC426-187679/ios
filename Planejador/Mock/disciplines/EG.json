@@ -1,0 +1,2082 @@
+[
+    {
+        "code": "EG005",
+        "name": "Estabilidade Transitória de Sistemas de Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Definição do problema de estabilidade, tipos de estabilidade. Modelos de máquinas síncronas, sistemas de excitação, estabilizador e regulador de velocidade adequados ao estudo de estabilidade transitória. Métodos de integração numérica. Equivalentes dinâmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG023",
+        "name": "Física de Dispositivos Semicondutores I",
+        "credits": 4,
+        "syllabus": "Introdução à mecânica quântica e funções de distribuição. Teoria das bandas. Barreiras. Condutividade. Efeito Hall. Níveis de impurezas. Tempo de vida. Efeitos cinéticos e de superfície. Contatos metálicos. Contatos metal-semicondutor. Diodos Zener. Diodos túnel. Homo e heterojunções. Dispositivos fotovoltaicos. Efeitos térmicos e magnéticos em semicondutores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG024",
+        "name": "Física de Dispositivos Semicondutores II",
+        "credits": 4,
+        "syllabus": "Capacitores MOS. Transistores MOS, V-MOS, U-MOS, MESFET, J-FET, bipolares, CCD's. Estudos dos defeitos oriundos e causados pelos processos de fabricação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG085",
+        "name": "Simulação de Sistemas Dinâmicos",
+        "credits": 4,
+        "syllabus": "1. Introdução - Modelos e Sistemas. 2. Simuladores - Introdução ao \"Extend\". 3. Probabilidade, estatística e teoria de filas. 4. Análise de dados: modelagem dos dados de entrada; verificação e validação de modelos de simulação; análise de resultados. 5. Modelos para simulação. 6. Técnicas de simulação. 7. Geração de números e variáveis aleatórias. 8. Introdução à análise de perturbações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG105",
+        "name": "Análise de Circuitos Elétricos",
+        "credits": 4,
+        "syllabus": "Modelos a parâmetros concentrados. Lei de Kirchhoff. Modelos no Domínio do Tempo e Modelos transformados (Fasores, Laplace, Fourier). Sistematização de métodos gerais. Topologia. Equações de estado. Soluções de equações de circuitos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG293",
+        "name": "Matrizes",
+        "credits": 4,
+        "syllabus": "Revisão de álgebra linear e de matrizes. Valores e vetores próprios. Semelhança. Matrizes\nunitárias e normais. Teorema de Schur. Problemas de quadrados mínimos. Decomposições\nQR e SVD. Formas canônicas. Forma de Jordan. Polinômios e funções de matrizes.\nDecomposições triangulares. Matrizes simétricas e Hermitianas. Caracterizações\nvariacionais de valores próprios. Congruências. Normas. Número de condição. Métodos\niterativos para sistemas lineares. Localização e perturbação de valores próprios. Matrizes\ndefinidas positivas. Matrizes não-negativas e de Metzler. Equações matriciais.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG400",
+        "name": "Controle Ótimo I",
+        "credits": 2,
+        "syllabus": "Cálculo variacional, condições de otimalidade, problemas clássicos de controle ótimo. Estabilidade e robustez. Problema Linear quadrático.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG402",
+        "name": "Análise e Controle de Sistemas Lineares por Desigualdades Matriciais Lineares",
+        "credits": 2,
+        "syllabus": "Introdução geral. Desigualdades matriciais lineares (LMIs). Estabilidade de sistemas contínuos e discretos no tempo: condição de Lyapunov, condições equivalentes; Sistemas com incertezas; condições de estabilidade robusta para incertos: estabilidade quadrática, estabilidade baseada em funções de Lyapunov dependentes de parâmetros; LMIs dependentes de parâmetros; Relaxações baseadas em LMIs: teorema de Pólya, soma-de-quadrados, escalarização; Extensões; cômputo de custo garantido H-2 e H-infinito, controle e filtragem dependente de parâmetros, sistemas variantes no tempo.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "EA616"
+                }
+            ],
+            [
+                {
+                    "code": "ES601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG403",
+        "name": "Controle Adaptativo e Estocástico",
+        "credits": 2,
+        "syllabus": "Identificação de parâmetros em modelos dinâmicos. Introdução à programação dinâmica. Controles de sistemas lineares estocásticos: Problema linear-quadrático Gaussiano. Função dual de controle. Controladores adaptativos. Controlador autoajustável. Controlador preditivo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG404",
+        "name": "Otimização H2 e H-Infinito",
+        "credits": 2,
+        "syllabus": "Representação de sistemas lineares via variáveis de estado e função de transferência. Estabilidade e desempenho robustos. Normas. Controle ótimo em espaços H2 e H∞. Estimação de estado em espaços H2 e H∞. Robustez de sistemas não lineares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG405",
+        "name": "Análise Convexa",
+        "credits": 2,
+        "syllabus": "Conceitos básicos. Dualidade. Diferenciabilidade. Problemas com restrições. Teoria Min/Max.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG409",
+        "name": "Processos Estocásticos para Engenharia",
+        "credits": 4,
+        "syllabus": "Parte I: Álgebra e sigma-álgebras. Definições. Variável aleatória e função de distribuição. Distribuição conjunta. Esperança matemática e momento. Esperança condicional. Função característica momentos. Limite central. Grandes números. Parte II: Processo de Poisson. Propriedade de Markov. Cadeia discreta e a tempo contínuo. Filas. Notação de Kendall. Filas M/M/1. Teorema de Little. Armazenamento finito. Estágios, série-paralelo. Parte III: Covariância. Estimação. Ortogonalidade. Processos estacionários e ergódicos. Filtros, transmissão digital e teorema de Bennett. Filtro de Wiener.",
+        "reqs": [
+            [
+                {
+                    "code": "EA614"
+                },
+                {
+                    "code": "ME323"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG411",
+        "name": "Operação Energética em Sistemas de Potência",
+        "credits": 4,
+        "syllabus": "Introdução. Modelagem dos componentes do sistema. Formulação geral do problema. Técnica de agregação e decomposição. Princípios da operação energética econômica. Avaliação crítica das metodologias existentes. A proposta metodológica da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA954"
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA044"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG425",
+        "name": "Programação Inteira e Combinatória",
+        "credits": 4,
+        "syllabus": "Introdução: formulação de problemas de programação inteira. Grafos e redes. Algorítmos de planos de corte. Métodos enumerativos: programação inteira. Métodos enumerativos: programação binária. Métodos de decomposição. Métodos não exatos. Complexidade de algorítmos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG431",
+        "name": "Métodos Numéricos em Sistemas",
+        "credits": 4,
+        "syllabus": "Erros. Equações algébricas lineares. Equações algébricas não lineares. Equações de Lyapunov e Ricatti. Autovalores e autovetores. Equações diferenciadas ordinárias. Equações a derivadas parciais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG432",
+        "name": "Controle em Tempo Real por Computadores",
+        "credits": 2,
+        "syllabus": "Funções de automação aquisição de dados, controle digital direto, supervisão e monitoramento, interfaces com processos e operadores, controle hierárquico. Conceitos básicos: hardware para sistemas em tempo real, sistemas baseados em microprocessadores, software para sistemas de tempo real, estruturas de dados, processamento síncrono e assíncrono. Projeto, implementação e testes de sistemas de tempo real. Organização e sequenciamento de tarefas. Técnicas e exemplos: sistemas mono e multiprocessadores, sistemas com múltiplas tarefas, algorítmos de controle digital. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA075"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG433",
+        "name": "Métodos Matemáticos para Engenharia I",
+        "credits": 4,
+        "syllabus": "Espaços e transformações lineares. Cálculo matricial. Autovalores e autovetores. Diagonalização. Funções de matrizes. Formas quadráticas. Teoria de probabilidade: Espaço de probabilidades, álgebras, variável aleatória, esperança matemática. Processos estocásticos: processos estacionáveis e Markov. Cálculo numérico.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG434",
+        "name": "Métodos Matemáticos para Engenharia II",
+        "credits": 4,
+        "syllabus": "Introdução. Conjuntos, relações e linguagens. Autômatos finitos. Linguagens independentes de contexto. Máquinas de Turing. Noções de computabilidade e complexidade computacional. Lógica proposicional e noções de cálculos de predicados. Grafos. Estruturas de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG435",
+        "name": "Teoria de Sistemas Não Lineares",
+        "credits": 2,
+        "syllabus": "Introdução. Sistemas de 2ª ordem. Equações diferenciadas não lineares. Métodos aproximados. Estabilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EG436"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG436",
+        "name": "Teoria de Sistemas Lineares",
+        "credits": 4,
+        "syllabus": "Espaços lineares. Modelos matemáticos. Equações dinâmicas e respostas ao impulso. Controlabilidade e observabilidade. Realimentação e observadores de estado. Estabilidade de sistemas lineares. Projetos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG435"
+        ]
+    },
+    {
+        "code": "EG443",
+        "name": "Otimização Não Linear",
+        "credits": 4,
+        "syllabus": "Funções, Gradiente e Hessiano. Teorema de Taylor. Condições de otimalidade. Teorema de Kuhn-Tucker. Lagrange e dualidade. Método do gradiente e Newton. Método das direções conjugadas. Métodos Quasi-Newtonianos, métodos do gradiente projetado e gradiente reduzido. Métodos de penalidade e lagrangeano aumentado. Programação quadrática e métodos de Lagrange. Programação convexa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA954"
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA044"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG444",
+        "name": "Dinâmica Caótica em Sistemas de Engenharia",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de dinâmica não linear, fluxo, órbita, pontos de equilíbrio, movimento caótico e sua identificação, fractal e suas dimensões, estabilidade estrutural e bifurcação, bifurcação global-homoclínica e heteroclínica. Mapas de Poincaré, expoentes de Liapunov, espectro de frequência por FFT. Aplicações em sistemas de controle: controle de máquinas, robótica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG451",
+        "name": "Modelagem e Controle de Sistemas a Eventos Discretos",
+        "credits": 4,
+        "syllabus": "Sistemas e modelos de sistemas. Modelos dinâmicos para sistemas a eventos discretos. Linguagens e autômata. Teoria de controle supervisório. Redes de Petri. Álgebra de dioides e modelos lineares para sistemas de modelos de filas. Análise de perturbações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG453",
+        "name": "Redes Neurais",
+        "credits": 4,
+        "syllabus": "Paradigmas Computacionais. Ciências da cognição. Modelos elementares de neurônios: discretos e contínuos. Redes neurais artificiais; arquiteturas básicas. Aprendizado através de redes neurais: estratégias e algorítmos. Redes multicamadas. Redes auto-organizadas. Redes de Hopfield. Redes RBF. Aplicações: classificação de padrões, controle e identificação, séries temporais, otimização.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG456",
+        "name": "Identificação e Filtragem",
+        "credits": 4,
+        "syllabus": "Modelos tipo entrada/saída e de estado. Estimador de máxima verossimilhança. Estimador de Bayes. Estimador de mínimos quadrados. Filtro de Kalman. Identificação de sistemas variantes no tempo. Métodos de validação de modelos. Identificação de sistemas multivariáveis.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG461",
+        "name": "Sistemas Nebulosos",
+        "credits": 4,
+        "syllabus": "Introdução. Noções básicas, conceitos e definições. Operações com conjuntos nebulosos. Relações nebulosas e seu cálculo. Números nebulosos. Variáveis linguísticas. Sistemas baseados em regras nebulosas; representação, interferência e consistência. Lógica nebulosa e raciocínio aproximado. Teoria da possibilidade e inferência possibilística. Rough sets. Modelagem de sistemas e processos. Redes neurais nebulosas; sistemas evolutivos. Metodologia e técnicas de desenvolvimento de aplicações. Estudos de casos. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG468",
+        "name": "Sistemas de Tempo Real I",
+        "credits": 2,
+        "syllabus": "Definição de sistemas de tempo real e exemplos. Software para sistemas de tempo real: Programação concorrente. Comparação: possibilidade de concorrência usando linguagens de programação (Ada, Occam2, Java) ou sistemas operacionais (Posix e C). Gerenciamento do tempo de resposta: a questão do relógio, gerenciador cíclico, escalonamento estático e dinâmico de processos. Estratégias para atingir as metas de confiabilidade: conceitos básicos sobre tolerância e faltas, redundância estática e dinâmica de software. Introdução a sistemas distribuidos de tempo real.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG486",
+        "name": "Introdução à Probabilidade e Processos Estocásticos",
+        "credits": 4,
+        "syllabus": "Espaço amostral. Probabilidade condicional. Independência. Contagem. Variáveis aleatórias discretas. Funções de probabilidade de massa. Funções de variáveis aleatórias. Esperança média e variância. Condicionamento. Independência. Variáveis gerais. Variáveis contínuas e função distribuição de probabilidade. Múltiplas variáveis contínuas. Distribuição. Transformadas. Soma de variáveis independentes. Covariância e correlação. Mínimos quadrados. Processos de Bernoulli e Poisson. Cadeias de Markov a tempo discreto, a tempo contínuo. Desigualdades. Convergência. Limite central. Grandes números.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG503",
+        "name": "Controle Adaptativo e Estocástico",
+        "credits": 2,
+        "syllabus": "Identificação de parâmetros em modelos dinâmicos. Introdução à programação dinâmica. Controle de sistemas lineares estocásticos: problema linear-quadrático Gaussiano. Função dual de controle. Controladores adaptativos. Controlador autoajustável. Controlador preditivo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG504",
+        "name": "Redes Neurais II",
+        "credits": 4,
+        "syllabus": "Métodos de aprendizagem; estimação de probabilidades; métodos paramétricos e não paramétricos; técnicas Bayesianas; generalização; funções de Kernel; comitê de máquinas; aplicações: classificação e reconhecimento de padrões; \"Clustering\"; identificação de sistemas; predição de séries temporais; controle de processos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG505",
+        "name": "Semiótica e Sistemas Inteligentes",
+        "credits": 4,
+        "syllabus": "Estudo do envolvimento entre a semiótica e os sistemas inteligentes; elementos básicos de semiótica: cognição e comunicação, categorias ceno-pitagóricas, semiosis, signos e suas representações, classes de signos; Semiótica e sistemas inteligentes: A influência da semiótica para representação do conhecimento; introdução à teoria matemática dos objetos: classes e objetos, sistemas de objetos, redes de objetos: semiótica computacional: Representando o conhecimento em redes de objeto, arquiteturas de sistemas inteligentes; Semiótica computacional e o futuro; Agentes inteligentes, Robótica Autônoma",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG507",
+        "name": "Computação Evolutiva",
+        "credits": 4,
+        "syllabus": "Introdução a técnicas de solução de problemas inspiradas na natureza. Base biológica e representação computacional. Algorítmos genéticos. Estratégias evolutivas. Programação genética. Programação evolutiva. Sistemas classificadores. Extensões, operadores avançados e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG509",
+        "name": "Introdução à Teoria de Agentes",
+        "credits": 4,
+        "syllabus": "Agentes: conceitos básicos. Atributos e usos de agentes; categoria de agentes; agentes e objetos; agentes, processos, threads e programação distribuída, agentes de internet; agentes de interface; agentes móveis; sistemas multi-agentes; ontologias e linguagens de agentes; redes de agentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG513",
+        "name": "Introdução à Computação Natural",
+        "credits": 4,
+        "syllabus": "Introdução e motivação. Computação inspirada na biologia. Algoritmos evolutivos. Inteligência coletiva. Otimização por colônias de formigas, robótica coletiva e otimização por partículas. Conexionismo. Sistemas imunológicos artificiais. Biologia inspirada na computação. Vida artificial e autômatos celulares. Geometria computacional da natureza. Computação com mecanismos naturais: computação de DNA e computação quântica. Aplicações em engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG514",
+        "name": "Métodos de Subespaços para Identificação",
+        "credits": 4,
+        "syllabus": "Identificação multivariável no espaço de estado. Os problemas de identificação de modelo inovativo e de modelo com erro de saída. Revisão da teoria de sistemas lineares no espaço de estado e de álgebra linear numérica. Mínimos quadrados. Teoria de realização no espaço de estado e métodos de subespaços para identificação. Matriz de Hankel e decomposição em valores singulares. Identificação determinística. Identificação estocástica. Identificação determinística e estocástica combinadas. Estimação das matrizes do sistema. Estudos de casos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG515",
+        "name": "Modelagem Computacional de Dados",
+        "credits": 4,
+        "syllabus": "Introdução à modelagem computacional de dados. Modelagem computacional de sistemas e de séries temporais multivariáveis. Elementos de álgebra linear e algebra linear numérica. Computação de algoritmos numéricos. Projeções, decomposição em valores singulares, matriz pseudo-inversa e solução de mínimos quadrados em subespaços. Realização, operador de Hankel e fundamentos para modelagem de dados no espaço de estado. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG538",
+        "name": "Método de Projeto e Controle de Robôs",
+        "credits": 4,
+        "syllabus": "Controle de torque/força, linearização por realimentação. Vetor de campo variante. Controle adaptativo, planejamento e controle de trajetórias. Sensoriamento. Linguagem de programação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG539",
+        "name": "Dinâmica de Robôs",
+        "credits": 4,
+        "syllabus": "Análise cinemática: transformações homogêneas. Representação de Denavit-Hartengerg. Cinemática inversa. Jacobiano: Análise dinâmica: Formulação de Euler-Lagrange. Formulação de Newton-Euler. Princípio de D'Alembert. Estratégias de controle: Controle de juntas independentes. LQR. Controle multivariável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG545",
+        "name": "Planejamento e Sequenciamento em Plantas Multiproduto",
+        "credits": 2,
+        "syllabus": "Técnicas de programação linear mista. Técnicas de busca em árvore tipo Branch and Bound. Extensões para recursos compartilhados limitados, restrições temporais e estruturas de processamento complexas. Técnicas de busca orientadas pelas restrições.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA044"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG546",
+        "name": "Controle de Sistemas Dinâmicos com Expectativas Racionais",
+        "credits": 2,
+        "syllabus": "Incerteza. Predição. Processos e sistemas estocásticos. Propriedades de sistemas lineares estocásticos. Modelos no espaço de estado. Realizações Markovianas. Estimação e controle. Otimização. Incerteza e o processo de formação de expectativas. O processo de aprendizagem e a hipótese de expectativas racionais. Análise dinâmica de controle de sistemas com expectativas racionais. Controle ótimo de sistemas com expectativas racionais. Identificação de sistemas com expectativas racionais. Coordenação de políticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG550",
+        "name": "Introdução à Lógica e Aplicações de Engenharia",
+        "credits": 2,
+        "syllabus": "Lógica elementar. Sistemas formais. Cálculo proposicional. Cálculo de predicados de primeira ordem. Correção e completude. Lógica modal. Lógica temporal. Aplicação à modelagem de sistemas de engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG560",
+        "name": "Inteligência Artificial Distribuida",
+        "credits": 4,
+        "syllabus": "Introdução: computação distribuída, inteligência artificial distribuída. Agentes inteligentes. Sistemas multiagentes e sociedade de agentes. Comunicação, coordenação, cooperação e negociação. Resolução distribuída de problemas. Algoritmos de busca em sistemas multiagentes. Agentes racionais e aprendizagem. Modelos distribuídos de decisão. Sistemas multiagentes em logística, processamento de informação e automação. Estudos de caso e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG562",
+        "name": "Inteligência Artificial em Automação",
+        "credits": 4,
+        "syllabus": "Introdução. Características, propriedades e requisitos de sistemas inteligentes em problemas de processamento de informação e decisão. Arquiteturas, metodologias e algoritmos de inteligência computacional em sistemas de suporte a tomada de decisão. Conceitos e abordagens de raciocínio e interferência temporal e aplicações em sistemas de tempo real. Arquiteturas e aplicações em logística, automação industrial, controle de tráfego e sistemas hídricos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG565",
+        "name": "Introdução à Análise de Imagens e Reconhecimento de Padrões",
+        "credits": 2,
+        "syllabus": "Fundamentos de segmentação de imagens. Representação de contornos e regiões. \"Template Matching\". Modelos de classificação. Introdução aos métodos de análise sintática. Classificação estatística. Teoria da decisão de Bayes. Estimativa de parâmetros e aprendizagem supervisionada. Aprendizado sem supervisão. \"Clustering\".",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG567",
+        "name": "Visão Robótica",
+        "credits": 4,
+        "syllabus": "Aspectos geométricos e fotométricos da formação da imagem. Calibração de câmeras: parâmetros extrínsecos e intrínsecos. Perspectiva inversa. Estéreo visão. Localização (posição e orientação) de objetos no espaço 3D. Mapa de reflectância. Estéreo fotometria. Shape from shading. Shape from motion.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG578",
+        "name": "Modelamento de Séries Temporais no Espaço de Estado",
+        "credits": 2,
+        "syllabus": "Processos geradores de dados. Séries temporais. Processos estocásticos. Sistemas lineares e processos estacionários. Espaço de estado. Realização de Markoviana. Propriedades dos modelos. Matrizes de covariância e resposta ao impulso. Matriz de Hankel e decomposição. Gramianos. Realizações balanceadas. Decomposição em valores singulares no domínio Z. Filtro de Kalman. Modelos de inovação. Equações de Ricatti e de Liapunov. Modelamento estrutural. Vetores de estado e medidas de otimalidade. Estimação das matrizes do sistema. Análise de erros. Aplicações em engenharia, economia e ecologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG600",
+        "name": "Análise Matricial de Sistemas de Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Solução de sistemas de equações com matrizes esparsas. Técnicas de exploração da esparsidade: armazenamento compacto, fatoração, solução via fatores triangulares, vetores esparsos, métodos de ordenação, refatoração parcial. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG601",
+        "name": "Cálculo de Fluxo de Potência",
+        "credits": 4,
+        "syllabus": "Introdução, formulação básica do problema, métodos de solução: Newton e desacoplados, controles e limites, fluxo de carga linearizado, fluxo de carga para redes de distribuição, fluxo de carga c.a./c.c..",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG602",
+        "name": "Oscilações Eletromecânicas de Baixa Frequência em Sistemas de Energia Elétrica",
+        "credits": 4,
+        "syllabus": "Dinâmica de curta, média e longa duração. O princípio básico do CAG. Modelagem dinâmica do CAG. Estabilidade de pequenas perturbações. Torques sincronizante e de amortecimento. Influência do controle de excitação. Estabilizadores de sistemas de potência. Oscilações torsionais. Ressonância subsíncrona. Análise modal. Simulação de um sistema isolado. Representação de um sistema isolado. Representação de sistemas multimáquinas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG603",
+        "name": "Cálculo de Curto-Circuito em Sistemas de Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Modelo da rede para cálculo de curto-circuito. Métodos de cálculo. Componentes simétricos. Curto desequilibrado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG604",
+        "name": "Análise de Estabilidade de Tensão de Sistemas de Energia Elétrica",
+        "credits": 4,
+        "syllabus": "Curvas PV e VQ. Características do sistema de transmissão, dos geradores das cargas e dos dispositivos de compensação reativa. Estabilidade transitória de tensão. Análises dinâmica e estática do problema. Análise modal. Margens de estabilidade. Colapso de tensão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG605",
+        "name": "Introdução aos Acionamentos Elétricos",
+        "credits": 4,
+        "syllabus": "Fundamentos e equações dinâmicas das máquinas de corrente contínua, força magnetomotriz: de máquina CA, representação das variáveis das máquinas CA por vetores espaciais, expressões básicas de regime e da dinâmica nas coordenadas e B0 e dqo das máquinas de indução e síncronas, indução ao controle vetorial por orientação de fluxo.",
+        "reqs": [
+            [
+                {
+                    "code": "ET620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG606",
+        "name": "Compatibilidade Eletromagnética",
+        "credits": 4,
+        "syllabus": "Interferência e compatibilidade eletromagnética. Ambiente. Terminologia e aspectos de EMC, ruídos emissões, perturbações, imunidade e suscetibilidade. Fontes e vítimas de perturbações. Acoplamento entre a fonte e a vítima. Condições de EMC e projetos de produtos e sistemas. Interferências de modo comum e diferencial. Interferencia conduzida e radiada. Perturbações induzidas. Acoplamentos. Tratamento de interferências. Efeitos parasitas. Métodos analíticos. Abordagem via equações de Maxwell. Modelos de circuitos. Linhas de transmissão. Análise de interferências. Técnicas de aterramento.",
+        "reqs": [
+            [
+                {
+                    "code": "EE754"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG612",
+        "name": "Sobretensões em Sistemas de Energia Elétrica",
+        "credits": 4,
+        "syllabus": "Origem das sobretensões, sobretensões provocadas por descargas atmosféricas e por manobras, fundamentos de ondas viajantes, propagação e descontinuidade das linhas de transmissão, diagramas de Lattice, método analítico e método de Bergeron para cálculo das sobretensões, ondas viajantes para sistemas polifásicos, teoria modal, modos de propagação, efeitos de atenuação, distorção e efeito corona, métodos de controle de sobretensões, introdução à coordenação de isolamento.",
+        "reqs": [
+            [
+                {
+                    "code": "EE754"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG614",
+        "name": "Estimação de Estado em Sistemas de Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Formulação do problema de estimação de estado em sistemas de energia elétrica. Método das equações normais. Métodos ortogonais. Observabilidade topológica e numérica. Processamento de erros grosseiros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG615",
+        "name": "Análise de Alterações em Redes de Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Análise estática de contingências. Simulação de alterações na rede. Técnicas de redução de circuitos. Métodos de obtenção de equivalentes estáticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG616",
+        "name": "Planejamento da Expansão de Redes de Transmissão de Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Métodos de análise e síntese aplicados ao planejamento a longo prazo de sistemas de transmissão de energia elétrica: Métodos baseados em heurísticas, em programação linear e em métodos de decomposição.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG620",
+        "name": "Controle Automático de Sistemas de Distribuição",
+        "credits": 2,
+        "syllabus": "Conceitos básicos de automação de sistemas baseados em microcomputadores. Controle supervisório em sistemas de distribuição de energia elétrica. Funções avançadas de controle: detecção e isolamento de defeitos, restabelecimento automático de energia, reconfiguração automática de rede e balanceamento de carga. Simulação do desempenho de redes de distribuição. Centros de controle em tempo real.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG622",
+        "name": "Avaliação da Qualidade da Energia Elétrica",
+        "credits": 4,
+        "syllabus": "Distúrbios que afetam a QEE. Caracterização e classificação dos distúrbios. Duração de Sub e Sobretensões. Oscilações de tensão: Fenômeno de Cintilação (Flicker). Técnicas de estimação e medição de Flicker. Limites. Fenômeno da distorção harmônica. Técnicas de análise e medição. Limites. Transitórios de chaveamento, energização de transformadores, capacitores, ressonâncias, amortecimento de oscilações. Importância do aterramento na QEE. Análise de distúrbios no domínio do tempo. Análise de distúrbios no domínio da frequência. Tratamento estatístico.",
+        "reqs": [
+            [
+                {
+                    "code": "EA614"
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG625",
+        "name": "Fontes Chaveadas",
+        "credits": 4,
+        "syllabus": "Dispositivos semicondutores rápidos de potência. Técnicas de modulação. Topologias básicas de fontes chaveadas. Comutação não-dissipativa. Componentes passivos. Modelamento e controle. Circuitos integrados dedicados. Normas e caracterização de fontes chaveadas. Fontes de alimentação com correção de fator de potência.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG626",
+        "name": "Conversão Eletromecânica de Energia",
+        "credits": 4,
+        "syllabus": "Fundamentos da conversão eletromecânica: enfoques microscópico e macroscópico da obtenção de forças e conjugados. Análise de máquinas elementares eletrostáticas e magnetostáticas; densidade de energia. Propriedade de materiais magnéticos. Sistemas lineares com excitação simples ou múltipla. A existência de conjugados síncronos ou assíncronos em função da conformação geométrica da máquina. Máquinas de corrente contínua. Máquinas de corrente alternada. Máquinas especiais.",
+        "reqs": [
+            [
+                {
+                    "code": "ET620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG632",
+        "name": "Eletrônica de Potência I",
+        "credits": 4,
+        "syllabus": "Componentes semicondutores de potência : diodos, tiristores (GTO, MCT) transístores (MOSFET, IGTB), dispositivos emergentes. Modulação em potência: ciclos inteiros, controle de fase, largura de pulso, histerese. Conversores CA-CC: topologias, comutação, harmônicas e fator de potência. Conversores CC-CC: acionamento de máquinas CC em 1, 2 e 4 quadrantes, fontes de alimentação chaveadas. Conversores CC-CA: sistemas de alimentação ininterrupta, acionamentos de máquinas CA, filtros ativos de potência. Conversores CA-CA, ciclo-conversores, conversores diretos. Técnicas de comutação suave.",
+        "reqs": [
+            [
+                {
+                    "code": "EE833"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG640",
+        "name": "Fluxo de Carga Ótimo",
+        "credits": 2,
+        "syllabus": "Formulação do problema. Métodos baseados em programação linear. Método de Newton e programação quadrática sequencial. Restrições de segurança. Fluxo de carga ótimo com redespacho pós-contingência.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG643",
+        "name": "Cálculo de Fluxo de Carga",
+        "credits": 4,
+        "syllabus": "Introdução. Formulação básica do problema. Métodos de solução: Newton e desacoplados. Tratamento de controles e limites. Fluxo de carga linearizado. Fluxo de carga para redes de distribuição. Fluxo de carga c.a./c.c.Obs.: As aulas práticas referem-se a projetos envolvendo programação e simulações por Computador. ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG644",
+        "name": "Eletrônica de Potência em Sistemas de Energia Elétrica",
+        "credits": 4,
+        "syllabus": "Conversores eletrônicos de potência necessários ao aproveitamento de fontes alternativas de energia, especialmente eólica e fotovoltaica. Estratégias de controle e procedimentos para conexão de fontes à rede elétrica. Dispositivos FACTS. Novos conceitos de Potência Elétrica. Filtros de harmônicos. Princípios de microrredes e redes inteligentes.",
+        "reqs": [
+            [
+                {
+                    "code": "EE833"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG645",
+        "name": "Geração Distribuída de Energia Elétrica",
+        "credits": 4,
+        "syllabus": "Introdução. Tipos básicos de geradores. Tecnologias de geração: fontes primárias. Impactos técnicos nas redes de distribuição. Regulação.",
+        "reqs": [
+            [
+                {
+                    "code": "ET620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG651",
+        "name": "Centros de Controle para Sistemas de Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Funções avançadas de controle em tempo real para sistemas de energia elétrica: configurador, observador, estimador. Controle supervisório e de segurança. Operação em tempo-real: restrições de carga, de operação e segurança. Estados de operação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG652",
+        "name": "Proteção de Sistemas de Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Filosofia da proteção em sistemas de energia elétrica. Métodos, esquemas e dispositivos de proteção. Proteção digital. Análise de eventos. Identificação de defeitos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG663",
+        "name": "Sensores e Condicionamento de Sinais",
+        "credits": 4,
+        "syllabus": "Fundamentos e aspectos gerais. Sensores térmicos. Sensores mecânicos. Sensores óticos. Condicionamentos de sinais analógicos. Condicionamento de sinais digitais, medidas das principais grandezas físicas e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EA614"
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG733",
+        "name": "Modelagem do Transístor MOS",
+        "credits": 4,
+        "syllabus": "Revisão de semicondutores; junções; capacitor MOS; diodo controlado por porta; transístor MOS padrão; transístor MOS com dopagem não uniforme; transístores MOS com pequenas dimensões; modelagem para grandes sinais; modelagem para pequenos sinais; modelos MOS para SPICE.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE530"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG742",
+        "name": "Estudo Quantitativo do Sistema Cardiovascular",
+        "credits": 4,
+        "syllabus": "Estrutura e função da célula cardíaca. Bioquímica e utraestrutura. Atividade elétrica do coração. Atividade contrátil. O sistema circulatório. Energia total na circulação. Mecânica de fluidos e a hemodinâmica. Modelos matemáticos da circulação e do coração para regulação do débito cardíaco. Correlatos clínicos. Origem do batimento cardíaco. Eletrofisiologia da célula cardíaca. Eletrocardiograma. Modelo do dipolo. Arritmias. O ciclo cardíaco. Circulação coronariana. Metabolismo do músculo cardíaco. Função ventricular. Modelos elétricos. Regulação da pressão arterial. Fisiologia do exercício.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG743",
+        "name": "Medição e Transdução de Grandezas Biomédicas",
+        "credits": 4,
+        "syllabus": "Sistema de instrumentação eletrônica. Instrumentos de medidas analógicos e digitais. Minimização de erro experimental. Sensores para transdutores. Medições de força, torque, pressão, fluxo, deslocamento, velocidade, aceleração, temperatura. Eletrodos para biopotenciais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG744",
+        "name": "Aplicação da Engenharia no Estudo de Fenômenos Biológicos",
+        "credits": 4,
+        "syllabus": "Biologia celular. Biofísica básica e a fisiologia dos tecidos excitáveis: nervos e músculos estriados, cardíaco e esquelético. Aplicações específicas das ciências exatas no estudo de fenômenos biológicos (sistema nervoso, sistema auditivo, sistema visual, sistema cardiovascular).",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG747",
+        "name": "Introdução à Engenharia Hospitalar",
+        "credits": 4,
+        "syllabus": "Organização hospitalar. Segurança hospitalar. Aquisição e controle de equipamentos médico-hospitalares. Manutenção preventiva e corretiva. Planejamento e instalação. Gerenciamento, supervisão e educação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG748",
+        "name": "Instrumentação Biomédica",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de introdução biomédica. Teoria da medida. Revisão de conceitos de eletrônica. Circuitos de condicionamento de sinais. Segurança elétrica de equipamentos biomédicos. Instrumentos biomédicos para diagnóstico, monitoração e terapia (eletroencefalógrafo, eletrocardiógrafo, eletromiógrafo, monitores de EEG de ECG e de concentração gasosa do sangue, rim artificial, marca-passo cardíaco, desfibrilador, cardioversor, incubadora neonatal, ventilador pulmonar, sistema de anestesia, bomba de infusão, equipamentos de eletrocirurgia, etc.).",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG749",
+        "name": "Informática Biomédica",
+        "credits": 4,
+        "syllabus": "Sistemas de apoio à decisão médica, terapia e cirurgia. Inteligência artificial. Processamento de sinais e imagens biológicos. Aplicações no ensino médico. Modelagem e simulação. Aplicações na pesquisa médica. Aplicações na gestão de consultórios, clínicas e hospitais. Saúde pública. Medicina social e preventiva, epidemiologia e estatística. Informática na área de saúde. Natureza da informação em medicina. Histórico. Aplicações na coleta e armazenamento de dados. Anamnese automatizada. Registro médico. Bancos de dados clínicos. Codificação médica. Diagnósticos, laboratório e emissão de laudos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG750",
+        "name": "Introdução à Engenharia de Reabilitação",
+        "credits": 4,
+        "syllabus": "Locomoção normal e patológica. Análise de marcha humana. Eletromiografia. Biomecânica. Dispositivos óticos e protéticos. Estimulação elétrica neuromuscular. Geração e controle de sinais. Aplicações clínicas. Modelamento e controle dos sistemas neuromuscular e músculo - esquelético.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG751",
+        "name": "Instrumentação Biomédica Avançada",
+        "credits": 4,
+        "syllabus": "Sistemas de imagem para uso em medicina (raio-x, medicina nuclear, ultrassonografia, tomografia RMN). Equipamentos de radioterapia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG752",
+        "name": "Transdução e Instrumentação Biomédica",
+        "credits": 4,
+        "syllabus": "Noções gerais sobre transdutores para medições de parâmetros e variáveis em organismos vivos. Conceitos básicos de Instrumentação Biomédica. Introdução aos sistemas de medição de grandezas biomédicas. Princípio de funcionamento de transdutores para medições de biopotenciais, temperatura, deslocamento, velocidade, aceleração, força, pressão e fluxo, com aplicação biomédica. Principais características de construção, funcionamento e utilização de equipamentos biomédicos para diagnóstico, monitoração e terapia (eletrocardiógrafo, eletroencefalógrafo, eletromiógrafo, monitores de ECG, oximetria, terapia renal substitutiva, desfibrilador, cardioversor, incubadora neonatal, ventilador pulmonar, sistema de anestesia, bomba de infusão, equipamentos de eletrocirurgia, etc).",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG787",
+        "name": "Fisiologia para Engenharia Biomédica",
+        "credits": 4,
+        "syllabus": "Noções de anatomia de sistemas. Biologia celular. Fisiologia de células excitáveis. Neurofisiologia. Fisiologia de sistemas de transportes e trocas (cardiovascular, respiratório e renal). Regulação do metabolismo.",
+        "reqs": [
+            [
+                {
+                    "code": "EA997"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG803",
+        "name": "Interconexão de Redes de Computadores",
+        "credits": 4,
+        "syllabus": "Introdução; conceitos básicos de interconexão de redes de computadores; revisão da arquitetura TCP/IP; redes ATM - conceitos básicos; operação de redes ATM, modelos de interconexão internet/ATM: Modelo Overlay e modelo Peer, emulação de redes (LANE - Lan Emulation). Protocolos em modo nativo: IP-Clássico, NHRP, MPOA, MPLS: Multiprotocol Label Switching; Qualidade de serviço: arquitetura de serviços integrados, arquitetura de serviços diferenciados, MPLS e CBR (Constant Based Routing); conceitos de engenharia de tráfego na internet.",
+        "reqs": [
+            [
+                {
+                    "code": "EA074"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG808",
+        "name": "VHDL como Ferramenta de Projetos de Circuitos",
+        "credits": 2,
+        "syllabus": "Modelamento de estruturas de VHDL apresentando elementos básicos da linguagem com a utilização do software VHDL Mentor Graphics. Desenvolvimento de modelos. Estrutura de modelos. Teste de modelos. Objetos, tipos sinais e atributos. Operações lógicas, operadores e atrasos. Arquiteturas múltiplas. Concorrência. Operações sequenciais. Subprogramas. Packages e Libraries.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "EA773"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG809",
+        "name": "Linguagem para Modelamento de Circuitos",
+        "credits": 4,
+        "syllabus": "Introdução à VHDL. Modelamento comportamental. Processamento sequencial. Tipos e atributos. Subprogramas e packages. Atributos pré-definidos. Configuração. Tópicos avançados. Considerandos para o modelamento. Projeto de sistema TOP-DOWN. Exemplos extensos de utilização.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "EA773"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG811",
+        "name": "Sistemas Operacionais Distribuídos",
+        "credits": 4,
+        "syllabus": "Introdução: objetivos, conceitos de hardware e software, modelo cliente servidor. Comunicação: protocolos, procedimentos remotos, comunicação por mensagens e por fluxos. Sincronização: relógios, exclusão mútua, coordenação, transações, exclusão mútua, coordenação, transações. Processos: modelos de sistemas, alocação de processadores agentes escalonamento. Tolerância a falhas, modelos, comunicação confiável, recuperação de falhas. Atribuição de nomes e localização. Replicação: modelos de consistência, protocolos distribuídos. Estudos de casos.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG812",
+        "name": "Segurança em Comunicação de Dados",
+        "credits": 4,
+        "syllabus": "Criptografia simétrica: técnicas , algorítmos e usos. Criptografia assimétrica: logarítmos discretos, fatoração de inteiros, curvas elípticas, protocolos de autenticação e assinaturas digitais; aplicações de segurança para e-mail, WEB e IP, segurança de sistemas: Invasões, vírus, firewalls",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG821",
+        "name": "Controle Não-Linear",
+        "credits": 4,
+        "syllabus": "Existência e unicidade de soluções de equações diferenciais não-lineares. Análise qualitativa de soluções. Estabilidade de Lyapunov. Aproximação de Primeira Harmônica. Estabilidade absoluta: critérios do círculo e de Popov. Técnicas de controle para sistemas não-lineares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA721"
+                }
+            ],
+            [
+                {
+                    "code": "EM707"
+                }
+            ],
+            [
+                {
+                    "code": "ES710"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG841",
+        "name": "Especificação e Projeto de Sistemas Embutidos",
+        "credits": 4,
+        "syllabus": "Introdução às técnicas para projetos a nível de sistema, modelos e arquiteturas, linguagens de especificação, métodos de particionamento, métodos de avaliação da qualidade de projetos, detalhamento da especificação, exemplo de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA075"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG842",
+        "name": "Coprojeto de Hardware-Software em Sistemas Embutidos",
+        "credits": 4,
+        "syllabus": "Introdução às técnicas de coprojeto de hardware-software. Estudo de um projeto. Particionamento em Hardware-Software. Cossimulação. Verificação formal. Estimativa de desempenho. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA075"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG844",
+        "name": "Redes e Sistemas Abertos de Comunicação",
+        "credits": 4,
+        "syllabus": "Revisão de redes de computadores: modelo OSI e arquitetura TCP/IP. Redes de faixa larga: Frame Relay, DQDB e ATM. Introdução ao processamento distribuído aberto. Esforços de padronização. O modelo ISO/ODP. A arquitetura OMG/OMA (CORBA). A arquitetura TINA-C. Evolução dos padrões TCP/IP.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG847",
+        "name": "Projeto em Sistemas Abertos Distribuídos",
+        "credits": 4,
+        "syllabus": "Realização de projetos sobre temas abordados nos cursos redes e sistemas abertos de comunicação, especificação e validação de sistemas abertos distribuídos, e sistemas de tempo-real.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "EA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG864",
+        "name": "Arquitetura de Computadores",
+        "credits": 4,
+        "syllabus": "Introdução à arquitetura e histórico da computação, estrutura de interconexão(barramentos), memória interna, memória externa, sub-sistema de entrada/saída, suporte a sistema operacional, estrutura da unidade central de processamento, processamento aritmético, jogo de instrução (funções e modos de endereçamento), RISC, unidade de controle, processadores super-escalares, introdução a processamento paralelo.",
+        "reqs": [
+            [
+                {
+                    "code": "EA960"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG880",
+        "name": "Estudo Quantitativo do Sistema Neuro Muscular",
+        "credits": 4,
+        "syllabus": "Revisão sobre fisiologia das células excitáveis. Conceitos básicos de biomecânica do movimento. Anatomia e fisiologia dos músculos esqueléticos. Propriedades mecânicas dos músculos esqueléticos. A unidade motora. Receptores sensoriais musculares, cutâneos e articulares. Reflexos medulares. Controle encefálico do movimento. Sistema vestibular. Controle postural. Controle neural da marcha. Conceitos básicos de fisiopatologia do sistema neuromuscular. Noções sobre modelagem matemática do sistema neuromuscular.",
+        "reqs": [
+            [
+                {
+                    "code": "EA997"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG881",
+        "name": "Otimização Linear",
+        "credits": 4,
+        "syllabus": "Algoritmo simplex. Método de duas fases. Simplex revisado. Simplex canalizado. Dualidade. Algoritmo dual simplex. Análise de sensibilidade. Algoritmos de pontos interiores. Problemas de fluxo em rede via simplex.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG882",
+        "name": "Métodos Heurísticos para Otimização Combinatória",
+        "credits": 4,
+        "syllabus": "Generalidades sobre heurísticas. Avaliação de heurísticas: comportamento médio, análise de pior caso, análise probabilística. Heurísticas de construção. Heurísticas de melhoria. Heurísticas com relaxação. Metaheurísticas: Busca Tabu, Simulated Annealing, Algorítmos Genéticos. Outras metaheurísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG888",
+        "name": "Análise de Sinais e de Sistemas Lineares",
+        "credits": 4,
+        "syllabus": "Sinais contínuos e discretos. Equações a diferenças e diferenciais lineares. Transformada Z. Transformada Z aplicada à probabilidade. Transformada de Fourier. Amostragens de sinais. Ortogonalização de sinais. Transformada de Laplace. Variáveis de Estado. Resolução de Equações de Estado. Observabilidade e Controlabilidade. Estabilidade. Realimentação de Estado. Observadores. Compensadores. Sistemas Variantes no Tempo. Bibliografia: Chen, C.T., Linear Systems Theory and Design, Third Edition, Oxford University Press, 1999; A.V. Oppenheim and A.S. Willsky with I.T.Young, Signals and Systems,",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG898",
+        "name": "Processamento Digital de Imagens",
+        "credits": 4,
+        "syllabus": "Imagens digitais. Dispositivos de exibição e aquisição de imagens. Cor. Transformações espaciais e interpolação em intensidade. Transformadas de imagens. Melhoramento de imagens. Filtros. Segmentação de imagens. Descritores. Reconhecimento de padrões. Aplicações."
+    },
+    {
+        "code": "EG901",
+        "name": "Comunicações Ópticas: Fibras e Dispositivos",
+        "credits": 4,
+        "syllabus": "Faixas ópticas. Propagação da luz em fibras. Atenuação. Fibras multímodo: perfis, dispersão intermodal, mistura de modos. Fibras monomodo: dispersão do material e de guiagem, dispersão deslocada e aplainada. Estruturas e mecanismos básicos em dispositivos elétro-ópticos: bandas de energia, recombinações espontâneas e estimuladas, junções PN, heterojunções. LEDs e Lasers: eficiência, comportamento estático e dinâmico, espectros ópticos. Lasers Fabry-Perot e monomodais. Moduladores externos. Acoplamento fonte-fibra. Diodos PIN e APDs. Amplificadores ópticos a semicondutor e a fibra.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE540"
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG906",
+        "name": "Tecnologia Fotônica Aplicada às Redes de Comunicações",
+        "credits": 2,
+        "syllabus": "Tecnologia fotônica e tecnologia de comunicação multiponto. Componentes fotônicos para as redes fotônicas de comunicação. Configurações e aplicações de redes fotônicas WDM, redes estáticas, dinâmicas e roteadas em WDM. Proteção e restauração de redes fotônicas WDM.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE540"
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG907",
+        "name": "Enlaces Ópticos",
+        "credits": 4,
+        "syllabus": "Fibras ópticas: mecanismos de propagação do sinal. Fontes ópticas. Fotodetectores. Desempenho de receptores elétricos. Desempenho do enlace óptico. Códigos de linha. Enlaces analógicos CATV, SCM, intermodulação, requisitos sobre lasers. Pré-amplificação óptica. Enlaces opticamente amplificados. Enlaces WDM. Ambientes PHD, SDH e de conexão em rede (optical networking). Alternativas futuras para o enlace óptico: detecção coerente e solitons.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG908",
+        "name": "Redes Ópticas",
+        "credits": 4,
+        "syllabus": "Redes ópticas de primeira geração: SONET/SDH, FDDI, ATM, IP. Modelo de camadas hierárquicas. Redes WDM sem roteamento de comprimento de onda: Redes com roteamento de comprimento de onda: arquiteturas de nó, redes de caminhos ópticos, modelos de tráfego offline e online, modelos de atendimento com e sem bloqueio, ganhos de conversão de comprimento de onda. Anéis de ADM's ópticos, níveis de transparência. Minimização de equipamentos via encaminhamento do tráfego (\"grooming\"). Monitoramento, controle, gerenciamento, proteção e restauração na camada óptica. Comutação de pacotes ópticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG910",
+        "name": "Projeto de Circuitos Integrados Analógicos Laboratório",
+        "credits": 2,
+        "syllabus": "Treinamento em ferramentas computacionais dedicadas ao projeto de CI's. Exercícios de dimensionamento, seguindo uma metodologia pré-estabelecida, de circuitos integrados analógicos. Projeto completo de um circuito integrado analógico: da especificação até a geração de máscaras.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG911",
+        "name": "Projeto de Circuitos Integrados Analógicos-Teoria",
+        "credits": 4,
+        "syllabus": "Características dos dispositivos disponíveis na tecnologia CMOS standard. Células básicas para condicionamento de sinais. Espelhos de corrente. Circuitos translineares. Arquitetura dos amplificadores operacionais. Transcondutores MOS. Referências de tensão. Sensores inteligentes. Chaves analógicas MOS. Técnicas de capacitor chaveado e de corrente chaveada. Etapas de fabricação da tecnologia CMOS standard e interface projetista-foudry.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG912",
+        "name": "Laboratório de Processamento Digital de Sinais",
+        "credits": 4,
+        "syllabus": "Atividades práticas de implementação de aplicações digitais de processamento de sinais. Para isso são utilizados recursos de simulação digital, processadores dedicados (DSP) e dispositivos lógicos programáveis. As atividades cobrem os temas: análise de sinais (FFT,DCT), filtragens FIR e IIR e adaptativa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EA614"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG913",
+        "name": "Teoria de Antenas",
+        "credits": 4,
+        "syllabus": "Parâmetros de antenas. Antenas longas, de abertura, de fenda e \"Arrays\" de antenas. Antenas refletoras e de onda progressiva. Lentes em antenas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG914",
+        "name": "Nanociência e Nanoengenharia",
+        "credits": 4,
+        "syllabus": "Sistemas de manipulação/fabricação. Caracterização em escala nanométrica. Nanoscopía de tunelamento e de força atômica. Materiais nanoestruturados, nanocristalinos e nanoporosos. Silício e alumina porosos. Dinamite nanocristalino e poroso. Nanotubos e nanoesferas de carbono. Nanofabricação. Propriedades eletromagnéticas, térmicas e mecânicas. Novas propriedades dos materiais nanoestruturados (luminescência, emissão de elétrons). Compatibilidade de materiais nanoestruturados para próteses humanas. Crescimento ósseo e neural em materiais nanoestruturados. Motores de bactérias, vírus e moléculas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE530"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG915",
+        "name": "Teoria Eletromagnética Avançada I",
+        "credits": 4,
+        "syllabus": "Introdução das funções de Green. Funções de Green para equações de onda escalar. Funções diádicas de Green. Aplicações em propagação sobre terra plana e de ondas na presença de esferas, cilindros e cones metálicos. Cunhas e semiplanos condutores. Meios não homogêneos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE754"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG918",
+        "name": "Comunicações Móveis",
+        "credits": 4,
+        "syllabus": "Sistemas de rádio móvel. Celular. O canal de rádio móvel. Modelos de perdas de percurso. Distribuição estatística de sinal. Área de cobertura. Efeitos de propagação de multipercurso. Medidas de campo. Simulação de canal. Técnicas de diversidade. Esquemas de combinação. Interferência cocanal. Interferência de canal adjacente. Ruído. Modulação. Técnicas de múltiplo acesso. Transmissão de dados e sinalização. Protocolos de acesso. Técnicas de alocação de canais. Técnicas de encaminhamento alternativo. Técnicas de Handoff. Comutação e controle. Serviços. Sistemas Analógicos e digitais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG921",
+        "name": "Tecnologia de Circuitos Integrados",
+        "credits": 4,
+        "syllabus": "Microcircuitos dedicados, semidedicados e de uso geral. Tecnologias bipolar, versões NMOS e CMOS. Modelamento dos processos de epitaxia, oxidação, difusão, processos com plasma, implantação de íons, fotolitografia, geração de máscaras. Controle e otimização. Testes e avaliação de controle e otimização. Testes e avaliação de confiabilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE530"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG922",
+        "name": "Sensores Microeletrônicos",
+        "credits": 4,
+        "syllabus": "Sistemas de informação e processamento. Princípios básicos de física do semicondutor. Propriedades mecânicas do silício. Conversão de sinais em transdutores de silício. Sensores térmicos. Sensores magnéticos. Sensores radiantes. Sensores inteligentes. Interface. Conversão A/D.Tecnologia para a fabricação de sensores. Introdução a sistemas microeletrônicos. Empacotamento de sensores. Estabilidade e confiabilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG923",
+        "name": "Circuitos Eletrônicos Integrados",
+        "credits": 2,
+        "syllabus": "Resenha das tecnologias. Transístores unipolares e bipolares. Componentes passivos. Circuitos analógicos: amplificadores operacionais, etc. Circuitos lógicos. Problemas de projeto. Circuitos MSI e LSI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG924",
+        "name": "Projeto de Circuitos Integrados Digitais",
+        "credits": 2,
+        "syllabus": "Descrição de sistemas de projeto e confecção de c. integrados; dispositivos para uso em c. integrados; regras de projetos e técnicas de ataque ao projeto de circuitos digitais em LSI e VLSI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE610"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG925",
+        "name": "Projeto de Circuitos Integrados Analógicos (Bipolar)",
+        "credits": 4,
+        "syllabus": "Características fundamentais dos componentes (ativos e passivos) integrados implementados em tecnologia bipolar; células analógicas; topologias de amplificadores operacionais; circuitos translineares; técnicas de processamento de sinais analógicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG928",
+        "name": "Modelos de Componentes Bipolares I",
+        "credits": 4,
+        "syllabus": "Fenômenos físicos de condução de corrente. Análise de características de junções PN. Mobilidade e coeficientes de difusão; tempos de vida médios. Ruído. Estrutura do transístor bipolar. Modelos clássicos de funcionamento estático: Ebbers-Moll. Fenômenos adicionais. Transístor de potência.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG933",
+        "name": "Introdução às Comunicações Digitais",
+        "credits": 4,
+        "syllabus": "Sinais e sistemas, análise espectral, detecção de sinais. Modulação com e sem memória, demodulação coerente e não coerente. Modulações PAM, PSK, QAM, FSK, CPM. Interferência intersimbólica, critério de Nyquist, equalização linear, algorítmo de Viterbi, receptores de máxima verossimilhança. Sincronização, recuperação da portadora e do relógio. Introdução à modulação codificada. Técnicas de acesso múltiplo, TDMA, FDMA, CDMA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG934",
+        "name": "Dispositivos MOS I",
+        "credits": 4,
+        "syllabus": "Propriedades elétricas das estruturas MOS. Diagramas de faixas de energias e de cargas nas regiões: de acumulação, de banda plana de depleção e de inversão. Comportamento da capacitância MOS em função da tensão, da frequência e da temperatura. Interpretação da curva CxV para avaliação da qualidade de dióxido de silício (SiO(2)).",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG935",
+        "name": "Projeto de Circuitos Integrados Analógicos (MOS)",
+        "credits": 4,
+        "syllabus": "Características fundamentais dos componentes (ativos e passivos) integrados implementados em tecnologia MOS; células analógicas; topologias de amplificadores operacionais; chaves analógicas; capacitores chaveados; técnicas de processamento de sinais analógicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG938",
+        "name": "Engenharia de Som I: Eletroacústica",
+        "credits": 4,
+        "syllabus": "Este curso aborda todos os aspectos da acústica da comunicação, que é a maneira como o som viaja de uma fonte, através de um canal, até um receptor. Examinaremos os diferentes componentes dos sistemas envolvidos na comunicação acústica. Isso inclui: física do som, anatomia e fisiologia da audição humana, fontes sonoras, princípios de transdutores eletroacústicos, acústica de salas e simulação de ambientes acústicos, e a gravação e reprodução espacial do som. \n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA513"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG940",
+        "name": "Engenharia de Som II: Análise e Síntese de Sinais Musicais",
+        "credits": 4,
+        "syllabus": "Psico-acústica e aspectos fisiológicos da audição. Contextos históricos e culturais da tecnologia musical. Física de instrumentos musicais. Music Information Retrieval: principais problemas e algoritmos. Técnicas de análise e síntese digital de sinais sonoros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EA614"
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG950",
+        "name": "Processamento Digital de Sinais",
+        "credits": 6,
+        "syllabus": "Transformada de Fourier e amostragem de sinais; Sistemas discretos lineares; transformada Z; função sistema racional; transformada de Fourier discreta; convolução circular; algorítmos de transformação rápida de Fourier; estruturas de realização de sistemas discretos; efeitos de quantização de coeficientes e variáveis; métodos de projeto de filtros digitais.",
+        "reqs": [
+            [
+                {
+                    "code": "EA614"
+                },
+                {
+                    "code": "EA616"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG959",
+        "name": "Introdução à Teoria de Informação e Codificação",
+        "credits": 4,
+        "syllabus": "Conceitos básicos da teoria da informação, codificação de fontes discretas sem memória, capacidade de canal, teorema da codificação de canal, capacidade do canal Gaussiano; conceitos básicos de códigos de blocos lineares, códigos convolucionais, algoritmo de Viterbi.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG960",
+        "name": "Teoria da Informação",
+        "credits": 4,
+        "syllabus": "Introdução: informação e comunicação; entropia, entropia relativa e informação mútua; a propriedade da equipartição assintótica; compressão de dados; informação e teoria de jogos; capacidade de canal; entropia diferencial; o canal gaussiano; máxima entropia e análise espectral; teoria de taxa versus distorção; teoria de informação em redes de comunicação; teoria de informação e o mercado de capitais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG961",
+        "name": "Codificação I: Álgebra e Codificação de Bloco",
+        "credits": 4,
+        "syllabus": "Grupos, anéis, corpos finitos, módulos, álgebra de polinômios, corpos de Galois, espaços vetoriais, reticulados; código de grupo, códigos lineares; códigos cíclicos, códigos reticulados; decodificação com decisão abrupta; decodificação de códigos BCH, decodificação por lógica majoritária; decodificação com decisão suave; modulação codificada de bloco.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG962",
+        "name": "Introdução à Codificação Digital de Sinais",
+        "credits": 4,
+        "syllabus": "Introdução; caracterização de sinais; modelamento de sinais; amostragem; quantização escalar; PCM; predição linear; PCM diferencial (DPCM); modulação delta e sigma-delta; sistemas adaptativos; codificação por sub-bandas; codificação por Wavelets; codificação por transformadas ortogonais; alocação de bits; quantização vetorial; codificação por árvores e treliças; quantização vetorial adaptativa e taxa variável; codificação de entropia (Códigos de Huffman, run-length, aritméticos, e de Lempel-Ziv).",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG970",
+        "name": "Análise e Desempenho de Redes de Comunicações",
+        "credits": 4,
+        "syllabus": "Filas Markovianas, Fila M/GI. Filas com prioridades. Redes de filas. Análise de bloqueio em redes telefônicas. Desempenho das redes locais CSMA/CD, taken ring e serviços cíclicos (polling). Análise da rede metropolitana FDDI. RDSI de faixa estreita (RDSI-FE)e dimensionamento dos enlaces digitais. Redes ATM: policiamento de tráfego e controle de admissão de chamadas. Comutação ATM: estruturas de comutação e desempenho das estruturas de comutação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG972",
+        "name": "Codificação II: Códigos Convolucionais",
+        "credits": 4,
+        "syllabus": "Códigos de árvore, treliça, convolucionais invariantes, periodicamente variantes e variantes no tempo; propriedades estruturais e de distância; códigos de memória unitária e de memória parcial; códigos convolucionais ortogonais; códigos concatenados para canais com surto; códigos de treliça não lineares; proteção desigual de erros; decodificação de máxima verossimilhança (Viterbi) com decisão abrupta e decisão suave; decodificação sequencial; códigos de classes laterais usando códigos convolucionais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EG973",
+        "name": "História e Filosofia em Engenharia Elétrica e de Computação",
+        "credits": 2,
+        "syllabus": "Imersão intelectual em filosofia e teoria crítica na área de Engenharia Elétrica e de Computação, como uma experiência avançada e inovadora através da discussão de filmes e vídeos sobre os assuntos da área."
+    },
+    {
+        "code": "EG974",
+        "name": "Análise de Sinais Biológicos",
+        "credits": 4,
+        "syllabus": "1) Origem de sinais biológicos. 2) Fundamentos de sinais e sistemas. 3) Aquisição de sinais biológicos. 4) Filtragem de sinais biológicos para remoção de\nartefatos e interferências. 5) Conceitos introdutórios sobre processos estocásticos. 6) Análise da variabilidade, estacionariedade e relação sinal-ruído de\nprocessos fisiológicos. 7) Análise de auto-correlação e correlação cruzada entre processos fisiológicos. 8) Técnicas para estimação da densidade espectral de\npotência. 9) Análise de coerência entre processos fisiológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EA614"
+                }
+            ]
+        ]
+    }
+]

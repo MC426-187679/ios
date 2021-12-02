@@ -1,0 +1,28 @@
+{
+    "code": "51",
+    "name": "Matemática/Física/Matemática Aplicada e Computacional - Integral",
+    "tree": [
+        [
+            "F 128",
+            "F 129",
+            "FM003",
+            "MA111",
+            "MA141",
+            "MS149"
+        ],
+        [
+            "F 228",
+            "F 229",
+            "MA211",
+            "MA327",
+            "MC102"
+        ],
+        [
+            "F 328",
+            "F 329",
+            "MA311",
+            "ME210",
+            "MS211"
+        ]
+    ]
+}

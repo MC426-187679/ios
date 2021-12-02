@@ -1,0 +1,34 @@
+[
+    {
+        "code": "DE091",
+        "name": "Estágio Clínico Multidisciplinar Supervisionado I",
+        "credits": 8,
+        "syllabus": "Estágio Clínico Multidisciplinar Supervisionado realizado nas diferentes áreas e especialidades clínicas oferecidas na faculdade, visando complementar o desenvolvimento de experiência estruturada com base no conhecimento prático e vivências de situações reais, capacitando o aluno para solucionar problemas frequentes da atuação clínica profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "DC082"
+                },
+                {
+                    "code": "DC083"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DE101",
+        "name": "Estágio Clínico Multidisciplinar Supervisionado II",
+        "credits": 16,
+        "syllabus": "Estágio Clínico Multidisciplinar Supervisionado realizado em diferentes áreas e especialidades clínicas oferecidas na faculdade, visando complementar o desenvolvimento de experiência estruturada com base no conhecimento prático e vivências de situações reais, capacitando o aluno para solucionar problemas frequentes da atuação clínica profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "DC082"
+                },
+                {
+                    "code": "DC083"
+                }
+            ]
+        ]
+    }
+]

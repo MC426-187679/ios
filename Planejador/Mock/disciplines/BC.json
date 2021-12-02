@@ -1,0 +1,431 @@
+[
+    {
+        "code": "BC182",
+        "name": "Biologia Celular I",
+        "credits": 4,
+        "syllabus": "Revisão de conteúdos básicos. Principais componentes bioquímicos da célula. Métodos de estudo da célula. Estrutura, ultraestrutura, composição e fisiologia dos componentes celulares: biomembranas, envoltório nuclear, cromatina e cromossomos, nucléolo, ribossomos (com ênfase em síntese proteica), proteossomo, retículo endoplasmático, complexo de Golgi, sistema endossômico-lisossômico, mitocôndrias, peroxissomos. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqBy": [
+            "BC282",
+            "BC283",
+            "BC591",
+            "BC592",
+            "BC680",
+            "BC692",
+            "BC694",
+            "BC695",
+            "BC698",
+            "BC699",
+            "BH280",
+            "BH282",
+            "BH482"
+        ]
+    },
+    {
+        "code": "BC183",
+        "name": "Biologia Celular I",
+        "credits": 4,
+        "syllabus": "Revisão de conteúdos básicos. Principais componentes bioquímicos da célula. Métodos de estudo da célula. Estrutura, ultraestrutura, composição e fisiologia dos componentes celulares: biomembranas, envoltório nuclear, cromatina e cromossomos, nucléolo, ribossomos (com ênfase em síntese proteica), proteossomo, retículo endoplasmático, complexo de Golgi, sistema endossômico-lisossômico, mitocôndrias, peroxissomos. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqBy": [
+            "BC282",
+            "BC283",
+            "BC591",
+            "BC592",
+            "BC680",
+            "BC692",
+            "BC694",
+            "BC695",
+            "BC698",
+            "BH280",
+            "BH282",
+            "BH482"
+        ]
+    },
+    {
+        "code": "BC282",
+        "name": "Biologia Celular II",
+        "credits": 2,
+        "syllabus": "Matriz extracelular, citoesqueleto (microtúbulos, microfilamentos e filamentos intermediários), movimentação celular, sinalização celular, ciclo celular (mecanismos e controle molecular), meiose, diferenciação celular, morte celular e câncer como modelo para o estudo de alteraçoes nos processos celulares. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BC591",
+            "BC592",
+            "BC694",
+            "BC698",
+            "BC699",
+            "BH555",
+            "BI381",
+            "BI520"
+        ]
+    },
+    {
+        "code": "BC283",
+        "name": "Biologia Celular II",
+        "credits": 2,
+        "syllabus": "Matriz extracelular, citoesqueleto (microtúbulos, microfilamentos e filamentos intermediários), movimentação celular, sinalização celular, ciclo celular (mecanismos e controle molecular), meiose, diferenciação celular, morte celular e câncer como modelo para o estudo de alteraçoes nos processos celulares. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BC591",
+            "BC592",
+            "BC694",
+            "BC698",
+            "BH555",
+            "BI381",
+            "BI520"
+        ]
+    },
+    {
+        "code": "BC500",
+        "name": "Iniciação Científica em Biologia Celular I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia Celular. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC590",
+        "name": "Ultraestrutura Celular I",
+        "credits": 4,
+        "syllabus": "Metodologia básica para o estudo ultraestrutural, com ênfase na microscopia eletrônica de varredura. Noções básicas práticas sobre a operação do microscópio eletrônico. Interpretação dos resultados obtidos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC591",
+        "name": "Sinalização Celular",
+        "credits": 4,
+        "syllabus": "Princípios gerais da sinalização celular: receptores, mensageiros intracelulares e moléculas efetoras. Vias de sinalização celular mediadas por receptores de membrana e por receptores intracelulares. Integração entre os sistemas de sinalização. Sinalização na regulação de diferentes processos celulares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC183"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC282"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC283"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC592",
+        "name": "Biologia Celular do Câncer",
+        "credits": 4,
+        "syllabus": "O câncer como modelo de estudo para a Biologia Celular. Alterações nos processos biológicos e componentes celulares que contribuem para o desenvolvimento e progressão tumoral. Metodologias para a pesquisa, diagnóstico e tratamento do câncer.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC183"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC282"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC283"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC600",
+        "name": "Iniciação Científica em Biologia Celular II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia Celular. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC680",
+        "name": "Biologia Celular e Molecular",
+        "credits": 4,
+        "syllabus": "Temas de destaque atual sobre organelas celulares, metodologias de estudo ou funções celulares.",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC690",
+        "name": "Ultraestrutura Celular II",
+        "credits": 4,
+        "syllabus": "Metodologia básica para o estudo ultraestrutural, com ênfase no preparo para a microscopia eletrônica de transmissão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC692",
+        "name": "Princípios de Cultura Celular",
+        "credits": 4,
+        "syllabus": "Noções básicas sobre cultura de células animais. Métodos de esterilização. Culturas de curta duração. Manuseio de linhagens celulares.",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC694",
+        "name": "Preparo de Material Didático em Biologia Celular",
+        "credits": 3,
+        "syllabus": "Método de preparação de lâminas para análise histológica, esfregaços, esmagamento. Cortes de congelamento e parafina, fixação dos cortes, coloração com Hematoxilina e eosina, Giensa, hematoxilina férrica, Imunofluorescência, coloração com DAB, DAPI. Preparo e visualização de materiais para microscopia eletrônica de varredura. Lâminas para análise de mitose e meiose em vegetais. Métodos de utilização destes materiais, preparo de roteiros de prática para sua aplicação.",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                },
+                {
+                    "code": "BC282"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                },
+                {
+                    "code": "BC283"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC695",
+        "name": "Citogenética",
+        "credits": 5,
+        "syllabus": "Métodos clássicos e moleculares utilizados no estudo da estrutura e da função dos cromossomos. Análise da variabilidade cariotípica e sua importância em estudos taxonômicos e filogenéticos.",
+        "reqs": [
+            [
+                {
+                    "code": "BC182"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC696",
+        "name": "Ensino de Biologia II: Biologia Celular",
+        "credits": 4,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Biologia Celular. Abordagem e elaboração de diferentes metodologia para o ensino de Biologia Celular. Articulação temática e integrada de temas contemporâneos para o ensino de biologia. Criação de conteúdos e formas de ensinar pautados na ideia de transversalidade no currículo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC698",
+        "name": "Cromatina e Epigenética",
+        "credits": 4,
+        "syllabus": " Estrutura e organização da cromatina. Dinâmica cromatínica  em modelos especiais, envelhecimento e  situações de estresse.Mecanismos epigenéticos: modificações no DNA, em Histonas e RNAs não codificantes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "BC182"
+                },
+                {
+                    "code": "BC282"
+                }
+            ],
+            [
+                {
+                    "code": "BC183"
+                },
+                {
+                    "code": "BC283"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC699",
+        "name": "Introdução à Biologia Sintética",
+        "credits": 3,
+        "syllabus": "De clonagem à construção de organismos sintéticos. Engenharia genética, componentes sintéticos, promotores modulares, competições internacionais para a construção de partes sintéticas compatíveis), colaborações internacionais.  Novas estratégias e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BC182"
+                },
+                {
+                    "code": "BC282"
+                },
+                {
+                    "code": "BG380"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC700",
+        "name": "Estágio Supervisionado em Biologia Celular I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas junto ao Departamento de Biologia Funcional e Estrutural, em uma das áreas de pesquisa em Biologia Celular.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BC800",
+        "name": "Estágio Supervisionado em Biologia Celular II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas junto ao Departamento de Biologia Funcional e Estrutural, em uma das áreas de pesquisa em Biologia Celular.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

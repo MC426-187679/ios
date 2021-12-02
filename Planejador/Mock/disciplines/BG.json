@@ -1,0 +1,438 @@
+[
+    {
+        "code": "BG091",
+        "name": "Evolução",
+        "credits": 4,
+        "syllabus": "Abordagem histórica: as ideias sobre biologia, dos gregos clássicos a Darwin; \"A Origem das Espécies\" de C. Darwin: a abrangência e os impactos da obra em diferentes áreas; Evidências do processo evolutivo: paleontologia, anatomia comparada, embriologia, genética, bioquímica, distribuição geográfica; A síntese evolutiva; Genética de populações - teorema de Hardy-Weinberg; Processos micro e macroevolutivos."
+    },
+    {
+        "code": "BG180",
+        "name": "Introdução à Evolução",
+        "credits": 2,
+        "syllabus": "Revisão de conteúdos básicos. Conceitos introdutórios da teoria de Darwin e a \"Origem das espécies\", a síntese evolutiva. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BG282",
+            "BG481",
+            "BT202"
+        ]
+    },
+    {
+        "code": "BG181",
+        "name": "Introdução à Evolução",
+        "credits": 2,
+        "syllabus": "Revisão de conteúdos básicos. Conceitos introdutórios da teoria de Darwin e a \"Origem das espécies\", a síntese evolutiva. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BG282",
+            "BG481",
+            "BT202"
+        ]
+    },
+    {
+        "code": "BG200",
+        "name": "Bioestatística",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de probabilidade e estatística descritiva. Principais distribuições discretas e contínuas: Binomial, Hipergeométrica, Poisson, Normal, t, F, qui-quadrado. Amostragem. Estimação, teste de hipótese e intervalos de confiança para médias, proporções e variâncias. Regressão e correlação. Análise de variância. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "MS380"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BE682",
+            "BL682"
+        ]
+    },
+    {
+        "code": "BG282",
+        "name": "Genética I",
+        "credits": 2,
+        "syllabus": "Ciclos de vida. Bases da hereditariedade. Segregações, ligações, interações gênicas e mapa genético. Herança extranuclear, determinação do sexo. Herança ligada ao sexo. Mutações. Noções de citogenética e de genética quantitativa.",
+        "reqs": [
+            [
+                {
+                    "code": "BG180"
+                }
+            ],
+            [
+                {
+                    "code": "BG181"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BG380",
+            "BG520"
+        ]
+    },
+    {
+        "code": "BG380",
+        "name": "Genética Fisiológica e Molecular",
+        "credits": 4,
+        "syllabus": "DNA: Características e propriedades. Base molecular da mutação e recombinação. Transcrição e tradução. Sistemas de regulação. Mecanismos de recombinação em microorganismos. DNA recombinante. Elaboração e apresentação de projetos científicos na área de Genética. Elaboração de relatórios na área de Genética. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BG282"
+                }
+            ],
+            [
+                {
+                    "code": "BG481"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BC699",
+            "BG480",
+            "BG582",
+            "BG680",
+            "BH520",
+            "BH555",
+            "BH780",
+            "BV782",
+            "BV880",
+            "BV916"
+        ]
+    },
+    {
+        "code": "BG480",
+        "name": "Genética e Evolução",
+        "credits": 4,
+        "syllabus": "O processo evolutivo. Mecanismos de evolução: diversificação gênica e formação da reserva gênica. Equilíbrio de Hardy-Weinberg. Noções de genética de populações. Seleção natural e artificial. Mecanismos de isolamento e modos de reprodução. Fixação filogenética e tendências evolutivas. Filogenia em plantas, animais e no homem. Elaboração e apresentação de projetos científicos na área de Genética. Elaboração de relatórios e análise de textos na área de Genética em Língua Portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BG380"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BG580",
+            "BG582",
+            "BT202"
+        ]
+    },
+    {
+        "code": "BG481",
+        "name": "Genética I",
+        "credits": 2,
+        "syllabus": "Ciclos de vida. Bases da hereditariedade. Segregações, ligações, interações gênicas e mapa genético. Herança extranuclear, determinação do sexo. Herança ligada ao sexo. Mutações. Noções de citogenética e de genética quantitativa.",
+        "reqs": [
+            [
+                {
+                    "code": "BG180"
+                }
+            ],
+            [
+                {
+                    "code": "BG181"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BG380",
+            "BG520"
+        ]
+    },
+    {
+        "code": "BG500",
+        "name": "Iniciação Científica em Genética I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Genética e Evolução. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG501",
+        "name": "Iniciação Científica em Evolução I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Evolução. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG520",
+        "name": "Genética Fisiológica e Molecular",
+        "credits": 4,
+        "syllabus": "DNA: Características e propriedades. Base molecular da mutação e recombinação. Transcrição e tradução. Sistemas de regulação. Mecanismos de recombinação em microorganismos. DNA recombinante. Elaboração e apresentação de projetos científicos na área de Genética. Elaboração de relatórios na área de Genética. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BG282"
+                }
+            ],
+            [
+                {
+                    "code": "BG481"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BG582",
+            "BG680",
+            "BH520",
+            "BH555",
+            "BH780",
+            "BV782",
+            "BV880",
+            "BV916"
+        ]
+    },
+    {
+        "code": "BG580",
+        "name": "Mecanismos de Evolução",
+        "credits": 6,
+        "syllabus": "Variabilidade fenotípica e adaptação. Estrutura genética das populações. Seleção natural. Coeficiente de seleção e tipos de seleção. Picos adaptativos e especiação. Evolução dos grandes grupos.",
+        "reqs": [
+            [
+                {
+                    "code": "BG480"
+                }
+            ],
+            [
+                {
+                    "code": "BG680"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG582",
+        "name": "Genética Molecular",
+        "credits": 6,
+        "syllabus": "Biblioteca de DNA. Biblioteca Genômica. Vetores de clonagem. Clonagem e expressão em bactérias. Clonagem e expressão em plantas. Sequenciamento de DNA. Mutagênese sítio dirigida. Engenharia de proteínas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BG480"
+                }
+            ],
+            [
+                {
+                    "code": "BG380"
+                }
+            ],
+            [
+                {
+                    "code": "BG520"
+                }
+            ],
+            [
+                {
+                    "code": "BG680"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG590",
+        "name": "Genética para as Ciências Exatas",
+        "credits": 4,
+        "syllabus": "Estrutura de organismos. Conceito funcional do gene. Regulação gênica. Estrutura de genomas. Projetos Genoma e proteoma. Microarrays.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG594",
+        "name": "Ensino de Biologia V: Genética e Evolução",
+        "credits": 4,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Genética e Evolução. Abordagem e elaboração de diferentes metodologias par o ensino de Genétioca e Evolução. Articulação temática e integrada de temas contemporâneos para o ensino de biologia. Criação de conteúdos e formas de ensinar pautados na ideia de transversalidade no currículo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG600",
+        "name": "Iniciação Científica em Genética II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Genética. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG601",
+        "name": "Iniciação Científica em Evolução II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Evolução. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG680",
+        "name": "Genética e Evolução",
+        "credits": 4,
+        "syllabus": "O processo evolutivo. Mecanismos de evolução: diversificação gênica e formação da reserva gênica. Equilíbrio de Hardy-Weinberg. Noções de genética de populações. Seleção natural e artificial. Mecanismos de isolamento e modos de reprodução. Fixação filogenética e tendências evolutivas. Filogenia em plantas, animais e no homem. Elaboração e apresentação de projetos científicos na área de Genética. Elaboração de relatórios e análise de textos na área de Genética em Língua Portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BG380"
+                }
+            ],
+            [
+                {
+                    "code": "BG520"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BG580",
+            "BG582",
+            "BT202"
+        ]
+    },
+    {
+        "code": "BG691",
+        "name": "Genética Molecular e Genômica Básica",
+        "credits": 4,
+        "syllabus": "Conceito de gene, genoma, EST, proteoma, análise da expressão gênica em larga escala, genoma estrutural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG700",
+        "name": "Estágio Supervisionado em Genética I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do Curso de Bacharelado em Ciências Biológicas, na área de Genética e Evolução do Departamento de Genética, Evolução e Bioagentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG712",
+        "name": "Estágio Supervisionado em Evolução I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de pesquisa em Evolução do Departamento de Genética, Evolução e Bioagentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG800",
+        "name": "Estágio Supervisionado em Genética II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de Genética e Evolução do departamento de Genética, Evolução e Bioagentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG812",
+        "name": "Estágio Supervisionado em Evolução II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de pesquisa em Evolução do Departamento de Genética, Evolução e Bioagentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BG850",
+        "name": "Biotecnologia Molecular",
+        "credits": 2,
+        "syllabus": "A utilização de organismos geneticamente modificados tem despertado grande interesse na sociedade. O curso visa abordar o conhecimento sobre o que é o gene, a base molecular da transgenia e os métodos para obtenção de OGM. O empreendedorismo dos alunos será fortemente estimulado com aulas especialmente dedicadas a planos de negócios, incubadoras, patentes, entre outros. As aplicações da biotecnologia e a análise e gerenciamento dos riscos associados também serão abordados. Especial ênfase será dada aos estudos de impacto ambiental e elaboração de EIA/RIMA."
+    },
+    {
+        "code": "BG870",
+        "name": "Introdução a Biologia Computacional",
+        "credits": 4,
+        "syllabus": "Introdução a Biologia Computacional. Bancos de dados de informação biológica. Alinhamento de sequências. Identificação de motivos e domínios regulatórios. Predição gênica. Predição de estrutura de RNA e proteína. Reconstrução filogênética. Análise genômica e genômica comparativa. Metagenômica. Análise de expressão gênica. Redes de regulação gênica e redes metabólicas. Introdução a Biologia de Sistemas."
+    }
+]

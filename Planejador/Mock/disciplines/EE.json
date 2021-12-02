@@ -1,0 +1,1613 @@
+[
+    {
+        "code": "EE001",
+        "name": "Ensino de Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Formação de recursos humanos para o ensino da Engenharia Elétrica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE002",
+        "name": "Ensino de Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Formação de recursos humanos para o ensino da Engenharia Elétrica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE003",
+        "name": "Ensino de Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Formação de recursos humanos para o ensino da Engenharia Elétrica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE004",
+        "name": "Ensino de Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Formação de recursos humanos para o ensino da Engenharia Elétrica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE015",
+        "name": "Estágio Científico e Tecnológico I",
+        "credits": 6,
+        "syllabus": "Realização de estágio relacionado a projeto de iniciação científica e tecnológica em engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE016"
+        ]
+    },
+    {
+        "code": "EE016",
+        "name": "Estágio Científico e Tecnológico II",
+        "credits": 6,
+        "syllabus": "Realização de estágio relacionado a projeto de iniciação científica e tecnológica em engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "EE015"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE017",
+        "name": "Estágio em Empresa",
+        "credits": 12,
+        "syllabus": "Estudos de situações reais em engenharia, com acompanhamento de projetos, especificação, fabricação, montagem, programação, configuração e testes de equipamentos e programas junto a empresas credenciadas pela Universidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE041",
+        "name": "Tecnologia Eletrônica II",
+        "credits": 5,
+        "syllabus": "Projeto de dispositivos eletrônicos; tópicos de projeto assistido por computador; construção de máscaras; fotogravação; epitaxia, oxidação e difusão em silício; metalização; montagem e encapsulamento. Tópicos sobre a produção em série de dispositivos semicondutores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EE941"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE071",
+        "name": "Antenas",
+        "credits": 4,
+        "syllabus": "Dipolos curto e de meio comprimento de onda. Antenas Loop, de onda progressiva e hélices. Aberturas. Antenas de faixa larga.",
+        "reqs": [
+            [
+                {
+                    "code": "EE540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE082",
+        "name": "Introdução à Codificação Digital de Sinais",
+        "credits": 4,
+        "syllabus": "Caracterização de sinais. Modelamento de sinais. Amostragem. Quantização escalar. PCM. Predição linear. PCM diferencial. Codificação por sub-bandas. Codificação por Wavelets. Codificação por transformadas ortogonais. Alocação de bits. Quantização vetorial. Codificação de sinais de voz, áudio, imagem e vídeo.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE083",
+        "name": "Propagação",
+        "credits": 4,
+        "syllabus": "Propagação de ondas de rádio. Propagação de ondas de superfície. Propagação de ondas troposféricas. Propagação ionosférica. Ruído cósmico e atmosférico. Comunicações espaciais.",
+        "reqs": [
+            [
+                {
+                    "code": "EE540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE084",
+        "name": "Introdução à Teoria de Informação e Codificação",
+        "credits": 4,
+        "syllabus": "Fundamentos da teoria da informação. Capacidade de canal. Codificação de fonte. Introdução aos campos finitos. Códigos de bloco lineares. Códigos cíclicos; Códigos convolucionais. Protocolos ARQ. Introdução à criptografia.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE085",
+        "name": "Comunicações Sem Fio",
+        "credits": 4,
+        "syllabus": "Sistemas rádio móvel. Arquitetura de múltiplo acesso. Sistema celular. Propagação em sistemas móveis. Efeitos de multipercurso. Diversidade/Combinação. Exemplos de sistemas: AMPS, TIA-136, TIA-95, sistema GSM.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE089",
+        "name": "Transmissão Digital",
+        "credits": 4,
+        "syllabus": "Fundamentos da teoria estatística da decisão. Análise no espaço de sinais. Receptores Ótimos para um Canal AWGN. Codificação de Canal. Modulação e codificação. Sincronização. Equalização. Técnicas de Espalhamento Espectral.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE090",
+        "name": "Sistemas de Comunicações",
+        "credits": 4,
+        "syllabus": "Sistemas de telefonia. Sistemas de Transmissão. Rádio Digital. Sistemas de comunicação por Fibras Ópticas. Sistemas de Comunicação via satélite . Sistemas de Comunicação sem Fio. Redes de Comunicação de Dados.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE097",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE098",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE103",
+        "name": "Laboratório de Engenharia Elétrica I",
+        "credits": 2,
+        "syllabus": "Atividades de laboratório relacionadas ao conhecimento de Engenharia Elétrica adquiridos pelo aluno nas disciplinas do Curso até o 3º semestre.\nObs.: Esta disciplina será ministrada quinzenalmente. Recomenda-se que seja cursada junto ao após EA611",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE522"
+        ]
+    },
+    {
+        "code": "EE110",
+        "name": "Introdução à Engenharia Elétrica e à Engenharia de Computação",
+        "credits": 2,
+        "syllabus": "Visão geral dos cursos de Engenharia Elétrica e de Engenharia de Computação para estudantes ingressantes. Estrutura da Unicamp e da FEEC: Ensino, Pesquisa e Extensão. Sistema de Bibliotecas e Setor de Informática. Organização do curso de graduação. O profissional de Engenharia. Princípios de Metodologia Científica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE300",
+        "name": "Fundamentos da Física Moderna",
+        "credits": 4,
+        "syllabus": "Introdução à teoria da relatividade restrita. A teoria cinética da matéria. Quantização da radiação, da carga elétrica e da energia. Modelos atômicos clássicos. Propriedades ondulatórias das partículas. Equação de Schrödinger. O átomo com muitos elétrons. A estrutura do núcleo atômico e reações nucleares. Partículas elementares. Moléculas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 228"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE410"
+        ]
+    },
+    {
+        "code": "EE301",
+        "name": "Laboratório de Fundamentos Físicos para a Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Medidas em condutores. Efeito da temperatura. Condução em eletrólitos. Condução e ruptura em materiais dielétricos. Difração e refração da Luz. Polarização e birrefringência. Espectrometria óptica. Efeito fotoelétrico e efeito Hall.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "F 229"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE400",
+        "name": "Métodos da Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Sistemas de coordenadas e vetores. Gradiente, divergente, rotacional e laplaciano. Teoremas de Gauss e de Stokes. Funções de variáveis complexas. Resíduos e pólos. Método de transformação conforme; método de separação de variáveis na solução da equação de Laplace.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA616",
+            "EA619",
+            "EE540"
+        ]
+    },
+    {
+        "code": "EE410",
+        "name": "Introdução à Ciência dos Materiais para Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Estado sólido. Propriedades mecânicas dos sólidos. Propriedades ópticas dos materiais. Propriedades magnéticas. Propriedades térmicas. Propriedades elétricas.",
+        "reqs": [
+            [
+                {
+                    "code": "EE300"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE530",
+            "EE941",
+            "EG023",
+            "EG024"
+        ]
+    },
+    {
+        "code": "EE521",
+        "name": "Introdução à Teoria Eletromagnética",
+        "credits": 4,
+        "syllabus": "Força e campo eletrostático. Densidade de fluxo elétrico e lei de Gauss. Potencial eletrostático. Corrente estacionária. Condutor e Resistência. Dielétrico e capacitância. Equações de Poisson e Laplace. Campo magnetostático. Campos variáveis no tempo. Força em materiais magnéticos indutância. Sistemas de unidade.",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                },
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "F 129"
+                },
+                {
+                    "code": "MA211"
+                }
+            ],
+            [
+                {
+                    "code": "EA513"
+                },
+                {
+                    "code": "F 228"
+                },
+                {
+                    "code": "F 229"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE540",
+            "EG105",
+            "ET016",
+            "ET520",
+            "ET521",
+            "ET616",
+            "F 428",
+            "F 429"
+        ]
+    },
+    {
+        "code": "EE522",
+        "name": "Laboratório de Eletromagnetismo",
+        "credits": 2,
+        "syllabus": "Mapeamento de equipotências. Fotocópia eletrostática. Descargas elétricas em alta tensão. Interação de campos magnéticos e elétricos com feixe de elétrons. Bomba iônica. Radiação de antena de micro-ondas.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE103"
+                },
+                {
+                    "code": "F 228"
+                },
+                {
+                    "code": "F 229"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE755"
+        ]
+    },
+    {
+        "code": "EE530",
+        "name": "Eletrônica Básica I",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de projeto. Amplificadores operacionais Ideais. Circuitos com amplificadores operacionais. Semicondutores. Circuitos com diodos semicondutores. Circuitos com FET. Circuitos com transistores bipolares. Amplificadores de potência e fontes de alimentação.",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                },
+                {
+                    "code": "EE410"
+                }
+            ],
+            [
+                {
+                    "code": "F 589"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA091",
+            "EE531",
+            "EE609",
+            "EE610",
+            "EE640",
+            "EE833",
+            "EE841",
+            "EG733",
+            "EG914",
+            "EG921",
+            "EM054",
+            "F 849"
+        ]
+    },
+    {
+        "code": "EE531",
+        "name": "Laboratório de Eletrônica Básica I",
+        "credits": 2,
+        "syllabus": "Diodos. Transistores bipolares. Transistores JFET. Transistores MOS e estruturas CMOS. Caracterização e aplicações.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE530"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA201",
+            "EA201",
+            "EE641",
+            "EM054"
+        ]
+    },
+    {
+        "code": "EE532",
+        "name": "Eletrônica Aplicada",
+        "credits": 4,
+        "syllabus": "Dispositivos semicondutores: diodos, transistores BJT e MOS. Circuitos com amplificadores operacionais. Conversão de dados: características, amostragem e análise de ruído. Sensores: características e condicionamento de seus sinais. Atuadores.",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA091",
+            "EE534",
+            "EE610",
+            "ES663",
+            "ES704"
+        ]
+    },
+    {
+        "code": "EE534",
+        "name": "Laboratório de Eletrônica Aplicada",
+        "credits": 2,
+        "syllabus": "Análise e síntese de circuitos eletrônicos utilizando: diodos, transistores BJT e MOS, amplificadores operacionais, conversores de dados, sensores e atuadores.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE532"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA201",
+            "EA201"
+        ]
+    },
+    {
+        "code": "EE540",
+        "name": "Teoria Eletromagnética",
+        "credits": 4,
+        "syllabus": "Campos variáveis no tempo e equações de Maxwell. Ondas planas no vácuo e em dielétricos: polarização, impedância do meio. Propagação de ondas eletromagnéticas: velocidade de fase e de grupo, fluxos de potência, atenuação. Reflexão e refração em interfaces planas: ondas TE e TM, ângulo de Brewster, reflexão total, ondas evanescentes. Potenciais retardados e antenas. Radiopropagação. Difração.",
+        "reqs": [
+            [
+                {
+                    "code": "EE400"
+                },
+                {
+                    "code": "EE521"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE071",
+            "EE083",
+            "EE645",
+            "EE754",
+            "EE855",
+            "EE904",
+            "EG901",
+            "EG906",
+            "EG907",
+            "EG913"
+        ]
+    },
+    {
+        "code": "EE600",
+        "name": "Fundamentos Matemáticos da Engenharia de Computação",
+        "credits": 4,
+        "syllabus": "Conjuntos, mapeamentos e relações. Introdução à matemática combinatória. Indução matemática e métodos de contagens. Linguagens e automatas. Elementos de lógica proposicional e de predicados. Equações a diferenças. Grafos e matrizes.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE609",
+        "name": "Laboratório de Eletrônica Digital I",
+        "credits": 2,
+        "syllabus": "Circuitos de temporização. Circuitos lógicos-digitais. Circuitos Integrados Digitais. Dispositivos Conversores A/D e D/A. Lógicos Programáveis-PLDs.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE530"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE610",
+        "name": "Eletrônica Digital I",
+        "credits": 4,
+        "syllabus": "Pulsos e circuitos de temporização. Circuitos lógicos-digitais. Circuitos Integrados Digitais. Dispositivos Lógicos Programáveis-PLDs.",
+        "reqs": [
+            [
+                {
+                    "code": "EE530"
+                }
+            ],
+            [
+                {
+                    "code": "EE532"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE929",
+            "EE931",
+            "EE932",
+            "EG924"
+        ]
+    },
+    {
+        "code": "EE640",
+        "name": "Eletrônica Básica II",
+        "credits": 4,
+        "syllabus": "Projeto de amplificadores com BJT. Estrutura dos amplificadores operacionais. Resposta em frequência de amplificadores. Circuitos quasi-lineares. Circuitos não-lineares. Dispositivos de aplicação específica. Filtros ativos.",
+        "reqs": [
+            [
+                {
+                    "code": "EE530"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE641",
+            "EE824",
+            "EE828",
+            "EG625",
+            "EG663",
+            "EG910",
+            "EG911",
+            "EG922",
+            "EG923",
+            "EG925",
+            "EG928",
+            "EG934",
+            "EG935"
+        ]
+    },
+    {
+        "code": "EE641",
+        "name": "Laboratório de Eletrônica Básica II",
+        "credits": 2,
+        "syllabus": "Amplificador a transistor bipolar. Amplificador diferencial. Amplificador operacional. Circuitos com amplificadores operacionais.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE531"
+                },
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE645",
+        "name": "Aplicações em Teoria Eletromagnética",
+        "credits": 4,
+        "syllabus": "Introdução aos métodos aproximados em eletromagnetismo. Ondas eletromagnéticas. Propagação de ondas eletromagnéticas. Fibras ópticas: Tecnologia e Aplicações. Fundamentos de óptica. Princípios de Masers e Lasers.",
+        "reqs": [
+            [
+                {
+                    "code": "EE540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE754",
+        "name": "Ondas Guiadas",
+        "credits": 4,
+        "syllabus": "Guias dielétricos: surgimento de modos TE e TM em guias laminares, equação modal, guias circulares. Fibras ópticas: programação modal, aproximação de guiamento fraco, modos linearmente polarizados. Tipologia das fibras ópticas. Atenuação e dispersão em fibras ópticas. Guias metálicos: geometria retangular e circular, modos dominantes, filtros modais, perdas nas paredes. O modo TEM em guias com múltiplos condutores: linhas de transmissão, modelo circuital. A Teoria de linhas de transmissão: impedância característica, transformação de impedâncias, casamento de impedâncias, carta de Smith.",
+        "reqs": [
+            [
+                {
+                    "code": "EE540"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE755",
+            "EE904",
+            "EG606",
+            "EG612",
+            "EG915"
+        ]
+    },
+    {
+        "code": "EE755",
+        "name": "Laboratório de Ondas Guiadas",
+        "credits": 2,
+        "syllabus": "Experiências relacionadas com estruturas de dois pares de terminais e com linhas de transmissão.\nObs.: Recomenda-se que seja cursada concomitantemente com EE753. Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE522"
+                },
+                {
+                    "code": "EE754"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE824",
+        "name": "Eletrônica Aplicada II",
+        "credits": 4,
+        "syllabus": "Análise dos amplificadores para pequenos sinais. Osciladores. Conversores. Detetores. Multiplicadores de frequência. Amplificadores sintonizados de potência. Moduladores FM e AM. Demoduladores FM e AM.",
+        "reqs": [
+            [
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE828",
+        "name": "Laboratório de Circuitos Analógicos MOS",
+        "credits": 2,
+        "syllabus": "Circuitos elementares para o condicionamento e processamento de sinais analógicos, utilizando transistores MOS: Amplificador de tensão, Amplificador de corrente, Espelho de corrente, Deslocadores de nível, Estágios de ganho de tensão e corrente; Projeto e implementação de circuitos integrados analógicos MOS.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE640"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE833",
+        "name": "Eletrônica de Potência",
+        "credits": 4,
+        "syllabus": "Diodos de potência. Retificadores. Tiristores. Retificadores controlados. Controladores de tensão AC. Transistores de potência. Retalhadores DC. Inversores. Controle de Motores DC. Controle de Motores AC. Experimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "EE530"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG632",
+            "EG644"
+        ]
+    },
+    {
+        "code": "EE838",
+        "name": "Introdução à Engenharia de Som I",
+        "credits": 2,
+        "syllabus": "Esta disciplina irá permitir que o estudante obtenha uma visão abrangente de assuntos associados à engenharia de som, através de uma série de palestras ministradas por diversos professores e pesquisadores desta área.\nO foco principal desta disciplina será na acústica física (acústica arquitetônica, conforto acústico, ruído e vibrações, entre outros) e os conteúdos específicos irão variar com a cada oferecimento."
+    },
+    {
+        "code": "EE840",
+        "name": "Introdução à Engenharia do Som II",
+        "credits": 2,
+        "syllabus": "Esta disciplina irá permitir que o estudante obtenha uma visão abrangente de assuntos associados à engenharia de som, através de uma série de palestras ministradas por diversos professores e pesquisadores desta área.\nO foco principal desta disciplina será na audição e psicoacústica, composição algorítmica e fundamentos do áudio digital entre outros e os conteúdos específicos irão variar a cada oferecimento."
+    },
+    {
+        "code": "EE841",
+        "name": "Modelagem de Dispositivos Eletrônicos",
+        "credits": 3,
+        "syllabus": "Propriedades de transporte de carga em semicondutores; equação do diodo, capacitância das junções, distribuições homogêneas de dopagem; modelos para os transitores bipolares - Ebers-Moll e Gummel-Poon; modelos para transistores unipolares.",
+        "reqs": [
+            [
+                {
+                    "code": "EE530"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE855",
+        "name": "Introdução às Micro-Ondas",
+        "credits": 4,
+        "syllabus": "Conceitos básicos. Estruturas de transmissão e ressoadores. Geração de microondas por válvulas. Representação de circuitos de microondas. Medidas em microondas.",
+        "reqs": [
+            [
+                {
+                    "code": "EE540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE881",
+        "name": "Princípios de Comunicações I",
+        "credits": 4,
+        "syllabus": "Canal de comunicação. Processos estocásticos. Modulação de amplitude. Modulação angular. Codificação de sinais analógicos. Transmissão digital em banda básica. Modulação digital. Sistemas de múltiplo acesso. Tópicos em comunicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EA614"
+                },
+                {
+                    "code": "ME323"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE082",
+            "EE084",
+            "EE085",
+            "EE089",
+            "EE090",
+            "EE882",
+            "EE900",
+            "EE903",
+            "EE904",
+            "EE981",
+            "EG901",
+            "EG906",
+            "EG908",
+            "EG918",
+            "EG933",
+            "EG959",
+            "EG960",
+            "EG961",
+            "EG962",
+            "EG970",
+            "EG972"
+        ]
+    },
+    {
+        "code": "EE882",
+        "name": "Laboratório de Comunicações I",
+        "credits": 2,
+        "syllabus": "Experiências de laboratório com: Sinais. Modulação AM convencional e espalhada, DSB-SC e FM. Amostragem. Codificação. TV.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE883",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina. \nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE884",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE885",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE886",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE887",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE888",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE889",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE890",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE891",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE892",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE893",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O Pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE894",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE895",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE896",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE897",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE898",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE899",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE900",
+        "name": "Televisão",
+        "credits": 4,
+        "syllabus": "Introdução. Princípios de Televisão. Definições Básicas. Sistemas de TV e HDTV. Conceitos Básicos de TV. Sincronismo. Equacionamento para o sinal analógico. HDTV. Modulações VSB e COFDM. Recepção de Sinais de TV. Estúdio de TV. Geração dos sinais de vídeo e áudio em HDTV. Sinais de teste de televisão. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE901",
+        "name": "Robótica",
+        "credits": 4,
+        "syllabus": "Introdução. Descrição dos elementos de um robô. Transformações homogêneas. Modelo cinemático. Modelo cinemático reverso. Velocidade da garra e relação entre esforços. Jacobiano. Modelo dinâmico. Geração de trajetórias. Controle de posição. Controle de esforço. Sensores de posição. Ruídos e isolamento. Atuadores.",
+        "reqs": [
+            [
+                {
+                    "code": "EA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE903",
+        "name": "Processamento Digital de Sinais",
+        "credits": 4,
+        "syllabus": "Revisão de transformada de Fourier de sinais discretos, transformada Z e sistemas lineares invariantes com o deslocamento. Processameto discretos de sinais analógicos e variação da taxa de mostragem. Análise de sistemas lineares invariantes com o deslocamento. Transformada discreta de Fourier e transformada rápida de Fourier. Estruturas de implementação de sistemas discretos. Técnicas de projetos de filtros digitais. Tópicos em processamento discreto de sinais.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE904",
+        "name": "Comunicações Ópticas",
+        "credits": 4,
+        "syllabus": "Fibras ópticas, LEDs e lasers, fotodetetores PIN e APD. Emendas, acoplamentos e conexões. Receptores ópticos. O enlace óptico. Sistemas WDM. A rede óptica: novos padrões, arquiteturas e serviços.",
+        "reqs": [
+            [
+                {
+                    "code": "EE540"
+                }
+            ],
+            [
+                {
+                    "code": "EE754"
+                },
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE905",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE906",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE907",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE908",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE909",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE910",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE911",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE912",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE913",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE914",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE915",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE916",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE917",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE918",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE919",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplinas abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE920",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE921",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE922",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definifo por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE923",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE924",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE925",
+        "name": "Tópicos Avançados em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimento de técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE929",
+        "name": "Instrumentação Eletrônica",
+        "credits": 5,
+        "syllabus": "Sensores e dispositivos eletrônicos especiais; amplificadores para instrumentação. Técnicas analógicas e digitais em instrumentação; conversão A/D e D/A. Técnicas e instrumentação de medida de tensões e correntes; técnicas e instrumentação de medida de tempo e frequência; técnicas e instrumentação de medidas de admitâncias, impedâncias e parâmetros elétricos em geral.",
+        "reqs": [
+            [
+                {
+                    "code": "EE610"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE931",
+        "name": "Eletrônica Digital II",
+        "credits": 4,
+        "syllabus": "Conversores A/D e D/A. Blocos de implementação para multiplexagem temporal, amostradores e seguradores, etc. Análise e projeto de circuitos com o auxílio de computador.",
+        "reqs": [
+            [
+                {
+                    "code": "EE610"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE932",
+        "name": "Laboratório de Eletrônica Digital II",
+        "credits": 2,
+        "syllabus": "Projeto, implementação e teste de um sistema eletrônico digital.",
+        "reqs": [
+            [
+                {
+                    "code": "EE610"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE938",
+        "name": "Engenharia de Som I: Acústica",
+        "credits": 4,
+        "syllabus": "Som. Acústica. Cordas, tubos e membranas vibrantes, instrumentos musicais. Acústica fisiológica: audibilidade, curvas de\nFletcher Munson, intelegibilidade. Transdutores. Amplificadores: ganho, resposta em frequência, distorção. Gravação:\ndiscos, fitas, gravação digital",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                }
+            ],
+            [
+                {
+                    "code": "MU050"
+                }
+            ],
+            [
+                {
+                    "code": "MU051"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE940",
+        "name": "Engenharia de Som II: Análise e Síntese de Sinais Musicais",
+        "credits": 4,
+        "syllabus": "Aspectos gerais e históricos. Acústica e psico-acústica da música. Análise de sinais musicais. Síntese de sinais musicais. Protocolo MIDI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE941",
+        "name": "Tecnologia Eletrônica I",
+        "credits": 5,
+        "syllabus": "Revisão de conceitos básicos da física do estado sólido. Tecnologia dos materiais de grau eletrônico. Tecnologia de processos de circuitos integrados. Regras de projeto de circuitos integrados.",
+        "reqs": [
+            [
+                {
+                    "code": "EE410"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE041"
+        ]
+    },
+    {
+        "code": "EE981",
+        "name": "Telefonia",
+        "credits": 4,
+        "syllabus": "Redes de comunicação. Aparelho Telefônico. Transmissão - Analógica e Digital. Comutação Telefônica. Tráfego Telefônico. Redes de Computadores. Sinalização Telefônica. Rede Digital de Serviços Integrados.",
+        "reqs": [
+            [
+                {
+                    "code": "EE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE989",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 2,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por acasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido na ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE990",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE991",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE992",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE997",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE998",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EE999",
+        "name": "Tópicos em Engenharia Elétrica",
+        "credits": 4,
+        "syllabus": "Disciplina abordando tópicos variáveis: tendências, desenvolvimentos e técnicas modernas em Engenharia Elétrica. O programa é divulgado por ocasião do oferecimento da disciplina.\nObs.: O pré-requisito será definido por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

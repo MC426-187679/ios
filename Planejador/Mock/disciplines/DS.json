@@ -1,0 +1,116 @@
+[
+    {
+        "code": "DS011",
+        "name": "Bioestatística e Metodologia da Pesquisa",
+        "credits": 2,
+        "syllabus": "Programa integrado de Bioestatística e Metodologia da Pesquisa para aplicação dos conhecimentos teóricos adquiridos. Conhecimento dos tipos de pesquisa.  Passos para a sua realização, procedimentos éticos numa pesquisa e sobre as características de uma monografia. Pesquisa por amostragem. Pesquisa por experimentação. Princípios básicos de experimentação. Análise exploratória e descritiva de dados.",
+        "reqBy": [
+            "DS101"
+        ]
+    },
+    {
+        "code": "DS061",
+        "name": "Odontologia Social I",
+        "credits": 10,
+        "syllabus": "Programa integrado de Bioestatística, Psicologia, Odontologia Legal e Deontologia para o estudo dos fatores comportamentais envolvidos no atendimento odontológico; estudo de princípios deontológicos e diceológicos que regulamentam o exercício da profissão, de ética profissional, das obrigações e direitos a que estão sujeitos no exercício da profissão perante as leis civil, penal e trabalhista e normas regulamentares dos Conselhos Federal e Regionais de Odontologia. Compreensão e conhecimento de técnicas estatísticas para análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "DC052"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DS071"
+        ]
+    },
+    {
+        "code": "DS062",
+        "name": "Odontologia Preventiva e Saúde Pública",
+        "credits": 4,
+        "syllabus": "Estudo do principais problemas odontológicos da população, os métodos de mensuração, a hierarquia dos problemas e a aplicação de métodos preventivos que objetivem a melhoria da saúde bucal.",
+        "reqs": [
+            [
+                {
+                    "code": "DC052"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DS071",
+        "name": "Odontologia Social II",
+        "credits": 3,
+        "syllabus": "Estudo do planejamento, instalação, organização, gestão e administração de clínica de atendimento ododntológico. Seleção do equipamento odontológico. Tipos de atividades profissionais em Odontologia. Atendimento em equipe, com delegação de atividades para pessoal auxiliar em Odontologia. Noções de seleção e treinamento de pessoal auxiliar em Odontologia. Princípios de Ergonomia aplicados às diferentes especialidades odontológicas. Noções de cálculo para os honorários profissionais. Noções de marketing aplicado ao atendimento odontológico. Biossegurança aplicada ao trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "DS061"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DS091"
+        ]
+    },
+    {
+        "code": "DS091",
+        "name": "Odontologia Social III",
+        "credits": 4,
+        "syllabus": "Ciências Sociais e sua importância para o planejamento de intervenções no campo da saúde; a influência dos determinantes sociais sobre os comportamentos e estilos de vida da população; teorias de educação e educação em saúde; o movimento da Promoção da Saúde a partir da carta de Ottawa; elaboração de materiais educativos e recursos didáticos em saúde; a escola promotora de saúde; educação e promoção de saúde nos diversos ciclos de vida e grupos sociais; avaliações em educação e promoção de saúde; seminários em educação e promoção da saúde.",
+        "reqs": [
+            [
+                {
+                    "code": "DS071"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DS101",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 4,
+        "syllabus": "Pesquisa a ser desenvolvida individualmente pelo aluno sob orientação, atendendo ao artigo 12 das Diretrizes Curriculares do Curso de Graduação em Odontologia.",
+        "reqs": [
+            [
+                {
+                    "code": "DS011"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DS110",
+        "name": "Estatística para Iniciação Científica I",
+        "credits": 4,
+        "syllabus": "Apresentação de fundamentos estatísticos na abordagem científica de problemas da área odontológica: planejamento, formulação de hipóteses, instrumentos e técnicas de coleta e obtenção de dados em projetos de inicação científica de alunos de Odontologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "DS210"
+        ]
+    },
+    {
+        "code": "DS210",
+        "name": "Estatística para Iniciação Científica II",
+        "credits": 4,
+        "syllabus": "A disciplina tem como objetivo a análise estatística dos dados obtidos pelos alunos, no desenvolvimento de seus projetos de iniciação científica. Utilização de técnicas estatísticas para a análise de dados tendo em vista a discussão e aprimoramento dos trabalhos de alunos de Odontologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "DS110"
+                }
+            ]
+        ]
+    }
+]

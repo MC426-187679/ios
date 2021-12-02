@@ -1,0 +1,934 @@
+[
+    {
+        "code": "EN092",
+        "name": "Primeiros Socorros",
+        "credits": 3,
+        "syllabus": "Ensino teórico-prático de cuidados básicos em situações de urgência e emergência que acontecem em lugares públicos e domicílios. Subsídios teóricos básicos que possibilitem o encaminhamento adequado de vítimas dessas situações."
+    },
+    {
+        "code": "EN093",
+        "name": "Trabalho, Saúde e Sustentabilidade",
+        "credits": 2,
+        "syllabus": "Saúde e trabalho no Brasil. Desenvolvimento sustentável em países desenvolvidos e em desenvolvimento. Possibilidade de mudanças no cenário internacional e nacional atual. Padrões de consumo e sustentabilidade."
+    },
+    {
+        "code": "EN112",
+        "name": "Enfermagem em Saúde Coletiva I",
+        "credits": 5,
+        "syllabus": "Integração do estudante à vida universitária, ao contexto particular de formação profissional e à prática de enfermagem na Saúde Coletiva. Processo saúde-doença-cuidado como construção histórica e social, resultante das condições sociais, econômicas, políticas e culturais das sociedades. Sistema Único de Saúde (SUS): história da saúde pública, princípios e diretrizes do SUS. Introdução ao estudo do perfil sócio sanitário de uma dada população. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqBy": [
+            "EN212",
+            "EN230"
+        ]
+    },
+    {
+        "code": "EN212",
+        "name": "Enfermagem em Saúde Coletiva II",
+        "credits": 4,
+        "syllabus": "Políticas Públicas no contexto da Atenção Primária à Saúde no SUS. Promoção da Saúde. Estudo do território e caracterização social, econômica e sanitária da população adscrita à uma Unidade Básica de Saúde.  Equipamentos sociais do território e intersetorialidade. Educação em Saúde para a promoção da qualidade de vida. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN112"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN312",
+            "EN470",
+            "EN555",
+            "EN605"
+        ]
+    },
+    {
+        "code": "EN214",
+        "name": "Epidemiologia e Saúde",
+        "credits": 4,
+        "syllabus": "Epidemiologia e a análise da situação de saúde. História e aplicações da Epidemiologia; modelos de referência para análise de situação de saúde. Mortalidade – indicadores gerais e específicos. Comparação de indicadores entre populações. Eventos sentinela. Manejo de bancos de dados de mortalidade e nascidos vivos (SIM e SINASC). Vigilância Epidemiológica. Medidas de frequência e de associação. Distribuição das doenças: pessoa, tempo e lugar. Estudo de epidemias. Sistema Nacional de Vigilância epidemiológica. Principais delineamentos de estudos epidemiológicos. Usos de geoprocessamento em saúde."
+    },
+    {
+        "code": "EN230",
+        "name": "Enfermagem em Saúde Mental I",
+        "credits": 2,
+        "syllabus": "Estudo das diferentes concepções de loucura e sua historicidade. Política Nacional de Saúde Mental. Estudo dos elementos teórico-metodológicos envolvidos na organização da assistência de enfermagem psiquiátrica e de saúde mental: linguagem, comunicação, relação enfermeiro-paciente. Instrumentos básicos do cuidado de enfermagem psiquiátrica e de saúde mental: entrevista psiquiátrica. Introdução ao Processo de Enfermagem Psiquiátrica. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN112"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN430"
+        ]
+    },
+    {
+        "code": "EN232",
+        "name": "Elementos das Ciências Sociais Aplicados à Enfermagem",
+        "credits": 2,
+        "syllabus": "As relações entre saúde, sociedade, cultura e enfermagem. Valores, dilemas e princípios éticos na prática profissional; relação enfermeiro(a) e outros profissionais. Reflexões sobre gênero e cultura de paz. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem",
+        "reqBy": [
+            "EN433"
+        ]
+    },
+    {
+        "code": "EN242",
+        "name": "Alimentação e Qualidade de Vida",
+        "credits": 2,
+        "syllabus": "Alimentação na promoção da saúde e prevenção das doenças. Influências socioculturais sobre o comportamento alimentar. Aplicação dos conhecimentos de nutrição nas intervenções sobre alimentação. Acesso à alimentação como direito humano que preenche necessidades biológicas, psicológicas e sociais, garantindo qualidade de vida a indivíduos, grupos e coletividade.",
+        "reqBy": [
+            "EN442"
+        ]
+    },
+    {
+        "code": "EN280",
+        "name": "Exercício da Enfermagem I",
+        "credits": 2,
+        "syllabus": "Evolução da prática de enfermagem no contexto histórico, político e social, tendo em vista a segurança e a integralidade do cuidado. Diretrizes curriculares nacionais e Projeto pedagógico do curso de graduação em enfermagem da Unicamp. Lei do exercício profissional. Fundamentos da ética e código de ética. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqBy": [
+            "EN590"
+        ]
+    },
+    {
+        "code": "EN303",
+        "name": "Diagnóstico de Enfermagem",
+        "credits": 2,
+        "syllabus": "Classificações diagnósticas. O processo diagnóstico. Elaboração e discussão de estudos de caso."
+    },
+    {
+        "code": "EN304",
+        "name": "Informática em Saúde",
+        "credits": 2,
+        "syllabus": "O uso da informática na área de saúde: aplicações no ensino, pesquisa, assistência e administração em enfermagem. Uso de ambiente virtual de aprendizagem (AVA) e tecnologias da informação e comunicação (TICs) para o ensino de enfermagem de nível médio. Ensino a distância: perspectivas e limitações. Simulação em enfermagem com o uso de TICs. Sistemas de informação em saúde e sistemas de informação hospitalares. Telessaúde e Telenfermagem e suas implicações para o ensino e assistência de enfermagem."
+    },
+    {
+        "code": "EN312",
+        "name": "Enfermagem na Organização do Sistema de Saúde",
+        "credits": 6,
+        "syllabus": "Políticas e modelos de atenção à saúde. Estrutura e organização do Sistema Único de Saúde. Vigilância da Saúde e Estratégia da Saúde da Família. Gestão, planejamento e processo de trabalho em Unidade Básica de Saúde. Planejamento Estratégico Situacional em Saúde para intervenção no território. Práticas de enfermagem em Saúde Coletiva. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN212"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN412",
+            "EN590",
+            "EN605"
+        ]
+    },
+    {
+        "code": "EN321",
+        "name": "Semiologia Aplicada à Enfermagem I",
+        "credits": 3,
+        "syllabus": "Introdução ao Processo de Enfermagem, com ênfase na anamnese e no exame físico, considerando as características do indivíduo. Técnicas de entrevista. Subsídios teóricos e práticos do exame físico geral. Abordagem dos aspectos éticos relacionados à anamnese e exame físico. Registro da anamnese e do exame físico. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "BA133"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN421"
+        ]
+    },
+    {
+        "code": "EN322",
+        "name": "Aspectos Fundamentais do Processo de Cuidar em Enfermagem",
+        "credits": 13,
+        "syllabus": "Ensino teórico-prático dos procedimentos fundamentais ao cuidado de enfermagem aos usuários adultos atendidos em serviços de saúde, considerando suas características individuais. Aplicação do processo de enfermagem com vistas ao planejamento e execução dos cuidados de enfermagem. Abordagem dos aspectos éticos relacionados à assistência de enfermagem. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "BA133"
+                },
+                {
+                    "code": "BF284"
+                },
+                {
+                    "code": "BM215"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN405",
+            "EN430",
+            "EN465",
+            "EN504",
+            "EN532",
+            "EN555",
+            "EN590",
+            "EN604",
+            "EN605",
+            "EN919"
+        ]
+    },
+    {
+        "code": "EN390",
+        "name": "Metodologia de Pesquisa I",
+        "credits": 2,
+        "syllabus": "Reflexão sobre ciência, pesquisa e ética. Análise de textos didáticos e científicos. Exercício de síntese e elaboração de relatórios. Bases de dados bibliográficos, descritores, normas para organização de referências e citação no texto. Diferenças e complementariedades entre estudos qualitativos e quantitativos.",
+        "reqBy": [
+            "EN490"
+        ]
+    },
+    {
+        "code": "EN405",
+        "name": "Processo de Cuidar do Adulto e Idoso I",
+        "credits": 12,
+        "syllabus": "Desenvolvimento do processo de cuidar em enfermagem à adultos e idosos nos diferentes níveis de atenção à saúde. Assistência à família e cuidadores. Síndromes geriátricas. Avaliação geriátrica multidimensional. Cuidados paliativos. Segurança do paciente. Ética. Promoção, proteção e reabilitação da saúde. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN322"
+                },
+                {
+                    "code": "EN421"
+                },
+                {
+                    "code": "EN470"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN505",
+            "EN665"
+        ]
+    },
+    {
+        "code": "EN412",
+        "name": "Enfermagem em Saúde Coletiva III",
+        "credits": 4,
+        "syllabus": "Abordagem epidemiológica e assistencial nos serviços básicos de saúde. Vigilância epidemiológica e sanitária. Programa de Imunização. Educação em saúde, planejamento, execução e avaliação de ações de enfermagem em serviços de saúde. Desenvolvimento de atividades práticas em serviços básicos de saúde. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN312"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN421",
+        "name": "Semiologia Aplicada à Enfermagem II",
+        "credits": 3,
+        "syllabus": "Capacitação do aluno para aplicação do Processo de Enfermagem, considerando as características do indivíduo. Realização do exame físico (geral e específico) do adulto e idoso. Abordagem dos aspectos éticos relacionados à anamnese e exame físico. Registro da anamnese e do exame físico.",
+        "reqs": [
+            [
+                {
+                    "code": "BF284"
+                },
+                {
+                    "code": "EN321"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN405",
+            "EN504",
+            "EN532",
+            "EN555",
+            "EN604",
+            "EN605",
+            "EN690",
+            "EN720"
+        ]
+    },
+    {
+        "code": "EN430",
+        "name": "Enfermagem em Saúde Mental II",
+        "credits": 6,
+        "syllabus": "A enfermagem psiquiátrica como prática técnica e social e sua inserção em serviços de saúde mental de referência. Os meios de aproximação do objeto de trabalho da enfermagem em saúde mental e a participação do enfermeiro no tratamento e na reabilitação psicossocial dos sujeitos em sofrimento psíquico. Políticas de saúde mental e trabalho em equipe. Desenvolvimento de atividades práticas em serviços de referência de atenção à saúde mental. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN230"
+                },
+                {
+                    "code": "EN322"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN504",
+            "EN505",
+            "EN532",
+            "EN605"
+        ]
+    },
+    {
+        "code": "EN433",
+        "name": "Antropologia Filosófica, Educação e Enfermagem",
+        "credits": 2,
+        "syllabus": "Contribuições da antropologia para o campo da saúde, suas interfaces e temas específicos para a enfermagem. Relação entre crença e verdade. Eficácia simbólica na cura. Relação entre cultura, vulnerabilidade, saúde, doença, cuidado, cura, educação e relações de poder. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN232"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN442",
+        "name": "Processo de Cuidado Nutricional",
+        "credits": 2,
+        "syllabus": "Estudo da nutrição, dietética e dietoterapia aplicadas ao processo de cuidado nutricional ao cliente em nível primário, secundário e terciário. Trabalho em equipe multiprofissional.",
+        "reqs": [
+            [
+                {
+                    "code": "EN242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN504"
+        ]
+    },
+    {
+        "code": "EN445",
+        "name": "Nutrição e Cuidado Nutricional",
+        "credits": 3,
+        "syllabus": "Estudo da nutrição, dietética e dietoterapia aplicadas ao processo de cuidado alimentar e nutricional (PCAN) na promoção à saúde e prevenção de doenças nos ciclos da vida. Acesso à alimentação como direito humano que preenche necessidades biológicas, psicológicas e sociais, garantindo qualidade de vida a indivíduos, grupos e coletividades. Papel do enfermeiro (a) no PCAN e sua atuação em equipe multiprofissional.",
+        "reqBy": [
+            "EN505"
+        ]
+    },
+    {
+        "code": "EN465",
+        "name": "Assistência de Enfermagem à Saúde da Mulher",
+        "credits": 8,
+        "syllabus": "Estudo dos fatores que fundamentam a Saúde da Mulher contemplando aspectos sociais e culturais, gênero e sexualidade. Assistência de Enfermagem na saúde reprodutiva, incluindo atenção pré-natal e contracepção. Atenção no climatério. Identificação e intervenções nas afecções ginecológicas benignas mais frequentes. Reabilitação do assoalho pélvico. Prevenção e detecção precoce do câncer genital e mamário. Preparo da mulher e família para o parto, nascimento e amamentação. Desenvolvimento de atividades educativas. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN470",
+        "name": "Processo de Enfermagem",
+        "credits": 2,
+        "syllabus": "As gerações do Processo de Enfermagem. Etapas do Processo de Enfermagem. Introdução às Teorias de Enfermagem. Elementos da prática de Enfermagem (diagnósticos, resultados esperados e intervenções) e Linguagem padronizada de enfermagem (NANDA, NIC, NOC, CIPE, CCC). Raciocínio Clínico, Pensamento Crítico e Acurácia Diagnóstica. Registros de enfermagem considerando aspectos ético-legais e os princípios de segurança do paciente, família e comunidade. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "BF284"
+                },
+                {
+                    "code": "BI214"
+                },
+                {
+                    "code": "BM215"
+                },
+                {
+                    "code": "EN212"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN405"
+        ]
+    },
+    {
+        "code": "EN490",
+        "name": "Metodologia de Pesquisa II",
+        "credits": 2,
+        "syllabus": "Processo de construção de um projeto de pesquisa: definição de problema e pergunta de pesquisa, introdução (com revisão bibliográfica), objetivos, método, aspectos éticos, cronograma e elaboração de lista de referências. Plágio em pesquisa. Apresentação de anexos e apêndices. ",
+        "reqs": [
+            [
+                {
+                    "code": "EN390"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN504",
+        "name": "Processo de Cuidar do Adulto e Idoso",
+        "credits": 10,
+        "syllabus": "Desenvolvimento do processo de cuidar em enfermagem à adultos e idosos em seguimento ambulatorial e internados em unidades clínicas e cirúrgicas de média complexidade e instituições de longa permanência para idosos. Assistência à família e cuidadores. Prevenção de acidentes no hospital. Aspectos éticos na assistência. Desenvolvimento de práticas educativas. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN322"
+                },
+                {
+                    "code": "EN421"
+                },
+                {
+                    "code": "EN430"
+                },
+                {
+                    "code": "EN442"
+                },
+                {
+                    "code": "MD462"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN604",
+            "EN704"
+        ]
+    },
+    {
+        "code": "EN505",
+        "name": "Processo de Cuidar do Adulto e Idoso II",
+        "credits": 12,
+        "syllabus": "Desenvolvimento do processo de cuidar em enfermagem a adultos e idosos no Centro Cirúrgico,\nna Sala de Recuperação Pós-anestésica e em situações de alto risco: Unidade de Terapia\nIntensiva e Emergência. Preparo para alta. Atuação em Centro de Material e Esterilização.\nProcessamento e controle de qualidade de artigos de saúde. Assistência à família e\ncuidadores. Catástrofes. Ética na assistência. Desenvolvimento de atividades\ndidático-pedagógica que subsidiam a formação do professor para profissionais de nível\nmédio de enfermagem",
+        "reqs": [
+            [
+                {
+                    "code": "EN405"
+                },
+                {
+                    "code": "EN430"
+                },
+                {
+                    "code": "EN445"
+                },
+                {
+                    "code": "MD462"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN690",
+            "EN766",
+            "EN791",
+            "EN891"
+        ]
+    },
+    {
+        "code": "EN532",
+        "name": "Processo de Cuidar em Enfermagem Psiquiátrica",
+        "credits": 7,
+        "syllabus": "Estudo da psicopatologia e da relação enfermeiro – paciente e sua aplicação no Processo de Enfermagem, visando a atuação do enfermeiro junto ao tratamento de sujeitos em sofrimento psíquico que requeiram cuidados contínuos e intensivos em serviços especializados na rede de saúde mental. Desenvolvimento do processo de cuidar em enfermagem psiquiátrica e em emergências psiquiátricas mediante a realização de atividades práticas em serviços de saúde mental. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN322"
+                },
+                {
+                    "code": "EN421"
+                },
+                {
+                    "code": "EN430"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN555",
+        "name": "Assistência de Enfermagem à Criança e Adolescente I",
+        "credits": 8,
+        "syllabus": "Ensino teórico e prático da assistência de enfermagem à saúde da criança e adolescente sadios com doenças de baixa e média complexidade, seus familiares e as repercussões do processo de adoecer no crescimento e desenvolvimento. Desenvolvimento de atividades práticas educativas. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "BP323"
+                },
+                {
+                    "code": "EN212"
+                },
+                {
+                    "code": "EN322"
+                },
+                {
+                    "code": "EN421"
+                },
+                {
+                    "code": "MD430"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN590",
+        "name": "Administração em Enfermagem",
+        "credits": 3,
+        "syllabus": "Fundamentos teóricos para a prática do trabalho gerencial e assistencial em enfermagem embasada em princípios éticos e na integralidade do cuidado: teorias administrativas e modelos de gestão; processo de trabalho; gestão de conflitos; tomada de decisão e resolução de problemas; modelo de organização do atendimento ao paciente; dimensionamento e distribuição de pessoal; recrutamento e seleção de pessoal; avaliação de desempenho; educação permanente e segurança na saúde. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN280"
+                },
+                {
+                    "code": "EN312"
+                },
+                {
+                    "code": "EN322"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN690"
+        ]
+    },
+    {
+        "code": "EN604",
+        "name": "Processo de Cuidar em Enfermagem Perioperatória",
+        "credits": 7,
+        "syllabus": "Atuação em unidade de Centro Cirúrgico, Centro de Recuperação Pós-anestésica e Centro de Material Esterilizado. Processamento e controle de qualidade de artigos de saúde. Processo de cuidar em enfermagem ao adulto e idoso no período perioperatório de cirurgias ambulatoriais, de cirurgias de médio e grande porte. Preparo para alta. Aspectos administrativos na unidade de Centro Cirúrgico, Centro de Recuperação Pós-anestésica e Centro de Material Esterilizado. Aspectos éticos na assistência ao cliente cirúrgico e família. Desenvolvimento de práticas educativas. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN322"
+                },
+                {
+                    "code": "EN421"
+                },
+                {
+                    "code": "EN504"
+                },
+                {
+                    "code": "MD462"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN605",
+        "name": "Enfermagem na Atenção Integral à Saúde da Família",
+        "credits": 20,
+        "syllabus": "EMENTA Educação em saúde, planejamento, execução e avaliação de ações de enfermagem ao indivíduo inserido na família e na comunidade. Desenvolvimento de atividades práticas em serviços de saúde, contemplando a integralidade do cuidado nas dimensões que constituem o ser humano. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem\n ",
+        "reqs": [
+            [
+                {
+                    "code": "BP223"
+                },
+                {
+                    "code": "EN212"
+                },
+                {
+                    "code": "EN312"
+                },
+                {
+                    "code": "EN322"
+                },
+                {
+                    "code": "EN421"
+                },
+                {
+                    "code": "EN430"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN665",
+            "EN690",
+            "EN766",
+            "EN914"
+        ]
+    },
+    {
+        "code": "EN665",
+        "name": "Assistência de Enfermagem a Criança e Adolescente II",
+        "credits": 8,
+        "syllabus": "Ensino teórico e prático da assistência de enfermagem à criança e adolescente portadores de doenças de média e alta complexidade e as repercussões da doença e do tratamento na vida da criança, adolescente e família. Ética e segurança na abordagem ao paciente pediátrico e sua família. Desenvolvimento de práticas educativas. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN405"
+                },
+                {
+                    "code": "EN605"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN690",
+            "EN791",
+            "EN891"
+        ]
+    },
+    {
+        "code": "EN690",
+        "name": "Estágio Supervisionado de Administração em Enfermagem Hospitalar",
+        "credits": 11,
+        "syllabus": "Ensino teórico-prático de aspectos fundamentais para a organização, direção e controle na gestão em enfermagem embasada em princípios éticos e na integralidade do cuidado: planejamento estratégico; gestão de recursos materiais; gestão de custo; serviços de apoio; mudança, gestão de conflitos, negociação e relações de poder; delegação, supervisão, liderança e trabalho em equipe; auditoria de processos assistenciais; gerenciamento de risco e segurança na saúde. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN421"
+                },
+                {
+                    "code": "EN505"
+                },
+                {
+                    "code": "EN590"
+                },
+                {
+                    "code": "EN605"
+                },
+                {
+                    "code": "EN665"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN790",
+            "EN791",
+            "EN891"
+        ]
+    },
+    {
+        "code": "EN704",
+        "name": "Processo de Cuidar em Enfermagem do Adulto e Idoso de Alto Risco",
+        "credits": 5,
+        "syllabus": "Cuidado de enfermagem sistematizado ao cliente adulto e idoso internado em situações de alto risco, urgência e emergência. Atendimento Pré Hospitalar - APH. Assistência à família. Prevenção de acidentes nas situações de atuação prática. Aspectos éticos no processo de cuidar do cliente e família.",
+        "reqs": [
+            [
+                {
+                    "code": "EN504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN720",
+        "name": "Enfermagem em Geriatria e Gerontologia",
+        "credits": 2,
+        "syllabus": "A sociedade que envelhece. Conceitos fundamentais em geriatria e gerontologia. Legislação brasileira. Modalidades de atenção ao idoso. O gerenciamento do cuidado de enfermagem ao idoso em diferentes contextos. Principais Síndromes geriátricas. Emergências Geriátricas. Cuidados paliativos. Avaliação geriátrica abrangente. Atenção à família e cuidadores. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN421"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN766",
+        "name": "Assistência de Enfermagem à Saúde da Mulher e Recém-Nascido",
+        "credits": 11,
+        "syllabus": "Assistência à mulher e família nos processos de parto, nascimento e puerpério. Cuidado ao recém-nascido de risco e família em processo de alta e perda perinatal. Intervenção nas intercorrências mamárias, na manutenção da lactação e relactação. Assistência a mulheres com câncer ginecológico/mamário em atendimento especializado. Reconhecimento das vulnerabilidades. Desenvolvimento de práticas educativas em saúde. Cuidados paliativos. Aspectos éticos na assistência de enfermagem a Saúde da Mulher e do Recém-nascido. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EN505"
+                },
+                {
+                    "code": "EN605"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN791",
+            "EN891"
+        ]
+    },
+    {
+        "code": "EN780",
+        "name": "Exercício da Enfermagem II",
+        "credits": 2,
+        "syllabus": "Fundamentos ético-filosóficos. Estudo das inter-relações existentes entre a Ética, a Bioética, a Moral e os Valores. Código de Ética dos Profissionais de Enfermagem. Reflexão sobre os aspectos éticos envolvidos nas questões relativas aos direitos dos pacientes, privacidade e confidencialidade, nascimento e final de vida, morte e morrer, gênero, políticas públicas, segurança do paciente, pesquisas envolvendo seres humanos."
+    },
+    {
+        "code": "EN790",
+        "name": "Tópicos de Administração em Enfermagem",
+        "credits": 2,
+        "syllabus": "Seminário sobre tópicos de gestão em serviços de saúde e serviços de enfermagem embasada em princípios éticos e na integralidade do cuidado: processo de trabalho, supervisão, práticas de educação em saúde, gestão de recursos materiais e financeiros, segurança do paciente, ética, integralidade, vigilância em saúde e gestão da equipe. Desenvolvimento de atividades didático-pedagógicas que subsidiam a formação do enfermeiro-professor para profissionais de nível médio de enfermagem. ",
+        "reqs": [
+            [
+                {
+                    "code": "EN690"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN791",
+        "name": "Estágio Supervisionado I",
+        "credits": 22,
+        "syllabus": "Estágio Supervisionado a ser cumprido no campo de atuação profissional do enfermeiro. Atividades educativas de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "EN505"
+                },
+                {
+                    "code": "EN665"
+                },
+                {
+                    "code": "EN690"
+                },
+                {
+                    "code": "EN766"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN792",
+        "name": "Trabalho de Conclusão de Curso I",
+        "credits": 1,
+        "syllabus": "Desenvolvimento de trabalho monográfico de final de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN891",
+        "name": "Estágio Supervisionado II",
+        "credits": 23,
+        "syllabus": "Estágio Supervisionado a ser cumprido no campo de atuação profissional do enfermeiro. Atividades educativas de enfermagem.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "EN505"
+                },
+                {
+                    "code": "EN665"
+                },
+                {
+                    "code": "EN690"
+                },
+                {
+                    "code": "EN766"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN892",
+        "name": "Trabalho de Conclusão de Curso II",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de trabalho monográfico de final de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN902",
+        "name": "Família como Unidade de Cuidado",
+        "credits": 2,
+        "syllabus": "Processo de aproximação do aluno para abordar a família como unidade de cuidado, utilizando ferramentas para avaliar o sistema familiar."
+    },
+    {
+        "code": "EN903",
+        "name": "Iniciação Científica em Enfermagem I",
+        "credits": 2,
+        "syllabus": "Levantamento de dados, execução de projetos e técnicas de pesquisa, análise dos resultados, elaboração de relatórios e outras formas de divulgação da produção de conhecimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN904",
+        "name": "Iniciação Científica em Enfermagem II",
+        "credits": 2,
+        "syllabus": "Levantamento de dados, execução de projetos e técnicas de pesquisa, análise dos resultados, elaboração de relatórios e outras formas de divulgação da produção de conhecimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN905",
+        "name": "Tópicos em Enfermagem I",
+        "credits": 3,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN906",
+        "name": "Tópicos em Enfermagem II",
+        "credits": 3,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN907",
+        "name": "Tópicos de Enfermagem III",
+        "credits": 2,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN908",
+        "name": "Tópicos de Enfermagem IV",
+        "credits": 2,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN909",
+        "name": "Tópicos de Enfermagem V",
+        "credits": 3,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN910",
+        "name": "Tópicos de Enfermagem VI",
+        "credits": 3,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN911",
+        "name": "Tópicos de Enfermagem VII",
+        "credits": 3,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN912",
+        "name": "Tópicos de Enfermagem VIII",
+        "credits": 4,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN913",
+        "name": "Tópicos de Enfermagem IX",
+        "credits": 2,
+        "syllabus": "Abordagem de conteúdos e temas relacionados à assistência a saúde, em particular à assistência de enfermagem."
+    },
+    {
+        "code": "EN914",
+        "name": "Preparação Psicológica e Física da Gestante",
+        "credits": 3,
+        "syllabus": "O estado atual da preparação dos casais grávidos, o pré-natal e as principais modificações físicas e psíquicas da mulher grávida.",
+        "reqs": [
+            [
+                {
+                    "code": "EN605"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN915",
+        "name": "Tópicos de Enfermagem em Saúde Coletiva",
+        "credits": 2,
+        "syllabus": "Teorização da prática de enfermagem em saúde coletiva."
+    },
+    {
+        "code": "EN916",
+        "name": "Saúde do Trabalhador: Aspectos Gerais",
+        "credits": 2,
+        "syllabus": "Aspectos gerais do trabalho no Brasil. Saúde do trabalhador no Brasil: legislação e Normas Regulamentadoras. Saúde do trabalhador de enfermagem no Brasil."
+    },
+    {
+        "code": "EN917",
+        "name": "Manejo Clínico em Aleitamento Materno",
+        "credits": 2,
+        "syllabus": "Abordagem das políticas públicas relacionadas ao aleitamento materno. Estudo do manejo clínico do aleitamento materno a mães e crianças no Alojamento Conjunto, em situação de pré-alta da UTI neonatal, nas dificuldades das primeiras semanas após o nascimento e na introdução da alimentação complementar. Aleitamento materno em situações especiais. Desenvolvimento da habilidade de acolhimento nas questões relacionadas ao aleitamento materno."
+    },
+    {
+        "code": "EN918",
+        "name": "Introdução a Tanatologia",
+        "credits": 2,
+        "syllabus": "Dignidade Humana e os Direitos Fundamentais. O processo de viver e envelhecer e o sentido da vida. Tanatologia. Perda, Pesar e o Processo de Luto. A morte e o morrer. Ortotanásia. Eutanásia, Distanásia, Suicídio, Cuidados Paliativos. A dor e o sofrimento humano. Angústia. Espiritualidade."
+    },
+    {
+        "code": "EN919",
+        "name": "Toxicologia Clínica: Aspectos Básicos",
+        "credits": 1,
+        "syllabus": "Epidemiologia das exposições tóxicas às substâncias químicas e dos acidentes por animais peçonhentos no Brasil, com maior prevalência e maior gravidade na Região de Campinas - SP. Manifestações clínicas, alterações laboratoriais e principais complicações: 1) das exposições tóxicas (medicamentos, pesticidas inibidores da acetilcolinesterase, drogas de abuso, produtos com ação cáustica e plantas tóxicas) e 2) dos acidentes por animais peçonhentos. Medidas terapêuticas (descontaminação gastrintestinal, aumento da eliminação, antídotos, antagonistas e antivenenos).",
+        "reqs": [
+            [
+                {
+                    "code": "EN322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EN920",
+        "name": "Cuidados Paliativos - Noções Básicas",
+        "credits": 2,
+        "syllabus": "Estudo da história, conceitos, princípios e aspectos ético-legais dos Cuidados Paliativos. Assistência de enfermagem contemplando os aspectos biopsicosocioespirituais da pessoa portadora de enfermidade progressiva, limitante, que pode evoluir para a morte, bem como sua família."
+    },
+    {
+        "code": "EN921",
+        "name": "Cuidando do Sistema Familiar no Contexto de Saúde-Doença",
+        "credits": 2,
+        "syllabus": "Instrumentalização do aluno para um modelo de cuidado centrado no paciente e família, nos diferentes contextos de atenção à saúde. O enfermeiro e seu relacionamento com as famílias."
+    },
+    {
+        "code": "EN922",
+        "name": "Práticas Integrativas e Complementares em Saúde",
+        "credits": 2,
+        "syllabus": "Coordenadoria"
+    },
+    {
+        "code": "EN923",
+        "name": "Teste Progresso I",
+        "credits": 2,
+        "syllabus": "Abordagem e avaliação cognitiva do estudante, aplicada longitudinalmente durante o curso. Autoavaliação direta dos estudantes em relação ao seu grau de profissionalização. Avaliação indireta do Curso"
+    },
+    {
+        "code": "EN924",
+        "name": "Teste Progresso II",
+        "credits": 2,
+        "syllabus": "Abordagem e avaliação cognitiva do estudante, aplicada longitudinalmente durante o curso. Autoavaliação direta dos estudantes em relação ao seu grau de profissionalização. Avaliação indireta do Curso"
+    },
+    {
+        "code": "EN925",
+        "name": "Teste Progresso III",
+        "credits": 2,
+        "syllabus": "Abordagem e avaliação cognitiva do estudante, aplicada longitudinalmente durante o curso. Autoavaliação direta dos estudantes em relação ao seu grau de profissionalização. Avaliação indireta do Curso. "
+    },
+    {
+        "code": "EN926",
+        "name": "Teste Progresso IV",
+        "credits": 2,
+        "syllabus": "Abordagem e avaliação cognitiva do estudante, aplicada longitudinalmente durante o curso. Autoavaliação direta dos estudantes em relação ao seu grau de profissionalização. Avaliação indireta do Curso. "
+    },
+    {
+        "code": "EN927",
+        "name": "Teste Progresso V",
+        "credits": 2,
+        "syllabus": "Abordagem e avaliação cognitiva do estudante, aplicada longitudinalmente durante o curso. Autoavaliação direta dos estudantes em relação ao seu grau de profissionalização. Avaliação indireta do Curso. \n "
+    },
+    {
+        "code": "EN928",
+        "name": "Auriculoterapia I",
+        "credits": 2,
+        "syllabus": "Introdução a Auriculoterapia. Conhecimento sobre a legislação e utilização das Práticas Integrativas e Complementares no SUS. Estrutura do pavilhão auricular. Noções de Auriculoterapia Francesa. Auriculoterapia Chinesa. Mapa Auricular. Práticas de Auriculoterapia.",
+        "reqBy": [
+            "EN929"
+        ]
+    },
+    {
+        "code": "EN929",
+        "name": "Auriculoterapia II",
+        "credits": 2,
+        "syllabus": "Ementa:\nPráticas de atendimento em Auriculoterapia sob supervisão. Acompanhamento de pessoas em atendimento em Auriculoterapia e discussão de casos com base na Medicina Chinesa.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "EN928"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,420 @@
+[
+    {
+        "code": "MG001",
+        "name": "Tópicos Especiais em Empresas I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "MG002",
+        "name": "Tópicos Especiais em Empresas II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "MG003",
+        "name": "Tópicos Especiais em Empresas III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "MG004",
+        "name": "Tópicos Especiais em Empresas IV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "MG100",
+        "name": "Introdução a Administração",
+        "credits": 2,
+        "syllabus": "História da administração no Brasil. A profissão do administrador. Regulamentação da profissão no Brasil. Áreas de atuação do administrador. A importância do agronegócio e o gestor do agronegócio no Brasil. O administrador empreendedor. A importância do comércio internacional e o gestor de negócios internacionais no Brasil. Tendências.",
+        "reqBy": [
+            "AG200",
+            "AG300",
+            "AG700",
+            "AG705",
+            "AG706",
+            "AG806"
+        ]
+    },
+    {
+        "code": "MG200",
+        "name": "Análise de Riscos Financeiros",
+        "credits": 4,
+        "syllabus": "Risco de mercado, Value-at-Risk, Teste de stress, backtesting, drawdown-at-risk, Credit Score, CreditMetrics, ERM/COSO, VaR Operacional, Processos e Controles Internos."
+    },
+    {
+        "code": "MG201",
+        "name": "Avaliação de Empresas",
+        "credits": 4,
+        "syllabus": "Avaliação por Fluxo de Caixa Descontado. Estimativa da taxa de desconto. Dimensionamento dos Fluxos de Caixa. Projeção de Fluxos de Caixa. Modelo de Desconto de Dividendo. Avaliação Relativa ou por Múltiplos. Avaliação por Opções Reais. Avaliação de Bancos. Modelo de Ohlson"
+    },
+    {
+        "code": "MG202",
+        "name": "Investimentos",
+        "credits": 4,
+        "syllabus": "Ambiente de investimento. Classes de ativos e instrumentos financeiros. Negociação dos Títulos. Risco e Retorno. Alocação de capital e ativos de risco. Carteira de risco ótima. Modelos de Índice. Modelo de Precificação de Ativos. Teoria de Precificação por arbitragem. Hipótese de Mercado Eficiente. Finanças Comportamentais. Preços e rendimento das obrigações. Estrutura a termo das taxas de juros. Gestão de Carteiras de obrigações."
+    },
+    {
+        "code": "MG400",
+        "name": "Direito para Administração I",
+        "credits": 4,
+        "syllabus": "O Direito Empresarial no Brasil: Conceito e regime jurídico da empresa mercantil; Atividade empresarial. Empresa, empresário e estabelecimento. Regime jurídico da contabilidade comercial. Sociedade e empresa. Direito e deveres dos sócios. Direito Societário. Noções de Direito falimentar. Mercado de Capitais. Legislação Tributária: conceito, objeto e conteúdo. O Sistema Tributário nacional. Incidência, não incidência, imunidade e isenção tributária. Os impostos. As taxas. O poder de polícia. Os serviços, sua especificidade e divisibilidade. Contribuições especiais. Contribuição de melhoria.",
+        "reqs": [
+            [
+                {
+                    "code": "GL403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG401",
+        "name": "Economia Criativa",
+        "credits": 4,
+        "syllabus": "Conceito e contexto da economia criativa. Análise multidimensional da economia criativa. Conceito de Cidades Criativas e estudos de caso. O contexto nacional e internacional das indústrias criativas. Comércio de bens e serviços criativos. Tecnologia, conectividade e convergência. Novas relações de mercado: Game industry e Serious Game. Análise conceitual de Crowdsourcing e Crowdfunding."
+    },
+    {
+        "code": "MG500",
+        "name": "Gestão de Operações",
+        "credits": 6,
+        "syllabus": "Tipos e evolução de sistemas de produção. Gestão de operações em serviços. Relacionamento da produção com as demais áreas da organização. Projeto de produto e processo. Arranjo físico e fluxo. Capacidade produtiva. Planejamento, programação e controle da produção. Previsão de demanda. Gestão de estoques. Sistemas de gestão da produção.",
+        "reqBy": [
+            "AG705",
+            "ER260",
+            "ER300",
+            "ER320",
+            "MG600"
+        ]
+    },
+    {
+        "code": "MG501",
+        "name": "Administração Financeira I",
+        "credits": 4,
+        "syllabus": "Introdução às finanças corporativas. Papel do gestor financeiro. Sistema Financeiro Nacional. Produtos financeiros e financiamento corporativo. Avaliação de papéis de renda fixa e variável. Gestão do capital circulante e da necessidade do capital de giro. Gestão de tesouraria. Papel do crédito. Administração do passivo circulante. Análise de demonstrações financeiras. Medidas de criação de valor.",
+        "reqs": [
+            [
+                {
+                    "code": "GL200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MG601",
+            "MG812"
+        ]
+    },
+    {
+        "code": "MG600",
+        "name": "Gestão da Cadeia de Suprimentos",
+        "credits": 4,
+        "syllabus": "Fundamentos de logística e de logística integrada. Gestão de redes e integração da cadeia de suprimentos. Iniciativas, práticas e medição de desempenho. Papel da tecnologia na gestão da cadeia de suprimentos. Efeito Chicote. Gestão da cadeia de suprimentos global e riscos. Tendências em gestão da cadeia de suprimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "LE409"
+                },
+                {
+                    "code": "LE703"
+                }
+            ],
+            [
+                {
+                    "code": "MG500"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG601",
+        "name": "Administração Financeira II",
+        "credits": 4,
+        "syllabus": "Orçamento de Capital. Projeções de receitas, custos e despesas. Orçamento de investimentos. Critérios de Avaliação de Investimento. Valor Presente Líquido. Taxa Interna de Retorno. Payback simples. Payback descontado. Estrutura de Capital. Políticas de dividendos. Custo do Capital próprio. Custo do capital de terceiros. Custo médio ponderado de capital (WACC).  Avaliação de Empresas. Introdução aos Derivativos. Fusões e aquisições.",
+        "reqs": [
+            [
+                {
+                    "code": "MG501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG700",
+        "name": "Competitividade e Estratégia: Aplicações",
+        "credits": 4,
+        "syllabus": "Relação entre estrutura de mercado e competitividade. Impacto das estratégias na estrutura de mercado. Governança e competitividade. Estudos setoriais.",
+        "reqs": [
+            [
+                {
+                    "code": "GL603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG701",
+        "name": "Controladoria de Finanças Corporativas",
+        "credits": 4,
+        "syllabus": "Função da controladoria. Tesouraria e fluxo de caixa. Previsões. Avaliação de ativos. Risco e hedging.",
+        "reqs": [
+            [
+                {
+                    "code": "GL602"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG702",
+        "name": "Economia Internacional",
+        "credits": 4,
+        "syllabus": "Economia internacional: teorias e políticas. Evolução do regime de comércio internacional. Competitividade internacional. Instrumentos de Política Comercial. Instituições e regulação do comércio internacional. Acordos regionais de comércio. Investimento direto estrangeiro (IDE). Empresas transnacionais e sistemas internacionais de produção. A mundialização do capital. Dinâmica produtiva global no século XXI. Macroeconomia aberta: câmbio e juros. Balanço de Pagamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "GL507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG703",
+        "name": "Elaboração e Análise de Projetos I",
+        "credits": 2,
+        "syllabus": "Conceitos básicos sobre projetos, planos de negócios e empreendedorismo. Aspectos administrativos, legais, mercadológicos, técnicos, econômicos e financeiros. Custo e financiamento. Estudo de viabilidade. Análise de risco. Elaboração de projeto ou plano de negócio.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MG800"
+        ]
+    },
+    {
+        "code": "MG704",
+        "name": "Laboratório de Empresas I",
+        "credits": 2,
+        "syllabus": "Jogos simulando processo de decisão e avaliação de resultados na gestão de empresas em diversas situações de concorrência.",
+        "reqs": [
+            [
+                {
+                    "code": "GL503"
+                },
+                {
+                    "code": "GL603"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MG805"
+        ]
+    },
+    {
+        "code": "MG705",
+        "name": "Marcas e Técnicas de Marketing",
+        "credits": 4,
+        "syllabus": "Decisões estratégicas de marketing. Administração e auditoria de vendas. Desenvolvimento do plano de marketing. Pesquisas de marketing. O projeto de pesquisa. Institutos de pesquisa. Marketing de serviços. Marketing Intitucional. Marketing Internacional.",
+        "reqs": [
+            [
+                {
+                    "code": "GL600"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG706",
+        "name": "Gestão de Recursos Humanos II",
+        "credits": 2,
+        "syllabus": "Aprofundamento dos conceitos, abordagens e ferramentas desenvolvidas em Gestão de Recursos Humanos I."
+    },
+    {
+        "code": "MG707",
+        "name": "Controladoria e Finanças Corporativas",
+        "credits": 4,
+        "syllabus": "Função da controladoria. Tesouraria e fluxo de caixa. Previsões. Avaliação de ativos. Risco e hedging.",
+        "reqs": [
+            [
+                {
+                    "code": "GL602"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG800",
+        "name": "Elaboração e Análise de Projetos II",
+        "credits": 2,
+        "syllabus": "Continuação da elaboração do projeto ou plano de negócio iniciado na disciplina Elaboração e Análise de Projetos I.",
+        "reqs": [
+            [
+                {
+                    "code": "MG703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG801",
+        "name": "Empresas e Políticas Governamentais",
+        "credits": 4,
+        "syllabus": "Agências e órgãos do governo brasileiro responsáveis pelo fomento à atividades econômicas. Linhas de fomento, requisitos e condições de acesso a fundos reembolsáveis e não-reembolsáveis."
+    },
+    {
+        "code": "MG802",
+        "name": "Modelos e Técnicas de Simulação",
+        "credits": 4,
+        "syllabus": "Aplicação de modelos e técnicas de simulação a problemas de gestão de empresas.",
+        "reqs": [
+            [
+                {
+                    "code": "GL603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG803",
+        "name": "Cadeia de Suprimentos e Logística",
+        "credits": 2,
+        "syllabus": "Logística empresarial. Custo da logística. Sincronização produção-logística. Benchmarking da cadeia de suprimentos. Planejamento de operações logísticas. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "GL605"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG804",
+        "name": "Gestão da Inovação",
+        "credits": 4,
+        "syllabus": "Inovação como instrumento de concorrência. Tipos de inovação: condicionantes e impactos. Desenvolvimento, incorporação e difusão de inovações. Sistemas de inovação. Instrumentos de transferência de tecnologia. Propriedade intelectual. Financiamento da inovação. Principais instrumentos de gestão da inovação.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG805",
+        "name": "Laboratório de Empresas II",
+        "credits": 2,
+        "syllabus": "Jogos simulando processo de decisão e avaliação de resultados na gestão de empresas em diversas situações de concorrência.",
+        "reqs": [
+            [
+                {
+                    "code": "MG704"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG806",
+        "name": "Laboratório de Empresas II",
+        "credits": 2,
+        "syllabus": "Processos de negociação, conteúdo e dinâmica. Papel de negociador. Estratégias e técnicas de negociação: teoria e prática. Relacionamentos estratégicos.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG807",
+        "name": "Tópicos Avançados em Gestão de Empresas",
+        "credits": 2,
+        "syllabus": "Aprofundamento sobre abordagens, sistemas e ferramentas de interesse para gestão de empresas."
+    },
+    {
+        "code": "MG808",
+        "name": "Gestão de Serviços",
+        "credits": 2,
+        "syllabus": "Perspectiva histórica sobre o setor de serviços. Especificidades da gestão de serviços. Relacionamento com fornecedores e clientes. Indicadores de qualidade. Competitividade e serviços."
+    },
+    {
+        "code": "MG809",
+        "name": "Política Industrial e de Concorrência",
+        "credits": 4,
+        "syllabus": "Fundamentos de política industrial e de concorrência. Perspectivas recentes das políticas no Brasil e no mundo. Agências e órgãos do governo brasileiro responsáveis pelo fomento à atividades econômicas. Linhas de fomento, requisitos e condições de acesso a fundos reembolsáveis e não-reembolsáveis. Mercado relevante e poder de mercado. Estratégias predatórias. Fusões verticais e horizontais."
+    },
+    {
+        "code": "MG810",
+        "name": "Gestão da Inovação",
+        "credits": 2,
+        "syllabus": "Inovação como instrumento de concorrência. Tipos de inovação: condicionantes e impactos. Desenvolvimento, incorporação e difusão de inovações. Sistemas de inovação. Propriedade intelectual. Financiamento da inovação. Instrumentos e ferramentas de gestão da inovação.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG811",
+        "name": "Direito para Administração II",
+        "credits": 2,
+        "syllabus": "Direito do Trabalho: conceito, características. Contrato de emprego: denominação, conceito, classificação, caracterização. Trabalho ilícito e trabalho proibido. Direitos intelectuais. Função de confiança. Repousos. Remuneração e salário: conceito, distinções. Gorjetas. Caracteres e classificação do salário. Desvio de função. Alteração do contrato de emprego. Alteração unilateral e bilateral. Transferência de local de trabalho. Promoção e rebaixamento. Alteração de horário de trabalho. Redução de remuneração. Interrupção e suspensão do contrato de trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "GL403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG812",
+        "name": "Controladoria",
+        "credits": 4,
+        "syllabus": "Função da controladoria. Modelos de gestão e controladoria. Teoria da agência e governança corporativa. Sistemas de informação gerencial. Métodos de custeio e controle gerencial.",
+        "reqs": [
+            [
+                {
+                    "code": "MG501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG813",
+        "name": "Gestão da Inovação",
+        "credits": 2,
+        "syllabus": "Inovação como instrumento de concorrência. Tipos de inovação: condicionantes e impactos. Desenvolvimento, incorporação e difusão de inovações. Sistemas de inovação. Propriedade intelectual. Financiamento da inovação. Instrumentos e ferramentas de gestão da inovação.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MG900",
+        "name": "Empreendedorismo",
+        "credits": 2,
+        "syllabus": "O empreendimento e o empreendedor. Tipos de empreendimentos. Processo de empreender. Modelo de negócios. Plano de negócios. Ambiente e instituições de apoio. Tendências em empreendedorismo."
+    },
+    {
+        "code": "MG901",
+        "name": "Empreendedorismo: Teoria e Prática",
+        "credits": 4,
+        "syllabus": "O empreendimento e o empreendedor. Tipos de empreendimentos. Principais indicadores do setor. Processo de empreender. Modelo de negócios. Plano de negócios. Novas tendências em empreendedorismo.",
+        "reqs": [
+            [
+                {
+                    "code": "NC400"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+opt_in_rules:
+- empty_count
+- empty_string
+- indentation_width
+excluded:
+- Carthage
+- Pods
+- SwiftLint/Common/3rdPartyLib
+reporter: "xcode"

@@ -1,0 +1,696 @@
+[
+    {
+        "code": "BT181",
+        "name": "Ecologia no Campo I",
+        "credits": 2,
+        "syllabus": "Treinamento em observações e experimentação no campo, com excursões sobre populações e comunidades vegetais e animais, em diferentes ambiente. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. "
+    },
+    {
+        "code": "BT201",
+        "name": "Biogeografia",
+        "credits": 3,
+        "syllabus": "Biogeografia: conceito, bases teóricas, a perspectiva ecológica e a histórica. A Ecologia na interpretação biogeográfica: variação geográfica no ambiente físico; os limites da distribuição das espécies. Biosfera, fluxo de energia e ciclos biogeoquímicos. Métodos e ferramentas para estudos biogeográficos. Fitogeografia do Brasil. Biomas do mundo. Elaboração de projetos de pesquisa em Biogeografia. Elaboração de relatórios e seminários em Biogeografia. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. "
+    },
+    {
+        "code": "BT202",
+        "name": "Filogeografia",
+        "credits": 4,
+        "syllabus": "Estudos filogeográficos procuram compreender como o tempo e o espaço geográfico moldam a variação genética observada entre espécies e populações no presente. Desta forma, a filogeografia pretende conectar disciplinas como a genética, ecologia, sistemática e evolução. Desta forma estudos filogeográficos são bastante informativos e úteis para o entendimento dos processos ecológicos e evolutivos que originaram a grande diversidade de espécie observada em regiões altamente diversas, como a América do Sul.",
+        "reqs": [
+            [
+                {
+                    "code": "BG180"
+                },
+                {
+                    "code": "BG480"
+                }
+            ],
+            [
+                {
+                    "code": "BG181"
+                },
+                {
+                    "code": "BG680"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT205",
+        "name": "Biogeografia",
+        "credits": 3,
+        "syllabus": "Biogeografia: histórico e bases teóricas. Geologia da América do Sul e influência na distribuição de plantas. Correntes atmosféricas e marítimas e influência sobre o clima. Flutuações climáticas históricas. Pressões ecológicas que influenciam a distribuição de espécies. Biogeografia insular. Biomas e regionalização da biota. Distribuição individual das espécies . Biodiversidade e gradientes de distribuição. Especiação, extinção e adaptação radiativa. Biogeografia molecular. Filogeografia. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação."
+    },
+    {
+        "code": "BT215",
+        "name": "Conservação na Prática e suas Bases Socioecológicas",
+        "credits": 7,
+        "syllabus": "1. Biodiversidade - conceitos e métodos quantitativos; 2. Conservação - valores e bases éticas; 3. Conceitos de biogeografia da conservação e suas bases teóricas; 4. Planejamento integrado da conservação em um mundo dinâmico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT281",
+        "name": "Sistemática de Criptógamas e Gimnospermas",
+        "credits": 4,
+        "syllabus": "Apresentação do Reino Vegetal e Diversidade de organismos. Evolução do sistema reprodutivo. Ciclos de vida. Morfologia dos principais grupos de criptógamas. Organização do talo. Evolução do sistema vascular. Gimnospermas. Evolução da semente. Introdução às técnicas de coleta e de preparação de amostras para Coleções Biológicas. Noções de avaliação da biodiversidade, levantamento e mapeamento de criptógamas. Elaboração de relatórios sobre atividade de campo. Elaboração e apresentação de seminários em grupo. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BT561",
+            "BT561",
+            "BT562",
+            "BT591"
+        ]
+    },
+    {
+        "code": "BT282",
+        "name": "Sistemática de Criptógamas e Gimnospermas",
+        "credits": 4,
+        "syllabus": "Apresentação do Reino Vegetal e Diversidade de organismos. Evolução do sistema reprodutivo. Ciclos de vida. Morfologia dos principais grupos de criptógamas. Organização do talo. Evolução do sistema vascular. Gimnospermas. Evolução da semente. Introdução às técnicas de coleta e de preparação de amostras para Coleções Biológicas. Noções de avaliação da biodiversidade, levantamento e mapeamento de criptógamas. Elaboração de relatórios sobre atividade de campo. Elaboração e apresentação de seminários em grupo. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BT561",
+            "BT561",
+            "BT562",
+            "BT591"
+        ]
+    },
+    {
+        "code": "BT283",
+        "name": "Botânica no Campo I",
+        "credits": 2,
+        "syllabus": "Treinamento em observações e experimentação no campo, com excursões sobre sistemática de Criptógamas e Gimnospermas. Produção e análise de textos em língua portuguesa."
+    },
+    {
+        "code": "BT285",
+        "name": "Sistemática de Criptógamas e Gimnospermas",
+        "credits": 6,
+        "syllabus": "Apresentação da diversidade e evolução de organismos fotossintetizantes. Origem da fotossíntese e tipos de cloroplastos. Morfologia dos principais grupos de algas e plantas terrestres (não angiospermas). Ciclos de vida. Estratégias adaptativas para a conquista do ambiente terrestre. Evolução do sistema reprodutivo. Evolução do sistema vascular. Evolução da semente. Introdução às técnicas de coleta e preparação de amostras de plantas. Treinamento em observações e experimentação no campo. Produção e análise de texos em língua portuguesa.",
+        "reqBy": [
+            "BL034",
+            "BL034"
+        ]
+    },
+    {
+        "code": "BT315",
+        "name": "Farmacobotânica",
+        "credits": 4,
+        "syllabus": "Morfologia externa de plantas vasculares.Tipos celulares e tecidos vegetais. Fundamentos de taxonomia e sistemática vegetal. Estudos biossistemáticos para identificação de táxons. Principais grupos taxonômicos, com enfoque em plantas medicinais. Análises farmacopéicas. Importância de estudos botânicos para a pesquisa de produtos naturais.",
+        "reqBy": [
+            "BH515",
+            "BT925",
+            "FR415",
+            "FR614"
+        ]
+    },
+    {
+        "code": "BT330",
+        "name": "Botânica Básica",
+        "credits": 2,
+        "syllabus": "Aspectos gerais de morfologia de Dicotiledôneas e Monocotiledôneas, raiz, caule, folhas, flores, frutos e sementes. Aspectos gerais da fisiologia de plantas superiores, enfocando relações energéticas, relações hídricas e minerais, relações hormonais e a fisiologia da germinação. Aspectos gerais de taxonomia vegetal, com ênfase nas espécies cultivadas. Ciclo de vida das culturas de maior importância econômica.",
+        "reqBy": [
+            "FA473",
+            "FA503"
+        ]
+    },
+    {
+        "code": "BT382",
+        "name": "Morfologia e Anatomia de Angiospermas",
+        "credits": 4,
+        "syllabus": "Ciclo de vida das angioespermas e estratégias reprodutivas. Aspectos gerais da morfologia de Angiospermas: raiz, caule, folhas, inflorescências, flores, frutos e sementes. Aspectos gerais de citologia, histologia e anatomia dos órgãos vegetativos de Angiospermas. Elaboração de projetos e relatórios de projetos em métodos em morfologia e anatomia vegetal. Seminários sobre temas atuais em morfologia e anatomia vegetal. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BT482",
+            "BT483",
+            "BT485",
+            "BT597"
+        ]
+    },
+    {
+        "code": "BT383",
+        "name": "Morfologia e Anatomia de Angiospermas",
+        "credits": 4,
+        "syllabus": "Ciclo de vida das angioespermas e estratégias reprodutivas. Aspectos gerais da morfologia de Angiospermas: raiz, caule, folhas, inflorescências, flores, frutos e sementes. Aspectos gerais de citologia, histologia e anatomia dos órgãos vegetativos de Angiospermas. Elaboração de projetos e relatórios de projetos em métodos em morfologia e anatomia vegetal. Seminários sobre temas atuais em morfologia e anatomia vegetal. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BT482",
+            "BT483",
+            "BT597"
+        ]
+    },
+    {
+        "code": "BT384",
+        "name": "Botânica no Campo II",
+        "credits": 2,
+        "syllabus": "Treinamento em observações e experimentação no campo, com excursões sobre morfologia de Angiospermas. Elaboração de relatórios das excursões."
+    },
+    {
+        "code": "BT385",
+        "name": "Morfologia e Anatomia de Angiospermas",
+        "credits": 6,
+        "syllabus": "Ciclo de vida das angiospermas e estratégias reprodutivas. Aspectos gerais da morfologia de Angiospermas: raiz, caule, folhas, inflorescências, flores, frutos e sementes. Aspectos gerais de célula vegetal e anatomia dos diferentes tecidos e órgãos vegetativos de Angiospermas. Elaboração de relatórios em aula prática dos conteúdos ministrados. Treinamento em observações e experimentação no campo e elaboração de trabalho escrito sobre morfologia vegetal. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BT485"
+        ]
+    },
+    {
+        "code": "BT482",
+        "name": "Sistemática de Angiospermas I",
+        "credits": 4,
+        "syllabus": "Sistemas de classificação dos vegetais. Bases dos sistemas filogenéticos. Angiospermas: caracterização, origem, classificação tradicional e filogenética. Principais famílias: caracterização e identificação. Práticas em taxonomia: uso e elaboração de chaves de identificação e de descrições botânicas: regras básicas de nomenclatura botânica; coleta e preservação de amostras botânicas. Noções sobre coleções botânicas com ênfase na organização e funcionamento de Herbário Científico. Noções de biossistemática e de sistemas de reprodução em angiospermas. Noções sobre biogeografia e sobre a aplicação do conhecimento taxonômico vegetal em conservação da biodiversidade, pesquisa e produção de bens (alimentos, fármacos, combustível renovável, etc), paisagismo e arborização urbana. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BT382"
+                }
+            ],
+            [
+                {
+                    "code": "BT383"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BT561",
+            "BT561",
+            "BT562",
+            "BT582",
+            "BT591",
+            "BT685"
+        ]
+    },
+    {
+        "code": "BT483",
+        "name": "Sistemática de Angiospermas I",
+        "credits": 4,
+        "syllabus": "Sistemas de classificação dos vegetais. Bases dos sistemas filogenéticos. Angiospermas: caracterização, origem, classificação tradicional e filogenética. Principais famílias: caracterização e identificação. Práticas em taxonomia: uso e elaboração de chaves de identificação e de descrições botânicas: regras básicas de nomenclatura botânica; coleta e preservação de amostras botânicas. Noções sobre coleções botânicas com ênfase na organização e funcionamento de Herbário Científico. Noções de biossistemática e de sistemas de reprodução em angiospermas. Noções sobre biogeografia e sobre a aplicação do conhecimento taxonômico vegetal em conservação da biodiversidade, pesquisa e produção de bens (alimentos, fármacos, combustível renovável, etc), pasiagismo e arborização humana. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BT382"
+                }
+            ],
+            [
+                {
+                    "code": "BT383"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BT561",
+            "BT561",
+            "BT562",
+            "BT582",
+            "BT591",
+            "BT685"
+        ]
+    },
+    {
+        "code": "BT484",
+        "name": "Botânica no Campo III",
+        "credits": 2,
+        "syllabus": "Treinamento em observações e experimentação no campo, com excursões sobre sistemática e evolução de Angiospermas. Produção e análise de textos em língua portuguesa."
+    },
+    {
+        "code": "BT485",
+        "name": "Sistemática de Angiospermas I",
+        "credits": 6,
+        "syllabus": "Sistemas de classificação dos vegetais. Bases dos sistemas filogenéticos. Angiospermas: caracterização, origem, classificação tradicional e filogenética. Principais famílias: caracterização e identificação. Práticas em taxonomia: uso e elaboração de chaves de identificação e de descrições botânicas; regras de nomenclatura botânica; coleta, preservação e documentação de amostras botânicas. Noções sobre coleções botânicas com ênfase na organização e funcionamento de Herbário Científico. Treinamento em observações e experimentação no campo. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BT382"
+                }
+            ],
+            [
+                {
+                    "code": "BT385"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BL034",
+            "BL034",
+            "BT582"
+        ]
+    },
+    {
+        "code": "BT500",
+        "name": "Iniciação Científica em Botânica I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Botânica. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT501",
+        "name": "Iniciação Científica em Ecologia Vegetal I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Ecologia Vegetal. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT561",
+        "name": "Tópicos em Evolução, Ecologia, Sistemática e Morfologia de Plantas",
+        "credits": 2,
+        "syllabus": "Estudo de tópicos em evolução, ecologia, sistemática e morfologia de plantas.",
+        "reqs": [
+            [
+                {
+                    "code": "BT281"
+                },
+                {
+                    "code": "BT483"
+                }
+            ],
+            [
+                {
+                    "code": "BT281"
+                },
+                {
+                    "code": "BT482"
+                }
+            ],
+            [
+                {
+                    "code": "BT282"
+                },
+                {
+                    "code": "BT483"
+                }
+            ],
+            [
+                {
+                    "code": "BT282"
+                },
+                {
+                    "code": "BT482"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT562",
+        "name": "Tópicos em evolução, ecologia, sistemática e morfologia de plantas",
+        "credits": 3,
+        "syllabus": "Estudo de tópicos em evolução, ecologia, sistemática e morfologia de plantas.",
+        "reqs": [
+            [
+                {
+                    "code": "BT281"
+                },
+                {
+                    "code": "BT482"
+                }
+            ],
+            [
+                {
+                    "code": "BT282"
+                },
+                {
+                    "code": "BT483"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT582",
+        "name": "Sistemática de Angiospermas II",
+        "credits": 6,
+        "syllabus": "Aprofundamento do estudo de diversas famílias de Angiospermas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BT482"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BT483"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BT485"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT583",
+        "name": "Botânica no Campo IV",
+        "credits": 2,
+        "syllabus": "Treinamento em observações e experimentação no campo."
+    },
+    {
+        "code": "BT584",
+        "name": "Fundamentos de Pedologia",
+        "credits": 4,
+        "syllabus": "\nDesenvolvimento de conceitos fundamentais sobre o solo como um ecossistema, como substrato de fixação, fonte e reservatório de nutrientes, fonte e reservatório de água. Apresentação das grandes ordens de solos brasileiros e dos principais fatores e processos pedogenéticos. Práticas de exame de perfis e descritores do solo no campo. Elaboração de relatórios de práticas desenvolvidas no campo e em laboratório."
+    },
+    {
+        "code": "BT591",
+        "name": "Tópicos em Morfologia e Taxonomia Vegetal",
+        "credits": 4,
+        "syllabus": "Análise de temas atuais em morfologia e taxonomia vegetal a partir da literatura especializada recente.",
+        "reqs": [
+            [
+                {
+                    "code": "BT281"
+                }
+            ],
+            [
+                {
+                    "code": "BT282"
+                },
+                {
+                    "code": "BT482"
+                }
+            ],
+            [
+                {
+                    "code": "BT483"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT595",
+        "name": "Morfologia e Anatomia de Órgãos Reprodutivos em Angiospermas",
+        "credits": 4,
+        "syllabus": "Organizações e diversificação da flor. Aspectos da morfologia, citologia, histologia e anatomia da flor, fruto e semente. Esporogênese, gametogênese, fecundação e embriogênese. Noções de técnicas histológicas em vegetais. Elaboração de projetos, relatórios e seminários em órgãos reprodutivos vegetais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT597",
+        "name": "Anatomia Ecológica",
+        "credits": 5,
+        "syllabus": "Nessa disciplina serão discutidas as adaptações morfoanatômicas em plantas submetidas a diferentes condições ambientais. Serão abordados temas como as características de plantas adaptadas a ambientes sombreados e ambientes sob alta radiação solar, a ambientes sujeitos à inundação e ao estresse hídrico em ambientes com solo arenoso e salino. As características analisadas serão relacionadas as plantas que se desenvolvem no cerrado, restinga, caatinga e Mata Atlântica.",
+        "reqs": [
+            [
+                {
+                    "code": "BT382"
+                }
+            ],
+            [
+                {
+                    "code": "BT383"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT600",
+        "name": "Iniciação Científica em Botânica II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Botânica II. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT601",
+        "name": "Iniciação Científica em Ecologia Vegetal II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Ecologia Vegetal. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT681",
+        "name": "Botânica Econômica",
+        "credits": 2,
+        "syllabus": "Origens da agricultura e bases do melhoramento genético de plantas. Aspectos econômicos e botânicos (taxonômicos, fisiológicos, genéticos e ecológicos) de plantas cultivadas (alimentícias, medicinais, tóxicas, fitorremediadoras, produtoras de madeira, invasoras, biocombustíveis, de uso industrial, etc). Conservação de recursos genéticos (em ambientes naturais, bancos de germoplasma, jardins botânicos, etc) de plantas cultivadas e de potencial econômico. Discussão de temas atuais em Botânica Aplicada. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT682",
+        "name": "Ecologia Vegetal",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais de ecologia do indivíduo, de populações e de comunidades vegetais. Planejamento, condução, análise e interpretação de experimentos relacionados com Ecologia Vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT685",
+        "name": "Biossistemática, Reprodução, Polinização e Dispersão",
+        "credits": 4,
+        "syllabus": "Biossistemática vegetal: uso de métodos experimentais em taxonomia de plantas, citotaxonomia, fatores que regulam a recombinação em plantas. Sistemas de reprodução de plantas. Biologia floral e ecologia da polinização. Importância dos polinizadores em espécies agrícolas e nos ecossistemas. Dispersão de diásporos.",
+        "reqs": [
+            [
+                {
+                    "code": "BT482"
+                }
+            ],
+            [
+                {
+                    "code": "BT483"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT700",
+        "name": "Estágio Supervisionado em Botânica I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa de Botânica, do Departamento de Biologia Vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT701",
+        "name": "Estágio Supervisionado em Ecologia Vegetal I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa de Ecologia Vegetal, do Departamento de Biologia Vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT791",
+        "name": "Tópicos de Ecologia Vegetal",
+        "credits": 4,
+        "syllabus": "A morfologia de plantas como ferramenta para o entendimento das adaptações ao ambiente e como auxiliar de identificação de espécies. Treinamento na confecção de chaves de identificação de espécies arbóreas do cerrado. Aplicação de métodos de levantamento quantitativo em diferentes fragmentos de cerrado, desde os conservados desde 1957 até os queimados anualmente. Estudo dos impactos antropogênicos sobre a estrutura da comunidade arbórea de fragmentos de cerrado. Discussão de projetos de educação ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT792",
+        "name": "Ecologia Vegetal no Campo",
+        "credits": 15,
+        "syllabus": "Introdução ao entendimento ecológico dos cerrados. Introdução ao entendimento das formações geológicas, estruturas geomorfológicas, paisagens, solos, clima e vegetação regionais. Treinamento em identificação de espécies lenhosas do cerrado e elaboração de chaves de identificação. Treinamento em técnicas de levantamento, documentação e estimativa da diversidade ecológica, amostragem e análise de dados de populações e comunidades vegetais. Treinamento em técnicas de investigação em ecologia funcional de plantas do cerrado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT793",
+        "name": "Restauração Ambiental",
+        "credits": 4,
+        "syllabus": "Degradação ambiental, poluição, ecotoxicologia. Recuperação de áreas degradadas: restauração e tratamento; remediação de áreas poluídas. Serviços ecossistêmicos e pagamento de serviços ambientais. Os alunos podem ter tarefas de elaboração de textos e/ou relatórios e/ou conduções de seminários sobre restauração ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                },
+                {
+                    "code": "BE682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT800",
+        "name": "Estágio Supervisionado em Botânica II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa de Botânica, do Departamento de Biologia Vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT801",
+        "name": "Estágio Supervisionado em Ecologia Vegetal II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa de Ecologia Vegetal, do departamento de Biologia Vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BT880",
+        "name": "Ecologia e Fitogeografia no Campo",
+        "credits": 2,
+        "syllabus": "Atividades de campo na disciplina de Ecologia e Fitogeografia. Produção e análise de textos em língua portuguesa."
+    },
+    {
+        "code": "BT885",
+        "name": "Ecologia e Fitogeografia",
+        "credits": 4,
+        "syllabus": "Noções de ecologia global, ecologia vegetal e fitogeografia. Os grandes sistemas climáticos e pedogenéticos mundiais e a distribuição dos grandes biomas. Forma e funções da planta como expressão de adaptações evolutivas. Os grandes domínios fitogeográficos do Brasil. Produção e análise de textos em língua portuguesa."
+    },
+    {
+        "code": "BT916",
+        "name": "Botânica Forense e Plantas Tóxicas",
+        "credits": 2,
+        "syllabus": "Fundamentos de Biologia forense. Diversidade vegetal. Uso de evidências botânicas em investigações criminais. Caracteres anatômicos de relevância para levantamento de evidências em investigações forense. Metodologia para processamento de amostras. Métodos de coletas de dados para estudos criminais e diagnósticos de investigação. Introdução aos métodos de DNA forense (Barcode, microssatélites). Princípios e aplicações de palinologia às ciências forenses. Conceitos gerais em Toxicologia. Plantas tóxicas e substâncias derivadas de interesse toxicológico. Caracterização morfológica e anatômica de drogas proscritas, ferramentas moleculares para diagnose de drogas de origem vegetal e procedimentos analíticos. Estudos de casos."
+    },
+    {
+        "code": "BT925",
+        "name": "Etnobotânica de Plantas de Interesse Farmacêutico",
+        "credits": 4,
+        "syllabus": "Conceituação, aspectos botânicos, diversidade biológica, distribuição geográfica, importância econômica, uso popular e etnobotânica de plantas medicinais e de interesse farmacêutico. Histórico da Etnobotânica em diferentes culturas. Metodologia de coleta e registros das informações etnobotânicas. Identificação botânica. Aspectos éticos e legais do direito de propriedade intelectual adquirida. Contexto integrado em conservação e usos de recursos genéticos. Valor medicinal e socioeconômico de espécies nativas e exóticas.",
+        "reqs": [
+            [
+                {
+                    "code": "BT315",
+                    "partial": true
+                }
+            ]
+        ]
+    }
+]

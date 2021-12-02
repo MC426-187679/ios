@@ -1,0 +1,1093 @@
+[
+    {
+        "code": "ES002",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "Atividades de iniciação científica em laboratório de pesquisa, sob orientação de um professor, mediante a aprovação de plano de trabalho pela coordenação de graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES003"
+        ]
+    },
+    {
+        "code": "ES003",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "Atividades de iniciação científica de maneira complementar ou contínua das atividades desenvolvidas como iniciação científica I, em laboratório de pesquisa, sob orientação de um professor, mediante a aprovação de plano de trabalho pela coordenação de graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "ES002"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES010",
+        "name": "Estágio Supervisionado",
+        "credits": 12,
+        "syllabus": "Exercício de atividades típicas do profissional em Controle e Automação junto a órgão habilitado pela coordenação de graduação. O estagiário deverá possuir um orientador no local do estágio, além de um professor orientador da FEM, FEEC ou IC. O estagiário apresentará ao professor-orientador um relatório final de atividades.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES020",
+        "name": "Tópicos em Engenharia Mecatrônica I",
+        "credits": 2,
+        "syllabus": "Abordagem específica de um assunto relacionado a formação profissional em Engenharia de Controle e Automação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES040",
+        "name": "Tópicos em Engenharia Mecatrônica II",
+        "credits": 4,
+        "syllabus": "Abordagem específica de um assunto relacionado a formação profissional em Engenharia de Controle e Automação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES041",
+        "name": "Tópicos em Engenharia Mecatrônica III",
+        "credits": 4,
+        "syllabus": "Abordagem específica de um assunto relacionado a formação profissional em Engenharia de Controle e Automação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES070",
+        "name": "Laboratório de Sistemas Embarcados",
+        "credits": 2,
+        "syllabus": "Aplicação prática dos conceitos de arquitetura de microcontroladores e microprocessadores. Programação em linguagem de montagem e linguagem C. Técnicas de programação em tempo real. Máquinas de estado. Interfaces de entrada/saída. Programação de interfaces. Comunicação de dados. Interrupções. Aplicação de técnicas e linguagem de modelagem de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "ES575"
+                },
+                {
+                    "code": "ES670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES101",
+        "name": "Introdução à Engenharia de Controle e Automação",
+        "credits": 2,
+        "syllabus": "Noções gerais sobre ciência e tecnologia e fundamentos metodológicos da engenharia. Origem e evolução de Engenharia de Controle e Automação. Perspectivas da área de trabalho. Habilidades de comunicação e expressão do engenheiro. Métodos de redação técnica e científica. Mercado profissional."
+    },
+    {
+        "code": "ES103",
+        "name": "Desenho Técnico Assistido por Computador",
+        "credits": 4,
+        "syllabus": "Desenho geométrico: concordâncias, resolução de triângulos. Normas técnicas. Perspectivas. Sistemas de projeções. Vistas principais, parciais, auxiliares. Cortes e seções. Representação de tolerâncias: dimensionais e de posição-e-forma. Desenho de elementos de máquinas. Conjuntos. Modelagem de sólidos. CAD para aplicação eletro/eletrônica. Noções de simulação gráfica."
+    },
+    {
+        "code": "ES235",
+        "name": "Engenharia de Fabricação",
+        "credits": 2,
+        "syllabus": "Normas técnicas. Tolerâncias dimensionais. Rugosidade superficial. Metrologia industrial. Ajustes e tolerâncias (furo-base, eixo-base). Controle estatístico de processo e sistema de medição em processo.",
+        "reqs": [
+            [
+                {
+                    "code": "EM104"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM035",
+            "EM535",
+            "EM730",
+            "EM831",
+            "EM949",
+            "ES365",
+            "ES535",
+            "ES730"
+        ]
+    },
+    {
+        "code": "ES242",
+        "name": "Materiais de Engenharia",
+        "credits": 2,
+        "syllabus": "A estrutura cristalina dos metais: modelos e defeitos. Ligações e difusão atômica. Estrutura e propriedades dos materiais. Materiais cerâmicos e poliméricos. Materiais conjugados. Materiais de grau eletrônico (obtenção/extração, beneficiamento e caracterização). Materiais específicos para o segmento eletro/eletrônico (placas de CI, materiais para contatores e/ou disjuntores). Materiais para aplicação em microeletrônica. Materiais específicos para construção de robôs industriais.",
+        "reqs": [
+            [
+                {
+                    "code": "QG100"
+                }
+            ],
+            [
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "QG108"
+                }
+            ],
+            [
+                {
+                    "code": "QG111"
+                },
+                {
+                    "code": "QG122"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM013",
+            "EM014",
+            "EM638",
+            "EM641",
+            "EM665",
+            "EM730",
+            "EM731",
+            "EM734",
+            "EM737",
+            "EM738",
+            "EM739",
+            "EM741",
+            "EM743",
+            "EM833",
+            "ES333",
+            "ES365",
+            "ES542",
+            "ES730"
+        ]
+    },
+    {
+        "code": "ES330",
+        "name": "Oficinas - Mecatrônica",
+        "credits": 4,
+        "syllabus": "Metrologia Industrial. Instrumentos básicos de medição linear, angular e posição. Dispositivos de controle dimensional. Programação (código G) e operação de Máquinas-Ferramenta CNC. Simbologia eletro/eletrônica. Comandos elétricos. Comandos de reversão e partida estrela-triângulo. Montagens básicas de dispositivos de eletrônica de potência. Diodos retificadores, tiristores, conversores, amplificadores. Controlador programável - diagrama Ladder. Eletro-pneumática: simbologia, válvulas e interpretação de circuitos. Eletro-hidráulica: normas, simbologia, motores, bombas, válvulas proporcionais."
+    },
+    {
+        "code": "ES333",
+        "name": "Laboratório de Ensaio dos Materiais",
+        "credits": 2,
+        "syllabus": "Normas de ensaios de materiais. Ensaios mecânicos. Ensaios não-destrutivos. Análise metalográfica. Caracterização de materiais de grau eletrônico.",
+        "reqs": [
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES365",
+        "name": "Fabricação Mecânica e Metalúrgica",
+        "credits": 2,
+        "syllabus": "Classificação dos processos de fabricação. Processos metalúrgicos: fundição, soldagem, metalurgia do pó, materiais e procedimentos. Processos mecânicos: conformação, usinagem, materiais e procedimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "ES235"
+                },
+                {
+                    "code": "ES242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM733",
+            "ES667"
+        ]
+    },
+    {
+        "code": "ES401",
+        "name": "Matemática para Engenharia",
+        "credits": 2,
+        "syllabus": "Introdução às variáveis complexas e funções de variáveis complexas. Transformada de Laplace. Solução de equações diferenciais de primeira e segunda ordem. Série de Fourier e Transformada de Fourier. Transformada discreta de Fourier. Equações a diferenças. Transformada Z. Solução de equações a diferenças de primeira e segunda ordem.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES406",
+        "name": "Fenômenos de Transporte I",
+        "credits": 4,
+        "syllabus": "Leis fundamentais da termodinâmica. Balanços de massa, momentum, energia e entropia. Noções de termodinâmica. Noções de hidrodinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES506",
+            "ES712",
+            "ES724"
+        ]
+    },
+    {
+        "code": "ES506",
+        "name": "Fenômenos de Transporte II",
+        "credits": 2,
+        "syllabus": "Mecanismos físicos e \"leis\" fundamentais de condução, convecção e radiação. Balanço térmico e tópicos (com aplicações). Noções de trocadores de calor. Noções de radiação pura. Noções de transferência de massa.",
+        "reqs": [
+            [
+                {
+                    "code": "ES406"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM703",
+            "ES606"
+        ]
+    },
+    {
+        "code": "ES535",
+        "name": "Usinagem dos Materiais",
+        "credits": 2,
+        "syllabus": "Fundamentos da usinagem. Grandezas de corte. Custos de usinagem. Escolha de ferramental e das condições de corte: o intervalo de máxima eficiência. Processos de usinagem. O planejamento do processo de usinagem. Noções de programação CNC.",
+        "reqs": [
+            [
+                {
+                    "code": "ES235"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM836",
+            "ES666",
+            "ES825"
+        ]
+    },
+    {
+        "code": "ES542",
+        "name": "Tratamentos Térmicos",
+        "credits": 2,
+        "syllabus": "Leis de difusão e conceitos fundamentais de solidificação. Técnicas de refino zonal e crescimento de cristais. Tratamentos térmicos e termoquímicos. Fundamentos eletroquímicos da corrosão e tipos de corrosão. Métodos de proteção contra a corrosão. Oxidação. Tratamentos e revestimentos de superfície.",
+        "reqs": [
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES563",
+        "name": "Laboratório de Máquinas Elétricas",
+        "credits": 2,
+        "syllabus": "Potência e energia elétrica. Circuitos monofásicos e trifásicos. Transformadores. Máquinas de corrente contínua de pequeno porte, motores de imã permanente e de passo. Máquinas de corrente contínua de grande porte. Máquinas de indução mono e trifásicos. Máquinas síncronas.",
+        "reqs": [
+            [
+                {
+                    "code": "ET520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES570",
+        "name": "Transferência de Calor I",
+        "credits": 4,
+        "syllabus": "Introdução à Transferência de Calor e à Condução. Condução Unidimensional em Regime Permanente. Introdução à Condução Bidimensional em Regime Permanente. Formulação Concentrada da Condução Transitória. Introdução à Convecção Térmica. Convecção em Escoamentos Externos. Convecção Natural em Escoamentos Externos. Radiação Térmica: Processos e Propriedades e Transferência de Calor.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "MA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES672"
+        ]
+    },
+    {
+        "code": "ES572",
+        "name": "Circuitos Lógicos",
+        "credits": 4,
+        "syllabus": "Conceitos lógicos. Circuitos básicos. Minimização de funções Booleanas. Sistemas de numeração. Aritmética binária. Códigos. Circuitos à contato. Síntese de circuitos combinacionais. Circuitos de memória. Circuitos sequenciais. Projeto de circuitos sequenciais. Máquinas de Mealy e Moore. Projeto de contadores, decodificadores e multiplexadores. Temporizadores: monoestáveis, astáveis e osciladores. Dispositivos lógicos programáveis.",
+        "reqBy": [
+            "ES573",
+            "ES575",
+            "ES725",
+            "ES926",
+            "MC732"
+        ]
+    },
+    {
+        "code": "ES573",
+        "name": "Laboratório de Circuitos Lógicos",
+        "credits": 2,
+        "syllabus": "Circuitos integrados fundamentais. Elementos lógicos com memória. Contadores digitais. Famílias lógicas, sistemas de numeração. Operações aritméticas: soma, subtração, multiplicação, divisão. Unidade lógica e aritmética. Memória ROM. Dispositivos lógicos reprogramáveis. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "ES572"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES574"
+        ]
+    },
+    {
+        "code": "ES574",
+        "name": "Laboratório Avançado de Circuitos Lógicos",
+        "credits": 2,
+        "syllabus": "Análise e síntese de circuitos sequenciais. Circuitos lógicos reprogramáveis. Interface de programação. Programação AHDL e VHDL - Implementação simulação e validação. Noções de estruturação aplicada a eletrônica digital. Projetos aplicados a área de controle e automação.",
+        "reqs": [
+            [
+                {
+                    "code": "ES573"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES575",
+        "name": "Laboratório de Circuitos Lógicos",
+        "credits": 2,
+        "syllabus": "Circuitos combinacionais. Flip-flops, contadores e temporizadores. Circuitos sequenciais. Conversor digital/analógico e analógico/digital. Dispositivos lógicos programáveis.",
+        "reqs": [
+            [
+                {
+                    "code": "ES572"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES070",
+            "ES770"
+        ]
+    },
+    {
+        "code": "ES595",
+        "name": "Mecânica Aplicada",
+        "credits": 4,
+        "syllabus": "Descrição matemática de sistemas dinâmicos lineares - função de transferência. Transformada de Laplace. Estudo da resposta. Critérios de estabilidade. Sistemas vibratórios. Vibrações livres e forçadas. Frequência natural e modos próprios. Determinação experimental de momentos de inércia, rigidez e amortecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "EM404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM707",
+            "ES621"
+        ]
+    },
+    {
+        "code": "ES601",
+        "name": "Análise Linear de Sistemas",
+        "credits": 4,
+        "syllabus": "Caracterização de sistemas lineares no tempo contínuo e no tempo discreto. Teorema da amostragem. Função de transferência. Análise de resposta em frequência de sistemas no tempo contínuo e no tempo discreto. Representação no espaço de estado. Realizações canônicas de funções de transferência. Solução temporal no espaço de estado. Estabilidade de sistemas contínuos e discretos. Conceitos básicos de controlabilidade e observabilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG402",
+            "ES710",
+            "ES879"
+        ]
+    },
+    {
+        "code": "ES606",
+        "name": "Sistemas Térmicos",
+        "credits": 4,
+        "syllabus": "Psicrometria. Refrigeração. Geração e utilização de vapor. Compressores a pistão. Ciclos motores ar-combustível. Motores de ignição. Noções de turbinas térmicas.",
+        "reqs": [
+            [
+                {
+                    "code": "ES506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES621",
+        "name": "Controle de Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais. Ações de controle básicas. Resposta de frequência. Critérios de estabilidade e lugar das raízes. Posicionamento de polos. Noções de estado. Análise de estabilidade. Aplicações: projeto de controladores PID. Estudo de observadores. Aplicações industriais.",
+        "reqs": [
+            [
+                {
+                    "code": "EM590"
+                }
+            ],
+            [
+                {
+                    "code": "EM607"
+                }
+            ],
+            [
+                {
+                    "code": "ES595"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES626",
+        "name": "Modelagem de Dispositivos Eletromecânicos",
+        "credits": 2,
+        "syllabus": "Eletromagnetismo aplicado a dispositivos eletromecânicos. Sistemas multidomínio. Modelagem e análise dinâmica de dispositivos multidomínio. Sistemas eletromecânicos, magnéticos e eletro-hidráulicos. Sensores e atuadores. Simulação de comportamento dinâmico usando circuitos equivalentes e grafos de conexões (bond graphs). Aplicação a sistemas mecatrônicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM707"
+                }
+            ],
+            [
+                {
+                    "code": "ES710"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES663",
+        "name": "Eletrônica para Automação Industrial",
+        "credits": 4,
+        "syllabus": "Revisão de máquinas elétricas de corrente contínua e corrente alterada. Métodos de controle de velocidade de motores. Revisão dos componentes eletrônicos utilizados, diodos de potência, transistores bipolares, mosfet de potência e dispositivos tiristores. Controle de motores de baixa potência. Controle de motores de imã permanente, sem escova e de passo. Acionamento a velocidade variável de motores trifásicos de alta potência. Acionamento a velocidade variável de motores de corrente contínua e de indução. Retificadores, conversores e inversores de frequência.",
+        "reqs": [
+            [
+                {
+                    "code": "EE532"
+                },
+                {
+                    "code": "ET520"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES664",
+            "ES723"
+        ]
+    },
+    {
+        "code": "ES664",
+        "name": "Laboratório de Eletrônica para Automação Industrial",
+        "credits": 2,
+        "syllabus": "Dispositivos de potência: diodos, tiristores, transistores e outros dispositivos semi-condutores. Reguladores de potência. Conversores. Controle de motores CC. Inversores. Controles de motores CA.",
+        "reqs": [
+            [
+                {
+                    "code": "ES663"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES666",
+        "name": "Sistema de Produção e Organização da Produção",
+        "credits": 4,
+        "syllabus": "Tipos de produção. Tempos padrões. Os modelos clássicos organizacionais: Taylorismo, Fordismo. Produtividade industrial. Tecnologia de grupo. Layout e arranjo celular. O sistema Toyota de produção. Conceitos de Just-in-time e Jidoka. O sistema de puxar e controle de execução da produção via Kanban.",
+        "reqs": [
+            [
+                {
+                    "code": "ES535"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES826"
+        ]
+    },
+    {
+        "code": "ES667",
+        "name": "Planejamento e Controle da Produção I",
+        "credits": 4,
+        "syllabus": "Administração da produção. Papel estratégico e objetivos da produção. Estratégia da produção. Projeto em gestão da produção. Projeto da rede de operações. Arranjo físico e fluxo. Organização do trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "ES365"
+                }
+            ],
+            [
+                {
+                    "code": "ES730"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES826"
+        ]
+    },
+    {
+        "code": "ES670",
+        "name": "Projeto de Sistemas Embarcados",
+        "credits": 4,
+        "syllabus": "Conceitos gerais de sistemas embarcados. Arquiteturas de microprocessadores, microcontroladores e processadores digitais de sinais. Conceito básico de sistemas de tempo real. Metodologia de projeto de sistemas embarcados. Sistemas de máquinas de estados. Metodologia SDL. Administração do tempo em sistemas computacionais. Linguagens de programação e sistemas operacionais para tempo real. Exemplos práticos de projeto de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES070",
+            "ES770"
+        ]
+    },
+    {
+        "code": "ES672",
+        "name": "Sistemas Fluidotérmicos I",
+        "credits": 4,
+        "syllabus": "Introdução à psicrometria. Sistemas de ventilação, condicionamento de ar e frigoríficos. Conceitos aplicados ao cálculo de carga térmica. Fluidos refrigerantes. Componentes dos sistemas de compressão. Componentes dos sistemas de distribuição de gases e líquidos. Cálculo de redes de condutos. Projeto. Introdução à combustão. Motores de combustão interna. Geração e Distribuição de vapor. Geração de potência e co-geração.",
+        "reqs": [
+            [
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "ES570"
+                }
+            ],
+            [
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "EM570"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES891"
+        ]
+    },
+    {
+        "code": "ES690",
+        "name": "Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Descrição, dimensionamento, seleção e utilização de elementos mecânicos. Análise de sistemas mecânicos e transmissão de energia. Modelagem matemática de sistemas dinâmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM806"
+        ]
+    },
+    {
+        "code": "ES704",
+        "name": "Instrumentação Básica",
+        "credits": 2,
+        "syllabus": "Características estáticas e dinâmicas dos instrumentos e sensores. Análise de dados e incertezas experimentais. Princípios gerais de transdução. Medidas de pressão, vazão e temperatura. Medida e análise de deslocamento, velocidade, aceleração, força, torque, potência mecânica. Medições de som. Instrumentação industrial.",
+        "reqs": [
+            [
+                {
+                    "code": "EE532"
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES710",
+        "name": "Controle de Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Conceito de realimentação. Modelagem de sistemas dinâmicos no tempo contínuo e no tempo discreto. Equivalentes discretos e sistemas amostrados. Análise de resposta em regime transitório e estacionário. Análise de resposta em frequência. Critérios de estabilidade: Routh-Hurwitz e de Nyquist. Projetos no domínio da frequência contínuo e discreto: avanço-atraso; lugar das raízes; PID. Conversão de controladores do tempo contínuo para discreto.",
+        "reqs": [
+            [
+                {
+                    "code": "EM607"
+                },
+                {
+                    "code": "ES601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG821",
+            "ES626",
+            "ES727",
+            "ES728",
+            "ES827",
+            "ES828"
+        ]
+    },
+    {
+        "code": "ES712",
+        "name": "Sistemas Fluidomecânicos",
+        "credits": 4,
+        "syllabus": "Princípios das máquinas de fluxo. Bombas centrífugas. Sistemas de bombeamento. Ventiladores. Sistemas de ventilação. Noções de turbinas hidráulicas. Bombas de deslocamento.",
+        "reqs": [
+            [
+                {
+                    "code": "ES406"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES723",
+        "name": "Dispositivos Eletromecânicos",
+        "credits": 4,
+        "syllabus": "Sistemas de atuação: acionamentos elétricos, hidráulicos e pneumáticos. Circuitos eletro-hidráulicos e eletropneumáticos industriais. Sensores, transdutores e atuadores. Controladores lógicos programáveis. Programação e utilização. Dispositivo de segurança. Estudo de casos práticos envolvendo sistemas automatizados.",
+        "reqs": [
+            [
+                {
+                    "code": "ES663"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES724",
+        "name": "Instalações Industriais",
+        "credits": 2,
+        "syllabus": "Aspectos legais e ambientais no \"projeto-da-fábrica\". Projeto contra descargas atmosféricas. Estratégias \"aterramento\". (Ergonomia). Aspectos de segurança e iluminação. Motores CC: construção, curvas-características, seleção e instalação. Motores CA: seleção vinculada à aplicação. Circuitos e dispositivos para partida/parada e reversão de motores. Proteção e controle de circuitos elétricos. Dimensionamento (normas) de instalações elétricas (baixa tensão), hidráulicas, pneumáticas e de vapor. Utilização de CAD específico para instalações pneumáticas e hidráulicas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "ET616"
+                }
+            ],
+            [
+                {
+                    "code": "EM672"
+                },
+                {
+                    "code": "ET616"
+                }
+            ],
+            [
+                {
+                    "code": "ES406"
+                },
+                {
+                    "code": "ET616"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES725",
+        "name": "Inteligência Artificial Aplicada",
+        "credits": 4,
+        "syllabus": "Sistemas especialistas. Lógica nebulosa, redes neurais multicamadas, redes neurais recorrentes. Arquiteturas e algoritmos de aprendizagem. Implementação. Aplicações em Engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "ES572"
+                },
+                {
+                    "code": "MC202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES726",
+        "name": "Laboratório de Sistemas Pneumáticos e Hidráulicos",
+        "credits": 2,
+        "syllabus": "Introdução aos dispositivos básicos hidráulicos e pneumáticos; circuitos básicos pneumáticos e hidráulicos e análise de suas características; circuitos básicos eletropneumáticos e eletro-hidráulicos; controle manual e automático; sensores e atuadores; controlador lógico programável.",
+        "reqs": [
+            [
+                {
+                    "code": "ES926"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES727",
+        "name": "Controle Neural e Nebuloso",
+        "credits": 4,
+        "syllabus": "Introdução a redes neurais. Redes neurais multicamadas. Redes neurais recorrentes. Introdução à lógica nebulosa. Identificação neural e nebulosa de sistemas. Métodos de controle usando redes neurais. Método de controle usando lógica nebulosa. Aplicação aos sistemas mecatrônicos. Controle inteligente.",
+        "reqs": [
+            [
+                {
+                    "code": "ES710"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES728",
+        "name": "Controle Avançado de Sistemas",
+        "credits": 4,
+        "syllabus": "Modelagem no espaço de estado para sistemas contínuos e discretos. Projeto de controladores contínuos e discretos por realimentação completa de estado. Projeto de rastreadores. Controlabilidade e Observabilidade. Estimadores e observadores de estado. Projeto de controladores dinâmicos contínuos e discretos por realimentação de saída. Controlador linear quadrático ótimo contínuo e discreto. Normas H2 e H-infinito. Projetos de controladores H2 e H-infinito. Introdução às incertezas de modelagem e robustez.",
+        "reqs": [
+            [
+                {
+                    "code": "ES710"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES730",
+        "name": "Processos Mecânicos de Fabricação",
+        "credits": 2,
+        "syllabus": "Processos de conformação plástica - descrição e aplicação; Processos de usinagem - descrição e aplicação; Seleção da peça bruta; Sequência de operações de fabricação - definição da superfície de referência, escolha das operações, cálculo dos sobremateriais e das dimensões intermediárias.",
+        "reqs": [
+            [
+                {
+                    "code": "ES235"
+                },
+                {
+                    "code": "ES242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES667"
+        ]
+    },
+    {
+        "code": "ES767",
+        "name": "Planejamento e Controle da Produção II",
+        "credits": 4,
+        "syllabus": "Planejamento de controle. Planejamento de controle da capacidade. Planejamento de controle de estoque. Planejamento de controle da cadeia de suprimentos. MRP. Planejamento e controle Just in Time. Planejamento de controle da qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES770",
+        "name": "Laboratório de Sistemas Digitais",
+        "credits": 2,
+        "syllabus": "Arquiteturas de microcontroladores e microprocessadores. Programação em linguagem de montagem e em C. Técnicas de programação em tempo real. Máquinas de estado. Interfaces de entrada/saída. Programação de interface serial e paralela. Comunicação entre computadores. Interrupções.",
+        "reqs": [
+            [
+                {
+                    "code": "ES575"
+                },
+                {
+                    "code": "ES670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES771",
+        "name": "Laboratório de Sistemas Digitais",
+        "credits": 2,
+        "syllabus": "Microcontroladores e microprocessadores industriais. Programação em linguagem Assembly. Técnicas básicas de programação. Instruções de máquina. Diretivas do montador. Depuradores. Compilação e carregamento. Interfaces de entrada/saída. Programação de interface serial. Comunicação entre computadores. Programação de interface paralela. Interrupções.",
+        "reqs": [
+            [
+                {
+                    "code": "MC404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES825",
+        "name": "Fundamentos da Engenharia da Qualidade",
+        "credits": 2,
+        "syllabus": "O conceito moderno de qualidade. Perda zero. Normas técnicas e procedimentos relacionados. Os conceitos de Deming e Taguchi. A técnica TQC. As normas ISO 9000 e 14000. Análise de modos de falha. Confiabilidade do produto. Gerenciamento da qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "EM535"
+                },
+                {
+                    "code": "ME414"
+                }
+            ],
+            [
+                {
+                    "code": "ES535"
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES826",
+        "name": "Engenharia Simultânea",
+        "credits": 2,
+        "syllabus": "A organização fabril por departamentos. A organização por Centros de Custos. A organização por Centros de Lucros. Técnicas modernas de gestão de projetos. O arranjo celular para manufatura. O conceito de equipes de trabalho multidisciplinares. A organização integrada por computador.",
+        "reqs": [
+            [
+                {
+                    "code": "EM733"
+                }
+            ],
+            [
+                {
+                    "code": "ES666"
+                }
+            ],
+            [
+                {
+                    "code": "ES667"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES827",
+        "name": "Robótica Industrial",
+        "credits": 4,
+        "syllabus": "Visão geral dos manipuladores. Fundamentos de tecnologia, programação e aplicações de robôs. Descrição matemática de manipuladores. Sistemas de coordenadas em robótica. Modelagem cinemática direta e inversa. Análise e controle de movimentos dos robôs. Modelagem dinâmica e controle de movimentos. Geração de trajetórias. Órgãos terminais, e sensores em robótica. Linguagens de programação de robôs.",
+        "reqs": [
+            [
+                {
+                    "code": "EM707"
+                }
+            ],
+            [
+                {
+                    "code": "ES710"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES927"
+        ]
+    },
+    {
+        "code": "ES828",
+        "name": "Laboratório de Controle de Sistemas",
+        "credits": 2,
+        "syllabus": "Identificação de parâmetros de sistemas, controladores avanço-atraso, controladores PID, controladores por realimentação de estados, reguladores lineares quadráticos, controladores em tempo-discreto.",
+        "reqs": [
+            [
+                {
+                    "code": "ES710"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES879",
+        "name": "Sistemas de Aquisição de Dados",
+        "credits": 4,
+        "syllabus": "Amplificadores e condicionadores de sinais. Principais filtros analógicos. Conversão D/A e A/D, amostragem e efeitos de quantização. Transformada Z e Tranformada de Fourier discreta. Filtros digitais FIR e IIR. Experimentos apresentando os efeitos e o teorema da amostragem, filtros analógicos e digitais típicos e análise de resposta em frequência.",
+        "reqs": [
+            [
+                {
+                    "code": "ES601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES891",
+        "name": "Projeto Assistido por Computador",
+        "credits": 2,
+        "syllabus": "Modelos de elementos finitos e aplicação de sistemas computacional comercial como ferramenta de cálculo e de projeto. Principais requisitos técnicos de problemas de eletromagnetismo, da área térmica e de fluidos, e da mecânica dos sólidos para o projeto de componentes. Exemplos de aplicação ao projeto de componentes e sistemas usando o método de elementos finitos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                },
+                {
+                    "code": "ES672"
+                },
+                {
+                    "code": "ET520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES916",
+        "name": "Redes de Comunicação em Ambiente Industrial",
+        "credits": 2,
+        "syllabus": "Conceitos básicos de comunicação digital. Modelo de camadas ISO/OSI. Topologia de redes. Redes locais industriais: protocolos de acesso ao meio (CSMA/CD, fast ethernet, gigabit ethernet, wireless LAN, etc.), protocolo de controle de enlace lógico (LLC). Principais redes de instrumentação industrial. Interligação entre redes. Projeto de rede industrial. Arquitetura ethernet: protocolos PPP, ARP, IP, ICMP, TCP, UDP e protocolos de aplicação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES925",
+        "name": "Laboratório de Automação Industrial",
+        "credits": 2,
+        "syllabus": "Controladores lógicos; Análise e programação de Sistemas Automatizados; Sensores; Dispositivos básicos hidráulicos e pneumáticos; Acionamentos Industriais baseados em motores elétricos; Interface Homem Máquina; Controle manual e automático; Comunicação entre dispositivos automatizados.",
+        "reqs": [
+            [
+                {
+                    "code": "ES926"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES926",
+        "name": "Automação Industrial",
+        "credits": 4,
+        "syllabus": "Aplicações da automação pneumática, hidráulica e elétrica. Circuitos eletro-hidráulicos e eletropneumáticos industrias. Modelagem e controle de sistemas automatizados. Aplicações de controladores industriais: controladores programáveis e computadores industrias. Integração com métodos de engenharia de produção. Controle de células de manufatura. Dispositivos de segurança. Estudo de casos práticos envolvendo sistemas de produção industrial automatizados.",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                },
+                {
+                    "code": "ES572"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES726",
+            "ES925"
+        ]
+    },
+    {
+        "code": "ES927",
+        "name": "Controle de Sistemas Robóticos",
+        "credits": 4,
+        "syllabus": "Modelagem dinâmica dos principais robôs. Análise de sistemas não lineares: plano de fase, estabilidade de Lyapunov, funções descritivas. Métodos de controle de robôs: linearização por realimentação, modo de deslizamento, adaptativos e neuro-adaptativo. Aplicações às principais configurações robóticas.",
+        "reqs": [
+            [
+                {
+                    "code": "ES827"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES931",
+        "name": "Administração dos Sistemas de Produção",
+        "credits": 2,
+        "syllabus": "Evolução das teorias de administração. Estrutura e funcionamento das organizações. Técnicas de planejamento, programação e gerenciamento e controle da produção. Análise de valores. MRP. PERT-CPM. Pesquisa operacional.",
+        "reqs": [
+            [
+                {
+                    "code": "CE738"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES951",
+        "name": "Trabalho de Graduação I",
+        "credits": 2,
+        "syllabus": "Definição do tema, escolha da metodologia a ser utilizada. Definição do cronograma de atividades. Revisão de conceitos específicos para a elaboração do TG. Esta disciplina será desenvolvida sob orientação de um professor do curso (FEM, FEEC ou IC ou de algum profissional ligado a órgão interessado) com apresentação de resultados parciais a uma banca examinadora constituída por professores/profissionais da área.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES952"
+        ]
+    },
+    {
+        "code": "ES952",
+        "name": "Trabalho de Graduação II",
+        "credits": 4,
+        "syllabus": "Conclusão do TG, com ênfase teórica e/ou tecnológica de forma a englobar conhecimentos adquiridos em diversas disciplinas do curso de Engenharia de Controle e Automação. A orientação poderá ser feita por professor da FEM, FEEC ou IC. Ao final do trabalho o aluno apresentará uma monografia escrita, além da apresentação final a uma banca examinadora constituída por professores/profissionais da área.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "ES951"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES963",
+        "name": "Laboratório de Dispositivos Eletromecânicos",
+        "credits": 2,
+        "syllabus": "Simulação de sistemas eletromecânicos. Testes experimentais dos principais sistemas eletromecânicos. Transformadores. Solenoides. Motores CC e CA. Mini e micromotores. Motores de relutância variável. Sistemas eletromagnéticos didáticos. Projeto de atuadores.",
+        "reqs": [
+            [
+                {
+                    "code": "ET520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ES965",
+        "name": "Projeto de Sistemas Mecatrônicos",
+        "credits": 4,
+        "syllabus": "Sistemática e Metodologia do projeto Industrial. Arquitetura Mecânica, concepção a partir de critérios de funcionalidade do produto, QFD. Análise do valor no desenvolvimento do projeto. Métodos de Sistematização da criatividade no projeto. Projeto Seguro. Ergonomia, Confiabilidade. Projetar para modularidade, expansão, disponibilidade, Controle, custo, etc (design for). Documentação técnica de um projeto: Atributos do produto, detalhes construtivos desenho de montagem final.",
+        "reqs": [
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

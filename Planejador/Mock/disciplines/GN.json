@@ -1,0 +1,135 @@
+[
+    {
+        "code": "GN101",
+        "name": "Ciência, Tecnologia e Sociedade",
+        "credits": 4,
+        "syllabus": "Esta disciplina apresenta, através de uma perspectiva histórico-comparativa, o debate atual sobre as transformações tecnológicas em curso no nível internacional e suas implicações, tanto para países desenvolvidos como para países latino-americanos. Analisa o desenvolvimento científico e tecnológico desde a primeira Revolução Industrial até os dias de hoje, procurando discutir as relações entre ciência, tecnologia e sociedade."
+    },
+    {
+        "code": "GN105",
+        "name": "Teorias e Métodos da Ciência",
+        "credits": 3,
+        "syllabus": "A emergência da ciência moderna e seu processo de institucionalização. As características da prática científica e do conhecimento produzido pelas ciências. A disputa pela demarcação de fronteiras entre conhecimento científico e outros modos de conhecer e explicar o mundo. Relações e dissensões entre saberes tradicionais e saberes científicos."
+    },
+    {
+        "code": "GN106",
+        "name": "Ciência do Sistema Terra I",
+        "credits": 4,
+        "syllabus": "Fundamentos de estudo e campos de aplicação da Geologia. Componentes do Sistema Terra e esferas terrestres (geosfera, atmosfera, hidrosfera, biosfera e esfera social). Tempo geológico, materiais terrestres e Tectônica de Placas. O Homem como agente geológico; situações de risco geológico. Atividades práticas de campo para reconhecimento de processos naturais e da interações destes com a ação humana. Representação e tratamento de informação geológica. Aprendizagem ativa e uso de recursos educacionais em Geociências. Atuação profissional e educacional em Ciências da Terra. Práticas de laboratório e trabalho de campo.",
+        "reqBy": [
+            "GE601",
+            "GN208"
+        ]
+    },
+    {
+        "code": "GN107",
+        "name": "Ciência do Sistema Mundo I",
+        "credits": 4,
+        "syllabus": "Definição do objeto da Geografia. Fundamentos teórico-metodológicos para análise do espaço geográfico. Distinção entre espaço natural e espaço geográfico. Técnica e política: as sucessivas transformações do meio geográfico. O processo de planetarização do espaço geográfico. Compartimentação do espaço e indissociabilidade das relações entre lugar, região, território e mundo no atual período histórico. Recontextualização dos conceitos e conteúdos da geografia humana desenvolvidos no processo de escolarização e na universidade.",
+        "reqBy": [
+            "GN304"
+        ]
+    },
+    {
+        "code": "GN108",
+        "name": "Cartografia Sistemática",
+        "credits": 4,
+        "syllabus": "Introdução à Cartografia. Princípios de Geodésia. Escalas. Sistemas de Coordenadas. Projeções Cartográficas. Sistema Cartográfico Nacional (SCN). Uso de Cartas, Mapas e Plantas em Ciências da Terra. Sistema de Posicionamento Global (GPS). Elementos de Topografia. Cartografia Digital. Trabalhos de campo e elaboração de relatório.",
+        "reqBy": [
+            "GN207"
+        ]
+    },
+    {
+        "code": "GN110",
+        "name": "Ciência do Sistema Mundo",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de Geografia Física. O estrato geográfico e a superfície da Terra como unidade geográfica. Análise e dinâmica dos sistemas geomorfológico, pedológico, climático e hidrográfico. Grandes domínios naturais da Terra. Recontextualização dos conceitos e conteúdos de geografia física desenvolvidos no processo de escolarização e na universidade. Geografia Física e Educação Ambiental no currículo escolar, aproximações, diferenças e disputas. Atividades de campo como práticas contextualizadoras de conhecimentos de geografia física."
+    },
+    {
+        "code": "GN111",
+        "name": "Sistema Terra",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de geologia. Origem do universo e origem do Sistema Solar. Estrutura e composição da Terra. Dinâmica interna do planeta Terra e a tectônica de placas. Materiais terrestres: rochas e minerais. O registro geológico e a escala do tempo geológico. Noções dos processos de interações entre os sistemas terrestres (litosfera, hidrosfera, biosfera, atmosfera e antroposfera). Mapas geológicos e noções básicas de trabalhos de campo em geologia. Sistema Terra e a humanidade.",
+        "reqBy": [
+            "GE207",
+            "GE601",
+            "GF303",
+            "GN304"
+        ]
+    },
+    {
+        "code": "GN206",
+        "name": "Ciência do Sistema Mundo II",
+        "credits": 4,
+        "syllabus": "Funcionamento sistêmico do espaço geográfico. Análise e dinâmica dos geossistemas (geomorfologia, pedologia, clima e demais componentes do meio físico); grandes domínios naturais."
+    },
+    {
+        "code": "GN207",
+        "name": "Introdução ao Sensoriamento Remoto",
+        "credits": 2,
+        "syllabus": "Definição, histórico e evolução do sensoriamento remoto. Princípios físicos do sensoriamento remoto. O espectro eletromagnético. Características espectrais de materiais naturais e artificiais. Introdução à espectroscopia de reflectância e interpretação de curvas de reflectância espectral. Sistemas sensores. Camêras aerofotogramétricas e fotografias aéreas. Princípios de estereoscopia e interpretação estereoscópica. Princípios de interpretação de fotografias aéreas.",
+        "reqs": [
+            [
+                {
+                    "code": "GN108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE707"
+        ]
+    },
+    {
+        "code": "GN208",
+        "name": "Ciência do Sistema Terra II",
+        "credits": 4,
+        "syllabus": "Métodos de investigação e Aplicações da Geologia. Processos geológicos e a interação das esferas terrestres. Ambientes de formação de rochas na Geosfera e suas interações com as demais esferas (atmosfera, hidrosfera, biosfera e esfera social). O Homem como agente geológico; situações de risco geológico. Atividades práticas de campo para reconhecimento de processos naturais e das interações destes com a ação humana. Mapas, perfis e modelos em Geologia. Atuação profissional e educacional em Ciências da Terra. Aprendizagem ativa e uso de recursos educacionais em Geociências. Práticas de laboratório e trabalho de campo.",
+        "reqs": [
+            [
+                {
+                    "code": "GN106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE601"
+        ]
+    },
+    {
+        "code": "GN301",
+        "name": "História das Teorias Econômicas",
+        "credits": 3,
+        "syllabus": "Elementos de economia. Análise do surgimento e da evolução da Economia Política como ramo do conhecimento científico. As principais escolas do pensamento econômico e suas respectivas contribuições ao entendimento do mundo em que vivemos. Disciplinas propedêuticas para o estudo da Economia dos Recursos Naturais."
+    },
+    {
+        "code": "GN302",
+        "name": "Pedologia",
+        "credits": 4,
+        "syllabus": "O processo de intemperismo nas diferentes regiões do globo terrestre. Fatores e processos de formação do solo. Principais propriedades físicas e químicas dos solos. Classificações taxonômicas e utilitárias dos solos. Cartografia de solos e suas aplicações em Ciências da Terra."
+    },
+    {
+        "code": "GN303",
+        "name": "Geomorfologia",
+        "credits": 4,
+        "syllabus": "Estudo das formas de relevo, gênese e evolução. Análise das inter-relações: rocha X solo X clima X relevo, com ênfase nos aspectos tectono-estruturais. Unidades morfoestruturais do globo terrestre. Processos endógenos e exógenos no modelado do relevo. Teorias e técnicas de mapeamento geomorfológico."
+    },
+    {
+        "code": "GN304",
+        "name": "Trabalho de Campo",
+        "credits": 6,
+        "syllabus": "Treinamento de campo para entendimento das feições do terreno, dentro de uma visão holística, observando-se as interações de rocha X solo X clima X hidrografia X ocupação humana.",
+        "reqs": [
+            [
+                {
+                    "code": "GN107"
+                },
+                {
+                    "code": "GN111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GE511"
+        ]
+    }
+]

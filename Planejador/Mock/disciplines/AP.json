@@ -1,0 +1,1731 @@
+[
+    {
+        "code": "AP100",
+        "name": "Práticas de Oficina I",
+        "credits": 4,
+        "syllabus": "Estudo do desenvolvimento das técnicas, materiais e equipamentos próprios de ateliês artísticos e ou oficinas de madeira, visando a produção de uma poética visual."
+    },
+    {
+        "code": "AP103",
+        "name": "Pintura I",
+        "credits": 5,
+        "syllabus": "Fundamentos da linguagem pictórica: relação entre o Desenho e a Pintura. Introdução ao conhecimento de técnicas, materiais e suportes. Estudo das formas de representação da imagem.",
+        "reqBy": [
+            "AP203"
+        ]
+    },
+    {
+        "code": "AP104",
+        "name": "Desenho Artístico I",
+        "credits": 5,
+        "syllabus": "Fundamentos da linguagem visual. Desenvolvimento da observação, percepção e apreensão por meio do desenho. A representação: formas e estruturas básicas.",
+        "reqBy": [
+            "AP204",
+            "AP773"
+        ]
+    },
+    {
+        "code": "AP106",
+        "name": "Plástica I",
+        "credits": 5,
+        "syllabus": "Conceituação plástica no espaço bi e tridimensional.",
+        "reqBy": [
+            "AP206"
+        ]
+    },
+    {
+        "code": "AP110",
+        "name": "Modelagem I",
+        "credits": 4,
+        "syllabus": "Modelagem e Moldagem em materiais diversos. Aplicação de escala para o projeto artístico. Elaboração de modelos maquetes em materiais diversos. Apresentação e elaboração de seminários e pesquisas de campo referentes ao universo próprio da criação artística. ",
+        "reqBy": [
+            "AP415"
+        ]
+    },
+    {
+        "code": "AP111",
+        "name": "Teoria e Projeto I: Introdução",
+        "credits": 4,
+        "syllabus": "Introdução ao projeto: materiais e linguagens de projeto (plástica, volumetria, teoria das cores, texturas, escalas, luz e sombras, ritmo, harmonia e composição). Noções gerais da estética aplicada ao espaço da arquitetura. Axiomática arquitetônica. O homem e o ambiente físico. Percepção espacial. A correlação forma e função no projeto. Introdução à metodologia de projeto. Exercício de projeto.",
+        "reqBy": [
+            "AP112",
+            "AU312"
+        ]
+    },
+    {
+        "code": "AP112",
+        "name": "Teoria e Projeto II: Processo Criativo",
+        "credits": 4,
+        "syllabus": "Percepção espacial: cor, escala, volume, espaço e ambiente. Composição: sintaxe visual, ritmo e harmonia. Processo de criação: metodologia de projeto e partido. Antropometria, modulação, analogias, tipologias, racionalidade construtiva e funcionalidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AP111"
+                },
+                {
+                    "code": "AP211",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU013",
+            "AU113",
+            "AU133",
+            "AU143"
+        ]
+    },
+    {
+        "code": "AP113",
+        "name": "Perfomance Artística",
+        "credits": 5,
+        "syllabus": "A disciplina aborda prática e teoricamente o campo expandido da Performance artística. Orientar-se por sua historicidade tanto quanto pela investigação de sua estrutura poética e estratégias criativas disruptivas que a desdobram entre os campos conceituais das Artes Visuais e Teatro de forma a evidenciar o hibridismo e a experimentação radical dos elementos: presença, ação, registro, tempo, espaço e materialidade que a constituem."
+    },
+    {
+        "code": "AP115",
+        "name": "Modelos e Maquetes",
+        "credits": 4,
+        "syllabus": "Técnicas e materiais na construção de maquetes. Construção de maquetes e modelos iconico-analógicos de obras de significativa importância e de acordo com os modelos teóricos da arquitetura no pensamento moderno. Releitura de projetos existentes com programas específicos variáveis a partir do código estético-funcional de cada tradição arquitetônica."
+    },
+    {
+        "code": "AP116",
+        "name": "Projetos Urbanos: Arte e Paisagem",
+        "credits": 4,
+        "syllabus": "Teoria e metodologia. Análise de experiências nacionais e internacionais. Projetos Urbanos: Requalificação Paisagística, Novos Museus e Grandes Intervenções Culturais."
+    },
+    {
+        "code": "AP120",
+        "name": "Teoria e Projeto X: Interiores",
+        "credits": 4,
+        "syllabus": "Concepção de ambientes internos. Modelos teóricos sobre as correlações dos espaços interno e externo. Impacto sobre cores aplicadas ao espaço interno/externo. Projetos de equipamentos e objetos. Detalhes arquitetônicos. Ergonometria aplicada. Programação visual. Projetos variados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP216"
+                }
+            ],
+            [
+                {
+                    "code": "AP217"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP140",
+        "name": "Ateliê Experimental Multidisciplinar I",
+        "credits": 5,
+        "syllabus": "A disciplina tem como objetivo estimular a vivência e a troca de experiências em ateliê coletivo estruturando-se a partir da investigação em linguagens contemporâneas pautadas pelo corpo e suas combinações com tecnologias e plataformas midiáticas. ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP198",
+        "name": "História da Arte I",
+        "credits": 3,
+        "syllabus": "A disciplina terá como tema as manifestações artísticas do Renascimento, estabelecendo suas ligações e rupturas com a visualidade da Idade Média e examinando suas relações com a cultura clássica da Antiguidade. Estudos teóricos de textos fundamentais para esse campo de conhecimento. Desenvolvimento de Seminários.",
+        "reqBy": [
+            "AP298"
+        ]
+    },
+    {
+        "code": "AP199",
+        "name": "Atividades Artísticas - Culturais - Ensino I",
+        "credits": 2,
+        "syllabus": "Ampliação e enriquecimento da cultura em geral, bem como de experiências pontuais no circuito artístico vigente. Participação como organizador, assistente ou expositor em atividades artísticas, culturais, ensino e científicas, workshops orientados (produção cultural, cenografia, mostra individual e coletiva em instituições especializadas e afins; visitas monitoradas a ateliês, exposições e acervos; atividades de extensão como congressos e seminários em áreas de Artes Visuais, História da Arte, Arte e Ensino e afins). Critérios a serem definidos pela Comissão de Graduação."
+    },
+    {
+        "code": "AP203",
+        "name": "Pintura II",
+        "credits": 5,
+        "syllabus": "Fundamentos da linguagem pictórica: composição e relações cromáticas. Estudo das formas de representação da imagem.",
+        "reqs": [
+            [
+                {
+                    "code": "AP103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP303"
+        ]
+    },
+    {
+        "code": "AP204",
+        "name": "Desenho Artístico II",
+        "credits": 5,
+        "syllabus": "Fundamentos da linguagem visual. Instrumentalização técnica: materiais e suportes através da história do desenho. Aprofundamento das questões desenvolvidas na disciplina Desenho Artístico I.",
+        "reqs": [
+            [
+                {
+                    "code": "AP104"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP304",
+            "AP520",
+            "AP773"
+        ]
+    },
+    {
+        "code": "AP206",
+        "name": "Plástica II",
+        "credits": 5,
+        "syllabus": "A forma e sua dinâmica no espaço. Suportes e técnicas construtivas de investigação plástica na tridimensionalidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AP106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP306"
+        ]
+    },
+    {
+        "code": "AP211",
+        "name": "Desenho I: Desenho Artístico",
+        "credits": 4,
+        "syllabus": "Desenho artístico. Composição, desenho de observação e de memória. Percepção das formas. Utilização de materiais e técnicas de desenho e de representação gráfica.\n ",
+        "reqBy": [
+            "AP112",
+            "AP213"
+        ]
+    },
+    {
+        "code": "AP212",
+        "name": "O livro-ilustrado: construções de narrativas visuais",
+        "credits": 5,
+        "syllabus": "Por meio de pesquisas práticas e teóricas aprofundar questões na área da ilustração de livros-ilustrados e seus aspectos práticos. O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural."
+    },
+    {
+        "code": "AP213",
+        "name": "Desenho III: Plástica Aplicada",
+        "credits": 4,
+        "syllabus": "Plástica aplicada à Arquitetura. Relação: figura, espaço e forma. Espaço bi e tridimensional. Linguagem visual, comunicação gráfica. Meios de expressão. Exercícios de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AP211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU312"
+        ]
+    },
+    {
+        "code": "AP216",
+        "name": "Desenho Industrial I: Introdução à Programação Visual",
+        "credits": 4,
+        "syllabus": "História, teoria e estética do design gráfico. Terminologia e conceitos fundamentais. Identidades e dessemelhanças entre design e arquitetura. Áreas de atuação em programação visual. Método clássico de desenvolvimento de projetos de design aplicado à programação visual. Ergonomia da informação. Semântica do design gráfico. Ética do design gráfico.",
+        "reqBy": [
+            "AP120"
+        ]
+    },
+    {
+        "code": "AP217",
+        "name": "Desenho Industrial II: Introdução ao Projeto de Produto",
+        "credits": 4,
+        "syllabus": "História, teoria e estética do design de produto. Terminologia e conceitos fundamentais. Identidades e dessemelhanças entre design e arquitetura. Áreas de atuação em projeto de produto. Método clássico de desenvolvimento de projetos e design aplicado ao projeto de produto. Ergonomia do produto. Semântica do produto. Ética do design de produto.",
+        "reqBy": [
+            "AP120"
+        ]
+    },
+    {
+        "code": "AP221",
+        "name": "Estética e Teoria da Arte",
+        "credits": 4,
+        "syllabus": "A disciplina propõe a leitura e análise das diversas abordagens teóricas e metodológicas que marcam o desenvolvimento recente dos campos da história da arte e da estética. Discussões importantes a respeito do estatuto da imagem, assim como a revisão rigorosa dos fundamentos tradicionais das duas disciplinas têm levado, nas últimas duas décadas, ao desenvolvimento de uma história da arte crítica, assim como à reavaliação de debates estéticos. Focar de forma rigorosa os últimos desdobramentos teóricos presentes no campo das artes será uma estratégia fundamental desta disciplina para também compreender de forma mais aprofundada os fenômenos artísticos a partir de um ponto de vista contemporâneo.",
+        "reqs": [
+            [
+                {
+                    "code": "AR111"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP240",
+        "name": "Ateliê Experimental Multidisciplinar II",
+        "credits": 5,
+        "syllabus": "A disciplina tem como objetivo estimular a vivência e troca de experiências em ateliê coletivo dando ênfase à produção e ao desenvolvimento de processos de criação em diferentes procedimentos artísticos. Sequência da disciplina AP140.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP298",
+        "name": "História da Arte II",
+        "credits": 3,
+        "syllabus": "A disciplina terá como tema as manifestações artísticas dos Séculos XVII e primeira metade do XVIII na Europa. Compreende o estudo teórico de textos fundamentais para este campo de conhecimento. Desenvolvimento de Seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP198"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP398"
+        ]
+    },
+    {
+        "code": "AP299",
+        "name": "Atividades Artísticas - Culturais - Ensino II",
+        "credits": 2,
+        "syllabus": "Ampliação e enriquecimento da cultura em geral, bem como de experiências pontuais no circuito artístico vigente. Participação como organizador, assistente ou expositor em atividades artísticas, culturais, ensino e científicas, workshops orientados (produção cultural, cenografia, mostra individual e coletiva em instituições especializadas e afins; visitas monitoradas a ateliês, exposições e acervos; atividades de extensão como congressos e seminários em áreas de Artes Visuais, História da Arte, Arte e Ensino e afins). Critérios a serem definidos pela Comissão de Graduação."
+    },
+    {
+        "code": "AP301",
+        "name": "Elementos da Prática de Pesquisa",
+        "credits": 5,
+        "syllabus": "A investigação científica: lógica, linguagem e método. Estruturas formais e funcionais do discurso científico de distintos tipos de Pesquisa voltados para o grande campo das Artes e Humanidades. Subsídios para a leitura, produção e interpretação de textos científicos. O projeto de pesquisa: a pergunta condutora, a delimitação do problema, a hipótese, os objetivos, o embasamento teórico, metodológico e empírico. A investigação científica como prática social."
+    },
+    {
+        "code": "AP303",
+        "name": "Pintura III",
+        "credits": 5,
+        "syllabus": "Teorias da cor: aprofundamento e desenvolvimento dos estudos cromáticos considerando a pintura na História da Arte e a pesquisa de novos materiais e suportes.",
+        "reqs": [
+            [
+                {
+                    "code": "AP203"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP403"
+        ]
+    },
+    {
+        "code": "AP304",
+        "name": "Desenho Artístico III",
+        "credits": 5,
+        "syllabus": "Da observação à representação: os sistemas de representação dos primórdios da história da arte ao período moderno. O desenho como meio de conhecimento sensível. Aprofundamento das questões desenvolvidas na disciplina Desenho Artístico II.",
+        "reqs": [
+            [
+                {
+                    "code": "AP204"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP404"
+        ]
+    },
+    {
+        "code": "AP306",
+        "name": "Plástica III",
+        "credits": 4,
+        "syllabus": "A forma e sua dinâmica bi e tridimensional. Suportes e técnicas. Desenvolvimento das questões espaciais e estruturais apresentadas nas disciplinas I e II.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP206"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP308",
+        "name": "Cultura Popular",
+        "credits": 3,
+        "syllabus": "A disciplina propõe apresentar e discutir as culturas popular e urbana e o folclore sob enfoque antropológico, estendendo-se para a aplicação na educação."
+    },
+    {
+        "code": "AP309",
+        "name": "Iniciação Científica I",
+        "credits": 4,
+        "syllabus": "A ser definida a cada semestre em que for oferecida.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP310",
+        "name": "Folclore Brasileiro I",
+        "credits": 2,
+        "syllabus": "Folclore: conceitos e implicações. Estudos de folclore brasileiro."
+    },
+    {
+        "code": "AP313",
+        "name": "Arte Fotográfica I",
+        "credits": 4,
+        "syllabus": "Introdução à Fotografia: Técnica e Equipamentos entre os processos Analógico e Digital. Expressividade e Gêneros Fotográficos. A imagem fotográfica e as Artes Visuais. Experimentações práticas e conceituações teóricas. ",
+        "reqBy": [
+            "AP413",
+            "AP773"
+        ]
+    },
+    {
+        "code": "AP314",
+        "name": "Informática Aplicada IV: Modelagem e Animação",
+        "credits": 4,
+        "syllabus": "Utilização de programas computadorizados para apresentações avançadas. Modelagem virtual e animação. Computação gráfica avançada."
+    },
+    {
+        "code": "AP340",
+        "name": "Ateliê Experimental Multidisciplinar III",
+        "credits": 5,
+        "syllabus": "A disciplina tem como objetivo estimular a vivência e troca de experiências em ateliê coletivo dando ênfase à produção e ao desenvolvimento de processos de criação em diferentes procedimentos artísticos. Sequência da disciplina AP240.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP398",
+        "name": "História da Arte III",
+        "credits": 3,
+        "syllabus": "A disciplina acompanha e discute as transformações ocorridas na produção artística europeia, desde o surgimento do Neoclassicismo, seus desdobramentos na Academia, até o advento do Realismo no Século XIX. Leitura e análise críticas de textos pertinentes ao período. Desenvolvimento de Seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP298"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP498"
+        ]
+    },
+    {
+        "code": "AP399",
+        "name": "Atividades Artísticas - Culturais - Ensino III",
+        "credits": 2,
+        "syllabus": "Ampliação e enriquecimento da cultura em geral, bem como de experiências pontuais no circuito artístico vigente. Participação como organizador, assistente ou expositor em atividades artísticas, culturais, ensino e científicas, workshops orientados (produção cultural, cenografia, mostra individual e coletiva em instituições especializadas e afins; visitas monitoradas a ateliês, exposições e acervos; atividades de extensão como congressos e seminários em áreas de Artes Visuais, História da Arte, Arte e Ensino e afins). Critérios a serem definidos pela Comissão de Graduação."
+    },
+    {
+        "code": "AP401",
+        "name": "Monitoria I",
+        "credits": 5,
+        "syllabus": "Funções de monitoria a serem exercidas por alunos do Curso de Licenciatura em Artes: Artes Visuais, em disciplinas curriculares e áreas de pesquisa do Departamento de Artes Plásticas: tarefas de ensino e pesquisa a serem desenvolvidas de acordo com o rendimento do aluno e seu plano de estudos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP402",
+        "name": "Tópicos Especiais em História da Arte",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP403",
+        "name": "Pintura IV",
+        "credits": 5,
+        "syllabus": "Teorias da Cor: uso criativo da cor aplicada sobretudo ao estudo das relações cromáticas a partir das principais teorias Modernas. Tema e Representação na Pintura. Desenvolvimento do pensamento temático e criativo aplicado de forma a estimular sua viabilização por meio de exercícios práticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AP303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP503",
+            "AP603",
+            "AP733"
+        ]
+    },
+    {
+        "code": "AP404",
+        "name": "Desenho Artístico IV",
+        "credits": 5,
+        "syllabus": "Da observação à construção: a estruturação do desenho como pensamento visual e seus sistemas de representação no período contemporâneo. Desenvolvimento da pesquisa de materiais e suportes. Aprofundamento das questões desenvolvidas na disciplina Desenho Artístico III.",
+        "reqs": [
+            [
+                {
+                    "code": "AP304"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP504",
+            "AP604",
+            "AP734"
+        ]
+    },
+    {
+        "code": "AP409",
+        "name": "Iniciação Científica II",
+        "credits": 4,
+        "syllabus": "A ser definida a cada semestre em que for oferecida.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP412",
+        "name": "Tópicos Especiais em História da Arte IV",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP413",
+        "name": "Arte Fotográfica II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de Projetos poéticos em Fotografia. Produção de portifólio, ensaios fotográficos em diferentes gêneros, formatos e suportes. Panorama das principais Escolas Fotográficas e seus representantes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP313"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP773"
+        ]
+    },
+    {
+        "code": "AP415",
+        "name": "Escultura I",
+        "credits": 5,
+        "syllabus": "A escultura moderna inserida nas principais vertentes artísticas da primeira metade do Século XX; investigações decorrentes da ruptura com valores e procedimentos tradicionais;compreensão do espaço, escala, construção do objeto artístico em relação ao ambiente e materiais. das escalas, lugares e materiais para a escultura. O objeto artístico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP515"
+        ]
+    },
+    {
+        "code": "AP417",
+        "name": "Tópicos Especiais em História da Arte V",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP440",
+        "name": "Ateliê Experimental Multidisciplinar IV",
+        "credits": 5,
+        "syllabus": "A disciplina tem como objetivo estimular a vivência e troca de experiências em ateliê coletivo dando ênfase à produção e ao desenvolvimento de processos de criação em diferentes procedimentos artísticos. Sequência da disciplina AP340.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP498",
+        "name": "História da Arte IV",
+        "credits": 3,
+        "syllabus": "A disciplina acompanha e discute as transformações ocorridas na produção artística europeia, a partir da produção apresentada por Manet até o desenvolvimento das vanguardas históricas no começo do Século XX. Leitura e análise críticas de textos pertinentes ao período. Desenvolvimento de Seminários. ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP398"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP598"
+        ]
+    },
+    {
+        "code": "AP499",
+        "name": "Atividades Artísticas - Culturais - Ensino IV",
+        "credits": 2,
+        "syllabus": "Ampliação e enriquecimento da cultura em geral, bem como de experiências pontuais no circuito artístico vigente. Participação como organizador, assistente ou expositor em atividades artísticas, culturais, ensino e científicas, workshops orientados (produção cultural, cenografia, mostra individual e coletiva em instituições especializadas e afins; visitas monitoradas a ateliês, exposições e acervos; atividades de extensão como congressos e seminários em áreas de Artes Visuais, História da Arte, Arte e Ensino e afins). Critérios a serem definidos pela Comissão de Graduação."
+    },
+    {
+        "code": "AP501",
+        "name": "Monitoria II",
+        "credits": 5,
+        "syllabus": "Funções de monitoria a serem exercidas por alunos do Curso de Licenciatura em Artes: Artes Visuais, em disciplinas curriculares e áreas de pesquisa do Departamento de Artes Plásticas: tarefas de ensino e pesquisa a serem desenvolvidas de acordo com o rendimento do aluno e seu plano de estudos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP502",
+        "name": "Tópicos Especiais em História da Arte II",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP503",
+        "name": "Pintura V",
+        "credits": 4,
+        "syllabus": "Assunto e abordagem na Pintura: desenvolvimento da poética relacionada à linguagem pessoal. Aprofundamento dos aspectos técnicos, estudo e pesquisa dos recursos de materiais e procedimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP504",
+        "name": "Desenho Artístico V",
+        "credits": 4,
+        "syllabus": "Da observação à construção: o desenho como instrumento de conhecimento sensível. A representação do espaço: introdução ao estudo das concepções espaciais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP509",
+        "name": "Computação Gráfica I",
+        "credits": 5,
+        "syllabus": "Conceitos básicos de Computação Gráfica. Sistemas matriciais de produção de imagem. Os softwares matriciais e sua relação com as Artes Visuais. Principais Softwares, principais comandos. Desenvolvimento de projetos em Artes Visuais e em Arte/Educação.",
+        "reqBy": [
+            "AP609"
+        ]
+    },
+    {
+        "code": "AP510",
+        "name": "Tópicos Especiais em Processos Criativos III",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP512",
+        "name": "Tópicos Especiais em História da Arte VI",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP515",
+        "name": "Escultura II",
+        "credits": 5,
+        "syllabus": "Novas proposições para o espaço escultórico: conceitos de apropriação, instalação e intervenção nos processos de produção e pensamento da escultura contemporânea. Desdobramentos de pesquisa em seminários e visitas técnicas orientadoras do campo expandido da escultura.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP415"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP615"
+        ]
+    },
+    {
+        "code": "AP518",
+        "name": "Cerâmica I",
+        "credits": 5,
+        "syllabus": "Histórico da cerâmica. Desenvolvimento técnico e seus processos criativos, instrumentos, equipamentos e materiais. Processo e uso de óxidos na cerâmica.",
+        "reqBy": [
+            "AP618"
+        ]
+    },
+    {
+        "code": "AP520",
+        "name": "Gravura I",
+        "credits": 5,
+        "syllabus": "Introdução à gravura em relevo. A xilografia como linguagem expressiva. História da gravura européia: séculos XV à XVIII, e Brasil. A gravura de madeira de fio e de topo, linoleogravura e variantes. Impressões diretas e simples: monotipias, carimbos e pochoir.",
+        "reqs": [
+            [
+                {
+                    "code": "AP204"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP620"
+        ]
+    },
+    {
+        "code": "AP560",
+        "name": "Introdução à Computação Gráfica I",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de informática e computação gráfica.",
+        "reqBy": [
+            "AP660"
+        ]
+    },
+    {
+        "code": "AP598",
+        "name": "História da Arte V",
+        "credits": 4,
+        "syllabus": "A disciplina aborda a produção artística europeia correspondente ao período que se estende do Pós-Segunda Guerra aos dias de hoje.  É permeada pelo exercício de análise crítica (oral e escrita) dos diferentes autores do período.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP498"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP599",
+        "name": "Atividades Artísticas - Culturais - Ensino V",
+        "credits": 3,
+        "syllabus": "Ampliação e enriquecimento da cultura em geral, bem como de experiências pontuais no circuito artístico vigente. Participação como organizador, assistente ou expositor em atividades artísticas, culturais, ensino e científicas, workshops orientados (produção cultural, cenografia, mostra individual e coletiva em instituições especializadas e afins; visitas monitoradas a ateliês, exposições e acervos; atividades de extensão como congressos e seminários em áreas de Artes Visuais, História da Arte, Arte e Ensino e afins). Critérios a serem definidos pela Comissão de Graduação."
+    },
+    {
+        "code": "AP600",
+        "name": "Metodologia de Pesquisa em Artes Visuais",
+        "credits": 3,
+        "syllabus": "Referenciais teóricos e metodológicos básicos para a realização de pesquisas no campo das artes visuais. Exercícios de elaboração de projetos, levantamento e organização de material empírico, elaboração de relatórios e redação visando ampliar o conhecimento sobre a língua portuguesa orientada para o discurso próprio do artista visual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP735"
+        ]
+    },
+    {
+        "code": "AP601",
+        "name": "Monitoria III",
+        "credits": 5,
+        "syllabus": "Funções de monitoria a serem exercidas por alunos do Curso de Licenciatura em Artes: Artes Visuais, em disciplinas curriculares e áreas de pesquisa do Departamento de Artes Plásticas: tarefas de ensino e pesquisa a serem desenvolvidas de acordo com o rendimento do aluno e seu plano de estudos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP602",
+        "name": "Tópicos Especiais em História da Arte III",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP603",
+        "name": "Pintura VI",
+        "credits": 4,
+        "syllabus": "Assunto e abordagem na pintura: aspectos conceituais do fazer artístico. Estudo e pesquisa das possibilidades da linguagem pictórica na contemporaneidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP604",
+        "name": "Desenho Artístico VI",
+        "credits": 4,
+        "syllabus": "Da observação à construção: a estruturação do desenho como pensamento visual. Desenvolvimento da pesquisa de materiais e suportes. Aprofundamento das questões desenvolvidas na disciplina Desenho Artístico V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP609",
+        "name": "Computação Gráfica II",
+        "credits": 5,
+        "syllabus": "Conceitos básicos de computação gráfica. Sistemas vetoriais de produção de imagem. Os softwares vetoriais e sua relação com as Artes Visuais. Principais Softwares e comandos. Desenvolvimento de projetos em Artes Visuais e em Arte/Educação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP509"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP610",
+        "name": "Tópicos Especiais em Processos Criativos IV",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP612",
+        "name": "Tópicos Especiais em História da Arte VII",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos  com o sistema artístico."
+    },
+    {
+        "code": "AP614",
+        "name": "Tópicos Especiais em Processos Criativos V",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP615",
+        "name": "Escultura III",
+        "credits": 5,
+        "syllabus": "Abordagens sobre a constituição e relações próprias do pensamento artístico tridimensional na atualidade. Novas estratégias critico-criativas e proposições da arte pública e urbana contemporâneas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP515"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP745"
+        ]
+    },
+    {
+        "code": "AP617",
+        "name": "Tópicos Especiais em História da Arte VIII",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP618",
+        "name": "Cerâmica II",
+        "credits": 5,
+        "syllabus": "Conhecimentos artesanais da cerâmica. Uso do forno. O engobe, os esmaltes vitrificáveis e outras. Suas propriedades. Processo de criação e consideração geral sobre os seus aspectos sociais. Processos de expressão. Aplicações artesanais e industriais. O torno e sua função.",
+        "reqs": [
+            [
+                {
+                    "code": "AP518"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP718"
+        ]
+    },
+    {
+        "code": "AP620",
+        "name": "Gravura II",
+        "credits": 5,
+        "syllabus": "Introdução à gravura em encavo: calcografia ou gravura em metal. História da gravura em metal. Procedimentos básicos: técnicas de gravação diretas e indiretas.",
+        "reqs": [
+            [
+                {
+                    "code": "AP520"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP724",
+            "AP764"
+        ]
+    },
+    {
+        "code": "AP625",
+        "name": "História da Arte Brasileira I",
+        "credits": 3,
+        "syllabus": "A disciplina tem como conteúdo as manifestações artísticas do período da Colônia e do Império no Brasil. Leitura e análise críticas de textos pertinentes ao período. Desenvolvimento de Seminários.",
+        "reqBy": [
+            "AP725"
+        ]
+    },
+    {
+        "code": "AP632",
+        "name": "Desenho Animado I",
+        "credits": 5,
+        "syllabus": "Representação gráfica do movimento. Noções básicas sobre animação.",
+        "reqBy": [
+            "AP732"
+        ]
+    },
+    {
+        "code": "AP660",
+        "name": "Introdução à Computação Gráfica II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento da disciplina AP560.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP560"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP760"
+        ]
+    },
+    {
+        "code": "AP698",
+        "name": "Fundamentos Metodológicos de Pesquisa em História da Arte",
+        "credits": 6,
+        "syllabus": "A disciplina propõe apresentar e discutir diferentes abordagens metodológicas correntes no campo da História da Arte. Promove investigações teóricas fundamentadas pelo espectro formado a partir das correlações dentre História, Arte, Cultura, Política e Sociedade. "
+    },
+    {
+        "code": "AP699",
+        "name": "Atividades Artísticas - Culturais - Ensino VI",
+        "credits": 3,
+        "syllabus": "Ampliação e enriquecimento da cultura em geral, bem como de experiências pontuais no circuito artístico vigente. Participação como organizador, assistente ou expositor em atividades artísticas, culturais, ensino e científicas, workshops orientados (produção cultural, cenografia, mostra individual e coletiva em instituições especializadas e afins; visitas monitoradas a ateliês, exposições e acervos; atividades de extensão como congressos e seminários em áreas de Artes Visuais, História da Arte, Arte e Ensino e afins). Critérios a serem definidos pela Comissão de Graduação."
+    },
+    {
+        "code": "AP701",
+        "name": "Tópicos Especiais em Processos Criativos I",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP707",
+        "name": "Gestão de Espaços de Arte / Educação",
+        "credits": 5,
+        "syllabus": "Gestão de espaços da Educação Formal e não formal nos quais a Arte se insere como elemento unificador das atividades."
+    },
+    {
+        "code": "AP709",
+        "name": "Arte e Novos Meios I",
+        "credits": 5,
+        "syllabus": "A disciplina propõe apresentar e discutir as linguagens tecnológicas enfocando a criação digital  para construção da pesquisa artística: a imagem eletrônica videobjetos, videoinstalações e outros, ambientes interativos e imersivos. Ferramentas de tecnologia e Comunicação. ",
+        "reqBy": [
+            "AP809"
+        ]
+    },
+    {
+        "code": "AP710",
+        "name": "Tópicos Especiais em Processos Criativos VI",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP714",
+        "name": "Tópicos Especiais em Processos Criativos VII",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP717",
+        "name": "Tópicos Especiais em História da Arte IX",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP718",
+        "name": "Cerâmica III",
+        "credits": 8,
+        "syllabus": "Definição e orientação no desenvolvimento de projetos artísticos baseados nos conhecimentos adquiridos em cerâmica I e II, associados a novas informações históricas e técnicas, encaminhando a reflexão para a cerâmica contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AP618"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP724",
+        "name": "Gravura III",
+        "credits": 5,
+        "syllabus": "Introdução à gravura planográfica: história da gravura planográfica, séculos XIX e XX; Introdução à gravura contemporânea. Procedimentos básicos: técnicas de gravação e impressão em litografia.",
+        "reqs": [
+            [
+                {
+                    "code": "AP620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP725",
+        "name": "História da Arte Brasileira II",
+        "credits": 3,
+        "syllabus": "Arte brasileira no século XX. As realizações da Semana de Arte Moderna e o Movimento Modernista. Arte e identidade nacional. Os desdobramentos do modernismo nos anos 30 e 40. As Bienais de São Paulo. A arte concreta e neoconcreta. O abstracionismo informal no Brasil. A \"pop-art\" brasileira. Novas tendências. Arte contemporânea. Desenvolve o exercício de análise crítica (oral e escrita) dos diferentes autores do período.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP625"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP732",
+        "name": "Desenho Animado II",
+        "credits": 8,
+        "syllabus": "Desenho animado e outras técnicas de cinema de animação. Aborda os principais processos de produção de um desenho animado, desde a criação da ideia, planejamento da história, animação de desenhos, filmagem e revelação do material com o auxílio da computação gráfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AP632"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP733",
+        "name": "Pintura VII",
+        "credits": 8,
+        "syllabus": "Definição e orientação no desenvolvimento de projetos artísticos baseado nos conhecimentos adquiridos nas disciplinas anteriores. Aprofundamento das questões históricas, estéticas e técnicas dos processos pictóricos encaminhando a reflexão para a pintura conteporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP734",
+        "name": "Desenho Artístico VII",
+        "credits": 8,
+        "syllabus": "Definição e orientação no desenvolvimento de projetos artísticos baseados nos conhecimentos adquiridos nas disciplinas anteriores. Aprofundamento das questões históricas, estéticas e técnicas dos processos gráficos encaminhando a reflexão para o desenho contemporâneo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP735",
+        "name": "Projeto Experimental em Artes Visuais I",
+        "credits": 8,
+        "syllabus": "Orientação para o aprimoramento do projeto poético do aluno, visando o desenvolvimento de trabalhos artísticos que articulem os conhecimentos de arte e da linguagem artística e do campo da arte educação, construídos através das teorias estudadas em disciplinas anteriores, assim como as competências para a criação e produção artística, desenvolvidas durante o curso. Aprofundamento das questões históricas, estéticas, técnicas e da docência presentes nos processos de criação e pesquisas artísticas. Articulação entre teoria e prática, com ênfase na produção artística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "AP600"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP836"
+        ]
+    },
+    {
+        "code": "AP741",
+        "name": "Arquitetura Paisagística I: Introdução",
+        "credits": 4,
+        "syllabus": "Fundamentos Teóricos da Arquitetura Paisagística. Dimensão histórico cultural do paisagismo: os parques urbanos no desenho das cidades, evolução do conceito de parques e praças. Breve Histórico da arquitetura paisagística no entorno de edificações. Leitura de Projeto: apresentação crítica de exemplos de projetos no entorno de edificações residenciais, comerciais e institucionais, praças, parques e demais áreas livres.",
+        "reqs": [
+            [
+                {
+                    "code": "AU601",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP742"
+        ]
+    },
+    {
+        "code": "AP742",
+        "name": "Arquitetura Paisagística II: Projetos",
+        "credits": 4,
+        "syllabus": "Projetos de entornos de edificações. Projetos em espaços públicos, parques, praças e sistemas viários. Avaliação da potencialidade do projeto. Implantação e manutenção de projetos paisagísticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AP741",
+                    "partial": true
+                },
+                {
+                    "code": "AU601",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU118"
+        ]
+    },
+    {
+        "code": "AP745",
+        "name": "Escultura IV",
+        "credits": 8,
+        "syllabus": "Definição e orientação no desenvolvimento de projetos artísticos baseado nos conhecimentos adquiridos nas disciplinas anteriores. Aprofundamento das questões históricas, estéticas e técnicas dos processos escultóricos voltados para a reflexão conceitual teórica e prática da produção escultórica contemporânea brasileira.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP615"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP760",
+        "name": "Computação Gráfica e Multimídia",
+        "credits": 8,
+        "syllabus": "Definição e orientação no desenvolvimento de projetos artísticos baseado nos conhecimentos adquiridos nas disciplinas anteriores. Aprofundamento das questões históricas, estéticas e técnicas dos processos tecnológicos encaminhando a reflexão para o uso da tecnologia na arte contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP660"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP762",
+        "name": "Estágio Pedagógico I",
+        "credits": 6,
+        "syllabus": "Desenvolvimento de atividades de estágio, atividades de imersão no campo de trabalho que propiciem ao professor em formação o contato com experiências, práticas e conhecimentos de natureza profissional principalmente voltados para a Educação infantil. Estudo do sistema educacional brasileiro e suas diretrizes curriculares. Elaboração de Relatórios e Projetos pertinentes a este campo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EL874"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AP862"
+        ]
+    },
+    {
+        "code": "AP763",
+        "name": "Pedagogia e Didática de Artes Visuais I",
+        "credits": 6,
+        "syllabus": " Histórico do ensino de Artes Visuais no Brasil. Análise dos Parâmetros Curriculares Nacionais. Estudo do processo de aquisição de conhecimentos da criança e planejamento de propostas artísticas que tenham ressonância com suas particularidades. Estudo das principais linhas pedagógicas e conceitos de metodologia de ensino aplicada ao ensino de Artes Visuais. Questões e possibilidades de criação de propostas de intercâmbio em arte entre escolas e espaços museológicos, culturais e organizações não-governamentais. Escolha de temáticas possíveis para a realização de projetos. Elaboração de planejamento anual de ensino e planos de aula na área de Artes Visuais.\n ",
+        "reqBy": [
+            "AP863"
+        ]
+    },
+    {
+        "code": "AP764",
+        "name": "Gravura IV",
+        "credits": 8,
+        "syllabus": "Definição e orientação no desenvolvimento de projetos artísticos baseados nos conhecimentos adquiridos em Gravura I, II e III. Aprofundamento das questões históricas, estéticas e técnicas dos processos gráficos, encaminhando a reflexão para a gravura contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AP620"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP773",
+        "name": "Serigrafia",
+        "credits": 5,
+        "syllabus": "Introdução à serigrafia: história da gravura vazada, século XX; Introdução à serigrafia contemporânea. Procedimentos básicos: técnicas de gravação e impressão em serigrafia.",
+        "reqs": [
+            [
+                {
+                    "code": "AP104"
+                }
+            ],
+            [
+                {
+                    "code": "AP204"
+                }
+            ],
+            [
+                {
+                    "code": "AP313"
+                }
+            ],
+            [
+                {
+                    "code": "AP413"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP801",
+        "name": "Tópicos Especiais em Processos Criativos II",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP809",
+        "name": "Arte e Novos Meios II",
+        "credits": 5,
+        "syllabus": "Investigação e vivência de produção com arte tecnológica à luz da dinâmica ininterrupta das interfaces emergentes da nossa contemporaneidade. Interações corporais, ambientais e informacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP709"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP810",
+        "name": "Tópicos Especiais em Processos Criativos VIII",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP812",
+        "name": "Tópicos Especiais em História da Arte X",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP814",
+        "name": "Tópicos Especiais em Processos Criativos IX",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP836",
+        "name": "Projeto Experimental em Artes Visuais II",
+        "credits": 14,
+        "syllabus": "Orientação para o aprimoramento do projeto poético do(a) aluno(a), visando o desenvolvimento de trabalhos artísticos que articulem os conhecimentos de arte e da linguagem artística, construídos através das teorias estudadas em disciplinas anteriores, assim como as competências para a criação e produção artística, desenvolvidas durante o curso. Aprofundamento das questões históricas, estéticas e técnicas dos processos de criação e pesquisas artísticas. Articulação entre teoria e prática, com ênfase na produção artística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "AP735"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP862",
+        "name": "Estágio Pedagógico II",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de atividades de estágio que aprimorem o conhecimento da prática docente em espaços escolares e não-escolares; realização de atividades de imersão no campo de trabalho que propiciem ao professor em formação praticar elementos da arte-educação no ambiente profissional. Análise crítica de projetos praticados na realidade brasileira. Elaboração de Relatórios e Projetos pertinentes a este campo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP762"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP863",
+        "name": "Pedagogia e Didática de Artes Visuais II",
+        "credits": 6,
+        "syllabus": " Proposta de Edgar Morin para a Educação do séc. XXI.  A formação da identidade na pós-modernidade. A educação do sensível e as artes.  Estratégias para a realização de projetos transdisciplinares e atividades específicas em Artes Visuais.  Intervenções artísticas referentes aos assuntos anteriormente estudados.Discussão sobre a bibliografia estudada e sua aplicabilidade no cotidiano educacional.",
+        "reqs": [
+            [
+                {
+                    "code": "AP763"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP895",
+        "name": "Tópicos Especiais em Processos Criativos XII",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP896",
+        "name": "Tópicos Especiais em Processos Criativos XIII",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP897",
+        "name": "Tópicos Especiais em Processos Criativos XIV",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP898",
+        "name": "Tópicos Especiais em Processos Criativos XV",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP901",
+        "name": "Tópicos Especiais em Processos Criativos X",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP910",
+        "name": "Tópicos Especiais em Processos Criativos XI",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas. Prevê como sua estrutura geral a ampliação dos conhecimentos da práxis artística bem como enriquecimento cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP912",
+        "name": "Tópicos Especiais em História da Arte XI",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP917",
+        "name": "Tópicos Especiais em História da Arte XII",
+        "credits": 4,
+        "syllabus": "A disciplina tem seu conteúdo definido pelo docente responsável, de acordo com o desenvolvimento das atividades didáticas e artísticas do corpo discente do curso em acordo com as pesquisas docentes e seus diálogos com o sistema artístico."
+    },
+    {
+        "code": "AP931",
+        "name": "Tópicos Especiais em Teorias das Artes I",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP932",
+        "name": "Tópicos Especiais em Teorias das Artes II",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP933",
+        "name": "Tópicos Especiais em Teorias das Artes III",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP934",
+        "name": "Tópicos Especiais em Teorias das Artes IV",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP935",
+        "name": "Tópicos Especiais em Teorias da Artes V",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP936",
+        "name": "Tópicos Especiais em Teorias das Artes VI",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP937",
+        "name": "Tópicos Especiais em Teorias das Artes VII",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP938",
+        "name": "Tópicos Especiais em Teorias das Artes VIII",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em Curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP939",
+        "name": "Tópicos Especiais em Teorias das Artes IX",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP940",
+        "name": "Tópicos Especiais em Teorias das Artes X",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP941",
+        "name": "Tópicos Especiais em Teorias das Artes XI",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP975",
+        "name": "Tópicos Especiais em Ensino de Artes Visuais I",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP976",
+        "name": "Tópicos Especiais em Ensino de Artes Visuais II",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP977",
+        "name": "Tópicos Especiais em Ensino de Artes Visuais III",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP978",
+        "name": "Tópicos Especiais em Ensino de Artes Visuais IV",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas."
+    },
+    {
+        "code": "AP981",
+        "name": "Preservação e Restauro I: Fundamentos e Conceitos",
+        "credits": 5,
+        "syllabus": "Serão apresentadas as principais teorias e referências conceituais da área de preservação e restauro, enquanto disciplina, enfatizando sua vinculação com os artefatos de natureza visual.",
+        "reqBy": [
+            "AP982",
+            "AP983"
+        ]
+    },
+    {
+        "code": "AP982",
+        "name": "Tópicos Especiais em Preservação e Restauro I: Análise de Experiências",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP981"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP983",
+        "name": "Tópicos Especiais em Preservação e Restauro II: Técnicas e Métodos",
+        "credits": 5,
+        "syllabus": "O programa da disciplina será estabelecido em função das pesquisas em curso no Departamento de Artes Plásticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP981"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AP991",
+        "name": "Design I: Princípios de Projeto em Programação Visual",
+        "credits": 5,
+        "syllabus": "História, teoria e estética do design gráfico. Terminologia e conceitos fundamentais. Áreas de atuação em programação visual. Método clássico de desenvolvimento de projetos de design aplicado à programação visual. Programas de identidade visual. Ergonomia da informação. Semântica do design gráfico. Ética do design gráfico."
+    },
+    {
+        "code": "AP992",
+        "name": "Design II: Princípios de Tipografia",
+        "credits": 5,
+        "syllabus": "História da escrita ocidental, do alfabeto romano e da tipografia. Classificação das famílias de letras do alfabeto romano. Nomenclatura simplificada de letras. Fontes mais utilizadas por comunicadores visuais. Principais tipógrafos do Século XX. Tipografia digital. Visibilidade, legibilidade e inteligibilidade. Diagramação e paginação. Malhas e proporções clássicas. Implicações técnicas e estéticas relacionadas ao desenho de letras e as composições tipográficas."
+    },
+    {
+        "code": "AP993",
+        "name": "Design III: Princípios de Projeto em Projeto de Produto",
+        "credits": 5,
+        "syllabus": "História, teoria e estética do design gráfico. Terminologia e conceitos fundamentais. Áreas de atuação em projeto de produto. Método clássico de desenvolvimento de projetos de design aplicado ao projeto de produto. Ergonomia do produto. Semântica do produto. Ética do design de produto."
+    }
+]

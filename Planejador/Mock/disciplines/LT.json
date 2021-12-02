@@ -1,0 +1,452 @@
+[
+    {
+        "code": "LT101",
+        "name": "Estudos Culturais 1",
+        "credits": 4,
+        "syllabus": "Abordagem introdutória, teórico-prática, do campo dos ?estudos culturais? como área\nmultidisciplinar, explorando suas relações com a arte teatral em suas múltiplas formas de\natuação na sociedade. Revisão de conhecimentos histórico-culturais.",
+        "reqBy": [
+            "LT201"
+        ]
+    },
+    {
+        "code": "LT102",
+        "name": "Políticas do Corpo 1",
+        "credits": 2,
+        "syllabus": "Problematizações do conceito de corpo ao longo da história buscando uma reflexão crítica\nsobre os modos como diferentes contextos antropológicos, socioeconômicos, geopolíticos e culturais estão implicados na conceituação, percepção e educação do próprio corpo e do corpo do outro.",
+        "reqBy": [
+            "LT202"
+        ]
+    },
+    {
+        "code": "LT110",
+        "name": "Improvisação Teatral 1",
+        "credits": 6,
+        "syllabus": "Introdução à improvisação teatral, iniciando o aluno na prática do jogo cênico, com todos\nos elementos constituintes da cena teatral. O silêncio, a palavra e o jogo como eixos norteadores.",
+        "reqBy": [
+            "LT210"
+        ]
+    },
+    {
+        "code": "LT111",
+        "name": "Atividade Científcio Cultural 1",
+        "credits": 4,
+        "syllabus": "Participação em eventos científico e/ou culturais, envolvendo interesse do aluno. A carga\nhorária total será validada pela comissão de graduação.",
+        "reqBy": [
+            "LT222"
+        ]
+    },
+    {
+        "code": "LT133",
+        "name": "Artes do Corpo 1",
+        "credits": 2,
+        "syllabus": "Estudo experiencial dos fundamentos do corpo cênico visando a articulação\ncorpo-sujeito-imaginário. Desenvolvimento da consciência corporal e reconhecimento das\nferramentas expressivas do corpo-sujeito. Revisão de conhecimentos sobre anatomia humana.",
+        "reqBy": [
+            "LT233"
+        ]
+    },
+    {
+        "code": "LT134",
+        "name": "Artes da Voz 1",
+        "credits": 2,
+        "syllabus": "Desenvolvimento da percepção e investigação da produção da voz para criação\ncênica. Revisão de conhecimentos sobre anatomia humana.",
+        "reqBy": [
+            "LT234"
+        ]
+    },
+    {
+        "code": "LT201",
+        "name": "Estudos Culturais 2",
+        "credits": 4,
+        "syllabus": "Abordagem das relações entre os estudos culturais e as teorias e práticas da performance.\nRevisão de conhecimentos histórico-culturais.",
+        "reqs": [
+            [
+                {
+                    "code": "LT101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT430",
+            "LT601"
+        ]
+    },
+    {
+        "code": "LT202",
+        "name": "Políticas do Corpo 2",
+        "credits": 2,
+        "syllabus": "Estudo dos aportes à conceituação, percepção e educação do corpo trazidos pelos\nestudos feministas, pós-coloniais e decoloniais. Estudos das imbricações entre corpo e sujeito e dos modos implicados na transmissão de saberes em diferentes formas de educação do corpo.",
+        "reqs": [
+            [
+                {
+                    "code": "LT102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT210",
+        "name": "Improvisação Teatral 2",
+        "credits": 6,
+        "syllabus": "Aprofundamento dos procedimentos trabalhados na disciplina Improvisação Teatral I.",
+        "reqs": [
+            [
+                {
+                    "code": "LT110"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT222",
+        "name": "Atividade Científcio Cultural 2",
+        "credits": 4,
+        "syllabus": "Participação em eventos científico e/ou culturais, envolvendo interesse do aluno. A carga\nhorária total será validada pela comissão de graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "LT111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT333"
+        ]
+    },
+    {
+        "code": "LT233",
+        "name": "Artes do Corpo 2",
+        "credits": 2,
+        "syllabus": "Ferramentas básicas de composição: fatores de movimento, partitura corporal, narrativa\ngestual. Investigação de procedimentos para a composição de corpos ficcionais. Estudos do corpo como significação poética. Revisão de conhecimentos sobre anatomia humana.",
+        "reqs": [
+            [
+                {
+                    "code": "LT133"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT234",
+        "name": "Artes da Voz 2",
+        "credits": 2,
+        "syllabus": "Desenvolver a compreensão do discurso cênico, a partir da integração corpo-voz-movimento e suas possibilidades expressivas, em diferentes recortes de atuação. Revisão de conhecimentos sobre anatomia humana.",
+        "reqs": [
+            [
+                {
+                    "code": "LT134"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT330"
+        ]
+    },
+    {
+        "code": "LT300",
+        "name": "Oficina de Pedagogias Teatrais",
+        "credits": 6,
+        "syllabus": "O CURSO VISA APRESENTAR, AOS ESTUDANTES, O JOGO COMO PONTO DE PARTIDA PARA PROCESSOS CRIATIVOS, EXPERIÊNCIAS ESTÉTICAS E PRINCIPIO DA ARTE EDUCAÇÃO.\nOFERECE UM AMPLO REPERTÓRIO DE VIVÊNCIAS LÚDICAS PARA A  EXPLORAÇÃO DO INDIVIDUO NO CORPO COLETIVO.",
+        "reqBy": [
+            "LT400",
+            "LT600"
+        ]
+    },
+    {
+        "code": "LT310",
+        "name": "Oficina Princípios da Ação Cênica",
+        "credits": 6,
+        "syllabus": "Estudo do conceito de ação física em seus aspectos constitutivos. Exercícios cênicos.",
+        "reqBy": [
+            "LT410",
+            "LT420"
+        ]
+    },
+    {
+        "code": "LT320",
+        "name": "Oficina de Texto",
+        "credits": 4,
+        "syllabus": "Elaboração de dramaturgias das artes da cena, integração do texto à experimentação\ncênica. Instrumentalização do aluno para a construção ficcional. Produção de textos\nacadêmicos e revisão da norma culta da Língua Portuguesa."
+    },
+    {
+        "code": "LT330",
+        "name": "Cena e Oralidade",
+        "credits": 4,
+        "syllabus": "A cena como local da oralidade. Estudos teórico-práticos sobre a criação cênica a partir da textualidade em caminho à oralidade e a partir da oralidade em si.",
+        "reqs": [
+            [
+                {
+                    "code": "LT234"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT333",
+        "name": "Atividade Científcio Cultural 3",
+        "credits": 4,
+        "syllabus": "Participação em eventos científico e/ou culturais, envolvendo interesse do aluno. A carga\nhorária total será validada pela comissão de graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "LT222"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT444"
+        ]
+    },
+    {
+        "code": "LT400",
+        "name": "Oficina de Pedagogias da Performance",
+        "credits": 6,
+        "syllabus": "Estudos conceituais de performance arte e suas relações com educação, com a docência e com a cidade.",
+        "reqs": [
+            [
+                {
+                    "code": "LT300"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT600"
+        ]
+    },
+    {
+        "code": "LT410",
+        "name": "Oficina de Práticas da Linguagem Cênica",
+        "credits": 6,
+        "syllabus": "Desenvolvimento da ação física na construção da cena. Estudo da ação física nas\ndiversas poéticas. Utilização das Tecnologias da Comunicação e Informação.",
+        "reqs": [
+            [
+                {
+                    "code": "LT310"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT505",
+            "LT710"
+        ]
+    },
+    {
+        "code": "LT420",
+        "name": "Metodologia e Criação em Artes Cênicas",
+        "credits": 2,
+        "syllabus": "Abordagem de processos de pesquisa e criação no teatro contemporâneo.",
+        "reqs": [
+            [
+                {
+                    "code": "LT310"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT430",
+        "name": "Formas Espetaculares e Cultura Popular Brasileira",
+        "credits": 2,
+        "syllabus": "Estudo das relações existentes entre a cultura popular brasileira e o teatro enquanto forma espetacular e enquanto arte que auxiliou na configuração da nacionalidade brasileira. Estudo de dramaturgias brasileiras e relações com o ensino.",
+        "reqs": [
+            [
+                {
+                    "code": "LT201"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT530"
+        ]
+    },
+    {
+        "code": "LT444",
+        "name": "Atividade Científcio Cultural 4",
+        "credits": 4,
+        "syllabus": "Participação em eventos científico e/ou culturais, envolvendo interesse do aluno. A carga\nhorária total será validada pela comissão de graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "LT333"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT505",
+        "name": "Tópicos em Visualidades",
+        "credits": 2,
+        "syllabus": "Processos de criação e execução em cenografia e figurino. Desenvolvimento da\npercepção espacial e visual e sua relação com os elementos plásticos que compõem a\ncena. Instrumentalização do professor sobre o suporte de elementos visuais para a condução pedagógica em Artes da Cena. Utilização das Tecnologias da Comunicação e\nInformação.",
+        "reqs": [
+            [
+                {
+                    "code": "LT410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT520",
+        "name": "Teatro e Comunidade 1",
+        "credits": 6,
+        "syllabus": "As possibilidades de ação teatral em comunidades, através da abordagem teórica em\ndiferentes contextos: a pedagogia teatral no ensino não-formal e formal.\nA criação artística e os processos investigativos para não-atores. A análise e estudo de\ncasos existentes. O estudo da criação de caráter teatral a partir da interação do indivíduo,\nou grupo de artistas, com uma dada comunidade.",
+        "reqBy": [
+            "LT720"
+        ]
+    },
+    {
+        "code": "LT530",
+        "name": "Corpo e Teatralidades Brasileiras",
+        "credits": 4,
+        "syllabus": "Do corpo na teatralidade popular brasileira. Teatralidades, Sujeitos e Lugares. Epistemologias locais. O ponto de vista do artista.",
+        "reqs": [
+            [
+                {
+                    "code": "LT430"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT600",
+        "name": "Práticas de Ensino em Teatro",
+        "credits": 4,
+        "syllabus": "ESTUDOS ACERCA DAS METODOLOGIAS DAS ARTES DA CENA EM AMBIENTES DE ENSINO APRENDIZAGEM (FORMAL E NÃO FORMAL). AS FUNÇÕES DO ENSINO DAS ARTES DA CENA COMO EXPRESSÃO DA SENSIBILIDADE, COMO LINGUAGEM E COMO CONHECIMENTO CRÍTICO.",
+        "reqs": [
+            [
+                {
+                    "code": "LT300"
+                },
+                {
+                    "code": "LT400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT777"
+        ]
+    },
+    {
+        "code": "LT601",
+        "name": "Cena Expandida",
+        "credits": 4,
+        "syllabus": "Estudos das questões interdisciplinares que atravessam a arte em campo expandido, bem como conceitos de cena expandida, considerando, assim, os processos e ações artísticas aí envolvidas, bem como a ocupação de novos lugares, tanto do ponto de vista estético quanto discursivo, especialmente no contexto brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "LT201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT605",
+        "name": "Tópicos em Música",
+        "credits": 4,
+        "syllabus": "Estudo prático e teórico dos principais elementos da linguagem musical. Aspectos rítmicos, melódicos e harmônicos. Treinamento da audição musical para o artista educador.\nDesenvolvimento das potencialidades musicais e formativas do artista educador através do canto individual e coral como elemento de qualificação para seu trabalho."
+    },
+    {
+        "code": "LT700",
+        "name": "Estágio em Artes 1",
+        "credits": 8,
+        "syllabus": "Pesquisa e observação de contextos de aprendizagem. Como apresentar, implantar e avaliar projetos culturais em espaços formais e não formais. Desenvolver práticas arte educativas para crianças, jovens ou adultos.",
+        "reqs": [
+            [
+                {
+                    "code": "EL874"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LT800"
+        ]
+    },
+    {
+        "code": "LT701",
+        "name": "Memorial",
+        "credits": 4,
+        "syllabus": "Relato do processo de formação artístico-pedagógica do aluno no decorrer do curso com\norientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "EL874"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT705",
+        "name": "Linguagens Circenses",
+        "credits": 2,
+        "syllabus": "Conhecer as linguagens circenses de maneira ampla e lúdica, em especial as brasileiras, incluindo não somente as práticas acrobáticas, de equilíbrio e de palhaço, como também o circo-teatro e o melodrama circenses nacionais. Entender como essas linguagens podem ser utilizadas no ensino de arte."
+    },
+    {
+        "code": "LT710",
+        "name": "Oficina de Direção",
+        "credits": 6,
+        "syllabus": "Estudos teórico-praticos sobre a função e o trabalho da Direção nas Artes da Cena em\ndiálogo com ambientes de ensino.",
+        "reqs": [
+            [
+                {
+                    "code": "LT410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT720",
+        "name": "Teatro e Comunidade 2",
+        "credits": 4,
+        "syllabus": "O compromisso e as ações do artista de teatro em interação com a comunidade.\nCriação e experimentação de práticas específicas de ação teatral junto à comunidade,\ncom apresentação de resultado final.",
+        "reqs": [
+            [
+                {
+                    "code": "LT520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT777",
+        "name": "Trabalho de Conclusão de Curso 1",
+        "credits": 10,
+        "syllabus": "Desenvolvimento e orientação do trabalho de conclusão do curso. Aprofundamento e\napresentação de pesquisa teórica e/ou prática em temas de abordados pelo aluno ao longo do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "LT600"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT800",
+        "name": "Estágio em Artes 2",
+        "credits": 8,
+        "syllabus": "Como apresentar, implantar e avaliar um projeto arte educativo de artes da cena em espaços não formais. Os procedimentos e a prática para crianças, jovens ou adultos, cujo enfoque é a criação de exercícios públicos na forma de teatro em comunidades ou em espaços formais.",
+        "reqs": [
+            [
+                {
+                    "code": "LT700"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LT801",
+        "name": "Produção Teatral",
+        "credits": 2,
+        "syllabus": "Estudos sobre produção cultural, organização e gestão de coletivos e projetos artísticos.\nRelações entre criação e produção."
+    },
+    {
+        "code": "LT802",
+        "name": "Políticas Culturais",
+        "credits": 2,
+        "syllabus": "Estudos sobre políticas públicas na área da cultura: propostas, impactos e desafios."
+    },
+    {
+        "code": "LT888",
+        "name": "Trabalho de Conclusão de Curso 2",
+        "credits": 10,
+        "syllabus": "Continuação e desenvolvimento da pesquisa iniciada no Trabalho de Conclusão 1."
+    }
+]

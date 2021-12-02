@@ -1,0 +1,96 @@
+[
+    {
+        "code": "GM082",
+        "name": "Geociências para Ensino Fundamental e Médio",
+        "credits": 4,
+        "syllabus": "Propostas de ensino de conteúdos de Geociências para as disciplinas de Ciências, Biologia e Geografia no ensino Fundamental e Médio. Adequação e inadequação de conteúdos ensinados e de métodos e técnicas aplicados noensino de Geociências para esses níveis de escolaridade. Planejamento, elaboração, aplicação e avaliação de atividades voltadas ao ensino de Geociências.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GM091",
+        "name": "Planeta Terra",
+        "credits": 2,
+        "syllabus": "A disciplina pretende fornecer uma ideia integrada das transformações terrestres e do entendimento sistêmico da Terra. Trata das esferas materiais terrestres e das suas inter-relações: atmosfera, hidrosfera, crosta terrestre, manto, núcleo, biosfera e noosfera. Inclui tempo geológico. A disciplina abrange a natureza do conhecimento e os processos geológicos."
+    },
+    {
+        "code": "GM092",
+        "name": "Geografia",
+        "credits": 2,
+        "syllabus": "Modernização capitalista e crise do sistema-mundo contemporâneo. Geografia política. Espaço geográfico e a urbanização mundial. Produção do espaço urbano no Brasil. Meio ambiente urbano - cidades contemporâneas. Aspectos de geografia agrária e fronteira agrícola no Brasil. Mudanças globais do sistema terra. Impactos Ambientais decorrentes do uso e ocupação das terras. Tópicos de Geografia do Brasil. Relevo Brasileiro. Conservação e degradação de solos no Brasil. Conhecimento cartográfico do território brasileiro. Uso das imagens de satélites orbitais no monitoramento ambiental."
+    },
+    {
+        "code": "GM201",
+        "name": "Geologia e Recursos Minerais",
+        "credits": 3,
+        "syllabus": "A Geologia aplicada à produção mineral. Minerais, rochas e solos. Recursos e reservas minerais. Exploração, produção e consumo de bens minerais. Aspectos políticos, econômicos, sociais e ambientais da mineração. Geologia e recursos minerais do Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GM222",
+        "name": "Direito Ambiental",
+        "credits": 3,
+        "syllabus": "Conceitos básicos sobre direito e ciências ambientais. Legislação ambiental e seus impactos sobre as políticas públicas setoriais. Direito ambiental comparado. A administração pública e o meio ambiente. Crimes contra a natureza e sua previsão legal no direito brasileiro."
+    },
+    {
+        "code": "GM280",
+        "name": "Elementos de Geologia",
+        "credits": 4,
+        "syllabus": "Abrange a natureza do conhecimento geológico e o estudo do processo histórico-geológico. Investiga o desenvolvimento das esferas terrestres (atmosfera, hidrosfera, biosfera, noosfera, litosfera, manto e núcleo) sob o ponto de vista do tempo geológico. Inclui estudos da interação de processos terrestres e seu entendimento ao longo do passado da terra. Envolve atividades de campos para reconhecimento de processos geológicos."
+    },
+    {
+        "code": "GM290",
+        "name": "Elementos de Geofísica",
+        "credits": 4,
+        "syllabus": "Introdução. A gravidade da Terra. O magnetismo terrestre. Geofísica nuclear. Calor terrestre. Sismologia. Geodinâmica."
+    },
+    {
+        "code": "GM420",
+        "name": "Geologia Geral",
+        "credits": 5,
+        "syllabus": "Conceitos básicos de geologia. Estrutura e composição da Terra. Tectônica de placas. Rochas e minerais. Processos desenvolvidos nas interfaces do Sistema Terra (geosfera, atmosfera, hidrosfera, biosfera e antroposfera) ao longo do tempo. Circulação atmosférica e clima. Noções de geologia estrutural e de engenharia. Mapas e representação gráfica de processos. Materiais terrestre como fonte de matéria-prima na construção civil. Geologia do Brasil e de São Paulo.",
+        "reqBy": [
+            "CV521"
+        ]
+    },
+    {
+        "code": "GM450",
+        "name": "Fundamentos da Paleontologia",
+        "credits": 4,
+        "syllabus": "Introduzir o aluno no conhecimento e estudo dos fósseis. Noções básicas de reconhecimento dos principais filos de invertebrados, vertebrados e vegetais encontrados no registro a nível mundial e no Brasil, que auxiliam tanto na interpretação da idade quanto nos aspectos do meio abiótico (paleoecologia, paleoclimatologia, etc.) e acerca da evolução da vida no planeta. Fornecer bases para estudos micropaleontológicos e bioestratigráficos, além de treinar os alunos na coleta e interpretação dos fósseis no campo."
+    },
+    {
+        "code": "GM861",
+        "name": "Mineralogia (Química)",
+        "credits": 4,
+        "syllabus": "Geoquímica de crosta terrestre; revisão de cristaloquímica, sistemas cristalinos e simetria; tipos de estruturas cristalinas, cálculo de sítios de ocupação; propriedades e identificação macroscópica de minerais; identificação de minerais por difratometria de raio-X; processos de formação de rochas e físico-química da cristalização magmática; identificação macroscópica das rochas; usos dos minerais na indústria; dinâmica do planeta: interior da terra e tectônica de placas.",
+        "reqs": [
+            [
+                {
+                    "code": "QI145"
+                },
+                {
+                    "code": "QI245"
+                }
+            ],
+            [
+                {
+                    "code": "QI246"
+                }
+            ]
+        ]
+    }
+]

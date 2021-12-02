@@ -1,0 +1,81 @@
+{
+    "code": "30",
+    "name": "Filosofia - Integral",
+    "variant": [
+        {
+            "name": "AA - Bacharelado em Filosofia",
+            "tree": [
+                [
+                    "HG107",
+                    "HG108"
+                ],
+                [
+                    "HG207",
+                    "HG208"
+                ],
+                [
+                    "HG301",
+                    "HG302",
+                    "HG304"
+                ],
+                [
+                    "HG401",
+                    "HG402",
+                    "HG404"
+                ],
+                [
+                    "HG303"
+                ],
+                [
+                    "HG403"
+                ],
+                [
+                    "HG770"
+                ],
+                []
+            ]
+        },
+        {
+            "name": "AB - Licenciatura em Filosofia",
+            "tree": [
+                [
+                    "HG107",
+                    "HG108"
+                ],
+                [
+                    "HG207",
+                    "HG208"
+                ],
+                [
+                    "HG301",
+                    "HG302",
+                    "HG304"
+                ],
+                [
+                    "HG401",
+                    "HG402",
+                    "HG404",
+                    "HG408"
+                ],
+                [
+                    "EL213",
+                    "EL683",
+                    "EL774",
+                    "HG303"
+                ],
+                [
+                    "EL511",
+                    "EL874",
+                    "HG403",
+                    "HG861"
+                ],
+                [
+                    "EL212"
+                ],
+                [
+                    "HG862"
+                ]
+            ]
+        }
+    ]
+}

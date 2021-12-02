@@ -1,0 +1,700 @@
+[
+    {
+        "code": "AM002",
+        "name": "Água: Um Objeto Científico",
+        "credits": 2,
+        "syllabus": "A água e a fonte do saber. As propriedades físicas e químicas da água. Hidrologia e ciclo da água. A bacia hidrográfica como uma unidade hidrológica. A água e a vida. A dinâmica das paisagens fluviais. A economia da água: disponibilidades, demandas e conflitos. Água: um bem econômico. Qualidade da água. Erosão hídrica. Água e saúde pública. A ocorrência, intensificação e controle de inundação. A gestão e planejamento dos recursos hídricos."
+    },
+    {
+        "code": "AM004",
+        "name": "O Pensar e o Viver o Corpo",
+        "credits": 2,
+        "syllabus": "O curso teórico/prático, será oferecido pelo Grupo de Estudos Fenomenológicos da Faculdade de Educação Física, a partir da apresentação e discussão dos princípios fundamentais da filosofia do Corpo de Merleau-Ponty. A disciplina pretende refletir sobre a questão da identidade e autonomia do corpo nos tempos atuais, consistindo em vivências, onde serão consideradas propostas de construção de recursos para o trabalho corporal de cada aluno, tendo como meta ampliar espaços de movimento numa perspectiva do desenvolvimento humano."
+    },
+    {
+        "code": "AM005",
+        "name": "Atividade Física ao Alcance de Todos",
+        "credits": 2,
+        "syllabus": "O curso tem como objetivo ampliar as possibilidades de movimento do aluno através de adaptações e estratégias individualizadas. Serão desenvolvidas atividades físicas variadas partindo sempre das necessidades e interesses de cada um. Serão realizadas discussões e reflexões sobre o trabalho prático. Artigos, vídeos e capítulos de livros selecionados serão analisados no decorrer do curso, conforme o desenvolvimento do trabalho prático."
+    },
+    {
+        "code": "AM006",
+        "name": "Princípios e Tendências em Telecomunicações",
+        "credits": 4,
+        "syllabus": "A convergência entre o telefone, a televisão e o computador. Fundamentos tecnológicos da convergência: digitalização e opticalização. Fundamentos políticos e mercadológicos: desregulamentação e novos serviços de Telecomunicações. Novos paradigmas: a rede móvel celular, a Internet, as redes de TV a cabo, a rede ATM, as futuras redes fotônicas. O contexto brasileiro. O contexto educacional. As Telecomunicações no fim do século XX. Tendências Contemporâneas. Estudos Futurísticos."
+    },
+    {
+        "code": "AM007",
+        "name": "Introdução à Apreciação Musical",
+        "credits": 2,
+        "syllabus": "Noções musicais básicas, através de audição comentada e orientada de repertório musical variado."
+    },
+    {
+        "code": "AM008",
+        "name": "Introdução à Teoria Musical",
+        "credits": 2,
+        "syllabus": "Noções básicas de ritmo, escalas, intervalos, leitura musical, harmonia, melodia e estilos musicais."
+    },
+    {
+        "code": "AM009",
+        "name": "Práticas de Saúde",
+        "credits": 2,
+        "syllabus": "A disciplina aborda temas relativos a educação e prática em saúde visando a busca de qualidade de vida através de conhecimentos de campo da enfermagem, nutrição, saúde mental e outros."
+    },
+    {
+        "code": "AM010",
+        "name": "Usos de Energia na Sociedade",
+        "credits": 2,
+        "syllabus": "Descrição dos usos de energia nos principais setores da sociedade moderna e sua evolução recente. Tecnologias de conversão de energia. Tecnologias eficientes e seus custos-benefícios."
+    },
+    {
+        "code": "AM011",
+        "name": "Termodinâmica dos Processos Irreversíveis Aplicados em Engenharia, Biologia, Sociologia e Economia",
+        "credits": 2,
+        "syllabus": "Leis e matemática da termodinâmica clássica. Processos irreversíveis. Região linear: leis de Onsager, produção de entropia. A tendência à destruição de estruturas. Teorema da produção mínima de entropia. Direção dos processos naturais. Estruturas dissipativas. Estruturas biológicas, sociais, econômicas e de produção. Homeostase. Estabilidade. Tecnologia, humanismo e arte."
+    },
+    {
+        "code": "AM012",
+        "name": "Educação e Sexualidade Humana",
+        "credits": 4,
+        "syllabus": "A construção social da sexualidade humana: conceitos e preconceitos, medos e tabus sexuais. O desenvolvimento humano e o sexo. Anatomia e fisiologia dos órgãos reprodutores. Anticoncepção. Doenças sexualmente transmissíveis. Questões de educação sexual."
+    },
+    {
+        "code": "AM013",
+        "name": "Temas Transversais em Educação",
+        "credits": 4,
+        "syllabus": "Estudar o conceito de transversalidade na educação, dentro da concepção de que conteúdos como Ética, Saúde, Sexualidade, Meio Ambiente e Pluralidade Cultural devem constituir o eixo vertebrador da estrutura curricular das escolas brasileiras. O curso aproveitará a experiência dos alunos das diversas áreas do conhecimento, apresentando e aplicando metodologias de ensino que permitam integrar na dinâmica de seu funcionamento os conteúdos escolares tradicionais (ex.: matemática, língua, história e ciências), a conteúdos mais voltados para o cotidiano das pessoas (ex.: ética, saúde, etc.)."
+    },
+    {
+        "code": "AM014",
+        "name": "Meio Ambiente: Relações Homem X Natureza",
+        "credits": 2,
+        "syllabus": "Fundamentos teóricos: conceitos básicos sobre educação e a temática ambiental. Implicações programáticas e curriculares. Análise da visto multi/inter e transdisciplinar sobre meio ambiente. Evolução histórica das relações homem X natureza, a complexidade da sociedade e realidade atual. Impactos ambientais: consequências da ocupação e uso da Terra."
+    },
+    {
+        "code": "AM015",
+        "name": "Desenvolvimento e Meio Ambiente",
+        "credits": 2,
+        "syllabus": "A disciplina estabelece os nexos entre a problemática ambiental que aflige a sociedade atual e os seus determinantes históricos fundados em modelos de crescimento e, mais recentemente, no de desenvolvimento sustentável. Apresenta e discute as ferramentas da economia, da política e de gestão que contribuem para a sustentabilidade do planeta. Setores específicos que se mostram importantes para a sustentabilidade são analisados e discutidos à luz de seus impactos na qualidade de vida das populações."
+    },
+    {
+        "code": "AM016",
+        "name": "Educação Ambiental",
+        "credits": 4,
+        "syllabus": "Questão Socioambiental: histórico, percepção de sua natureza complexa. Desenvolvimento Sustentável: histórico, principais eventos, críticas (Sociedades Sustentáveis), Objetivos do Desenvolvimento Sustentável As diferentes linhas de Educação Ambiental. Principais Políticas Públicas nacionais de EA. Fundamentos conceituais e metodológicos de EA. Avaliação de projetos de EA. EA em escolas: disciplinarizar ou não? Projetos e ações reais de EA na educação formal e não-formal. Ambientalização (Curricular) nas universidades. Construção, em grupos, de projetos de Mínimas Intervenções Possíveis em EA."
+    },
+    {
+        "code": "AM017",
+        "name": "História das Ciências Naturais",
+        "credits": 2,
+        "syllabus": "O Renascimento e seu impacto na cosmovisão: a releitura do mundo natural. A revolução científica e o nascimento da ciência moderna: a filosofia natural, a história natural e a especialização das disciplinas científicas. A 1a. Revolução Industrial, o naturalismo científico e os viajantes; colecionismo, gabinetes e museus. O processo de institucionalização e profissionalização das ciências naturais com ênfase no Brasil e América Latina."
+    },
+    {
+        "code": "AM018",
+        "name": "Trabalhos Comunitários I",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão e assuntos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AM019"
+        ]
+    },
+    {
+        "code": "AM019",
+        "name": "Trabalhos Comunitários II",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão e assuntos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AM018"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AM024"
+        ]
+    },
+    {
+        "code": "AM020",
+        "name": "Grandes Temas da Atualidade",
+        "credits": 2,
+        "syllabus": "Ciclo de palestras abordando grandes temas da atualidade desenvolvido por especialistas ligados aos mesmos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM021",
+        "name": "Sistema Terra e Ambiente: Perspectivas Metodológicas",
+        "credits": 2,
+        "syllabus": "Interação temporal de processos terrestres. Perspectiva histórica para estudo do planeta. Conceito de ciência do sistema Terra: desenvolvimento histórico de abordagem de estudo do planeta, debates recentes e delimitação do escopo científico, problema e métodos adotados para os estudos da Terra, questões éticas relacionadas a esses estudos. Implicações educacionais da abordagem sistêmica da natureza."
+    },
+    {
+        "code": "AM022",
+        "name": "Recursos Audiovisuais em Ciências da Terra",
+        "credits": 2,
+        "syllabus": "Análise e discussão de recursos disponíveis para ensino-aprendizagem em Geociências. Tipos de recursos didáticos mais comuns e papéis que têm desempenhado em disciplinas de Geologia Introdutória. Breve histórico da evolução dos recursos existentes, até as modernas facilidades de multimídia. Bases do planejamento de recursos audiovisuais e características de alguns software comerciais que possibilitem criar tais sequências. Introdução ao uso e operação de alguns desses programas."
+    },
+    {
+        "code": "AM023",
+        "name": "Ciência, Arte e Sociedade, por uma Cultura de Paz",
+        "credits": 2,
+        "syllabus": "Conforme avançamos na Era do Conhecimento fica evidente que os sonhos do progresso ilimitado e de uma vida feliz e tranquila preconizadas pelo Iluminismo e a Modernidade, e que seriam sustentadas pelos possíveis avanços da Ciência e da Tecnologia, não poderão mais ser realizados, pelos impactos que este próprio estilo de desenvolvimento não sustentável está causando na teia Socioambiental. Surge então a urgente necessidade de se promover uma Cultura da Paz na qual esses avanços no plano material possam ser equilibrados por avanços nos níveis de Consciência e Ética da Sociedade em geral."
+    },
+    {
+        "code": "AM024",
+        "name": "Trabalhos Comunitários III",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão e assuntos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AM019"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AM025"
+        ]
+    },
+    {
+        "code": "AM025",
+        "name": "Trabalhos Comunitários IV",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão e assuntos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AM024"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AM026"
+        ]
+    },
+    {
+        "code": "AM026",
+        "name": "Trabalhos Comunitários V",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão e assuntos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AM025"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AM027"
+        ]
+    },
+    {
+        "code": "AM027",
+        "name": "Trabalhos Comunitários VI",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão e assuntos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AM026"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AM028"
+        ]
+    },
+    {
+        "code": "AM028",
+        "name": "Trabalhos Comunitários VII",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão e assuntos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AM027"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AM029"
+        ]
+    },
+    {
+        "code": "AM029",
+        "name": "Trabalhos Comunitários VIII",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão e assuntos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AM028"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM030",
+        "name": "Técnicas e Organização de Apresentações em Público",
+        "credits": 2,
+        "syllabus": "Técnicas de comunicação. Postura de voz e postura corporal na apresentação em público. Estruturação do discurso. Espaço e equipamentos auxiliares. Preparação de material auxiliar."
+    },
+    {
+        "code": "AM031",
+        "name": "Trabalhos em Alfabetização Ambiental",
+        "credits": 2,
+        "syllabus": "Esta disciplina pretende desenvolver trabalhos sob a Plataforma Lixo e Cidadania e do conceito de bacia Ambiental com alunos de graduação da UNICAMP."
+    },
+    {
+        "code": "AM032",
+        "name": "Técnicas Auxiliares na Aprendizagem",
+        "credits": 2,
+        "syllabus": "Exposições e debates sobre técnicas práticas de estudo."
+    },
+    {
+        "code": "AM033",
+        "name": "Ética Geral e Profissional",
+        "credits": 2,
+        "syllabus": "Fundamentos de Ética. A Ética Profissional. Debates sobre problemas éticos e situações concretas."
+    },
+    {
+        "code": "AM034",
+        "name": "Linguagem e Aprendizagem de Clown em Espaços Públicos I",
+        "credits": 2,
+        "syllabus": "Possibilitar aos alunos dos cursos de lingüística, letras, fonoaudiologia, artes cênicas, educação física, pedagogia, entre outros, uma vivência de usos da linguagem e da arte de Clown em espaço público (praças, ruas, escolas). No contato dos alunos com o público será feito o levantamento de informações que ajudem a caracterizá-lo do ponto de vista lingüístico, ocupacional, sócio-econômico, entre outros. No andamento da disciplina, serão discutidos aspectos teórico-metodológicos relacionados tanto à linguagem quanto à arte de clown.",
+        "reqBy": [
+            "AM044"
+        ]
+    },
+    {
+        "code": "AM035",
+        "name": "Ler e Escrever: Acompanhamento de Crianças e Jovens I",
+        "credits": 2,
+        "syllabus": "Oferecer uma formação teórico-metodológica em Neurolinguística Discursiva, privilegiando o estudo da relação cérebro, mente, linguagem e corpo, para alunos de diversos cursos de graduação da UNICAMP, e de outras universidades, com o objetivo de acompanharem crianças do CCazinho/IEL que apresentam dificuldades normais no processo de leitura/escrita e são naturalmente patologizadas, recebendo os mais diversos rótulos e diagnósticos."
+    },
+    {
+        "code": "AM036",
+        "name": "Saúde do Trabalhador - Aspectos Gerais",
+        "credits": 3,
+        "syllabus": "Aspectos gerais da área da saúde e trabalho. Saúde do trabalhador do Brasil. Promoção da saúde do trabalhador. (O curso utilizará a experiência dos alunos das diversas áreas do conhecimento para refletir a saúde do trabalhador). Reflexão sobre saúde do trabalhador a partir da experiência dos alunos originários das diversas áreas do conhecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM037",
+        "name": "Propriedade Intelectual, Inovação e Empreendedorismo: Temas Contemporâneos",
+        "credits": 2,
+        "syllabus": "Intensificar o relacionamento da universidade com instituições (empresas e organizações), através do canal da discussão dos temas propostos, tratados por especialistas e profissionais convidados, no contexto das atividades de ensino e pesquisa da universidade. Oferecer um panorama de temas contemporâneos relacionados à propriedade intelectual, inovação e empreendedorismo, no contexto da produção científica e tecnológica da Unicamp. Contribuir para a complementação da grade de disciplinas existentes e relacionadas aos temas, através de palestras e discussões estruturadas e abertas à comunidade."
+    },
+    {
+        "code": "AM038",
+        "name": "Introdução à Redação Científica",
+        "credits": 2,
+        "syllabus": "O texto científico, suas características e especificidades. Técnicas para a sua redação e estruturação. Modalidades de textos científicos. Aspectos éticos na escrita. Autoria e direito autoral."
+    },
+    {
+        "code": "AM039",
+        "name": "Vivências em Programas Extramuros",
+        "credits": 2,
+        "syllabus": "As diferenças regionais com suas características servindo como base para discussões, análises e troca de experiências entre alunos inseridos em programas extra-muros. O equilíbrio do ecossistema. Diferenças e valores culturais. Autoconhecimento."
+    },
+    {
+        "code": "AM040",
+        "name": "Monitoria do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com público em geral, principalmente da escola básica, para acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação onde informações gerais e de conteúdo, relacionadas com os diversos programas são abordadas, incluindo-se momentos para familiarização com equipamentos de informática, áudio-visual, maquinaria do caminhão da Oficina Desafio e experimentos, além de encontros periódicos para atualização de formação, reuniões de equipe para troca de experiências e seminários."
+    },
+    {
+        "code": "AM041",
+        "name": "Atividades de Mediação no Museu Exploratório de Ciências I",
+        "credits": 2,
+        "syllabus": "Interação com público em geral, principalmente da escola básica, para acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação onde informações gerais e de conteúdo, relacionadas com os diversos programas são abordadas, incluindo-se momentos para familiarização com equipamentos de informática, audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos, além de encontros periódicos para atualização de formação, reuniões de equipe para troca de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM042",
+        "name": "Introdução ao Planejamento e Desenvolvimento de Novos Empreendimentos",
+        "credits": 4,
+        "syllabus": "Preparação do estudante para projetar seu empreendimento alinhando os conhecimentos tecnológicos e científicos adquiridos durante a graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM044",
+        "name": "Linguagem e Aprendizagem de Clown em Espaços Públicos II",
+        "credits": 2,
+        "syllabus": "Disciplina que aborda o processo de criação e elaboração de repertório artístico para a construção e apresentação de espetáculo clownesco, possibilitando aos alunos: dar continuidade ao processo de aprendizagem do clown e aprofundá-lo com vistas à criação de repertório pessoal; criar e montar espetáculos em grupo, proporcionando contato dos alunos com o público em escolas, creches, hospitais, praças, espaços e eventos acadêmicos, asilos; refletir sobre as apresentações em público relacionando a vivência do espetáculo teatral clownesco com o aprimoramento estético e cultural do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "AM034"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM045",
+        "name": "Ler e Escrever: Acompanhamento de Crianças e Jovens II",
+        "credits": 2,
+        "syllabus": "Aprofundar a formação dos alunos cuidadores no estudo do funcionamento do cérebro, mente, linguagem e corpo tendo como foco a interdisciplinaridade que envolve o processo de leitura/escrita, considerando: a avaliação da criança; seu seguimento longitudinal; a relação com a família e com a escola - privilegiando-se tanto o lugar que a criança ocupa na família e na escola, quanto o papel que estas exercem no processo de leitura/escrita; bem como as políticas públicas educacionais."
+    },
+    {
+        "code": "AM046",
+        "name": "Comunicação Científica em Ciências da Terra",
+        "credits": 2,
+        "syllabus": "Fundamentos de editoração de artigos científicos. Regras básicas de redação e ilustração. Padronização técnica de artigos, relatórios e textos de divulgação. Noções básicas de operação de programas de ilustração técnica. Internet e Ciências da Terra. Evolução histórica dos recursos didáticos em Geociências. Intercâmbio de formatos de arquivo e utilização de ilustrações, diagramas e mapas no ensino. Exercícios de laboratório e gabinete."
+    },
+    {
+        "code": "AM047",
+        "name": "Estudo da Língua Internacional Esperanto e sua Cultura",
+        "credits": 2,
+        "syllabus": "Consta de uma aula introdutória com palestra audiovisual sobre o esperanto. Haverá depois aulas regulares semanais constituindo um curso básico da língua interncional e algumas palestras com vídeos sobre a cultura esperantista. Serão convidados como palestrantes professores de outras universidades. Serão realizadas conversações internacionais diretas por meio da internet com pessoas de diversos países do mundo."
+    },
+    {
+        "code": "AM048",
+        "name": "Permacultura: Cultura da Autonomia Permanente",
+        "credits": 2,
+        "syllabus": "O curso propõe uma reflexão crítica e altamente propositiva sobre as formas de conhecimento, as possibilidades efetivas de intervenção na realidade cotidiana e a liberdade para a busca e construção de alternativas sistêmicas e sustentáveis de vida. Para pensar uma gestão mais orgânica das relações entre o humano e o seu ambiente é necessário considerar os desejos, resgatar os chamados \"saberes mínimos\", os conhecimentos tradicionais e técnicas corporais arcaicas e modernas, aliando-os a tecnologias atuais, ao pensamento teórico e a outros saberes."
+    },
+    {
+        "code": "AM049",
+        "name": "A Criança em Vulnerabilidade Social e o Mundo Contemporâneo",
+        "credits": 3,
+        "syllabus": "Estudo, reflexão e discussão de disciplinas / temas que podem subsidiar o desenvolvimento de crianças em vulnerabilidade social e implementação de oficinas temáticas para a criança em vulnerabilidade social."
+    },
+    {
+        "code": "AM050",
+        "name": "Monitoria do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade é acompanhar as atividades dos programas do Museu Exploratório de Ciências – UNICAMP. Há uma etapa de formação, requisito para o aluno se candidatar a uma vaga. Na formação são abordadas informações gerais e de conteúdo, relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática, audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação, reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM051",
+        "name": "Mediação do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade do mediador é acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação obrigatória, requisito para o aluno se candidatar a vaga. Na formação são abordadas informações sobre museus e educação não formal; e de conteúdo relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática. audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação e reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM052",
+        "name": "Mediação do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade do mediador é acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação obrigatória, requisito para o aluno se candidatar a vaga. Na formação são abordadas informações sobre museus e educação não formal; e de conteúdo relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática. audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação e reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM053",
+        "name": "Mediação do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade do mediador é acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação obrigatória, requisito para o aluno se candidatar a vaga. Na formação são abordadas informações sobre museus e educação não formal; e de conteúdo relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática. audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação e reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM054",
+        "name": "Mediação do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade do mediador é acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação obrigatória, requisito para o aluno se candidatar a vaga. Na formação são abordadas informações sobre museus e educação não formal; e de conteúdo relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática. audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação e reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM055",
+        "name": "Mediação do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade do mediador é acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação obrigatória, requisito para o aluno se candidatar a vaga. Na formação são abordadas informações sobre museus e educação não formal; e de conteúdo relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática. audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação e reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM056",
+        "name": "Mediação do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade do mediador é acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação obrigatória, requisito para o aluno se candidatar a vaga. Na formação são abordadas informações sobre museus e educação não formal; e de conteúdo relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática. audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação e reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM057",
+        "name": "Mediação do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade do mediador é acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação obrigatória, requisito para o aluno se candidatar a vaga. Na formação são abordadas informações sobre museus e educação não formal; e de conteúdo relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática. audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação e reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM058",
+        "name": "Mediação do Museu Exploratório de Ciências - UNICAMP",
+        "credits": 2,
+        "syllabus": "Interação com o público em geral, principalmente escolas municipais, estaduais e particulares de Campinas e demais cidades de São Paulo. A principal atividade do mediador é acompanhar as atividades dos programas do Museu Exploratório de Ciências - UNICAMP. Há uma etapa de formação obrigatória, requisito para o aluno se candidatar a vaga. Na formação são abordadas informações sobre museus e educação não formal; e de conteúdo relacionadas com os diversos programas, incluindo momentos para familiarização com equipamentos de informática. audiovisual, maquinaria do caminhão da Oficina Desafio e experimentos. Será realizado um encontro mensal nas dependências do museu para atualização da formação e reuniões da equipe para trocas de experiências e seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM059",
+        "name": "Educação em Ética por Meio da Arte",
+        "credits": 4,
+        "syllabus": "Introdução a conceitos de ética a partir da observação e discussão de obras de arte."
+    },
+    {
+        "code": "AM061",
+        "name": "Introdução à História e Cultura do Brasil no Século XX",
+        "credits": 3,
+        "syllabus": "O curso tem como base a apresentação de temas culturais que marcaram o século XX no Brasil. sendo que a produção cultural do período será analisada a partir de seu momento social e histórico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM062",
+        "name": "Divulgação Científica",
+        "credits": 2,
+        "syllabus": "Ciência, mídia e sociedade: a necessária interface. Ciência como atividade humana e seus usos sociais. Discurso científico e jornalístico: sentidos possíveis. Como divulgar ciência para o público leigo e como contribuir para uma melhor cobertura de ciência. Relações entre jornalistas e cientistas. O poder da ciência e o poder da mídia. Ciência e ideologia. Democratização do discurso científico. Ciência e educação. Conhecimento e percepção do público da ciência. Controvérsias científicas. Mídia e política de CT&I. A disciplina pretende iniciar uma aproximação entre academia e sociedade por meio de reflexões sobre a comunicação da ciência para o público não especializado, levando em consideração o papel e as responsabilidades da ciência e dos cientistas e jornalistas perante a sociedade. O ponto de vista do leitor. A mediação possível. As múltiplas abordagens da divulgação científica."
+    },
+    {
+        "code": "AM063",
+        "name": "Tópicos em Língua de Sinais Brasileira (LIBRAS)",
+        "credits": 2,
+        "syllabus": "Abordagem sócio-histórica das línguas de sinais no Brasil (Libras e LS do povo Kaapor). Introdução ao conhecimento das línguas de sinais como línguas naturais e com respeito a seu papel na constituição dos sujeitos e identidades sociais. Introdução à reflexão linguística da língua de sinais brasileira (LIBRAS), pelo reconhecimento dos parâmetros básicos que constituem os sinais (configuração e orientação da mão, localização, movimento) e pelo estudo de elementos fundamentais de sintaxe (construção de sintagmas nominais, ordem de constituintes, tempo e aspecto verbal)."
+    },
+    {
+        "code": "AM064",
+        "name": "Oficina Autorregulação da Aprendizagem",
+        "credits": 4,
+        "syllabus": "Promoção de atividades e discussões para apoiar o estudante do ensino superior no aprimoramento de seu estudar e aprender, tendo como princípio norteador o processo de autorregulação de aprendizagem, que se centra na possibilidade de o aluno gerenciar aspectos cognitivos, motivacionais, comportamentais e ambientais para o alcance de suas metas acadêmicas."
+    },
+    {
+        "code": "AM065",
+        "name": "Ideais de Cidadania Global",
+        "credits": 4,
+        "syllabus": "Promoção e abordagem de temas relacionados a processos sociais, culturais, políticos, históricos e econômicos que produzem os significados e afetos relacionados com o fato de pessoas sentirem-se conectadas e/ou desconectadas com o mundo e com pessoas em diferentes contextos sociais e geográficos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AM066",
+        "name": "Apresentando Física ao Público",
+        "credits": 2,
+        "syllabus": "Conceitos sobre o que é física, sua história, sua utilidade. Como o público a vê? Como captar o interesse do público, como responder a perguntas simples e nem tanto, evitando o uso de terminologia e fórmulas, mas introduzindo a elas. Exemplos de apresentações baseadas em experimentos e exemplos de perguntas recebidas. Como perguntas de leigos tem nos levado a aprender. Até quanto podemos evitar a presença do monitor, para deixar ao público interagir diretamente com os experimentos? A luz como energia fundamental de vida. A imagem como elemento fundamental para a apreciação da vida. A holografia como expressão máxima das técnicas de imagem. Técnicas de imagem, imagem eletrônica em fotografia e vídeo. Realização de vídeos didáticos, técnicas básicas e exemplos."
+    },
+    {
+        "code": "AM067",
+        "name": "Seminários em Distúrbios do Metabolismo",
+        "credits": 2,
+        "syllabus": "Alterações do metabolismo na saúde e na doença; Papel dos nutrientes no desenvolvimento de inflamação; Vias inflamatórias e auofagia, reflexo anti-inflamatório, regeneração e ciclo celular; Programação metabólica e alterações epigenéticas; Métodos de estudo em biologia molecular e celular."
+    },
+    {
+        "code": "AM068",
+        "name": "Linguística e Indigenismo",
+        "credits": 2,
+        "syllabus": "A disciplina traça um panorama da história do indigenismo (oficial e alternativo) no Brasil a partir do início do século XX e, em paralelo, analisa a história do estudo das línguas indígenas brasileiras no mesmo período, buscando identificar as mútuas interações entre aquele campo de ação netamente política e o campo do fazer linguístico, que se pretende científico. Os seminários dessa disciplina pretendem constituir-se em um espaço de reflexão e diálogo entre a linguística, a antropologia, a pedagogia e o indigenismo, reconhecendo suas especificidades, mas realçando seus pontos de contato e cooperação."
+    },
+    {
+        "code": "AM069",
+        "name": "Economia, Sociedade e Meio Ambiente na Produção Audiovisual Contemporânea",
+        "credits": 2,
+        "syllabus": "."
+    },
+    {
+        "code": "AM070",
+        "name": "Abordagens Educativas no Programa UniversIDADE",
+        "credits": 2,
+        "syllabus": "Seminários sobre tópicos educativos no Programa UniversIDADE."
+    },
+    {
+        "code": "AM071",
+        "name": "Brasil Hoje Urgente: Colapso e Resistência",
+        "credits": 4,
+        "syllabus": "1 - Brasil: 2013-2018 - visão panorâmica e interdisciplinar da crise sistêmica da sociedade brasileira, que atinge os planos político, econômico, cultural e socioambiental;\n2- Algumas raízes históricas estruturais da crise;\n3 - Análise de algumas conjunturas mais agudas da crise;\n4 - Capitalismo e colapso socioambiental: caracterização e tendências contemporâneas;\n5 - Crise dos modos de representação e participação política: causas e consequências;\n6 - Restauração da dominação oligárquica e eclipse da democracia: as vanguardas do atraso;\n7 - Resistência e luta: atores, cenários, perspectivas."
+    },
+    {
+        "code": "AM072",
+        "name": "Debates sobre Tópicos Ambientais",
+        "credits": 2,
+        "syllabus": "A disciplina terá como foco o debate e a produção de textos, em inglês, sobre tmas atuais relacionados ao meio ambiente. Alunos de diversas áreas poderão participar pois os temas serão multidisciplinares. O docente irá disponibilizar texto científicos e de jornais, vídeos e filmes sobre uma temática ambiental. Os alunos deverão se preparar para um debate em sala de aula (atividade análoga). Ao final de cada debate o aluno deverá ser capaz de escrever um texto, em inglês, sobre o tema proposto (atividade equivalente)."
+    },
+    {
+        "code": "AM077",
+        "name": "Introdução à Sociedade e Cultura da China",
+        "credits": 4,
+        "syllabus": "Introdução geral de aspectos sociais e culturais da China antiga e contemporânea."
+    },
+    {
+        "code": "AM078",
+        "name": "Projetos Culturais da Região Metropolitana de Campinas",
+        "credits": 2,
+        "syllabus": "Acompanhamento das oficinas culturais desenvolvidas junto à comunidade universitária da Unicamp, relacionadas aos Projetos FUNCIONA CULTURA e OTRAS LATINOAMÉRICAS, da Diretoria de Cultura-DCULT/Unicamp. Estas atividades poderão  ocorrer tanto nos campi da universidade quanto nos equipamentos culturais da Secretaria Municipal de Cultura, parceira da Unicamp no referido Projeto e estarão vinculadas, especialmente, a oito eixos culturais: artes visuais, cinema, teatro, literatura, dança, música, culinária e artesania manual."
+    },
+    {
+        "code": "AM079",
+        "name": "Africanidades Brasileiras",
+        "credits": 4,
+        "syllabus": "Africanidades brasileiras resulta no conhecimento da cultura afro-brasileira em diferentes perspectivas: histórica, social, política, educacional, filosófica, artística, normativa e acadêmica. A identificação da influência destes elementos na construção da  identidade brasileira será abordada na perspectiva multidisciplinar."
+    },
+    {
+        "code": "AM080",
+        "name": "Vivências Humanitáras",
+        "credits": 2,
+        "syllabus": "A disciplina propõe a inserção de estudantes, das diferentes áreas do conhecimento, em atividades práticas vinculadas às ações relacionadas aos Direitos Humanos tanto no âmbito da própria UNICAMP quanto em suas parcerias interinstitucionais, como Prefeitura Municipal, órgãos das Nações Unidas, escolas públicas e privadas, ONGs, Ministério Pùblico do Trabalho, dentre outros.\nTrata-se de oferecer a oportunidade aos nossos estudantes de completar sua formação intelectual e humana com atividades voltadas à comunidade, refletindo a importância do compromisso social da Universidade Pública."
+    },
+    {
+        "code": "AM081",
+        "name": "Projetos Integrados - Indicadores para empreendedorismo, inovação e internacionalização I",
+        "credits": 4,
+        "syllabus": "Sistemática de desenvolvimento de projetos em equipe. Aplicações de projetos integrados em problemas reais. projetos aplicados em temas contemporâneos, ligados a temáticas locais, da comunidade, de conteúdo tecnológico, empreendedor, inovador e/ou voltado à internacionalização, com ênfase na promoção de impactos econômicos e sociais. Ferramentas de pesquisa operacional como apoio à tomada de decisão. Desenvolvimento de índices e indicadores de desempenho para subsidiar políticas públicas e ações estratégias. produção e organização de banco de dados. Desenvolvimento do projeto (parte1)."
+    },
+    {
+        "code": "AM085",
+        "name": "Introdução a Nanotecnologia e Machine Learning",
+        "credits": 2,
+        "syllabus": "Introdução a Nonotecnologia e Introdução as técnicas de Machine Learning"
+    },
+    {
+        "code": "AM086",
+        "name": "Os Grandes Avanços da Ciência no Século XX e XXI",
+        "credits": 2,
+        "syllabus": "Serão discutidos com os alunos os grandes avanços da ciência nos séculos XX e XXI. Espera-se participação dos alunos propondo os casos, que podem ser em qualquer área de conhecimento (inclusive Física), estudando-os e apresentando aos colegas para discussão sobre os desafios que a descoberta venceu e seus impactos potenciais ou já realizados na ciência, na sociedade e na economia."
+    },
+    {
+        "code": "AM087",
+        "name": "Direitos Humanos, Tecnologia e Sociedade",
+        "credits": 4,
+        "syllabus": "A disciplina pretende discutir os direitos humanos a partir de três temas fundamentais: 1. Sua constituição histórica, filosófica e jurídica; 2. Os tópicos que têm destaque nas demandas recentes e sua relação com os movimentos sociais e 3. Sua pauta futura unificada em torno de problemas de impacto universal relacionados fundamentalmente às opções tecnológicas das sociedades do presente."
+    },
+    {
+        "code": "AM088",
+        "name": "Antropoceno: Desafios da Complexidade Ambiental",
+        "credits": 2,
+        "syllabus": "Biodiversidade e funcionamento de ecossistemas; Perda da biodiversidade: causas conseqüências; Serviços ecossistêmicos e qualidade de vida humana; Mudanças  climáticas: Riscos, Adaptação e Mitigação; Poluição e Intoxicação, Objetivos de Desenvolvimento Sustentável, Governança: desafios atuais, cenários futuros e trajetórias possíveis."
+    }
+]

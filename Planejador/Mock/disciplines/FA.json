@@ -1,0 +1,1851 @@
+[
+    {
+        "code": "FA001",
+        "name": "Saneamento Rural",
+        "credits": 2,
+        "syllabus": "Apresentação de fundamentos e tecnologias adequadas de tratamento de água para abastecimento e águas residuárias.",
+        "reqs": [
+            [
+                {
+                    "code": "FA874"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA002",
+        "name": "Engenharia de Irrigação",
+        "credits": 3,
+        "syllabus": "Sistemas de irrigação pressurizados: caracterização de materiais e equipamentos. Planejamento e dimensionamento de sistemas e métodos de avaliação de campo.",
+        "reqs": [
+            [
+                {
+                    "code": "FA876"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA006",
+        "name": "Projetos Especiais de Ambientes Controlados",
+        "credits": 3,
+        "syllabus": "Determinação da carga térmica de estruturas para produção vegetal. Parâmetros e sistemas de condicionamento de ar. Ambientes totalmente controlados para a produção vegetal. Sistemas. Modelagem. Instrumentação. Sistemas Construtivos. Equipamentos. Viveiros e mudas. Olerícolas. Frutas. Flores e Plantas Ornamentais. Reflorestamento.",
+        "reqs": [
+            [
+                {
+                    "code": "FA873"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA016",
+        "name": "Tecnologia de Produção de Rações",
+        "credits": 2,
+        "syllabus": "Redução de tamanho. Métodos de classificação de partícula reduzida. Mistura: sólido-sólido e líquido-sólido. Extrusão. Peletização. Resfriamento. Armazenagem. Qualidade da matéria-prima e da ração.",
+        "reqs": [
+            [
+                {
+                    "code": "FA577"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA017",
+        "name": "Tópicos Especiais em Tecnologia Pós-Colheita",
+        "credits": 2,
+        "syllabus": "Estudo de alguns produtos agrícolas que apresentam especificidades na fase de pós-colheita. Aspectos da produção e da colheita que interferem na qualidade final. Características das operações de pós-colheita.",
+        "reqs": [
+            [
+                {
+                    "code": "FA577"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA018",
+        "name": "Tecnologia de Sementes",
+        "credits": 2,
+        "syllabus": "Importância da semente. Características gerais das sementes. Fatores que afetam a produção e o desempenho das sementes. Secagem. Beneficiamento. Armazenamento.",
+        "reqs": [
+            [
+                {
+                    "code": "FA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA019",
+        "name": "Teorias Avançadas do Processo de Secagem",
+        "credits": 2,
+        "syllabus": "Relacionamento sólido-umidade. Estrutura sólida. Teorias de secagem. Equações fundamentais. Tratamento de dados.\nMétodos de secagem.",
+        "reqs": [
+            [
+                {
+                    "code": "FA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA021",
+        "name": "Gerenciamento de Recursos Hídricos",
+        "credits": 2,
+        "syllabus": "Caracterização geral dos problemas de recursos hídricos. Diagnósticos da disponibilidade de recursos hídricos. Diagnóstico de necessidades de recursos hídricos, caracterização socioeconômica. Balanço de recursos hídricos e política de desenvolvimento socioeconômico. Gestão de recursos hídricos em outros países e no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "FA786"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA024",
+        "name": "Projeto Estrutural de Máquinas Agrícolas",
+        "credits": 2,
+        "syllabus": "Revisão da teoria da elasticidade. Introdução ao método dos elementos finitos. Programas computacionais de elementos finitos.",
+        "reqs": [
+            [
+                {
+                    "code": "FA682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA026",
+        "name": "Ergonomia Aplicada à Engenharia Agrícola",
+        "credits": 2,
+        "syllabus": "Introdução à Ergonomia. Aspectos históricos e metodológicos. Fatores Laborais Ambientais: avaliação, mensuração, normas. Antropometria. Biomecânica. Dimensionamento do espaço de trabalho. Ruído e Vibrações. Temperatura. Iluminação. Cognição: Informação e Controle.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA028",
+        "name": "Avaliação do Desempenho de Máquinas Agrícolas e Qualidade de Operação",
+        "credits": 4,
+        "syllabus": "Metodologia de ensaio de máquinas agrícolas: tratores, máquinas de preparo do solo, plantio, adubação, pulverização e colheita. Dimensionamento e controle operacional de máquinas agrícolas.",
+        "reqs": [
+            [
+                {
+                    "code": "FA880"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA030",
+        "name": "Estradas Vicinais",
+        "credits": 2,
+        "syllabus": "Escolha do traçado de uma estrada vicinal. Projeto geométrico. Drenagem de Estradas. Pavimentos econômicos.",
+        "reqs": [
+            [
+                {
+                    "code": "FA564"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA031",
+        "name": "Fontes Alternativas de Energia",
+        "credits": 3,
+        "syllabus": "Conceitos de geração. Distribuição e utilização de fontes alternativas de energia para processos e sistemas no meio rural. Avaliação termoeconômica de energia solar, eólica, hídrica e de biomassa.",
+        "reqs": [
+            [
+                {
+                    "code": "FA673"
+                },
+                {
+                    "code": "FA780"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA032",
+        "name": "Estruturas Metálicas",
+        "credits": 2,
+        "syllabus": "Dimensionamento de peças metálicas tracionadas e comprimidas. Ligações de peças metálicas. Vigas metálicas. Projeto de uma estrutura metálica de cobertura.",
+        "reqs": [
+            [
+                {
+                    "code": "FA586"
+                },
+                {
+                    "code": "FA682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA033",
+        "name": "Pesquisa Operacional Aplicada à Agricultura",
+        "credits": 2,
+        "syllabus": "Programação linear, otimização em redes e simulação. Estudo das técnicas e estudos de casos aplicados à agricultura.",
+        "reqs": [
+            [
+                {
+                    "code": "FA374"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA041",
+        "name": "Aproveitamentos Hidroenergéticos no Meio Rural: Micro, Mini e Pequenas Usinas",
+        "credits": 2,
+        "syllabus": "Introdução. Classificação dos aproveitamentos hidroenergéticos. Fluxograma de atividades para estudos e projetos. Estudos topográficos, hidrográficos, socioeconômicos e hidroenergéticos. Projeto, aspectos construtivos, desenhos do arranjo geral e detalhes. Custos: metodologia, composição e cálculos. Avaliação socioeconômica. Legislação.",
+        "reqs": [
+            [
+                {
+                    "code": "FA564"
+                },
+                {
+                    "code": "FA676"
+                },
+                {
+                    "code": "FA780"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA042",
+        "name": "Hidráulica Básica Aplicada à Máquinas Agrícolas",
+        "credits": 2,
+        "syllabus": "Teoria básica em hidráulica aplicada à máquinas agrícolas. Teoria essencial para executar ou analisar projetos e operar, realizar manutenção e diagnosticar comportamentos de circuitos hidráulicos utilizados em máquinas agrícolas. Projeto de circuitos hidráulicos com dimensionamento e seleção de seus componentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "FA370"
+                },
+                {
+                    "code": "FA573"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA043",
+        "name": "Qualidade e Segurança de Frutas e Hortaliças Frescas",
+        "credits": 2,
+        "syllabus": "Fundamentos de gestão de qualidade e segurança para frutas e hortaliças frescas. Selos e certificados. Cadeia de suprimentos para a obtenção de alimentos seguros. Conceitos de sistema de análise de perigos e de pontos de controle críticos. Guia de gestão para preparação e apresentação de frutas e hortaliças ao mercado. Legislação pertinente a produtos vegetais alimentícios.",
+        "reqs": [
+            [
+                {
+                    "code": "FA679"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA044",
+        "name": "Processamento Mínimo de Frutas e Hortaliças",
+        "credits": 2,
+        "syllabus": "Operações de processamento mínimo de frutas e hortaliças. Fatores de qualidade para produtos minimamente processados. Biologia e fisiologia do produto minimamente processado. Alterações decorrentes do processamento mínimo. Controle de temperatura. Microbiologia. Sanitização e desinfecção. Atmosfera modificada e embalagem. Considerações sobre projeto para unidade processadora.",
+        "reqs": [
+            [
+                {
+                    "code": "FA679"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA050",
+        "name": "Introdução à Administração de Empresas do Agronegócio",
+        "credits": 2,
+        "syllabus": "Administração, organização e administrador. Breve história da administração. As funções administrativas: planejamento, organização, controle e direção. Planejamento: tipos, etapas e níveis. Organização: tipos de estrutura organizacional, hierarquia e coordenação. Direção: sistemas administrativos. Controle: tipos de controle, avaliação de desempenho. Estudo de casos de empresas ligadas ao agronegócio.",
+        "reqs": [
+            [
+                {
+                    "code": "FA520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA051",
+        "name": "Gestão Ambiental no Agronegócio",
+        "credits": 2,
+        "syllabus": "Agronegócio e meio ambiente: Sistemas de gestão ambiental públicos e privados. Legislação ambiental. Código Florestal. Licenciamento ambiental: EIA/RIMA, Marketing ambiental. Certificação ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "FA520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA052",
+        "name": "Projeto e Desenvolvimento de Embalagens para Produtos Agrícolas",
+        "credits": 2,
+        "syllabus": "Embalagens para produtos hortícolas. Mercado. Normas vigentes. Metodologia do projeto de embalagens. Custo. Materiais. Dimensionamento geométrico, estrutural e ergonômico. Avaliação do desempenho. Embalagens e a cadeia do frio. Critérios de desempenho térmico. Projeto de embalagens.",
+        "reqs": [
+            [
+                {
+                    "code": "FA173"
+                },
+                {
+                    "code": "FA576"
+                },
+                {
+                    "code": "FA577"
+                },
+                {
+                    "code": "FA673"
+                },
+                {
+                    "code": "FA679"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA054",
+        "name": "Geotecnologias II",
+        "credits": 2,
+        "syllabus": "Aplicações avançadas de sensoriamento remoto e sistemas de informações geográficas. Monitoramento de áreas agrícolas. Aplicações ambientais. Integração e disponibilização de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "FA665"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA059",
+        "name": "Práticas de Hidráulica Aplicadas à Engenharia",
+        "credits": 2,
+        "syllabus": "Introdução aos princípios básicos de medidas. Medidores de pressão. Medidores de vazão. Experiência de Reynolds. Demonstração do Teorema de Bernoulli. Perda de carga distribuída e localizada. Curva característica de bombas. Escoamento em superfície livre. Determinação de energia específica em canais. Cálculo de ressalto hidráulico. Curva de remanso. Métodos de injeção de produtos químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "FA676"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA061",
+        "name": "Agroecologia e Extensão Rural",
+        "credits": 2,
+        "syllabus": "Conceitos em agroecologia. Processos de transição agroecológica. Implantação e manejo agroecológico. Manejo vegetal e animal de bens ecológicos. Extensão rural no Brasil. Tecnologia social. Métodos participativos para transição agroecológica.",
+        "reqs": [
+            [
+                {
+                    "code": "FA520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA062",
+        "name": "Sistemas de Produção na Agricultura Familiar",
+        "credits": 2,
+        "syllabus": "Campesinato e agricultura familiar. A discussão atual sobre a agricultura familiar. A abordagem sistêmica e sua aplicação na agricultura familiar. Políticas públicas para agricultura familiar.",
+        "reqs": [
+            [
+                {
+                    "code": "FA520"
+                },
+                {
+                    "code": "FA720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA063",
+        "name": "Técnicas Construtivas",
+        "credits": 2,
+        "syllabus": "Introdução e organização do canteiro. Equipamentos. Fundações. Alvenarias. Concretagem. Revestimentos de paredes e pisos. Esquadrias. Coberturas. Vidros. Pintura. Limpeza e Manutenção. Patologia das construções.",
+        "reqs": [
+            [
+                {
+                    "code": "FA586"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA066",
+        "name": "Avaliação de Terras para Fins Agrícolas",
+        "credits": 2,
+        "syllabus": "Planejamento do uso das terras para fins agrícolas. Levantamento e Interpretação de levantamento de solos para fins agrícolas. Conceitos básicos em avaliação de terras. Necessidades de dados em avaliação de terras. Metodologia FAO de avaliação da aptidão agrícola. Sistema de avaliação da aptidão agrícola das terras (Brasil). Classificação da capacidade da terra. Aplicações. Estudos de caso.",
+        "reqs": [
+            [
+                {
+                    "code": "FA665"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA067",
+        "name": "Fertilidade do Solo e Adubação",
+        "credits": 2,
+        "syllabus": "Fertilidade de solos no Brasil. Princípios e conceitos de fertilidade do solo. Avaliação da fertilidade do solo. Amostragem do solo para fins de recomendação de adubação e calagem. Análises de solos e sua interpretação. Acidez e calagem. Macro e micronutrientes. Matéria orgânica. Recomendações de adubação e calagem. Adubação foliar.",
+        "reqs": [
+            [
+                {
+                    "code": "FA481"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA068",
+        "name": "Erosão Acelerada do Solo e seu Controle",
+        "credits": 2,
+        "syllabus": "Erosão geológica e erosão acelerada do solo. Agentes e tipos de erosão. Erosão hídrica. Métodos de estimativa de erosão hídrica. Equação universal de perdas de solo. Tolerância de perdas de solo. Práticas de controle da erosão do solo. Aspectos da legislação em conservação do solo e da água.",
+        "reqs": [
+            [
+                {
+                    "code": "FA665"
+                },
+                {
+                    "code": "FA983"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA069",
+        "name": "Organização e Análise Ergonômica do Trabalho",
+        "credits": 2,
+        "syllabus": "Trabalho e Organizações. Funções Administrativas. Organização do Trabalho. Administração Científica do Trabalho. Organizações no Mundo Contemporâneo. Balanced Theory of Job Design. Sistemas de Trabalho. Ergonomia: Método e Técnica. Demanda, Tarefa e Atividade. Análise Ergonômica do Trabalho.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA070",
+        "name": "Estágio Supervisionado",
+        "credits": 12,
+        "syllabus": "Acompanhamento de projetos, montagens e execução de equipamentos e sistemas em Engenharia Agrícola, nas áreas Recursos Naturais Renováveis, Máquinas Agrícolas, Tecnologia de Pós-Colheita, Estrutura e Ambiência, Administração e Desenvolvimento e Sustentabilidade Rural, junto a empresas credenciadas pela Coordenadoria de Graduação da Faculdade de Engenharia Agrícola e pelo Serviço de Apoio ao Estudante (SAE) da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA071",
+        "name": "Sociologia e Extensão Rural",
+        "credits": 3,
+        "syllabus": "Realidade rural brasileira. Introdução à sociologia rural. Geração, transferência, difusão e adoção de tecnologias no meio rural. Comunicação rural. Projetos de intervenção na realidade rural. Fundamentos e metodologia de extensão rural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA090"
+        ]
+    },
+    {
+        "code": "FA073",
+        "name": "Interação Mecânica Máquina-Planta",
+        "credits": 2,
+        "syllabus": "Estrutura do material vegetal. Ensaios mecânicos em órgãos vegetais. Desempenho de qualidade no corte. Cilindros destacadores. Ruptura e danos causados por vibração. Efeitos viscoelásticos. Deformação específica limite. Avaliação temporal de firmeza. Força de destacamento. Medidas de qualidade através de recuperação elástica.",
+        "reqs": [
+            [
+                {
+                    "code": "FA880"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA074",
+        "name": "Tecnologia em Agricultura de Precisão",
+        "credits": 4,
+        "syllabus": "O conceito da agricultura de precisão e sua interface com a agricultura digital. Estado da arte das tecnologias em agricultura de precisão. Monitoramento da produtividade das culturas. Mapeamento da variabilidade espacial de propriedades de solo e planta. Técnicas de sensoriamento remoto e proximal aplicado à agricultura de precisão. Zonas de manejo. Aplicação localizada de insumos em taxas variáveis. Considerações sobre decisões gerenciais com base na variabilidade espacial das lavouras.",
+        "reqs": [
+            [
+                {
+                    "code": "FA473"
+                },
+                {
+                    "code": "FA665"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA112"
+        ]
+    },
+    {
+        "code": "FA075",
+        "name": "Teoria de Controle Aplicada",
+        "credits": 2,
+        "syllabus": "Revisão de modelos matemáticos de sistemas físicos, utilizando Transformadas de Laplace e Funções de transferência, tempo morto e linearização. Projeto e análise de sistemas de controle, controlador tipo Liga/Desliga, controlador tipo PID. Implementação de sistemas de controle em bancadas didáticas.",
+        "reqs": [
+            [
+                {
+                    "code": "FA474"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA076",
+        "name": "Automação de Processos",
+        "credits": 2,
+        "syllabus": "Automação de processos contínuos e discretos. Conceito de sistemas digitais; Sistemas numéricos; Álgebra booleana; Funções e portas lógicas; Circuitos combinacionais; Circuitos sequenciais; Operações e circuitos aritméticos; Lógica programável; dispositivos de lógica programável; Simulação de sistemas de automação utilizando ferramentas de software.",
+        "reqs": [
+            [
+                {
+                    "code": "FA474"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA081",
+        "name": "Mecanização Agrícola Aplicada a Culturas Comerciais",
+        "credits": 2,
+        "syllabus": "Tratores agrícolas. Máquinas e implementos para preparo de solo. Pulverizadores: máquinas para semeadura, adubação, cultivo e colheita para as culturas do amendoim, arroz, café, cana-de-açúcar, feijão, laranja, milho e soja.",
+        "reqs": [
+            [
+                {
+                    "code": "FA983"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA082",
+        "name": "Estratégia e Gestão de Empresas Agropecuárias",
+        "credits": 2,
+        "syllabus": "O atual contexto das empresas agropecuárias. Estruturação do planejamento estratégico nas empresas agropecuárias. Aspectos organizacionais das empresas agropecuárias. Processo gerencial nas empresas agropecuárias. Controle e avaliação de desempenho nas empresas agropecuárias.",
+        "reqs": [
+            [
+                {
+                    "code": "FA720"
+                },
+                {
+                    "code": "FA721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA083",
+        "name": "Gestão de Processos no Agronegócio",
+        "credits": 2,
+        "syllabus": "Gestão por processos. Processos. Ferramentas para gestão de processos (IDEFO, PDCA, QFD, BSC, ABC)."
+    },
+    {
+        "code": "FA084",
+        "name": "Introdução à Mineração de Dados: Conceitos e Aplicações na Agricultura",
+        "credits": 4,
+        "syllabus": "Processo de Descoberta de Conhecimento em Banco de Dados (KDD): Pré-Processamento (Preparação) dos Dados, Mineração (Técnicas) dos Dados e Pós-Processamento (Avaliação) do Conhecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA085",
+        "name": "Zootecnia de Precisão",
+        "credits": 2,
+        "syllabus": "Introdução ao uso de processos eletrônicos de coleta e administração de informações relativas a produção animal (avicultura, suinocultura de leite em clima tropical). Uso de identificação eletrônica para rastreabilidade e estudo do comportamento do animal. Uso de modelagens para extração de conhecimento, modelos preditivos e simulações de sistemas de climatização na produção animal. Aplicações nas diversas cadeias de produção de carne, leite e ovos.",
+        "reqs": [
+            [
+                {
+                    "code": "FA473"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA088",
+        "name": "Gestão de Responsabilidade Social e Sustentabilidade no Agronegócio",
+        "credits": 2,
+        "syllabus": "Responsabilidade social e sustentabilidade. Gestão de RSC. Estudos de caso de RSC no agronegócio."
+    },
+    {
+        "code": "FA090",
+        "name": "Comunicação e Tecnologia Rural",
+        "credits": 2,
+        "syllabus": "Comunicação e desenvolvimento rural. Meios de comunicação e barreiras. Comunicação no meio rural. Mudança tecnológica. Canais e agentes da mudança tecnológica. Inovador e Inovação. Inovação na produção agropecuária e na unidade produtiva rural. Tecnologia  Social, Comunicação de inovações e publicações.",
+        "reqs": [
+            [
+                {
+                    "code": "FA071"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA091",
+        "name": "Marketing Rural",
+        "credits": 2,
+        "syllabus": "Conceitos básicos de gestão de marketing. Estudos e Análise de mercados. Segmentação e mercado alvo. Diferenciação e posicionamento. Análise da concorrência. Canais de marketing. Previsão e Dimensionamento da Demanda. Planejamento estratégico de marketing. Marketing de produtos agropecuários e agroindustriais. Marketing e responsabilidade social.",
+        "reqs": [
+            [
+                {
+                    "code": "FA520"
+                },
+                {
+                    "code": "FA720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA093",
+        "name": "Introdução ao Mercado de Capitais e de Commodities Agrícolas",
+        "credits": 2,
+        "syllabus": "Noções de mercado de ações, a termo, de opções, futuro, de ouro, de derivativos, de opções e mercado de commodities agrícolas. Funções e estruturas. Aspectos positivos e negativos para o hedger e para o especulador, do ponto de vista do mercado e da política econômica do Governo.",
+        "reqs": [
+            [
+                {
+                    "code": "FA720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA094",
+        "name": "Segurança do Trabalho Rural",
+        "credits": 2,
+        "syllabus": "Introdução à engenharia de segurança do trabalho. Higiene do trabalho. Fatores de risco: tipificação e avaliação. Normas. Saúde ocupacional rural. Acidentes de trabalho no meio rural. Riscos no emprego de máquinas, veículos, implementos, ferramentas agrícola e na aplicação de agrotóxicos. NR 31: aplicação e fiscalização. Prevenção de incêndios florestais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA095",
+        "name": "Gestão de Sistemas Integrados na Agropecuária",
+        "credits": 2,
+        "syllabus": "Caraterização dos sistemas integrados na agropecuária. Bases tecnológicas para implantação de sistemas integrados. Planejamento de sistemas integrados. Métodos de gestão aplicados aos sistemas integrados. Aspectos econômicos dos sistemas integrados. Avaliação de impacto ambiental e social nos sistemas integrados. Controles e sustentabilidade nos sistemas integrados. Estudos de caso Integração Lavoura-Pecuária-Floresta (ILPF).",
+        "reqs": [
+            [
+                {
+                    "code": "FA721"
+                },
+                {
+                    "code": "FA877"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA097",
+        "name": "Biotecnologia I: Fundamentos",
+        "credits": 2,
+        "syllabus": "Introdução. Biomoléculas. Metabolismo. Microrganismos e meios de cultura. Fundamentos de cinética enzimática e de processos fermentativos. Modelagem matemática. Biorreatores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "QG101"
+                },
+                {
+                    "code": "QG102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA099",
+        "name": "Internet das Coisas na Agricultura",
+        "credits": 2,
+        "syllabus": "Introdução aos elementos básicos de aplicações de Internet das Coisas: sensores, meios de comunicação, atuadores, acesso à Internet e tecnologias auxiliares (nuvem, ciência dos dados, big data, etc.). Aplicações na produção agroindustrial.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA100",
+        "name": "Engenharia Agrícola: Curso e Profissão",
+        "credits": 2,
+        "syllabus": "Universidade Estadual de Campinas e Faculdade de Engenharia Agrícola: histórico e perfil. O profissional Engenheiro Agrícola. Curso de graduação em Engenharia Agrícola da UNICAMP. Inserção da Engenharia Agrícola na Agricultura Brasileira. Mercado de Trabalho. Interação com outros ramos de Engenharia. Conceitos de Engenharia (Regulamentos, Ética Profissional)."
+    },
+    {
+        "code": "FA103",
+        "name": "Análise de Imagens Aplicada a Produtos Agrícolas e Alimentos",
+        "credits": 2,
+        "syllabus": "Princípios de pré-processamento e análise de imagens digitais e hiperespectrais, métodos de segmentação binária e morfológica, possibilitando a caracterização de parâmetros geométricos; introdução à espectroscopia no infravermelho próximo, métodos de análise multivariada aplicados. Processamento de imagens coloridas. Biospeckle: princípios físicos, equipamentos e processamento de imagens.",
+        "reqs": [
+            [
+                {
+                    "code": "MC102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA105",
+        "name": "Patologias e Proteção da Madeira",
+        "credits": 2,
+        "syllabus": "Aspectos históricos da conservação da madeira; Definição e conceitos básicos; Durabilidade; Madeira e umidade; Agentes destrutivos abióticos e bióticos; Inspeção; Diagnóstico; Características da madeira em relação a sua proteção; Preservativos: composição, eficácia e classificação dos produtos preservativos; Sistemas e procedimentos de conservação; Escolha de proteção preventiva; Tratamentos curativos; Controle de qualidade dos preservativos e sistemas de tratamento da madeira; Problemática ambiental. "
+    },
+    {
+        "code": "FA106",
+        "name": "Práticas Laboratoriais para Pesquisa Ambiental",
+        "credits": 4,
+        "syllabus": "Introdução. Boas práticas e segurança em laboratório. Amostragem. Noções de química analítica qualitativa. Noções de química analítica quantitativa. Princípios de técnicas analíticas instrumentais. Ensaios físicos. Técnicas analíticas aplicadas em águas residuárias e de abastecimento. Análise de resíduos sólidos. Análise de gases. Validação de métodos analíticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA107",
+        "name": "Comercialização Agrícola",
+        "credits": 3,
+        "syllabus": "Introdução à comercialização de produtos agrícolas e agroindustriais. Aspectos de oferta e demanda.  Funções de comercialização Métodos de análise de comercialização. Mecanismos de comercialização: transações em mercados spot, a termos, contratos futuros, contratos de longo prazo e integração vertical. Custos e margens de comercialização. Direcionadores de competitividade.",
+        "reqs": [
+            [
+                {
+                    "code": "FA520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA108",
+        "name": "Logística Agroindustrial",
+        "credits": 2,
+        "syllabus": "Introdução à logística agrícola e agroindustrial e conceitos relacionados. Nível de serviço. Caracterização dos sistemas de transporte: rodoviário, ferroviário, aquaviário e sistema portuário. Intermodalidade. Roteirização. Armazenagem, manuseio e acondicionamento de produtos. Estoques. Gestão, estratégia e planejamento logístico. Logística reversa aplicada ao segmento agroindustrial.",
+        "reqs": [
+            [
+                {
+                    "code": "FA473"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA109",
+        "name": "Tópicos especiais em biotecnologia, agricultura e meio ambiente I",
+        "credits": 2,
+        "syllabus": "Estudos de temas propostos sobre a aplicação da biotecnologia na agricultura e no meio ambiente. Processos anaeróbios. Compostagem Biofertirrigação. Nexo água-alimento-energia. Uso de biotecnologia com foco em práticas agrícolas sustentáveis em um contexto urbano e periurbano.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA110"
+        ]
+    },
+    {
+        "code": "FA110",
+        "name": "Tópicos especiais em biotecnologia, agricultura e meio ambiente II",
+        "credits": 2,
+        "syllabus": "Estudos de temas propostos sobre a aplicação da biotecnologia na agricultura e no meio ambiente. Processos anaeróbios. Compostagem Biofertirrigação. Nexo água-alimento-energia. Uso de biotecnologia com foco em práticas agrícolas sustentáveis em um contexto urbano e periurbano.",
+        "reqs": [
+            [
+                {
+                    "code": "FA109"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA111",
+        "name": "Tratamento de Águas Residuárias",
+        "credits": 3,
+        "syllabus": "Introdução ao tratamento de esgotos, características dos esgotos, vazão de esgotos e cargas constituintes, seleção de processos, projeto e implementação, processos físicos unitários, processos químicos unitários, tratamento biológicos de esgotos, tratamento de lodo, gerenciamento de biossólidos.",
+        "reqs": [
+            [
+                {
+                    "code": "FA874"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA112",
+        "name": "Análise Espacial de Dados Aplicada à Agricultura",
+        "credits": 2,
+        "syllabus": "Obtenção de dados cartográficos, digitais e geração de produtos a partir de geotecnologias. Integração de dados espaciais. Criação de mapas para agricultura de precisão.",
+        "reqs": [
+            [
+                {
+                    "code": "FA074"
+                },
+                {
+                    "code": "FA665"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA113",
+        "name": "Fundamentos em Robótica na Agricultura",
+        "credits": 2,
+        "syllabus": "Cinemática de robôs. Dinâmica de robôs. Projeto de mecanismos para aplicações robóticas. Sensoriamento. Planejamento de movimentos. Teoria de controle. Programação. Arquitetura de sistemas e Métodos em raciocínio A.I.",
+        "reqs": [
+            [
+                {
+                    "code": "FA474"
+                },
+                {
+                    "code": "FA573"
+                },
+                {
+                    "code": "FA770"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA114",
+        "name": "Dinâmica de Sistemas Mecânicos",
+        "credits": 2,
+        "syllabus": "Desenvolvimento das equações de movimento, estabilidade de sistemas mecânicos, trajetórias lineares e não-lineares de corpos e sistemas de referência e conceitos básicos da dinâmica computacional. Criação de modelos em linguagem simbólica MatLab.",
+        "reqs": [
+            [
+                {
+                    "code": "FA470"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA115",
+        "name": "Introdução ao Método dos Elementos Finitos",
+        "credits": 2,
+        "syllabus": "Revisão de mecânica dos sólidos. Introdução ao software Ansys. Elementos de barra e treliça. Elementos de vigas e pórticos. Elementos Bidimensionais. Modelagem e técnicas de solução. Elementos tridimensionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA116",
+        "name": "Estruturas para Armazenagem (Silos)",
+        "credits": 2,
+        "syllabus": "Análise de estruturas de silos, incluindo cálculo de pressões, cálculo estrutural e dimensionamento. Teoria para cálculo de pressões causadas por produto sólido. Detalhamento da estrutura.",
+        "reqs": [
+            [
+                {
+                    "code": "FA682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA173",
+        "name": "Desenho Técnico",
+        "credits": 2,
+        "syllabus": "Introdução aos conceitos básicos de desenho técnico utilizando recursos assistidos por computador. Perspectiva; sistema de projeções, vistas principais, parciais e auxiliares. Cortes e seções. Cotas e tolerâncias. Desenhos de conjunto, detalhamento de conjunto e montagem de peças.",
+        "reqBy": [
+            "CV323",
+            "FA052",
+            "FA273",
+            "FA670",
+            "FA781"
+        ]
+    },
+    {
+        "code": "FA270",
+        "name": "Metodologia Científica e do Projeto",
+        "credits": 2,
+        "syllabus": "O conhecimento, ciência e senso comum. O Método Científico. A pesquisa científica; problematização; elaboração de hipóteses; verificação. Metodologia do trabalho científico. Metodologia de Projeto. Exemplo do desenvolvimento de um projeto de engenharia agrícola. Eficiências nas etapas do projeto. Fases e desenvolvimento do projeto."
+    },
+    {
+        "code": "FA273",
+        "name": "Desenho Civil Assistido por Computador",
+        "credits": 2,
+        "syllabus": "Simbologia básica e normas técnicas para a elaboração dos projetos de construção civil. Planta baixa, cortes, fachada, cobertura e implantação. Elementos arquitetônicos. Detalhamento das instalações hidrossanitária e elétrica. Introdução ao projeto estrutural. Maquete eletrônica.",
+        "reqs": [
+            [
+                {
+                    "code": "FA173"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA682"
+        ]
+    },
+    {
+        "code": "FA370",
+        "name": "Mecânica dos Fluidos para Engenharia",
+        "credits": 3,
+        "syllabus": "Introdução as principais propriedades físicas dos fluidos. Esforços nos fluidos. Fluidostática. Equilíbrio relativo. Manometria. Cinemática dos fluidos. Viscosidade. Equação da quantidade de movimento. Teorema de Bernoulli (conservação de energia). Análise dimensional e semelhança.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "F 129"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA042",
+            "FA425",
+            "FA673",
+            "FA676"
+        ]
+    },
+    {
+        "code": "FA373",
+        "name": "Pedologia",
+        "credits": 3,
+        "syllabus": "Caracterização da crosta terrestre. Fundamentos de mineralogia, principais minerais e rochas. Intemperismo. O solo como recurso natural. Fatores e processos de formação do solo. O perfil de solo. Definição e notação de horizontes e camadas. Principais atributos morfológicos. Introdução à classificação de solos. Evolução da classificação de solos no Brasil. O sistema brasileiro de classificação de solos. Solos do Brasil e do Estado de São Paulo. Levantamento de solos. Bases para leitura de mapas de solos. Aplicações da Pedologia em Engenharia Agrícola.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA481"
+        ]
+    },
+    {
+        "code": "FA374",
+        "name": "Cálculo Numérico",
+        "credits": 4,
+        "syllabus": "Aritmética do ponto flutuante. Zeros de funções reais. Interpolação: Integração numérica. Resolução de sistemas: lineares, não lineares e com restrições. Ajuste de dados e curvas, tratamento numérico de equações diferenciais.",
+        "reqs": [
+            [
+                {
+                    "code": "MA141"
+                },
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA033",
+            "FA470",
+            "FA673"
+        ]
+    },
+    {
+        "code": "FA379",
+        "name": "Introdução à Termodinâmica",
+        "credits": 2,
+        "syllabus": "História da termodinâmica. Energia e a engenharia agrícola. Conceitos básicos. Propriedades de substâncias puras. Tabelas de vapor. Equações do estado. Trabalho e calor. Primeira Lei. Balanços de energia, eficiências de Primeira Lei. Segunda Lei. Conceitos de exergia e irreversibilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA479"
+        ]
+    },
+    {
+        "code": "FA425",
+        "name": "Instrumentação Básica",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de instrumentação. Simbologia. Características estáticas de instrumentos. Calibração. Sensores. Condicionamento e aquisição de sinais. Válvulas e atuadores.",
+        "reqs": [
+            [
+                {
+                    "code": "F 329"
+                },
+                {
+                    "code": "FA370"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA577"
+        ]
+    },
+    {
+        "code": "FA470",
+        "name": "Dinâmica de Corpos Rígidos",
+        "credits": 3,
+        "syllabus": " Cinemática da partícula. Movimento relativo. Cinemática dos corpos rígidos nos movimentos plano e espacial. Princípios básicos da dinâmica: Leis de Newton. Conservação dos momentos linear a angular e conservação de energia. Cinética da partícula. Cinética dos sistemas de partículas. Cinética dos corpos rígidos nos movimentos plano e espacial. Aplicações em linguagem simbólica Matlab.",
+        "reqs": [
+            [
+                {
+                    "code": "EM306"
+                },
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "FA374"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA114",
+            "FA880"
+        ]
+    },
+    {
+        "code": "FA473",
+        "name": "Sistemas de Produção",
+        "credits": 5,
+        "syllabus": "Fatores de produção de plantas. Sistemas de cultivo de vegetais. Equipamentos e instalações para produção animal. Sistemas de produção animal.",
+        "reqs": [
+            [
+                {
+                    "code": "BT330"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA074",
+            "FA085",
+            "FA108",
+            "FA573",
+            "FA778"
+        ]
+    },
+    {
+        "code": "FA474",
+        "name": "Dinâmica de Sistemas",
+        "credits": 2,
+        "syllabus": "Introdução à modelagem de sistemas lineares. Modelagem de sistemas mecânicos, elétricos, térmicos e fluídicos. Linearização de sistemas não-lineares. Curvas de resposta de sistemas de primeira e segunda ordem. Estabilidade de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 329"
+                },
+                {
+                    "code": "MA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA075",
+            "FA076",
+            "FA113"
+        ]
+    },
+    {
+        "code": "FA479",
+        "name": "Termodinâmica Aplicada",
+        "credits": 2,
+        "syllabus": "Introdução aos Ciclos de Potência. Introdução aos Ciclos de Refrigeração. Bombas de Calor. Misturas. Psicrometria. Combustíveis e Reações Químicas. Introdução ao Equilíbrio Químico. Propriedades Coligativas.",
+        "reqs": [
+            [
+                {
+                    "code": "FA379"
+                },
+                {
+                    "code": "QG101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA673"
+        ]
+    },
+    {
+        "code": "FA481",
+        "name": "Características e Propriedades do Solo",
+        "credits": 4,
+        "syllabus": "O solo como um sistema sólido, poroso, heterogêneo e anisotrópico. Composição volumétrica do solo. Caracterização e métodos de determinação de atributos físicos, químicos e biológicos do solo. Granulometria e textura do solo. Estrutura e agregação do solo. Cor do solo. Porosidade do solo. Ar do solo. Regime térmico do solo. Densidade do solo e das partículas. Consistência do solo. Água do solo. Atributos químicos e de fertilidade do solo. Matéria orgânica do solo. Organismos do solo.",
+        "reqs": [
+            [
+                {
+                    "code": "FA373"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA067",
+            "FA564",
+            "FA622",
+            "FA665",
+            "FA983"
+        ]
+    },
+    {
+        "code": "FA503",
+        "name": "Meteorologia Agrícola",
+        "credits": 2,
+        "syllabus": "Meteorologia, climatologia, atmosfera terrestre, radiação solar, ciclo hidrológico, fotossíntese, posto meteorológico, zoneamento agrícola, planejamento das atividades agrícolas.",
+        "reqs": [
+            [
+                {
+                    "code": "BT330"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA622"
+        ]
+    },
+    {
+        "code": "FA520",
+        "name": "História e Desenvolvimento da Agricultura Brasileira",
+        "credits": 4,
+        "syllabus": "Fundamentos históricos da agricultura brasileira. Modernização da agricultura no Brasil. Caracterização da produção agrícola e agroindustrial. Política agrícola. Estrutura Agrária. Relações sociais na agricultura. Desenvolvimento agrícola e agroindustrial.",
+        "reqBy": [
+            "FA050",
+            "FA051",
+            "FA061",
+            "FA062",
+            "FA091",
+            "FA107",
+            "FA720"
+        ]
+    },
+    {
+        "code": "FA564",
+        "name": "Barragens e Estradas de Terra",
+        "credits": 2,
+        "syllabus": "Principais elementos de uma barragem de terra. Definição e determinação dos parâmetros a serem considerados em obras de barragens. Determinação das características de resistência ao cisalhamento e deformabilidade dos solos. Anteprojeto de pequena barragem de terra. Introdução ao estudo de estradas vicinais. Dimensionamento do volume de água e de reservatórios.",
+        "reqs": [
+            [
+                {
+                    "code": "FA481"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA030",
+            "FA041",
+            "FA680"
+        ]
+    },
+    {
+        "code": "FA573",
+        "name": "Laboratório de Máquinas Agrícolas",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de motores, máquinas e implementos agrícolas. Princípios, fundamentos e práticas sobre tratores agrícolas, máquinas e implementos de preparo do solo, semeadoras, adubadoras, cultivadores, colhedoras, pulverizadores e tecnologia de aplicação de produtos fitossanitários. Dimensionamento de frota levando em conta capacidade operacional das máquinas agrícolas.",
+        "reqs": [
+            [
+                {
+                    "code": "FA473"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA042",
+            "FA113",
+            "FA680",
+            "FA880"
+        ]
+    },
+    {
+        "code": "FA576",
+        "name": "Propriedades Mecânicas de Materiais Biológicos",
+        "credits": 2,
+        "syllabus": "Propriedades mecânicas de produtos agrícolas. Relações tensão-deformação. Lei de Hooke generalizada. Elasticidade e Viscoelasticidade linear. Teorias de ruptura. Índices de firmeza. Variabilidade de medidas em produtos agrícolas. Efeitos da vibração.",
+        "reqs": [
+            [
+                {
+                    "code": "EM406"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA052",
+            "FA880"
+        ]
+    },
+    {
+        "code": "FA577",
+        "name": "Propriedades Físicas dos Produtos Agrícolas",
+        "credits": 2,
+        "syllabus": "Caracterização das matérias-primas. Propriedades higroscópicas, gravimétricas, friccionais, aerodinâmicas e térmicas dos produtos agrícolas. Redução de tamanho.",
+        "reqs": [
+            [
+                {
+                    "code": "FA425"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA016",
+            "FA017",
+            "FA052",
+            "FA679",
+            "FA879",
+            "FA880"
+        ]
+    },
+    {
+        "code": "FA585",
+        "name": "Materiais e Tecnologia Mecânica",
+        "credits": 2,
+        "syllabus": "Materiais de construção mecânica, metálicos e não metálicos, obtenção, processamento e propriedades. Ensaios de materiais. Processos de fabricação por conformação mecânica. Fundição. Usinagem. Soldagem. Tratamento térmico. Tratamento superficial.",
+        "reqBy": [
+            "FA670",
+            "FA682",
+            "FA781"
+        ]
+    },
+    {
+        "code": "FA586",
+        "name": "Materiais de Construção Civil",
+        "credits": 2,
+        "syllabus": "Importância e história dos materiais de construção civil. Materiais cerâmicos, aglomerantes, aditivos, agregados, argamassas, concreto, madeira, aço. Comportamento mecânico e propriedades mecânicas do concreto, da madeira e do aço.",
+        "reqBy": [
+            "FA032",
+            "FA063",
+            "FA682",
+            "FA778"
+        ]
+    },
+    {
+        "code": "FA622",
+        "name": "Sistema Solo-Planta-Atmosfera",
+        "credits": 2,
+        "syllabus": "Relação solo-planta-atmosfera. Dinâmica na atmosfera. Radiação solar. Efeito da temperatura no desenvolvimento dos vegetais. Água no sistema vegetal. Balanço de energia, evaporação e transpiração vegetal. Mecanismo de controle de perda de água nos vegetais: controle estomático. Movimentação da água no solo. Absorção da água pelas raízes. Evolução dos mecanismos da tolerância das espécies vegetais à saturação hídrica e ao déficit hídrico no solo. Balanço hídrico. Balanço hidrológico. Modelagem e espacialização das relações solo-planta-atmosfera.",
+        "reqs": [
+            [
+                {
+                    "code": "FA481"
+                },
+                {
+                    "code": "FA503"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA786"
+        ]
+    },
+    {
+        "code": "FA665",
+        "name": "Geotecnologias I",
+        "credits": 3,
+        "syllabus": "Introdução ao geoprocessamento. Cartografia básica. Fotogrametria e fotointerpretação. Sensoriamento remoto. Sistemas de informações geográficas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV323"
+                },
+                {
+                    "code": "FA481"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA054",
+            "FA066",
+            "FA068",
+            "FA074",
+            "FA112",
+            "FA877"
+        ]
+    },
+    {
+        "code": "FA670",
+        "name": "Elementos de Máquinas",
+        "credits": 2,
+        "syllabus": "Resistência dos materiais à fadiga. Eixos e árvores. Chavetas. Elementos de união. Molas. Tolerância e Ajustes.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                },
+                {
+                    "code": "FA173"
+                },
+                {
+                    "code": "FA585"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA770"
+        ]
+    },
+    {
+        "code": "FA673",
+        "name": "Transferência de Calor e Massa",
+        "credits": 4,
+        "syllabus": "Condução unidimensional em regime permanente. Equações diferenciais. Condução em regime transiente. Transferência de calor por radiação. Transferência de calor por convecção. Trocador de calor. Fundamentos de transferência de massa. Difusão. Transferência interfacial. Transferência de massa convectiva. Equipamentos de transferência de massa.",
+        "reqs": [
+            [
+                {
+                    "code": "FA370"
+                },
+                {
+                    "code": "FA374"
+                },
+                {
+                    "code": "FA479"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA031",
+            "FA052",
+            "FA779",
+            "FA873",
+            "FA879"
+        ]
+    },
+    {
+        "code": "FA676",
+        "name": "Hidráulica Geral",
+        "credits": 5,
+        "syllabus": "Propriedades físicas da água. Fundamentos de hidrostática e hidrodinâmica. Orifícios, bocais e tubos curtos. Escoamento em condutos forçados. Sistemas de bombeamento. Golpe de aríete. Reservatórios interligados. Redes de distribuição de água. Condutos livres. Hidrometria.",
+        "reqs": [
+            [
+                {
+                    "code": "FA370"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA041",
+            "FA059",
+            "FA786",
+            "FA876",
+            "FA972"
+        ]
+    },
+    {
+        "code": "FA679",
+        "name": "Tecnologia de Processos Pós-Colheita I",
+        "credits": 4,
+        "syllabus": "Noções de bioquímica relacionadas à tecnologia pós-colheita. Fatores de pré e pós-colheita. Índices de maturação. Respiração. Modelos respiratórios. Relações térmicas e hídricas. Manutenção da qualidade. Operações do beneficiamento. Tecnologia de conservação.",
+        "reqs": [
+            [
+                {
+                    "code": "FA577"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA043",
+            "FA044",
+            "FA052",
+            "FA779"
+        ]
+    },
+    {
+        "code": "FA680",
+        "name": "Relação Trator-Implemento",
+        "credits": 2,
+        "syllabus": "Princípios de distribuição de tensões no solo. Determinação da reação do solo devido a ação de implementos de preparo. Sistemas de preparo do solo: plantio convencional, plantio reduzido, plantio ou semeadura direta. Forças atuantes em implementos agrícolas. Acoplamento do implemento ao trator. Mecânica da relação veículo-solo. Compactação de solos sob a ação de máquinas e implementos agrícolas, causas e efeitos. Desempenho de pneus e rodas, resistência ao rolamento, capacidade de carga de um solo, patinagem, desempenho conjunto trator-implemento.",
+        "reqs": [
+            [
+                {
+                    "code": "FA564"
+                },
+                {
+                    "code": "FA573"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA682",
+        "name": "Modelagem Estrutural Aplicada",
+        "credits": 2,
+        "syllabus": "Princípios do projeto estrutural. Tópicos de elasticidade aplicada. Métodos dos deslocamentos. Introdução ao método dos elementos finitos. Utilização de programas computacionais. Simulação do comportamento estrutural de máquinas e estruturas agrícolas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                },
+                {
+                    "code": "FA273"
+                },
+                {
+                    "code": "FA585"
+                },
+                {
+                    "code": "FA586"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA024",
+            "FA032",
+            "FA116",
+            "FA782",
+            "FA870"
+        ]
+    },
+    {
+        "code": "FA720",
+        "name": "Fundamentos de Economia",
+        "credits": 2,
+        "syllabus": "Introdução à macroeconomia (medidas da atividade econômica: produto, renda, consumo, poupança, investimento, exportações e importações). População, emprego e renda: mercado de trabalho, desigualdades sociais e econômicas. Importância e papel da agricultura no desenvolvimento econômico e social. Mercados e transações. Economia informal.",
+        "reqs": [
+            [
+                {
+                    "code": "FA520"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA062",
+            "FA082",
+            "FA091",
+            "FA093"
+        ]
+    },
+    {
+        "code": "FA721",
+        "name": "Engenharia Econômica",
+        "credits": 2,
+        "syllabus": "Conceitos econômicos introdutórios. Matemática financeira. Custos. Análise de investimentos. Fluxo de caixa. Métodos de Comparação de alternativas de investimento e métodos de decisão. Efeito da incidência de impostos na avaliação econômica. Análise financeira e alavancagem. Análise de incerteza e de riscos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA082",
+            "FA095"
+        ]
+    },
+    {
+        "code": "FA733",
+        "name": "Fundamentos de Microbiologia e Qualidade de Água",
+        "credits": 2,
+        "syllabus": "Conceituação básica sobre microbiologia aplicada à pós-colheita de produtos agrícolas e ao saneamento ambiental. Conhecimentos de fundamentos de hidrobiologia. Conhecimentos fundamentais de química da água.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA874"
+        ]
+    },
+    {
+        "code": "FA770",
+        "name": "Elementos de Transmissões Mecânicas",
+        "credits": 2,
+        "syllabus": "Conceitos de elementos de transmissão, eficiência de transmissão; Correias. Correntes, Engrenagens; elementos reguladores de movimento, eixos flexíveis.",
+        "reqs": [
+            [
+                {
+                    "code": "FA670"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA113"
+        ]
+    },
+    {
+        "code": "FA778",
+        "name": "Construções Rurais para a Produção Animal",
+        "credits": 2,
+        "syllabus": "Instalações e equipamentos para a produção animal: aves, suínos, bovinos de leite e corte, ovinos e caprinos, equinos, coelhos e outras instalações.",
+        "reqs": [
+            [
+                {
+                    "code": "FA473"
+                },
+                {
+                    "code": "FA586"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA873"
+        ]
+    },
+    {
+        "code": "FA779",
+        "name": "Tecnologia de Resfriamento para Produtos Hortícolas",
+        "credits": 2,
+        "syllabus": "A refrigeração e a conservação de produtos hortícolas. A Cadeia do Frio. Sistemas de refrigeração e elementos que o compõem. Cálculo de carga térmica em câmaras refrigeradas. Câmaras de armazenamento. Dimensionamento de câmaras. Seleção de equipamentos e acessórios. Sistemas de resfriamento rápido com ar forçado e com água. Dimensionamento. Transporte frigorífico de frutas e hortaliças. Tempo de resfriamento, determinação teórica e experimental. Custos de resfriamento. Seleção de sistemas. Viabilidade econômica.",
+        "reqs": [
+            [
+                {
+                    "code": "FA673"
+                },
+                {
+                    "code": "FA679"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA780",
+        "name": "Instalações Elétricas para Sistemas Agroindustriais",
+        "credits": 4,
+        "syllabus": "Noções básicas sobre geração, transmissão e distribuição de energia elétrica. Linhas de distribuição e ramais rurais. Instalações elétricas em baixa tensão. Sinalização, comando e proteção de circuitos elétricos em baixa tensão. Instrumentos de medidas elétricas. Sistemas de medição e modalidades tarifárias de energia elétrica.",
+        "reqs": [
+            [
+                {
+                    "code": "ET016"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA031",
+            "FA041"
+        ]
+    },
+    {
+        "code": "FA781",
+        "name": "Elementos de Máquinas para Engenharia Agrícola",
+        "credits": 4,
+        "syllabus": "Resistência dos materiais à fadiga. Eixos e árvores. Chavetas. Elementos de união. Molas. Tolerância e Ajustes.Conceitos  de  elementos  de  transmissão,  eficiência  de  transmissão;  Correias.  Correntes,  Engrenagens;  elementos  reguladores  de movimento, eixos flexíveis.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                },
+                {
+                    "code": "FA173"
+                },
+                {
+                    "code": "FA585"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA880"
+        ]
+    },
+    {
+        "code": "FA782",
+        "name": "Dimensionamento de Estruturas de Concreto",
+        "credits": 3,
+        "syllabus": "Esquema estático do projeto estrutural; Dimensionamento de lajes, vigas, pilares e fundações; Projeto de estrutura de concreto.",
+        "reqs": [
+            [
+                {
+                    "code": "FA682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA786",
+        "name": "Hidrologia Ciência e Aplicação",
+        "credits": 2,
+        "syllabus": "Precipitação, infiltração e evapotranspiração em bacias hidrográficas.",
+        "reqs": [
+            [
+                {
+                    "code": "FA622"
+                },
+                {
+                    "code": "FA676"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA021",
+            "FA972"
+        ]
+    },
+    {
+        "code": "FA870",
+        "name": "Dimensionamento de Estruturas de Madeira",
+        "credits": 3,
+        "syllabus": "Esforços e resistência de projeto; Dimensionamento de peças estruturais submetidas a esforços de tração, compressão, cisalhamento e flexão. Efeito do vento. Projeto de uma estrutura de madeira.",
+        "reqs": [
+            [
+                {
+                    "code": "FA682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA873",
+        "name": "Ambientes para Animais e Plantas",
+        "credits": 3,
+        "syllabus": "Respostas fisiológicas: animal e vegetal em ambientes protegidos. Cálculo da carga térmica. Ventilação natural. Ventilação forçada. Ambientes para a produção vegetal.",
+        "reqs": [
+            [
+                {
+                    "code": "FA673"
+                },
+                {
+                    "code": "FA778"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA006"
+        ]
+    },
+    {
+        "code": "FA874",
+        "name": "Saneamento Ambiental",
+        "credits": 3,
+        "syllabus": "Tecnologias e abastecimento de águas. Identificação de fontes de poluição agrícola, zootécnica e agroindustrial. Conceituação das propriedades físicas, químicas e biológicas dos resíduos. Conhecimentos básicos sobre operações e processos unitários. Conceituação e discussão das tecnologias para tratamento de águas residuárias. Discussão de propostas para controle e disposição de resíduos sólidos. Análise e discussão de alternativas para reciclagem de resíduos.",
+        "reqs": [
+            [
+                {
+                    "code": "FA733"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA001",
+            "FA111"
+        ]
+    },
+    {
+        "code": "FA876",
+        "name": "Técnicas de Irrigação",
+        "credits": 3,
+        "syllabus": "Relação Solo-Água-Planta; Sistemas de irrigação por aspersão, localizada e por superfície; Manejo da irrigação.",
+        "reqs": [
+            [
+                {
+                    "code": "FA676"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA002"
+        ]
+    },
+    {
+        "code": "FA877",
+        "name": "Planejamento Agrícola",
+        "credits": 3,
+        "syllabus": "Gestão da empresa agrícola. O papel do planejamento na gestão (áreas funcionais, níveis e etapas). Produção agrícola. Planejamento agrícola e seus componentes: planejamento do uso do solo (zoneamento), planejamento da produção (setores e variedades) e planejamento anual das atividades. Softwares para planejamento e controle.",
+        "reqs": [
+            [
+                {
+                    "code": "FA665"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA095"
+        ]
+    },
+    {
+        "code": "FA878",
+        "name": "Introdução ao Gerenciamento de Projetos",
+        "credits": 3,
+        "syllabus": "Solução de Problemas Complexos. Conceitos básicos de gerenciamento de projetos. Os macroprocessos de gerenciamento: iniciação, planejamento, execução, controle e encerramento. Áreas de conhecimento do gerenciamento de projetos: escopo, tempo, custo, qualidade, comunicações, riscos, recursos humanos e suprimentos. As relações dentro da equipe. O gerente e seu papel. Os benefícios do gerenciamento de projetos. Utilização de \"software\" para gerenciamento de projetos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA879",
+        "name": "Tecnologia de Processos Pós-Colheita II",
+        "credits": 4,
+        "syllabus": "Alteração da qualidade na secagem. Psicrometria aplicada à secagem. Teoria de movimentação de ar. Princípios de secagem. Modelos de secagem em leito fixo. Cinética de secagem. Modelo diferencial. Sistemas de Secagem e Secadores. Simulação de secagem. Prática de secagem de grãos. Instalações e custos de secagem.",
+        "reqs": [
+            [
+                {
+                    "code": "FA577"
+                },
+                {
+                    "code": "FA673"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA018",
+            "FA019",
+            "FA979"
+        ]
+    },
+    {
+        "code": "FA880",
+        "name": "Princípios de Operação de Máquinas Agrícolas",
+        "credits": 3,
+        "syllabus": "Princípios mecânicos de corte: cisalhamento, inercial e não-convencionais a laser e jato de água. Fragmentação do solo: arados fixos e rotativos. Fragmentação de fluídos, aspersão e pulverização. Seguimento do perfil do solo para o corte ou catação de produtos agrícolas rasteiros. Rolos convergentes (\"snappers\"): descascadores de arroz e despalhadores. Elevadores de canecas: trajetória. Transporte vibratório: mesa gravitacional. Adensamento de biomassa: enfardamento, briquetagem e pelitização. Dosagem e agitação de agroquímicos fluídos. Dosagem de sementes e agroquímicos granulados.",
+        "reqs": [
+            [
+                {
+                    "code": "FA470"
+                },
+                {
+                    "code": "FA573"
+                },
+                {
+                    "code": "FA576"
+                },
+                {
+                    "code": "FA577"
+                },
+                {
+                    "code": "FA781"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA028",
+            "FA073"
+        ]
+    },
+    {
+        "code": "FA972",
+        "name": "Drenagem de Solos Agrícolas",
+        "credits": 2,
+        "syllabus": "Estudos básicos para caracterização de problemas de drenagem agrícola; métodos de drenagem e dimensionamento de sistemas de drenagem superficial e subterrânea.",
+        "reqs": [
+            [
+                {
+                    "code": "FA676"
+                },
+                {
+                    "code": "FA786"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA979",
+        "name": "Tecnologia de Processos Pós-Colheita III",
+        "credits": 4,
+        "syllabus": "Sistema agroindustrial brasileiro. Agentes do sistema. Governo, instituições de pesquisa, indústria, consumidor. Legislação: normas de qualidade para comercialização de produtos agrícolas. Mecanismos de comercialização. Pré-limpeza, limpeza e beneficiamento. Definição, Princípios e equipamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "FA879"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FA983",
+        "name": "Manejo e Conservação do Solo",
+        "credits": 3,
+        "syllabus": "Sustentabilidade e uso sustentável em agricultura. Introdução ao planejamento do uso das terras e ao planejamento conservacionista. Metodologias de avaliação de terras para fins agrícolas. Mecanização, sistemas de manejo agrícola e qualidade do solo. Degradação da qualidade do solo. Erosão do solo. Conservação do solo e da água. Legislação em conservação do solo e da água.",
+        "reqs": [
+            [
+                {
+                    "code": "FA481"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA068",
+            "FA081"
+        ]
+    },
+    {
+        "code": "FA984",
+        "name": "Introdução ao Trabalho de Conclusão de Curso",
+        "credits": 2,
+        "syllabus": "Idealização dos procedimentos para resolução de um caso (problematização). Elaboração do anteprojeto. Estudo de indicadores de viabilidade técnica e socioeconômica. Cronograma de atividades. Apresentação do anteprojeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "FA985"
+        ]
+    },
+    {
+        "code": "FA985",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 2,
+        "syllabus": "Desenvolvimento do projeto a partir do anteprojeto definido em FA984 Introdução ao Trabalho de Conclusão de Curso. Elaboração da Monografia. Apresentação da monografia.",
+        "reqs": [
+            [
+                {
+                    "code": "FA984"
+                }
+            ]
+        ]
+    }
+]

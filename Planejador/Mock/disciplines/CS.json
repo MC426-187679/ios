@@ -1,0 +1,1258 @@
+[
+    {
+        "code": "CS001",
+        "name": "Projeto em Fotografia",
+        "credits": 6,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham, individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção, conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS102"
+                },
+                {
+                    "code": "CS104"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS004",
+        "name": "Projeto em Produção Sonora",
+        "credits": 6,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham, individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção, conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS300"
+                },
+                {
+                    "code": "CS301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS006",
+        "name": "Tópicos Especiais em Cinema I",
+        "credits": 4,
+        "syllabus": "Propiciar abordagens temáticas e de gêneros diferenciadas em relação ao cinema; discussão e interpretação de filmografias fundamentais neste meio audiovisual. Dedica-se aos estudos de obras tanto quanto à realização de produtos cinematográficos."
+    },
+    {
+        "code": "CS007",
+        "name": "Tópicos Especiais em Cinema II",
+        "credits": 4,
+        "syllabus": "Propiciar abordagem temáticas e de gêneros diferenciadas em relação ao cinema; discussão e interpretação de filmografias fundamentais neste meio audiovisual. Dedica-se a estudos de obras tanto quanto à realização de produtos cinematográficos."
+    },
+    {
+        "code": "CS008",
+        "name": "Tópicos Especiais em Cinema Brasileiro I",
+        "credits": 4,
+        "syllabus": "Proporcionar a reflexão sobre aspectos da cultura brasileira, por meio do discurso cinematográfico. Realizar recortes no imaginário produzido/refletido na produção cinematográfica, visando compreender suas relações com os processos histórico, social e político. Por meio dos filmes, explorar as questões que envolvem os conceitos de nacional, popular e as políticas de identidade nas representações audiovisuais. Discutir as relações entre cultura de massa, cultura de rede e sociedade."
+    },
+    {
+        "code": "CS009",
+        "name": "Tópicos Especiais em Cinema Brasileiro II",
+        "credits": 4,
+        "syllabus": "Proporcionar a reflexão sobre aspectos da cultura brasileira, por meio do discurso cinematográfico. Realizar recortes no imaginário produzido/refletido na produção cinematográfica, visando compreender suas relações com os processos histórico, social e político. Por meio dos filmes, explorar as questões que envolvem os conceitos de nacional, popular e as políticas de identidade nas representações audiovisuais. Discutir as relações entre cultura de massa, cultura de rede e sociedade."
+    },
+    {
+        "code": "CS011",
+        "name": "Tópicos Especiais em Fotografia",
+        "credits": 4,
+        "syllabus": "Propiciar abordagens de temáticas e de gêneros diferenciados em relação à fotografia. A questão autoral na fotografia; apresentação do trabalho de fotógrafos referenciais no conjunto da expressão fotográfica. Estudo do conjunto do trabalho de um fotógrafo ou de uma época específica da História da Fotografia. Aprofundamento técnico."
+    },
+    {
+        "code": "CS014",
+        "name": "Tópicos Especiais em Internet/Multimídia",
+        "credits": 4,
+        "syllabus": "Estudo do desenvolvimento de produtos para ambientes virtuais na Web. Integração das mídias e suas possíveis convergências. Desenvolvimento dos aplicativos de multimídia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS015",
+        "name": "Tópicos Especiais em Midialogia I",
+        "credits": 4,
+        "syllabus": "Analisar situações de configuração contemporânea das redes de comunicação."
+    },
+    {
+        "code": "CS017",
+        "name": "Projeto de Iniciação Científica",
+        "credits": 8,
+        "syllabus": "Destina-se ao desenvolvimento de projeto de Iniciação Científica com bolsa de agência de fomento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS018",
+        "name": "Arte e Tecnologia",
+        "credits": 4,
+        "syllabus": "Nesta disciplina pretende-se traçar um panorama e fazer uma reflexão sobre as diferentes utilizações e manifestações artísticas possibilitadas pelas novas mídias audiovisuais."
+    },
+    {
+        "code": "CS019",
+        "name": "Tópicos Especiais em Midialogia III",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS020",
+        "name": "Tópicos Especiais em Midialogia IV",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS021",
+        "name": "Tópicos Especiais em Fotografia II",
+        "credits": 4,
+        "syllabus": "Propiciar abordagens de temáticas e de gêneros diferenciados em relação à fotografia. A questão autoral na fotografia; apresentação do trabalho de fotógrafos referenciais no conjunto da expressão fotográfica. Estudo do conjunto do trabalho de um fotógrafo ou de uma época específica da História da Fotografia. Aprofundamento técnico."
+    },
+    {
+        "code": "CS024",
+        "name": "Tópicos Especiais em Internet/Multimídia II",
+        "credits": 4,
+        "syllabus": "A empresa de televisão (mídia), os compromissos entre as atividades lucrativas e a geração da informação. Produto da televisão (mídia) e mercadoria da televisão (mídia). Mídia e informação no século XX. O papel das mídias corporativas, populares e comunitárias na construção da informação. Informação e mercado. Informação e Estado. As tecnologias da informação. Educação à distância e mídias emergentes."
+    },
+    {
+        "code": "CS025",
+        "name": "Oficina de Produção Audiovisual",
+        "credits": 2,
+        "syllabus": "Gestão das demandas operacionais e financeiras do produto audiovisual."
+    },
+    {
+        "code": "CS026",
+        "name": "Oficina de Direção de Fotografia",
+        "credits": 2,
+        "syllabus": "Projeto e realização da produção fotográfica dentro da obra audiovisual. Técnica, linguagem e projeto estético em direção de fotografia para imagem e som em movimento. A direção de fotografia e o audiovisual brasileiro."
+    },
+    {
+        "code": "CS027",
+        "name": "Oficina de Direção de Arte",
+        "credits": 2,
+        "syllabus": "Disciplina oferecida de par com um projeto integrado. Projeto e realização de todos os elementos visuais da obra audiovisual."
+    },
+    {
+        "code": "CS028",
+        "name": "Tópicos Especiais em Midialogia III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS029",
+        "name": "Tópicos Especiais em Midialogia V",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS030",
+        "name": "Estudos Dirigidos II",
+        "credits": 2,
+        "syllabus": "Conjunto de leituras, atividades e orientação correlato aos projetos de pesquisa em andamento, propostos pelos professores do curso."
+    },
+    {
+        "code": "CS031",
+        "name": "Estudos Dirigidos I",
+        "credits": 2,
+        "syllabus": "Conjunto de leituras, atividades e orientações correlato aos projetos de pesquisa em andamento, propostas pelos professores do curso."
+    },
+    {
+        "code": "CS032",
+        "name": "Monitoria",
+        "credits": 4,
+        "syllabus": "Trabalho de Monitoria para auxiliar o docente responsável pela disciplina CS, na orientação de atividades didáticas, exercícios práticos e/ou em laboratório, leituras, seminários, pesquisas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS033",
+        "name": "Difusão Cultural e Tecnológica em Midialogia",
+        "credits": 2,
+        "syllabus": "Seminários e/ou Palestras sobre temas culturais, conceituais, tecnológicos relativos à área das Mídias Audiovisuais."
+    },
+    {
+        "code": "CS034",
+        "name": "Tópicos Especiais em Midialogia VI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS035",
+        "name": "Tópicos Especiais em Midialogia VII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS036",
+        "name": "Tópicos Especiais em Midialogia VIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS037",
+        "name": "Tópicos Especiais em Midialogia IX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS038",
+        "name": "Tópicos Especiais em Midialogia X",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS039",
+        "name": "Oficina de Roteiro I",
+        "credits": 2,
+        "syllabus": "Oferecer noções teóricas, técnicas e artísticas que capacitem à elaboração de textos (argumentos, roteiros, estruturas dramáticas) para meios audiovisuais. Desenvolver a imaginação com disciplina técnica. Exercícios práticos. Desenvolvimento de projetos.",
+        "reqBy": [
+            "CS040",
+            "CS504"
+        ]
+    },
+    {
+        "code": "CS040",
+        "name": "Oficina de Roteiro II",
+        "credits": 2,
+        "syllabus": "Oferecer noções teóricas, técnicas e artísticas que capacitem à elaboração de textos (argumentos, roteiros, estruturas dramáticas) para meios audiovisuais. Desenvolver a imaginação com disciplina técnica. Exercícios práticos. Desenvolvimento de projetos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS039"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS504"
+        ]
+    },
+    {
+        "code": "CS041",
+        "name": "Projeto de Cinema I",
+        "credits": 2,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS304"
+                }
+            ],
+            [
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS042",
+            "CS042"
+        ]
+    },
+    {
+        "code": "CS042",
+        "name": "Projeto de Cinema II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS041"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS304"
+                }
+            ],
+            [
+                {
+                    "code": "CS041"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS043",
+        "name": "Projetos Especiais",
+        "credits": 6,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores."
+    },
+    {
+        "code": "CS044",
+        "name": "Projeto em Produção Sonora I",
+        "credits": 2,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS300"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS045"
+        ]
+    },
+    {
+        "code": "CS045",
+        "name": "Projeto em Produção Sonora II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS044"
+                },
+                {
+                    "code": "CS300"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS046",
+        "name": "Projeto em TV e Vídeo I",
+        "credits": 2,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham, individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção, pós-produção, conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS302"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS047"
+        ]
+    },
+    {
+        "code": "CS047",
+        "name": "Projeto em TV e Vídeo II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham, individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção, conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizads no DMM/IA e/ou discussões entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS046"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS048",
+        "name": "Tópicos Especiais em Midialogia XI",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS049",
+        "name": "Tópicos Especiais em Midialogia XII",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de Multimeios, Mídia e Comunicação e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CS050",
+        "name": "Teledramaturgia",
+        "credits": 4,
+        "syllabus": "A televisão em sua dinâmica de programação necessita de um leque grande de formatos televisivos. Desde muito cedo a televisão incorporou e se adaptou as mais diversas artes e mídias narrativas: a literatura, o rádio, o cinema, o folhetim. Aos poucos desenvolveu determinados formatos de características ficcionais em sua grade de programação. A disciplina discute o papel da produção ficcional na televisão, à disposição do público.",
+        "reqs": [
+            [
+                {
+                    "code": "CS302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS052",
+        "name": "Fotografia II",
+        "credits": 4,
+        "syllabus": "Desenvolve noções de técnicas fotográficas avançadas. Discussões e experimentações com suportes fotográficos: suportes tradicionais, produção de suportes, roteiro e narrativas fotográficas. Fotografia e arte contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "CS102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS053",
+        "name": "Mídia e Documentário",
+        "credits": 4,
+        "syllabus": "Abordagem teórica e histórica sobre o desenvolvimento do filme documentário, nos contextos mundial e nacional. As fases e modalidades do documentário. O documentário e a ideia de vanguarda. A institucionalização do documentário. As revoluções do Cinema Direto e Cinema Verdade. O documentário no contexto do cinema moderno. Autoria e documentário. O documentário e a televisão. O papel do vídeo na linguagem e nas apropriações contemporâneas do formato. O documentário e as mídias digitais."
+    },
+    {
+        "code": "CS054",
+        "name": "Teleficção",
+        "credits": 4,
+        "syllabus": "A televisão em sua dinâmica de programação necessita de um leque grande de formatos televisivos. Desde muito cedo a televisão incorporou e se adaptou as mais diversas artes e mídias narrativas: a literatura, o rádio, o cinema, o folhetim. Aos poucos desenvolveu determinados formatos de características ficcionais em sua grade de programação. A disciplina discute o papel da produção ficcional da televisão, à disposição do público."
+    },
+    {
+        "code": "CS055",
+        "name": "Poéticas da Imagem",
+        "credits": 4,
+        "syllabus": "O poético e a imagem planar; recodificação e intertextualidade; o projeto criativo e a imagem-máquina. Teorias da imagem: modernidade e pós-modernidade. Processos de produção de imagens técnicas e digitais. Visionamento e interpretação de imagens."
+    },
+    {
+        "code": "CS059",
+        "name": "Documentário: História, Teoria e Análise",
+        "credits": 4,
+        "syllabus": "Abordagem teórica e histórica  sobre o desenvolvimento do filme documentário, nos contextos mundial e nacional. As fases e modalidades do documentário. O documentário e a ideia de vanguarda. A institucionalização do documentário. As revoluções do Cinema Direto e Cinema Verdade. O documentário no contexto do cinema moderno. Autoria e documentário. O documentário e a televisão. O papel do vídeo na linguagem e nas apropriações contemporâneas do formato. O documentário e as mídias digitais. "
+    },
+    {
+        "code": "CS060",
+        "name": "Projetos Especiais II",
+        "credits": 6,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina pode ser oferecida por 1 ou mais professores simultaneamente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS061",
+        "name": "Projetos Especiais III - I",
+        "credits": 2,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina pode ser oferecida por 1 ou mais professores simultaneamente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS062"
+        ]
+    },
+    {
+        "code": "CS062",
+        "name": "Projetos Especiais III - II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina pode ser oferecida por 1 ou mais professores simultaneamente. A disciplina é um desdobramento da CS061.",
+        "reqs": [
+            [
+                {
+                    "code": "CS061"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS063",
+        "name": "Projetos Especiais IV - I",
+        "credits": 2,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina pode ser oferecida por 1 ou mais professores simultaneamente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS064"
+        ]
+    },
+    {
+        "code": "CS064",
+        "name": "Projetos Especiais IV - II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina pode ser oferecida por 1 ou mais professores simultaneamente. A disciplina é um desdobramento da CS063.",
+        "reqs": [
+            [
+                {
+                    "code": "CS063"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS065",
+        "name": "Projetos Integrados I - I",
+        "credits": 2,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina deve ser oferecida por 2 ou mais professores simultaneamente, integrando duas ou mais áreas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS066"
+        ]
+    },
+    {
+        "code": "CS066",
+        "name": "Projetos Integrados I - II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina deve ser oferecida por 2 ou mais professores simultaneamente, integrando duas ou mais áreas. A disciplina é um desdobramento da CS065.",
+        "reqs": [
+            [
+                {
+                    "code": "CS065"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS067",
+        "name": "Projetos Integrados II - I",
+        "credits": 2,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina deve ser oferecida por 2 ou mais professores simultaneamente, integrando duas ou mais áreas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS068"
+        ]
+    },
+    {
+        "code": "CS068",
+        "name": "Projetos Integrados II - II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina deve ser oferecida por 2 ou mais professores simultaneamente, integrando duas ou mais áreas. A disciplina é um desdobramento da CS067.",
+        "reqs": [
+            [
+                {
+                    "code": "CS067"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS069",
+        "name": "Projetos Integrados III - I",
+        "credits": 2,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina deve ser oferecida por 2 ou mais professores simultaneamente, integrando duas ou mais áreas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS070"
+        ]
+    },
+    {
+        "code": "CS070",
+        "name": "Projetos Integrados III - II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina deve ser oferecida por 2 ou mais professores simultaneamente, integrando duas ou mais áreas. A disciplina é um desdobramento da CS069.",
+        "reqs": [
+            [
+                {
+                    "code": "CS069"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS071",
+        "name": "Projetos Integrados IV",
+        "credits": 6,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina deve ser oferecida por 2 ou mais professores simultaneamente, integrando duas ou mais áreas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS072",
+        "name": "Projetos Integrados V",
+        "credits": 6,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho e/ou desempenham individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação nesta área - pré-produção, produção e pós-produção; conhecimento técnico e de planejamentos administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores. A disciplina deve ser oferecida por 2 ou mais professores simultaneamente, integrando duas ou mais áreas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CS073"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS073",
+        "name": "Projeto em Narrativas Digitais I",
+        "credits": 4,
+        "syllabus": "Compreensão da integração das mídias digitais emergentes e suas possíveis convergências. Fundamentação voltada ao desenvolvimento de aplicativos para os suportes digitais. Análise e discussão das concepções de produção de narrativas digitais com as mídias emergentes. Avaliação das implicações cognitivas e no campo do conhecimento dessas tecnologias.",
+        "reqs": [
+            [
+                {
+                    "code": "CS305"
+                }
+            ],
+            [
+                {
+                    "code": "CS508"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS014",
+            "CS060",
+            "CS061",
+            "CS063",
+            "CS065",
+            "CS067",
+            "CS069",
+            "CS071",
+            "CS072",
+            "CS074"
+        ]
+    },
+    {
+        "code": "CS074",
+        "name": "Projeto em Narrativas Digitais II",
+        "credits": 4,
+        "syllabus": "Disciplina de caráter experimental. Os alunos formam equipes de trabalho  e/ou desempenham, individualmente as funções de cada projeto. O curso possibilita vivência em um processo de criação utilizando os suportes digitais - pré produção, produção e pós-produção, conhecimento técnico e de planejamento administrativo, econômico e executivo. Seu programa é definido em função das pesquisas realizadas no DMM/IA e/ou discussões entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "CS073"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS091",
+        "name": "Análise Fílmica  I",
+        "credits": 4,
+        "syllabus": "A disciplina desenvolverá instrumental para a análise do campo sonoro e visual das imagens em movimento que compõem a tradição fílmica. O objetivo desta disciplina é ensinar o aluno a \"ver\" e a \"ouvir\" um filme, a partir de metodologia determinada. Ênfase será dada ao trabalho de análise dos procedimentos estilísticos característicos [narrativa clássica] da tradição fílmica: a disposição de planos através de procedimentos de raccord e falso raccord, a composição da continuidade espacial, profundidade de campo, campo-contracampo, plano sequência, exploração do espaço fora de campo, etc."
+    },
+    {
+        "code": "CS092",
+        "name": "Análise Fílmica II",
+        "credits": 4,
+        "syllabus": "O objetivo desta disciplina é aprofundar a metodologia de análise fílmica iniciada em Análise Fílmica I. Serão abordados com maior detalhamento os fundamentos epistemológicos que sustentam a análise fílmica, explorando-se diferentes perspectivas teóricas a partir das quais a análise de filmes é trabalhada."
+    },
+    {
+        "code": "CS093",
+        "name": "Comunicação, Arte, Cultura e Sociedade",
+        "credits": 3,
+        "syllabus": "Estudo das relações entre os meios audiovisuais, a cultura de massa e a arte, notando de que maneiras tais relações redimensionam historicamente o imaginário social entre os séculos XIX e XXI, nos contextos nacional e internacional. Estudo dos meios audiovisuais, por intermédio da produção, difusão, reapropriação, interpretação e ressignificação das imagens na sociedade, na passagem do analógico para o digital, e a formação de uma cultura de convergência."
+    },
+    {
+        "code": "CS094",
+        "name": "Cinema e Tecnologias Digitais",
+        "credits": 4,
+        "syllabus": "Centrada em uma abordagem dinâmica das novas potencialidades imagéticas e sonoras que as tecnologias digitais abrem para a imagem cinematográfica, trabalhando os seguintes fatores: a) time code e bases de referência numéricas; b) princípios de separação cromática em películas cinematográficas e suportes digitais; c) luminância; d) definição da imagem em digital e analógico; e) princípios de captação em digital para cinema; f) aspectos estéticos e econômicos do cinema digital."
+    },
+    {
+        "code": "CS100",
+        "name": "Cultura Moderna e Imagem",
+        "credits": 4,
+        "syllabus": "Analisar e discutir historicamente a configuração da imagem entre os séculos XV - XIX, marcando a elaboração da perspectiva, seus usos e significados simbólicos até a desestruturação desse campo representacional no século XIX. O nascimento do olhar moderno e da imagem indicial.",
+        "reqBy": [
+            "CS601"
+        ]
+    },
+    {
+        "code": "CS102",
+        "name": "Fotografia I",
+        "credits": 4,
+        "syllabus": "Introdução aos conceitos da técnica e da linguagem fotográfica. História da fotografia: a fotografia como arte e como comunicação. Desenvolvimento da criatividade fotográfica, produção e elaboração de um portfólio.",
+        "reqBy": [
+            "CS001",
+            "CS052",
+            "CS203",
+            "CS306",
+            "CS402"
+        ]
+    },
+    {
+        "code": "CS103",
+        "name": "Teorias da Comunicação",
+        "credits": 4,
+        "syllabus": "Apresenta as diversas correntes interpretativas e teóricas a propósito dos meios de comunicação e da comunicação social. Enfatiza-se também sua construção histórica e social. As relações entre os meios de comunicação de massas e os processos culturais. As teorias de comunicação e as redes de cultura e de informação. A comunicação social e a cultura brasileira."
+    },
+    {
+        "code": "CS104",
+        "name": "História da Fotografia",
+        "credits": 4,
+        "syllabus": "Abordagem das múltiplas e simultâneas ações que resultaram nas descobertas fotográficas. O surgimento da fotografia. Os diferentes suportes e processos fotográficos e suas implicações estéticas. A fotografia no Brasil. Os principais fotógrafos do século XIX e do século XX que contribuíram para o desenvolvimento da técnica e novas formas de expressão fotográfica. A história da fotografia vista do ponto de vista autoral.",
+        "reqBy": [
+            "CS001"
+        ]
+    },
+    {
+        "code": "CS105",
+        "name": "Elementos Fundamentais de Matemática",
+        "credits": 4,
+        "syllabus": "Fundamentos matemáticos voltados para aplicação na área de comunicação e tecnologia da informação."
+    },
+    {
+        "code": "CS106",
+        "name": "Métodos e Técnicas de Pesquisa e de Desenvolvimento de Produtos em Midialogia",
+        "credits": 4,
+        "syllabus": "A disciplina tem como objetivos discutir e realizar trabalhos práticos sobre os seguintes assuntos: método científico e técnicas de pesquisa, pesquisa científica, normas da ABNT, a linguagem científica, monografias, artigos, relatórios, realização de projetos e método científico aplicado ao campo da comunicação."
+    },
+    {
+        "code": "CS107",
+        "name": "Introdução ao Pensamento Computacional",
+        "credits": 4,
+        "syllabus": "Fundamentos matemáticos voltados para aplicação na área de comunicação e tecnologia da informação."
+    },
+    {
+        "code": "CS200",
+        "name": "Captação e Edição de Áudio",
+        "credits": 4,
+        "syllabus": "Discutir sobre os processos de gravação e registro sonoro e de produção sonora em ambiente analógico e digital. Contextualizar sobre a importância do material  sonoro nas diversas produções de mídias audiovisuais e/ou suportes digitais, visando a instrumentalização para o conhecimento básico sobre as tecnologias de produção sonora e habilitar para a manipulação básica de material sonoro gravado em ambiente digital e sua utilização nas diversas mídias existentes.",
+        "reqBy": [
+            "CS300"
+        ]
+    },
+    {
+        "code": "CS201",
+        "name": "Teorias do Signo",
+        "credits": 4,
+        "syllabus": "Breve diacronia das ciências da linguagem. Da linguística à semiologia: aproximação dualista da linguagem e da comunicação. Pierce: as bases da semiótica filosófica. O projeto semiológico de Barthes e a rentabilidade da leitura. Contribuições de Eco à semiótica e à comunicação. Greimas e a aproximação à semiótica pós-estruturalista. Bakhtin e a leitura da ideologia. Bases da semiótica da comunicação: a construção da semiose e a leitura de discursos. Estudo de narrativas."
+    },
+    {
+        "code": "CS202",
+        "name": "Antropologia da Imagem",
+        "credits": 4,
+        "syllabus": "Fundamentos metodológicos do uso da fotografia e do cinema na pesquisa antropológica. Origens e pioneiros da Antropologia Visual. Narrativas fotográficas e cinematográficas na Antropologia. Significação e contexto social das imagens técnicas. Imagéticas sociais e comunicação: significações e contextos sócio-estéticos."
+    },
+    {
+        "code": "CS203",
+        "name": "Planejamento e Produção de Produtos Audiovisuais",
+        "credits": 4,
+        "syllabus": "O resultado e a qualidade dos produtos audiovisuais dependem de minucioso planejamento e organização de todas as fases da realização: pré-produção, produção e pós-produção. Questões como orçamento, financiamento, legislação, divulgação, compõe o corpus e o enfoque principal da disciplina. Discute os diversos modelos de produção, observando os pontos comuns e as especificidades relativos à fotografia, cinema, vídeo, televisão e mídias digitais.",
+        "reqs": [
+            [
+                {
+                    "code": "CS102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS041",
+            "CS041",
+            "CS042",
+            "CS042",
+            "CS046",
+            "CS060",
+            "CS061",
+            "CS063",
+            "CS065",
+            "CS067",
+            "CS069",
+            "CS071",
+            "CS072",
+            "CS303",
+            "CS504"
+        ]
+    },
+    {
+        "code": "CS204",
+        "name": "Comunicação, Cultura e Sociedade",
+        "credits": 4,
+        "syllabus": "Privilegia-se as relações entre os meios audiovisuais, a cultura de massa, a arte contemporânea, notando de que maneiras tais relações redimensionam, historicamente, o imaginário social entre os séculos XIX - XXI. Estuda-se também os meios audiovisuais, por intermédio da produção, difusão, reapropriação, interpretação e ressignificação das imagens na sociedade."
+    },
+    {
+        "code": "CS205",
+        "name": "Tecnologias da Informação e da Comunicação",
+        "credits": 4,
+        "syllabus": "Estudo das redes de cultura e de comunicação. O aprofundamento conceitual sobre os domínios das tecnologias voltadas para a produção de sistemas computacionais que convergem as diferentes mídias e seu impacto na produção, circulação e recepção dos produtos audiovisuais. Os banco de dados e as redes de produção de conhecimento.",
+        "reqBy": [
+            "CS305"
+        ]
+    },
+    {
+        "code": "CS206",
+        "name": "Teoria da Imagem",
+        "credits": 4,
+        "syllabus": "Breve diacronia das ciências da linguagem. Da linguística à semiologia: aproximação dualista da linguagem e da comunicação. Pierce: as bases da semiótica filosófica. O projeto semiológico de Barthes e a rentabilidade da leitura. Contribuições de Eco à semiótica e à comunicação. Greimas e a aproximação à semiótica pós-estruturalista. Bakhtin e a leitura da ideologia. Bases da semiótica da comunicação: a construção da semiose e a leitura de discursos. Estudo de narrativas."
+    },
+    {
+        "code": "CS300",
+        "name": "Recursos Eletrônicos Aplicados à Produção Sonora",
+        "credits": 4,
+        "syllabus": "Históricos e formatos da publicidade sonora e escuta analítica de material. Breve história da música, do barroco ao século XXI, e suas releituras e citações no universo midiático contemporâneo. Histórico e Conceituação do sound design, sua relação com criação musical e audiovisual e análise de material sonoro. Trabalhos práticos finais. Através destes tópicos, a disciplina procura localizar o aluno em questões fundamentais da criação musical e do sound design na produção audiovisual contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "CS200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS004",
+            "CS044",
+            "CS045"
+        ]
+    },
+    {
+        "code": "CS301",
+        "name": "História do Rádio",
+        "credits": 2,
+        "syllabus": "Estudo do rádio, do ponto de vista da tecnologia, do mercado, das relações socioeconômicas e políticas, da linguagem, dos gêneros e da recepção. Enfoque histórico e teórico, por meio da reflexão conceitual e de experiências, partindo de seu surgimento, passando pelo \"Período de Ouro\", até sua convivência com a televisão e o atual período de convergência digital. A interação entre o rádio e as demais mídias: cinema, televisão e novas mídias. O rádio como um importante mediador da cultura brasileira e da cultura audiovisual.",
+        "reqBy": [
+            "CS004"
+        ]
+    },
+    {
+        "code": "CS302",
+        "name": "História da TV e do Vídeo",
+        "credits": 4,
+        "syllabus": "Estudo dos processos de desenvolvimento da televisão, nos contextos mundial e nacional. A disciplina busca compreender a história da televisão do ponto de vista da evolução tecnológica, dos aspectos relativos à linguagem, em suas singularidades e convergências, e de questões de gênero e de recepção. A abordagem do meio contempla também uma visão sobre os determinantes econômicos, sociais e políticos no desenvolvimento da televisão e, por fim, busca estabelecer as diretrizes do papel da TV na definição de uma cultura audiovisual.",
+        "reqBy": [
+            "CS046",
+            "CS050"
+        ]
+    },
+    {
+        "code": "CS303",
+        "name": "Edição de Produtos Audiovisuais",
+        "credits": 4,
+        "syllabus": "A montagem ou edição é uma das etapas principais na produção do sentido na produção audiovisual e sua realização implica em uma análise minuciosa de todo material de imagem e som que deverá compor o produto final. É o momento final da criação, quando se determina a articulação das imagens, entre elas e sua relação com o som. Objetiva fornecer um instrumental, técnico e crítico para a concepção e realização dos procedimentos editoriais. Enfoca as questões de produção de sentido nos diversos meios de comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "CS203"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS060",
+            "CS061",
+            "CS063",
+            "CS065",
+            "CS067",
+            "CS069",
+            "CS071",
+            "CS072",
+            "CS504"
+        ]
+    },
+    {
+        "code": "CS304",
+        "name": "História do Cinema I",
+        "credits": 4,
+        "syllabus": "A disciplina apresenta um panorama abrangente da história do cinema, da irrupção do \"primeiro cinema\" à formação e estabelecimento do cinema clássico. O método inclui o estudo de escolas e gêneros, análises de filmes e reflexões sobre a forma, o texto e o contexto de produção, bem como a inter-relação entre filme e outras artes e mídias.",
+        "reqBy": [
+            "CS041",
+            "CS042"
+        ]
+    },
+    {
+        "code": "CS305",
+        "name": "Redes Convergentes",
+        "credits": 4,
+        "syllabus": "Fundamentos conceituais da convergência tecnológica digital. As questões técnicas e tecnológicas da convergência. As questões políticas, legislativas e mercadológicas na área de telecomunicações. Novos paradigmas de comunicação. O contexto educacional no Brasil e as tecnologias digitais.",
+        "reqs": [
+            [
+                {
+                    "code": "CS205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS073",
+            "CS503"
+        ]
+    },
+    {
+        "code": "CS306",
+        "name": "Fotografia Digital",
+        "credits": 4,
+        "syllabus": "Introdução e conceitos gerais sobre a Imagem Digital. As razões para utilização da Fotografia Digital. Processos de Captação de Imagens. Processos de manipulação de Imagens (utilização do Adobe Photoshop). A câmara clara digital. A geração do produto final para imagens digitalizadas. Análise Comparativa e utilização do hardware existente. A evolução dos equipamentos digitais. A linguagem Fotográfica Digital. O novo olhar fotográfico. Estudos e trabalhos de campo e laboratório.",
+        "reqs": [
+            [
+                {
+                    "code": "CS102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS400",
+        "name": "Computação Gráfica",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de produção em Computação Gráfica voltada à finalização de produtos audiovisuais."
+    },
+    {
+        "code": "CS401",
+        "name": "Teoria do Cinema",
+        "credits": 4,
+        "syllabus": "O desenvolvimento do cinema ao longo de mais de um século se fez acompanhar de teorias originais ou derivadas de outros movimentos artísticos. Hoje a teoria do cinema possui uma história sólida cujo conhecimento se tornou básico para o estudo dos meios audiovisuais. O curso aborda alguns dos principais momentos da reflexão teórica em cinema."
+    },
+    {
+        "code": "CS402",
+        "name": "Fotografia e Movimento",
+        "credits": 4,
+        "syllabus": "A aplicação da fotografia em cinema, vídeo e outros meios que se utilizam da imagem em movimento. Princípios conceituais, técnicos e artísticos da direção de fotografia para os meios audiovisuais. A direção de fotografia no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "CS102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS504"
+        ]
+    },
+    {
+        "code": "CS404",
+        "name": "História do Cinema II",
+        "credits": 4,
+        "syllabus": "A disciplina apresenta um panorama abrangente da história do cinema, do Pós-Guerra em diante com a irrupção e estabelecimento do cinema moderno até o cinema contemporâneo. O método inclui o estudo de escolas e gêneros, análises de filmes e reflexões sobre a forma, o texto e o contexto de produção, bem como a inter-relação entre filme e outras artes e mídias.",
+        "reqBy": [
+            "CS041",
+            "CS042"
+        ]
+    },
+    {
+        "code": "CS405",
+        "name": "Educação e Tecnologia",
+        "credits": 4,
+        "syllabus": "Pretende-se usar, analisar e discutir diferentes softwares usados na Educação, tendo como referencial teórico as abordagens sócio-interacionista de aprendizagem. Os objetivos são discutir as principais teorias sobre o que significa aprender, e explorar como os diferentes usos das Tecnologias da Informação podem contribuir no processo de aprendizagem."
+    },
+    {
+        "code": "CS500",
+        "name": "História do Cinema Brasileiro",
+        "credits": 4,
+        "syllabus": "Proporcionar uma visão de conjunto da história da realização cinematográfica brasileira, destacando os principais momentos, as obras e os realizadores. Refletir sobre as propostas estéticas, situando-as nos processos histórico, social e político. Discutir as relações entre o cinema e as ideias sobre cultura no Brasil. Estudo sobre a economia do cinema e as ideias sobre o processo de industrialização do cinema. As relações entre cinema, televisão, vídeo e novas mídias."
+    },
+    {
+        "code": "CS503",
+        "name": "Web/Internet",
+        "credits": 4,
+        "syllabus": "Conceituação técnica e a terminologia utilizada no desenvolvimento de produtos voltados para Web Internet. Discussão sobre a estética nos produtos desenvolvidos para Web Internet, bem como a eficiência dos mesmos.",
+        "reqs": [
+            [
+                {
+                    "code": "CS305"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS014"
+        ]
+    },
+    {
+        "code": "CS504",
+        "name": "Realização Audiovisual I",
+        "credits": 4,
+        "syllabus": "A disciplina oferece conteúdo voltado para os princípios da direção de produtos audiovisuais em cinema, TV, vídeo e novas mídias, com foco na ficção.",
+        "reqs": [
+            [
+                {
+                    "code": "CS039"
+                },
+                {
+                    "code": "CS040"
+                },
+                {
+                    "code": "CS203"
+                },
+                {
+                    "code": "CS303"
+                },
+                {
+                    "code": "CS402"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CS505"
+        ]
+    },
+    {
+        "code": "CS505",
+        "name": "Realização Audiovisual II",
+        "credits": 4,
+        "syllabus": "A disciplina oferece conteúdo voltado para os princípios da direção de produtos audiovisuais em cinema, TV, vídeo e novas mídias, com foco no documentário.",
+        "reqs": [
+            [
+                {
+                    "code": "CS504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS506",
+        "name": "Direção de Atores",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais de direção de atores para produtos audiovisuais (cinema e televisão). As singularidades da interpretação para o audiovisual. Atores, atrizes e câmeras. Os não-atores e o contingente na filmagem da ficção. Como compor um casting. Métodos de interpretação em produtos audiovisuais. Procedimentos de ensaios. Análises de interpretação em produtos audiovisuais."
+    },
+    {
+        "code": "CS507",
+        "name": "Narrativas Audiovisuais: Teorias, Análises e Processos",
+        "credits": 4,
+        "syllabus": "Trata-se do estudo conceitual da narrativa voltado para sua manifestação nos produtos em mídias audiovisuais (cinema, televisão, vídeo e novas mídias), por meio de abordagens distintas. Os gêneros e os formatos narrativos e a expressão audiovisual. Narrativas clássicas, modernas e contemporâneas. Narrativas e os domínios das telas expandidas no contexto do digital. Narrativas, identidades e alteridades."
+    },
+    {
+        "code": "CS508",
+        "name": "Redes: Convergência e Sociedade",
+        "credits": 4,
+        "syllabus": "Fundamentos conceituais da convergência tecnológica digital. As questões técnicas e tecnológicas da convergência. As questões políticas, legislativas e mercadológicas na área de telecomunicações. Novos paradigmas de comunicação. O contexto educacional no Brasil e as tecnologias digitais.",
+        "reqBy": [
+            "CS073"
+        ]
+    },
+    {
+        "code": "CS601",
+        "name": "História e Imagem: Laboratório de Cultura Visual e Mídia",
+        "credits": 4,
+        "syllabus": "Analisar as configurações e funcionamentos das imagens e mídias audiovisuais nos séculos XIX - XXI, percebendo seus sentidos políticos e suas elaborações conceituais.",
+        "reqs": [
+            [
+                {
+                    "code": "CS100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS800",
+        "name": "Estágio Supervisionado em Midialogia I",
+        "credits": 8,
+        "syllabus": "Estágio supervisionado a ser cumprido pelo  graduando em Comunicação Social na área de produção e/ou crítica cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CS801",
+        "name": "Estágio Supervisionado em Midialogia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido pelo graduando em Comunicação Social na área de produção e/ou crítica cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

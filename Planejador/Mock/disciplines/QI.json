@@ -1,0 +1,658 @@
+[
+    {
+        "code": "QI145",
+        "name": "Interações Químicas",
+        "credits": 4,
+        "syllabus": "Teoria dos orbitais moleculares para moléculas poliatômicas. Introdução à teoria de grupo. Ácidos e bases.",
+        "reqs": [
+            [
+                {
+                    "code": "QG108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ531",
+            "EQ531",
+            "GM861",
+            "QG564",
+            "QG565",
+            "QG650",
+            "QG664",
+            "QI245",
+            "QI345",
+            "QI852",
+            "QI853"
+        ]
+    },
+    {
+        "code": "QI242",
+        "name": "Química Inorgânica Teórica",
+        "credits": 4,
+        "syllabus": "Estrutura Atômica. Periodicidade. Modelos de ligações químicas. Conceitos de acidez e basicidade. Compostos de coordenação. Introdução a compostos organometálicos e à catálise.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                },
+                {
+                    "code": "QG102"
+                }
+            ],
+            [
+                {
+                    "code": "QG108"
+                },
+                {
+                    "code": "QG109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ531",
+            "EQ531",
+            "EQ531"
+        ]
+    },
+    {
+        "code": "QI244",
+        "name": "Química Inorgânica Experimental",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais envolvidos em reações químicas: reatividade de espécies envolvidas, equilíbrio, estequiometria, oxirredução, rendimento de reação, cinética química e catálise. Reatividade de metais. Preparação de complexos de metais de transição ilustrando a teoria do campo cristalino (efeito do ligante, número de coordenação e cor).",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                },
+                {
+                    "code": "QG102"
+                }
+            ],
+            [
+                {
+                    "code": "QG108"
+                },
+                {
+                    "code": "QG109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ531",
+            "EQ531",
+            "EQ531"
+        ]
+    },
+    {
+        "code": "QI245",
+        "name": "Química de Sólidos",
+        "credits": 2,
+        "syllabus": "Empacotamento. Sistemas cristalinos. Estruturas cristalinas simples. Difração de raios X. Defeitos e não-estequiometria. Propriedades eletrônicas, ópticas e magnéticas de sólidos.",
+        "reqs": [
+            [
+                {
+                    "code": "QI145"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ531",
+            "EQ531",
+            "GM861",
+            "QF536",
+            "QG091",
+            "QI445",
+            "QI446"
+        ]
+    },
+    {
+        "code": "QI246",
+        "name": "Química Inorgânica",
+        "credits": 4,
+        "syllabus": "Acidez e basicidade de Lewis: conceitos de dureza e moleza; química de coordenação e de organometálicos de metais de transição.",
+        "reqs": [
+            [
+                {
+                    "code": "QG108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GM861",
+            "QG565",
+            "QI445",
+            "QI446"
+        ]
+    },
+    {
+        "code": "QI345",
+        "name": "Química de Coordenação",
+        "credits": 4,
+        "syllabus": "Compostos de coordenação. Teorias de Ligação aplicadas aos compostos de coordenação. Introdução à espectroscopia eletrônica. Diagrama de Tanabe-Sugano. Mecanismos de reações de substituição e de reações de transferência de elétrons.",
+        "reqs": [
+            [
+                {
+                    "code": "QI145"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QI545",
+            "QI854",
+            "QI855"
+        ]
+    },
+    {
+        "code": "QI445",
+        "name": "Introdução à Espectroscopia Vibracional",
+        "credits": 2,
+        "syllabus": "Fundamentos de espectroscopia vibracional e interpretação de espectros.",
+        "reqs": [
+            [
+                {
+                    "code": "QI245"
+                }
+            ],
+            [
+                {
+                    "code": "QI246"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI446",
+        "name": "Aplicação de Teoria de Grupo em Espectroscopia Eletrônica e Vibracional",
+        "credits": 2,
+        "syllabus": "Teoria de Grupo. Espectroscopias eletrônica e vibracional aplicadas a compostos inorgânicos. Interpretação de espectros.",
+        "reqs": [
+            [
+                {
+                    "code": "QI245"
+                }
+            ],
+            [
+                {
+                    "code": "QI246"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI542",
+        "name": "Química Inorgânica Experimental II",
+        "credits": 8,
+        "syllabus": "Síntese de complexos de metais de transição (compostos de coordenação e organometálicos), compostos modelos bioinorgânicos e de óxidos e/ou sulfetos. Caracterização dos compostos sintetizados explorando a série nefelauxética, espectros eletrônicos, medidas de magnetismo, de dicroísmo circular, de espectroscopia vibracional, de ressonância magnética nuclear, eletroquímicas e de luminescência. Cinética de substituição de ligantes em complexos de metais de transição. Reações de intercalação. Catálise (homogênea e heterogênea).",
+        "reqs": [
+            [
+                {
+                    "code": "QG564"
+                },
+                {
+                    "code": "QI545"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI543",
+        "name": "Química Inorgânica Experimental II",
+        "credits": 8,
+        "syllabus": "Síntese, caracterização e aplicações de compostos inorgânicos, especialmente de metais de transição.",
+        "reqs": [
+            [
+                {
+                    "code": "QG650"
+                },
+                {
+                    "code": "QI545"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI545",
+        "name": "Química de Organometálicos",
+        "credits": 2,
+        "syllabus": "Organometálicos do grupo principal e de metais de transição. Catálise.",
+        "reqs": [
+            [
+                {
+                    "code": "QI345"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QI542",
+            "QI543"
+        ]
+    },
+    {
+        "code": "QI851",
+        "name": "Química Bioinorgânica",
+        "credits": 2,
+        "syllabus": "Conceitos e definições em Química Bioinorgânica. Íons metálicos em sistemas biológicos. Elementos essenciais ao organismo humano (zinco, ferro, cobre e outros) e intoxicações por metais pesados (chumbo, mercúrio e cádmio). Complexos metálicos em medicina: planejamento, síntese e aplicações de metalofármacos."
+    },
+    {
+        "code": "QI852",
+        "name": "Química dos Elementos",
+        "credits": 2,
+        "syllabus": "Estrutura e propriedades atômicas e suas relações com a química sistemática dos elementos. Processos químicos para a obtenção e aplicações dos elementos e seus compostos. Propriedades físicas e químicas dos compostos de interesse industrial.",
+        "reqs": [
+            [
+                {
+                    "code": "QI145"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI853",
+        "name": "Introdução à Cristalografia",
+        "credits": 2,
+        "syllabus": "Cristais e estruturas cristalinas. Retículos cristalinos e simetria espacial. Sistemas cristalinos. Difração em cristais: raios X, nêutrons e elétrons. Introdução à determinação de estrutura cristalina. Exemplos de minerais, compostos iônicos e moleculares.",
+        "reqs": [
+            [
+                {
+                    "code": "QI145"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI854",
+        "name": "Magnetoquímica: Fundamentos e Aplicações em Materiais Moleculares",
+        "credits": 2,
+        "syllabus": "Origens do momento magnético. Propriedades magnéticas dos íons livres. Quenching do momento magnético orbital. Mecanismos de interações magnéticas. Propriedades de magnetos moleculares puramente orgânicos e de compostos de coordenação.",
+        "reqs": [
+            [
+                {
+                    "code": "QI345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI855",
+        "name": "Fundamentos e Aplicações de Materiais Luminescentes",
+        "credits": 2,
+        "syllabus": "Princípios fundamentais sobre espectros de excitação, emissão e regras de seleção de transições; retorno ao estado fundamental: processos radiativos e não radiativos; mecanismos de transferência de energia; conversão ascendente de energia; aplicações de dispositivos ópticos luminescentes",
+        "reqs": [
+            [
+                {
+                    "code": "QI345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI940",
+        "name": "Tópicos Especiais em Química Inorgânica I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI941",
+        "name": "Tópicos Especiais em Química Inorgânica II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI942",
+        "name": "Tópicos Especiais em Química Inorgânica III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI943",
+        "name": "Tópicos Especiais em Química Inorgânica IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI944",
+        "name": "Tópicos Especiais em Química Inorgânica V",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI945",
+        "name": "Tópicos Especiais em Química Inorgânica VI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI946",
+        "name": "Tópicos Especiais em Química Inorgânica VII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI947",
+        "name": "Tópicos Especiais em Química Inorgânica VIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI948",
+        "name": "Tópicos Especiais em Química Inorgânica IX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI949",
+        "name": "Tópicos Especiais em Química Inorgânica X",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI950",
+        "name": "Tópicos Especiais em Química Inorgânica XI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI951",
+        "name": "Tópicos Especiais em Química Inorgânica XII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI952",
+        "name": "Tópicos Especiais em Química Inorgânica XIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI953",
+        "name": "Tópicos Especiais em Química Inorgânica XIV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI954",
+        "name": "Tópicos Especiais em Química Inorgânica XV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI955",
+        "name": "Tópicos Especiais em Química Inorgânica XVI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI956",
+        "name": "Tópicos Especiais em Química Inorgânica XVII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI957",
+        "name": "Tópicos Especiais em Química Inorgânica XVIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI958",
+        "name": "Tópicos Especiais em Química Inorgânica XIX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI959",
+        "name": "Tópicos Especiais em Química Inorgânica XX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI960",
+        "name": "Tópicos Especiais em Química Inorgânica XXI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "QI961",
+        "name": "Tópicos Especiais em Química Inorgânica Experimental I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI962",
+        "name": "Tópicos Especiais em Química Inorgânica Experimental II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI963",
+        "name": "Tópicos Especiais em Química Inorgânica XXI",
+        "credits": 4,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI964",
+        "name": "Tópicos Especiais em Química Inorgânica XXII",
+        "credits": 4,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI965",
+        "name": "Tópicos Especiais em Química Inorgânica Experimental III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QI966",
+        "name": "Tópicos Especiais em Química Inorgânica Experimental IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

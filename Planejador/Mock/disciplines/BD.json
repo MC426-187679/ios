@@ -1,0 +1,967 @@
+[
+    {
+        "code": "BD001",
+        "name": "Atividades Acadêmicos-Científicas I",
+        "credits": 1,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD002",
+        "name": "Atividades Acadêmico-Científicas II",
+        "credits": 2,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD003",
+        "name": "Integralização de Atividades Acadêmico-Científicas III",
+        "credits": 3,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD004",
+        "name": "Atividades Acadêmico-Científicas IV",
+        "credits": 4,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD005",
+        "name": "Atividades Acadêmico-Científicas V",
+        "credits": 5,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD006",
+        "name": "Atividades Acadêmico-Científicas VI",
+        "credits": 6,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD007",
+        "name": "Atividades Acadêmico-Científicas VII",
+        "credits": 1,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD008",
+        "name": "Atividades Acadêmico-Científicas VIII",
+        "credits": 2,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD009",
+        "name": "Atividades Acadêmico-Científicas IX",
+        "credits": 3,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD010",
+        "name": "Atividades Acadêmico-Científicas X",
+        "credits": 4,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD011",
+        "name": "Atividades Acadêmico-Científicas XI",
+        "credits": 5,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD012",
+        "name": "Atividades Acadêmico-Científicas XII",
+        "credits": 6,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD013",
+        "name": "Atividades Acadêmico-Científicas XIII",
+        "credits": 1,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD014",
+        "name": "Atividades Acadêmico-Científicas XIV",
+        "credits": 2,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD015",
+        "name": "Atividades Acadêmico-Científicas XV",
+        "credits": 3,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD016",
+        "name": "Atividades Acadêmico-Científicas XVI",
+        "credits": 4,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD017",
+        "name": "Atividades Acadêmico-Científicas XVII",
+        "credits": 5,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD018",
+        "name": "Atividades Acadêmico-Científicas XVIII",
+        "credits": 6,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD019",
+        "name": "Atividades Acadêmico-Científicas XIX",
+        "credits": 1,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD020",
+        "name": "Atividades Acadêmico-Científicas XX",
+        "credits": 2,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD021",
+        "name": "Atividades Acadêmico-Científicas XXI",
+        "credits": 3,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD022",
+        "name": "Atividades Acadêmico-Científicas XXII",
+        "credits": 4,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD023",
+        "name": "Atividades Acadêmico-Científicas XXIII",
+        "credits": 5,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD024",
+        "name": "Atividades Acadêmico-Científicas XXIV",
+        "credits": 6,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD025",
+        "name": "Atividades Acadêmico-Científicas XXV",
+        "credits": 10,
+        "syllabus": "Atividades acadêmico-científicas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD026",
+        "name": "Atividades Acadêmico-Científicas XXVI",
+        "credits": 12,
+        "syllabus": "Atividades acadêmico-científcas: participação do aluno em atividades de cunho acadêmico (científicas, didáticas e/ou de extensão) e de cunho cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD090",
+        "name": "Tópicos Especiais em Biologia VI",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto específico na área biológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD101",
+        "name": "Biologia",
+        "credits": 4,
+        "syllabus": "Noções básicas de biologia, classificação e ecologia dos seres vivos. Conceitos básicos de evolução e especiação através da seleção natural; aspectos de conservação e manejo do meio ambiente."
+    },
+    {
+        "code": "BD190",
+        "name": "Participação Cultural I",
+        "credits": 2,
+        "syllabus": "Aspectos políticos e socioculturais. Participação em eventos artísticos da Universidade, tais como Bioart, apresentação de coral, encenação de peças teatrais, audição musical. Debates de temas gerais relacionados ao ensino e à pesquisa nos diferentes campos da Biologia, com participação de diretores de Instituto de Pesquisa isolados ou Instituto de Ensino Superior. Avaliação do ensino no Instituto no 1º semestre; proposta de ensino para semestre seguinte.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD290",
+        "name": "Participação Cultural II",
+        "credits": 2,
+        "syllabus": "Aspectos políticos e socioculturais. Participação em eventos artísticos da Universidade, tais como Bioart, apresentação de coral, encenação de peças teatrais, audição musical. Debates de temas gerais relacionados ao ensino e à pesquisa nos diferentes campos da Biologia, com participação de diretores de Instituto de Pesquisa isolados ou Instituto de Ensino Superior. Avaliação do ensino no Instituto no 2º semestre; proposta de ensino para semestre seguinte.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD390",
+        "name": "Trabalhos Comunitários I",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão ou assuntos comunitários ou acadêmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD490",
+        "name": "Trabalhos Comunitários II",
+        "credits": 4,
+        "syllabus": "Participação supervisionada em projetos ligados à área de extensão ou assuntos comunitários ou acadêmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD491",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas I",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD492",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas II",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD493",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas III",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD494",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas IV",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD495",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas V",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD500",
+        "name": "Iniciação Científica I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD520",
+        "name": "Fundamentos Éticos para o Exercício Profissional do Biólogo",
+        "credits": 2,
+        "syllabus": "Deontologia. Bem comum, proteção do meio ambiente, melhoria da qualidade de vida. O Código de Ética do Profissional Biólogo. Legislação referente ao exercício profissional do biólogo. Conselhos Federal e Regionais de Biologia. A responsabilidade profissional do biólogo. Exemplos e análises de prática profissional. ",
+        "reqBy": [
+            "BD621"
+        ]
+    },
+    {
+        "code": "BD580",
+        "name": "Fundamentos de Biologia Celular e Molecular",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo da célula. Genética molecular. Organização interna da célula. A célula em seu contexto.",
+        "reqs": [
+            [
+                {
+                    "code": "F 429"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BD681",
+            "BS681",
+            "F 758"
+        ]
+    },
+    {
+        "code": "BD581",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas VI",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD582",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas VII",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD583",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas VIII",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD584",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas IX",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD585",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas X",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD590",
+        "name": "Tópicos Especiais em Biologia I",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto específico na área biológica."
+    },
+    {
+        "code": "BD600",
+        "name": "Iniciação Científica II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Biologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD621",
+        "name": "Legislação e Normas para o Profissional de Biologia",
+        "credits": 2,
+        "syllabus": "Análise e estudo das normas e legislação para o profissional em Biologia.",
+        "reqs": [
+            [
+                {
+                    "code": "BD520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD681",
+        "name": "Fundamentos de Anatomia, Histologia e Fisiologia Humana",
+        "credits": 4,
+        "syllabus": "Anatomia Básica: estudos dos sistemas tegumentares, ósseos, articulares e musculares, cardiovasculares, respiratórios, digestivos, renais, reprodutor masculino e feminino. Histologia: bases morfofuncionais dos tecidos fundamentais e dos sistemas. Fisiologia básica: estudos dos sistemas cardiovasculares, digestivos, renais, reprodutor masculino e feminino. Sistema nervoso e órgãos dos sentidos.",
+        "reqs": [
+            [
+                {
+                    "code": "BD580"
+                }
+            ],
+            [
+                {
+                    "code": "BS580"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD760"
+        ]
+    },
+    {
+        "code": "BD690",
+        "name": "Tópicos Especiais em Biologia II",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto específico na área biológica."
+    },
+    {
+        "code": "BD691",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas XI",
+        "credits": 3,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD692",
+        "name": "Temas Transversais no Ensino de Biologia I",
+        "credits": 4,
+        "syllabus": "Temas Transversais na Educação Básica: Meio Ambiente e Cultura. Relações entre Ciência, Natureza e Sociedade. Demonstrar o sentido histórico da ciência e da tecnologia e o papel do homem na transformação do meio ambiente e da sociedade, os avanços na qualidade de vida e nas relações sociais e culturais. Elaboração de projetos, textos e relatórios sobre os temas abordados."
+    },
+    {
+        "code": "BD693",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas XIII",
+        "credits": 3,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD694",
+        "name": "Temas Transversais no Ensino de Biologia II",
+        "credits": 4,
+        "syllabus": "Temas Transversais na Educação Básica: Saúde e Sexualidade. Saúde do adolescente e do escolar; epidemias e a sociedade contemporânea; sexualidade, reprodução humana e saúde sexual e reprodutiva. Biologia e Saúde na escola. Estudos de problemáticas e propostas para o ensino de saúde e sexualidade no Ensino Fundamental e Médio."
+    },
+    {
+        "code": "BD695",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas XV",
+        "credits": 3,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD696",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas XIV",
+        "credits": 3,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD700",
+        "name": "Processos Industriais I",
+        "credits": 12,
+        "syllabus": "Estágio curricular junto a indústrias.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD790",
+        "name": "Tópicos Especiais em Biologia III",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina deverá ser definida por ocasião do seu oferecimento."
+    },
+    {
+        "code": "BD791",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas XVI",
+        "credits": 4,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD793",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas XVIII",
+        "credits": 4,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD794",
+        "name": "Temas Transversais no Ensino de Biologia IV",
+        "credits": 2,
+        "syllabus": "Educação ambiental e cidadania. Percepção da realidade ambiental. A relação Educação Ambiental - Qualidade de vida. Projetos curtos individuais e em grupo e sua realização. Elaboração de roteiros, reflexões e práticas de Educação Ambiental. Integração Escola-Meio Ambiente-Comunidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD795",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas XX",
+        "credits": 4,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD796",
+        "name": "Tópicos Especiais em Áreas das Ciências Biológicas XVII",
+        "credits": 4,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas de Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD797",
+        "name": "Tópicos Especiais em Biologia XIX",
+        "credits": 2,
+        "syllabus": "Estudos programados em temas/conteúdos das áreas das Ciências Biológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD800",
+        "name": "Processos Industriais II",
+        "credits": 12,
+        "syllabus": "Estágio curricular junto às indústrias.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD810",
+        "name": "Estágio Supervisionado na Interação Patógeno-Hospedeiro",
+        "credits": 12,
+        "syllabus": "Aprimorar a observação, o raciocínio lógico e a experimentação do aluno durante o desenvolvimento de um projeto de pesquisa e, elaboração de um artigo científico. O projeto de pesquisa analisará a interação entre microrganismos e seus componentes e o sistema imunológico compreendendo a discussão de protocolos experimentais e regras de boas práticas de laboratório e análises moleculares nas áreas de bioquímica, imunologia e parasitologia. A elaboração do artigo científico englobará a análise dos resultados obtidos e a redação utilizando-se as estratégias de metodologia científica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD890",
+        "name": "Tópicos Especiais em Biologia IV",
+        "credits": 2,
+        "syllabus": "Estudo programado de assuntos específicos na área biológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD891",
+        "name": "Tópicos Especiais em Biologia VII",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto específico na área biológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD892",
+        "name": "Tópicos Especiais em Biologia VIII",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto específico na área biológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD893",
+        "name": "Tópicos Especiais em Biologia IX",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto específico na área biológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD894",
+        "name": "Tópicos Especiais em Biologia X",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto específico na área biológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BD990",
+        "name": "Tópicos Especiais em Biologia V",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto específico na área biológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

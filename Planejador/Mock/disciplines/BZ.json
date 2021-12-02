@@ -1,0 +1,384 @@
+[
+    {
+        "code": "BZ182",
+        "name": "Zoologia: Introdução e Métodos",
+        "credits": 4,
+        "syllabus": "Taxonomia e nomenclatura. Diversidade do reino animal. Os ambientes da Terra. Sistemática e filogenia. Origem e evolução dos metazoários. Comportamento animal. Coleta e preservação. Conservação e biodiversidade."
+    },
+    {
+        "code": "BZ183",
+        "name": "Sistemática Zoológica e Biodiversidade",
+        "credits": 2,
+        "syllabus": "Revisão de conteúdos básicos. Diversidade Biológica, definição e origem e evolução dos metazoários, conceitos de sistemática filogenética, taxonomia e nomenclatura, os ambientes da terra, biogeografia, métodos de  preservação de animais, Museus e coleções zoológicas. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. "
+    },
+    {
+        "code": "BZ280",
+        "name": "Zoologia de Invertebrados I",
+        "credits": 4,
+        "syllabus": "Origem, evolução e diversidade dos Invertebrados Metazoários, embasando-se em propostas de filogenias. Estudo comparativo da anatomia dos diferentes grupos, relacionando a aspectos da biologia, como adaptações aos ambientes em que vivem suas espécies, incluindo mecanismos de locomoção, alimentação, excreção, circulação, trocas gasosas, percepção de estímulos do meio e reprodução. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BZ380",
+            "BZ385",
+            "BZ588",
+            "BZ817"
+        ]
+    },
+    {
+        "code": "BZ281",
+        "name": "Zoologia de Invertebrados I",
+        "credits": 4,
+        "syllabus": "Origem, evolução e diversidade dos Invertebrados Metazoários, incluindo Placozoa, Porifera, Cnidaria, Ctenophora, Platyhelminthes, Nemertea, Rotifera, Acanthocephala, Gnathostomulida, Annelida, Sipuncula, Echiura, Mollusca, Phoronida, Brachiopoda, Bryozoa e Entoprocta, embasando-se em propostas de filogenias. Estudo comparativo da anatomia dos diferentes grupos, relacionando a aspectos da biologia, como ocupação de ambientes, mecanismos de locomoção, alimentação, excreção, circulação, trocas gasosas, percepção de estímulos do meio e reprodução. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BZ382",
+            "BZ383",
+            "BZ588",
+            "BZ817"
+        ]
+    },
+    {
+        "code": "BZ285",
+        "name": "Zoologia de Invertebrados I",
+        "credits": 6,
+        "syllabus": "Evolução e diversidade dos invertebrados metazoários, incluindo Placozoa, Porifera, Cnidaria, Ctenophora, Platyhelminthes, Nemertea, Rotifera, Gastrotricha, Kinorhyncha, Nematoda, Nematomorpha, Priapula, Acanthocephala, Ento-procta, Gnathostomulida, Loricifera, Annelida e Mollusca, embasando-se em propostas de filogenias. Estudo comparativo dos diferentes grupos, relacionando a anatomia aos aspectos da biologia, como ocupação de ambientes (mar, terra, água doce), locomoção e suporte, mecanismos de alimentação, excreção, circulação, trocas gasosas, percepção de estímulos do meio e reprodução.",
+        "reqBy": [
+            "BZ385"
+        ]
+    },
+    {
+        "code": "BZ380",
+        "name": "Zoologia de Invertebrados II",
+        "credits": 4,
+        "syllabus": "Origens evolutivas, diversidades, forma, função e organização dos Ecdysozoa e Deuterostomia. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BZ280"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BZ599",
+            "BZ817"
+        ]
+    },
+    {
+        "code": "BZ382",
+        "name": "Zoologia de Invertebrados II",
+        "credits": 4,
+        "syllabus": "Origem evolutiva, forma, função e diversidade de artrópodes, lofoforados, equinodermas, protocordados e cordados. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BZ281"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BZ599",
+            "BZ817"
+        ]
+    },
+    {
+        "code": "BZ383",
+        "name": "Zoologia de Invertebrados no Campo II",
+        "credits": 2,
+        "syllabus": "Observar, compreender e explorar diversos aspectos da história natural, ecologia, zoologia e evolução dos invertebrados com atividades diurnas e noturnas. Comportamentos, substratos, ambientes, formas corpóreas e identificações taxonômicas dos invertebrados em campo. Coleta de artrópodes usando diversos métodos. Treinamento na formulação de hipóteses científicas bem como na elaboração de relatórios científicos e apresentação oral de estudos científicos. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BZ281"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ385",
+        "name": "Zoologia de Invertebrados II",
+        "credits": 6,
+        "syllabus": "Origens evolutivas, diversidade, forma, função e organização dos Ecdysozoa e Deuterostomia. Produção e análise de textos em língua portuguesa.",
+        "reqs": [
+            [
+                {
+                    "code": "BZ280"
+                }
+            ],
+            [
+                {
+                    "code": "BZ285"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ480",
+        "name": "Zoologia de Vertebrados",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo de vertebrados: noções sobre variedade de formas, funções, ambiente e modos de vida de peixes, anfíbios, répteis, aves e mamíferos. (Excursão obrigatória, elaboração de trabalhos com apresentação oral e relatório). Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BZ680"
+        ]
+    },
+    {
+        "code": "BZ481",
+        "name": "Zoologia de Invertebrados I",
+        "credits": 3,
+        "syllabus": "Origem evolutiva, forma, função e diversidade de protozoários e metazoários."
+    },
+    {
+        "code": "BZ485",
+        "name": "Zoologia de Vertebrados",
+        "credits": 6,
+        "syllabus": "Introdução ao estudo de vertebrados: noções sobre variedade de formas, funções, ambiente e modos de vida de peixes, anfíbios, répteis, aves e mamíferos. (Excursão obrigatória, elaboração de trabalhos com apresentação oral e relatório). Produção e análise de textos em língua portuguesa."
+    },
+    {
+        "code": "BZ500",
+        "name": "Iniciação Científica em Zoologia I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Zoologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ550",
+        "name": "Tópicos em Zoologia I",
+        "credits": 2,
+        "syllabus": "A disciplina abordará temas em Zoologia."
+    },
+    {
+        "code": "BZ560",
+        "name": "Tópicos em Zoologia II",
+        "credits": 3,
+        "syllabus": "A disciplina abordará temas em Zoologia."
+    },
+    {
+        "code": "BZ570",
+        "name": "Tópicos em Zoologia III",
+        "credits": 4,
+        "syllabus": "A disciplina abordará temas em Zoologia."
+    },
+    {
+        "code": "BZ587",
+        "name": "História Natural, Sistemática e Evolução de Invertebrados",
+        "credits": 8,
+        "syllabus": "História Natural, Sistemática e Evolução dos principais filos invertebrados. Observação das características estruturais, comportamentais e ecológicas dos invertebrados em atividades de campo e laboratório.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ588",
+        "name": "Malacologia",
+        "credits": 4,
+        "syllabus": "O Filo Mollusca no contexto dos Invertebrados: hipóteses de parentesco com base em evidências embriológicas, ontogenéticas, morfológicas e moleculares. Caracterização das diferentes classes através da descrição do plano corporal, com detalhamento sobre a forma e função do manto, concha, dos órgãos associados à cavidade do manto e à massa visceral e do desenvolvimento embrionário, incluindo fases larvais. Análise de cada grupo através de aulas teórico-práticas. Formação crítica em Malacologia, visando uma análise da diversidadee do grupo e sua importância ecológica e econômica.",
+        "reqs": [
+            [
+                {
+                    "code": "BZ280"
+                }
+            ],
+            [
+                {
+                    "code": "BZ281"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ590",
+        "name": "Tópicos em Zoologia IV",
+        "credits": 4,
+        "syllabus": "A disciplina abordará temas em Zoologia."
+    },
+    {
+        "code": "BZ594",
+        "name": "Ensino de Biologia XI: Fauna e Ambiente",
+        "credits": 2,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Zoologia de Invertebrados e Vertebrados. Abordagem e elaboração de diferentes metodologias para o ensino de Zoologia de Invertebrados e Vertebrados. Articulação temática e integrada de temas contemporâneos para o ensino de biologia. Criação de conteúdos e formas de ensinar pautados na ideia de transversalidade no currículo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ599",
+        "name": "Entomologia",
+        "credits": 4,
+        "syllabus": "Classe Insecta: morfologia - fisiologia - desenvolvimento - ecologia básica e aplicada - taxonomia - técnicas de coleta, montagem e conservação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BZ380"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BZ382"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ600",
+        "name": "Iniciação Científica em Zoologia II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Zoologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ680",
+        "name": "História Natural de Vertebrados",
+        "credits": 5,
+        "syllabus": "Possibilitar o aprendizado de obtenção de dados (observação e registro, análise, interpretação e comunicação) em relação aos diferentes modos de vida de vertebrados, com foco nas espécies nativas do Brasil. Demonstrações em campo ou sala de aula, focalizadas num dado tema, com atividades planejadas ou uso oportunista de eventos. Palestras com finalidade de transmitir aos alunos perspectivas extra-acadêmicas envolvendo a HN de vertebrtados. Desenvolvimento de um trabalho de pesquisa individual ou em grupo sobre algum aspecto da história natural de um vertebrado nativo, nos moldes de uma publicação científica. Excursão não-obrigatória a ambientes de Mata Atlântica para demonstração de técnicas de estudo de vertebrados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BZ681"
+                }
+            ],
+            [
+                {
+                    "code": "BZ480"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ681",
+        "name": "Zoologia de Vertebrados",
+        "credits": 4,
+        "syllabus": "Características gerais e diversidade das classes de vertebrados: peixes, anfíbios, répteis, aves e mamíferos. Onde e como vivem os vertebrados. Importância dos vertebrados. Prática ilustrativa da diversidade estrutural  em cada classe, considerando situações de aprendizagem no Ensino Fundamental e Médio. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BZ680"
+        ]
+    },
+    {
+        "code": "BZ682",
+        "name": "Zoologia de Vertebrados no Campo",
+        "credits": 2,
+        "syllabus": "Atividades de excursão. Produção e análise de textos em língua portuguesa."
+    },
+    {
+        "code": "BZ700",
+        "name": "Estágio Supervisionado em Zoologia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Biologia Animal, área de Zoologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ800",
+        "name": "Estágio Supervisionado em Zoologia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Biologia Animal, área de Zoologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ815",
+        "name": "Fauna de Praia",
+        "credits": 4,
+        "syllabus": "Fauna de invertebrados macrobênticos característicos de praias arenosas e lodosas; problemas e métodos de estudos; fauna de habitats especiais. Fatores físicos, químicos e biológicos da região entremares. Mecanismos de alimentação e respiração desses organismos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BZ817",
+        "name": "Biodiversidade de Comunidades Macrobentônicas de Praias",
+        "credits": 4,
+        "syllabus": "Propiciar o conhecimento teórico e prático sobre a diversidade da macrofauna bentônica de praias: composição, distribuição e densidade. Analisar os hábitos destes organismos, os ambientes em que vivem, as estratégias adaptativas e as relações tróficas. Caracterizar e identificar espécies de importância ecológica e econômica: bioindicadoras e ameaçadas de extinção.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BZ281"
+                },
+                {
+                    "code": "BZ382"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BZ280"
+                },
+                {
+                    "code": "BZ380"
+                }
+            ]
+        ]
+    }
+]

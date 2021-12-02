@@ -1,0 +1,1341 @@
+[
+    {
+        "code": "MP101",
+        "name": "Cordas I",
+        "credits": 3,
+        "syllabus": "Avaliação e desenvolvimento dos fundamentos técnicos do instrumento; leitura à primeira vista na primeira posição (Readind Studies for Guitar- William Leavitt); repertório para violão solo. Baixo - Reconhecimento das habilidades técnicas do estudante; leitura de cifras (tríades e tétrades); leitura de partituras em clave de fá – região grave; técnicas de organização do estudo (princípios gerais).",
+        "reqBy": [
+            "MP201"
+        ]
+    },
+    {
+        "code": "MP102",
+        "name": "Percussão I",
+        "credits": 3,
+        "syllabus": "Abordagens técnicas da bateria; estudos de coordenação. Recursos criativos para a construção de solos.\n ",
+        "reqBy": [
+            "MP202"
+        ]
+    },
+    {
+        "code": "MP103",
+        "name": "Sopros I",
+        "credits": 3,
+        "syllabus": "Abordagens técnicas do saxofone. Estudos de tríades, tetracordes e escalas básicas.",
+        "reqBy": [
+            "MP203"
+        ]
+    },
+    {
+        "code": "MP104",
+        "name": "Teclados I",
+        "credits": 3,
+        "syllabus": "Técnica elementar: revisão; leitura de melodias e de cifras; tétrades (5 tipos); campo harmônico; notas-guia; \"voicings\" e sua aplicação em “levadas”. Modos Jônio, Dórico e Mixolídio, com acordes de apoio. Arpejos (tríades).\n ",
+        "reqBy": [
+            "MP204"
+        ]
+    },
+    {
+        "code": "MP105",
+        "name": "Voz I",
+        "credits": 3,
+        "syllabus": "Estudo da voz cantada com enfoque sobre o desenvolvimento interpretativo e técnico, alcançado por meio da ênfase nos processos de escuta (de si e do outro), realização de exercícios vocais/corporais e da realização de repertório específico da canção popular brasileira midiatizada produzida nas primeiras décadas do século XX.",
+        "reqBy": [
+            "MP205"
+        ]
+    },
+    {
+        "code": "MP106",
+        "name": "Atividades complementares I",
+        "credits": 7,
+        "syllabus": "Coordenadoria",
+        "reqBy": [
+            "MP107"
+        ]
+    },
+    {
+        "code": "MP107",
+        "name": "Atividades complementares II",
+        "credits": 7,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP106"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP110",
+        "name": "Arranjo I",
+        "credits": 2,
+        "syllabus": "Técnicas de escrita musical para formações instrumentais diversas. Prática de arranjo em música popular.",
+        "reqs": [
+            [
+                {
+                    "code": "MU205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP210"
+        ]
+    },
+    {
+        "code": "MP120",
+        "name": "Prática Instrumental I",
+        "credits": 3,
+        "syllabus": "Execução em grupo de peças musicais em gêneros e estilos diversos e em grau progressivo de dificuldade.",
+        "reqBy": [
+            "MP220"
+        ]
+    },
+    {
+        "code": "MP130",
+        "name": "Harmonia I",
+        "credits": 2,
+        "syllabus": "Estudo dos conceitos e procedimentos harmônicos característicos da música popular. Prática de escrita harmônica.",
+        "reqBy": [
+            "MP230"
+        ]
+    },
+    {
+        "code": "MP140",
+        "name": "História e Linguagem da Música Popular I",
+        "credits": 2,
+        "syllabus": "Abordagem analítica sobre a evolução estética e sociocultural da música popular nacional e internacional, do início do século até os dias de hoje."
+    },
+    {
+        "code": "MP141",
+        "name": "Canto na Música Popular I",
+        "credits": 2,
+        "syllabus": "Estudo histórico e técnico do desenvolvimento da voz na canção popular brasileira, realizado a partir da escuta de fonogramas das décadas de 30 a 45, a época de ouro da música popular brasileira.",
+        "reqBy": [
+            "MP241"
+        ]
+    },
+    {
+        "code": "MP150",
+        "name": "Música e Tecnologia I",
+        "credits": 2,
+        "syllabus": "Introdução aos principais tipos de aplicação dos computadores nas atividades musicais. Editoração de partituras, seqüenciação: áudio digital.",
+        "reqBy": [
+            "MP250"
+        ]
+    },
+    {
+        "code": "MP170",
+        "name": "Tópicos Especiais em Música I",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP270"
+        ]
+    },
+    {
+        "code": "MP201",
+        "name": "Cordas II",
+        "credits": 3,
+        "syllabus": "Técnica especíﬁca para mão direita; leitura à primeira vista na segunda posição (Readind Studies for Guitar- William Leavitt); repertório para violão solo. Baixo -Estudo de Escalas e arpejos em 2 oitavas; leitura de cifras (tríades e tétrades); leitura de partituras em clave de fá – região grave; bases da estruturação da linha de baixo; técnicas de organização do estudo (técnica pura); acompanhamento de baião e xote.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP301"
+        ]
+    },
+    {
+        "code": "MP202",
+        "name": "Percussão II",
+        "credits": 3,
+        "syllabus": "Fundamentos rítmicos do samba aplicados à bateria: estudos de coordenação e linguagens.",
+        "reqs": [
+            [
+                {
+                    "code": "MP102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP302"
+        ]
+    },
+    {
+        "code": "MP203",
+        "name": "Sopros II",
+        "credits": 3,
+        "syllabus": "Concepção do blues e do baião. Fundamentos da improvisação. Modos da escala maior e acordes relacionados.",
+        "reqs": [
+            [
+                {
+                    "code": "MP103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP303"
+        ]
+    },
+    {
+        "code": "MP204",
+        "name": "Teclados II",
+        "credits": 3,
+        "syllabus": "Aberturas 15-73 e 15-37 (\"drops\"); campo harmônico; tríades: encadeamento e inversões; escalas maiores, menor harmônica e menor melódica com mãos juntas; modos frígio, eólio e lócrio; “voicings” em tonalidades menores.",
+        "reqs": [
+            [
+                {
+                    "code": "MP104"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP304"
+        ]
+    },
+    {
+        "code": "MP205",
+        "name": "Voz II",
+        "credits": 3,
+        "syllabus": "Estudo da voz cantada com enfoque sobre o desenvolvimento interpretativo e técnico, alcançado por meio da ênfase nos processos de escuta (de si e do outro), realização de exercícios vocais / corporais e da realização de repertório específico da canção popular brasileira midiatizada produzida entre os anos de 1945 e 1960.",
+        "reqs": [
+            [
+                {
+                    "code": "MP105"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP305"
+        ]
+    },
+    {
+        "code": "MP210",
+        "name": "Arranjo II",
+        "credits": 2,
+        "syllabus": "Técnicas de escrita musical para formações instrumentais diversas. Prática de arranjo em música popular.",
+        "reqs": [
+            [
+                {
+                    "code": "MP110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP310"
+        ]
+    },
+    {
+        "code": "MP220",
+        "name": "Prática Instrumental II",
+        "credits": 3,
+        "syllabus": "Execução em grupo de peças musicais em gêneros e estilos diversos e em grau progressivo de dificuldade.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP120"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP320"
+        ]
+    },
+    {
+        "code": "MP230",
+        "name": "Harmonia II",
+        "credits": 2,
+        "syllabus": "Estudo dos conceitos e procedimentos harmônicos característicos da música popular. Prática de escrita harmônica.",
+        "reqs": [
+            [
+                {
+                    "code": "MP130"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP330"
+        ]
+    },
+    {
+        "code": "MP240",
+        "name": "História e Linguagem da Música Popular II",
+        "credits": 2,
+        "syllabus": "O Jazz desde o seu surgimento no início do século XX até os dias atuais; estudo e audição de seus principais estilos, instrumentistas, grupos e compositores."
+    },
+    {
+        "code": "MP241",
+        "name": "Canto na Música Popular II",
+        "credits": 2,
+        "syllabus": "Estudo histórico e técnico do desenvolvimento da voz na canção popular brasileira, realizado a partir da escuta de fonogramas dos anos de 1946 a 1962, período de renovação do samba-canção e da bossa nova.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP141"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP341"
+        ]
+    },
+    {
+        "code": "MP250",
+        "name": "Música e Tecnologia II",
+        "credits": 2,
+        "syllabus": "Histórico, conceituação e terminologia do protocolo MIDI. Prática no manuseio de equipamentos MIDI.",
+        "reqs": [
+            [
+                {
+                    "code": "MP150"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP350",
+            "MP450"
+        ]
+    },
+    {
+        "code": "MP270",
+        "name": "Tópicos Especiais em Música II",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP170"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP370"
+        ]
+    },
+    {
+        "code": "MP301",
+        "name": "Cordas III",
+        "credits": 3,
+        "syllabus": "Técnica especíﬁca para mão direita; leitura à primeira vista na terceira posição (Readind Studies for Guitar- William Leavitt); repertório para violão solo. Baixo -Estudo de Escalas e arpejos em 3 oitavas; leitura de cifras (estruturas superiores); leitura de partituras em clave de fá – região média; bases da estruturação da linha de baixo; acompanhamento de samba.",
+        "reqs": [
+            [
+                {
+                    "code": "MP201"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP401"
+        ]
+    },
+    {
+        "code": "MP302",
+        "name": "Percussão III",
+        "credits": 3,
+        "syllabus": "Fundamentos rítmicos do jazz: estudos de coordenação e linguagens. Orientação de recital de intermédio de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MP202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP402"
+        ]
+    },
+    {
+        "code": "MP303",
+        "name": "Sopros III",
+        "credits": 3,
+        "syllabus": "Elementos da linguagem do jazz e do samba. Modos da escala menor harmônica e acordes relacionados. Orientação de recital de período intermediário de curso.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP203"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP403"
+        ]
+    },
+    {
+        "code": "MP304",
+        "name": "Teclados III",
+        "credits": 3,
+        "syllabus": "Aberturas divididas; acordes quebrados; escalas pentatônicas; escalas de dominante; \"walking bass\" simples; progressão de Blues; estudo de repertório variado e técnicas de solo e acompanhamento.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP204"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP404"
+        ]
+    },
+    {
+        "code": "MP305",
+        "name": "Voz III",
+        "credits": 3,
+        "syllabus": "Estudo da voz cantada com enfoque sobre o desenvolvimento interpretativo e técnico, alcançado por meio de ênfase nos processos de escuta (de si e do outro), realização de exercícios vocais/corporais e da realização de repertório específico da canção popular brasileira midiatizada produzida nos anos 1960 e identificada dentro dos respectivos nichos estéticos: Jovem Guarda, Tropicália e Canção Engajada.",
+        "reqs": [
+            [
+                {
+                    "code": "MP205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP405"
+        ]
+    },
+    {
+        "code": "MP310",
+        "name": "Arranjo III",
+        "credits": 2,
+        "syllabus": "Técnicas de escrita musical para formações instrumentais diversas. Prática de arranjo em música popular.",
+        "reqs": [
+            [
+                {
+                    "code": "MP210"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP410"
+        ]
+    },
+    {
+        "code": "MP320",
+        "name": "Prática Instrumental III",
+        "credits": 3,
+        "syllabus": "Execução em grupo de peças musicais em gêneros e estilos diversos e em grau progressivo de dificuldade.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP220"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP420"
+        ]
+    },
+    {
+        "code": "MP330",
+        "name": "Harmonia III",
+        "credits": 2,
+        "syllabus": "Estudo dos conceitos e procedimentos harmônicos característicos da música popular. Prática de escrita harmônica.",
+        "reqs": [
+            [
+                {
+                    "code": "MP230"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP430"
+        ]
+    },
+    {
+        "code": "MP340",
+        "name": "História e Linguagem da Música Popular III",
+        "credits": 2,
+        "syllabus": "Estudo da história da música popular brasileira das origens aos dias de hoje. Gêneros, estilos, artistas e movimentos."
+    },
+    {
+        "code": "MP341",
+        "name": "Canto na Música Popular III",
+        "credits": 2,
+        "syllabus": "Estudo histórico e técnico do desenvolvimento da voz na canção popular brasileira, realizado a partir da escuta de fonogramas da época dos festivais, jovem guarda e tropicália.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP241"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP441"
+        ]
+    },
+    {
+        "code": "MP350",
+        "name": "Música e Tecnologia III",
+        "credits": 2,
+        "syllabus": "Introdução à acústica, ao contexto histórico em que surgiram e se desenvolveram os equipamentos, e revisão de conceitos de eletricidade relacionados com áudio. Estúdios e sua acústica, e equipamentos para gravações sonoras, profissionais.",
+        "reqs": [
+            [
+                {
+                    "code": "MP250"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP370",
+        "name": "Tópicos Especiais em Música III",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP270"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP470"
+        ]
+    },
+    {
+        "code": "MP401",
+        "name": "Cordas IV",
+        "credits": 3,
+        "syllabus": "Estudos técnicos para violão (Villa-Lobos, Radamés Gnatali, Ulisses Rocha, etc); leitura à primeira vista na quarta posição (Readind Studies for Guitar- William Leavitt); repertório para violão solo. Baixo -Estudo de Escalas e arpejos em 3 oitavas; leitura de cifras (estruturas superiores e cadências); leitura de partituras em clave de fá – região aguda; acompanhamento de outros ritmos brasileiros – frevo, maracatu, valsa.",
+        "reqs": [
+            [
+                {
+                    "code": "MP301"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP501"
+        ]
+    },
+    {
+        "code": "MP402",
+        "name": "Percussão IV",
+        "credits": 3,
+        "syllabus": "Estilos de samba na bateria: padrões de execução do gênero.",
+        "reqs": [
+            [
+                {
+                    "code": "MP302"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP502"
+        ]
+    },
+    {
+        "code": "MP403",
+        "name": "Sopros IV",
+        "credits": 3,
+        "syllabus": "Elementos da linguagem da salsa e balada. Modos da escala menor melódica e acordes relacionados.",
+        "reqs": [
+            [
+                {
+                    "code": "MP303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP503"
+        ]
+    },
+    {
+        "code": "MP404",
+        "name": "Teclados IV",
+        "credits": 3,
+        "syllabus": "Técnicas de bloco; \"walking bass\" elaborado; \"voicings\" e rearmonização; estudo de repertório variado e técnicas de solo e acompanhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "MP304"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP504"
+        ]
+    },
+    {
+        "code": "MP405",
+        "name": "Voz IV",
+        "credits": 3,
+        "syllabus": "Estudo da voz cantada com enfoque sobre o desenvolvimento interpretativo e técnico, alcançado por meio da ênfase nos processos de escuta (de si e do outro), realização de exercícios vocais/corporais e da realização de repertório específico de conteúdo cancional do que se denominou Clube da Esquina.",
+        "reqs": [
+            [
+                {
+                    "code": "MP305"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP505"
+        ]
+    },
+    {
+        "code": "MP410",
+        "name": "Arranjo IV",
+        "credits": 2,
+        "syllabus": "Técnicas de escrita musical para formações instrumentais diversas. Prática de arranjo em música popular.",
+        "reqs": [
+            [
+                {
+                    "code": "MP310"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP510"
+        ]
+    },
+    {
+        "code": "MP420",
+        "name": "Prática Instrumental IV",
+        "credits": 3,
+        "syllabus": "Execução em grupo de peças musicais em gêneros e estilos diversos e em grau progressivo de dificuldade",
+        "reqs": [
+            [
+                {
+                    "code": "MP320"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP520"
+        ]
+    },
+    {
+        "code": "MP430",
+        "name": "Harmonia IV",
+        "credits": 2,
+        "syllabus": "Estudo dos conceitos e procedimentos harmônicos característicos da música popular. Prática de escrita harmônica.",
+        "reqs": [
+            [
+                {
+                    "code": "MP330"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP530"
+        ]
+    },
+    {
+        "code": "MP440",
+        "name": "História e Linguagem da Música Popular IV",
+        "credits": 2,
+        "syllabus": "Estudo da história da música popular brasileira das origens aos dias de hoje. Gêneros, estilos, artistas e movimentos.",
+        "reqBy": [
+            "MP540"
+        ]
+    },
+    {
+        "code": "MP441",
+        "name": "Canto na Música Popular IV",
+        "credits": 2,
+        "syllabus": "Estudo histórico e técnico do desenvolvimento da voz na música caipira e no samba paulista.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP341"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP541"
+        ]
+    },
+    {
+        "code": "MP450",
+        "name": "Música e Tecnologia IV",
+        "credits": 2,
+        "syllabus": "Laboratório de gravações, profissionais.",
+        "reqs": [
+            [
+                {
+                    "code": "MP250"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP470",
+        "name": "Tópicos Especiais em Música IV",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP370"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP570"
+        ]
+    },
+    {
+        "code": "MP501",
+        "name": "Cordas V",
+        "credits": 3,
+        "syllabus": "Estudos técnicos para violão (Villa-Lobos, Radamés Gnatali, Ulisses Rocha, etc); leitura à primeira vista na quinta posição (Readind Studies for Guitar- William Leavitt); introdução à improvisação; repertório para violão solo e em grupos. Baixo -Estudo de Escalas e arpejos em 3 oitavas; leitura de cifras; estudos de técnica e leitura; acompanhamento de Jazz.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP401"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP601"
+        ]
+    },
+    {
+        "code": "MP502",
+        "name": "Percussão V",
+        "credits": 3,
+        "syllabus": "Os bateristas de jazz e suas múltiplas linguagens.",
+        "reqs": [
+            [
+                {
+                    "code": "MP402"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP602"
+        ]
+    },
+    {
+        "code": "MP503",
+        "name": "Sopros V",
+        "credits": 3,
+        "syllabus": "Estudo de improvisação no bebop, samba e demais gêneros em andamentos rápidos. Estudo de progressões e acordes relacionados.",
+        "reqs": [
+            [
+                {
+                    "code": "MP403"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP603"
+        ]
+    },
+    {
+        "code": "MP504",
+        "name": "Teclados V",
+        "credits": 3,
+        "syllabus": "Harmonia quartal; técnicas de arranjo; estudo de repertório variado e técnicas de solo e acompanhamento.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP604"
+        ]
+    },
+    {
+        "code": "MP505",
+        "name": "Voz V",
+        "credits": 3,
+        "syllabus": "Estudo da voz cantada com enfoque sobre o desenvolvimento interpretativo e técnico, alcançado por meio da ênfase nos processos de escuta (de si e do outro), realização de exercícios vocais/corporais e da realização de repertório específico da música caipira e do samba paulista.",
+        "reqs": [
+            [
+                {
+                    "code": "MP405"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP605"
+        ]
+    },
+    {
+        "code": "MP510",
+        "name": "Arranjo V",
+        "credits": 2,
+        "syllabus": "Técnicas de escrita musical para formações instrumentais diversas. Prática de arranjo em música popular.",
+        "reqs": [
+            [
+                {
+                    "code": "MP410"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP610"
+        ]
+    },
+    {
+        "code": "MP520",
+        "name": "Prática Instrumental V",
+        "credits": 3,
+        "syllabus": "Execução em grupo de peças musicais em gêneros e estilos diversos e em grau progressivo de dificuldade.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP420"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP620"
+        ]
+    },
+    {
+        "code": "MP530",
+        "name": "Harmonia V",
+        "credits": 2,
+        "syllabus": "Ênfase em novos conceitos harmônicos; discussão e uso de técnicas harmônicas não funcionais e sistemas complexos; análise de repertório representativo.",
+        "reqs": [
+            [
+                {
+                    "code": "MP430"
+                }
+            ],
+            [
+                {
+                    "code": "MU446"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP630"
+        ]
+    },
+    {
+        "code": "MP540",
+        "name": "História e Linguagem da Música Popular V",
+        "credits": 2,
+        "syllabus": "Estudo da história da música popular brasileira das origens aos dias de hoje. Gêneros, estilos, artistas e movimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "MP440"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP640"
+        ]
+    },
+    {
+        "code": "MP541",
+        "name": "Canto na Música Popular V",
+        "credits": 2,
+        "syllabus": "Estudo progressivo e sistemático do repertório referente à música caipira e ao samba paulista.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP441"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP641"
+        ]
+    },
+    {
+        "code": "MP570",
+        "name": "Tópicos Especiais em Música V",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP470"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP670"
+        ]
+    },
+    {
+        "code": "MP601",
+        "name": "Cordas VI",
+        "credits": 3,
+        "syllabus": "Técnica aplicada às escalas; análise e utilização das escalas para improvisação;repertório para violão solo e em grupos. Baixo -iniciação à improvisação; estudos de técnica e leitura; acompanhamento de ritmos caribenhos.",
+        "reqs": [
+            [
+                {
+                    "code": "MP501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP701",
+            "MU999"
+        ]
+    },
+    {
+        "code": "MP602",
+        "name": "Percussão VI",
+        "credits": 3,
+        "syllabus": "Os conceitos de bateria linear e permutação, e sua aplicação nos contextos funk e pop.",
+        "reqs": [
+            [
+                {
+                    "code": "MP502"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP702",
+            "MU999"
+        ]
+    },
+    {
+        "code": "MP603",
+        "name": "Sopros VI",
+        "credits": 3,
+        "syllabus": "Elementos da improvisação na música popular instrumental brasileira pós quarteto novo. Hermeto Pascoal e afins.",
+        "reqs": [
+            [
+                {
+                    "code": "MP503"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP703",
+            "MU999"
+        ]
+    },
+    {
+        "code": "MP604",
+        "name": "Teclados VI",
+        "credits": 3,
+        "syllabus": "Escalas alteradas e estruturas superiores; estudo de repertório variado e técnicas de solo e acompanhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "MP504"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP704",
+            "MU999"
+        ]
+    },
+    {
+        "code": "MP605",
+        "name": "Voz VI",
+        "credits": 3,
+        "syllabus": "Estudo da voz cantada com enfoque sobre o desenvolvimento interpretativo e técnico, alcançado por meio da ênfase nos processos de escuta ( de si e do outro), realização de exercícios vocais/corporais e da realização de repertório específico da canção popular brasileira midiatizada produzido no início dos anos 1980 dentro do que se tornou conhecido como Vanguarda Paulista.",
+        "reqs": [
+            [
+                {
+                    "code": "MP505"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP705",
+            "MU999"
+        ]
+    },
+    {
+        "code": "MP610",
+        "name": "Arranjo VI",
+        "credits": 2,
+        "syllabus": "Técnicas de escrita musical para formações instrumentais diversas. Prática de arranjo em música popular.",
+        "reqs": [
+            [
+                {
+                    "code": "MP510"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP620",
+        "name": "Prática Instrumental VI",
+        "credits": 3,
+        "syllabus": "Execução em grupo de peças musicais em gêneros e estilos diversos e em grau progressivo de dificuldade.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP520"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP720"
+        ]
+    },
+    {
+        "code": "MP630",
+        "name": "Harmonia VI",
+        "credits": 2,
+        "syllabus": "Estudo de escalas e progressões harmônicas modais. Análise harmônica e técnicas de escrita.",
+        "reqs": [
+            [
+                {
+                    "code": "MP530"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP640",
+        "name": "História e Linguagem da Música Popular VI",
+        "credits": 2,
+        "syllabus": "Estudo da história da música popular brasileira das origens aos dias de hoje. Gêneros, estilos, artistas e movimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "MP540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP641",
+        "name": "Canto na Música Popular VI",
+        "credits": 2,
+        "syllabus": "Estudo progressivo e sistemático do repertório que caracteriza a vanguarda paulista, bem como a produção alternativa de música na cidade de São Paulo nos anos 1980.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP541"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP741"
+        ]
+    },
+    {
+        "code": "MP670",
+        "name": "Tópicos Especiais em Música VI",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP570"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP770"
+        ]
+    },
+    {
+        "code": "MP701",
+        "name": "Cordas VII",
+        "credits": 3,
+        "syllabus": "Técnica aplicada aos arpejos para improvisação; arranjo para violão; repertório para violão solo e em grupos. Baixo -Estudos de improvisação; preparação do Recital de Formatura.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP801"
+        ]
+    },
+    {
+        "code": "MP702",
+        "name": "Percussão VII",
+        "credits": 3,
+        "syllabus": "Música Popular Brasileira pós 1970 e a incorporação de ritmos regionais na bateria. ",
+        "reqs": [
+            [
+                {
+                    "code": "MP602"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP802"
+        ]
+    },
+    {
+        "code": "MP703",
+        "name": "Sopros VII",
+        "credits": 3,
+        "syllabus": "Estudo de improvisação no jazz e na MPB instrumental focado no repertório contemporâneo avançado.",
+        "reqs": [
+            [
+                {
+                    "code": "MP603"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP803"
+        ]
+    },
+    {
+        "code": "MP704",
+        "name": "Teclados VII",
+        "credits": 3,
+        "syllabus": "Escalas alteradas; baixo 7 cordas; harmonia quartal; estruturas superiores; estudo de repertório variado e técnicas de solo e acompanhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "MP604"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP804"
+        ]
+    },
+    {
+        "code": "MP705",
+        "name": "Voz VII",
+        "credits": 3,
+        "syllabus": "Estudo da voz cantada com enfoque sobre o desenvolvimento interpretativo e técnico, alcançado por meio da ênfase nos processos de escuta (de si e do outro), realização de exercícios vocais/corporais e da realização de repertório específico da canção popular latino-americana.",
+        "reqs": [
+            [
+                {
+                    "code": "MP605"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP805"
+        ]
+    },
+    {
+        "code": "MP720",
+        "name": "Prática Instrumental VII",
+        "credits": 3,
+        "syllabus": "Execução em grupo de peças musicais em gêneros e estilos diversos e em grau progressivo de dificuldade.",
+        "reqs": [
+            [
+                {
+                    "code": "MP620"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP820"
+        ]
+    },
+    {
+        "code": "MP741",
+        "name": "Canto na Música Popular VII",
+        "credits": 2,
+        "syllabus": "Estudo progressivo e sistemático da canção popular produzida nos países da América Latina, com enfoque especial para Argentina, Chile, Cuba, Peru e México.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP641"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP770",
+        "name": "Tópicos Especiais em Música VII",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP670"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP870"
+        ]
+    },
+    {
+        "code": "MP801",
+        "name": "Cordas VIII",
+        "credits": 3,
+        "syllabus": "Preparação do Recital de Formatura. Baixo -preparação do Recital de Formatura.",
+        "reqs": [
+            [
+                {
+                    "code": "MP701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP802",
+        "name": "Percussão VIII",
+        "credits": 3,
+        "syllabus": "Leitura avançada para bateria. Orientação de recital de conclusão de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MP702"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP803",
+        "name": "Sopros VIII",
+        "credits": 3,
+        "syllabus": "Estudo de improvisação no jazz e na MPB instrumental focado no repertório contemporâneo avançado.",
+        "reqs": [
+            [
+                {
+                    "code": "MP703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP804",
+        "name": "Teclados VIII",
+        "credits": 3,
+        "syllabus": "Recital: montagem e preparação de programa para apresentação (incluindo produção, divulgação e gravação).\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MP704"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP805",
+        "name": "Voz VIII",
+        "credits": 3,
+        "syllabus": "Estudo técnico e interpretativo sobre repertório específico proposto pelo aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MP705"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP820",
+        "name": "Prática Instrumental VIII",
+        "credits": 3,
+        "syllabus": "Execução em grupo de peças musicais em gêneros e estilos diversos e em grau progressivo de dificuldade.",
+        "reqs": [
+            [
+                {
+                    "code": "MP720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MP870",
+        "name": "Tópicos Especiais em Música VIII",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MP770"
+                }
+            ]
+        ]
+    }
+]

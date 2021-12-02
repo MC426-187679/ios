@@ -1,0 +1,1911 @@
+[
+    {
+        "code": "MD126",
+        "name": "Plantão de Emergência Cirúrgica",
+        "credits": 3,
+        "syllabus": "Desenvolver habilidades e competências para o atendimento integrado nas áreas de emergência e urgências cirúrgicas do adulto. Primeiras medidas de atendimento e diagnóstico sindrômico. As atividades serão desenvolvidas em períodos noturnos, feriados e finais de semana no decorrer dos 11º e 12º semestres. Esta disciplina será oferecida em 52 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD127",
+        "name": "Plantão de Emergência Médica",
+        "credits": 17,
+        "syllabus": "Desenvolver habilidades e competências para o atendimento integrado nas áreas de emergência e urgências médico-cirúrgicas do adulto. Primeiras medidas de atendimento e diagnóstico sindrômico. As atividades serão desenvolvidas em períodos noturnos, feriados e finais de semana no decorrer dos 11º e 12º semestres. Esta disciplina será oferecida em 52 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD131",
+        "name": "Atenção Integral à Saúde da Criança e do Adolescente II",
+        "credits": 16,
+        "syllabus": "Desenvolver conhecimentos, habilidades e atitudes em relação ao cuidado da saúde do recém-nascido, da criança e do adolescente. Atividades em serviço em Unidades de Emergência Pediátrica de complexidade secundária e terciária e prática de internação em Enfermaria Geral Pediátrica e Unidade de Neonatologia de complexidades secundárias. Atividades teórico-práticas sobre as doenças pediátricas mais prevalentes. Ética. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 6 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD132",
+        "name": "Atenção Integral à Saúde da Mulher II",
+        "credits": 11,
+        "syllabus": "Treinamento em serviços ambulatoriais e hospitalares com pacientes ginecológicos e obstétricos de nível secundário e terciário de atenção. Ética. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 04 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD133",
+        "name": "Atenção Clínico-Cirúrgica II",
+        "credits": 13,
+        "syllabus": "Desenvolver atividades teórico-práticas nas áreas de cirurgia vascular, moléstias vasculares, cirurgia de cabeça e pescoço e urologia. Os alunos deverão desenvolver capacidade para diagnosticar, solicitar exames diagnósticos, e desenvolver competência para atendimento das doenças mais prevalentes em cada área. Ética. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 05 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD134",
+        "name": "Atenção Clínico-Cirúrgica III",
+        "credits": 21,
+        "syllabus": "Desenvolver atividades teórico-práticas nas áreas Clínicas de Reumatologia, Hematologia, Nefrologia, Endocrinologia, Pneumologia e Cirurgia Torácica. Os alunos deverão desenvolver competências para o atendimento das doenças mais prevalentes em cada área. Ética. Esta disciplina será oferecida em 48 semanas, sob a forma de rodízio, onde cada aluno deverá cumprir 8 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD135",
+        "name": "Anestesiologia",
+        "credits": 8,
+        "syllabus": "Visita pré-anestésica em cirurgias eletivas. Anestesia geral e bloqueios espinhais. Manuseio de drogas depressoras do SNC, bloqueadores neuromusculares, anestésicos locais. Complicações anestésicas. Assistência ventilatória, práticas de ventilação e intubação traqueal. Monitorização intra-operatória. Prática de acessos venosos periféricos. Reanimação cardiorespiratória. Princípios de anestesia obstétrica. Dor aguda e crônica: fisiopatologia e tratamento. Ética. Esta disciplina será oferecida em 48 semanas sob forma de rodízio, onde cada aluno deverá cumprir 3 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD136",
+        "name": "Emergência",
+        "credits": 21,
+        "syllabus": "Desenvolver competências para o atendimento integrado nas áreas de emergência e urgência médicas do adulto: Diagnóstico sindrômico, primeiras medidas de atendimento e acompanhamento clínico e cirúrgico. Ética. Esta disciplina será oferecida em 48 semanas, sob forma de rodízio, onde cada aluno deverá cumprir 8 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD138",
+        "name": "Cirurgia do Trauma",
+        "credits": 5,
+        "syllabus": "Atividades práticas na Unidade de Emergência Referenciada e na Enfermaria, Centro Cirúrgico, UTI, Ambulatório e SAMU-Campinas, em clínica cirúrgica e urgências cirúrgicas, realizando acompanhamento aos doentes críticos, participando do diagnóstico e do tratamento. Indicar e interpretar exames subsidiários, conduzir o pré e pós-operatório, reconhecer as principais complicações pós-operatórios. Ética. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 02 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD139",
+        "name": "Atenção Clínico-Cirúrgica IV",
+        "credits": 16,
+        "syllabus": "Desenvolver atividades teórico-prático nas áreas de Gastroenterologia Clínica e Cirúrgica, adquirindo e consolidando conhecimentos sobre as doenças mais comuns do aparelho digestivo em nosso meio, tanto no tratamento clínico como cirúrgico. Os alunos deverão desenvolver competências para o atendimento das doenças mais prevalentes em cada área. Ética. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde o aluno deverá cumprir 06 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD941"
+                },
+                {
+                    "code": "MD942"
+                },
+                {
+                    "code": "MD943"
+                },
+                {
+                    "code": "MD944"
+                },
+                {
+                    "code": "MD951"
+                },
+                {
+                    "code": "MD952"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD141",
+        "name": "Prática de Ciências I",
+        "credits": 4,
+        "syllabus": "Iniciação ao pensamento crítico relativo ao conhecimento científico e senso comum. A pesquisa científica e suas características. Desenvolvimento e habilidades para a análise crítica e construção do conhecimento científico. A busca da informação e suas evidências científicas. Fundamentos para análise de dados. Estruturação de um projeto de pesquisa.",
+        "reqBy": [
+            "MD241"
+        ]
+    },
+    {
+        "code": "MD142",
+        "name": "Ações de Saúde Pública I",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo da saúde coletiva, do sistema de saúde brasileiro, e dos determinantes do processo de saúde-doença - atenção com ênfase no território. Realização da primeira experiência de estágio em serviços de saúde, possibilitando uma visão crítica tanto dos papéis desempenhados pelas instituições e profissionais da área quanto da política da saúde do Brasil.",
+        "reqBy": [
+            "MD242",
+            "MD342",
+            "MD442"
+        ]
+    },
+    {
+        "code": "MD148",
+        "name": "Ética I",
+        "credits": 2,
+        "syllabus": "Introdução aos conceitos básicos da ética e suas articulações na sociedade a partir de análise de situações concretas que permitam enfatizar o estudo da posição e dos direitos humanos na Sociedade Brasileira e no contexto internacional. Ética e pesquisa em seres humanos. Atuação dos comitês de ética em pesquisa. Noções de políticas públicas em saúde.",
+        "reqBy": [
+            "MD748",
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD151",
+        "name": "Epidemiologia para Ciências Farmacêuticas",
+        "credits": 8,
+        "syllabus": "Epidemiologia: definições, histórico, usos. População e saúde. Medidas de frequência de doenças. Indicadores de saúde. Vigilância epidemiológica e sanitária. O laboratório de saúde pública e seu papel na vigilância sanitária e epidemiológica. Investigação epidemiológica. Validação e validade de estudos epidemiológicos. Medidas de risco e causalidade. Estudos epidemiológicos experimentais e observacionais. Fármaco-epidemiologia. Estudos sobre a utilização de medicamentos: conceito, métodos, e aplicações. Farmacovigilância: conceito, métodos e aplicações. Farmacovigilância no Brasil e no mundo.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD163",
+        "name": "Ética e Bioética I",
+        "credits": 2,
+        "syllabus": "Introdução aos conceitos básicos da Ética e suas articulações na sociedade a partir da análise de situações concretas que permitam enfatizar o estudo da posição dos direitos humanos na sociedade brasileira e no contexto internacional. Abordagem filosófica sobre educação, cultura e valores. Globalização e desenvolvimento. Estudo das raízes socioculturais da violência. Espiritualidade e religiosidade."
+    },
+    {
+        "code": "MD164",
+        "name": "Ética e Bioética II",
+        "credits": 2,
+        "syllabus": "Introdução a aspectos históricos da Bioética. Principais correntes filosóficas da Bioética. A Declaração Universal de Bioética e Direitos Humanos da UNESCO. Direitos humanos, autonomia, justiça e cidadania. Morte encefálica, eutanásia, distanásia, ortotanásia e transplante de órgãos. Discussão de conceito básicos a partir de casos concretos."
+    },
+    {
+        "code": "MD182",
+        "name": "Líquidos Biológicos",
+        "credits": 4,
+        "syllabus": "Coleta de espécimes clínicos, realização e interpretação de exames em urinálise, derrames cavitários, líquido cefaloraquidiano, sinovial e seminal. Rotinas de pequena, média e alta complexidade. Cumprimento das normas de controle de qualidade e as normas da ANVISA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BB315"
+                },
+                {
+                    "code": "FR407",
+                    "partial": true
+                },
+                {
+                    "code": "FR505"
+                },
+                {
+                    "code": "FR506"
+                },
+                {
+                    "code": "FR507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD183",
+        "name": "Bioquímica Clínica",
+        "credits": 4,
+        "syllabus": "Coleta de espécimes clínicos, realização e interpretação de exames em bioquímica clínica e toxicologia. Rotinas de pequena, média e alta complexidade. Cumprimento das normas de controle de qualidade e as normas da ANVISA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BB315"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD187",
+        "name": "Fisiologia Clínica",
+        "credits": 4,
+        "syllabus": "Coleta de espécimes clínicos, realização e interpretação de exames para avaliação funcional de glândulas endócrinas e para determinação de marcadores tumoriais séricos. Rotinas de pequena, média e alta complexidade. Cumprimento das normas de controle de qualidade e as normas da ANVISA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BB315"
+                },
+                {
+                    "code": "FR407",
+                    "partial": true
+                },
+                {
+                    "code": "FR505"
+                },
+                {
+                    "code": "FR506"
+                },
+                {
+                    "code": "FR507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD188",
+        "name": "Hematologia Clínica",
+        "credits": 4,
+        "syllabus": "Coleta de espécimes clínicos, realização e interpretação de exames em hematologia clínica. Rotinas de pequena, média e alta complexidade. Cumprimento das normas de controle de qualidade e as normas da ANVISA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BS215"
+                },
+                {
+                    "code": "FR407",
+                    "partial": true
+                },
+                {
+                    "code": "FR505"
+                },
+                {
+                    "code": "FR506"
+                },
+                {
+                    "code": "FR507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD189",
+        "name": "Microbiologia Clínica",
+        "credits": 4,
+        "syllabus": "Preparação de meios de cultura e reagentes. Coleta de espécimes clínicos para exames microbiológicos. Avaliação pré-analítica, realização e interpretação de exames de rotina de pequena, média e alta complexidades em Microbiologia Clínica, cumpridas as normas setoriais de controle de qualidade e as normas da ANVISA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BM415"
+                },
+                {
+                    "code": "BP515"
+                },
+                {
+                    "code": "FR407",
+                    "partial": true
+                },
+                {
+                    "code": "FR505"
+                },
+                {
+                    "code": "FR506"
+                },
+                {
+                    "code": "FR507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD190",
+        "name": "Imunologia e Parasitologia Clínicas",
+        "credits": 4,
+        "syllabus": "Coleta de espécimes clínicos, realização e interpretação de exames em imunologia e parasitologia clínicas. Rotinas de pequena, média e alta complexidade. Cumprimento das normas de controle de qualidade e as normas da ANVISA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BI315"
+                },
+                {
+                    "code": "BM415"
+                },
+                {
+                    "code": "BP515"
+                },
+                {
+                    "code": "FR407",
+                    "partial": true
+                },
+                {
+                    "code": "FR505"
+                },
+                {
+                    "code": "FR506"
+                },
+                {
+                    "code": "FR507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD191",
+        "name": "Saúde Pública nas Ciências Farmacêuticas",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo do sistema de saúde brasileiro. Programas e políticas de saúde pública e seus condicionantes sócio-políticos, históricos e econômicos. Visão crítica dos papéis desempenhados por instituições e profissionais da área, seja pela produção do planejamento de saúde no Brasil. Assistência farmacêutica no âmbito do SUS. Noções de Farmacoeconomia."
+    },
+    {
+        "code": "MD212",
+        "name": "Psicologia Geral e do Desenvolvimento",
+        "credits": 3,
+        "syllabus": "Desenvolvimento mental normal do ser humano, num contexto evolutivo e dinâmico. Conceitos básicos do desenvolvimento mental em suas várias etapas desde a concepção até a morte. A prática da enfermagem e sua relação com a psicologia. Conceitos fundamentais da Psicologia geral (inteligência, memória, humor, afetividade, pensamento e orientação)."
+    },
+    {
+        "code": "MD214",
+        "name": "Epidemiologia, Enfermagem e Saúde",
+        "credits": 4,
+        "syllabus": "Definição e usos da Epidemiologia. Conceitos básicos. População e saúde: noções de demografia, crescimento populacional. Transição demográfica e epidemiológica. A medida das condições de saúde: Fontes de informações. Principais indicadores de mortalidade. Letalidade. Mortalidade infantil e principais componentes. Incidência. Prevalência. Diagnóstico descritivo em Epidemiologia. Medidas de risco. A Epidemiologia e o controle das doenças. Epidemias e endemias. Investigação epidemiológica. Vigilância epidemiológica. Validação de testes diagnósticos. Desenhos epidemiológicos."
+    },
+    {
+        "code": "MD215",
+        "name": "Epidemiologia e Saúde",
+        "credits": 4,
+        "syllabus": "Definição de uso da Epidemiologia. População e saúde. Noções de demografia. Transição demográfica e epidemiológica. A medida das condições de saúde - fontes de informações. Indicadores epidemiológicos. Mortalidade geral e proporcional. Mortalidade Infantil. A medida das doenças, incidência, prevalência, letalidade. Diagnóstico descritivo em Epidemiologia. Medidas de associação e efeito. A Epidemiologia e o controle das doenças. Epidemia e endemias. Investigação epidemiológica. Banco de dados. Vigilância Epidemiológica. Programas de controle de doenças. Validação de testes diagnósticos."
+    },
+    {
+        "code": "MD223",
+        "name": "Atenção à Saúde no Brasil",
+        "credits": 4,
+        "syllabus": "Estudo do sistema de saúde brasileiro, destacando o papel da Saúde Pública, os problemas que enfrenta, suas tecnologias, organização em serviços e políticas. Política de saúde pública atual e processos de trabalho junto aos serviços de saúde.",
+        "reqBy": [
+            "FN208",
+            "FN406",
+            "FN413",
+            "FN745",
+            "FN845"
+        ]
+    },
+    {
+        "code": "MD231",
+        "name": "Patologia Geral",
+        "credits": 3,
+        "syllabus": "Introdução à patologia geral: métodos de estudos, finalidade, conceito de doença, etiologia, patogenia. Alterações metabólicas e processsos regressivos. Alterações circulatórias. Inflamações agudas e crônicas: inflamações específicas. Cicatrização. Alterações de crescimento celular: conceito de neoplasia.",
+        "reqs": [
+            [
+                {
+                    "code": "BH125"
+                }
+            ],
+            [
+                {
+                    "code": "BH280"
+                },
+                {
+                    "code": "BH381"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD241",
+        "name": "Prática de Ciências II",
+        "credits": 3,
+        "syllabus": "Conceitos, definições e aplicações da estatística na pesquisa científica. Análise exploratória de dados. Teste de Hipótese. Probabilidade e variável aleatória. Medidas de frequência e de associação/efeito. Caracteristícas gerais dos delineamentos de estudos epidemiológicos. Medidas de ocorrência, associação, efeito e impacto. Validação do instrumental epidemiológico.",
+        "reqs": [
+            [
+                {
+                    "code": "MD141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD242",
+        "name": "Ações de Saúde Pública II",
+        "credits": 4,
+        "syllabus": "Aprofundar a compreensão de alguns conteúdos básicos e introdutórios da Saúde Coletiva, com ênfase nas competências e habilidades que os alunos adquirirão para desenvolver projetos em relação com equipes e comunidades.",
+        "reqs": [
+            [
+                {
+                    "code": "MD142"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD342",
+            "MD442"
+        ]
+    },
+    {
+        "code": "MD243",
+        "name": "Medicina e Saúde",
+        "credits": 2,
+        "syllabus": "Estudo de comportamento humano relacionado com o adoecer, tanto na perspectiva do doente quanto do médico. Desenvolvimento de habilidades e competências de comunicação interpessoal e de observação fundamentais para o exercício da Medicina."
+    },
+    {
+        "code": "MD244",
+        "name": "Introdução à Imunologia Médica",
+        "credits": 2,
+        "syllabus": "Apresenta conceitos básicos de estrutura, organização e resposta imune. Caracteriza a função das principais moléculas e células envolvidas nas respostas imunes inata e adaptativa. Apresenta mecanismos envolvidos nas respostas humorais e celulares. Apresenta e discute casos clínicos que ilustram a importância da resposta imune em Medicina."
+    },
+    {
+        "code": "MD248",
+        "name": "Ética II",
+        "credits": 2,
+        "syllabus": "Continuidade dos estudos iniciados na MD148. Abordagem médica e filosófica sobre educação, cultura e valor. Parâmetros legais, cultura e religiosidade dos pacientes. Introdução ao código de ética médica.",
+        "reqBy": [
+            "MD748",
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD311",
+        "name": "Genética para Enfermagem I",
+        "credits": 2,
+        "syllabus": "O material genético, constituição dos cromossomos, ação gênica e análise do DNA. Estudo do cariótipo humano normal e das aberrações cromossômicas. Genética e câncer. Padrões de herança clássicos e não clássicos. Determinação e diferenciação do sexo. Os genes nas populações. Princípios de teratogênese e mutagênese.",
+        "reqBy": [
+            "MD636"
+        ]
+    },
+    {
+        "code": "MD342",
+        "name": "Saúde e Sociedade I",
+        "credits": 4,
+        "syllabus": "Relaçõs entre Saúde e Sociedade, estudadas do ponto de vista da integralidade da assistência nos níveis de complexidade da rede de serviços de saúde, considerando a especificidade de um determinado problema de saúde, no âmbito das políticas públicas de saúde dirigidas ao problema abordado. A estratégia básica do Módulo pressupõe o atendimento a demandas da rede pública de serviços de saúde, num processo de estreita colaboração entre os vários atores envolvidos na construção, desenvolvimento e avaliação das atividades.",
+        "reqs": [
+            [
+                {
+                    "code": "MD142"
+                },
+                {
+                    "code": "MD242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD442"
+        ]
+    },
+    {
+        "code": "MD343",
+        "name": "Princípios de Farmacologia",
+        "credits": 3,
+        "syllabus": "Conhecimentos gerais de Farmacocinética (princípios que regem absorção, distribuição, metabolização e eliminação de fármacos) e de Farmacodinâmica. Farmacologia do sistema nervoso autônomo (agonistas colinérgicos adrenérgicos e seus respectivos antagonistas e Anticolinesterásticos) e da junção neuromuscular.",
+        "reqs": [
+            [
+                {
+                    "code": "BS100"
+                },
+                {
+                    "code": "BS103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD447"
+        ]
+    },
+    {
+        "code": "MD344",
+        "name": "Laboratório de Habilidades I",
+        "credits": 2,
+        "syllabus": "Identificação de vítimas em situação crítica. Paciente traumatizado. Medidas básicas de reanimação, suporte de vida e primeiros socorros. Princípios de atendimento pré-hospitalar.",
+        "reqBy": [
+            "MD444"
+        ]
+    },
+    {
+        "code": "MD348",
+        "name": "Bioética I",
+        "credits": 2,
+        "syllabus": "MD348 – Bioética I\n1. EMENTA\nIntrodução à Bioética. Discussão de conceitos básicos a partir de casos concretos. Análise de temas como morte encefálica, distanásia, transplante de órgãos, aborto e clonagem.\n2. COORDENAÇÃO\nProf. Dr. Francisco Hideo Aoki (Gestor)\nProfa. Dra. Daniele Sacardo (Cogestor)\n3. OBJETIVOS\nIntroduzir os principais conceitos da Bioética. Compreender o desenvolvimento da Bioética como ramo da Ética e como parte importante do conhecimento necessário à boa formação médica e cidadã. Discutir os principais temas e áreas de conflito no campo da Bioética.\n4. TEMAS ABORDADOS\nBioética – histórico e conceituação; Declaração Universal de Bioética e Direitos Humanos – UNESCO; Dignidade Humana, Consentimento, Vulnerabilidade, Autonomia; Igualdade, Justiça e Eqüidade; Beneficência e não-maleficência; Proteção do meio-ambiente, biosfera e biodiversidade; Proteção das gerações futuras; Bioética e envelhecimento; Morte encefálica e transplantes. O paciente sem proposta terapêutica curativa; Eutanásia, distanásia e ortotanásia.\n5. CORPO DOCENTE \nDocente\nProfa. Dra. Daniele Sacardo (DSC)\nProf. Dr. Flávio César de Sá (DSC)\nProf. Dr. Francisco Hideo Aoki (Depto. Clínica Médica)\nProfa. Dra Irene Harumi K. Barcelos (Depto. Radiologia)\nPROFISSIONAIS AUXILIARES DE ENSINO\nMst. Francis Bozolan Sunaga\nProf. Dr. Venâncio Pereira Dantas Filho (Serviço de Neurocirurgia – HC/UNICAMP)\nDra. Thaís Ferreira de Araújo\nPED\nAriane Camargo Parra\n6. SISTEMA DE AVALIAÇÃO DO DESEMPENHO DO ESTUDANTE\n\nNas aulas assinaladas (*), haverá uma discussão em grupos que receberá uma nota por  do docente. Como preparação para as discussões os alunos deverão ler um texto e responder exercícios que serão disponibilizados na plataforma Moodle. Os exercícios deverão ser resolvidos até a meia-noite do domingo que antecede a discussão. Os alunos que não fizerem os exercícios no prazo, poderão fazê-lo até 48 horas depois da discussão, com nota reduzida em 25%. Não serão aceitos exercícios em outro meio que não seja através da plataforma Moodle.\nTodos os alunos deverão ler o livro “Sobre a morte e o morrer”, de Elizabeth Kübler-Ross. Deverão entregar, ao final do semestre, um fichamento acompanhado de uma reflexão sobre o livro.\nA nota final será composta pela média notas das discussões em grupo (peso 1), o fichamento e reflexão sobre o livro (peso 1) e as notas dos exercícios no Moodle (peso 2). A nota exigida para aprovação sem exame será igual ou superior a 7,0 (sete).\nQuatro ou mais faltas implicam em reprovação.\n\n7. BIBLIOGRAFIA \nSérgio Ibiapina Ferreira Costa, Volnei Garrafa e Gabriel Oselka - Iniciação à Bioética - Conselho Federal de Medicina, disponível para consulta ou download em http://www.portalmedico.org.br/index.asp?opcao=bibliotecaLivrosOnline&portal=\nUNESCO - Declaração Universal de Bioética e Direitos Humanos - disponível para consulta ou download em http://www.mct.gov.br/upd_blob/8685.pdf\nLeo Pessini – Distanásia – Até quando prolongar a vida?, Ed. Loyola, São Paulo, 2008\nTom Beauchamp & James Childress – Princípios de Ética Biomédica, Ed. Loyola, São Paulo, 2008\nConselho Nacional de Saúde – Resolução 466/12, disponível para consulta ou download em http://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf\nElizabeth Kübler-Ross - Sobre a morte e o morrer. Livraria Martins Fontes Editora, São Paulo, 2017.\n8. DESENVOLVIMENTO DO MÓDULO\nAs aulas com a turma toda acontecerão no Anfiteatro 1 – Legolândia\nAs aulas em grupos serão nas seguintes salas: Anf. 2 ; salas FCM9 e FCM10.",
+        "reqBy": [
+            "MD748",
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD350",
+        "name": "Funções Corticais na Infância",
+        "credits": 2,
+        "syllabus": "Fornecer conhecimentos básicos sobre neuropsicologia infantil e funções corticais superiores, bem como relacionar tais conhecimentos com o desenvolvimento e a aprendizagem da criança.",
+        "reqs": [
+            [
+                {
+                    "code": "BS280"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD362",
+        "name": "Farmacologia Básica",
+        "credits": 4,
+        "syllabus": "Farmacologia geral (princípios que regem absorção, distribuição, metabolização e eliminação de drogas). Noções de Farmacodinâmica. Farmacologia do Sistema Nervoso Autônomo (agonistas colinérgicos e adrenérgicos e seus respectivos antagonistas: anticolinesterásticos). Farmacologia do Sistema Cardiovascular (drogas anti-hipertensivas e glicosídeos cardiotônicos). Farmacologia do processo inflamatório e drogas anti-inflamatórias, tais como glicocorticoides e anti-inflamatórios não esteroidais.",
+        "reqs": [
+            [
+                {
+                    "code": "BB123"
+                },
+                {
+                    "code": "BF284"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD462"
+        ]
+    },
+    {
+        "code": "MD410",
+        "name": "Aspectos Neurológicos do Desenvolvimento e seus Distúrbios",
+        "credits": 2,
+        "syllabus": "Cérebro e linguagem. Semiologia neurológica. Escalas de neurodesenvolvimento. Definição e classificação da deficiência intelectual. Epilepsia. Paralisia Cerebral. Etiologias do retardo do desenvolvimento neuropsicomotor. Distúrbio específico de linguagem. A interseção entre neurologia e fonoaudiologia."
+    },
+    {
+        "code": "MD430",
+        "name": "Psicologia Aplicada à Saúde",
+        "credits": 2,
+        "syllabus": "Saúde e Relações mente/corpo. Concepção psicossomática do binômio saúde/doença. O papel do enfermeiro no lidar com o doente e os mecanismos psicológicos subjacentes à doença.",
+        "reqBy": [
+            "EN555"
+        ]
+    },
+    {
+        "code": "MD442",
+        "name": "Saúde e Sociedade II",
+        "credits": 4,
+        "syllabus": "Relações entre Saúde e Sociedade, estudadas do ponto de vista da integralidade da assistência nos níveis de complexidade da rede de serviços de saúde, considerando a especificidade de um determinado problema de saúde, no âmbito das políticas públicas de saúde dirigidas ao problema abordado. Dando continuidade à MD342, ministrada no primeiro semestre, a MD442 deverá aprofundar e sistematizar os conhecimentos e experiências acumulados no primeiro semestre, restituindo os resultados do trabalho às unidades de saúde nas quais os temas foram desenvolvidos.",
+        "reqs": [
+            [
+                {
+                    "code": "MD142"
+                },
+                {
+                    "code": "MD242"
+                },
+                {
+                    "code": "MD342"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD443",
+        "name": "Introdução à Patologia",
+        "credits": 8,
+        "syllabus": "Alterações morfológicas macro e microscópicas dos processos patológicos gerais que fundamentam as doenças mais prevalentes em nosso meio correlacionando-as com a fisiopatologia, etiopatogênese, sinais, sintomas e aspectos laboratoriais. Mecanismos básicos que levam às mutações genéticas sejam elas cromossômicas ou gênicas e relacioná-las com as doenças mais comuns no campo das anomalias cromossômicas, dos erros inatos de metabolismo e do câncer.",
+        "reqs": [
+            [
+                {
+                    "code": "BS100"
+                },
+                {
+                    "code": "BS101"
+                },
+                {
+                    "code": "BS102"
+                },
+                {
+                    "code": "BS103"
+                },
+                {
+                    "code": "BS201"
+                },
+                {
+                    "code": "BS202"
+                },
+                {
+                    "code": "BS203"
+                },
+                {
+                    "code": "BS320"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD544",
+            "MD644"
+        ]
+    },
+    {
+        "code": "MD444",
+        "name": "Laboratório de Habilidades II",
+        "credits": 4,
+        "syllabus": "Prática médica por meio de anamnese, enfatizando no atendimento os aspectos sociais, históricos e ambientais do paciente. Técnicas e procedimentos básicos de enfermagem. Princípios de técnicas cirúrgicas em modelo experimental.",
+        "reqs": [
+            [
+                {
+                    "code": "MD344"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD445",
+        "name": "Anatomia Aplicada à Prática Médica I",
+        "credits": 2,
+        "syllabus": "Estudos complementares de anatomia topográfica e cirúrgica, aspectos radiológicos e de imagem, correlação anátomo-cirúrgica-radiológica dos orgãos das regiões cervical, tóracica e abdominal, medicina legal, enfatizando doenças mais prevalentes e alguns procedimentos básicos e iniciais.",
+        "reqs": [
+            [
+                {
+                    "code": "BS100"
+                },
+                {
+                    "code": "BS101"
+                },
+                {
+                    "code": "BS102"
+                },
+                {
+                    "code": "BS103"
+                },
+                {
+                    "code": "BS201"
+                },
+                {
+                    "code": "BS202"
+                },
+                {
+                    "code": "BS203"
+                },
+                {
+                    "code": "BS320"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD546"
+        ]
+    },
+    {
+        "code": "MD447",
+        "name": "Farmacologia",
+        "credits": 3,
+        "syllabus": "Abordagem da terapêutica das doenças mais prevalentes.",
+        "reqs": [
+            [
+                {
+                    "code": "MD343"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD448",
+        "name": "Bioética II",
+        "credits": 2,
+        "syllabus": "Continuidade do estudo iniciado na MD348, com discussão de aspectos médicos e filosóficos de temas de Bioética, a partir de situações concretas.",
+        "reqBy": [
+            "MD748",
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD449",
+        "name": "Neurociências Clínicas",
+        "credits": 4,
+        "syllabus": "Introdução e fundamentos de neurociências relacionados às condições clínicas da neurologia, neuropsicologia e psiquiatria, assim como seus tratamentos, iniciando o aluno no conhecimento dos processos comportamentais e mentais que estão na base da neurologia, psiquiatria e neuropsicofarmacologia, com uma visão integrada do homem.",
+        "reqs": [
+            [
+                {
+                    "code": "BS320"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD543"
+        ]
+    },
+    {
+        "code": "MD462",
+        "name": "Farmacologia Aplicada",
+        "credits": 2,
+        "syllabus": "Farmacologia do Sistema Nervoso Central (sedativos e hipnóticos, hipnoanalgésicos, antidepressivos, antipsicóticos e farmacodependência). Farmacologia do Aparelho Digestivo. Farmacologia Endócrina. Farmacologia Clínica (reações adversas, uso racional de medicamentos, interações entre drogas). Farmacologia de grupos especiais de pacientes (crianças, idosas e gestantes).",
+        "reqs": [
+            [
+                {
+                    "code": "MD362"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN504",
+            "EN505",
+            "EN604"
+        ]
+    },
+    {
+        "code": "MD542",
+        "name": "Epidemiologia e Saúde I",
+        "credits": 4,
+        "syllabus": "História e aplicações da Epidemiologia. Tendências demográficas; estrutura populacional, transição demográfica. Mortalidade-indicadores usuais; proporções, índices e coeficientes; indicadores gerais e específicos. Comparação de indicadores; mortes precoces, excessivas e evitáveis. Eventos sentinela. Vigilância Epidemiológica. Medidas de frequência e de associação. Distribuição das doenças: pessoa, tempo e lugar. Doenças de notificação compulsória. Estudo de epidemias. Diagrama de controle. Sistema Nacional de Vigilância Epidemiológica. Introdução aos desenhos de estudos epidemiológicos: estudos transversais, inquéritos e estudos ecológicos.",
+        "reqBy": [
+            "MD642"
+        ]
+    },
+    {
+        "code": "MD543",
+        "name": "Semiotécnica da Observação Clínica",
+        "credits": 20,
+        "syllabus": "Estudo dos principais sinais e sintomas clínicos em Medicina Interna, com suas respectivas patogênese e fisiopatologia, em matéria teórico-prática capacitando o aluno a examinar o paciente adulto, colher dados semiológicos para uma observação clínica completa e posterior interpretação e elaboração diagnóstica.",
+        "reqs": [
+            [
+                {
+                    "code": "BS100"
+                },
+                {
+                    "code": "BS101"
+                },
+                {
+                    "code": "BS102"
+                },
+                {
+                    "code": "BS103"
+                },
+                {
+                    "code": "BS201"
+                },
+                {
+                    "code": "BS202"
+                },
+                {
+                    "code": "BS203"
+                },
+                {
+                    "code": "BS320"
+                },
+                {
+                    "code": "MD449"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD643"
+        ]
+    },
+    {
+        "code": "MD544",
+        "name": "Fisiopatologia Integrada",
+        "credits": 12,
+        "syllabus": "Estudar nos diferentes aparelhos e sistemas do organismo humano (pele; osteoarticular; glândulas endócrinas; sistema cárdiovascular; trato respiratório; trato gastrointestinal; fígado; pâncreas e sistema nervoso) as doenças mais prevalentes em nosso meio no que se refere às manifestações clínicas, fisiopatologia, etiopatogenia, anatomia patológica, patologia clínica, imagenologia, genética médica, evolução, prognóstico e princípios terapêuticos.",
+        "reqs": [
+            [
+                {
+                    "code": "MD443"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD546",
+        "name": "Anatomia Aplicada à Prática Médica II",
+        "credits": 2,
+        "syllabus": "Revisão da Anatomia de superfície e anatomia topográfica do tórax, nariz, orelha e cabeça e pescoço. Anatomia torácica e cervical, de seus órgãos mais importantes e suas correlações clínicas. Aplicações de conceitos na avaliação clínica e no tratamento cirúrgico de afecções clínicas mais comuns que acometem tórax, e cabeça e pescoço.",
+        "reqs": [
+            [
+                {
+                    "code": "MD445"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD646"
+        ]
+    },
+    {
+        "code": "MD548",
+        "name": "Ética Médica I",
+        "credits": 2,
+        "syllabus": "Normas éticas a serem seguidas no exercício da Medicina, com ênfase no Código de Ética Médica. Introdução a Deontologia Médica. Atribuições do Conselho Federal e dos Conselhos Regionais de Medicina. Discussão dos aspectos da Ética Médica relacionados a temas diversos como responsabilidade profissional, segredo médico, relação com pacientes e familiares, direitos dos usuários dos serviços de saúde, direitos humanos, impacto do avanço tecnológico da prática médica, direitos e deveres nas relações entre médicos. Direitos do usuário do sistema público e privado de saúde. Responsabilidade Civil e Penal do Médico.",
+        "reqBy": [
+            "MD748",
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD636",
+        "name": "Genética para Enfermagem II",
+        "credits": 2,
+        "syllabus": "Dismorfologia. Citogenética clínica. Etiologia ambiental dos defeitos congênitos. Deficiência mental. Erros inatos do metabolismo. Erros da diferenciação sexual. Infertilidade. Aconselhamento genético. Diagnóstico pré-natal.",
+        "reqs": [
+            [
+                {
+                    "code": "MD311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD642",
+        "name": "Epidemiologia e Saúde II",
+        "credits": 2,
+        "syllabus": "Modelo Geral de Investigação de hipóteses em Epidemiologia. Epidemiologia analítica: estudos experimentais e observacionais. Entre os observacionais estão os estudos transversais e longitudinais (estudos de coorte prospectivos e retrospectivos e estudos de caso-controle). Meta-análise de estudos epidemiológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "MD542"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD643",
+        "name": "Semiologia e Propedêutica",
+        "credits": 20,
+        "syllabus": "Atividades teóricas e práticas em Semiologia e Propedêutica Clínica com participação na assistência diária aos pacientes do Hospital de Clínicas da Unicamp. Atividades teórico-práticas de semiologia e propedêutica pediátrica e ginecológica.",
+        "reqs": [
+            [
+                {
+                    "code": "MD543"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD749",
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD644",
+        "name": "Fisiopatologia Integrada II",
+        "credits": 12,
+        "syllabus": "Estudar nos diferentes aparelhos e sistemas do organismo humano (trato genital feminino; hematopoiético; aparelho urinário e genital masculino) as doenças mais prevalentes em nosso meio no que se refere às manifestações clínicas, fisiopatologia, etiopatologia, anatomia patológica, patologia clínica, imagenologia, genética médica, evolução, prognóstico e princípios terapêuticos.",
+        "reqs": [
+            [
+                {
+                    "code": "MD443"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD752",
+            "MD753",
+            "MD754",
+            "MD758",
+            "MD759"
+        ]
+    },
+    {
+        "code": "MD646",
+        "name": "Anatomia Aplicada à Prática Médica III",
+        "credits": 2,
+        "syllabus": "Estudos de anatomia topográfica na área da Medicina do Exercício e do Esporte, Ortopedia e Traumatologia, Radiologia com foco nas lesões mais prevalentes do sistema musculoesquelético. Oferecer treinamento teórico-prático em anatomia topográfica e radiológica relacionada à biomecânica do sistema musculoesquelético e às lesões do esporte.",
+        "reqs": [
+            [
+                {
+                    "code": "MD546"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD748",
+        "name": "Medicina Legal I",
+        "credits": 2,
+        "syllabus": "A Medicina Legal será abordada por meio de temas específicos envolvendo a aplicação de conhecimentos médicos e jurídicos na prática médica geral e pericial. Os seguintes tópicos serão desenvolvidos: Introdução à Medicina Legal, Perícias Médicas, Tanatologia, Traumatologia Médico Legal, Documentos Médico Legais: Declaração de Óbito, Atestado e Laudo Médico, Antropologia Médico Legal, Identificação pelo DNA, Psicopatologia Forense, Imputabilidade Penal e Capacidade Civil, Deontologia Médica, Sexologia Forense, Aborto Legal, Tratamento ambulatorial na UNICAMP de mulheres vítimas de violência sexual, Programa Iluminar: atendimento a vítimas de abuso sexual, Aspectos Legais da Fertilização Assistida: soluções de problemas práticos, SISNOV: banco de dados sobre violência de Campinas, Aspectos Legais da Utilização da Célula Tronco no Brasil, Toxicologia Forense, Infortunística do Trabalho, Erro Médico, Impactos da Violência na Saúde, Terminalidade da Vida, Acidentes de Transporte e Exames de Embriaguez, Descriminalização das drogas no Brasil. ",
+        "reqs": [
+            [
+                {
+                    "code": "MD148"
+                },
+                {
+                    "code": "MD248"
+                },
+                {
+                    "code": "MD348"
+                },
+                {
+                    "code": "MD448"
+                },
+                {
+                    "code": "MD548"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD749",
+        "name": "Simulação Clínica Interprofissional",
+        "credits": 2,
+        "syllabus": "Fundamentos teóricos e práticos da atenção conjunta de enfermeiros e médicos a pacientes em cenário de atenção primária a saúde. A disciplina será desenvolvida em ambiente de simulação realística com supervisão de professores das duas áreas. As atividades práticas serão desenvolvidas nos 5° e 6° semestre para alunos de enfermagem e 7° e 8° para os alunos de medicina.",
+        "reqs": [
+            [
+                {
+                    "code": "MD643"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD752",
+        "name": "Atenção Clínico-Cirúrgica Integradas I",
+        "credits": 15,
+        "syllabus": "Fundamentos teórico e prático de Bases da Cirurgia Geral, incluindo conceitos anatômicos e cirúrgicos, técnica cirúrgica, fios de sutura, cicatrização, metabolismo, infecções, sondas e drenos e as afecções mais importantes e prevalentes das demais especialidades cirúrgicas, de forma a permitir a integração dos conteúdos afins, procurando favorecer o ato profissional e a formação geral do médico. Esta disciplina será oferecida em 33 semanas sob forma de rodízio, onde o aluno deverá cumprir 11 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "MD148"
+                },
+                {
+                    "code": "MD248"
+                },
+                {
+                    "code": "MD348"
+                },
+                {
+                    "code": "MD444"
+                },
+                {
+                    "code": "MD448"
+                },
+                {
+                    "code": "MD544"
+                },
+                {
+                    "code": "MD548"
+                },
+                {
+                    "code": "MD642"
+                },
+                {
+                    "code": "MD643"
+                },
+                {
+                    "code": "MD644"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD941",
+            "MD942",
+            "MD943",
+            "MD944",
+            "MD945",
+            "MD951",
+            "MD952"
+        ]
+    },
+    {
+        "code": "MD753",
+        "name": "Atenção Clínico-Cirúrgica Integrada II",
+        "credits": 12,
+        "syllabus": "Fundamentos teóricos e práticos das seguintes áreas do conhecimento médico: Otorrinolaringologia, Oftalmologia, Dermatologia e Genética Clínica. Serão abordadas as afecções mais importantes e prevalentes de forma a permitir a integração dos conteúdos afins, procurando favorecer o ato profissional e a formação geral do médico. As atividades serão desenvolvidas nos 7º e 8º semestres. Esta disciplina será oferecida em 33 semanas sob forma de rodízio, onde o aluno deverá cumprir 08 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "MD148"
+                },
+                {
+                    "code": "MD248"
+                },
+                {
+                    "code": "MD348"
+                },
+                {
+                    "code": "MD444"
+                },
+                {
+                    "code": "MD448"
+                },
+                {
+                    "code": "MD544"
+                },
+                {
+                    "code": "MD548"
+                },
+                {
+                    "code": "MD642"
+                },
+                {
+                    "code": "MD643"
+                },
+                {
+                    "code": "MD644"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD941",
+            "MD942",
+            "MD943",
+            "MD944",
+            "MD945",
+            "MD951",
+            "MD952"
+        ]
+    },
+    {
+        "code": "MD754",
+        "name": "Atenção Clínico-Cirúrgica Integrada III",
+        "credits": 15,
+        "syllabus": "Fundamentos teóricos e práticos das seguintes áreas do conhecimento médico: Neurologia, Ortopedia e Psiquiatria. Serão abordadas as afecções mais importantes e prevalentes de forma a permitir a integração dos conteúdos afins, procurando favorecer ao ato profissional e a formação geral do médico. As atividades serão desenvolvidas nos 7º e 8º semestres. Esta disciplina será oferecida em 33 semanas sob forma de rodízio, onde o aluno deverá cumprir 11 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "MD148"
+                },
+                {
+                    "code": "MD248"
+                },
+                {
+                    "code": "MD348"
+                },
+                {
+                    "code": "MD444"
+                },
+                {
+                    "code": "MD448"
+                },
+                {
+                    "code": "MD544"
+                },
+                {
+                    "code": "MD548"
+                },
+                {
+                    "code": "MD642"
+                },
+                {
+                    "code": "MD643"
+                },
+                {
+                    "code": "MD644"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD941",
+            "MD942",
+            "MD943",
+            "MD944",
+            "MD945",
+            "MD951",
+            "MD952"
+        ]
+    },
+    {
+        "code": "MD758",
+        "name": "Atenção Integral à Saúde",
+        "credits": 40,
+        "syllabus": "Atendimento ambulatorial, supervisionado, em Unidades Básicas de Saúde, contemplando o atendimento integral à saúde da criança, do adolescente e do adulto, incluindo as especificidades da saúde da mulher. Abordagem clínica, diagnóstica e terapêutica das doenças e sintomas mais prevalentes nas diferentes faixas etárias. Saúde Coletiva, Saúde Ocupacional, Saúde Ambiental, Patologia Clínica, Radiologia, Saúde Mental, Saúde da Família e Ética.",
+        "reqs": [
+            [
+                {
+                    "code": "MD148"
+                },
+                {
+                    "code": "MD248"
+                },
+                {
+                    "code": "MD348"
+                },
+                {
+                    "code": "MD444"
+                },
+                {
+                    "code": "MD448"
+                },
+                {
+                    "code": "MD544"
+                },
+                {
+                    "code": "MD548"
+                },
+                {
+                    "code": "MD642"
+                },
+                {
+                    "code": "MD643"
+                },
+                {
+                    "code": "MD644"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD941",
+            "MD942",
+            "MD943",
+            "MD944",
+            "MD945",
+            "MD951",
+            "MD952"
+        ]
+    },
+    {
+        "code": "MD759",
+        "name": "Atenção Clínica Hospitalar",
+        "credits": 3,
+        "syllabus": "Coleta de materiais biológicos e discussão sobre os principais erros pré-analíticos que causam interferência nos resultados dos exames laboratoriais. Atividade de ensino supervisionada no atendimento a pacientes internados em enfermarias clínicas e assistência para pacientes com doença grave, em progressão e fora da possibilidade terapêutica de cura. Geriatria. Esta disciplina será oferecida em 33 semanas sob forma de rodízio, onde o aluno deverá cumprir 03 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "MD148"
+                },
+                {
+                    "code": "MD248"
+                },
+                {
+                    "code": "MD348"
+                },
+                {
+                    "code": "MD444"
+                },
+                {
+                    "code": "MD448"
+                },
+                {
+                    "code": "MD544"
+                },
+                {
+                    "code": "MD548"
+                },
+                {
+                    "code": "MD642"
+                },
+                {
+                    "code": "MD643"
+                },
+                {
+                    "code": "MD644"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD760",
+        "name": "Aspectos Clínicos da Física Médica",
+        "credits": 4,
+        "syllabus": "Princípios de Biossegurança. Principais fundamentos da ética médica, ética profissional e relacionamento interpessoal. Anatomia Radiológica. Meios de contraste. Aplicações clínicas da medicina nuclear. Noções de Oncologia. Princípios e Técnicas de tratamento de tumores. Eficiência dos tratamentos. Proteção radiológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "BD681"
+                },
+                {
+                    "code": "F 758"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD948"
+        ]
+    },
+    {
+        "code": "MD862",
+        "name": "Medicina Laboratorial Aplicada à Enfermagem",
+        "credits": 4,
+        "syllabus": "O modelo de descentralização do atendimento ao paciente vem sendo empregado em várias instâncias do sistema de saúde público e privado. Nesse modelo, o atendimento ao paciente, antes centralizado nas ações do profissional médico, é compartilhado com outros profissionais de saúde, como enfermeiros, farmacêuticos, psicólogos, fisioterapeutas e nutricionistas, cada qual dentro da sua capacitação, em um trabalho colaborativo. A grande aceitação desse modelo, vem do fato de agilizar e melhorar o atendimento ao paciente, diminuindo erros de conduta. Um dos pontos de importância do enfermeiro nesse modelo está na realização da avaliação inicial do paciente, identificação do problema e encaminhamento do curso da ação. Nessa avaliação, é importante que o enfermeiro esteja também capacitado a interpretar exames laboratoriais."
+    },
+    {
+        "code": "MD863",
+        "name": "Farmacoterapia",
+        "credits": 2,
+        "syllabus": "Farmacoterapia das doenças não infecciosas mais prevalentes no Brasil e no mundo. Enfoque 1- Vantagens e desvantagens das diferentes classes terapêuticas; 2-Interações medicamentosas e 3-Grupos de Risco. Discussão baseada em estudos clínicos publicados em periódicos especializados."
+    },
+    {
+        "code": "MD878",
+        "name": "Introdução a Medicina Integrativa",
+        "credits": 2,
+        "syllabus": "A disciplina apresenta a história e características das chamadas Racionalidades Médicas e práticas alternativas, complementares e integrativas, com destaque para o movimento da medicina alternativa nos anos da contracultura da década de 1960, passando pelo seu incremento no campo da saúde com as práticas complementares, até alcançar o debate atual sobre o desafio da construção do paradigma integrativo na área da saúde. A disciplina destacará com maior profundidade a filosofia e práticas da Medicina Tradicional Chinesa e da Homeopatia, por meio de discussões clínicas com especialistas."
+    },
+    {
+        "code": "MD883",
+        "name": "Neuroanatomia Aplicada à Prática Médica",
+        "credits": 2,
+        "syllabus": "Neuroanatomia humana aplicada a prática médica clínica e cirúrgica. Discussão de casos clínicos de pacientes com principais afecções neurológicas e neurocirúrgicas correlacionando os sinais e sintomas com a neuroanatomia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD885",
+        "name": "O Teatro para o Aperfeiçoamento da Relação Médico-Paciente",
+        "credits": 4,
+        "syllabus": "Prática da empatia na relação médico-paciente por meio da construção e representação de espetáculo teatral promovendo o debate cultural, filosófico e antropológico sobre a morte, a espiritualidade, as crenças, o sofrimento, a solidão provocada pela doença, o acolhimento da família e o papel do médico nesta relação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD888",
+        "name": "Prática do Trabalho Voluntário na Área da Saúde",
+        "credits": 2,
+        "syllabus": "Prática do exercício de solidariedade e cidadania por meio de trabalho voluntariado na área de saúde. A ação voluntária permitirá ao estudante doar seu tempo e conhecimento na realização de uma atividade que atenda tanto às necessidades do cidadão, bem como, ao desenvolvimento das potencialidades humanas e ambientais. O programa das atividades a serem desenvolvidas será coordenado pela CEG.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD889",
+        "name": "Toxicologia e Toxinologia Clínica",
+        "credits": 1,
+        "syllabus": "Epidemiologia das exposições tóxicas às substâncias químicas e dos acidentes por animais peçonhentos no Brasil, com maior prevalência e maior gravidade na Região de Campinas - SP. Manifestações clínicas, alterações laboratoriais e principais complicações: 1) das exposições tóxicas (medicamentos, pesticidas inibidores da acetilcolinesterase, drogas de abuso, produtos com ação cáustica e plantas tóxicas) e 2) dos acidentes por animais peçonhentos. Medidas terapêuticas (descontaminação gastrintestinal, aumento da eliminação, antídotos, antagonistas e antivenenos).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD890",
+        "name": "Prática da Iniciação Científica na Área Médica",
+        "credits": 2,
+        "syllabus": "Prática de Iniciação Científica. Desenvolvimento de projeto de pesquisa sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD983"
+        ]
+    },
+    {
+        "code": "MD941",
+        "name": "Atenção Integral à Saúde da Criança e do Adolescente I",
+        "credits": 29,
+        "syllabus": "Propiciar condições para a aquisição de conhecimentos, habilidades e atitudes para os cuidados de saúde da criança e do adolescente. Para este propósito, serão realizadas atividades teóricas e práticas em serviços com atuação em Pediatria Clínica abrangendo Atenção Primária, Ambulatório e Enfermaria Geral, Urgência, além de Neonatologia. Ética. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 11 semanas e será oferecida concomitante à disciplina MD951.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD752"
+                },
+                {
+                    "code": "MD753"
+                },
+                {
+                    "code": "MD754"
+                },
+                {
+                    "code": "MD758"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD126",
+            "MD127",
+            "MD131",
+            "MD132",
+            "MD133",
+            "MD134",
+            "MD135",
+            "MD136",
+            "MD138",
+            "MD139"
+        ]
+    },
+    {
+        "code": "MD942",
+        "name": "Atenção Integral à Saúde da Mulher I",
+        "credits": 29,
+        "syllabus": "Aplicação do conhecimento da fisiologia do sistema reprodutor feminino nas diversas fases, para adequada orientação terapêutica das patologias mais prevalentes na prática médica diária. Os objetivos são alcançados através de aprendizado em serviço, realizado em ambulatórios, unidades de internação, Centro Cirúrgico, Centro Obstétrico e unidades de emergência. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 11 semanas e será oferecida concomitante à disciplina MD952.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD752"
+                },
+                {
+                    "code": "MD753"
+                },
+                {
+                    "code": "MD754"
+                },
+                {
+                    "code": "MD758"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD126",
+            "MD127",
+            "MD131",
+            "MD132",
+            "MD133",
+            "MD134",
+            "MD135",
+            "MD136",
+            "MD138",
+            "MD139"
+        ]
+    },
+    {
+        "code": "MD943",
+        "name": "Atenção Integral à Saúde do Adulto I",
+        "credits": 29,
+        "syllabus": "Treinamento prático nas áreas de cardiologia clínica e cirúrgica, moléstias infecciosas, DST, dermatologia com ênfase em hanseníase, oncologia geral e imunologia. Serão realizados atendimentos clínicos, ambulatoriais e acompanhamento de pacientes internados. Familiarização com doenças prevalentes e importantes em cada área, sendo orientados quanto a história clínica, exame físico, propedêutica e terapêutica. Atendimento a pacientes nas Unidades Básicas de Saúde. Ética. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 11 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD752"
+                },
+                {
+                    "code": "MD753"
+                },
+                {
+                    "code": "MD754"
+                },
+                {
+                    "code": "MD758"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD126",
+            "MD127",
+            "MD131",
+            "MD132",
+            "MD133",
+            "MD134",
+            "MD135",
+            "MD136",
+            "MD138",
+            "MD139"
+        ]
+    },
+    {
+        "code": "MD944",
+        "name": "Atenção Clínico-Cirúrgica I",
+        "credits": 16,
+        "syllabus": "Participar dos atendimentos a pacientes internados em serviço de complexidade secundária. Desenvolver atividades teóricas e práticas visando à formação geral do médico em clínica, geriatria e cirurgia. Ética. Esta disciplina será oferecida em 48 semanas sob a forma de rodízio, onde cada aluno deverá cumprir 06 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD752"
+                },
+                {
+                    "code": "MD753"
+                },
+                {
+                    "code": "MD754"
+                },
+                {
+                    "code": "MD758"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD126",
+            "MD127",
+            "MD131",
+            "MD132",
+            "MD133",
+            "MD134",
+            "MD135",
+            "MD136",
+            "MD138",
+            "MD139"
+        ]
+    },
+    {
+        "code": "MD945",
+        "name": "Saúde Coletiva",
+        "credits": 5,
+        "syllabus": "Abordagem da saúde ambiental e do trabalhador e gestão de serviços da saúde. Contato com portadores de doenças do trabalho em atividade ambulatorial e ambientes de trabalho que podem contribuir na gênese dessas doenças. Diferentes aspectos da organização e gestão do trabalho em saúde (trabalho em equipe, gestão do cuidado, clínica ampliada, integralidade no sistema de saúde) e à gestão do trabalho médico (mercado de trabalho público e privado); educação permanente em saúde. Ética. Esta disciplina será oferecida em 48 semanas sob forma de rodízio, onde cada aluno deverá cumprir 02 semanas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD752"
+                },
+                {
+                    "code": "MD753"
+                },
+                {
+                    "code": "MD754"
+                },
+                {
+                    "code": "MD758"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD947",
+        "name": "Estágio Supervisionado Física Médica I - Radiologia, Radioterapia e Medicina Nuclear",
+        "credits": 24,
+        "syllabus": "Prática supervisionada de atividades de físicos em radiologia, radioterapia e medicina nuclear, desenvolvida em ambiente hospitalar.\nObs.: O aluno deverá cumprir a carga horária da disciplina de acordo com o cronograma pré-estabelecido pelo docente responsável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 758"
+                },
+                {
+                    "code": "F 854"
+                },
+                {
+                    "code": "F 857"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 948",
+            "MD948"
+        ]
+    },
+    {
+        "code": "MD948",
+        "name": "Estágio Supervisionado Física Médica II - Radiologia, Radioterapia e Medicina Nuclear",
+        "credits": 24,
+        "syllabus": "Continuação da MD947 - Prática supervisionada de atividades de físicos em radiologia, radioterapia e medicina nuclear, desenvolvida em ambiente hospitalar.\nObs.: O aluno deverá cumprir a carga horária da disciplina de acordo com o cronograma pré-estabelecido pelo docente responsável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD760"
+                },
+                {
+                    "code": "MD947"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD951",
+        "name": "Plantão em Pediatria",
+        "credits": 17,
+        "syllabus": "Desenvolver habilidades e competências para o atendimento integrado nas áreas de emergência e urgências pediátricas. Primeiras medidas de atendimento e diagnóstico sindrômico. As atividades serão desenvolvidas em períodos noturnos, feriados e finais de semana no decorrer dos 9º e 10º semestres. Esta disciplina será oferecida em 52 semanas sob forma de rodízio, onde cada aluno deverá cumprir 11 semanas e será oferecida concomitante à disciplina MD941.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD752"
+                },
+                {
+                    "code": "MD753"
+                },
+                {
+                    "code": "MD754"
+                },
+                {
+                    "code": "MD758"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD126",
+            "MD127",
+            "MD131",
+            "MD132",
+            "MD133",
+            "MD134",
+            "MD135",
+            "MD136",
+            "MD138",
+            "MD139"
+        ]
+    },
+    {
+        "code": "MD952",
+        "name": "Plantão em Tocoginecologia",
+        "credits": 21,
+        "syllabus": "Desenvolver habilidades e competências para o atendimento integrado nas áreas de emergência e urgências obstétricas e ginecológicas. Primeiras medidas de atendimento e diagnóstico sindrômico. As atividades serão desenvolvidas em períodos noturnos, feriados e finais de semana no decorrer dos 9º e 10º semestres. Esta disciplina será oferecida em 52 semanas sob forma de rodízio, onde cada aluno deverá cumprir 11 semanas e será oferecida concomitante à disciplina MD942.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD752"
+                },
+                {
+                    "code": "MD753"
+                },
+                {
+                    "code": "MD754"
+                },
+                {
+                    "code": "MD758"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD126",
+            "MD127",
+            "MD131",
+            "MD132",
+            "MD133",
+            "MD134",
+            "MD135",
+            "MD136",
+            "MD138",
+            "MD139"
+        ]
+    },
+    {
+        "code": "MD983",
+        "name": "Prática de Iniciação Científica na Área Médica II",
+        "credits": 2,
+        "syllabus": "Prática de Iniciação Científica. Desenvolvimento de projeto de pesquisa sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "MD890"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD985",
+        "name": "O Teatro para o Aperfeiçoamento da Relação Médico-Paciente II",
+        "credits": 4,
+        "syllabus": "Prática da empatia na relação médico-paciente por meio da construção e representação de espetáculo teatral promovendo o debate cultural, filosófico e antropológico sobre a morte, a espiritualidade, as crenças, o sofrimento, a solidão provocada pela doença, o acolhimento da família e o papel do médico nesta relação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MD994",
+        "name": "Gestão Enxuta (Lean) na Saúde",
+        "credits": 2,
+        "syllabus": "Iniciação ao pensamento enxuto (lean thinking) aplicado na saúde."
+    }
+]

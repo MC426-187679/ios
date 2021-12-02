@@ -1,0 +1,1239 @@
+[
+    {
+        "code": "FN101",
+        "name": "Perspectivas no Desenvolvimento Humano",
+        "credits": 4,
+        "syllabus": "Grandes questões da história da Psicologia em relação ao desenvolvimento desde a primeira infância até a idade adulta. Hereditariedade e meio ambiente. Estabilidade e mudança em Psicologia. Normalidade e anormalidade dos processos de desenvolvimento."
+    },
+    {
+        "code": "FN102",
+        "name": "História da Fonoaudiologia",
+        "credits": 2,
+        "syllabus": "A história da fonoaudiologia no Brasil e no mundo. Visão geral das áreas de atuação da fonoaudiologia e suas inter-relações com outras profissões. O papel social do fonoaudiólogo."
+    },
+    {
+        "code": "FN103",
+        "name": "Políticas Públicas, Direitos e Cidadania",
+        "credits": 2,
+        "syllabus": "Introdução de conceitos das Ciências Sociais para a compreensão das relações sociais que se estabelecem entre a Sociedade, Estado e Políticas Sociais. Neste contexto enfoca as questões ligadas à saúde, cidadania e direitos, considerando a especificidade dos diferentes grupos populacionais. Analisa especificamente as Políticas de Saúde e seu rebatimento na prática do profissional de Fonoaudiologia."
+    },
+    {
+        "code": "FN104",
+        "name": "Fundamentos Teóricos do Trabalho com Família",
+        "credits": 4,
+        "syllabus": "Fundamentos teóricos para a compreensão da família. Discussão crítica de modelos e de tipos de família contemporânea. Estudo da dinâmica familiar, considerando as noções de ciclo vital e crises familiares, relacionando tais conhecimentos à prática fonoaudiológica, dirigida à realização de entrevistas e aos primeiros atendimentos à família."
+    },
+    {
+        "code": "FN203",
+        "name": "Introdução à Ciência e ao Conhecimento",
+        "credits": 2,
+        "syllabus": "Perspectiva histórica e filosófica da ciência relacionada a uma reflexão sobre o método e sobre a questão da objetividade."
+    },
+    {
+        "code": "FN205",
+        "name": "Fundamentos da Audiologia I",
+        "credits": 2,
+        "syllabus": "Conceitos de acústica e de psicoacústica aplicados à audiologia. Revisão de anatomia e fisiologia do sistema auditivo periférico. Introdução à Audiologia. Apresentação dos equipamentos utilizados na avaliação audiológica básica. Calibração. Procedimentos de avaliação audiológica em adultos: anamnese, meatoscopia, testes acumétricos, audiometria tonal por via aérea e óssea, logoaudiometria. Classificação das perdas auditivas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 105"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN307"
+        ]
+    },
+    {
+        "code": "FN206",
+        "name": "Sistemas de Linguagem Não-Verbal e Linguagens Alternativas",
+        "credits": 4,
+        "syllabus": "Apresenta fundamentos de linguagens não-verbais e discute sua relação com a atuação fonoaudiológica. Analisa os processos de representação como modalidades culturais de constituição de significado. Apresenta fundamentos sobre as linguagens da arte (artes visuais, dança, teatro e música), e discute práticas de aplicação nos estágios em fonoaudiologia para as várias faixas etárias. Estuda os fundamentos de desenvolvimento do desenho na criança e no adolescente. Discute sistemas de comunicação suplementar e alternativa e sua aplicação nos estágios supervisionados."
+    },
+    {
+        "code": "FN207",
+        "name": "Desenvolvimento Motor na Infância",
+        "credits": 2,
+        "syllabus": "Teorias do desenvolvimento motor. Desenvolvimento motor e sensorial ao longo da infância. Padrões posturais que caracterizam o desenvolvimento motor de crianças com alterações centrais. Procedimentos de avaliação do desenvolvimento motor e da postura na interface com as ações fonoaudiológicas no campo das alterações de linguagem e da motricidade oral."
+    },
+    {
+        "code": "FN208",
+        "name": "Promoção e Prática em Saúde Comunitária",
+        "credits": 4,
+        "syllabus": "Aprofundar o aprendizado nos conteúdos e na dinâmica da Saúde Pública permitindo aos alunos desenvolverem projetos de intervenção pactuados com usuários e/ou equipe em Unidades Básicas de Saúde.",
+        "reqs": [
+            [
+                {
+                    "code": "MD223"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN209",
+        "name": "Motricidade Orofacial I",
+        "credits": 2,
+        "syllabus": "Noções básicas de motricidade orofacial na fonoaudiologia. Introdução às bases teóricas do desenvolvimento do sistema estomatognático e das funções orofaciais na motricidade orofacial. Compreensão do padrão de normalidade e principais desvios ao longo do desenvolvimento. Procedimentos de avaliação, intervenção terapêutica e interface interdisciplinar na motricidade orofacial.",
+        "reqBy": [
+            "FN409"
+        ]
+    },
+    {
+        "code": "FN301",
+        "name": "Desenvolvimento da Infância à Idade Adulta II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento da cognição ao longo da vida. Teorias de desenvolvimento humano: primeira infância, anos pré-escolares e escolares, adolescência, vida adulta, velhice. Processos cognitivos. Função simbólica. Inteligência, atenção e memória."
+    },
+    {
+        "code": "FN302",
+        "name": "Genética Médica Aplicada à Fonoaudiologia I",
+        "credits": 2,
+        "syllabus": "Genes e cromossomos. Mitose e meiose. Estudo do cariótipo humano; origem e quadro clínico das principais cromossomopatias. A transmissão hereditária dos caracteres: reconhecimento dos padrões de herança autossômicos dominante e recessivo, ligados ao X e herança mitocondrial. Padrões não clássicos de herança. Consanguinidade. Herança multifatorial. Princípio de genética de populações. Princípios de genética molecular. Fatores genéticos na deficiência auditiva e outras condições determinantes de distúrbios da linguagem. Agentes teratogênicos e fatores peri e pós-natais associados à surdez."
+    },
+    {
+        "code": "FN304",
+        "name": "Relações Interpessoais e Dinâmica de Grupo",
+        "credits": 4,
+        "syllabus": "Estudo das relações interpessoais: evolução histórica e concepções atuais. Principais correntes de dinâmica de grupo e suas implicações práticas. Diferentes vivências de grupo e análise desse processo."
+    },
+    {
+        "code": "FN306",
+        "name": "Introdução à Ética",
+        "credits": 2,
+        "syllabus": "Diferentes noções sobre ética, formuladas tanto por filósofos gregos quanto por autores contemporâneos, enfatizando a reflexão sobre valores e normas, para introduzir o estudo da ética no campo profissional."
+    },
+    {
+        "code": "FN307",
+        "name": "Fundamentos da Audiologia II",
+        "credits": 4,
+        "syllabus": "Procedimentos de avaliação audiológica em adultos: logoaudiometria, medidas de imitância acústica, testes supraliminares. Características audiológicas das principais alterações que acometem a orelha externa, média e interna e VIII par craniano. Treino prático nos equipamentos audiológicos (audiômetro, imitanciômetro clínico e portátil e equipamento para captação das EOA) dos testes da avaliação audiológica em adultos.",
+        "reqs": [
+            [
+                {
+                    "code": "FN205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN401",
+            "FN502"
+        ]
+    },
+    {
+        "code": "FN400",
+        "name": "Patologias dos Órgãos da Fala e Audição",
+        "credits": 4,
+        "syllabus": "Estudo das afecções otorrinolaringológicas e seus impactos funcionais, na respiração, sucção, mastigação, deglutição, audição e fonação. Estudo sistemático das afecções otorrinolaringológicas com interpretação fisiopatológica, descrição sumária das situações clínicas com alterações funcionais e dos procedimentos terapêuticos.",
+        "reqs": [
+            [
+                {
+                    "code": "BF180"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN466",
+            "FN512",
+            "FN704"
+        ]
+    },
+    {
+        "code": "FN401",
+        "name": "Audiologia I",
+        "credits": 2,
+        "syllabus": "Observação dos atendimentos realizados em adultos com queixas auditivas. Discussão dos casos clínicos considerando-se a compatibilidade dos resultados obtidos entre os testes aplicados e as características audiológicas relacionadas às alterações do sistema auditivo.",
+        "reqs": [
+            [
+                {
+                    "code": "FN307"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN501",
+            "FN506",
+            "FN536",
+            "FN601",
+            "FN602",
+            "FN603"
+        ]
+    },
+    {
+        "code": "FN404",
+        "name": "Aspectos Teóricos e Metodológicos da Avaliação de Linguagem",
+        "credits": 2,
+        "syllabus": "Objetivos, funções e limites da avaliação de linguagem. Visão crítica das baterias de testes-padrão relacionada à especificidade da oralidade e da escrita e ao funcionamento discursivo da linguagem. Análise de fatos e dados de linguagem diferenciando-os de erros e déficits. Discussão sobre os vários procedimentos avaliativos, aplicados a crianças e a adultos, do ponto de vista filosófico, epistemológico e metodológico. A relação da linguagem com outros processos cognitivos. Apresentação e discussão de princípios e versões protocolares discursivamente informados.",
+        "reqBy": [
+            "FN507",
+            "FN510",
+            "FN513",
+            "FN537",
+            "FN543",
+            "FN637"
+        ]
+    },
+    {
+        "code": "FN406",
+        "name": "Fundamentos para Prática Comunitária",
+        "credits": 4,
+        "syllabus": "Subsídios teóricos relativos à intervenção fonoaudiológica nos níveis primários e segundários de prevenção. Conceituação, tipologia e finalidade das instituições. A Fonoaudiologia preventiva e a atuação do fonoaudiólogo em serviços públicos e privados. Introdução à pesquisa em saúde pública na área fonoaudiológica: Os estudos da vigilância e epidemiologia. Observação da atuação do profissional em instituições e organizações sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "MD223"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN407",
+        "name": "Estágio de Observação de Prática Fonoaudiológica",
+        "credits": 2,
+        "syllabus": "Observação da atuação fonoaudiológica na clínica-escola e nos serviços fonoaudiológicos oferecidos na Instituição."
+    },
+    {
+        "code": "FN408",
+        "name": "Fundamentos da Língua Brasileira de Sinais",
+        "credits": 2,
+        "syllabus": "Abordar aspectos linguísticos da Língua Brasileira de Sinais (LIBRAS) como a fonologia, morfologia e sintaxe, possibilitando ao aluno o uso desta língua em contextos reais de comunicação. Os alunos terão oportunidade e interação com professores surdos por meio de um curso introdutório da LIBRAS."
+    },
+    {
+        "code": "FN409",
+        "name": "Motricidade Orofacial II",
+        "credits": 2,
+        "syllabus": "Produção teórica das principais doenças, distúrbios e desvios na motricidade orofacial. Subsídios teóricos para a compreensão das alterações miofuncionais fonoaudiológicas, procedimentos de avaliação, intervenção terapêutica e alta.",
+        "reqs": [
+            [
+                {
+                    "code": "FN209"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN513",
+            "FN537",
+            "FN543",
+            "FN637"
+        ]
+    },
+    {
+        "code": "FN410",
+        "name": "Processos Terapêuticos Fonoaudiológicos da Surdez",
+        "credits": 2,
+        "syllabus": "Fornecer subsídios teóricos e práticos sobre o processo clínico-terapêutico fonoaudiológico da surdez.",
+        "reqBy": [
+            "FN539"
+        ]
+    },
+    {
+        "code": "FN413",
+        "name": "Fundamentos para a Prática em Saúde Coletiva",
+        "credits": 2,
+        "syllabus": "Conceituação, tipologia e finalidade das organizações sociais. Análises das instituições e a atuação do fonoaudiólogo em serviços públicos, com ênfase no seu papel de promotor da saúde atuando em equipes multidisciplinares. Abordagem comunitária. A saúde e a prevenção da doença. A inserção da fonoaudiologia na saúde pública no Brasil. A prevenção e promoção de saúde em fonoaudiologia. A pesquisa em saúde pública na área fonoaudiológica: os estudos epidemiológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "MD223"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN420",
+        "name": "Estudo de Casos na Clínica Fonoaudiológica: Enfoque Multidisciplinar",
+        "credits": 2,
+        "syllabus": "Discussão multidisciplinar e desenvolvimento do raciocínio clínico de casos na fonoaudiologia"
+    },
+    {
+        "code": "FN437",
+        "name": "Observação de Prática Fonoaudiológica",
+        "credits": 2,
+        "syllabus": "Observação da atuação fonoaudiológica na clínica-escola e nos serviços fonoaudiológicos oferecidos na Instituição."
+    },
+    {
+        "code": "FN450",
+        "name": "Introdução à Comunicação Suplementar e Alternativa",
+        "credits": 2,
+        "syllabus": "Coordenadoria"
+    },
+    {
+        "code": "FN451",
+        "name": "Estágio em Acolhimento Fonoaudiológico",
+        "credits": 3,
+        "syllabus": "Observação do acolhimento (triagem) e avaliação na clínica fonoaudiológica. Capacitar o aluno a desenvolver raciocínio clínico considerando os aspectos sociais e emocionais envolvidos na queixa do paciente e/ou família. Discutir a importância de pronto atendimento, orientações, esclarecimentos e encaminhamentos. Realizar avaliação específica na área de motricidade oral quando necessário."
+    },
+    {
+        "code": "FN459",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de projeto de iniciação científica orientado por docente. Elaboração de relatórios e outras formas de divulgação da produção de conhecimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN460",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de projeto de iniciação científica orientado por docente. Elaboração de relatórios e outras formas de divulgação da produção de conhecimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN461",
+        "name": "Estágio em Afasia",
+        "credits": 4,
+        "syllabus": "Acompanhamento longitudinal de sujeitos afásicos orientado pela abordagem discursiva da neurolinguistica. Análise e estudos de casos. Discussão crítica da avaliação e da semiologia das afasias.",
+        "reqs": [
+            [
+                {
+                    "code": "FN611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN462",
+        "name": "Estágio em Atuação Interdisciplinar: O Sujeito Surdo, a Escola e a Família",
+        "credits": 3,
+        "syllabus": "Aplicação de procedimentos avaliativos e condutas terapêuticas com sujeitos surdos inseridos em grupos de atendimento que visem o processo/desenvolvimento da linguagem oral, linguagem escrita e libras e o atendimento interdisciplinar de seus familiares."
+    },
+    {
+        "code": "FN463",
+        "name": "Práticas Interdisciplinares de Avaliação Visual",
+        "credits": 3,
+        "syllabus": "Conduta interdisciplinar na avaliação de jovens, adultos e idosos com deficiência visual de forma a oferecer subsídios ao aluno para avaliar e atuar na habilitação e/ou reabilitação das pessoas que apresentam essa deficiência. Desenvolver o raciocínio clínico do aluno considerando a queixa do paciente e/ou família. Discutir a necessidade de pronto atendimento, usos de recursos de tecnologia assistiva, orientações, esclarecimentos e encaminhamentos."
+    },
+    {
+        "code": "FN466",
+        "name": "Princípios da Disfagia",
+        "credits": 2,
+        "syllabus": "Fisiologia da deglutição orofaríngea normal e alterada. Conceito de disfagia. Avaliação fonoaudiológica clínica e instrumental da deglutição. Bases da intervenção fonoaudiológica em disfagia. Atuação interdisciplinar em disfagia orofaríngea.",
+        "reqs": [
+            [
+                {
+                    "code": "FN400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN467",
+            "FN967"
+        ]
+    },
+    {
+        "code": "FN467",
+        "name": "Estágio em Avaliação e Acompanhamento Fonoaudiológico de Disfagia",
+        "credits": 4,
+        "syllabus": "Discussão da anátomo-fisiologia da deglutição normal. Bases teóricas das disfagia orofaríngeas. Discussão teorico-prática do processo terapêutico de indivíduos com disfagia orofaríngea.",
+        "reqs": [
+            [
+                {
+                    "code": "FN466"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN468",
+        "name": "LIBRAS e Educação de Surdos",
+        "credits": 4,
+        "syllabus": "Conhecimentos teórico-práticos introdutórios de LIBRAS e dos parâmetros que a caracterizam como língua; constituição do sujeito surdo pela LIBRAS; história da educação e as organizações dos movimentos políticos dos surdos; comunidades surdas e suas produções culturais; abordagens educacionais no ensino da pessoa surda; projetos de educação bilíngue; leis de acessibilidade e de garantia à educação."
+    },
+    {
+        "code": "FN470",
+        "name": "Seleção de Próteses Auditivas em Lactentes e Crianças",
+        "credits": 4,
+        "syllabus": "Processo de seleção e adaptação de próteses auditivas em crianças. Procedimentos prescritos para população pediátrica. Métodos de verificação na população pediátrica.",
+        "reqs": [
+            [
+                {
+                    "code": "FN701"
+                },
+                {
+                    "code": "FN706"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN477",
+        "name": "Avaliação e Tratamento da Disfagia no Adulto: Ambiente Clínico",
+        "credits": 2,
+        "syllabus": "Desenvolver raciocínio–clinico na avaliação e no tratamento de indivíduos com disfagia orofagíngea em ambiente clinico.",
+        "reqs": [
+            [
+                {
+                    "code": "FN704"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN501",
+        "name": "Audiologia II",
+        "credits": 2,
+        "syllabus": "Desenvolvimento da função auditiva. Avaliação audiológica na infância. Triagem auditiva neonatal. Discussão de políticas de saúde auditiva.",
+        "reqs": [
+            [
+                {
+                    "code": "FN401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN502",
+        "name": "Fonoaudiologia e Saúde do Trabalhador",
+        "credits": 2,
+        "syllabus": "A relação saúde-trabalho: conceitos de trabalho, processo e organização do trabalho. Histórico e paradigma da relação saúde-trabalho. Políticas em Saúde do Trabalhador(a), vigilância e informação em saúde do trabalhador(a). Organização de serviços para a Saúde do Trabalhador(a).",
+        "reqs": [
+            [
+                {
+                    "code": "FN307"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN504",
+        "name": "Metodologia da Pesquisa I",
+        "credits": 4,
+        "syllabus": "Elementos teóricos e operacionais básicos da pesquisa clássica. Tipos e controle de variáveis. Delineamento de grupos e de sujeito único. Metodologia observacional. Estudos experimentais e correlacionais. Análise quantitativa de dados - fundamentos da análise estatística. A questão da divulgação dos resultados de pesquisa.",
+        "reqBy": [
+            "FN705"
+        ]
+    },
+    {
+        "code": "FN506",
+        "name": "Estágio em Audiologia I",
+        "credits": 5,
+        "syllabus": "Avaliação audiológica em pacientes adultos e crianças.",
+        "reqs": [
+            [
+                {
+                    "code": "FN401"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN606",
+            "FN636"
+        ]
+    },
+    {
+        "code": "FN507",
+        "name": "Estágio em Avaliação de Linguagem I",
+        "credits": 5,
+        "syllabus": "Aplicação de procedimentos avaliativos referentes à alteração de voz, linguagem oral, linguagem escrita e/ou audição em crianças, adolescentes, adultos e idosos. Análise de exames complementares. Elaboração de diagnóstico fonoaudiológico e relatórios de avaliação com indicação para o processo terapêutico. Discussão sobre o diagnóstico e o encaminhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "FN404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN607"
+        ]
+    },
+    {
+        "code": "FN509",
+        "name": "Estágio em Fonoaudiologia Clínica I",
+        "credits": 5,
+        "syllabus": "Início do atendimento clínico. As etapas frente ao processo clínico: levantamento dos dados de prontuário, levantamento bibliográfico para estudo de caso, apresentação e análise de exames complementares, planejamento terapêutico, elaboração de relatórios de avaliação clínica e de acompanhamento terapêutico."
+    },
+    {
+        "code": "FN510",
+        "name": "Aquisição, Desenvolvimento e Processos Terapêuticos da Surdez",
+        "credits": 2,
+        "syllabus": "Fornecer subsídios teóricos sobre o processo de aquisição e desenvolvimento da leitura-escrita, relacionando-se o processo clínico-terapêutico ao educacional e ao contexto linguistico da LIBRAS. E, partindo das questões linguísticas, abordar a relação sujeito/língua/identidade na surdez.",
+        "reqs": [
+            [
+                {
+                    "code": "FN404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN511",
+        "name": "Linguagem e Intervenção Fonoaudiológica I",
+        "credits": 2,
+        "syllabus": "O acompanhamento fonoaudiológico das alterações de fala e da gagueira. Discussão dos conceitos de fluência e de disfluência. A prevenção, e avaliação e o acompanhamento clínico-terapêutico das alterações de fala e de gagueira. A intervenção terapêutica individual e em grupo. Atuação multi e interdisciplinar e em diferentes contextos - familiar, escolar e outros. Atuação fonoaudiológica na atenção básica.",
+        "reqBy": [
+            "FN713",
+            "FN743",
+            "FN843"
+        ]
+    },
+    {
+        "code": "FN512",
+        "name": "Fonoaudiologia - Voz I",
+        "credits": 2,
+        "syllabus": "Discussão do conceito de voz em processos normais e alterados. Revisão da fisiologia fonatória. Conceitos de avaliação clínica, laringológica e acústica da voz.",
+        "reqs": [
+            [
+                {
+                    "code": "FN400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN612",
+            "FN712",
+            "FN742",
+            "FN842"
+        ]
+    },
+    {
+        "code": "FN513",
+        "name": "Estágio em Fonoaudiologia e Saúde Coletiva I",
+        "credits": 5,
+        "syllabus": "Estágio em instituições e em serviços públicos de saúde e educação, para diagnóstico, planejamento e realização de ação fonoaudiológica, contemplando atividades de prevenção, promoção à saúde, diagnóstico e reabilitação, respeitando as características loco-regionais.",
+        "reqs": [
+            [
+                {
+                    "code": "FN404"
+                },
+                {
+                    "code": "FN409"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN613",
+            "FN643"
+        ]
+    },
+    {
+        "code": "FN536",
+        "name": "Prática em Audiologia I",
+        "credits": 5,
+        "syllabus": "Avaliação audiológica em pacientes adultos e crianças.",
+        "reqs": [
+            [
+                {
+                    "code": "FN401"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN636"
+        ]
+    },
+    {
+        "code": "FN537",
+        "name": "Prática em Linguagem Escrita e Motricidade Orofacial I",
+        "credits": 5,
+        "syllabus": "Aplicação de procedimentos avaliativos referentes à alteração de voz, linguagem oral, linguagem escrita e/ou audição em crianças, adolescentes, adultos e idosos. Análise de exames complementares. Elaboração de diagnóstico fonoaudiológico e relatórios de avaliação com indicação para o processo terapêutico. Discussão sobre o diagnóstico e o encaminhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "FN404"
+                },
+                {
+                    "code": "FN409"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN539",
+        "name": "Prática em Clínica Fonoaudiológica I",
+        "credits": 5,
+        "syllabus": "Início do atendimento clínico. As etapas frente ao processo clínico: levantamento dos dados de prontuário, levantamento bibliográfico para estudo de caso, apresentação e análise de exames complementares, planejamento terapêutico, elaboração de relatórios de avaliação clínica, acompanhamento terapêutico e de evolução.",
+        "reqs": [
+            [
+                {
+                    "code": "FN410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN543",
+        "name": "Prática em Fonoaudiologia e Saúde Coletiva I",
+        "credits": 5,
+        "syllabus": "Diagnóstico, planejamento e realização de ação fonoaudiológica em instituição e em serviços públicos de saúde e educação, contemplando atividades de prevenção, promoção à saúde, diagnóstico e reabilitação, respeitando as características loco-regionais.",
+        "reqs": [
+            [
+                {
+                    "code": "FN404"
+                },
+                {
+                    "code": "FN409"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN643"
+        ]
+    },
+    {
+        "code": "FN601",
+        "name": "Audiologia III",
+        "credits": 4,
+        "syllabus": "Anatomia e fisiologia do sistema nervoso auditivo central. Processamento auditivo: conceito, testes utilizados para avaliação, análise dos resultados, clsssificação dos distúrbios do processamento auditivo e orientação a pais e escola. Noções teóricas de exames eletrofisiológicos da audição. Fundamentação teórica da avaliação e reabilitação da função vestibular.",
+        "reqs": [
+            [
+                {
+                    "code": "FN401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN602",
+        "name": "Audiologia III",
+        "credits": 2,
+        "syllabus": "Anatomia e fisiologia do sistema nervoso auditivo central. Processamento auditivo: conceito, testes utilizados para avaliação, análise dos resultados, classificação dos distúrbios do processamento auditivo e orientação a pais e escola. Noções teóricas de exames eletrofisiológicos da audição.",
+        "reqs": [
+            [
+                {
+                    "code": "FN401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN603",
+        "name": "Fundamentos em Otoneurologia",
+        "credits": 2,
+        "syllabus": "Anatomia e fisiologia do sistema vestibular periférico e central. Fundamentação teórica dos diferentes métodos de avaliação e reabilitação do equilíbrio corporal. ",
+        "reqs": [
+            [
+                {
+                    "code": "FN401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN604",
+        "name": "Metodologia da Pesquisa II",
+        "credits": 4,
+        "syllabus": "Estudo das abordagens qualitativas de pesquisa, discutindo suas características e especificidades. Trabalha as etapas e os instrumentos deste tipo de pesquisa.",
+        "reqBy": [
+            "FN705"
+        ]
+    },
+    {
+        "code": "FN606",
+        "name": "Estágio em Audiologia II",
+        "credits": 4,
+        "syllabus": "Avaliação audiológica em pacientes adultos e crianças.",
+        "reqs": [
+            [
+                {
+                    "code": "FN506"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN706",
+            "FN736"
+        ]
+    },
+    {
+        "code": "FN607",
+        "name": "Estágio em Avaliação de Linguagem II",
+        "credits": 4,
+        "syllabus": "Aplicação de procedimentos avaliativos referentes a alteração de voz, linguagem oral, linguaguem escrita e/ou audição em crianças, adolescentes, adultos ou idosos. Análise de exames complementares. Elaboração de diagnóstico fonoaudiológico e relatórios de avaliação com indicação para o processo terapêutico. Discussão sobre o diagnóstico e encaminhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "FN507"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN714",
+            "FN744"
+        ]
+    },
+    {
+        "code": "FN609",
+        "name": "Estágio em Fonoaudiologia Clínica II",
+        "credits": 4,
+        "syllabus": "Continuidade no acompanhamento terapêutico de sujeitos já avaliados. Análise do processo terapêutico: evolução e prognóstico. Discussão em grupo dos casos atendidos pelos alunos sob a orientação de um docente. Elaboração de relatórios de acompanhamento terapêutico."
+    },
+    {
+        "code": "FN611",
+        "name": "Linguagem e Intervenção Fonoaudiológica II",
+        "credits": 2,
+        "syllabus": "O acompanhamento fonoaudiológico das alterações de linguagem decorrentes de lesões ou disfunções neurológicas (afasia, paralisia cerebral, Doença de Parkinson e outras) e das alterações de escrita. A avaliação e acompanhamento clínico-terapêutico. Intervenção fonoaudiológica e comunicação suplementar e/ou alternativa. Atuação multi e interdisciplinar e em diferentes contextos-familiar, escolar e outros. Atuação fonoaudiológica na atenção básica.",
+        "reqBy": [
+            "FN461",
+            "FN713",
+            "FN743",
+            "FN843",
+            "FN961"
+        ]
+    },
+    {
+        "code": "FN612",
+        "name": "Fonoaudiologia - Voz II",
+        "credits": 2,
+        "syllabus": "Discussão do conceito de voz em processos normais e alterados. Revisão da fisiologia fonatória. Conceitos de avaliação clínica, laringológica e acústica da voz.",
+        "reqs": [
+            [
+                {
+                    "code": "FN512"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN742",
+            "FN842"
+        ]
+    },
+    {
+        "code": "FN613",
+        "name": "Estágio em Fonoaudiologia e Saúde Coletiva II",
+        "credits": 4,
+        "syllabus": "Estágio em instituições e em serviços públicos de saúde e educação, para diagnóstico, planejamento e realização de ação fonoaudiológica, contemplando atividades de prevenção, promoção à saúde, diagnóstico e reabilitação, respeitando as características loco-regionais.",
+        "reqs": [
+            [
+                {
+                    "code": "FN513"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN636",
+        "name": "Prática em Audiologia II",
+        "credits": 4,
+        "syllabus": "Avaliação audiológica em pacientes adultos e crianças.",
+        "reqs": [
+            [
+                {
+                    "code": "FN506"
+                }
+            ],
+            [
+                {
+                    "code": "FN536"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN736"
+        ]
+    },
+    {
+        "code": "FN637",
+        "name": "Prática em Linguagem Escrita e Motricidade Orofacial II",
+        "credits": 4,
+        "syllabus": "Aplicação de procedimentos avaliativos referentes a alteração de voz, linguagem oral, linguaguem escrita e/ou audição em crianças, adolescentes, adultos ou idosos. Análise de exames complementares. Elaboração de diagnóstico fonoaudiológico e relatórios de avaliação com indicação para o processo terapêutico. Discussão sobre o diagnóstico e encaminhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "FN404"
+                },
+                {
+                    "code": "FN409"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN744"
+        ]
+    },
+    {
+        "code": "FN639",
+        "name": "Prática em Clínica Fonoaudiológica II",
+        "credits": 4,
+        "syllabus": "Continuidade no acompanhamento terapêutico de sujeitos já avaliados. Análise do processo terapêutico: evolução e prognóstico. Discussão em grupo dos casos atendidos pelos alunos sob a orientação de um docente. Elaboração de relatórios de acompanhamento terapêutico."
+    },
+    {
+        "code": "FN643",
+        "name": "Prática em Fonoaudiologia e Saúde Coletiva II",
+        "credits": 4,
+        "syllabus": "Diagnóstico, planejamento e realização de ação fonoaudiológica em instituição e em serviços públicos de saúde e educação, contemplando atividades de prevenção, promoção à saúde, diagnóstico e reabilitação, respeitando as características loco-regionais.",
+        "reqs": [
+            [
+                {
+                    "code": "FN513"
+                }
+            ],
+            [
+                {
+                    "code": "FN543"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN701",
+        "name": "Audiologia IV",
+        "credits": 4,
+        "syllabus": "Características físicas e eletroacústicas de próteses auditivas. Etapas do processo de seleção e adaptação de próteses auditivas em diferentes faixas etárias. Procedimentos audiológicos inerentes a este processo.",
+        "reqBy": [
+            "FN470",
+            "FN806",
+            "FN816",
+            "FN836"
+        ]
+    },
+    {
+        "code": "FN704",
+        "name": "Disfagia I",
+        "credits": 2,
+        "syllabus": "Anatomia e Fisiologia da deglutição orofaríngea normal e alterada. Conceito de disfagia. Disfagia Mecânica e Disfagia Neurogênica. Dificuldades de deglutição nos diferentes ciclos de vida.",
+        "reqs": [
+            [
+                {
+                    "code": "FN400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN477",
+            "FN804"
+        ]
+    },
+    {
+        "code": "FN705",
+        "name": "Monografia I",
+        "credits": 4,
+        "syllabus": "Planejamento e desenvolvimento de trabalho de conclusão de curso em fonoaudiologia.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "FN504"
+                },
+                {
+                    "code": "FN604"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN805"
+        ]
+    },
+    {
+        "code": "FN706",
+        "name": "Estágio em Audiologia III",
+        "credits": 5,
+        "syllabus": "Triagem auditiva neonatal. Avaliação audiológica básica. Procedimento avançados do diagnóstico audiológico.",
+        "reqs": [
+            [
+                {
+                    "code": "FN606"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN470",
+            "FN806",
+            "FN836"
+        ]
+    },
+    {
+        "code": "FN710",
+        "name": "A Interdisciplinaridade na Reabilitação das Deficiências Sensoriais",
+        "credits": 2,
+        "syllabus": "Aborda conteúdos teóricos e práticos referentes às deficiências sensoriais (visão subnormal, cegueira e surdez). Introduz e conceitua procedimentos metodológicos de avaliação em intervenção e recursos utilizados nos processos terapêuticos, sob uma perspectiva interdisciplinar."
+    },
+    {
+        "code": "FN712",
+        "name": "Estágio em Avaliação e Terapia Fonoaudiológica em Voz I",
+        "credits": 5,
+        "syllabus": "Avaliação e acompanhamento fonoaudiológico de sujeitos com queixas vocais, orientação e aprimoramento vocal de sujeitos profissionais da voz. Etapas frente ao processo clínico: levantamento dos dados de prontuário, planejamento terapêutico, elaboração de relatórios de acompanhamento terapêutico e encaminhamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "FN512"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN713",
+        "name": "Estágio em Avaliação e Terapia Fonoaudiológica em Linguagem I",
+        "credits": 4,
+        "syllabus": "Acompanhamento fonoaudiológico em linguagem, especialmente em gagueira e neurologia. Etapas frente ao processo clínico em uma abordagem integral e humanizada: estudo de caso, avaliação e planejamento terapêutico, registro e análise do material terapêutico, processo terapêutico, atuação junto à família, escola e outros contextos, condutas e encaminhamentos. Formas de atendimento: individual ou grupal. Abordagem multi e interdisciplinar.",
+        "reqs": [
+            [
+                {
+                    "code": "FN511"
+                },
+                {
+                    "code": "FN611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN714",
+        "name": "Estágio em Motricidade Orofacial I",
+        "credits": 4,
+        "syllabus": "Intervenção clínica fonoaudiológica na área da motricidade orofacial em crianças, adolescentes, adultos e idosos. Compreensão sobre o processo envolvido na prática clínica, entrevista, anamnese, avaliação, diagnóstico, prognóstico, encaminhamento e alta.",
+        "reqs": [
+            [
+                {
+                    "code": "FN607"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN844"
+        ]
+    },
+    {
+        "code": "FN715",
+        "name": "Estágio em Fonoaudiologia Aplicada à Neonatologia e Saúde do Trabalhador I",
+        "credits": 5,
+        "syllabus": "Desenvolver conhecimentos, habilidades e atitudes em relação à atuação fonoaudiológica em instituições prioritariamente públicas. Atividades teórico-práticas em Unidade Hospitalar-Unidade de Neonatologia, unidades de saúde da rede SUS Campinas e outros equipamentos sociais."
+    },
+    {
+        "code": "FN736",
+        "name": "Prática em Audiologia III",
+        "credits": 5,
+        "syllabus": "Triagem auditiva neonatal em lactentes. Avaliação audiológica básica em adultos e crianças. Procedimento avançados do diagnóstico audiológico em adultos e crianças.",
+        "reqs": [
+            [
+                {
+                    "code": "FN606"
+                }
+            ],
+            [
+                {
+                    "code": "FN636"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN836"
+        ]
+    },
+    {
+        "code": "FN742",
+        "name": "Prática Fonoaudiológica em Voz I",
+        "credits": 5,
+        "syllabus": "Avaliação e acompanhamento fonoaudiológico de sujeitos com queixas vocais, orientação e aprimoramento vocal de sujeitos profissionais da voz. Etapas frente ao processo clínico: levantamento dos dados de prontuário, planejamento terapêutico, elaboração de relatórios de acompanhamento terapêutico e encaminhamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "FN512"
+                },
+                {
+                    "code": "FN612"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN743",
+        "name": "Prática Fonoaudiológica em Linguagem I",
+        "credits": 5,
+        "syllabus": "Acompanhamento fonoaudiológico em linguagem, especialmente em gagueira e neurologia. Etapas frente ao processo clínico em uma abordagem integral e humanizada: estudo de caso, avaliação e planejamento terapêutico, registro e análise do material terapêutico, processo terapêutico, atuação junto à família, escola e outros contextos, condutas e encaminhamentos. Formas de atendimento: individual ou grupal. Abordagem multi e interdisciplinar.",
+        "reqs": [
+            [
+                {
+                    "code": "FN511"
+                },
+                {
+                    "code": "FN611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN744",
+        "name": "Prática Fonoaudiológica em Motricidade Orofacial I",
+        "credits": 4,
+        "syllabus": "Intervenção clínica fonoaudiológica na área da motricidade orofacial em crianças, adolescentes, adultos e idosos. Compreensão sobre o processo envolvido na prática clínica, entrevista, anamnese, avaliação, diagnóstico, prognóstico, encaminhamento e alta.",
+        "reqs": [
+            [
+                {
+                    "code": "FN607"
+                }
+            ],
+            [
+                {
+                    "code": "FN637"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FN844"
+        ]
+    },
+    {
+        "code": "FN745",
+        "name": "Prática em Fonoaudiologia Aplicada à Neonatologia e Saúde do Trabalhador I",
+        "credits": 5,
+        "syllabus": "Desenvolver conhecimentos, habilidades e atitudes em relação à atuação fonoaudiológica em instituições prioritariamente públicas. Atividades teórico-práticas em Unidade Hospitalar-Unidade de Neonatologia, unidades de saúde da rede SUS Campinas e outros equipamentos sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "MD223"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN804",
+        "name": "Disfagia II",
+        "credits": 2,
+        "syllabus": "Avaliação fonoaudiológica clínica e instrumental das disfagias. Bases da intervenção fonoaudiológica em disfagia mecânica. Atuação fonoaudiológica em disfagia neonatal e em disfagias neurogênicas. Atuação interdisciplinar em disfagias orofaríngeas.",
+        "reqs": [
+            [
+                {
+                    "code": "FN704"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN805",
+        "name": "Monografia II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e finalização de trabalho de conclusão de curso em fonoaudiologia.",
+        "reqs": [
+            [
+                {
+                    "code": "FN705"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN806",
+        "name": "Estágio de Audiologia IV",
+        "credits": 4,
+        "syllabus": "Triagem auditiva neonatal. Avaliação do processamento auditivo. Processo de seleção e adaptação de próteses auditivas.",
+        "reqs": [
+            [
+                {
+                    "code": "FN701"
+                },
+                {
+                    "code": "FN706"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN812",
+        "name": "Estágio em Avaliação e Terapia Fonoaudiológica em Voz II",
+        "credits": 4,
+        "syllabus": "\nAvaliação e acompanhamento fonoaudiológico de sujeitos com queixas vocais e orientação e aprimoramento vocal de sujeitos profissionais da voz. Etapas frente ao processo clínico: levantamento dos dados de prontuário, planejamento terapêutico, elaboração de relatórios de acompanhamento terapêutico e encaminhamentos."
+    },
+    {
+        "code": "FN813",
+        "name": "Estágio em Avaliação e Terapia Fonoaudiológica em Linguagem II",
+        "credits": 4,
+        "syllabus": "Acompanhamento fonoaudiológico em linguagem, especialmente em gagueira e neurologia. Etapas frente ao processo clínico em uma abordagem integral e humanizada: estudo de caso, avaliação e planejamento terapêutico, registro e análise do material terapêutico, processo terapêutico, atuação junto à família, escola e outros contextos, condutas e encaminhamentos. Formas de atendimento: individual ou grupal. Abordagem multi e interdisciplinar."
+    },
+    {
+        "code": "FN814",
+        "name": "Estágio em Motricidade Orofacial II",
+        "credits": 3,
+        "syllabus": "Intervenção clínica fonoaudiológica na área da motricidade orofacial em crianças, adolescentes, adultos e idosos. Compreensão sobre o processo envolvido na prática clínica, entrevista, anamnese, avaliação, diagnóstico, prognóstico, encaminhamento e alta."
+    },
+    {
+        "code": "FN815",
+        "name": "Estágio em Fonoaudiologia Aplicada à Neonatologia e Saúde do Trabalhador II",
+        "credits": 4,
+        "syllabus": "Desenvolver conhecimentos, habilidades e atitudes em relação à atuação fonoaudiológica em instituições prioritariamente públicas. Atividades teórico-práticas em Unidade Hospitalar-Unidade de Neonatologia, unidades de saúde da rede SUS Campinas e outros equipamentos sociais."
+    },
+    {
+        "code": "FN816",
+        "name": "Estágio em Audiologia V",
+        "credits": 4,
+        "syllabus": "Processo de seleção e adaptação de próteses auditivas em crianças, adultos e idosos. Reabilitação auditiva em adultos e idosos.",
+        "reqs": [
+            [
+                {
+                    "code": "FN701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN836",
+        "name": "Prática em Audiologia IV",
+        "credits": 4,
+        "syllabus": "Triagem auditiva neonatal. Avaliação do processamento auditivo. Processo e seleção e adaptação de próteses auditivas.",
+        "reqs": [
+            [
+                {
+                    "code": "FN701"
+                },
+                {
+                    "code": "FN736"
+                }
+            ],
+            [
+                {
+                    "code": "FN706"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN842",
+        "name": "Prática Fonoaudiológica em Voz II",
+        "credits": 4,
+        "syllabus": "Avaliação e acompanhamento fonoaudiológico de sujeitos com queixas vocais, orientação e aprimoramento vocal de sujeitos profissionais da voz. Etapas frente ao processo clínico: levantamento dos dados de prontuário, planejamento terapêutico, elaboração de relatórios de acompanhamento terapêutico e encaminhamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "FN512"
+                },
+                {
+                    "code": "FN612"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN843",
+        "name": "Prática Fonoaudiológica em Linguagem II",
+        "credits": 4,
+        "syllabus": "Acompanhamento fonoaudiológico em linguagem, especialmente em gagueira e neurologia. Etapas frente ao processo clínico em uma abordagem integral e humanizada: estudo de caso, avaliação e planejamento terapêutico, registro e análise do material terapêutico, processo terapêutico, atuação junto à família, escola e outros contextos, condutas e encaminhamentos. Formas de atendimento: individual ou grupal. Abordagem multi e interdisciplinar.",
+        "reqs": [
+            [
+                {
+                    "code": "FN511"
+                },
+                {
+                    "code": "FN611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN844",
+        "name": "Prática Fonoaudiológica em Motricidade Orofacial II",
+        "credits": 3,
+        "syllabus": "Intervenção clínica fonoaudiológica na área da motricidade orofacial em crianças, adolescentes, adultos e idosos. Compreensão sobre o processo envolvido na prática clínica, entrevista, anamnese, avaliação, diagnóstico, prognóstico, encaminhamento e alta.",
+        "reqs": [
+            [
+                {
+                    "code": "FN714"
+                }
+            ],
+            [
+                {
+                    "code": "FN744"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN845",
+        "name": "Prática em Fonoaudiologia Aplicada à Neonatologia e Saúde do Trabalhador II",
+        "credits": 4,
+        "syllabus": "Desenvolver conhecimentos, habilidades e atitudes em relação à atuação fonoaudiológica em instituições prioritariamente públicas. Atividades teórico-práticas em Unidade Hospitalar-Unidade de Neonatologia, unidades de saúde da rede SUS Campinas e outros equipamentos sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "MD223"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN904",
+        "name": "Atividades para o Aprimoramento Cultural, Acadêmico e Científico I",
+        "credits": 3,
+        "syllabus": "Participação em atividades complementares ao ensino e aprendizagem (palestras, cursos, congressos, iniciação científica, atividades de monitoria, atividades no centro acadêmico, participação em ligas, empresas Júnior, representação discente e organização de atividades na Universidade, atividades sociais, voluntariado, visitas técnicas, atividades culturais, participação em campanhas promovidas pelo curso e outros)."
+    },
+    {
+        "code": "FN906",
+        "name": "Atividades para o Aprimoramento Cultural, Acadêmico e Científico II",
+        "credits": 3,
+        "syllabus": "Participação em atividades complementares ao ensino e aprendizagem (palestras, cursos, congressos, iniciação científica, atividades de monitoria, atividades no centro acadêmico, participação em ligas, empresas Júnior, representação discente e organização de atividades na Universidade, atividades sociais, voluntariado, visitas técnicas, atividades culturais, participação em campanhas promovidas pelo curso e outros)."
+    },
+    {
+        "code": "FN908",
+        "name": "Atividades para o Aprimoramento Cultural, Acadêmico e Científico III",
+        "credits": 4,
+        "syllabus": "Participação em atividades complementares ao ensino e aprendizagem (palestras, cursos, congressos, iniciação científica, atividades de monitoria, atividades no centro acadêmico, participação em ligas, empresas Júnior, representação discente e organização de atividades na Universidade, atividades sociais, voluntariado, visitas técnicas, atividades culturais, participação em campanhas promovidas pelo curso e outros)."
+    },
+    {
+        "code": "FN910",
+        "name": "Saúde e Comunidade - Planejamento e Produção de Atividades de Educação e Promoção da Saúde",
+        "credits": 4,
+        "syllabus": "A disciplina oferece conteúdo voltado para a organização do Dia Mundial da Voz e Dia Internacional de Conscientização sobre o Ruído que requer minucioso planejamento e organização de todas as fases da realização: contatos, confecção de materiais, elaboração de palestras e avaliação do evento que acontece. Questões como organização, orçamento, divulgação impressa, digital, compõe o corpus e o enfoque principal da disciplina. "
+    },
+    {
+        "code": "FN942",
+        "name": "Tópicos em Voz Profissional",
+        "credits": 2,
+        "syllabus": "Apresentação dos conceitos relacionados à área de voz profissional artística e não-artística e aprimoramento vocal versus reabilitação vocal; discussão dos fatores determinantes relacionados à saúde vocal dos profissionais da voz; discussão sobre aprimoramento vocal em diversos profissionais da voz. "
+    },
+    {
+        "code": "FN951",
+        "name": "Prática em Acolhimento Fonoaudiológico",
+        "credits": 3,
+        "syllabus": "Observação do acolhimento (triagem) e avaliação na clínica fonoaudiológica. Capacitar o aluno a desenvolver raciocínio clínico considerando os aspectos sociais e emocionais envolvidos na queixa do paciente e/ou família. Discutir a importância de pronto atendimento, orientações, esclarecimentos e encaminhamentos. Realizar avaliação específica na área de motricidade oral quando necessário."
+    },
+    {
+        "code": "FN961",
+        "name": "Práticas com a Linguagem nas Afasias",
+        "credits": 4,
+        "syllabus": "Acompanhamento longitudinal de sujeitos afásicos orientado pela abordagem discursiva da neurolinguística. Análise e estudos de casos. Discussão crítica da avaliação e da semiologia das afasias.",
+        "reqs": [
+            [
+                {
+                    "code": "FN611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN962",
+        "name": "Práticas Interdisciplinares: o Sujeito Surdo, a Escola e a Família",
+        "credits": 3,
+        "syllabus": "Aplicação de procedimentos avaliativos e condutas terapêuticas com sujeitos surdos inseridos em grupos de atendimento que visem o processo/desenvolvimento da linguagem oral, linguagem escrita e Libras e o atendimento interdisciplinar de seus familiares.\n "
+    },
+    {
+        "code": "FN963",
+        "name": "Estágio em Atuação Interdisciplinar: o Sujeito Surdo, a Escola e a Família II",
+        "credits": 3,
+        "syllabus": "Preparação de materiais para o ensino de português como L2 de alunos surdos de diferentes faixas etárias e avaliação das habilidades de leitura/escrita. Orientações a pais e professores sobre o atendimento interdisciplinar."
+    },
+    {
+        "code": "FN967",
+        "name": "Prática Fonoaudiológica em Disfagia",
+        "credits": 4,
+        "syllabus": "Avaliação fonoaudiológica clínica e instrumental das disfagias. Bases da intervenção fonoaudiológica em disfagia mecânica. Atendimento fonoaudiológico em individuos com disfagia orofaringia. Atuação fonoaudiológica em disfagias neurogênicas. Atuação interdisciplinar em disfagias orofaríngeas.",
+        "reqs": [
+            [
+                {
+                    "code": "FN466"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FN970",
+        "name": "Práticas Interdisciplinares Aplicadas à Deficiência Visual I",
+        "credits": 3,
+        "syllabus": "Estuda fundamentos e aspectos históricos da deficiência visual relacionados à Clínica Fonoaudiológica. Aborda a atuação interdisciplinar no trabalho com as pessoas com deficiência visual visando sua habilitação, educação e reabilitação, assim como a participação de seus familiares. Enfoca as questões ligadas à saúde ocular, escola, cidadania e direitos, considerando as especificidades das pessoas com deficiência visual e o desenvolvimento do raciocínio clínico na prática fonoaudiológica."
+    },
+    {
+        "code": "FN971",
+        "name": "Práticas Interdisciplinares Aplicadas à Deficiência Visual II",
+        "credits": 3,
+        "syllabus": "Conduta interdisciplinar na avaliação e acompanhamento de jovens, adultos e idosos com deficiência visual de forma a oferecer subsídios ao aluno para avaliar e atuar na habilitação e/ou reabilitação das pessoas que apresentam essa deficiência. Desenvolver o raciocínio clínico do aluno considerando a queixa do paciente e/ou da família. Discutir a necessidade de pronto atendimento, uso de recursos de tecnologia assistiva, orientações, esclarecimentos e encaminhamentos."
+    }
+]

@@ -1,0 +1,459 @@
+[
+    {
+        "code": "EU001",
+        "name": "Tópicos Especiais em Engenharia de Manufatura I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "EU002",
+        "name": "Tópicos Especiais em Engenharia de Manufatura II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "EU003",
+        "name": "Tópicos Especiais em Engenharia de Manufatura III",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "EU004",
+        "name": "Tópicos Especiais em Engenharia de Manufatura IV",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "EU010",
+        "name": "Trabalho de Graduação",
+        "credits": 8,
+        "syllabus": "Trabalho de caráter teórico e/ou prático sobre tema relevante à área de Engenharia, envolvendo conhecimento adquiridos nas diversas disciplinas do curso. Elaboração e execução de projeto segundo as normas da ABNT para apresentação de trabalhos acadêmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU011",
+        "name": "Estágio II",
+        "credits": 8,
+        "syllabus": "Estágio em Engenharia de Manufatura.",
+        "reqs": [
+            [
+                {
+                    "code": "EU902"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU300",
+        "name": "Métodos Estatísticos Aplicados à Engenharia",
+        "credits": 2,
+        "syllabus": "Análise de observações. Modelo Matemático. Espaço Amostral. Axiomas e Teoremas Básicos. Variáveis Aleatórias. Distribuições e suas características. Covariância e Correlação. Distribuição Conjunta. Principais Modelos Discretos e Contínuos. Estatística Descritiva. Ajustamentos de Funções Reais. Correlação e Regressão. Noções de Amostragem e Testes de Hipóteses. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "LE101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU480",
+        "name": "Simulação Aplicada a Materiais",
+        "credits": 4,
+        "syllabus": "Eletrostática e a equação de Laplace: solução numérica da equação de Laplace em duas dimensões. Condução térmica e a equação do calor: solução numérica da equação do calor dependente do tempo. Dinâmica molecular: sistemas de muitos corpos. Simulações de Sistemas Quânticos: Solução Numérica da Equação de Schrödinger dependente e independente do tempo, Método da Matriz de Transferência e Tight-Binding.",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU490",
+        "name": "Tópicos Especiais em Manufatura de Materiais Avançados I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "EU500",
+        "name": "Introdução aos Métodos Numéricos Aplicados à Engenharia",
+        "credits": 2,
+        "syllabus": "Introdução ao método dos elementos finitos e diferenças finitas, com aplicações da mecânica dos sólidos e condução de calor. Métodos variacionais e de resíduos ponderados. Discretização e funções de interpolação. Matrizes dos elementos.",
+        "reqs": [
+            [
+                {
+                    "code": "LE300"
+                },
+                {
+                    "code": "LE402"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LE902"
+        ]
+    },
+    {
+        "code": "EU501",
+        "name": "Transformação de Fase dos Materiais",
+        "credits": 2,
+        "syllabus": "Nucleação e crescimento de fases. Recuperação, recristalização e crescimento de grãos. Solubilização e precipitação. Ligas ferro-carbono. Tratamentos térmicos e termoquímicos das ligas ferro-carbono. ",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU580"
+        ]
+    },
+    {
+        "code": "EU502",
+        "name": "Metrologia Industrial",
+        "credits": 2,
+        "syllabus": "O sistema brasileiro de normalização. Terminologia normalizada sobre medição, desvios e erros. Sistemas de medição. Erros e incertezas. Calibração de instrumentos. Rastreabilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "LE103"
+                }
+            ],
+            [
+                {
+                    "code": "ME319",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU503",
+        "name": "Mecanismos",
+        "credits": 2,
+        "syllabus": "Graus de liberdade dos mecanismos articulados planares. Estudo dos tipos de mecanismos. Modelagem cinemática e dinâmica por coordenadas generalizadas. Modelagem computacional de mecanismos.",
+        "reqs": [
+            [
+                {
+                    "code": "LE400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU605"
+        ]
+    },
+    {
+        "code": "EU505",
+        "name": "Tópicos Especiais em Manufatura de Materiais Avançados II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "EU510",
+        "name": "Técnicas de Caracterização dos Materiais",
+        "credits": 4,
+        "syllabus": "Introdução às Técnicas de Caracterização Microestrutural de Materiais. Microscopia Ótica. Microscopia Eletrônica de Varredura. Microscopia Eletrônica de Transmissão. Microscopia Eletrônica Analítica. Difração de Elétrons. Aplicações da Microscopia Eletrônica ao Estudo de Materiais. Técnicas de Preparação de Amostras."
+    },
+    {
+        "code": "EU530",
+        "name": "Ensaio dos Materiais",
+        "credits": 4,
+        "syllabus": "Introdução aos ensaios dos materiais, Propriedades dos materiais, Ensaios mecânicos. Ensaios Destrutivos: Tração, Compressão, Dureza, Torção, Flexão, Fluência, Fadiga, Impacto. Ensaios Não­-Destrutivos: Radiografia. Ultra­som, Partículas Magnéticas, Líquidos Penetrantes."
+    },
+    {
+        "code": "EU560",
+        "name": "Introdução à Mecânica Quântica",
+        "credits": 4,
+        "syllabus": "Radiação do Corpo Negro e a Hipótese de Planck; Efeito Fotoelétrico; O Átomo de Bohr; Dualidade Onda; Partícula e Princípio de “De Broglie” e o Princípio de Incerteza; Equação de Schroedinger Independente do Tempo; Elétron no Átomo de Hidrogênio; Átomos de Muitos Elétrons; Princípio da Exclusão de Pauli.",
+        "reqs": [
+            [
+                {
+                    "code": "LE301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU570",
+        "name": "Cristalografia e Difração de Raios-X",
+        "credits": 4,
+        "syllabus": "Estrutura Cristalina. Simetria de Cristais. Produção, Propriedades e Detecção dos Raios X. Difração de Raios X. Métodos Experimentais de Difração de Raios X. Caracterização de Materiais por Difração de Raios X. Métodos de refinamento de estruturas cristalinas.",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU580",
+        "name": "Metalurgia Física",
+        "credits": 4,
+        "syllabus": "Metais Puros e Soluções Sólidas. Estruturas dos Metais e Ligas. Equilíbrio e Diagramas de Fases. Difusão em Metais e Ligas. Transformações de Fase. Metais e Ligas Especiais.",
+        "reqs": [
+            [
+                {
+                    "code": "EU501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU590",
+        "name": "Física dos Materiais",
+        "credits": 4,
+        "syllabus": "Introdução à Física de Materiais e Dispositivos Semicondutores: Propriedades Físicas de Materiais Semicondutores, Modelos de Bandas, Portadores Livres em Semicondutores, Doadores e Aceitadores. Tecnologias e Técnicas Avançadas de Fabricação de Materiais e Dispositivos Semicondutores; Junções pn; Dispositivos Optoeletrônicos; Novos Materiais para Tecnologias Avançadas.",
+        "reqs": [
+            [
+                {
+                    "code": "LE301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU600",
+        "name": "Sistemas Fluido Térmicos",
+        "credits": 4,
+        "syllabus": "Introdução a sistemas de: compressão; distribuição de gases e líquidos; ventilação; condicionamento de ar; refrigeração; motores de combustão interna; geração e cogeração de potência; geração, distribuição e utilização de vapor. Unidade de incineração.",
+        "reqs": [
+            [
+                {
+                    "code": "LE501"
+                },
+                {
+                    "code": "LE504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU601",
+        "name": "Tecnologia do Pó",
+        "credits": 4,
+        "syllabus": "Matérias primas para metalurgia do pó; processo de produção de pós-metálicos. Mistura convencional de pós. Compactação, densificação, sinterização. Novos processos envolvendo densificação sem sinterização; extrusão a frio, HIP. Qualidade de produtos obtidos por metalurgia do pó. Exemplos de aplicação.",
+        "reqs": [
+            [
+                {
+                    "code": "LE503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU602",
+        "name": "Elementos de Máquinas",
+        "credits": 4,
+        "syllabus": "Introdução ao projeto de máquinas. Teoria de falhas. Cálculo de dimensionamento de parafusos, eixos, mancais, engrenagens, molas, embreagens e freios.",
+        "reqs": [
+            [
+                {
+                    "code": "EU605"
+                },
+                {
+                    "code": "LE500"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LE902"
+        ]
+    },
+    {
+        "code": "EU603",
+        "name": "Elementos de Máquina",
+        "credits": 4,
+        "syllabus": "Introdução ao projeto de máquinas. Teoria de falhas por fadiga, fadiga superficial e fratura. Eixos, mancais, engrenagens, molas, soldas, embreagens e freios, transmissões flexíveis."
+    },
+    {
+        "code": "EU604",
+        "name": "Automação Industrial",
+        "credits": 2,
+        "syllabus": "Sensores. Portas Lógicas. CLPs. Estrutura Básica do Sistema Microcontrolado. Programação Básica em Microcontroladores. Teoria Básica de Controle. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "LE303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU605",
+        "name": "Dinâmica de Mecanismos",
+        "credits": 2,
+        "syllabus": "Trabalho virtual. Modelagem dinâmica por coordenadas generalizadas de mecanismos de um grau de liberdade. Modelagem dinâmica de mecanismos de N graus de liberdade. Análise de forças e momentos de reação.",
+        "reqs": [
+            [
+                {
+                    "code": "EU503"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU602"
+        ]
+    },
+    {
+        "code": "EU700",
+        "name": "Engenharia de Superfície",
+        "credits": 4,
+        "syllabus": "Demanda de revestimento metálicos na indústria moderna. Eletrodeposição de metais. Deposição de metais sem corrente. Fabricação de placas de circuito impresso. Anodização do alumínio. Deposição de metais e ligas por aspersão térmica. Deposição física e química a partir da fase de vapor. Revestimento de óxidos de metais refratários. Endurecimento por nitretação a plasma.",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU701",
+        "name": "Projeto de Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Normas e sistemáticas do projeto mecânico industrial. Arquitetura mecânica, concepção a partir de critérios de funcionalidade do produto. Documentação técnica de um projeto. Desenhos de montagem final. Detalhes construtivos. Análise do valor no desenvolvimento de projeto. Método de sistematização da criatividade no projeto. Problemas de segurança dos projetos. Integração do projeto com a fabricação e testes com assistência de computadores."
+    },
+    {
+        "code": "EU702",
+        "name": "Processos de Fabricação II",
+        "credits": 4,
+        "syllabus": "Introdução à metalurgia do pó. Processamento de materiais cerâmicos. Processos de fabricação usando materiais compósitos. Proteção de superfície por métodos físicos. Proteção de superfície por métodos químicos. Caracterização de superfície. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "LE608"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU703",
+        "name": "Proteção Superficial",
+        "credits": 2,
+        "syllabus": "Corrosão, proteção de superfície por métodos físicos; proteção de superfície por métodos químicos; técnicas de caracterização de superfície e ensaios para avaliação da degradação superficial.",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU704",
+        "name": "Engenharia de Superfície",
+        "credits": 2,
+        "syllabus": "Corrosão, proteção de superfície por métodos físicos; proteção de superfície por métodos químicos; técnicas de caracterização de superfície e ensaios para avaliação da degradação superficial.",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU800",
+        "name": "Organização Industrial",
+        "credits": 4,
+        "syllabus": "Noções básicas de organização; Introdução à administração de produção; Processo de tomada de decisões; Modelos de Planejamento e controle; Técnicas de previsão; Localização industrial e \"layout\"; Métodos quantitativos aplicados a organização industrial; Investimentos e financiamentos."
+    },
+    {
+        "code": "EU801",
+        "name": "Manufatura Enxuta",
+        "credits": 4,
+        "syllabus": "Mapeamento do fluxo de valor; fluxo de material e de informação; kaizen de processo e kaizen do fluxo; mapa do estado atual do fluxo de valor; características do fluxo de valor enxuto; takt time, fluxo contínuo, uso de supermercados, linha FIFO, linha puxada-sequenciada, processo puxador, nivelamento do mix de produção, nivelamento do volume de produção, tempo pitch, heijunka box; mapa do estado futuro do fluxo de valor; curso de ações para atingir o estado futuro: plano e avaliação do fluxo de valor.",
+        "reqs": [
+            [
+                {
+                    "code": "LE602"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU802",
+        "name": "Projeto de Ferramentas para Fabricação",
+        "credits": 4,
+        "syllabus": "Projeto de dispositivos e ferramentas para fabricação. Cálculo de ferramentas, matrizes e dispositivos de fixação. Sistemas de troca rápida de ferramentas. Projeto de ferramentas auxiliado por computador.",
+        "reqs": [
+            [
+                {
+                    "code": "LE602"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU803",
+        "name": "Manufatura Assistida por Computador",
+        "credits": 4,
+        "syllabus": "CNC: Tipos de CNC, Centros de Torneamento; Centros de Usinagem; Programação manual; Programação via CAM; DNC; Desenvolvimento de Programas.",
+        "reqs": [
+            [
+                {
+                    "code": "LE602"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU804",
+        "name": "Programação e Utilização da Robótica Industrial",
+        "credits": 4,
+        "syllabus": "Áreas de utilização de Robôs na Indústria. Classificação de sistemas robotizados com relação à sua utilização. Linguagens de Programação. Técnicas de Inteligência Artificial aplicadas à Robótica. Estudo de Casos.",
+        "reqs": [
+            [
+                {
+                    "code": "LE406"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU900",
+        "name": "Prototipagem Rápida",
+        "credits": 4,
+        "syllabus": "Introdução às ferramentas de apoio ao desenvolvimento de produto. Tecnologias tradicionais de prototipagem. Novas exigências do mercado e tecnologias de prototipagem rápida. Tecnologias de conversão em plástico. Tecnologias de conversão em metal. Projeto de um modelo. Fabricação de ferramentas para a injeção de plásticos, fundição e embutidura. Máquinas de alta velocidade. Fabricação rápida de eletrodos. Visita a um Instituto ou indústria, onde existe um sistema de prototipagem rápida.",
+        "reqs": [
+            [
+                {
+                    "code": "LE503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU901",
+        "name": "Materiais Poliméricos",
+        "credits": 2,
+        "syllabus": "Conceitos básicos. Estruturas e propriedades de polímeros. Comportamento mecânico de polímeros. Processamento mecânico de polímeros (classificação dos processos, processos de injeção e extrusão). Polímeros de Engenharia. Compósitos e blendas.",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EU902",
+        "name": "Estágio I",
+        "credits": 8,
+        "syllabus": "Estudos de situações reais em engenharia, com acompanhamento de projetos, especificação, fabricação, montagem e implementação de sistemas junto a empresas ou órgãos credenciados pela Universidade.",
+        "reqBy": [
+            "EU011"
+        ]
+    }
+]

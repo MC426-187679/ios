@@ -1,0 +1,277 @@
+[
+    {
+        "code": "BP223",
+        "name": "Parasitologia",
+        "credits": 4,
+        "syllabus": "Relação parasito-hospedeiro e ecologia parasitária. Estudo dos principais protozoários e helmintos de interesse médico. Classificação zoológica, biologia, patogenia, quadro clínico, diagnóstico, epidemiologia e profilaxia. Estudo dos principais artrópodes transmissores e veiculadores de doenças no homem.",
+        "reqs": [
+            [
+                {
+                    "code": "BA133"
+                },
+                {
+                    "code": "BH125"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN605"
+        ]
+    },
+    {
+        "code": "BP323",
+        "name": "Parasitologia Médica II",
+        "credits": 4,
+        "syllabus": "Relação parasito-hospedeiro e ecologia parasitária. Estudo dos principais protozoários e helmintos de interesse médico. Classificação zoológica, biologia, patogenia, quadro clínico, diagnóstico, epidemiologia e profilaxia. Estudo dos principais artrópodes transmissores e veiculadores de doenças no homem.",
+        "reqBy": [
+            "BP326",
+            "BP327",
+            "EN555"
+        ]
+    },
+    {
+        "code": "BP325",
+        "name": "Tópicos em Parasitologia Contemporânea",
+        "credits": 3,
+        "syllabus": "A disciplina abordará aspectos atuais da Parasitologia."
+    },
+    {
+        "code": "BP326",
+        "name": "Tópicos Avançados em Parasitologia I",
+        "credits": 6,
+        "syllabus": "Nessa disciplina, a ementa será proposta por ocasião do seu oferecimento, permitindo a inclusão de novos conteúdos, colaboração de professores visitantes e atividades similares.",
+        "reqs": [
+            [
+                {
+                    "code": "BP323"
+                },
+                {
+                    "code": "BP515"
+                },
+                {
+                    "code": "BP582"
+                },
+                {
+                    "code": "BP820"
+                },
+                {
+                    "code": "BS420"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP327",
+        "name": "Tópicos Avançados em Parasitologia II",
+        "credits": 6,
+        "syllabus": "Nessa disciplina, a ementa será proposta por ocasição do seu oferecimento, permitindo a inclusão de novos conteúdos, colaboração de professores visitantes e atividades similares.",
+        "reqs": [
+            [
+                {
+                    "code": "BP323"
+                },
+                {
+                    "code": "BP515"
+                },
+                {
+                    "code": "BP582"
+                },
+                {
+                    "code": "BP820"
+                },
+                {
+                    "code": "BS420"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP500",
+        "name": "Iniciação Científica em Parasitologia I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Parasitologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP515",
+        "name": "Parasitologia",
+        "credits": 4,
+        "syllabus": "Estudo de protozoários, artrópodes e helmintos parasitas de interesse humano: ciclo de vida, transmissão, epidemiologia, diagnóstico, patogenia, tratamento e profilaxia.  Estudo dos principais vetores de doenças parasitárias humanas.",
+        "reqs": [
+            [
+                {
+                    "code": "BS115"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BP326",
+            "BP327",
+            "FR157",
+            "FR610",
+            "FR611",
+            "FR805",
+            "MD189",
+            "MD190"
+        ]
+    },
+    {
+        "code": "BP580",
+        "name": "Parasitologia Animal II",
+        "credits": 4,
+        "syllabus": "Parasitoses veiculadas pela água, solo, artrópodes e alimentos. Zoonoses. Impactos das parasitoses na saúde pública. Desenvolvimento de metodologia de ensino em parasitologia no ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "BP582"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP582",
+        "name": "Parasitologia Animal I",
+        "credits": 4,
+        "syllabus": "Conceito de parasitismo. Relação parasito-hospedeiro. Ciclos biológicos. Exemplos de protozoários, helmintos e artró-podes parasitas. Vetores. Epidemiologia das principais parasitoses de interesse médico. Elaboração de relatórios ou seminários sobre temas de protozologia, helmintologia e ectoparasitologia. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BP326",
+            "BP327",
+            "BP580"
+        ]
+    },
+    {
+        "code": "BP585",
+        "name": "Interação Parasita-Hospedeiro: Aspectos Imunológicos",
+        "credits": 4,
+        "syllabus": "Princípios básicos da imunidade contra o parasitismo e das estratégias de evasão. Os aspectos das respostas imunes, inata e adaptativa serão incorporados no estudo de doenças parasitárias e de seus modelos experimentais. Fundamentos dos métodos parasitológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP586",
+        "name": "Entomologia Forense",
+        "credits": 4,
+        "syllabus": "Introdução à Entomologia Forense, conceitos, histórico e aplicações. Biologia e ecologia de insetos de importância forense, com ênfase aos dípteros e coleópteros. Metodologias para conservação e coleta de insetos oriundos do campo e em outros meios/instrumentos. Manutenção de insetos em laboratório. Técnicas e metodologias usadas para identificar insetos de importância forense. Modelos e métodos para estimativa do intervalo pós-morte. Princípios básicos de perícia com foco em insetos que vivem e se alimentam da matéria orgânica de origem animal em decomposição."
+    },
+    {
+        "code": "BP590",
+        "name": "Introdução à Sistemática Molecular",
+        "credits": 4,
+        "syllabus": "Modelos de evolução em sequências de DNA. Genealogias gênicas e processos de coalescência. Filogenias intraespecíficas e filogeografia. Filogenias específicas e macroevolução.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP600",
+        "name": "Iniciação Científica em Parasitologia II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Parasitologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP670",
+        "name": "História Natural dos Insetos",
+        "credits": 4,
+        "syllabus": "Introdução à Biologia, Morfologia e Fisiologia de Insetos. Noções básicas sobre os sistemas e aparelhos dos insetos, com ênfase nas adaptações voltadas para a exploração dos diversos ambientes ocupados pelos mesmos. Noções gerais sobre a filogenia e evolução dos insetos. Reconhecimento das principais ordens e das famílias mais comuns."
+    },
+    {
+        "code": "BP694",
+        "name": "Ensino de Biologia VIII: Parasitologia",
+        "credits": 4,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Parasitologia. Abordagem e elaboração de diferentes metodologias para o ensino de Parasitologia. Articulação temática e integrada de temas contemporâneos para o ensino de Biologia. Criação de conteúdos de formas de ensinar pautdados na ideia de transversalidade no currículo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP700",
+        "name": "Estágio Supervisionado em Parasitologia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Biologia Animal, área de Parasitologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP800",
+        "name": "Estágio Supervisionado em Parasitologia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de pesquisa de Parasitologia do Departamento de Biologia Animal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BP820",
+        "name": "Zooparasitologia",
+        "credits": 4,
+        "syllabus": "Estudos dos parasitas que infectam humanos e animais. Interações entre hospedeiro-parasito e o meio ambiente. Estudo de protozoários e helmintos: ciclo da vida, transmissão, patogenia, epidemiologia, imunidade e profilaxia. Ectoparasitas e estudo dos principais artrópodes e moluscos veiculadores de parasitoses. Elaboração de relatórios ou seminários sobre temas de protozoologia, helmintologia e ectoparasitologia. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BP326",
+            "BP327"
+        ]
+    },
+    {
+        "code": "BP915",
+        "name": "Qualidade de Água, Saúde e Saneamento",
+        "credits": 4,
+        "syllabus": "A água e o meio ambiente. Água e parasitos. Água de abastecimento público: tipos de estações de tratamento de água, controles físico-químico, microbiológico e parasitológico das águas de consumo humano incluindo bactérias, algas, fungos, vírus e protozoários patogênicos. Águas residuais: disposição nos ambientes rural e urbano, processos de tratamento. Fármacos no ambiente. Qualidade de água e Portaria 2914, de 14 de dezembro de 2011 (revogada a Portaria 518)."
+    }
+]

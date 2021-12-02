@@ -1,0 +1,851 @@
+[
+    {
+        "code": "QF053",
+        "name": "Laboratório de Química Aplicada",
+        "credits": 4,
+        "syllabus": "Experimentos em Química Aplicada desenvolvidos na Planta Piloto do IQ ilustrando operações unitárias relevantes na Indústria Química.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ481",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "EQ482",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF331",
+        "name": "Físico-Química",
+        "credits": 4,
+        "syllabus": "Gás real, energia livre de Gibbs, equilíbrios físico e químico, diagrama de fases, cinética química.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "QG108"
+                }
+            ],
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "QG104"
+                }
+            ],
+            [
+                {
+                    "code": "MS220"
+                },
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "MS220"
+                },
+                {
+                    "code": "QG108"
+                }
+            ],
+            [
+                {
+                    "code": "MS220"
+                },
+                {
+                    "code": "QG104"
+                }
+            ],
+            [
+                {
+                    "code": "MS380"
+                },
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "MS380"
+                },
+                {
+                    "code": "QG108"
+                }
+            ],
+            [
+                {
+                    "code": "MS380"
+                },
+                {
+                    "code": "QG104"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR402",
+            "FR602",
+            "FT310",
+            "GE503",
+            "TA331",
+            "TA332"
+        ]
+    },
+    {
+        "code": "QF333",
+        "name": "Físico-Química I (Engenharia de Alimentos)",
+        "credits": 4,
+        "syllabus": "Gases, termodinâmica, equilíbrios físicos e soluções.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "QG101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA433",
+            "TA433"
+        ]
+    },
+    {
+        "code": "QF335",
+        "name": "Físico-Química",
+        "credits": 4,
+        "syllabus": "Gases, termodinâmica, equilíbrios físicos e soluções.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "QG108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QF531",
+            "TA417",
+            "TA433",
+            "TA433"
+        ]
+    },
+    {
+        "code": "QF337",
+        "name": "Físico-Química (Farmácia)",
+        "credits": 4,
+        "syllabus": "Gases, termodinâmica, equilíbrios químicos, cinética química e soluções.",
+        "reqs": [
+            [
+                {
+                    "code": "MS380"
+                },
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "QG108"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF431",
+        "name": "Físico-Química I",
+        "credits": 4,
+        "syllabus": "Estado gasoso: propriedades PVT de gases ideal e real; equação de van der Waals; princípio dos estados correspondentes. Conceitos básicos de Termodinâmica: primeira, segunda e terceira Leis; funções termodinâmicas; termoquímica; aplicações. Condições de equilíbrio e regra das fases: sistemas de um e de mais componente. Propriedades coligativas; atividade.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "QG108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 604",
+            "QF531",
+            "QF573",
+            "QF854"
+        ]
+    },
+    {
+        "code": "QF432",
+        "name": "Físico-Química",
+        "credits": 4,
+        "syllabus": "Energia e equilíbrio. Conceitos fundamentais e Leis da Termodinâmica. Regra das fases. Equilíbrio químico. Cinética química. Propriedades de líquidos e sólidos: tensão superficial, viscosidade. A interface sólido/líquido. Adsorção, troca iônica. Exemplos aplicados a sistemas minerais.",
+        "reqs": [
+            [
+                {
+                    "code": "MS220"
+                },
+                {
+                    "code": "QG104"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF530",
+        "name": "Introdução à Química Quântica e Espectroscopia Molecular",
+        "credits": 4,
+        "syllabus": "Noções de Espectroscopia e Postulados da mecânica quântica. Partícula na caixa e estrutura eletrônica. Rotor rígido e espectroscopia rotacional de moléculas diatômicas. Oscilador harmônico e espectroscopia vibracional de moléculas diatômicas. Espectroscopia roto-vibracional de moléculas diatômicas. Estrutura eletrônica, estados fundamental e excitados. Fotoquímica e fotofísica.",
+        "reqs": [
+            [
+                {
+                    "code": "F 328"
+                },
+                {
+                    "code": "MA311",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "QF732"
+        ]
+    },
+    {
+        "code": "QF531",
+        "name": "Físico-Química II",
+        "credits": 4,
+        "syllabus": "Teoria cinética dos gases: equação barométrica, Lei de Maxwell-Boltzmann para a distribuição de velocidades; potencial intermolecular. Cinética química: equações de velocidade; catálises homogênea e heterogênea; reações rápidas, noções sobre dinâmica molecular. Eletroquímica: condutividade de soluções, Lei de Ostwald; equilíbrio iônico; propriedades termodinâmicas; coeficientes de atividade; teoria de Debye-Hückel; pilhas e reações eletroquímicas; passivação e corrosão.",
+        "reqs": [
+            [
+                {
+                    "code": "QF335"
+                }
+            ],
+            [
+                {
+                    "code": "QF431"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ481",
+            "EQ482",
+            "QA815",
+            "QF632",
+            "QF632",
+            "QF661",
+            "QF661",
+            "QF854",
+            "QF952"
+        ]
+    },
+    {
+        "code": "QF535",
+        "name": "Introdução à Química Quântica",
+        "credits": 6,
+        "syllabus": "Evolução histórica da descrição da luz e da matéria. A antiga mecânica quântica, quantização da energia da radiação e mecânica. Os postulados da mecânica quântica ondulatória. Aplicações a sistemas simples. Química quântica: estruturas atômicas e estruturas moleculares de sistemas simples. Ensino de química quântica: atividades orientadas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 328"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QF732"
+        ]
+    },
+    {
+        "code": "QF536",
+        "name": "Química Quântica",
+        "credits": 4,
+        "syllabus": "Postulados da Mecânica Quântica. Equação de Schroedinger. Soluções exatas e métodos de aproximação. Átomo de Hidrogênio e átomos multieletrônicos. Métodos de estruturas eletrônicas para sistemas moleculares.",
+        "reqs": [
+            [
+                {
+                    "code": "F 328",
+                    "partial": true
+                },
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "QI245"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QF637",
+            "QF732",
+            "QG664"
+        ]
+    },
+    {
+        "code": "QF573",
+        "name": "Introdução à Análise Térmica e Dinâmica de Materiais",
+        "credits": 2,
+        "syllabus": "Introdução às técnicas térmicas e mecânicas de caracterização de materiais de maior relevância na atualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "QF431",
+                    "partial": true
+                },
+                {
+                    "code": "QG108"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF632",
+        "name": "Físico-Química Experimental I",
+        "credits": 8,
+        "syllabus": "Experimentos relacionados aos temas: termodinâmica química, cinética, eletroquímica, equilíbrio de fases e propriedades coligativas.",
+        "reqs": [
+            [
+                {
+                    "code": "QA217"
+                },
+                {
+                    "code": "QF531",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "QA282"
+                },
+                {
+                    "code": "QF531",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF637",
+        "name": "Introdução à Espectroscopia e à Termodinâmica Estatística",
+        "credits": 4,
+        "syllabus": "Espectroscopia molecular. Espectroscopia de ressonância paramagnética de elétrons (ERP) e magnética nuclear (RMN). Lasers. Fotoquímica. Ensembles e postulados. Funções de partição e termodinâmica. Sistemas de partículas independentes: distinguíveis e indistinguíveis. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "F 428",
+                    "partial": true
+                },
+                {
+                    "code": "QF536"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF661",
+        "name": "Química Aplicada",
+        "credits": 4,
+        "syllabus": "Materiais: polímeros, metais, cerâmicas e vidros. Colóides e superfícies: surfactantes, espumas, molhabilidade, detergência, estabilidade e propriedade de dispersões.",
+        "reqs": [
+            [
+                {
+                    "code": "QF531",
+                    "partial": true
+                },
+                {
+                    "code": "QO521",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "QF531",
+                    "partial": true
+                },
+                {
+                    "code": "QO421",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "QF953"
+        ]
+    },
+    {
+        "code": "QF732",
+        "name": "Físico-Química Experimental II",
+        "credits": 6,
+        "syllabus": "Experimentos relacionados aos temas: espectroscopia molecular, propriedades de materiais e físico-química de coloides e superfícies.",
+        "reqs": [
+            [
+                {
+                    "code": "QF530"
+                }
+            ],
+            [
+                {
+                    "code": "QF535"
+                }
+            ],
+            [
+                {
+                    "code": "QF536"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF835",
+        "name": "Processos Industriais",
+        "credits": 4,
+        "syllabus": "Cinética de Reatores. Descrição e análise de alguns processos de grande importância encontrados nas indústrias químicas. Fermentações, refino de petróleo, manufatura de papel, etc.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ582",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF851",
+        "name": "Quimiometria e Controle Multivariado de Processos Químicos",
+        "credits": 2,
+        "syllabus": "O monitoramento do estado de um processo químico ao longo do tempo é muito importante pois o operador ao ser alertado quando o processo sofre qualquer alteração inesperada pode tomar, a tempo, as devidas providências.\nO objetivo dar uma introdução de como é feita a modelagem multivariada dos processos usando a Quimiometria e como se faz o acompanhamento e a otimização dos mesmos ao longo do tempo."
+    },
+    {
+        "code": "QF852",
+        "name": "Modelagem Molecular",
+        "credits": 2,
+        "syllabus": "Introdução aos métodos de simulação computacional; descrição de modelos atômicos e moleculares; reatividade química; sistemas biológicos; sólidos e materiais."
+    },
+    {
+        "code": "QF853",
+        "name": "Reologia Sistemas Coloidais",
+        "credits": 2,
+        "syllabus": "Introdução a reologia. Definições de parâmetros reológicos fundamentais como deformação, tensão e taxa de cisalhamento.\nElasticidade e viscosidade. A viscoelasticidade linear e não linear de sistemas coloidais sob o ponto de vista fenomenológico e microestrutural.\nAspectos instrumentais da reologia de sistemas coloidais: teoria e prática."
+    },
+    {
+        "code": "QF854",
+        "name": "Fotoeletroquímica em Materiais Semicondutores: Princípios e Aplicações",
+        "credits": 2,
+        "syllabus": "Propriedades de semicondutores tipo-n e tipo-p; processos de transferência de carga na interface semicondutor|eletrólito; aplicações tecnológicas em dispositivos fotoeletroquímicos para aproveitamento e conversão de energia solar: células solares; remoção de contaminantes da água; produção de \"combustíveis solares\" através da redução de CO2 ou eletrólise da água.",
+        "reqs": [
+            [
+                {
+                    "code": "QF431"
+                },
+                {
+                    "code": "QF531"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF930",
+        "name": "Tópicos Especiais em Físico-Química I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF931",
+        "name": "Tópicos Especiais em Físico-Química II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF932",
+        "name": "Tópicos Especiais em Físico-Química III",
+        "credits": 2,
+        "syllabus": "Será oferecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF933",
+        "name": "Tópicos Especiais em Físico-Química IV",
+        "credits": 2,
+        "syllabus": "Será oferecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF934",
+        "name": "Tópicos Especiais em Físico-Química V",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF935",
+        "name": "Tópicos Especiais em Físico-Química VI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF936",
+        "name": "Tópicos Especiais em Físico-Química VII",
+        "credits": 2,
+        "syllabus": "Será oferecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF937",
+        "name": "Tópicos Especiais em Físico-Química VIII",
+        "credits": 2,
+        "syllabus": "Será oferecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF938",
+        "name": "Tópicos Especiais em Físico-Química IX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF939",
+        "name": "Tópicos Especiais em Físico-Química X",
+        "credits": 2,
+        "syllabus": "Será oferecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF940",
+        "name": "Tópicos Especiais em Físico-Química XI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF941",
+        "name": "Tópicos Especiais em Físico-Química XII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF942",
+        "name": "Tópicos Especiais em Físico-Química XIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF943",
+        "name": "Tópicos Especiais em Físico-Química XIV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF944",
+        "name": "Tópicos Especiais em Físico-Química XV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "QF945",
+        "name": "Tópicos Especiais em Físico-Química XVI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF946",
+        "name": "Tópicos Especiais em Físico-Química XVII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF947",
+        "name": "Tópicos Especiais em Físico-Química XVIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF948",
+        "name": "Tópicos Especiais em Físico-Química XIX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF949",
+        "name": "Tópicos Especiais em Físico-Química XX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF952",
+        "name": "Físico-Química Experimental",
+        "credits": 8,
+        "syllabus": "Experimentos relacionados aos tópicos: termodinâmica química, cinética, eletroquímica, equilíbrio de fases, propriedades coligativas, propriedades de materiais e físico-química de coloides e superfícies.",
+        "reqs": [
+            [
+                {
+                    "code": "QF531",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF953",
+        "name": "Reologia e Processamento de Polímeros",
+        "credits": 4,
+        "syllabus": "Classificação e descrição das principais técnicas de processamento. Comportamento reológico de polímeros.",
+        "reqs": [
+            [
+                {
+                    "code": "QF661"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF954",
+        "name": "Tópicos Especiais em Físico-Química Experimental I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF955",
+        "name": "Tópicos Especiais em Físico-Química Experimental II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF956",
+        "name": "Tópicos Especiais em Físico Química XXI",
+        "credits": 4,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF957",
+        "name": "Tópicos Especiais em Físico Química XXII",
+        "credits": 4,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF958",
+        "name": "Tópicos Especiais em Físico-Química Experimental III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QF959",
+        "name": "Tópicos Especiais em Físico-Química Experimental IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

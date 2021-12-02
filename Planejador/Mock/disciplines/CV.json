@@ -1,0 +1,3620 @@
+[
+    {
+        "code": "CV001",
+        "name": "Projeto e Implantação de Loteamento",
+        "credits": 2,
+        "syllabus": "Estudo da idade de criação de projetos de expansão urbana. Análise do plano diretor urbano. Legislação municipal, estadual e federal. Organização do espaço físico. Estudo das técnicas de circulação e geometria viária. Representação gráfica de um projeto. Equipamentos urbanos. Projetos integrados de infraestrutura urbana. Processo de implantação de loteamento. Criação de legislação específica do loteamento.",
+        "reqs": [
+            [
+                {
+                    "code": "AU601"
+                }
+            ],
+            [
+                {
+                    "code": "CV501",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV002",
+        "name": "Planejamento e Logística de Canteiro de Obras",
+        "credits": 2,
+        "syllabus": "Objetivo e conceitos da economia. Noções de macroeconomia e de microeconomia. Evolução do pensamento econômico. Noções de produção, preço e lucro. Engenharia econômica: juros e equivalência. Análise de investimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "CV701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV003",
+        "name": "Tecnologia de Argamassas e Revestimento",
+        "credits": 2,
+        "syllabus": "Conceito de revestimento como parte do edifício. Conceitos básicos sobre revestimento de edifícios: visão sistêmica, importância e classificações. Característica das matérias primas. Propriedades e características dos revestimentos no estado fresco e no estado endurecido.",
+        "reqs": [
+            [
+                {
+                    "code": "CV202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV004",
+        "name": "Tópicos Especiais em Gestão do Projeto e da Construção I",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV005",
+        "name": "Tópicos Especiais em Gestão do Projeto e da Construção II",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV006",
+        "name": "Conforto Térmico e Eficiência Energética em Edificações",
+        "credits": 2,
+        "syllabus": "Noções de conforto. Resposta humana ao ambiente térmico. Índices de conforto. Variáveis climáticas. Propriedades termofísicas dos materiais de construção. Radiação solar. Ventilação. Bioclimatologia. Energia em edificações no Brasil. Eficiência no setor residencial, eficiência no setor comercial e em edifícios de serviços e públicos. Legislação brasileira. O PROCEL. Método de cálculo de eficiência: envoltória, sistemas de iluminação, sistemas de condicionamento de ar. Simulação, certificação.",
+        "reqs": [
+            [
+                {
+                    "code": "CV301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV010",
+        "name": "Complementos de Pontes de Concreto",
+        "credits": 3,
+        "syllabus": "Sistemas Estruturais. Superestrutura das pontes em grelhas. Aparelhos de apoio. Infraestrutura das pontes.",
+        "reqs": [
+            [
+                {
+                    "code": "CV812"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV011",
+        "name": "Complementos de Concreto Protendido",
+        "credits": 3,
+        "syllabus": "Perdas de Protenção. Estruturas hiperestáticas protendidas. Análise das tensões ao longo do vão. Traçado de cabos.",
+        "reqs": [
+            [
+                {
+                    "code": "CV811"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV012",
+        "name": "Projetos de Estruturas de Madeira",
+        "credits": 3,
+        "syllabus": "Vigas entarugadas. Pontilhão rodoviário. Pontes com postes de eucalipto ligados por anéis metálicos. Cobertura com treliças ligadas por chapas com dentes estampados. Arcos de madeira para cobertura. Estruturas com laminados-colados.",
+        "reqs": [
+            [
+                {
+                    "code": "CV613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV013",
+        "name": "Complementos de Mecânica dos Sólidos",
+        "credits": 3,
+        "syllabus": "Introdução à teoria da elasticidade. Teoria das tensões e deformações. Estados planos de tensões e deformações. Vigas sobre base elástica. Barras esbeltas com flexão combinada com força axial.",
+        "reqs": [
+            [
+                {
+                    "code": "CV511"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV014",
+        "name": "Patologia e Monitoração de Estruturas",
+        "credits": 3,
+        "syllabus": "Estudos das principais patologias em estrutura de concreto armado. Principais reforços nas estruturas. Técnicas de monitoração em estruturas. Principais equipamentos de medição. Equipamentos de interpretação das medidas. Exemplos de aplicação",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV015",
+        "name": "Dinâmica das Estruturas",
+        "credits": 3,
+        "syllabus": "Princípios da dinâmica. Equação geral do movimento de uma partícula. Princípio de D'Alembert. Solução da equação diferencial do movimento. Sistemas com um grau de liberdade.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV016",
+        "name": "Técnicas de Programação",
+        "credits": 3,
+        "syllabus": "Técnicas de programação para resolução de problemas numéricos. Métodos de operações computacionais de matrizes. Métodos elementares de álgebra linear numérica. Aplicações e desenvolvimento de programas computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "MS211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV017",
+        "name": "Placas e Cascas",
+        "credits": 3,
+        "syllabus": "Introdução às placas. Definições e hipóteses. Flexão elástica linear de placas retangulares e circulares. Placas retangulares contínuas. Teoria geral das cascas finas. Aplicações das cascas finas em geral. Cascas cilíndricas circulares: coberturas e reservatórios. Cascas esféricas. Cascas cilíndricas com enrigecedores longitudinais e transversais.",
+        "reqs": [
+            [
+                {
+                    "code": "CV511"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV018",
+        "name": "Reservatório e Silos de Concreto Armado",
+        "credits": 2,
+        "syllabus": "Análise de estruturas de silos e de reservatórios de concreto armado, incluindo cálculo de pressões, cálculo estrutural e dimensionamento. Teoria para cálculo de pressões causadas por produto sólido. Detalhamento da estrutura. Especificações de normas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV019",
+        "name": "Tópicos Especiais em Concreto I",
+        "credits": 3,
+        "syllabus": "A ser definida no semestre em que for oferecida pelo Departamento de Estruturas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV020",
+        "name": "Geotecnia Ambiental",
+        "credits": 3,
+        "syllabus": "Erosão. Geossintéticos. Disposição de resíduos. Investigação geoambiental. Remediação de áreas contaminadas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV621"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV021",
+        "name": "Laboratório de Mecânica dos Solos",
+        "credits": 3,
+        "syllabus": "Ensaios de caracterização. Permeabilidade. Compactação. Adensamento. Resistência ao cisalhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV621"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV022",
+        "name": "Manutenção de Pavimentos",
+        "credits": 3,
+        "syllabus": "Tipos de pavimentos e serviços de manutenção. Agentes causadores de deterioração. Processo de deterioração e os efeitos em pavimentos flexíveis. Avaliação do estado funcional do pavimento flexível. Avaliação do estado estrutural do pavimento flexível. Evolução dos defeitos com o índice de serventia de um pavimento. Soluções de restauração de pavimentos flexíveis. Dimensionamento das camadas superpostas. Reconstrução de pavimento. Gerenciamento da manutenção.",
+        "reqs": [
+            [
+                {
+                    "code": "CV722"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV023",
+        "name": "Segurança Viária",
+        "credits": 3,
+        "syllabus": "Introdução ao conceito de segurança viária. Interseções em mesmo nível e diferentes níveis. Dispositivos e sistemas de controle de tráfego. Sinais de tráfego e sinalização de tráfego: tipos, cores, formatos, aplicação e controle. Projeto de sinalização: distâncias de livre passagem e de ultrapassagem. Distâncias de livre visão em cruzamentos em nível. Defensas e barreiras. Dispositivos e elementos potenciais de geração de acidentes. Acidentes de trânsito: estudo, caracterização e coleta de informações. Identificações de pontos críticos e técnicas de intervenção.",
+        "reqs": [
+            [
+                {
+                    "code": "CV522"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV024",
+        "name": "Complementos de Aeroportos",
+        "credits": 3,
+        "syllabus": "Previsões no Planejamento Aeroportuário, Análise de Capacidade e Atrasos do Lado Aéreo, Complementos de Projeto Geométrico, Planejamento e Projeto da Área Terminal, Terminal de Passageiros de Carga Aérea, Heliportos, Sinalização, Drenagem de Aeroportos, Pavimentos - O Método LCN e LCG e Impactos Ambientais.",
+        "reqs": [
+            [
+                {
+                    "code": "CV823"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV025",
+        "name": "Barragens de Terra",
+        "credits": 3,
+        "syllabus": "Elementos constituintes de uma barragem. Processos construtivos. Concepção. Barragens construtivas. Elaboração de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "CV621"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV026",
+        "name": "Ensaios de Campo em Geotecnia",
+        "credits": 3,
+        "syllabus": "Características e emprego de métodos de investigação geotécnica: diretos e indiretos. Estudo e análise crítica dos parâmetros obtidos em campo para concepção de projetos de fundações. Provas de carga. Programação de investigação geotécnica.",
+        "reqs": [
+            [
+                {
+                    "code": "CV621"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV027",
+        "name": "Posicionamento Geodésico",
+        "credits": 3,
+        "syllabus": "Posicionamento por satélite, método fotográfico, sistema laser, altimetria por satélite, GPS, e GLONASS. Sistemas geodésicos de referência: sistema cartesiano terrestre, sistema cartesiano celeste, catálogo celeste de coordenadas, e catálogo terrestre de coordenadas (ITRF).\nO Sistema de GPS: estrutura dos satélites e dos Sinais. Medições com os códigos. Uso da fase de batimento da portadora. O problema da ambiguidade: métodos de resolução. Combinação linear das medições de fase nas duas portadoras. O GPS e a altimetria.",
+        "reqs": [
+            [
+                {
+                    "code": "CV321"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV028",
+        "name": "Dimensionamento de Pavimentos Flexíveis",
+        "credits": 3,
+        "syllabus": "Gerência de pavimentos. Consideração geral de pavimentos convencionais, com bases rígidas e pavimentos invertidos. Estudo tensional dos pavimentos, critérios gerais dos métodos principais de dimensionamentos: equivalência, fadiga, modelos reológicos. Dimensionamento estrutural, principais métodos utilizados no Brasil e nos outros países. Ensaios utilizados em dimensionamento de pavimentos; resistência  de solos e de materiais betuminosos. Defeitos e falhas em pavimentos. Avaliação superficial e estrutural. Medidas de deflexões e bacias de deformação. Estudo de técnicas de manutenção e de conservação. Métodos de dimensionamento para recapeamento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV822"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV030",
+        "name": "Pequenas Centrais Hidrelétricas",
+        "credits": 2,
+        "syllabus": "Introdução a sistemas de energia elétrica: transmissão em corrente alternada, transmissão em corrente contínua, sistemas interligados, sistemas isolados. Componentes de um Sistema de Energia Elétrica. Componentes, equipamentos e acessórios de pequenas centrais hidrelétricas. Grupos geradores: turbinas, geradores, equipamentos complementares. Aspectos econômicos relacionados à PCHs. Aspectos ambientais relacionados à PCHs. Estudo de caso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV031",
+        "name": "Introdução ao Planejamento Energético",
+        "credits": 2,
+        "syllabus": "As questões do planejamento energético e impactos ambientais. Fontes de energia. Equipamentos e motores elétricos. Planejamento de sistemas elétricos industriais, comerciais e residenciais. Políticas públicas em energia. Comercialização de energia. Custos e Tarifas. Agências reguladoras. ANP, ANEEL, ANA. O sistema elétrico nacional e a ONS.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV032",
+        "name": "Conservação de Energia em Sistemas Elétricos",
+        "credits": 2,
+        "syllabus": "Conservação de energia em sistemas elétricos industriais, comerciais e residenciais. Sistemas elétricos mono, bi e trifásicos. Equipamentos elétricos. Uso racional e substituição de energéticos. Motores elétricos e exemplos de aplicação. Conservação de energia na iluminação pública e de edifícios. Tarifas e custos de energia. Agências reguladoras: ANEEL, ANA e ANP e os programas de conservação de energia. Aplicações práticas.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV034",
+        "name": "Análise Multicriterial em Tomada de Decisão",
+        "credits": 3,
+        "syllabus": "Introdução à pesquisa operacional, histórico. Estruturação de problemas multicriteriais. Pontos de vista fundamentais, descritores, funções de valor. Métodos MOLP baseados na distância (Programação por Compromisso e Teoria dos Jogos Cooperativos). Árvore da decisão. Funções de utilidade. Função de Utilidade Multiatributo. Métodos MAUT (Multi Atribute Utility Theory). Método \"Analytic Hierarchy Process\" (AHP). Técnica Delphi, Pesos e Método M-Macbeth. Métodos Hierárquicos (ELECTRE, PROMETHEE). Análise Multicriterial. Análise multicriterial aplicada em recursos hídricos. Seminários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV035",
+        "name": "Transitórios Hidráulicos",
+        "credits": 3,
+        "syllabus": "Generalidades. Modelo Rígido. Modelo elástico. Métodos de solução. Condições de contorno. Dispositivos de controle. Estudo de casos: instalação de recalque, usinas hidroelétricas, sistemas de abastecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV040",
+        "name": "Seminários em Gestão e Saneamento Ambiental",
+        "credits": 2,
+        "syllabus": "Organização de seminários apresentados por especialistas e/ou pesquisadores convidados a expor sobre temas específicos de interesse em Saneamento e Ambiente. Promover palestras e discussões sobre propostas de pesquisas desenvolvidas pelos pesquisadores da pós-graduação e sobre artigos científicos correlatos recentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV041",
+        "name": "Tópicos em Saneamento Ambiental I",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV042",
+        "name": "Tópicos em Saneamento Ambiental II",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV043",
+        "name": "Engenharia do Ambiente",
+        "credits": 2,
+        "syllabus": "Ambiente: atmosfera e recursos hídricos; Poluição das águas, ar, solo; Impactos ambientais; Alterações climáticas; Gerenciamento de resíduos; Processos de tratamento de resíduos e de recuperação do ambiente; Legislação ambiental."
+    },
+    {
+        "code": "CV044",
+        "name": "Controle de Poluição de Água, Solo e Atmosfera",
+        "credits": 4,
+        "syllabus": "Composição e estrutura da atmosfera. Classificação dos poluentes. Fontes e efeitos da poluição. Padrões de qualidade do ar, água e solo. Métodos de controle da poluição; Meteorologia e poluição atmosférica. Melhoramentos de poluentes.",
+        "reqs": [
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV045",
+        "name": "Reuso de Águas",
+        "credits": 3,
+        "syllabus": "Processos que afetam o transporte de poluentes nos meios aquáticos. Fontes de Poluição Hídrica. Usos da água na indústria e na agricultura. Estudos de casos envolvendo o reuso de águas, a manutenção de vazões, a recarga de aquíferos, atividades municipais, industriais, agrícolas, domésticas e recreacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                },
+                {
+                    "code": "CV742"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV046",
+        "name": "Tratamento de Lodo de ETE e ETA",
+        "credits": 3,
+        "syllabus": "Características quantitativas e qualitativas dos lodos gerados em ETAs e ETEs. Processos de digestão, condicionamento químico, adensamento, desidratação e disposição de lodos. Tipos de equipamentos e processos usados no tratamento de lodos. Estudos de tratabilidade em laboratório. Exemplos de casos em escala real.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV641",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV047",
+        "name": "Saneamento e Saúde Pública",
+        "credits": 2,
+        "syllabus": "Meio ambiente. Tópicos de meio ambiente. Legislação ambiental e estrutura institucional de meio ambiente em nível federal e estadual. Política de recurso hídrico federal e estadual. EIAs./RIMAs. Saúde pública no Brasil. Aspectos de intervenções da engenharia e arquitetura e no meio ambiente. Saneamento básico e ambiental impactando a saúde pública. Considerações estruturais. Relação qualidade solo, ar e água com saúde e doenças. Ações de saneamento. Controle de vetores.",
+        "reqs": [
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV048",
+        "name": "Tópicos em Gestão Ambiental I",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será oferecida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV049",
+        "name": "Tópicos em Gestão Ambiental II",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV051",
+        "name": "Tópicos em Geotecnia e Transportes I",
+        "credits": 2,
+        "syllabus": "A ser definida no semestre em que for oferecida pelo Departamento de Geotecnia e Transportes."
+    },
+    {
+        "code": "CV052",
+        "name": "Tópicos em Geotecnia e Transportes II",
+        "credits": 2,
+        "syllabus": "A ser definida no semestre em que for oferecida pelo Departamento de Geotecnia e Transportes."
+    },
+    {
+        "code": "CV061",
+        "name": "Avaliação de Imóveis Urbanos",
+        "credits": 2,
+        "syllabus": "Introdução às Avaliações Imobiliárias; Estatística Descritiva (Revisão); Conceitos, Definições e Normas; Métodos de Avaliação; Avaliação de Terrenos; Componentes de um Relatório de Avaliação de Terrenos; Avaliação de Residências e Apartamentos; Avaliação de Escritórios; Avaliação de Galpões Industriais; Avaliação de Lojas; Avaliação pelo Método da Renda (Shopping Center,...); Laudos Judiciais e Perícias.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV063",
+        "name": "Concretos Especiais",
+        "credits": 2,
+        "syllabus": "Estudo de concretos especiais: materiais usados, suas características, dosagem destes concretos, propriedades e aplicações dos concretos. Massa. Concretos expansivos. Impermeáveis; sujeitos à erosão, com fibras de concretos projetados e concretos rolados. Problemas relativos a concretos e massa.",
+        "reqs": [
+            [
+                {
+                    "code": "CV332"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV064",
+        "name": "Tópicos Especiais em Concreto II",
+        "credits": 3,
+        "syllabus": "A ser definida no semestre em que for oferecida pelo Departamento de Estruturas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV065",
+        "name": "Tópicos em Engenharia de Estruturas I",
+        "credits": 3,
+        "syllabus": "A ser definida no semestre em que for oferecida pelo Departamento de Estruturas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV066",
+        "name": "Tópicos em Engenharia de Estruturas II",
+        "credits": 3,
+        "syllabus": "A ser definida no semestre em que for oferecida pelo Departamento de Estruturas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV067",
+        "name": "Introdução ao Projeto de Estruturas em Steel Framing",
+        "credits": 3,
+        "syllabus": "Conceitos gerais sobre cargas e estabilidade estrutural, apresentação ao steel framing, fundações, painéis e entrepisos, lajes e coberturas, em steel framing, fixações das peças em steel framing, montagem, noções sobre ventilação das estruturas, acabamento interno, acabamento externo, desenvolvimento do projeto. Noções básicas do dimensionamento em chapa dobrada para o dimensionamento de barras tracionadas, comprimidas, fletidas e flexo-comprimidas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV068",
+        "name": "Técnicas Construtivas II",
+        "credits": 3,
+        "syllabus": "Execução de elementos construtivos estruturais. Construções industrializadas. Máquinas e equipamentos de obras. Patologias e otimização da qualidade na construção. Interação entre projeto e obra. Atualidades e estudos de casos no âmbito do Complexo da Construção Civil.",
+        "reqs": [
+            [
+                {
+                    "code": "CV332"
+                },
+                {
+                    "code": "CV633"
+                },
+                {
+                    "code": "CV701",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV069",
+        "name": "Limpeza Urbana",
+        "credits": 3,
+        "syllabus": "Resíduos Sólidos Urbanos. Impactos Ambientais. Limpeza Pública. Serviços Especiais. Coleta Especial.",
+        "reqs": [
+            [
+                {
+                    "code": "CV944",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV070",
+        "name": "Programação Matemática Aplicada à Engenharia de Estruturas",
+        "credits": 3,
+        "syllabus": "Descrição de alguns problemas. Revisão de álgebra linear. Implementação em computador do algoritmo simples. Formulação, especificação e interpretação das soluções de modelos matemáticos. Poderão ser estudados: carga e colapso. Plásticos em estruturas, pórticos planos com cabos pré-tensionados, orçamento de capital, transportes, planejamento financeiro.",
+        "reqs": [
+            [
+                {
+                    "code": "CV712"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV071",
+        "name": "Tensoestruturas",
+        "credits": 3,
+        "syllabus": "Evolução das tensoestruturas ao longo do tempo. Compreendendo a forma das tensoestruturas. As formas básicas. As formas em paraboloide hiperbólico. As formas cônicas. As formas suportadas por arcos. Combinação das formas básicas. Indicações para projeto arquitetônico. Estudo de caso com aspectos do projeto, dimensionamento e construção.",
+        "reqs": [
+            [
+                {
+                    "code": "CV712"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV072",
+        "name": "Laje sobre Solo para Fundação ou Piso",
+        "credits": 3,
+        "syllabus": "Lajes sobre solo. Reforço de aço para minimizar fissuras devidas à retratação do concreto. Análise estrutural para laje sobre solo. Análise estrutural baseada em programa de computador. Recomendações da literatura estrangeira para investigação do solo, análise estrutural e construção de laje sobre solo. Recomendações para minimizar fissuras em laje de concreto sobre o solo. Estudo de caso com aspectos do projeto, dimensionamento e construção.",
+        "reqs": [
+            [
+                {
+                    "code": "CV712"
+                },
+                {
+                    "code": "CV714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV073",
+        "name": "Introdução à Análise Não Linear de Estruturas",
+        "credits": 3,
+        "syllabus": "Busca unidimensional. Algoritmo para o mínimo de interpolação cúbica. Algoritmo para a busca unidimensional. Método de Newton. Método quase Newton. Método incremental Newton Raphson. A estratégia dos quadrados mínimos. A avaliação numérica da matriz de rigidez. Poderão ser estudados: treliças sob não-linearidade geométrica e elasticidade não linear, treliças sob não-linearidade geométrica e elasto-plasticidade, pórticos planos sob não-linearidade geométrica e elasticidade não linear.",
+        "reqs": [
+            [
+                {
+                    "code": "CV713"
+                },
+                {
+                    "code": "CV714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV074",
+        "name": "Análise Matricial de Estruturas",
+        "credits": 3,
+        "syllabus": "Matrizes de rigidez e de flexibilidade. Processo dos esforços. Processo dos deslocamentos. Efeitos de variação de temperatura, deformação inicial e recalques de apoio. Rotação plana dos eixos de coordenadas. Programas automáticos para cálculo de vigas, grelhas, treliças e pórticos planos.",
+        "reqs": [
+            [
+                {
+                    "code": "CV712",
+                    "partial": true
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV075",
+        "name": "Estruturas Metálicas Tubulares",
+        "credits": 3,
+        "syllabus": "Introdução. Aços utilizados e suas propriedades. Fabricação de barras laminadas tubulares de aço. Concepções de estruturas metálicas tubulares. Dimensionamento de barras tubulares de aço. Dimensionamento de ligações de barras tubulares de aço. Dimensionamento de estruturas mistas aço-concreto. Detalhamento de projeto de estruturas tubulares. Utilização de software no desenvolvimento de projetos.",
+        "reqs": [
+            [
+                {
+                    "code": "CV813"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV076",
+        "name": "Obras Hidráulicas: Fundamentos",
+        "credits": 2,
+        "syllabus": "Escolha e localização do tipo da barragem. Estudo da altura da barragem. Vertedores. Dissipação de energia.\nTomadas de água. Cavitação e Aeração. Desvio de rios. Segurança das barragens",
+        "reqs": [
+            [
+                {
+                    "code": "CV531"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV077",
+        "name": "Eficiência Energética na Engenharia Civil",
+        "credits": 2,
+        "syllabus": "Uso Racional dos Recursos Naturais. Conceito de Eficiência Energética. Sinergia do Uso Racional dos Recursos Hídricos e Energéticos. Eficiência Energética nos Sistemas de Abastecimento de Água. Eficiência Energética nos Sistemas de Coleta e Transporte de Esgoto Sanitário. Eficiência Energética nos Sistemas de Climatização de Ambientes.",
+        "reqs": [
+            [
+                {
+                    "code": "CV532"
+                },
+                {
+                    "code": "CV631"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV078",
+        "name": "Comercialização e Gestão de Riscos em Energia Elétrica",
+        "credits": 2,
+        "syllabus": "Energia Elétrica e Comercialização-Generalidades. A Energia Elétrica como Produto e Serviço Comercial. Setor Elétrico Brasileiro - Produção e Consumo. Reformas do Setor Elétrico. Contratação Bilateral. A experiência dos Consumidores Livres no Brasil. Leilões e Impactos na Formação de Preços. Fases de Reforma dos Mercados e Componentes Típicos de um Sistema de Energia Elétrica. Classificação dos Mercados de Energia Elétrica. O Mercado da Noruega e Países Escandinavos. Fundamentos da Gestão de Riscos: Definição, Métricas de Risco, Categorias de Risco, Instrumentos de Gestão de Riscos.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV079",
+        "name": "Equipamentos Hidráulicos: Fundamentos e Aplicações",
+        "credits": 2,
+        "syllabus": "Turbomáquinas hidráulicas: turbinas e bombas. Classificação. Teoria Elementar. Leis de Semelhança. Válvulas, tipos. Cavitação em válvulas. Comportas hidráulicas. Aplicações em obras hidráulicas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV431"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV080",
+        "name": "Hidráulica Marítima e Obras Costeiras",
+        "credits": 3,
+        "syllabus": "Teoria Linear de Ondas, Conceituação de Marés Astronômica e Meteorológica, Correntes, Processos Litorâneos, Hidráulica Estuarina, Formações Costeiras, Erosão Costeira, Obras de defesa dos Litorais, Dispersão de Efluentes no Mar, Efeito da Subida do Nível do Mar e Técnicas de Modelação de Obras Costeiras.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV081",
+        "name": "Hidráulica Fluvial e Obras Fluviais",
+        "credits": 3,
+        "syllabus": "Transporte de Sedimentos, Morfologia Fluvial, Mecanismos de Erosão, Rgularização e Retificação de Cursos d'água. Projeto de Canais e Técnicas de Modelação de Obras Fluviais.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV082",
+        "name": "Planejamento de Microbacias Hidrográficas",
+        "credits": 3,
+        "syllabus": "Microbacias hidrográficas como unidades naturais de planejamento e gestão dos recursos hídricos, energéticos e ambientais. Microbacias e o desenvolvimento sustentável: variáveis ambientais, sócio-econômicas e culturais. Microbacias e ordenação territorial: áreas rurais e urbanas. Microbacias e os processos produtivos sobre o território: produção agrícola, industrial, silvícula, agroindustrial. Microbacias e os processos de ocupação do território: áreas de proteção ambiental, áreas de produção rural, áreas de expansão urbana. Microbacias: Projetos de Arquitetura Rural e Infraestrutura Urbana.",
+        "reqs": [
+            [
+                {
+                    "code": "CV632",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV083",
+        "name": "Gerenciamento de Águas Pluviais",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de águas urbanas. Impactos da urbanização de bacias. Reservatórios urbanos (bacias de detenção). Técnicas de construção de baixo impacto. Gerenciamento integrado das águas urbanas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV632"
+                },
+                {
+                    "code": "CV930"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV084",
+        "name": "Gerenciamento de Risco de Inundações",
+        "credits": 2,
+        "syllabus": "Definições básicas de riscos econômicos, sociais e ambientais. Avaliação de riscos de inundação: chuvas, rompimento de obras e avanço de marés. Princípios de gerenciamento do risco de inundações: planejamento ambiental, alerta, seguros e cobranças.",
+        "reqs": [
+            [
+                {
+                    "code": "CV632"
+                },
+                {
+                    "code": "CV930"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV085",
+        "name": "Tópicos em Recursos Hídricos, Energéticos e Ambientais I",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV086",
+        "name": "Tópicos em Recursos Hídricos, Energéticos e Ambientais II",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV087",
+        "name": "Posicionamento Geodésico por Satélite",
+        "credits": 2,
+        "syllabus": "Posicionamento Geodésico por satélite. Sistemas Geodésicos de referência: sistema cartesiano terrestre, sistema cartesiano celeste, catálogo celeste de coordenadas e catálogo terrestre de coordenadas (IRTF). O sistema GNSS: estrutura dos satélites e dos sinais. Medições com os códigos. Uso da fase de batimento da portadora. O problema da ambiguidade: métodos de resolução. Combinação Linear das medições de fase nas duas portadoras. O GNSS e a altimetria. Aplicações em obras de engenharia que se utilizam dos levantamentos geodésicos, tais como: Monitoramento por satélite visando à segurança de frotas; Tecnologia de controle e gestão operacional de transporte; Construção de túneis; Implantação de estradas, ferrovias; Locação e controle de deformações em pontes, viadutos; Estabelecimento de pontos de controle GPS para apoio e navegação aérea, maritima e fluvial; Utilização de métodos topográficos e geodésicos no esporte e lazer; Levantamentos batimétricos.",
+        "reqs": [
+            [
+                {
+                    "code": "AU223"
+                }
+            ],
+            [
+                {
+                    "code": "CV321"
+                }
+            ],
+            [
+                {
+                    "code": "CV323"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV088",
+        "name": "Sistema de Informação Geográfica",
+        "credits": 3,
+        "syllabus": "Conceitos básicos. Tópicos de Geodésia. Sistema de projeções cartográficas - Sistema de projeção UTM. Etapas para implantação de um SIG (fontes de dados, componentes de um SIG, geocodificação, base cartográfica, banco de dados). Aplicações temáticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AU223"
+                }
+            ],
+            [
+                {
+                    "code": "CV321"
+                }
+            ],
+            [
+                {
+                    "code": "CV323"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV089",
+        "name": "Cartografia Digital",
+        "credits": 3,
+        "syllabus": "Evolução da cartografia. Projeções cartográficas. Classificação das projeções. Sistema de projeção UTM. Fotogrametria. Sensoriamento Remoto. Cartografia Digital, sistemática e temática.",
+        "reqs": [
+            [
+                {
+                    "code": "AU223"
+                }
+            ],
+            [
+                {
+                    "code": "CV421"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV090",
+        "name": "Cadastro Técnico Multifinalitário",
+        "credits": 3,
+        "syllabus": "Noções Básicas (NBR 14.166). Cadastro urbano. Rede de referência Cadastral. Conceitos básicos de SIG e sua aplicação em cadastro urbano. Base cartográfica. Métodos para levantamento cadastral. Problemas de locação. Cartografia digital versus Sistemas de Informação Geográfica (SIG).",
+        "reqs": [
+            [
+                {
+                    "code": "AU223"
+                }
+            ],
+            [
+                {
+                    "code": "CV321"
+                }
+            ],
+            [
+                {
+                    "code": "CV323"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV091",
+        "name": "Flexo-Torção em Elementos de Estruturas Metálicas",
+        "credits": 2,
+        "syllabus": "Introdução à teoria de torção de barras e à teoria de flexo-torção, conceitos básicos, equação diferencial da peça de seção delgada, exemplos numéricos, o efeito da não linearidade geométrica, barras comprimidas axialmente, barras flexo-comprimidas, efeito da flexo-torção na flexão de barras, efeito de flexo-torção na compressão de barras, efeito da flexo-torção em barras flexo-comprimidas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV411"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV092",
+        "name": "Instabilidade e Flexo-Torção em Elementos de Estruturas Metálicas",
+        "credits": 3,
+        "syllabus": "Torção de peças delgadas e não delgadas com seção qualquer. Problemas de flexo-compressão. Efeito da não linearidade geométrica, linearizada ou não-linearizada. Tratamento dos problemas de flexo-compressão por métodos aproximados. Cargas críticas. Determinação de deslocamentos em peças esbeltas com seção delgada. Flambagem de placas e cascas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV511"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV101",
+        "name": "Desenho Projetivo",
+        "credits": 3,
+        "syllabus": "Introdução aos conceitos básicos do desenho projetivo.",
+        "reqBy": [
+            "CV201",
+            "CV321",
+            "CV402"
+        ]
+    },
+    {
+        "code": "CV111",
+        "name": "Sistemas Estruturais",
+        "credits": 1,
+        "syllabus": "Noções fundamentais sobre a Engenharia Estrutural. Sistemas estruturais: descrição e estudo dos tipos de Sistemas Estruturais.",
+        "reqBy": [
+            "CV312",
+            "CV411",
+            "CV411"
+        ]
+    },
+    {
+        "code": "CV141",
+        "name": "Química para Engenharia Civil",
+        "credits": 3,
+        "syllabus": "Estequiometria. Ácidos e Bases. Equilíbrio Químico. Oxidação e Redução. Reações de Precipitação. Corrosão. Química dos Materiais. Água. Atmosfera.",
+        "reqBy": [
+            "CV202",
+            "CV341",
+            "CV541",
+            "CV941",
+            "CV946",
+            "CV989"
+        ]
+    },
+    {
+        "code": "CV151",
+        "name": "Introdução à Engenharia Civil",
+        "credits": 1,
+        "syllabus": "Noções gerais sobre ciência e tecnologia. Fundamentos metodológicos da Engenharia. Origem e evolução da Engenharia Civil. A Engenharia Civil brasileira. A Faculdade de Engenharia Civil, Arquitetura e Urbanismo e a estrutura curricular do curso da Unicamp. O empreendimento de Engenharia e suas fases. Estudos de casos nas diferentes áreas. Visitas de campo. Atribuições profissionais e perspectivas do mercado de trabalho."
+    },
+    {
+        "code": "CV201",
+        "name": "Desenho Assistido por Computador",
+        "credits": 3,
+        "syllabus": "Apresentação de uma ferramenta de desenho e projeto assistido por computador.",
+        "reqs": [
+            [
+                {
+                    "code": "CV101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU908",
+            "AU909",
+            "CV622",
+            "CV631",
+            "CV702",
+            "CV909"
+        ]
+    },
+    {
+        "code": "CV202",
+        "name": "Material de Construção Civil I",
+        "credits": 3,
+        "syllabus": "Introdução ao estudo dos materiais de construção. Propriedades dos materiais. Pedras naturais para revestimento. Agregados para argamassas e concretos. Aglomerantes minerais: gesso, cal, cimento Portland. Argamassas. Proporcionamento de argamassas. Materiais cerâmicos. Aços para concreto armado. Aço para concreto protendido.",
+        "reqs": [
+            [
+                {
+                    "code": "CV141"
+                },
+                {
+                    "code": "QG102"
+                }
+            ],
+            [
+                {
+                    "code": "QG102"
+                },
+                {
+                    "code": "QG191"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV003",
+            "CV332",
+            "CV914"
+        ]
+    },
+    {
+        "code": "CV301",
+        "name": "Física para Engenharia Civil",
+        "credits": 4,
+        "syllabus": "Temperatura e Dilatação. Calorimetria e transferência de calor. Termodinâmica. Aplicações ao conforto térmico de ambientes. Elasticidade. Ondas em meios materiais. Propagação de ondas. Corpos vibrantes. Fenômenos acústicos. Aplicações ao conforto acústico de ambientes. Natureza e propagação da luz. Conceitos de iluminação e fotometria. Lentes e instrumentos óticos.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "F 129"
+                },
+                {
+                    "code": "MA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV006",
+            "CV908"
+        ]
+    },
+    {
+        "code": "CV311",
+        "name": "Cálculo para Engenharia Civil",
+        "credits": 6,
+        "syllabus": "Espaços vetoriais e subespaços. Base e dimensão. Transformações lineares. Fundamentos de equações diferenciais. Autovalores e autovetores de matrizes. Equações homogêneas e não homogêneas.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV312",
+        "name": "Mecânica Geral",
+        "credits": 3,
+        "syllabus": "Fundamentos da mecânica newtoniana. Estática dos pontos materiais. Sistemas de partículas. Estática dos corpos rígidos. Centróides, baricentros e momentos de inércia. Análise de estruturas. Atrito.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV111"
+                },
+                {
+                    "code": "MA211",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV411",
+            "CV431",
+            "CV511"
+        ]
+    },
+    {
+        "code": "CV321",
+        "name": "Topografia e Geodésia I",
+        "credits": 3,
+        "syllabus": " \nIntrodução (NBR 13.133 e NBR 14.166). Conceitos fundamentais (sistemas de coordenadas, unidades de medidas, plano topográfico local, efeito de curvatura da terra, escalas e medições de ângulos e distâncias). Topometria: Planimetria, Altimetria E Planialtimetria. Métodos de representação da superfície. Locação de obras de engenharia.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "CV101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU902",
+            "CV027",
+            "CV087",
+            "CV088",
+            "CV090",
+            "CV421",
+            "CV622"
+        ]
+    },
+    {
+        "code": "CV323",
+        "name": "Topografia",
+        "credits": 3,
+        "syllabus": "Conceitos fundamentais (sistemas de coordenadas, unidades de medidas, plano topográfico local, efeito de curvatura da terra, escalas, introdução, normas NBR 13.133 e NBR 14.144). Planimetria (medições de distâncias e ângulos; taqueometria, topometria, medições eletrônicas de distâncias). Altimetria. Terraço, curvas de nível e locação de canais. Métodos de representação do relevo. Automação topográfica. Terraplanagem. Locação de obras.",
+        "reqs": [
+            [
+                {
+                    "code": "FA173"
+                }
+            ],
+            [
+                {
+                    "code": "GE207"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV087",
+            "CV088",
+            "CV090",
+            "FA665"
+        ]
+    },
+    {
+        "code": "CV332",
+        "name": "Materiais de Construção Civil II",
+        "credits": 3,
+        "syllabus": "Propriedades do concreto fresco. Concreto: preparo, transporte, lançamento, adensamento e cura. Propriedades do concreto endurecido. Aditivos. Dosagem. Controle Tecnológico do concreto. Ensaios não destrutivos. Materiais luminosos. Madeiras. Tintas e vernizes. Vidros. Plásticos.",
+        "reqs": [
+            [
+                {
+                    "code": "CV202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV063",
+            "CV068",
+            "CV633",
+            "CV714",
+            "CV904"
+        ]
+    },
+    {
+        "code": "CV341",
+        "name": "Sustentabilidade, Sociedade e Ambiente",
+        "credits": 2,
+        "syllabus": "A disciplina explicita os vínculos existentes entre a sociedade, o ambiente e a sustentabilidade,\ncom ênfase nas questões contemporâneas, em suas diversas escalas de manifestação (das locais as globais)",
+        "reqs": [
+            [
+                {
+                    "code": "CV141"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV441"
+        ]
+    },
+    {
+        "code": "CV351",
+        "name": "Introdução à Economia",
+        "credits": 2,
+        "syllabus": "Objetivo e conceitos da economia. Noções de macroeconomia e de microeconomia. Evolução do pensamento econômico. Noções de produção, preço e lucro. Engenharia econômica: juros e equivalência. Análise de investimentos.",
+        "reqBy": [
+            "CV401",
+            "CV522"
+        ]
+    },
+    {
+        "code": "CV401",
+        "name": "Administração Aplicada à Empresas de Construção",
+        "credits": 2,
+        "syllabus": "Teorias de administração. Princípios de administração. As funções de planejamento e controle. Administração de produção, financeira, pessoal e suprimentos. Noções de contabilidade e balanço.",
+        "reqs": [
+            [
+                {
+                    "code": "CV351"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV701",
+            "CV903"
+        ]
+    },
+    {
+        "code": "CV402",
+        "name": "Projeto Arquitetônico",
+        "credits": 3,
+        "syllabus": "Fases de elaboração do projeto arquitetônico. Características do sítio urbano/uso e ocupação do solo. Implantação e localização. Programa de necessidades. Isolação. Ventilação natural. Iluminação natural. Condições de compartimentos. Circulação. Noções básicas de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "CV101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU911",
+            "CV501",
+            "CV901",
+            "CV902",
+            "CV906"
+        ]
+    },
+    {
+        "code": "CV411",
+        "name": "Mecânica dos Sólidos I",
+        "credits": 6,
+        "syllabus": "Esforços solicitantes. Tração, compressão. Lei de Hooke. Flexão geral. Linha elástica",
+        "reqs": [
+            [
+                {
+                    "code": "CV111"
+                },
+                {
+                    "code": "F 315"
+                }
+            ],
+            [
+                {
+                    "code": "CV111"
+                },
+                {
+                    "code": "CV312",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV091",
+            "CV511",
+            "CV511",
+            "CV612",
+            "CV914"
+        ]
+    },
+    {
+        "code": "CV421",
+        "name": "Topografia e Geodésia II",
+        "credits": 3,
+        "syllabus": "Introdução (NBR 13.133 e NBR 14.144). Terraplenagem. Teoria dos erros. Geodésia. Astronomia de Posição. Cartografia (Sistemas de Projeções; Sistema Universal de Mercator - UTM). Geodésia por satélite (Sistema de Posicionamento Global - GPS). Geoprocessamento. Fotogrametria.",
+        "reqs": [
+            [
+                {
+                    "code": "CV321",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV089",
+            "CV622",
+            "CV722",
+            "CV920"
+        ]
+    },
+    {
+        "code": "CV422",
+        "name": "Introdução à Pesquisa Operacional",
+        "credits": 2,
+        "syllabus": "Introdução a problemas de otimização e suas propriedades básicas. Problemas de otimização irrestritos e com restrição. Programação linear, formulação, solução geométrica, o método simplex, dualidade e interpretação econômica.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV431",
+        "name": "Mecânica dos Fluidos",
+        "credits": 5,
+        "syllabus": "Noções fundamentais. Propriedade dos fluidos. Leis de viscosidade. Estática dos fluidos. Cinemática dos fluidos.\nDinâmica dos fluidos. Manometria. Análise dimensional e semelhança. Turbomáquinas. Efeitos de viscosidade\nnos escoamentos de fluidos",
+        "reqs": [
+            [
+                {
+                    "code": "CV312",
+                    "partial": true
+                },
+                {
+                    "code": "MA211"
+                }
+            ],
+            [
+                {
+                    "code": "F 315",
+                    "partial": true
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV079",
+            "CV531"
+        ]
+    },
+    {
+        "code": "CV441",
+        "name": "Planejamento e Gestão Ambiental",
+        "credits": 2,
+        "syllabus": "Políticas Ambientais no Brasil. Planejamento e gestão ambiental. Licenciamento Ambiental.\nImpactos ambientais de obras de Engenharia Civil.",
+        "reqs": [
+            [
+                {
+                    "code": "CV341"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV542"
+        ]
+    },
+    {
+        "code": "CV450",
+        "name": "Metodologia Científica e Redação Científica",
+        "credits": 2,
+        "syllabus": "Como organizar um TFC: escolha de tema, organização de revisão bibliográfica, fichamento, elaboração de um anteprojeto. Estruturas do trabalho: introdução, desenvolvimento, conclusão. Uniformização redacional segundo recomendações da ABNT.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV954"
+        ]
+    },
+    {
+        "code": "CV501",
+        "name": "Planejamento Urbano",
+        "credits": 3,
+        "syllabus": "Origens, históricos e conceitos básicos do planejamento urbano. Objetivos, teorias e métodos do planejamento urbano. O plano diretor, os seus levantamentos, análises, a sua elaboração e implantação. Aspectos específicos e técnicos de setores urbanos. Equipamento, infraestrutura e serviços.",
+        "reqs": [
+            [
+                {
+                    "code": "CV402",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV001"
+        ]
+    },
+    {
+        "code": "CV511",
+        "name": "Mecânica dos Sólidos II",
+        "credits": 6,
+        "syllabus": "Tensão. Deformação. Energia de deformação. Torção. Teoremas de energia. Flambagem. Critérios de resistência.",
+        "reqs": [
+            [
+                {
+                    "code": "CV312"
+                },
+                {
+                    "code": "CV411",
+                    "partial": true
+                },
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                }
+            ],
+            [
+                {
+                    "code": "CV411",
+                    "partial": true
+                },
+                {
+                    "code": "F 315"
+                },
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV013",
+            "CV017",
+            "CV092",
+            "CV612",
+            "CV613",
+            "CV621",
+            "CV712",
+            "CV713",
+            "CV714",
+            "CV916"
+        ]
+    },
+    {
+        "code": "CV521",
+        "name": "Geotecnia I",
+        "credits": 3,
+        "syllabus": "Origem e formação de solo. Indices físicos de solos. Consistência de solos. Granulometria de solos. Classificação de solos. Tensões geoestáticas.Distribuição de tensões no solo.Compactação de solos. Permeabilidade de solos.",
+        "reqs": [
+            [
+                {
+                    "code": "GM420"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV621",
+            "CV721",
+            "CV990"
+        ]
+    },
+    {
+        "code": "CV522",
+        "name": "Técnica dos Transportes",
+        "credits": 2,
+        "syllabus": "Sistemas de transporte. Modalidade. Características gerais e específicas de rodovias, ferrovias, aquavias e dutovias. Estudo comparativo das modalidades, resistência ao movimento, desempenho técnico, capacidade e flexibilidade de atendimento. Integração intermodal.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "CV351",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV023",
+            "CV622",
+            "CV821",
+            "CV823",
+            "CV921",
+            "CV925",
+            "CV927",
+            "CV929"
+        ]
+    },
+    {
+        "code": "CV531",
+        "name": "Engenharia Hidráulica",
+        "credits": 5,
+        "syllabus": "Movimento uniforme em canais. Energia específica. Ressalto hidráulico. Movimento gradualmente variado. Orifícios, bocais, vertedores, tubos curtos, hidrometria, calhas. Escoamentos em tubulações. Condutos equivalentes. Séries. Paralelo. Redes ramificadas e malhadas. Bombas, curvas e associações, cavitação. Bueiros. Tipos de barragens. Obras de transportes. Vertedores de superfície. Dissipação de energia. Desvios de rios.",
+        "reqs": [
+            [
+                {
+                    "code": "CV431",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV035",
+            "CV076",
+            "CV078",
+            "CV080",
+            "CV081",
+            "CV632",
+            "CV641",
+            "CV642",
+            "CV642",
+            "CV702",
+            "CV832",
+            "CV930",
+            "CV932",
+            "CV934",
+            "CV937",
+            "CV939"
+        ]
+    },
+    {
+        "code": "CV532",
+        "name": "Eletrotécnica e Energia",
+        "credits": 3,
+        "syllabus": "Noções de corrente alternada. Aterramento. Sistemas monofásicos e trifásicos. Fator de potência. Transformadores. Motores elétricos.",
+        "reqs": [
+            [
+                {
+                    "code": "F 328",
+                    "partial": true
+                },
+                {
+                    "code": "F 329"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV077",
+            "CV631"
+        ]
+    },
+    {
+        "code": "CV541",
+        "name": "Qualidade Sanitária do Meio",
+        "credits": 5,
+        "syllabus": "Legislação em saneamento. Qualidade de águas de mananciais x tecnologias de tratamento. Características dos esgotos e padrões de emissão x tecnologias de tratamento. Caracterização de resíduos sólidos x tecnologias de manejo.",
+        "reqs": [
+            [
+                {
+                    "code": "CV141"
+                },
+                {
+                    "code": "QG102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV044",
+            "CV045",
+            "CV047",
+            "CV641",
+            "CV642",
+            "CV943",
+            "CV944",
+            "CV947",
+            "CV949",
+            "CV984",
+            "CV985",
+            "CV986",
+            "CV987",
+            "CV988",
+            "CV991"
+        ]
+    },
+    {
+        "code": "CV542",
+        "name": "Qualidade Sanitária do Meio",
+        "credits": 3,
+        "syllabus": "Legislação em saneamento. Qualidade de águas de mananciais. Qualidade de águas de\nabastecimento para fins potáveis e industriais. Características dos esgotos e padrões de\nlançamento. Princípios de tratamento de águas de abastecimento e de esgoto.",
+        "reqs": [
+            [
+                {
+                    "code": "CV441"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV642"
+        ]
+    },
+    {
+        "code": "CV612",
+        "name": "Teoria das Estruturas I",
+        "credits": 4,
+        "syllabus": "Princípio dos trabalhos virtuais. Deslocamentos de estruturas lineares. Processo dos esforços: treliças, grelhas, pórticos e arcos. Linhas de influência de estruturas isostáticas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV411"
+                },
+                {
+                    "code": "CV511",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV712",
+            "CV713",
+            "CV714",
+            "CV813",
+            "CV814"
+        ]
+    },
+    {
+        "code": "CV613",
+        "name": "Estruturas de Madeira",
+        "credits": 3,
+        "syllabus": "A árvore. Propriedades físicas e mecânicas. Estados limites. Compressão simples. Instabilidade. Tração. Cisalhamento. Elementos para projetos de coberturas. Ligações: sambladuras, pregos e parafusos. Flexão simples e composta. Escoamento de valas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV511"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV012"
+        ]
+    },
+    {
+        "code": "CV621",
+        "name": "Geotecnia II",
+        "credits": 3,
+        "syllabus": "Adensamento e compressibilidade. Resistência ao cisalhamento dos solos. Estabilidade de taludes. Empuxos. Estruturas de arrimo.",
+        "reqs": [
+            [
+                {
+                    "code": "CV511",
+                    "partial": true
+                },
+                {
+                    "code": "CV521"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV020",
+            "CV021",
+            "CV025",
+            "CV026",
+            "CV721",
+            "CV923"
+        ]
+    },
+    {
+        "code": "CV622",
+        "name": "Estradas I",
+        "credits": 4,
+        "syllabus": "Elementos do Planejamento em Transportes. Geometria de Rodovias. Projeto viário. Estudos de trânsito. Exploração e segurança viária. Viabilidade de empreendimentos em Transportes. Aerofotogrametria e Geodésia Aplicadas. Levantamentos de Campo. Softwares de Desenvolvimento. Noções em Terraplenagem: cubação e distribuição de terras. Noções sobre projeto geométrico ferroviário.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "CV201"
+                },
+                {
+                    "code": "CV321"
+                },
+                {
+                    "code": "CV421",
+                    "partial": true
+                },
+                {
+                    "code": "CV522"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV722",
+            "CV823",
+            "CV921",
+            "CV996"
+        ]
+    },
+    {
+        "code": "CV631",
+        "name": "Sistemas Elétricos Prediais",
+        "credits": 3,
+        "syllabus": "Noções de geração, transmissão e distribuição de energia elétrica. Materiais elétricos. Proteção e comando de circuitos elétricos. Luminotécnica. Luz artificial e natural. Projeto de instalações elétricas. Instalações de para-raios. TV, som e telefone. Introdução à instalação de motores.",
+        "reqs": [
+            [
+                {
+                    "code": "CV201"
+                },
+                {
+                    "code": "CV532"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV077"
+        ]
+    },
+    {
+        "code": "CV632",
+        "name": "Hidrologia Básica",
+        "credits": 4,
+        "syllabus": "Ciclo hidrológico, bacia hidrográfica, precipitações, escoamento superficial, infiltração, evaporação e transpiração. Águas subterrâneas. Medições de vazão. Previsão de enchentes por métodos determinísticos (hidrogramas unitários), probabilísticos (Gumbel, Gumbel-chow, log-Pearson tipo III, log Normal, GRADEX, etc). Regularização de vazões. Amortecimento de cheias em reservatórios. Propagação de Enchentes em Canais.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531",
+                    "partial": true
+                },
+                {
+                    "code": "MC102",
+                    "partial": true
+                },
+                {
+                    "code": "ME414",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV082",
+            "CV083",
+            "CV084",
+            "CV702",
+            "CV722",
+            "CV741",
+            "CV742",
+            "CV742",
+            "CV832",
+            "CV930",
+            "CV933",
+            "CV939"
+        ]
+    },
+    {
+        "code": "CV633",
+        "name": "Técnicas Construtivas I",
+        "credits": 3,
+        "syllabus": "Introdução às técnicas e processos construtivos. Mão de obra. Canteiro e locação de obras. Execução e detalhes de construção: fundações convencionais, alvenarias, impermeabilizações, revestimentos e pinturas, esquadrias, ferragens e coberturas usuais.",
+        "reqs": [
+            [
+                {
+                    "code": "CV332",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV068",
+            "CV904",
+            "CV906"
+        ]
+    },
+    {
+        "code": "CV641",
+        "name": "Sistemas de Abastecimento de Águas",
+        "credits": 4,
+        "syllabus": "Introdução. Previsão populacional. Consumo de água. Mananciais. Barragens. Captação de água. Bombas e estações elevatórias. Adução de água. Reservatórios de distribuição. Redes de distribuição. Projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531"
+                },
+                {
+                    "code": "CV541",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV046",
+            "CV741",
+            "CV742",
+            "CV942"
+        ]
+    },
+    {
+        "code": "CV642",
+        "name": "Sistema de abastecimento de água",
+        "credits": 3,
+        "syllabus": "Aspectos legais, sanitários e ambientais do abastecimento público. Definição e partes\nconstituintes do sistema. Vazões de projeto. Mananciais. Captação de mananciais superficiais\ne subterrâneos. Estações elevatórias. Linhas adutoras. Estações de tratamento de água.\nReservatórios de distribuição. Redes de distribuição. Projeto: concepção e\ndimensionamento de sistema de abastecimento hipotético de município paulista de pequeno ou\nmédio porte.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531"
+                },
+                {
+                    "code": "CV542"
+                }
+            ],
+            [
+                {
+                    "code": "CV531"
+                },
+                {
+                    "code": "CV541",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV742"
+        ]
+    },
+    {
+        "code": "CV701",
+        "name": "Planejamento e Controle de Empreendimentos",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais e organização de empreendimentos. O gerenciamento no canteiro de obras. Fases e operação da construção civil, estruturas organizacionais para o gerenciamento de operações. Orçamentos e BDI. Programação de atividades: metodologia, sistemática de programação, técnicas determinísticas e probabilísticas. Acompanhamento e controle operacional.",
+        "reqs": [
+            [
+                {
+                    "code": "CV401",
+                    "partial": true
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV002",
+            "CV068",
+            "CV903"
+        ]
+    },
+    {
+        "code": "CV702",
+        "name": "Sistemas Prediais, Hidráulico-Sanitários e Gás I",
+        "credits": 3,
+        "syllabus": "Sistemas prediais de água fria, quente, combate a incêndio com hidrantes e extintores, esgoto sanitário, água pluvial e gás combustível: conceituação, critérios de projeto e normalização. Conservação de água em edifícios: conceitos fundamentais.",
+        "reqs": [
+            [
+                {
+                    "code": "AU300"
+                },
+                {
+                    "code": "AU502"
+                },
+                {
+                    "code": "AU504",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "CV201"
+                },
+                {
+                    "code": "CV531"
+                },
+                {
+                    "code": "CV632",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU911",
+            "CV900",
+            "CV902"
+        ]
+    },
+    {
+        "code": "CV712",
+        "name": "Teoria das Estruturas II",
+        "credits": 5,
+        "syllabus": "Coeficientes relativos às barras e cargas. Processo dos deslocamentos: manual e matricial. Simplificações de simetria. Linhas de influência de estruturas hiperestática.",
+        "reqs": [
+            [
+                {
+                    "code": "CV511"
+                },
+                {
+                    "code": "CV612",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV070",
+            "CV071",
+            "CV072",
+            "CV074",
+            "CV813",
+            "CV814",
+            "CV915"
+        ]
+    },
+    {
+        "code": "CV713",
+        "name": "Estruturas Metálicas I",
+        "credits": 4,
+        "syllabus": "Coeficientes de ponderação de cargas. Dimensionamento de barras sob cargas axiais de tração e compressão de barras com perfil laminado. Dimensionamento de barras sob cargas de flexão ou de flexo-compressão com perfil laminado. Dimensionamento de ligações parafusadas e/ou soldadas sob cargas axiais e/ou de flexões.",
+        "reqs": [
+            [
+                {
+                    "code": "CV511"
+                },
+                {
+                    "code": "CV612",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV073",
+            "CV813",
+            "CV912"
+        ]
+    },
+    {
+        "code": "CV714",
+        "name": "Estruturas de Concreto Armado I",
+        "credits": 6,
+        "syllabus": "Fundamentos do concreto armado. Principais elementos estruturais. Desenhos de fôrmas. Dimensionamento nos estados limites últimos. Lajes e vigas. Verificação dos estados limites de serviços.",
+        "reqs": [
+            [
+                {
+                    "code": "CV332",
+                    "partial": true
+                },
+                {
+                    "code": "CV511"
+                },
+                {
+                    "code": "CV612",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU911",
+            "CV018",
+            "CV019",
+            "CV064",
+            "CV072",
+            "CV073",
+            "CV811",
+            "CV812",
+            "CV814",
+            "CV902",
+            "CV910",
+            "CV911",
+            "CV917",
+            "CV918",
+            "CV919",
+            "CV965",
+            "CV966",
+            "CV967"
+        ]
+    },
+    {
+        "code": "CV721",
+        "name": "Fundações",
+        "credits": 4,
+        "syllabus": "Norma de fundações. Tipos de fundações. Interação solo-fundação. Investigação do subsolo. Capacidade de carga de fundação direta. Recalque de fundação direta. Influência das dimensões das fundações. Dimensionamento de fundação direta. Capacidade de carga de fundação profunda. Dimensionamento de fundação profunda. Provas de carga. Escolha do tipo de fundação.",
+        "reqs": [
+            [
+                {
+                    "code": "CV521"
+                },
+                {
+                    "code": "CV621"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV924"
+        ]
+    },
+    {
+        "code": "CV722",
+        "name": "Estradas II",
+        "credits": 2,
+        "syllabus": " \nSeleção de máquinas para terraplenagem. Drenagem superficial: riscos e consequências. Seções tipo e obras de arte especiais na drenagem superficial. Drenagem subterrânea: princípios teóricos e sistemas. Aterros sobre solos moles.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "CV421"
+                },
+                {
+                    "code": "CV622",
+                    "partial": true
+                },
+                {
+                    "code": "CV632",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV022",
+            "CV822"
+        ]
+    },
+    {
+        "code": "CV741",
+        "name": "Sistemas de Esgotamento Hídrico: Sanitário e Pluvial",
+        "credits": 6,
+        "syllabus": "Sistemas de esgoto. Tipos de sistemas. Características do líquido a esgotar. Tipos de traçados. Partes constituintes. Quantidade de líquido a esgotar. Hidráulica de rede. Carga sobre tubos. Drenagem de águas pluviais. Sarjetas. Bocas de lobo. Galerias. Hidráulica e critérios de dimensionamento. Poço de visita. Caixa de ligação.",
+        "reqs": [
+            [
+                {
+                    "code": "CV632"
+                },
+                {
+                    "code": "CV641"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV742",
+        "name": "Sistema de Coleta e Tratamento de Águas Residuais",
+        "credits": 6,
+        "syllabus": "Características dos Esgotos. Sistemas de esgotamento e partes constituintes. Direcionamento do\nfluxo. Vazão de esgoto sanitário. Dimensionamento de coletores. Corrosão e odor em sistemas\ncoletores. Tipos de tubos. Noções de estação elevatória de esgoto. Sifão invertido. Etapas\ndo tratamento de águas residuais. Sistemas aeróbios e anaeróbios.",
+        "reqs": [
+            [
+                {
+                    "code": "CV632"
+                },
+                {
+                    "code": "CV642"
+                }
+            ],
+            [
+                {
+                    "code": "CV632"
+                },
+                {
+                    "code": "CV641"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV045",
+            "CV842",
+            "CV948",
+            "CV985",
+            "CV992"
+        ]
+    },
+    {
+        "code": "CV811",
+        "name": "Estruturas de Concreto Protendido I",
+        "credits": 3,
+        "syllabus": "Conceitos de protenção aplicada ao concreto: materiais e sistemas de protenção. Determinação das forças de protensão. Estados limites de serviços e últimos. Análise das tensões ao longo do vão.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                }
+            ],
+            [
+                {
+                    "code": "EC702",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV011"
+        ]
+    },
+    {
+        "code": "CV812",
+        "name": "Estruturas de Pontes",
+        "credits": 3,
+        "syllabus": "Pontes de concreto: definições, nomenclatura, classificação. Ações. Pontes em vigas. Lajes dos tabuleiros das pontes em vigas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                }
+            ],
+            [
+                {
+                    "code": "EC702",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV010"
+        ]
+    },
+    {
+        "code": "CV813",
+        "name": "Estruturas Metálicas II",
+        "credits": 4,
+        "syllabus": "Introdução. Traves em treliças. Estrutura para coberturas em duas águas. Estrutura para coberturas tipo shed. Estrutura para coberturas em arco. Estrutura para edifícios industriais com ponte rolante. Projeto completo de um telhado em estrutura treliçada de aço.",
+        "reqs": [
+            [
+                {
+                    "code": "CV612"
+                },
+                {
+                    "code": "CV712",
+                    "partial": true
+                },
+                {
+                    "code": "CV713",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV075",
+            "CV913"
+        ]
+    },
+    {
+        "code": "CV814",
+        "name": "Estruturas de Concreto Armado II",
+        "credits": 6,
+        "syllabus": "Dimensionamento de seções retangulares submetidas à flexo-compressão, normal e oblíqua. Pilares e fundações. Verificação dos efeitos globais de 2ª ordem. Escadas, consolos curtos, vigas-parede e reservatórios comuns de edifícios.",
+        "reqs": [
+            [
+                {
+                    "code": "CV612"
+                },
+                {
+                    "code": "CV712",
+                    "partial": true
+                },
+                {
+                    "code": "CV714",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV910",
+            "CV911",
+            "CV965",
+            "CV966",
+            "CV967"
+        ]
+    },
+    {
+        "code": "CV821",
+        "name": "Economia dos Transportes",
+        "credits": 2,
+        "syllabus": "Conceitos e métodos de planejamento e economia de transportes. Moldagem de demanda e oferta. Custos e tarifas. Mercados e competitividade. Avaliação econômica e operacional.",
+        "reqs": [
+            [
+                {
+                    "code": "CV522"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV990"
+        ]
+    },
+    {
+        "code": "CV822",
+        "name": "Estradas III",
+        "credits": 2,
+        "syllabus": " \nMateriais e serviços na pavimentação. Projetos básico e executivo da pavimentação flexível. Ensaios laboratoriais. Noções em pavimentação rígida. Noções na gerência de pavimentação.",
+        "reqs": [
+            [
+                {
+                    "code": "CV722"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV028",
+            "CV990"
+        ]
+    },
+    {
+        "code": "CV823",
+        "name": "Aeroportos",
+        "credits": 2,
+        "syllabus": "Transporte aéreo. Planejamento e projeto de aeroportos, localização, comprimento de pista, características físicas. Zoneamento e proteção ao voo. Dimensionamento de pavimentos para aeroportos. Planejamento e projeto da área terminal.",
+        "reqs": [
+            [
+                {
+                    "code": "CV522"
+                },
+                {
+                    "code": "CV622"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV024"
+        ]
+    },
+    {
+        "code": "CV831",
+        "name": "Regulamentações da Engenharia Civil",
+        "credits": 2,
+        "syllabus": "Noções de Direito Civil. Direito de propriedade. A Construção Civil e sua disciplina no Código Civil. Código do Consumidor. A legislação profissional e as de interesse dos Engenheiros Civis. Problemas profissionais. Noções sobre licitação. Cadastramento. Propostas e Contratos para a Construção Civil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV832",
+        "name": "Portos, Rios e Canais",
+        "credits": 2,
+        "syllabus": "Noções de comércio internacional. Evolução das embarcações e sua adequação às rotas comerciais. Planejamento de porto. Arranjo e projeto das principais obras de operação e de proteção. Noções de oceanografia. Estudo de vento, marés e ondas em mares e lagos. Estudo das vias navegáveis. Regularização e canalização. Projeto de obras de transposição de desnível.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531",
+                    "partial": true
+                },
+                {
+                    "code": "CV632",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV841",
+        "name": "Ecologia Aplicada à Engenharia Civil",
+        "credits": 4,
+        "syllabus": "Engenharia Civil e a questão ambiental. Análise de impactos resultantes de obras civis. Avaliação de impactos ambientais resultantes de ações de engenharia civil no território.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV949"
+        ]
+    },
+    {
+        "code": "CV842",
+        "name": "Sistemas de Gestão em Resíduo Sólido e Drenagem",
+        "credits": 3,
+        "syllabus": "Origem e geração de resíduo sólido. Caracterização de resíduo sólido. Gestão\nintegrada de resíduo sólido. Prevenção e minimização de resíduo sólido. Sistemas de\ncoleta, transporte e armazenamento. Tecnologias de tratamento: reciclagem, compostagem,\nincineração, pirólise, biogás e aterro sanitário. Produção de energia através do resíduo\nsólido. Uso de águas pluviais. Infiltração de águas pluviais. Microdrenagem.",
+        "reqs": [
+            [
+                {
+                    "code": "CV742"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV990"
+        ]
+    },
+    {
+        "code": "CV900",
+        "name": "Sistemas Prediais, Hidráulico-Sanitários e Gás II",
+        "credits": 2,
+        "syllabus": "Sistemas de detecção e alarme, de combate a incêndios com chuveiros automáticos: conceituação geral, critérios de projeto e normalização. Conservação de água nos edifícios: aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AU816"
+                }
+            ],
+            [
+                {
+                    "code": "CV702"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV901",
+        "name": "Qualidade de Projetos",
+        "credits": 3,
+        "syllabus": "Planejamento do projeto e desenvolvimento. Entradas de projeto e desenvolvimento. Saídas de projeto e desenvolvimento. Análise crítica de projeto e desenvolvimento. Verificação de projeto e desenvolvimento. Validação de projeto e desenvolvimento. Controle de alterações de projeto e desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV902",
+        "name": "Integração de Projeto CAD",
+        "credits": 2,
+        "syllabus": "Moldagem tridimensional de maquete eletrônica arquitetônica e de sistemas estruturais. Compatibilização tridimensional do projeto arquitetônico estrutural. Estudos de colisão. Simulação da construção.",
+        "reqs": [
+            [
+                {
+                    "code": "AU113"
+                },
+                {
+                    "code": "AU405"
+                },
+                {
+                    "code": "AU816"
+                }
+            ],
+            [
+                {
+                    "code": "CV402"
+                },
+                {
+                    "code": "CV702"
+                },
+                {
+                    "code": "CV714",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV903",
+        "name": "Gestão Financeira, Econômica e Riscos de Empreendimentos",
+        "credits": 3,
+        "syllabus": "Os sistemas de decisão na Empresa. Programação e Controle. Análise da Viabilidade Técnica, Financeira, Econômica, e de Riscos de Empreendimentos. Estudos de casos. A inflação e seus efeitos no planejamento. Incidências de Impostos.",
+        "reqs": [
+            [
+                {
+                    "code": "CV401"
+                },
+                {
+                    "code": "CV701",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV904",
+        "name": "Qualidade na Construção",
+        "credits": 2,
+        "syllabus": "Conceitos da Qualidade Total; a qualidade no ambiente de trabalho; ferramentas da qualidade; facilitadores da qualidade; metodologia da análise e solução de problemas; a qualidade em função da interação do material de construção, da mão-de-obra e da técnica construtiva utilizada em projetos e obras de engenharia civil.",
+        "reqs": [
+            [
+                {
+                    "code": "CV332"
+                },
+                {
+                    "code": "CV633"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV906",
+        "name": "Projeto e Construção Sustentável",
+        "credits": 2,
+        "syllabus": "Desenvolvimento sustentável. Agenda 21 para a construção sustentável. Projeto e arquitetura sustentável. Construção sustentável. Tecnologias para a sustentabilidade. Análise de ciclo de vida. Metodologias para avaliação ambiental. Avaliação da sustentabilidade de edifícios.",
+        "reqs": [
+            [
+                {
+                    "code": "AU113"
+                },
+                {
+                    "code": "AU812"
+                }
+            ],
+            [
+                {
+                    "code": "CV402"
+                },
+                {
+                    "code": "CV633"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV908",
+        "name": "Conforto Acústico de Ambientes",
+        "credits": 2,
+        "syllabus": "Noções fundamentais de acústica. Elementos de acústica arquitetônica. Resposta humana ao som. Ruído: conceito e efeitos sobre o homem. Controle de ruído. Poluição sonora e ruído ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "CV301",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV909",
+        "name": "Tecnologia da Informação e Comunicação no Projeto",
+        "credits": 2,
+        "syllabus": "Fundamentos da Tecnologia da Informação e Comunicação. Ferramentas e ambientes de colaboração: intranets e extranets de projeto. Estratégia organizacional para engenharia colaborativa. Estudos de caso. Desenvolvimento de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "CV201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV910",
+        "name": "Estruturas de Concreto Armado III",
+        "credits": 2,
+        "syllabus": "Projetos estruturais de escadas especiais, lajes nervuradas, lajes cogumelo e muros de arrimo.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714",
+                    "partial": true
+                },
+                {
+                    "code": "CV814",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV911",
+        "name": "Projeto Estrutural de Edifício de Concreto Armado",
+        "credits": 3,
+        "syllabus": "Arranjos estruturais, lançamentos da estrutura e carregamentos básicos. Cálculo tridimensional dos esforços com auxílio de programas computacionais. Verificação, dimensionamento e detalhamento de todos os elementos da estrutura.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                },
+                {
+                    "code": "CV814"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV912",
+        "name": "Estruturas Metálicas Compostas de Chapas Dobradas",
+        "credits": 3,
+        "syllabus": "Introdução. Aços utilizados. Tipos de perfis e suas propriedades. Estabilidade de elementos comprimidos. Instalibidade local. Ações e combinações das ações. Barras axialmente tracionadas. Barras axialmente comprimidas. Instabilidade global. Barras solicitadas à flexão. Ligações soldadas. Ligações parafusadas. Projeto completo de um telhado constituído de treliças, terças e contraventamentos, utilizando perfis formados a frio.",
+        "reqs": [
+            [
+                {
+                    "code": "CV713"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV913",
+        "name": "Estruturas Metálicas dos Edifícios Industriais",
+        "credits": 3,
+        "syllabus": "Introdução. Composição da estrutura. Detalhes construtivos. Cargas. Determinação dos esforços no pórtico transversal. Análise dos pilares. Vigas de rolamento. Contraventamentos especiais. Viga mestra que substitui alguns pilares.",
+        "reqs": [
+            [
+                {
+                    "code": "CV813"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV914",
+        "name": "Ações e Segurança das Estruturas",
+        "credits": 2,
+        "syllabus": "Segurança: conceito, métodos determinísticos, métodos semiprobabilísticos. Método dos estados limites. Classificação das ações em estruturas, carregamentos, combinações últimas e combinações de serviço. Ações devidas ao vento em edificações.",
+        "reqs": [
+            [
+                {
+                    "code": "CV202"
+                },
+                {
+                    "code": "CV411"
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV915",
+        "name": "Complementos de Teoria das Estruturas",
+        "credits": 3,
+        "syllabus": "Aplicação do método dos elementos finitos (MEF) em análise estrutural utilizando softwares comerciais. Considerações sobre as diversas fases de análise: pré-processamento, processamento e pós-processamento. Estudos das bibliotecas de elementos disponíveis nos softwares em estudo e suas aplicações. Aplicação dos softwares na moldagem de um edifício padrão: carregamentos a considerar, análise dos esforços, combinações de resultados. Cuidados no uso indevido do MEF e das opções de modelagem.",
+        "reqs": [
+            [
+                {
+                    "code": "CV712"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV916",
+        "name": "Introdução ao Método dos Elementos Finitos",
+        "credits": 2,
+        "syllabus": "Introdução. Fundamentos essenciais. Processo dos deslocamentos. Estruturas de barras. Estruturas contínuas de superfície. Programação para computador. Panorama sobre a aplicabilidade do método a problemas de Engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "CV511"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV917",
+        "name": "Projeto de Estruturas de Concreto Armado Assistido por Computador",
+        "credits": 3,
+        "syllabus": "Lançamento da estrutura e análise estrutural. Avaliação estrutural incluindo durabilidade, estabilidade global e estados limites de serviço. Obtenção de esforços em estado limite último para o dimensionamento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV918",
+        "name": "Estruturas em Situação de Incêndio",
+        "credits": 3,
+        "syllabus": "O incêndio padrão. Curvas temperatura-tempo padronizadas. O incêndio natural. O modelo do incêndio e a temperatura na estrutura. Segurança das estruturas em situação de incêndio. Comportamento das estruturas de aço, concreto e madeira em situação de incêndio. Métodos simplificados de dimensionamento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV919",
+        "name": "Alvenaria Estrutural",
+        "credits": 3,
+        "syllabus": "Introdução. Histórico e conceituação atual. Elementos componentes e suas propriedades. Elementos complementares industriais. Projetos de arquitetura, estrutural e de instalações. Técnicas construtivas, equipamentos e gerenciamento das construções.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV920",
+        "name": "Geomática",
+        "credits": 3,
+        "syllabus": "Conceitos fundamentais e disciplinas envolvidas. Fotogrametria. Sensoriamento Remoto. Controle de Qualidade de Produtos Cartográficos. Aplicações em Engenharia Civil.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "CV421"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV921",
+        "name": "Superestrutura Ferroviária",
+        "credits": 3,
+        "syllabus": "Empreendimento ferroviário. Noções de projeto geométrico ferroviário. Seções transversais; drenagem; trilhos; dispositivos de fixação; dormentes; lastros; trilhos - escolha de um perfil. Esforços na plataforma. Equipamentos complementares de via. Construção de uma via nova. Manutenção da via férrea.",
+        "reqs": [
+            [
+                {
+                    "code": "CV522"
+                },
+                {
+                    "code": "CV622"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV922",
+        "name": "Serviços Logísticos: Gestão e Projeto",
+        "credits": 3,
+        "syllabus": "O contexto e a importância da logística no cenário atual brasileiro e internacional. Conceitos básicos de logísticas e caracterização dos principais componentes da Cadeia Logística. A gestão dos sistemas logísticos como diferencial competitivo. Qualidade e produtividade nos Serviços Logísticos. Administração de materiais. O transporte como componente da Cadeia Logística. A armazenagem e a movimentação de materiais como componente da Cadeia Logística. O fluxo de informações. A Estrutura Organizacional e Recursos Humanos nos Sistemas Logísticos. As Tendências dos Sistemas Logísticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV923",
+        "name": "Geotecnia III",
+        "credits": 3,
+        "syllabus": " \nDefinição, fluxo de água nos solos, estruturas de contenção, barragens, análise de estabilidade de taludes, geossintéticos, melhoria do solo, solo reforçado, casos de obras, desenvolvimento de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "CV621"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV924",
+        "name": "Complementos de Fundações",
+        "credits": 3,
+        "syllabus": "Fundações especiais. Provas de carga instrumentada. Técnicas de instrumentação em fundações. Ensaios especiais de campo. Análise da curva carga X recalque. Comportamento ao carregamento lateral e tração. Previsão de recalques. Probabilidade de ruína em engenharia de fundações. Estacas de compactação. Estacas de energia. Patologia e reforço de fundações.",
+        "reqs": [
+            [
+                {
+                    "code": "CV721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV925",
+        "name": "Terminais de Transporte",
+        "credits": 3,
+        "syllabus": "Conceituação geral. Localizações. Modelos de representação de fluxos e acúmulos. Acessos viários. Conceitos básicos quanto à forma de interfaces e layout interno. Terminais de passageiros. Terminais de carga na cadeia logística. Movimentação e armazenagem.",
+        "reqs": [
+            [
+                {
+                    "code": "CV522"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV926",
+        "name": "Apoio à Tomada de Decisão",
+        "credits": 3,
+        "syllabus": "Análise custo-benefício. Avaliação de impacto ambiental. Análise multicritério. Estruturação de problemas. Métodos de avaliação multicritério.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV927",
+        "name": "Engenharia de Tráfego",
+        "credits": 3,
+        "syllabus": "Conceito de tráfego. Teorias do fluxo de tráfego. Capacidade e níveis de serviço em vias expressas, ruas e avenidas. Canalização e sinalização viária. Semáforos e sua coordenação. Esquemas de circulação viária. Estudos de acidentes. Organização de um departamento de trânsito. Papel do engenheiro no planejamento e gerenciamento do tráfego.",
+        "reqs": [
+            [
+                {
+                    "code": "CV522"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV928",
+        "name": "Laboratório de Aprendizagem em Logística e Transportes",
+        "credits": 3,
+        "syllabus": "Conceitos de estatística, pesquisa operacional e modelagem em sistemas logísticos e de transportes. Modelagem de demanda de transportes. Estudos de engenharia de tráfego. Modelagem da oferta de transportes, ciclos de viagens, função de produção e demais conceitos tanto para terminais multimodais quanto para frotas dos diferentes modais. Análise de competitividade entre modos de transporte tanto de passageiros quanto de cargas. Avaliação operacional de sistemas logísticos e de transportes segundo uma visão sistêmica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV929",
+        "name": "Transporte Público Urbano",
+        "credits": 3,
+        "syllabus": "Introdução. História de transporte urbano e da evolução das cidades. Modos de transporte urbano: coletivo e individual. Qualidade e eficiência. Integração. Linhas e redes. Planejamento e programação da operação. Controle da operação. Levantamento e pesquisas. Pontos de parada e estações (terminais). Sistema viário: geometria e priorização. Pagamento da passagem e controle de acesso. Informações aos usuários. Custos e tarifas. Avaliação de projetos e de sistemas de transporte público urbano. Legislação brasileira. Planejamento e gestão. Empresas operadoras. Transporte público e urbano.",
+        "reqs": [
+            [
+                {
+                    "code": "CV522"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV930",
+        "name": "Práticas e Projetos em Drenagem Urbana",
+        "credits": 3,
+        "syllabus": "Equação de chuvas intensas. Inundações urbanas. Sistema de drenagem de águas pluviais. Elementos constitutivos da micro e macrodrenagens urbana. Impacto da urbanização no escoamento. Planejamento de sistemas de Drenagem Urbana. Emprego de técnicas compensatórias em drenagem urbana. Gerenciamento do Controle de Inundações. Medidas de Controle do Escoamento. Métodos Determinísticos e Probabilísticos para a Previsão de Vazões de enchentes urbanas. Erosão urbana e produção de sedimentos. Projeto de Micro e Macrodrenagens.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531",
+                    "partial": true
+                },
+                {
+                    "code": "CV632",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV083",
+            "CV084"
+        ]
+    },
+    {
+        "code": "CV932",
+        "name": "Engenharia Hidráulica Aplicada a Sistemas de Transportes Fluidos",
+        "credits": 3,
+        "syllabus": "Fundamentos. Estudo de dispositivos (bombas, válvulas, ventosas, etc.). Emprego de modelos numéricos nas fases de projeto e operação de sistemas de transporte. Estudo de casos em sistemas de abastecimento de água.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV933",
+        "name": "Gerenciamento de Recursos Hídricos",
+        "credits": 3,
+        "syllabus": "Gestão de Recursos Hídricos: Conceitos, marco referencial e desenvolvimento sustentável; Legislação para Uso dos Recursos Hídricos: Formas de gestão, organização dos processos e aspectos institucionais; Gerenciamento de Recursos Hídricos no Brasil: Fundamentos, objetivos. Diretrizes e planos da política nacional dos recursos hídricos; Classificação das águas, outorgas e cobrança pela água.",
+        "reqs": [
+            [
+                {
+                    "code": "CV632",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV934",
+        "name": "Características Gerais de um Aproveitamento Hidroelétrico",
+        "credits": 2,
+        "syllabus": "Órgãos constitutivos. Linhas piezométricas. Principais fontes de energia. Tipos de aproveitamentos hidroelétricos, sem regularização, com regularização, de acumulação por bombeamento. Demanda de energia. Potência. Tomadas d'água, tipos. Casa de força.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV936",
+        "name": "Impactos Ambientais Resultantes de Obras Hidráulicas",
+        "credits": 2,
+        "syllabus": "Princípios e conceitos sobre impactos ambientais. Avaliação de impacto ambiental: etapas e procedimentos. Impactos no meio físico, biológico e social comuns na implantação e operação de oito tipos de obras hidráulicas: barragens, canalizações, retificações de rios, obras de transposição de rios entre bacias hidrográficas, canais de irrigação, açudes, portos e marinas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV937",
+        "name": "Elementos de Hidráulica Computacional",
+        "credits": 3,
+        "syllabus": "Obtenção das equações fundamentais do movimento fluido em condições permanente e não permanente aplicadas a condutos livres e forçados. Modelação de fenômenos de interesse a hidráulica. Elementos de métodos numéricos; com ênfase às técnicas de diferenças finitas, métodos das características, elementos finitos, elementos de contorno.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV939",
+        "name": "Engenharia de Irrigação",
+        "credits": 2,
+        "syllabus": "Definição e importância da irrigação. Principais sistemas de irrigação. Capacidade de retenção de água nos solos. Qualidade da água para irrigação. Projeto de irrigação. Avaliação da irrigação.",
+        "reqs": [
+            [
+                {
+                    "code": "CV531",
+                    "partial": true
+                },
+                {
+                    "code": "CV632",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV940",
+        "name": "Gestão Ambiental por Bacias",
+        "credits": 3,
+        "syllabus": "Legislação ambiental e urbana, planejamento ambiental, gestão pública, processos participativos e representação social/percepção. A discussão conceitual será acompanhada de um estudo de caso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV941",
+        "name": "Laboratório de Saneamento",
+        "credits": 5,
+        "syllabus": "Segurança e boas práticas em laboratório. Importância e metodologias de determinação dos principais parâmetros físicos, químicos e bacteriológicos para caracterização de águas de abastecimento e águas residuais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV141"
+                },
+                {
+                    "code": "QG102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV942",
+        "name": "Tratamento de Águas para Abastecimento",
+        "credits": 3,
+        "syllabus": "Qualidade da água. Coagulação. Mistura rápida. Floculação. Decantação. Filtração. Desinfecção. Fluoretação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV641"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV943",
+        "name": "Tratamento de Esgotos e Efluentes Industriais",
+        "credits": 3,
+        "syllabus": "Características dos esgotos domésticos. Tratamento preliminar. Processo biológico de tratamento. Lagoas de estabilização. Tratamento secundário: Iodos ativados e filtração biológica. Decantação. Produção e secagem de Iodo. Digestão e tratamento terciário.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV944",
+        "name": "Manejo e Tratamento de Resíduos Sólidos",
+        "credits": 3,
+        "syllabus": "Origem e produção de lixo urbano. Impactos ambientais. Limpeza pública. Serviços especiais. Coleta especial. Sistemas integrados de tratamento de lixo. Resíduos sólidos e poluição, triagem, aterro sanitário, compostagem, incineração, pirólise, conversão biológica com recuperação de energia; alimentos a partir do lixo doméstico; legislação e normas.",
+        "reqs": [
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV069"
+        ]
+    },
+    {
+        "code": "CV945",
+        "name": "Gestão em Saneamento Ambiental",
+        "credits": 3,
+        "syllabus": "Licenciamento ambiental. Manejo urbano de recursos naturais. Redes técnicas de saneamento. Sustentabilidade socioambiental."
+    },
+    {
+        "code": "CV946",
+        "name": "Química Sanitária e Ambiental",
+        "credits": 3,
+        "syllabus": "Fundamentos de química e da qualidade das águas. Produtos químicos utilizados no tratamento de água. Estudos de tratabilidade de águas. Ensaios em aparelhos de jarteste e floteste. Oxidação e Redução. Estequiometria em reações de óxido redução. Cinética de reações. Cloro, hipoclorito e ácido hipocloroso, dióxido de cloro, permanganato de potássio, ozônio, água oxigenada. Subprodutos de oxidação. Custos. Desinfecção.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV947",
+        "name": "Saneamento Aplicado a Casos Específicos",
+        "credits": 3,
+        "syllabus": "Saneamento de habitações. Saneamento de Hospitais. Saneamento de piscinas. Saneamento de praias, logradouros públicos e cemitérios. Saneamento escolar. Higiene dos alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV948",
+        "name": "Saneamento de Pequenas Comunidades",
+        "credits": 4,
+        "syllabus": "Mananciais abastecedores. Quantidade de água necessária. Proteção sanitária dos mananciais. Desinfecção. Coleta e disposição de despejos. Projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV742"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV949",
+        "name": "Aspectos Legais e Institucionais em Saneamento e Ambiente",
+        "credits": 3,
+        "syllabus": "Meio ambiente. Tópicos de meio ambiente. Legislação ambiental e estrutura institucional de meio ambiente em nível federal e estadual. Política de recursos hídricos federal e estadual. EIAs/RIMAs. Saúde pública no Brasil. Aspectos de intervenções da engenharia e arquitetura e no meio ambiente. Saneamento básico e ambiental impactando a saúde pública. Considerações estruturais. Relação qualidade solo, ar e água com saúde e doenças. Ações de saneamento. Controle de vetores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                },
+                {
+                    "code": "CV841",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV951",
+        "name": "Estágio Supervisionado",
+        "credits": 12,
+        "syllabus": "Técnicas de execução de obras ou projetos em empresa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV952",
+        "name": "Iniciação Científica em Engenharia Civil I",
+        "credits": 2,
+        "syllabus": "A ser definida em função de pesquisas em que o aluno se engajar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV953",
+        "name": "Iniciação Científica em Engenharia Civil II",
+        "credits": 2,
+        "syllabus": "A ser definida em função de pesquisas em que o aluno se angajar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV954",
+        "name": "Trabalho Final de Curso I",
+        "credits": 3,
+        "syllabus": "Projeto teórico ou prático orientado por um docente da FEC que atua no curso de Engenharia Civil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                },
+                {
+                    "code": "CV450"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV955"
+        ]
+    },
+    {
+        "code": "CV955",
+        "name": "Trabalho Final de Curso II",
+        "credits": 4,
+        "syllabus": "Projeto teórico ou prático orientado por um docente da FEC que atua no curso de Engenharia Civil.",
+        "reqs": [
+            [
+                {
+                    "code": "CV954"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV956",
+        "name": "Tópicos Avançados em Engenharia Civil I",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV957",
+        "name": "Tópicos Avançados em Engenharia Civil II",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV961",
+        "name": "Tópicos Especiais em Gestão do Projeto e da Construção III",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV962",
+        "name": "Tópicos Especiais em Gestão do Projeto e da Construção IV",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV963",
+        "name": "Tópicos Especiais em Gestão do Projeto e da Construção V",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV964",
+        "name": "Tópicos Especiais em Gestão do Projeto e da Construção VI",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV965",
+        "name": "Tópicos Especiais em Concreto III",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                },
+                {
+                    "code": "CV814"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV966",
+        "name": "Tópicos Especiais em Concreto IV",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                },
+                {
+                    "code": "CV814"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV967",
+        "name": "Tópicos Especiais em Concreto V",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CV714"
+                },
+                {
+                    "code": "CV814"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV969",
+        "name": "Tópicos em Engenharia de Estruturas III",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV970",
+        "name": "Tópicos em Engenharia de Estruturas IV",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV971",
+        "name": "Tópicos em Engenharia de Estruturas V",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV972",
+        "name": "Tópicos em Engenharia de Estruturas VI",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV973",
+        "name": "Tópicos em Geotecnia e Transportes III",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV974",
+        "name": "Tópicos em Geotecnia e Transportes IV",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV975",
+        "name": "Tópicos em Geotecnia e Transportes V",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV976",
+        "name": "Tópicos em Geotecnia e Transportes VI",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV977",
+        "name": "Tópicos em Recursos Hídricos, Energéticos e Ambientais III",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV978",
+        "name": "Tópicos em Recursos Hídricos, Energéticos e Ambientais IV",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV979",
+        "name": "Tópicos em Recursos Hídricos, Energéticos e Ambientais V",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV980",
+        "name": "Tópicos em Recursos Hídricos, Energéticos e Ambientais VI",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento."
+    },
+    {
+        "code": "CV981",
+        "name": "Tópicos em Saneamento Ambiental III",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV982",
+        "name": "Tópicos em Gestão Ambiental III",
+        "credits": 3,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV983",
+        "name": "Seminário em Gestão e Saneamento Ambiental II",
+        "credits": 3,
+        "syllabus": "Organização de Seminários apresentados por especialistas e/ou pesquisadores convidados a expor sobre temas específicos de interesse em Saneamento e Ambiente. Promover palestras e discussões sobre propostas de epsquisas desenvolvidas pelos pesquisadores da pós-graduação e sobre artigos científicos correlatos recentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV984",
+        "name": "Gestão e Gerenciamento Integrado de Resíduo Sólido",
+        "credits": 3,
+        "syllabus": "Origem e geração de resíduo sólido. Caracterização de resíduo sólido. Gestão  integrada de resíduo sólido. Prevenção e minimização de resíduo sólido. Sistemas de coleta, transporte e armazenamento. Tecnologias de tratamento: reciclagem, compostagem, incineração, pirólise, biogás e aterro sanitário. Produção de energia através do resíduo sólido. Impactos ambientais e análise de ciclo de vida.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV985",
+        "name": "Tratamento Biológico Avançado de Águas Residuais",
+        "credits": 3,
+        "syllabus": "Importância e Limitações do tratamento biológico avançado; Características dos poluentes\nespecíficos: Nitrogênio, Fósforo; Micro-organismos envolvidos na remoção do nitrogênio e\nna remoção do fósforo; Tecnologias que envolvem processos biológicos para remoção de\nnutrientes. Exemplos de Plantas com tratamento biológico avançado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                },
+                {
+                    "code": "CV742"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV986",
+        "name": "Tratamento Avançado de Resíduo Sólido",
+        "credits": 3,
+        "syllabus": "Resíduo sólido urbano, industrial e perigoso. Tratamentos biológicos, químicos e térmicos.\nRecuperação energética e cogeração. Combustível derivado de resíduo sólido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV987",
+        "name": "O Comportamento Pró-Ambiental e o Processo de Tomada de Decisão",
+        "credits": 3,
+        "syllabus": "Psicologia Social e suas Teorias. Natureza, Saúde e Bem-estar. Comportamento Pró-Ambiental.\nMudanças Comportamentais. Tomada de Decisão e suas Teorias. O Futuro das Políticas\nAmbientais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV988",
+        "name": "Análise de Ciclo de Vida",
+        "credits": 3,
+        "syllabus": "Definição de ACV, objetivo principal, suas aplicações e suas etapas. Objetivo e escopo,\nunidade funcional e fluxos de referência. Inventário, diagramas de fluxo, bancos de dados e\nsoftwares. Seleção das categorias de impactos ambientais e classificação, caracterização.\nInterpretação de resultados e cenários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV989",
+        "name": "Seminários em Saneamento e Ambiente",
+        "credits": 4,
+        "syllabus": "Preparação e participação em palestras. Exposição de temas relacionados ao\nSaneamento e Ambiente. Discussão de artigos científicos. Apresentação de resumos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV990",
+        "name": "Projetos em Infraestrutura e Ambiente",
+        "credits": 3,
+        "syllabus": "Elaboração de projeto nas diferentes áreas de infraestrutura e saneamento. Relação entre o\nsaneamento, a infraestrutura, o ambiente natural e contexto urbano. Aspectos técnicos,\nambientais e legais do projeto, da implantação e operação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV521"
+                },
+                {
+                    "code": "CV821"
+                },
+                {
+                    "code": "CV822"
+                },
+                {
+                    "code": "CV842"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV991",
+        "name": "Avaliação de Impacto Ambiental",
+        "credits": 2,
+        "syllabus": "Projetos e obras de Engenharia Civil e a questão ambiental. Avaliação de Impacto Ambiental. Estudo de Impacto Ambiental e seu Relatório de Impactos sobre o Meio Ambiente. Conceitos e\nmétodos de Avaliação de Impacto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV992",
+        "name": "Tratamento de Águas Residuais",
+        "credits": 4,
+        "syllabus": "Autodepuração. Modelos de qualidade da água. Vazão de efluentes. Níveis de tratamento.\nMicrobiologia do tratamento de esgotos. Processos e sistemas aeróbios e anaeróbios.\nGerenciamento de lodo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CV742"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CV993",
+        "name": "Gestão do processo de projeto com metodologia BIM",
+        "credits": 3,
+        "syllabus": "Introdução ao Building Information Modeling (BIM) no gerenciamento do projeto. Planejamento de execução de projetos BIM. Integração de projetos."
+    },
+    {
+        "code": "CV994",
+        "name": "Tecnologia construtiva industrializ",
+        "credits": 3,
+        "syllabus": "Industrialização da Construção; Construção à seco; pré-fabricados de concreto; Steel Frame; Wood Frame; PBQP-h; SINAT e DATECs"
+    },
+    {
+        "code": "CV995",
+        "name": "Gestão Lean na construção",
+        "credits": 3,
+        "syllabus": "Mentalidade enxuta (Lean thinking): origens, principais conceitos e ferramentas. Aplicações lean nos fluxos de valor da construção"
+    },
+    {
+        "code": "CV996",
+        "name": "MOBILIDADE SUSTENTÁVEL",
+        "credits": 3,
+        "syllabus": "Planejamentos do transporte e mudanças climáticas; indicadores ambientais de transporte e as cadeias de abastecimento sustentável; análise dos custos externos gerados pelas distintas alternativas modais; análise da eficiência energética e ambiental do transporte de mercadorias e passageiros; modelos de dispersão de poluentes e qualidade do ar.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "CV622"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,1070 @@
+[
+    {
+        "code": "MS003",
+        "name": "Seminários sobre Matemática Aplicada e Computacional",
+        "credits": 2,
+        "syllabus": "Participação em colóquios, palestras, seminários, oficinas de trabalho e demais atividades acadêmicas de interesse da área de Matemática Aplicada e Computacional."
+    },
+    {
+        "code": "MS123",
+        "name": "Elementos de Cálculo",
+        "credits": 4,
+        "syllabus": "Funções. Limites. Derivada. Integral. Técnicas de integração. Aplicações.",
+        "reqBy": [
+            "AU401",
+            "AU502",
+            "ME414"
+        ]
+    },
+    {
+        "code": "MS149",
+        "name": "Complementos de Matemática",
+        "credits": 2,
+        "syllabus": "Noções básicas de lógica. Elementos da teoria dos conjuntos. Princípio da indução. A demonstração em matemática. Conjuntos dos números naturais, inteiros e racionais. Noções de números reais e números complexos. Funções e sequências de números reais. Elementos de análise combinatória."
+    },
+    {
+        "code": "MS211",
+        "name": "Cálculo Numérico",
+        "credits": 4,
+        "syllabus": "Aritmética de ponto flutuante. Zeros de funções reais. Sistemas lineares. Interpolação polinomial. Integração numérica. Quadrados mínimos lineares. Tratamento numérico de equações diferenciais ordinárias.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "MA141"
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV016",
+            "CV070",
+            "CV937",
+            "EM503",
+            "EM823",
+            "EQ502",
+            "EQ601",
+            "EQ771",
+            "F 625",
+            "FT741",
+            "ME524",
+            "MS428",
+            "MS500",
+            "MS512",
+            "MS580",
+            "MS590"
+        ]
+    },
+    {
+        "code": "MS213",
+        "name": "Introdução à Matemática Computacional",
+        "credits": 4,
+        "syllabus": "Introdução a algoritmos em uma linguagem de programação voltada para Matemática: variáveis, condicionais, laços e funções. Representação de números em ponto flutuante e noções de erros numéricos. Zeros de funções. Métodos diretos para a solução de sistemas lineares. Quadrados mínimos lineares. Interpolação.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "MA141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS220",
+        "name": "Elementos de Matemática para as Ciências da Terra",
+        "credits": 4,
+        "syllabus": "Conjuntos e relações. Funções e gráficos. Conceitos básicos e interpretação geométrica de derivada. Conceitos básicos e interpretação geométrica de integral. Funções logarítmicas e exponenciais. Resolução de sistemas lineares. Aplicações.",
+        "reqBy": [
+            "GE504",
+            "ME414",
+            "QF331",
+            "QF331",
+            "QF331",
+            "QF432"
+        ]
+    },
+    {
+        "code": "MS317",
+        "name": "Matemática Financeira",
+        "credits": 4,
+        "syllabus": "Noção de taxa de juros. Fluxos de caixa. A calculadora financeira. Operações financeiras. Mercado financeiro. Sistemas de amortização e planilhas financeiras. Comparação entre alternativas de investimento. Extensões.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                }
+            ],
+            [
+                {
+                    "code": "MA116"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS328",
+        "name": "Matemática Discreta",
+        "credits": 4,
+        "syllabus": "Indução Matemática. Princípio multiplicativo. Princípio aditivo. Permutação, Arranjo, Combinação. Princípio de inclusão e exclusão. Funções geradoras. Partição de um inteiro. Relações de recorrências. O princípio da casa dos pombos. Noções de teoria dos grafos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC458",
+            "MS329"
+        ]
+    },
+    {
+        "code": "MS329",
+        "name": "Combinatória Enumerativa",
+        "credits": 4,
+        "syllabus": "Teoremas básicos de combinatória enumerativa. Grupos, grupos de permutação, ação de grupos, teorema de Burnside, teorema de Polya. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MS328"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS380",
+        "name": "Matemática Aplicada para Biologia",
+        "credits": 4,
+        "syllabus": "Elementos de matemática discreta: recursão, probabilidade e combinatória. Sistemas lineares. Conceitos básicos do cálculo elementar: estudo gráfico e computacional. Aplicações à biologia.",
+        "reqBy": [
+            "BG200",
+            "FR703",
+            "ME414",
+            "QF331",
+            "QF331",
+            "QF331",
+            "QF337"
+        ]
+    },
+    {
+        "code": "MS400",
+        "name": "Estruturas Discretas",
+        "credits": 4,
+        "syllabus": "Noções de Lógica, Conjuntos, Relações e Grafos; Números, Vetores e Multivetores; Estruturas Geométricas: Modelos Euclidiano, Projetivo e Conforme; Estruturas Algébricas: Álgebras Associativas e Álgebras de Lie; Aplicações: estruturas moleculares, visualização de dados, redes complexas.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS416",
+        "name": "Modelos Matemáticos Aplicados à Economia",
+        "credits": 4,
+        "syllabus": "Representação matemática de elementos de teoria neoclássica de produção, consumo e mercado. Introdução ao Equilíbrio Geral Computável.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS428",
+        "name": "Programação Linear",
+        "credits": 6,
+        "syllabus": "Formulação de problemas de programação linear. Resolução Gráfica. Método Simplex. Teoria de dualidade. Análise de sensibilidade e análise paramétrica. Algoritmos de pontos interiores.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MS529",
+            "MS715",
+            "MS728"
+        ]
+    },
+    {
+        "code": "MS431",
+        "name": "Métodos Geométricos",
+        "credits": 4,
+        "syllabus": "Espaço Euclidiano. Vetores tangentes. Derivadas direcionais. Curvas em R3. Formas diferenciáveis. Fórmulas de Frenet. Derivadas covariantes. Equações estruturais. Isometrias em R3. Geometria Euclidiana. Superfícies em R3. Funções diferenciáveis. Formas diferenciáveis sobre uma superfície. Integração de formas. Variedades. Curvatura normal. Curvatura Gaussiana.",
+        "reqs": [
+            [
+                {
+                    "code": "MA044"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS480",
+        "name": "Modelagem Matemática",
+        "credits": 4,
+        "syllabus": "Modelos e modelagem matemática. A modelagem matemática relacionada às ciências humanas, biológicas e exatas. A modelagem matemática em pesquisa científica. Modelos discretos e contínuos. Técnicas de modelagem. Evolução de modelos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS500",
+        "name": "Geometria de Distâncias: Teoria e Aplicações",
+        "credits": 4,
+        "syllabus": "Noções básicas de grafos e de complexidade de algoritmos; O Problema de Geometria de Distâncias (PGD) e suas variações; Abordagem contínua e combinatória do PGD; Incertezas no PGD; Aplicações (estruturas 3D de proteínas, nanoestruturas, visualização de dados).",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS505",
+        "name": "Álgebra de Imagens",
+        "credits": 4,
+        "syllabus": "Estruturas algébricas pertinentes; imagens digitais e conceitos básicos de álgebra de imagens; histogramas e filtros; detecção de bordas; limiarização; alguns aspectos teóricos e práticos da morfologia matemática; transformadas lineares; descritores de imagens; redes neurais clássicas, morfológicas e convolucionais; tópicos em Deep Learning e afins.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS512",
+        "name": "Análise Numérica I",
+        "credits": 6,
+        "syllabus": "Fatoração de Choleski. Fatorações ortogonais. Quadrados mínimos lineares. Decomposição em valores singulares. Métodos iterativos para resolução de sistemas lineares. Introdução à resolução de sistemas não-lineares. Cálculo de autovalores e autovetores.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MS612",
+            "MS712",
+            "MS992",
+            "MS993"
+        ]
+    },
+    {
+        "code": "MS515",
+        "name": "Métodos Probabilísticos em Pesquisa Operacional",
+        "credits": 4,
+        "syllabus": "Programação dinâmica determinística e estocástica. Modelos determinísticos e probabilísticos de estoques.",
+        "reqs": [
+            [
+                {
+                    "code": "ME210"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS519",
+        "name": "Análise Dinâmica de Sistemas I",
+        "credits": 4,
+        "syllabus": "Existência e unicidade de sistemas de EDO. Espaço de fase e fluxos. Estabilidade, função de Lyapunov, estabilidade forte, estabilidade orbital. Sistemas autônomos, formas normais. Teorema de Poincaré. Estabilidade estrutural. Dinâmica bidimensional, sistemas presa-predador e similares. Teorema de Poincaré-Bendixson. Órbitas periódicas, teoria de Floquet. Mapas, mapa do retorno. Teoria de perturbações. Teoria de bifurcações, pontos estacionários, bifurcação de Hopf. Caos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS520",
+        "name": "Estrutura Matemática da Mecânica",
+        "credits": 4,
+        "syllabus": "Princípios de Mecânica, leis de Newton. Problemas de dois corpos. Alguns problemas matemáticos associados ao problema de três corpos. Formulação Lagrangiana da mecânica. Simetrias. Variedades simpléticas. Formulação Hamiltoniana da mecânica. Transformações canônicas. Invariantes integrais de Poincaré. Formulação de Hamilton-Jacobi.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "MS550"
+                }
+            ],
+            [
+                {
+                    "code": "F 520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS529",
+        "name": "Fluxos em Redes",
+        "credits": 6,
+        "syllabus": "Terminologia de redes: problema de transporte e designação; problema de fluxo máximo; problema de fluxo com custo mínimo; método simplex. Fluxo em rede generalizada. Fluxo com restrições adicionais. Fluxo de multiprodutos.",
+        "reqs": [
+            [
+                {
+                    "code": "MS428"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS540",
+        "name": "Métodos Morfológicos de Computação em Reticulados",
+        "credits": 4,
+        "syllabus": "Ordem parcial; reticulado completo; homomorfismos; operadores morfológicos algébricos; adjunção; morfologia matemática L-fuzzy; redes neurais morfológicas; memórias associativas em reticulados; medidas em reticulados; raciocínio em reticulados fuzzy; aplicações em processamento de imagens e inteligência computacional.",
+        "reqs": [
+            [
+                {
+                    "code": "MS580"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS550",
+        "name": "Métodos de Matemática Aplicada I",
+        "credits": 6,
+        "syllabus": "Análise Vetorial (revisão). Revisão de equações diferenciais: equações da Física Matemática; sistemas de coordenadas. Existência e unicidade da solução das equações diferenciais ordinárias. Pontos singulares regulares: método de Frobenius. Funções especiais (Bessel, Legendre). Equações Fuchsianas; Função Hipergeométrica. Sistemas de Sturm-Liouville. Polinômios ortogonais. Expansão em autofunções: séries de Fourier, séries generalizadas.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MS520",
+            "MS650"
+        ]
+    },
+    {
+        "code": "MS580",
+        "name": "Introdução à Teoria Fuzzy",
+        "credits": 4,
+        "syllabus": "Reticulados completos. Conjuntos fuzzy e extensões. Álgebra de conjuntos fuzzy. Números fuzzy. Relações fuzzy. Equações relacionais. Sistemas baseados em regras. Medidas fuzzy. Integrais fuzzy. Esperança fuzzy. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MS211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MS540"
+        ]
+    },
+    {
+        "code": "MS590",
+        "name": "Introdução à Geofísica Computacional",
+        "credits": 4,
+        "syllabus": "Noções básicas de: propagação de ondas; ondas planas, cilíndricas e esféricas, reflexão e transmissão em interfaces; equações da onda, raios; método das reflexões sísmicas; tempos de trânsito; processamento sísmico; análise de velocidade; imageamento e inversão sísmica.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS591",
+        "name": "Cálculo Fracionário",
+        "credits": 4,
+        "syllabus": "Funções especiais: gama, beta e erro. Funções de Mittag-Leffler com um, dois e três parâmetros. Variáveis complexas: Funções analíticas, integral de Cauchy, Teorema dos resíduos. Transformada de Laplace e sua inversa. Integral fracionária de Riemann-Liouville. Derivadas fracionárias. Formulações de Riemann-Liouville e Caputo. Equações diferenciais fracionárias.",
+        "reqs": [
+            [
+                {
+                    "code": "MA044"
+                },
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS602",
+        "name": "Mecânica do Meio Contínuo I",
+        "credits": 4,
+        "syllabus": "Modelagem em equações diferenciais parciais usando princípios físicos de conservação e equações constituintes. Classificação das equações diferenciais parciais lineares de segunda ordem: equações elípticas, parabólicas e hiperbólicas. Conservação do calor e modelos de difusão. Introdução de transporte: as equações convecção-difusão. Trânsito em rodovias: leis de conservação não lineares. Potencial gravitacional e elétrico: equação de Poisson. Movimento longitudinal na barra: equação da onda.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS612",
+        "name": "Análise Numérica II",
+        "credits": 4,
+        "syllabus": "Equações diferenciais parciais (EDPs). Idéias fundamentais de aproximações por diferenças finitas, EDPs com o problema de Cauchy e/ou diferentes tipos de com condição de contorno: mista/Robin, Dirichlet e Neumann. Considerações teóricas: consistência, estabilidade, convergência e o Teorema de equivalência de Lax-Richtmyer. Análise de estabilidade via transformada de Fourier e teorema Gerschgorin. Equações parabólicas bidimensionais: convergência, estabilidade, métodos ADI. Equações elípticas bidimensionais. Condições de Dirichlet e de Neumann. Equações hiperbólicas unidimensionais: condição de Courant-Friedrichs-Lewy, Esquemas explícitos (Lax-Friedrichs, Upwind, centrado e Lax-Wendroff) e discussão de métodos implícitos e da relação numérica de Dispersão e Dissipação. O problema de Cauchy para lei de conservação em uma dimensão espacial: caso escalar, dificuldades numéricas no cálculo de soluções descontínuas. Equações diferenciais ordinárias (EDOs). Métodos de um passo (Runge-Kutta). Métodos de múltiplos passos, implícitos e explícitos. Controle de passo: Runge-Kutta-Felberg. Estabilidade dos métodos. Problemas de EDOs stiff. Revisão da teoria disponível.",
+        "reqs": [
+            [
+                {
+                    "code": "MA502"
+                },
+                {
+                    "code": "MS512"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS614",
+        "name": "Simulação de Sistemas",
+        "credits": 6,
+        "syllabus": "Técnicas de simulação. Planejamento de experiências de simulação. Técnicas de geração de variáveis aleatórias. Modelos de filas, estoques e programação de sistemas. Simulação versus técnicas Analíticas. Simulação de sistemas econômicos. Linguagens de simulação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC102"
+                },
+                {
+                    "code": "ME210"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS620",
+        "name": "Estrutura Matemática do Eletromagnetismo",
+        "credits": 4,
+        "syllabus": "Lei de Coulomb. Equações de Laplace e Poisson. Problema de Neumann e problema de Dirichlet. Magnetostática. Equações de Maxwell. Ondas eletromagnéticas, problema de Cauchy. Guias de ondas e cavidades ressonantes. Formulação tensorial das equações de Maxwell. Tensor de Maxwell e tensor de tensões.",
+        "reqs": [
+            [
+                {
+                    "code": "F 428"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS629",
+        "name": "Programação Não-Linear",
+        "credits": 6,
+        "syllabus": "Minimizadores locais e globais. Condições de otimalidade para minimização de funções com e sem restrições. Métodos para minimização sem restrições. Métodos para minimização com restrições lineares e não lineares.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MS990"
+        ]
+    },
+    {
+        "code": "MS650",
+        "name": "Métodos de Matemática Aplicada II",
+        "credits": 6,
+        "syllabus": "Funções de variáveis complexas (revisão). Transformadas integrais (Fourier e Laplace). Transformadas inversas. Representação integral de funções. Equações diferenciais parciais. Classificação; problemas bem-postos. Equações da onda, do calor e de Laplace. Método de separação de variáveis. Introdução às equações integrais. Cálculo de variações.",
+        "reqs": [
+            [
+                {
+                    "code": "F 520"
+                }
+            ],
+            [
+                {
+                    "code": "MS550"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MS750"
+        ]
+    },
+    {
+        "code": "MS680",
+        "name": "Modelos Matemáticos para Biologia",
+        "credits": 4,
+        "syllabus": "Modelos de dinâmica de populações homogêneas: ecologia de presa-predador. Exploração e otimização de recursos. Modelos clássicos de Epidemiologia. Modelos em Fisiologia e reações enzimáticas. Equações de diferenças, diferenciais ordinárias e com retardamento. Análise de estabilidade, bifurcação e soluções periódicas.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS712",
+        "name": "Análise Numérica III",
+        "credits": 4,
+        "syllabus": "Resultados da teoria de aproximação: interpolação polinomial, interpolação polinomial por partes, melhor aproximação em espaços pré-Hilbert e quadraturas. Análise de erro. Princípios variacionais, minimização de funcionais de energia, o método de Ritz-Galerkin, formas lineares e formas bilineares, formulação variacional abstrata, espaços de Sobolev, V-elipticidade, produto interno energia, norma energia e  normas equivalentes. Teorema de representação de Riesz, Teorema de Lax-Milgram, Lema de Cea. Interpretação geométrica da solução de Ritz-Galerkin, estabilidade e estimativa de erro na norma energia. Construção de espaços de elementos finitos clássicos. Formulação variacional de problemas de valores de contorno, com condições de Dirichlet, Neumann e Robin. Conceito de condição de contorno natural e de condição de contorno essencial. Mapeamento afim de um elemento de referência, o mapeamento do local ao global, montagem do sistema linear proveniente do método de Ritz-Galerkin, uma implementação eficiente de métodos de elementos finitos, aplicações em elasticidade linear e em modelos estacionários (difusão-reação e problemas elípticos), abrangendo ainda problemas parabólicos de advecção-difusão-reação.",
+        "reqs": [
+            [
+                {
+                    "code": "MA502"
+                },
+                {
+                    "code": "MS512"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS715",
+        "name": "Planejamento e Controle de Produção",
+        "credits": 4,
+        "syllabus": "A função de produção e seus parâmetros básicos. Custos. Critérios de decisão. Medidas de trabalho. Sistemas de produção. Estoques. Planos e programas integrados. Programação e controle de operações. Será dada ênfase aos modelos matemáticos e aos problemas de planejamento e controle de produção.",
+        "reqs": [
+            [
+                {
+                    "code": "MS428"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS720",
+        "name": "Métodos Matemáticos da Mecânica Quântica",
+        "credits": 4,
+        "syllabus": "O conceito de estado em mecânica quântica. Grandezas físicas observáveis e operadores em espaços de Hilbert. Formalismos de Schrodinger e Heisenberg. O oscilador harmônico unidimensional. O átomo de hidrogênio. Spin 1/2 e sistemas de dois níveis. Momento angular.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS728",
+        "name": "Programação Combinatória",
+        "credits": 6,
+        "syllabus": "Formulação e problemas combinatórios: mochila, emparelhamento, carteiro chinês, caixeiro viajante, representação, cobertura e particionamento de conjuntos, etc. Métodos de otimização: \"branch and bound\", \"branch and cut\", planos de corte e método de Benders.",
+        "reqs": [
+            [
+                {
+                    "code": "MS428"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS750",
+        "name": "Métodos de Matemática Aplicada III",
+        "credits": 4,
+        "syllabus": "Introdução à teoria dos operadores em espaços de Hilbert. Operadores integrais. Equações integrais (Volterra e Fredholm). Introdução à teoria das distribuições. Função delta de Dirac. Derivadas de distribuições. Produto direto e de convolução. Distribuições temperadas e transformadas integrais. Funções de Green: formalismo e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MS650",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MS850"
+        ]
+    },
+    {
+        "code": "MS777",
+        "name": "Projeto Supervisionado",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de um projeto de pesquisa, sob orientação de um professor, resultando em uma monografia que será divulgada publicamente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS780",
+        "name": "Modelos Matemáticos para Biologia II",
+        "credits": 4,
+        "syllabus": "Modelos de dinâmica de populações distribuídas: Populações estruturadas, dispersão espacial e interação em Ecologia e Epidemiologia. Modelos em Fisiologia: convecção, difusão e reação. Morfogênese segundo Turing. Equações diferenciais parciais de reação e difusão, Equações integrodiferenciais, e autômatos celulares. Soluções estacionárias, ondas viajantes, estabilidade e bifurcação. Simulação numérica. Conjuntos fuzzy. Controladores Fuzzy dos tipos de Mamdani e Sugeno. Sistemas p-fuzzy aplicados a modelos biológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS820",
+        "name": "Métodos Matemáticos da Relatividade",
+        "credits": 4,
+        "syllabus": "O espaço-tempo Newtoniano: transformações de Galileu. A experiência de Michelson-Morley. O espaço-tempo de Minkowski: transformações de Lorentz. Cinemática e dinâmica na teoria da relatividade especial. Referenciais arbitrários. Cálculo tensorial. Introdução à relatividade geral. A equação de Einstein e a solução de Schwarzschild.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS850",
+        "name": "Métodos de Matemática Aplicada IV",
+        "credits": 4,
+        "syllabus": "Introdução à teoria de grupos e representação de grupos. Grupos de Lie e álgebras de Lie. Aplicações de grupos de Lie em equações diferenciais: grupos de simetria. Simetrias e redução de ordem. Formalismo variacional: equações de Euler-Lagrange. Simetrias variacionais. Leis de conservação e teorema de Noether.",
+        "reqs": [
+            [
+                {
+                    "code": "MS750",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS877",
+        "name": "Projeto Supervisionado II",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de um projeto de pesquisa, sob a orientação de um professor, resultando em uma monografia que será divulgada publicamente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS901",
+        "name": "Tópicos Especiais de Matemática Aplicada",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS902",
+        "name": "Tópicos Especiais de Matemática Aplicada II",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS903",
+        "name": "Tópicos Especiais de Matemática Aplicada III",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS904",
+        "name": "Tópicos Especiais de Matemática Aplicada IV",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS905",
+        "name": "Tópicos Especiais de Matemática Aplicada V",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS906",
+        "name": "Tópicos Especiais de Matemática Aplicada VI",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS907",
+        "name": "Tópicos Especiais de Matemática Aplicada VII",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS908",
+        "name": "Tópicos Especiais de Matemática Aplicada VIII",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS911",
+        "name": "Tópicos Especiais de Análise Numérica",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS915",
+        "name": "Tópicos Especiais de Pesquisa Operacional",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS931",
+        "name": "Tópicos em Matemática Aplicada",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS932",
+        "name": "Tópicos em Matemática Aplicada II",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS933",
+        "name": "Tópicos em Matemática Aplicada III",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS934",
+        "name": "Tópicos em Matemática Aplicada IV",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS935",
+        "name": "Tópicos em Matemática Aplicada V",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS936",
+        "name": "Tópicos em Matemática Aplicada VI",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS937",
+        "name": "Tópicos em Matemática Aplicada VII",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS938",
+        "name": "Tópicos em Matemática Aplicada VIII",
+        "credits": 2,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS950",
+        "name": "Tópicos Especiais em Física Matemática",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS960",
+        "name": "Tópicos Especiais em Processamento de Imagens",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS970",
+        "name": "Tópicos Especiais em Teoria dos Números",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS980",
+        "name": "Tópicos Especiais em Biomatemática",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS990",
+        "name": "Tópicos Especiais em Otimização",
+        "credits": 4,
+        "syllabus": "Condições de Otimalidade e Qualificação de Restrições.  Dualidade. Programação Quadrática Sequencial. Lagrangiano Aumentado. Métodos de Restauração Inexata.",
+        "reqs": [
+            [
+                {
+                    "code": "MS629"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS991",
+        "name": "Análise Aplicada",
+        "credits": 8,
+        "syllabus": "Espaços métricos. Exemplos. Abertos, fechados, vizinhança. Convergência. Sequências de Cauchy. Completude. Espaços normados. Espaços de Banach. Compacidade e dimensão finita. Operadores lineares. Funcionais lineares. Funcionais lineares e dimensão finita. Espaços normados de operadores. Espaço dual. Espaços de Hilbert. Produto interno. Ortogonalidade. Conjuntos ortonormais. Conjuntos ortonormais totais. Exemplos. Representação de funcionais em espaços de Hilbert. Operadores adjuntos. Teorema de ponto fixo de Banach e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MA502"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS992",
+        "name": "Matrizes",
+        "credits": 8,
+        "syllabus": "Álgebra de matrizes; Normas e sensibilidade; Eliminação gaussiana e fatoração LU; Matrizes definidas positivas e fatoração de Cholesky; Ortogonalização e fatoração QR; Quadrados mínimos lineares; Autovalores e autovetores; Decomposição em valores singulares.",
+        "reqs": [
+            [
+                {
+                    "code": "MS512"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MS993",
+        "name": "Métodos Computacionais de Álgebra Linear",
+        "credits": 4,
+        "syllabus": "Operações básicas com vetores e matrizes. Matrizes com estuturas especiais. Matrizes esparsas. Estudo teórico e computacional para: resolução de sistemas lineares (métodos diretos e métodos iterativos);resolução do problema de quadrados mínimos lineares; decomposição em valores singulares.",
+        "reqs": [
+            [
+                {
+                    "code": "MS512"
+                }
+            ]
+        ]
+    }
+]

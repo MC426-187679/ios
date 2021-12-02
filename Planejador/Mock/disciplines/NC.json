@@ -1,0 +1,254 @@
+[
+    {
+        "code": "NC001",
+        "name": "Tópicos Especiais em Humanidades I",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NC002",
+        "name": "Tópicos Especiais em Humanidades II",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NC003",
+        "name": "Tópicos Especiais em Humanidades III",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NC004",
+        "name": "Tópicos Especiais em Humanidades IV",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NC005",
+        "name": "Tópicos Especiais em Humanidades V",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NC006",
+        "name": "Tópicos Especiais em Humanidades VI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NC007",
+        "name": "Tópicos Especiais em Humanidades VII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NC008",
+        "name": "Tópicos Especiais em Humanidades VIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NC009",
+        "name": "Argumentação e Falácias",
+        "credits": 4,
+        "syllabus": "O pensamento crítico. O poder da lógica e da argumentação. O papel da razão e a possibilidade de constituir critérios de bons e maus argumentos. A estrutura dos argumentos e como evitar maus argumentos. Tipos de falácias."
+    },
+    {
+        "code": "NC010",
+        "name": "Cinema e Percepção Pública da Ciência",
+        "credits": 4,
+        "syllabus": "O cinema como arte do motor: a imagem tempo e o tempo imagem; a politização da ciência no cinema; a ficção científica no cinema e suas metáforas. A divulgação científica através do cinema: os conceitos científicos subjacentes às obras cinematográficas. Documentários: contribuições e problemas na esfera da percepção pública da ciência. A máquina a vapor e o conceito de energia. A teoria da Relatividade na percepção do senso comum. A metafísica na obra de Newton. Tecnociência e sociedade: a genética e o futuro do humano."
+    },
+    {
+        "code": "NC011",
+        "name": "Introdução à História das Ciências Humanas e Naturais",
+        "credits": 4,
+        "syllabus": "História da Ciência retratada nas artes visuais e na divulgação científica. Tecnociência, capital e política: a máquina a vapor e os conceitos de energia e de entropia no bojo da revolução industrial. A Teoria da Relatividade e a Mecânica Quântica sob o olhar das Ciências Humanas. A relevância da metafísica na obra de Newton. A genética e o futuro do humano numa sociedade de homens, animais, plantas e máquinas. As fronteiras disciplinares no ensino de ciências da natureza e de ciências humanas."
+    },
+    {
+        "code": "NC012",
+        "name": "Estudos Sociais da Ciência e da Tecnologia",
+        "credits": 4,
+        "syllabus": "A trajetória do campos dos Estudos Sociais da Ciência e da Tecnologia. Ciência e tecnologia como construções sociais. Mudança tecnológica e mudança social: críticas às concepções deterministas. O pensamento latino-americano em ciência, tecnologia e sociedade. Política científica e tecnológica. C&T e dinâmicas de inclusão/exclusão social. C&T, poder, democracia e cidadania. Temas contemporâneos nos estudos sociais da ciência e tecnologia."
+    },
+    {
+        "code": "NC013",
+        "name": "Fenomenologia, Ciência e Geografia",
+        "credits": 4,
+        "syllabus": "Introdução ao pensamento fenomenológico. O estudo do mundo da vida. Implicações e aplicações da fenomenologia nas ciências. Existencialismo e espacialidade humana. Humanismo e cultura. Modernidade, fenomenologia e pós-fenomenologia. Geograficidade, espacialidade e geografia humanista."
+    },
+    {
+        "code": "NC014",
+        "name": "Filosofia Política e Administração",
+        "credits": 4,
+        "syllabus": "Filosofia política como fundamento da Administração; decisão política e decisão administrativa; Estado e sociedade civil; tecnocracia e democracia; políticas públicas e empresariais; cidadania, direitos e deveres; história da filosofia política e da Administração."
+    },
+    {
+        "code": "NC015",
+        "name": "Gramática da Psicanálise",
+        "credits": 4,
+        "syllabus": "O pensamento de Freud e de Lacan compreendidos como solução a problemas epistemológicos da psicologia. Psicologia abstrata e psicologia concreta. Conceito de linguagem em Freud e em Lacan. Psicanálise e linguagem."
+    },
+    {
+        "code": "NC016",
+        "name": "Aplicações em Ciências Humanas e Sociais",
+        "credits": 4,
+        "syllabus": "Abordagens, estratégias e instrumentos de coleta e de análise das ciências sociais de uma perspectiva conceitual e aplicada. Aplicações e limites das abordagens quantitativas e qualitativas. O papel das metodologias na disciplinarização das ciências sociais e humanas. Métodos e a construção dos objetos de estudo. Experimentação em ciências sociais aplicadas."
+    },
+    {
+        "code": "NC017",
+        "name": "Urbanização e Dinâmicas de Uso e Cobertura de Terra",
+        "credits": 4,
+        "syllabus": "As transformações no meio rural no Brasil desde a metade do século XX até os dias atuais: seus condicionantes, efeitos e modelos explicativos. A urbanização no mais amplo quadro das dinâmicas de uso e cobertura da terra. Redistribuição e mobilidade da população associáveis as mudanças no uso e na cobertura da terra."
+    },
+    {
+        "code": "NC018",
+        "name": "Teorias e Aplicações de Epistemologias Espaciais",
+        "credits": 4,
+        "syllabus": "Papel do espaço nas ciências humanas e sociais. Espaço e tempo, geografia e história. Teorias, noções e epistemologias espaciais. Aplicações e contextos de abordagens espaciais. Escalas espaço-temporais. Paisagem. Lugar. Território. Região. Modernidade líquida e nova espacialidades."
+    },
+    {
+        "code": "NC019",
+        "name": "Sociedade da Informação",
+        "credits": 4,
+        "syllabus": "Sociedade da informação e economia do conhecimento. Cibercultura. Fluxos de informação. Convergência digital. Internet e movimentos sociais. Inclusão/exclusão diital. Governo eletrônico e governança eletrônica. Organizações em rede. Redes sociais."
+    },
+    {
+        "code": "NC020",
+        "name": "O Utilitarismo e seus Críticos",
+        "credits": 4,
+        "syllabus": "Análise das principais contribuições do pensamento utilitarista, notadamente aquelas sustentadas por John Stuart Mill: Princípio da Liberdade e Príncipio da Utilidade e suas aplicações no horizonte da ética e da política. Investigação sobre a pertinência das críticas contemporâneas sobre a capacidade do utilitarismo em prover uma contribuição significativa no campo da ética."
+    },
+    {
+        "code": "NC021",
+        "name": "Etnografia e Interdisciplinaridade",
+        "credits": 4,
+        "syllabus": "Elemento fundamentais da etnografia; cultura, ontologia e etnografia; etnografia e contemporaneidade; etnografia e interdisciplinaridade; etnografia de políticas públicas e dos processos de tecnificação."
+    },
+    {
+        "code": "NC022",
+        "name": "Quartas Interdisciplinares: Seminários de Pesquisa",
+        "credits": 2,
+        "syllabus": "Diálogos interdisciplinares a partir das interfaces das Ciências Humanas, da Saúde e das Tecnológicas. Perspectivas disciplinares de amplas questões contemporâneas. Debates na fronteira dos conhecimentos, incluindo a arte, a natureza e outras formas de conhecimento."
+    },
+    {
+        "code": "NC023",
+        "name": "Estudos de Laboratório",
+        "credits": 4,
+        "syllabus": "Conceito de Laboratório, diversidade e polissemia; estudos sociais de laboratório; laboratórios e suas vidas sociais: práticas e agenciamentos; laboratório como espaço de socialização de expertise e cultura científica; práticas etnográficas sobre e com laboratórios."
+    },
+    {
+        "code": "NC024",
+        "name": "Fundamentos e Metodologias de Extensão Universitária",
+        "credits": 4,
+        "syllabus": "As relações entre universidade e sociedade; Fundamentos e metodologias de extensão; Concepções e tendências da extensão universitária: extensão, extensão comunitária e extensão popular; Educação Popular; Pesquisa-Ação e Investigação Ação Participativa(IAP); Avaliação e planejamento na extensão."
+    },
+    {
+        "code": "NC025",
+        "name": "Introdução aos Estudos de Gênero",
+        "credits": 4,
+        "syllabus": "Introdução aos estudos de gênero; Gênero como categoria analítica; Divisão sexual do trabalho; Teorias e práticas do cuidado; Gênero, questões étnico-raciais e interseccionalidade."
+    },
+    {
+        "code": "NC100",
+        "name": "Ética e Cidadania",
+        "credits": 4,
+        "syllabus": "Reflexão teórico-crítica da ética, da moral e da cidadania no mundo contemporâneo; origens da ética; a relação entre a moral e a ética; os costumes, os hábitos, as virtudes; direito e deveres cidadãos; o cuidado como elemento norteador da cidadania; respeito, alteridade; o público e o privado; as políticas públicas; cidadania e convivência social; inclusão social; indivíduo e coletividade; subjetividade. Flagelos sociais (fome, desemprego, violência, entre outros). Movimentos e intervenções sociais. Bioética.",
+        "reqBy": [
+            "SL601"
+        ]
+    },
+    {
+        "code": "NC101",
+        "name": "Sociedade e Cultura no Mundo Contemporâneo",
+        "credits": 4,
+        "syllabus": "As mudanças socioculturais nos séculos XX e XXI. Modernidade e pós-modernidade; globalização; nação, estado e mercado; indivíduo e individualismo; o dogma do progresso e a sociedade de risco; as redes na \"Idade Mídia\"."
+    },
+    {
+        "code": "NC102",
+        "name": "Língua, Linguagem e Discurso",
+        "credits": 4,
+        "syllabus": "O funcionamento da língua: morfologia e síntese; relações de sentido; referência, predicação e determinação. Discurso e texto: historicidade e sentido; procedimentos de textualidade; sentido do texto. Argumentação: relações de argumentação; construção da argumentação. O discurso da ciência: funcionamento linguístico; descrição; argumentação; demonstração."
+    },
+    {
+        "code": "NC103",
+        "name": "Natureza e Tecnologia na Sociedade Contemporânea",
+        "credits": 6,
+        "syllabus": "A sociedade contemporânea, seus fundamentos históricos, sociais e culturais e suas problemáticas latentes. Fundamentos da modernidade e modernidade líquida. Relações entre ciência, natureza e sociedade. Tecnologia, comunicação e conhecimento. Questões ambientais, políticas, econômicas e culturais da contemporaneidade."
+    },
+    {
+        "code": "NC104",
+        "name": "Introdução à Ciência dos Dados e à Informação",
+        "credits": 2,
+        "syllabus": "Contingência e probabilidade no mundo contemporâneo. Sentido dos dados e informação. Os diferentes tipos de informação. A informação estatística e o dilúvio de dados. Análise exploratória de dados. Medidas de tendência central e de dispersão. Representação gráfica de dados. Medidas de correlação. Correlação e causalidade. Introdução à Probabilidade. Regra de Bayes. Exemplos de aplicações nas diferentes Ciências Aplicadas.",
+        "reqBy": [
+            "GL303",
+            "LE409"
+        ]
+    },
+    {
+        "code": "NC200",
+        "name": "Epistemologia e Filosofia da Ciência",
+        "credits": 4,
+        "syllabus": "Introdução à filosofia e à epistemologia das ciências naturais. Ruptura e continuidade na história da ciência. A ciência moderna e suas raízes epistemológicas. A cultura e a produção do conhecimento. Os rumos da tecnociência contemporânea e de suas relações com a sociedade, com a política e com a economia."
+    },
+    {
+        "code": "NC201",
+        "name": "Meio Ambiente e Sociedade",
+        "credits": 4,
+        "syllabus": "Interpretar, de forma integrada e interdisciplinar, a relação entre fenômenos naturais, estruturas sociais, agentes e organizações indutoras de mudanças que acarretam degradação ao meio ambiente. Identificar os elos entre a natureza e políticas públicas, gestão estratégica, desenvolvimento tecnológico e demografia ambiental. Compreender e debater sobre as mudanças de paradigmas da sociedade e do conhecimento que acarretam, na atualidade, o conceito e as estratégias de sustentabilidade."
+    },
+    {
+        "code": "NC202",
+        "name": "Sociedade e Ambiente",
+        "credits": 4,
+        "syllabus": "As relações recíprocas, e em distintas escalas, entre fenômenos naturais, estruturas sociais, agentes e organizações indutoras de mudanças ambientais. Os elos entre natureza e políticas públicas, gestão estratégica, desenvolvimento tecnológico e demografia ambiental. As mudanças de paradigmas da sociedade e do conhecimento que acarretam, na atualidade, os conceitos e as estratégias de sustentabilidade."
+    },
+    {
+        "code": "NC300",
+        "name": "Práticas Sociais nas Organizações",
+        "credits": 4,
+        "syllabus": "Conceito de organização. Tipos de organizações. Instituições e organizações. Racionalidade burocrática, indivíduos e grupos. Conflito e relações de poder. Cultura organizacional. Dinâmica das organizações: continuidade ruptura."
+    },
+    {
+        "code": "NC301",
+        "name": "Filosofia e Ciências Humanas",
+        "credits": 6,
+        "syllabus": "Introdução ao pensamento humanista, em uma perspectiva filosófica. O sentido de natureza e da condição humana. Estética, ética e subjetividade. Relações entre arte e ciência: literatura, música e cinema. O sujeito no mundo contemporâneo.",
+        "reqBy": [
+            "NT513"
+        ]
+    },
+    {
+        "code": "NC400",
+        "name": "Noções de Administração e Gestão",
+        "credits": 4,
+        "syllabus": "Gestão e administração. Perfil e funções do administrador. Processo administrativo. Tomada de decisão. Planejamento e estratégia. Processo de organização. Direção, coordenação e liderança. Processo de controle. Tendências da gestão e administração no Brasil e no mundo.",
+        "reqBy": [
+            "ER200",
+            "ER201",
+            "GL601",
+            "LE601",
+            "MG901",
+            "PG703"
+        ]
+    },
+    {
+        "code": "NC500",
+        "name": "Lógica",
+        "credits": 2,
+        "syllabus": "Introdução ao estudo da moderna lógica: funções proposicionais, quantificação, função de verdade, verdade lógica, modelo, linguagem formal e método axiomático."
+    },
+    {
+        "code": "NC501",
+        "name": "Metodologia de Projeto",
+        "credits": 2,
+        "syllabus": "Planejamento e missão de um projeto. Geração de soluções: necessidades, especificações, criação e avaliação. Projeto preliminar: arquitetura, modelagem e otimização. Projeto detalhado: documentação técnica. Testes de desempenho e mercado. Ferramentas para o desenvolvimento de produtos: QFD, métodos para a criatividade, métodos para seleção de soluções. Desenvolvimento de Projetos por Área."
+    },
+    {
+        "code": "NC502",
+        "name": "Lógica",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo da moderna lógica: funções proposicionais, quantificação, função de verdade, verdade lógica, modelo, linguagem formal e método axiomático."
+    }
+]

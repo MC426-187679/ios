@@ -1,0 +1,14 @@
+[
+    {
+        "code": "GT001",
+        "name": "Ciência, Tecnologia e Sociedade",
+        "credits": 3,
+        "syllabus": "A disciplina visa contribuir para a formação básica dos alunos de graduação dos vários cursos da Unicamp, através da análise das implicações sociais e políticas do desenvolvimento tecnológico nas sociedades contemporâneas, bem como seus determinantes econômicos gerais, com ênfase nas especificidades estruturais do Brasil."
+    },
+    {
+        "code": "GT105",
+        "name": "Teorias e Métodos da Ciência",
+        "credits": 3,
+        "syllabus": "A emergência da ciência moderna e seu processo de institucionalização.  As características da prática científica e do conhecimento produzido pelas ciências.  A disputa pela demarcação de fronteiras entre conhecimento científico e outros modos de conhecer e explicar o mundo. Relações e dissensões entre saberes tradicionais e saberes científicos."
+    }
+]

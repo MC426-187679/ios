@@ -1,0 +1,1824 @@
+[
+    {
+        "code": "MC001",
+        "name": "Tecnologias da Informação",
+        "credits": 4,
+        "syllabus": "Organizações de dados, organizações de computadores, estruturas de programas, fundamentos de bancos de dados, noções de redes, internet, interface ser humano-computadores, impacto social da computação."
+    },
+    {
+        "code": "MC009",
+        "name": "Computação e Sociedade",
+        "credits": 2,
+        "syllabus": "Problemas éticos originados pelo uso da Tecnologia de Informação. Oportunidades multidisciplinares do uso da computação - pesquisa, desenvolvimento e empregabilidade. Tendências de mercado e globalização - projetos cooperativos, questões de gênero, trabalho à distância. Computação e a Unicamp - necessidades e oportunidades. Aspectos da política de informática no Brasil e no mundo."
+    },
+    {
+        "code": "MC019",
+        "name": "Estágio Supervisionado em Ciência da Computação",
+        "credits": 12,
+        "syllabus": "Trabalho prático que seja válido de acordo com normas internas definidas pelo Instituto de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC020"
+        ]
+    },
+    {
+        "code": "MC020",
+        "name": "Estágio Supervisionado em Ciência da Computação II",
+        "credits": 12,
+        "syllabus": "Trabalho prático que seja válido de acordo com normas internas definidas pelo Instituto de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                },
+                {
+                    "code": "MC019"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC030",
+        "name": "Projeto Final de Graduação",
+        "credits": 12,
+        "syllabus": "Projeto teórico ou prático orientado por um ou mais docentes do Instituto de Computação, acompanhado por monografia redigida pelo aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC032",
+        "name": "Estudo Dirigido",
+        "credits": 6,
+        "syllabus": "Projeto teórico ou prático orientado por um ou mais docentes do Instituto de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC033",
+        "name": "Estudo Dirigido II",
+        "credits": 6,
+        "syllabus": "Projeto teórico ou prático orientado por um ou mais docentes do Instituto de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC038",
+        "name": "Introdução à Redação Científica",
+        "credits": 2,
+        "syllabus": "O texto científico, suas características e especificidades. Técnicas para a sua redação e estruturação. Modalidades de textos científicos. Aspectos éticos na escrita. Autoria e direito autoral."
+    },
+    {
+        "code": "MC039",
+        "name": "Seminários sobre Computação e Tecnologia",
+        "credits": 2,
+        "syllabus": "Seminários e palestras sobre tópicos de Computação e Tecnologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC040",
+        "name": "Estágio de Iniciação Científica I",
+        "credits": 12,
+        "syllabus": "Projeto de Iniciação Científica na área de Computação, supervisionado ou orientado por um docente do Instituto de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC041",
+        "name": "Estágio de Iniciação Científica II",
+        "credits": 12,
+        "syllabus": "Projeto de Iniciação Científica na área de Computação, supervisionado ou orientado por um docente do Instituto de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC050",
+        "name": "Monitoria",
+        "credits": 8,
+        "syllabus": "Apoio à docência abrangendo atividades como auxílio ao professor em aulas práticas, correção de listas de exercícios e plantão de dúvidas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC051",
+        "name": "Monitoria II",
+        "credits": 8,
+        "syllabus": "Apoio à docência abrangendo atividades como auxílio ao professor em aulas práticas, correção de listas de exercícios e plantão de dúvidas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC102",
+        "name": "Algoritmos e Programação de Computadores",
+        "credits": 6,
+        "syllabus": "Conceitos básicos de organização de computadores. Construção de algoritmos e sua representação em pseudocódigo e linguagens de alto nível. Desenvolvimento sistemático e implementação de programas. Estruturação, depuração, testes e documentação de programas. Resolução de problemas.",
+        "reqBy": [
+            "CV074",
+            "CV632",
+            "EA044",
+            "EA060",
+            "EA869",
+            "EA954",
+            "EG940",
+            "EM008",
+            "EM024",
+            "EQ048",
+            "F 790",
+            "FA103",
+            "FA374",
+            "MC202",
+            "MC886",
+            "MC886",
+            "MC949",
+            "MC949",
+            "ME315",
+            "MS211",
+            "MS505",
+            "MS614"
+        ]
+    },
+    {
+        "code": "MC202",
+        "name": "Estruturas de Dados",
+        "credits": 6,
+        "syllabus": "Estruturas básicas para representação de informações: listas, árvores, grafos e suas generalizações. Algoritmos para construção, consulta e manipulação de tais estruturas. Desenvolvimento, implementação e testes de programas usando tais estruturas em aplicações específicas.",
+        "reqs": [
+            [
+                {
+                    "code": "MC102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA202",
+            "EA976",
+            "ES725",
+            "MC302",
+            "MC322",
+            "MC404",
+            "MC458",
+            "MC458",
+            "MC521",
+            "MC621",
+            "MC920",
+            "MC937",
+            "MC946",
+            "MC970"
+        ]
+    },
+    {
+        "code": "MC302",
+        "name": "Programação Orientada a Objetos",
+        "credits": 6,
+        "syllabus": "Conceitos básicos e avançados de programação orientada a objetos. Aplicação dos conceitos usando uma linguagem orientada a objetos.",
+        "reqs": [
+            [
+                {
+                    "code": "MC202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC322",
+        "name": "Programação Orientada a Objetos",
+        "credits": 4,
+        "syllabus": "Conceitos básicos e avançados de programação orientada a objetos. Aplicação dos conceitos usando uma linguagem orientada a objetos.",
+        "reqs": [
+            [
+                {
+                    "code": "MC202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC346",
+            "MC426",
+            "MC536",
+            "MC650",
+            "MC750",
+            "MC896",
+            "MC906"
+        ]
+    },
+    {
+        "code": "MC346",
+        "name": "Paradigmas de Programação",
+        "credits": 4,
+        "syllabus": "Visão comparativa de paradigmas de programação: programação funcional, programação lógica e programação rápida (prototipação).",
+        "reqs": [
+            [
+                {
+                    "code": "MC322"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA072"
+        ]
+    },
+    {
+        "code": "MC358",
+        "name": "Fundamentos Matemáticos da Computação",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de matemática discreta e de lógica para computação. Técnicas de provas, indução matemática. Relações e conceitos de teoria de grafos. Modelagem de problemas usando grafos.",
+        "reqBy": [
+            "MC458",
+            "MC848",
+            "MC868",
+            "MC878"
+        ]
+    },
+    {
+        "code": "MC404",
+        "name": "Organização Básica de Computadores e Linguagem de Montagem",
+        "credits": 4,
+        "syllabus": "Introdução à organização de computadores e representação de informação na memória. Estudo do conjunto de instruções de processadores relevantes. Desenvolvimento, implementação e testes de programas usando linguagens de montagem. Espaço de endereçamento físico e mapeamento de endereços para memória e periféricos. Programação de dispositivos de entrada e saída. Tratamento de interrupções.",
+        "reqs": [
+            [
+                {
+                    "code": "MC202"
+                }
+            ],
+            [
+                {
+                    "code": "MC602"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA075",
+            "EA201",
+            "EA201",
+            "EA871",
+            "EA876",
+            "ES771",
+            "MC504",
+            "MC732",
+            "MC732",
+            "MC732"
+        ]
+    },
+    {
+        "code": "MC426",
+        "name": "Engenharia de Software",
+        "credits": 4,
+        "syllabus": "Paradigmas da Engenharia de Software. Processos de Software. Modelos de Processo de Software. Extração e Especificação de Requisitos. Análise e Projeto de Sistemas de Software. Padrões de Arquitetura e Padrões de Projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "MC322"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA975",
+            "MC437",
+            "MC437",
+            "MC646",
+            "MC726",
+            "MC857",
+            "MC876",
+            "MC926",
+            "MC936",
+            "MC976"
+        ]
+    },
+    {
+        "code": "MC437",
+        "name": "Projeto de Sistemas de Informação",
+        "credits": 4,
+        "syllabus": "Análise e projeto de Sistemas de Informação usando técnicas de Bancos de Dados, Interface Humano-Computador e Engenharia de Software.",
+        "reqs": [
+            [
+                {
+                    "code": "MC426"
+                },
+                {
+                    "code": "MC536"
+                }
+            ],
+            [
+                {
+                    "code": "MC426"
+                },
+                {
+                    "code": "MC750"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC458",
+        "name": "Projeto e Análise de Algoritmos I",
+        "credits": 4,
+        "syllabus": "Técnicas de projeto e análise de algoritmos. Ferramental Matemático para Análise de Algoritmos. Projeto de algoritmos por indução. Busca, ordenação e estatísticas de ordem. Programação Dinâmica. Algoritmos Gulosos.",
+        "reqs": [
+            [
+                {
+                    "code": "MC202"
+                },
+                {
+                    "code": "MC358"
+                }
+            ],
+            [
+                {
+                    "code": "MC202"
+                },
+                {
+                    "code": "MS328"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC558",
+            "MC668",
+            "MC738",
+            "MC748",
+            "MC798",
+            "MC889",
+            "MC918",
+            "MC928",
+            "MC948"
+        ]
+    },
+    {
+        "code": "MC504",
+        "name": "Sistemas Operacionais",
+        "credits": 4,
+        "syllabus": "Conceito de processos: concorrências, regiões críticas, escalonamento. Conceitos de espaços de endereçamento e de gerenciamento de memória virtual, paginação, segmentação. Sistemas de arquivos: hierarquia, proteção, organização, segurança. Gerenciamento de Entrada/Saída. Estudos de caso.",
+        "reqs": [
+            [
+                {
+                    "code": "EA869"
+                }
+            ],
+            [
+                {
+                    "code": "MC404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA071",
+            "EA074",
+            "EA082",
+            "EA960",
+            "EA979",
+            "MC714",
+            "MC832",
+            "MC853",
+            "MC900",
+            "MC914",
+            "MC921",
+            "MC954",
+            "MC971"
+        ]
+    },
+    {
+        "code": "MC521",
+        "name": "Desafios de Programação I",
+        "credits": 4,
+        "syllabus": "Estruturas de dados. Busca por padrões. Ordenação. Combinatória. Teoria dos Números. Backtracking. Algoritmos em grafos. Programação dinâmica. Reticulados. Geometria computacional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MC202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC721",
+            "MC821"
+        ]
+    },
+    {
+        "code": "MC536",
+        "name": "Bancos de Dados: Teoria e Prática",
+        "credits": 6,
+        "syllabus": "Arquiteturas de sistemas de gerenciamento de bancos de dados. Modelagem de dados: modelos conceituais e lógicos, incluindo o modelo relacional e normalização. Álgebra relacional. Linguagens de definição e de manipulação de dados. Otimização de consultas. Mecanismos de proteção, recuperação e segurança. Controle de concorrência. Bancos de dados não relacionais. Projeto e desenvolvimento de ferramentas e técnicas utilizadas na solução de problemas de sistemas de informação, utilizando bancos de dados. Modelagem, especificação, projeto e implementação de aplicações em sistemas de informação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC322"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC437",
+            "MC537",
+            "MC876",
+            "MC936",
+            "MC950",
+            "MC956"
+        ]
+    },
+    {
+        "code": "MC537",
+        "name": "Projeto de Bancos de Dados",
+        "credits": 4,
+        "syllabus": "Projeto e desenvolvimento de ferramentas e técnicas utilizadas na solução de problemas de sistemas de informação, utilizando bancos de dados. Modelagem, especificação, projeto e implementação de aplicações em sistemas de informação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC536"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC558",
+        "name": "Projeto e Análise de Algoritmos II",
+        "credits": 4,
+        "syllabus": "Grafos: conceitos e algoritmos. Reduções entre problemas. Programação Linear. Classes de Problemas.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC458"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC658",
+            "MC758",
+            "MC858",
+            "MC859",
+            "MC898",
+            "MC908",
+            "MC938",
+            "MC998"
+        ]
+    },
+    {
+        "code": "MC602",
+        "name": "Circuitos Lógicos e Organização de Computadores",
+        "credits": 4,
+        "syllabus": "Introdução aos conceitos básicos de projeto lógico. Portas lógicas. Minimização de funções lógicas. Mapas de Karnaugh. Circuitos combinacionais típicos. Tecnologia de implementação. Elementos de memória: Latch, Flip-Flops, contadores. Síntese de circuitos sequenciais síncronos e máquinas de estado. Organização e hierarquia de memórias. Processador básico.  Introdução à descrição, síntese e simulação de circuitos digitais com VHDL.",
+        "reqBy": [
+            "MC404",
+            "MC613",
+            "MC732"
+        ]
+    },
+    {
+        "code": "MC613",
+        "name": "Laboratório de Circuitos Digitais",
+        "credits": 4,
+        "syllabus": "Metodologia de projeto digital. Técnicas de projeto usando lógica programável. Características elétricas de circuitos digitais. Projeto e implementação de lógica combinacional: decodificadores e seletores. Flip-flops. Contadores. Circuitos aritméticos. Memórias. Projeto e implementação de lógica seqüencial. Máquinas de estados. Via de dados. Introdução a VHDL.",
+        "reqs": [
+            [
+                {
+                    "code": "EA772"
+                }
+            ],
+            [
+                {
+                    "code": "MC602"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC852"
+        ]
+    },
+    {
+        "code": "MC621",
+        "name": "Desafios de Programação II",
+        "credits": 4,
+        "syllabus": "Estruturas de dados. Busca por padrões. Ordenação. Combinatória. Teoria dos Números. Backtracking. Algoritmos em grafos. Programação dinâmica. Reticulados. Geometria computacional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MC202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC721",
+            "MC821"
+        ]
+    },
+    {
+        "code": "MC646",
+        "name": "Verificação, Validação e Testes de Software",
+        "credits": 4,
+        "syllabus": "Verificação e Validação (V&V) de software. Técnicas de Verificação Estática. Testes de Software: Técnicas e Ferramentas. Testes ágeis.",
+        "reqs": [
+            [
+                {
+                    "code": "MC426"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC747"
+        ]
+    },
+    {
+        "code": "MC650",
+        "name": "Análise e Projeto de Linguagens de Programação",
+        "credits": 4,
+        "syllabus": "Linguagem e seus diferentes paradigmas de programação. Implementação. Estrutura de dados, de nomes, de controle e de tipos. Sintaxe e Semântica.",
+        "reqs": [
+            [
+                {
+                    "code": "MC322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC658",
+        "name": "Projeto e Análise de Algoritmos III",
+        "credits": 4,
+        "syllabus": "Tratamento de Problemas NP-difíceis: algoritmos exatos, algoritmos aproximados e algoritmos heurísticos.",
+        "reqs": [
+            [
+                {
+                    "code": "MC558"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC668",
+        "name": "Bioinformática",
+        "credits": 4,
+        "syllabus": "Algoritmos para comparação de sequências biológicas. Técnicas e algoritmos para análise de sequências biológicas. Bioinformática para projetos genoma. Problemas diversos em biologia computacional.",
+        "reqs": [
+            [
+                {
+                    "code": "MC458"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC714",
+        "name": "Sistemas Distribuídos",
+        "credits": 4,
+        "syllabus": "Sistemas Distribuídos. Comunicação entre processos. Sistemas de arquivos distribuídos. Nomes. Tempo e Coordenação. Replicação. Segurança.",
+        "reqs": [
+            [
+                {
+                    "code": "EA876"
+                }
+            ],
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC715",
+            "MC855",
+            "MC964"
+        ]
+    },
+    {
+        "code": "MC715",
+        "name": "Laboratório de Sistemas Distribuídos",
+        "credits": 3,
+        "syllabus": "Projeto e implementação de um sistema distribuído envolvendo conceitos como: comunicação entre processos, mensagens, comunicação em grupos e comunicação cliente-servidor.",
+        "reqs": [
+            [
+                {
+                    "code": "MC714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC721",
+        "name": "Desafios de Programação III",
+        "credits": 4,
+        "syllabus": "Estruturas de dados. Busca por padrões. Ordenação. Combinatória. Teoria dos Números. Backtracking. Algoritmos em grafos. Programação dinâmica. Reticulados. Geometria computacional.",
+        "reqs": [
+            [
+                {
+                    "code": "MC521"
+                }
+            ],
+            [
+                {
+                    "code": "MC621"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC726",
+        "name": "Análise e Projeto de Sistemas de Informação II",
+        "credits": 4,
+        "syllabus": "Uma visão gerencial da Engenharia de Software. Métricas de Software. Planejamento de sistemas. Ambientes automatizados de desenvolvimento de Software e ferramentas CASE.",
+        "reqs": [
+            [
+                {
+                    "code": "MC426"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC732",
+        "name": "Projeto de Sistemas Computacionais",
+        "credits": 4,
+        "syllabus": "Uma introdução à arquitetura e organização de computadores. Tecnologias e perspectiva histórica. Medidas de desempenho. Conjunto de instruções. Memória. Unidades de aritmética e lógica. Projeto básico de um processador. Pipeline. Hierarquia da memória: cache e memória virtual. Dispositivos de Entrada/Saída.",
+        "reqs": [
+            [
+                {
+                    "code": "EA772"
+                },
+                {
+                    "code": "MC404"
+                }
+            ],
+            [
+                {
+                    "code": "ES572"
+                },
+                {
+                    "code": "MC404"
+                }
+            ],
+            [
+                {
+                    "code": "MC404"
+                },
+                {
+                    "code": "MC602"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EA071",
+            "ES670",
+            "ES916",
+            "MC733",
+            "MC852",
+            "MC912",
+            "MC922",
+            "MC923",
+            "MC972",
+            "MC973"
+        ]
+    },
+    {
+        "code": "MC733",
+        "name": "Laboratório de Projetos de Sistemas Computacionais",
+        "credits": 2,
+        "syllabus": "Metodologia de projeto de sistemas. Técnicas de projeto usando linguagens de descrição de sistemas e hardware. Padrões de interconexão de hardware. Barramentos, processadores. Linguagens de descrição de arquiteturas. Criação de modelos executáveis de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC738",
+        "name": "Algoritmos Probabilísticos",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de probabilidade. Técnicas em teoria de jogos. Desvios e momentos. Desigualdades de cauda. Método probabilístico. Cadeias de markov e passeios aleatórios. Algoritmos de aproximação probabilísticos. Técnicas algébricas. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MC458"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC747",
+        "name": "Projeto de Engenharia de Software",
+        "credits": 4,
+        "syllabus": "Uso combinado de ferramentas de desevolvimento validação e verificação (VeV) para a construção de um sistema de informação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC646"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC748",
+        "name": "Algoritmos de Aproximação",
+        "credits": 4,
+        "syllabus": "Medidas de performance. Algoritmos Combinatórios. Métodos usando Programação Linear. Método Primal-Dual. Métodos Probabilísticos. Programação Semidefinida. Complexidade de aproximação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC458"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC750",
+        "name": "Construção de Interfaces Homem-Computador",
+        "credits": 4,
+        "syllabus": "Introdução a Interfaces Humano-Computador (IHC). Aspectos humanos. Aspectos tecnológicos. Processos, métodos e técnicas de pesquisa, design e avaliação. Ferramentas de suporte. Concepção, modelagem e prototipação de soluções em interfaces de usuário.",
+        "reqs": [
+            [
+                {
+                    "code": "MC322"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC437",
+            "MC986"
+        ]
+    },
+    {
+        "code": "MC758",
+        "name": "Teoria dos Jogos Algorítmica",
+        "credits": 4,
+        "syllabus": "Jogos e conceitos básicos de soluções. Teoria dos Jogos e Complexidade Computacional. Ineﬁciência de equilíbrios. Mecanismos e Leilões. Compartilhamento de Custos.",
+        "reqs": [
+            [
+                {
+                    "code": "MC558"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC798",
+        "name": "Programação Linear Inteira",
+        "credits": 4,
+        "syllabus": "Programação Linear: formulando problemas, algoritmo Primal-Simplex, Dualidade em PL, algoritmo-Dual Simplex e a complexidade de resolução de um programa linear. Programação Linear Inteira: formulações e complexidade. Otimalidade: relaxações e limitantes. Relaxação Lagrangeana: método do subgradiente e heurísticas lagrangeanas. Problemas de PLI bem resolvidos e Unimodularidade Total. Algoritmos de Branch-and-Bound para PLI. O método de geração de colunas. Algoritmos de Planos-de-Corte para PLI. Desigualdades Válidas Fortes e técnicas de lifting, Combinatória Poliédrica, O problema da separação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC458"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC821",
+        "name": "Desafios de Programação IV",
+        "credits": 4,
+        "syllabus": "Estruturas de dados. Busca por padrões. Ordenação. Combinatória. Teoria dos Números. Backtracking. Algoritmos em grafos. Programação dinâmica. Reticulados. Geometria computacional.",
+        "reqs": [
+            [
+                {
+                    "code": "MC521"
+                }
+            ],
+            [
+                {
+                    "code": "MC621"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC832",
+        "name": "Redes de Computadores",
+        "credits": 4,
+        "syllabus": "Redes de Computadores e a Internet. Terminologia e aplicações, topologias, modelos de arquitetura e protocolos. Camadas de Aplicação, Transporte, Rede, Enlace e Física. Redes sem Fio.",
+        "reqs": [
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC833",
+            "MC842",
+            "MC942",
+            "MC953",
+            "MC962",
+            "MC963"
+        ]
+    },
+    {
+        "code": "MC833",
+        "name": "Programação de Redes de Computadores",
+        "credits": 2,
+        "syllabus": "Programação utilizando diferentes tecnologias de comunicação: sockets, TCP e UDP, e chamada de método remoto.",
+        "reqs": [
+            [
+                {
+                    "code": "MC832"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC842",
+        "name": "Administração de Redes de Computadores",
+        "credits": 4,
+        "syllabus": "Conceitos administrativos, funcionamento do sistema Unix, memória virtual e sistemas de disco, breve revisão de administração de máquina Unix isolada, redes em TCP/IP, NIS, DNS, NFS, automounter, sendmail, configuração de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "MC832"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC848",
+        "name": "Linguagens Formais, Computabilidade e Complexidade",
+        "credits": 4,
+        "syllabus": "Famílias de algoritmos: universalidade, teorema SMN, teorema da recursão. Modelos computacionais. Funções recursivas: funções primitivas recursivas, funções recursivas. Computabilidade e decidibilidade: relativização, redução. Complexidade abstrata: \"sdepped-up\", \"gap\", teorema da compressão.",
+        "reqs": [
+            [
+                {
+                    "code": "MC358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC851",
+        "name": "Projeto em Computação I",
+        "credits": 12,
+        "syllabus": "Implementação de um projeto prático na área de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC852",
+        "name": "Arquiteturas Paralelas",
+        "credits": 4,
+        "syllabus": "Arquitetura de computadores não convencionais, processadores paralelos, etc. Estudo de computadores não convencionais relevantes. Programação de computadores paralelos.",
+        "reqs": [
+            [
+                {
+                    "code": "MC613"
+                }
+            ],
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC853",
+        "name": "Projeto em Sistemas de Programação",
+        "credits": 12,
+        "syllabus": "Implementação de um projeto prático na área de Sistemas de Programação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC855",
+        "name": "Projeto em Sistemas de Computação",
+        "credits": 12,
+        "syllabus": "Implementação de um projeto prático na área de Sistemas de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC857",
+        "name": "Projeto em Sistemas de Informação",
+        "credits": 12,
+        "syllabus": "Implementação de um projeto prático na área de Sistemas de Informação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC426"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC858",
+        "name": "Algoritmos Paralelos",
+        "credits": 4,
+        "syllabus": "Projetos e análise de algoritmos paralelos. Complexidade computacional paralela.",
+        "reqs": [
+            [
+                {
+                    "code": "MC558"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC859",
+        "name": "Projeto em Teoria da Computação",
+        "credits": 12,
+        "syllabus": "Implementação de um projeto prático na área de Teoria da Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "MC558"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC861",
+        "name": "Projeto em Computação II",
+        "credits": 12,
+        "syllabus": "Implementação de um projeto prático na área de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC868",
+        "name": "Linguagens Formais e Autômatos",
+        "credits": 4,
+        "syllabus": "Revisão de conceitos básicos; alfabetos e linguagens; linguagens regulares; linguagens livres de contexto; linguagens recursivas e linguagens recursivamente\nenumeráveis; computabilidade e decidibilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "MC358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC871",
+        "name": "Projeto em Computação III",
+        "credits": 12,
+        "syllabus": "Implementação de um projeto prático na área de computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC876",
+        "name": "Gerência de Projetos e Qualidade de Software",
+        "credits": 4,
+        "syllabus": "Estudo de aspectos técnicos da gerência de projetos de sistemas de software tais como, métricas, modelos de previsão e análise de risco, e de aspectos humanos tais como organização e motivação de equipes. Estudo de aspectos da qualidade do produto e do processo de software, através da discussão de caminhos que levam à definição e mensuração de tais aspectos e da apresentação de modelos de qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "MC426"
+                },
+                {
+                    "code": "MC536"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC878",
+        "name": "Teoria e Aplicações de Grafos",
+        "credits": 4,
+        "syllabus": "Fundamentos da teoria de grafos. Modelagem de problemas usando grafos. Algoritmos para problemas em grafos.",
+        "reqs": [
+            [
+                {
+                    "code": "MC358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC881",
+        "name": "Projeto em Computação IV",
+        "credits": 12,
+        "syllabus": "Implementação de um projeto prático na área de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC886",
+        "name": "Aprendizado de Máquina",
+        "credits": 4,
+        "syllabus": "Técnicas de aprendizado de máquina estatístico para classificação, agrupamento e detecção de outliers.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC102"
+                },
+                {
+                    "code": "ME210"
+                }
+            ],
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC102"
+                },
+                {
+                    "code": "ME323"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC907",
+            "MC959",
+            "MC979"
+        ]
+    },
+    {
+        "code": "MC889",
+        "name": "Introdução à Criptografia",
+        "credits": 4,
+        "syllabus": "Uma introdução ao estudo da Criptografia moderna.",
+        "reqs": [
+            [
+                {
+                    "code": "MC458"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC896",
+        "name": "Processamento de Línguas Naturais",
+        "credits": 4,
+        "syllabus": "Introdução ao processamento de línguas naturais. Análise sintática, semântica e pragmática. Ambiguidade. Discurso. Processamento probabilístico da linguagem.",
+        "reqs": [
+            [
+                {
+                    "code": "MC322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC898",
+        "name": "Fluxos em Redes e Programação Linear",
+        "credits": 4,
+        "syllabus": "Problemas de fluxos em rede: teoria, algoritmos e aplicações. Fundamentos de programação linear.",
+        "reqs": [
+            [
+                {
+                    "code": "MC558"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC900",
+        "name": "Tópicos Especiais em Linguagem de Programação",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em linguagens de programação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC906",
+        "name": "Introdução à Inteligência Artificial",
+        "credits": 4,
+        "syllabus": "Estudo introdutório dos fundamentos e aplicações de Inteligência Artificial. Histórico e princípios de IA. Resolução de problemas. Representação de conhecimento. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC322"
+                },
+                {
+                    "code": "ME323"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC907",
+            "MC959",
+            "MC979"
+        ]
+    },
+    {
+        "code": "MC907",
+        "name": "Robótica Móvel",
+        "credits": 4,
+        "syllabus": "Introdução, histórico e aplicações. Frameworks modernos para desenvolvimento de projetos de Robótica Móvel. Sensores e atuadores. Controle de robôs móveis. Mapeamento e localização. Navegação e planejamento de trajetórias. Coordenação de comportamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "MC886"
+                }
+            ],
+            [
+                {
+                    "code": "MC906"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC908",
+        "name": "Tópicos Especiais em Teoria da Computação",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em teoria da computação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MC558"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC912",
+        "name": "Tópicos Especiais em Arquitetura de Computadores",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em arquitetura de computadores, a critério do instrutor. Ênfase em computação paralela e distribuída.",
+        "reqs": [
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC914",
+        "name": "Tópicos em Sistemas Operacionais I",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em sistemas operacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC918",
+        "name": "Tópicos em Teoria da Computação I",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em teoria da computação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MC458"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC919",
+        "name": "Tópicos Especiais em Processamento Gráfico",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em processamento gráfico. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MC920"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC920",
+        "name": "Introdução ao Processamento de Imagem Digital",
+        "credits": 4,
+        "syllabus": "Fundamentos de imagem digital. Transformações geométricas. Transformações Radiométricas. Filtragem no domínio espacial. Filtragem no domínio da frequência. Técnicas de restauração. Introdução a segmentação. Introdução a morfologia matemática.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MC919",
+            "MC940",
+            "MC950"
+        ]
+    },
+    {
+        "code": "MC921",
+        "name": "Projeto e Construção de Compiladores",
+        "credits": 6,
+        "syllabus": "Métodos de análise sintática. Sistemas de execução. Geração e Otimização de códigos objeto. Recuperação de erros. Implementação de um projeto prático na área de Compiladores.",
+        "reqs": [
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC922",
+        "name": "Princípios de Projeto VLSI",
+        "credits": 4,
+        "syllabus": "Introdução ao projeto e análise de estruturas VLSI; ferramentas de desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC923",
+        "name": "Projetos de Sistemas Digitais com HDLs",
+        "credits": 4,
+        "syllabus": "Estudo e familiarização com linguagens de descrição de hardware usando uma metodologia de desenvolvimento e reuso de componentes (IP cores). Verificação de circuitos. Processo de projeto de circuitos ASICs (Application Specifics Integrated Circuits). Execução de projetos digitais complexos, através de atividades práticas, utilizando ferramentas, simulação síntese e análise de consumo de energia de circuitos digitais.",
+        "reqs": [
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC926",
+        "name": "Tópicos em Engenharia de Software I",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em engenharia de software.",
+        "reqs": [
+            [
+                {
+                    "code": "MC426"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC928",
+        "name": "Tópicos em Teoria da Computação II",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em teoria da computação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MC458"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC931",
+        "name": "Tópicos Especiais em Ciência da Computação",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em Ciência da Computação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC932",
+        "name": "Tópicos Especiais em Ciência da Computação",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em Ciência da Computação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC933",
+        "name": "Tópicos Especiais em Ciência da Computação",
+        "credits": 4,
+        "syllabus": "Estudo de problemas especiais em Ciência da Computação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC934",
+        "name": "Tópicos em Engenharia de Computação",
+        "credits": 2,
+        "syllabus": "Estudo de Problemas Especiais em Computação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC935",
+        "name": "Tópicos em Engenharia de Computação",
+        "credits": 2,
+        "syllabus": "Estudo de Problemas Especiais em Computação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC936",
+        "name": "Tópicos em Sistemas de Informação",
+        "credits": 4,
+        "syllabus": "Estudo teórico e aplicações especiais na área de sistemas de informação. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MC426"
+                }
+            ],
+            [
+                {
+                    "code": "MC536"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC937",
+        "name": "Computação Gráfica",
+        "credits": 4,
+        "syllabus": "Conceitos básicos. Algoritmos de primitivas gráficas. Representação e estruturação de informação gráfica. Descrição, construção e utilização de um núcleo de um sistema gráfico. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC938",
+        "name": "Algoritmos Criptográficos",
+        "credits": 4,
+        "syllabus": "Estudos dos principais algoritmos criptográficos, simétricos e assimétricos e sua complexidade computacional. Aspectos de implementação em software.",
+        "reqs": [
+            [
+                {
+                    "code": "MC558"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC940",
+        "name": "Processamento e Análise de Imagens",
+        "credits": 4,
+        "syllabus": "Segmentação de imagens. Transformações morfológicas. Representação. Descrição. Extração de características. Classificação supervisionada. Classificação não supervisionada.",
+        "reqs": [
+            [
+                {
+                    "code": "MC920"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC942",
+        "name": "Segurança de Redes de Computadores",
+        "credits": 4,
+        "syllabus": "Políticas de segurança. Vulnerabilidades dos protocolos TCP/IP. Firewalls, roteadores com filtros, servidores proxy, topologias de firewalls. Configuração de DNS para redes seguras, extensões de segurança. Tópicos e serviços: smap, criptografia, Kerberos, IPv6, PGP/PEM; canais seguros: IPsec, SSL, SSH, SHTTP.",
+        "reqs": [
+            [
+                {
+                    "code": "MC832"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC946",
+        "name": "Aprendizado de Máquina e Reconhecimento de Padrões",
+        "credits": 4,
+        "syllabus": "Técnicas de aprendizado de máquina e reconhecimento de padrões. Redução de dimensionalidade. Descritores. Classificadores.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC948",
+        "name": "Geometria Computacional",
+        "credits": 4,
+        "syllabus": "Projeto e análise de algoritmos para problemas em geometria computacional, incluindo problemas de envoltória convexa, caminho mínimo, busca geométrica, proximidade e interseções geométricas. Questões de análise de complexidade, quotas inferiores e superiores, e modelos computacionais. Aplicações à computação gráfica, planejamento de movimento, casamento de padrões, etc.",
+        "reqs": [
+            [
+                {
+                    "code": "MC458"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC949",
+        "name": "Visão Computacional",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de processamento de imagens, correspondências e arestas, álgebra linear e coordenadas homogêneas, representações de rotações. Projeções ortográficas, perspectiva e afim. Câmeras e suas calibrações. Matriz essencial, matriz fundamental, homografia, RANSAC. Fatorização rígida e não rígida. Rastreamento, filtro de Kalman e de partículas. Localização e reconhecimento de objetos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC102"
+                },
+                {
+                    "code": "ME323"
+                }
+            ],
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MC102"
+                },
+                {
+                    "code": "ME210"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC950",
+        "name": "Recuperação de Imagens por Conteúdo",
+        "credits": 4,
+        "syllabus": "Introdução à recuperação de informação (modelos de recuperação, avaliação). Bancos de dados de imagem (linguagens de consulta, processamento de consultas, estruturas de indexação). Recuperação de imagem por conteúdo (descrição de imagem, busca por similaridade, relevance feedback). Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MC536"
+                },
+                {
+                    "code": "MC920"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC953",
+        "name": "Tópicos em Redes de Computadores I",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em redes de computadores.",
+        "reqs": [
+            [
+                {
+                    "code": "MC832"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC954",
+        "name": "Tópicos em Sistemas Operacionais II",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em sistemas operacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC956",
+        "name": "Tópicos em Bancos de Dados",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em bancos de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "MC536"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC959",
+        "name": "Tópicos em Inteligência Artificial I",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em inteligência artificial.",
+        "reqs": [
+            [
+                {
+                    "code": "MC886"
+                }
+            ],
+            [
+                {
+                    "code": "MC906"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC960",
+        "name": "Tópicos Especiais em Engenharia de Computação",
+        "credits": 4,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC962",
+        "name": "Projeto de Redes Multimídia",
+        "credits": 4,
+        "syllabus": "Sistemas multimídia em redes e distribuídos, aplicações e serviços multimídia, controle de tráfego, modelagem, projeto, dimensionamento e planejamento de capacidade de sistemas multimídia em redes e distribuídos, simulação, emulação, introdução aos  processos estocásticos,  Teoria das Filas, técnicas de medições e monitoramento, projeto e análise experimental de sistemas, estudo de modelagem de sistemas utilizando Teoria de Otimização e Teoria de controle.",
+        "reqs": [
+            [
+                {
+                    "code": "MC832"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC963",
+        "name": "Tópicos em Redes de Computadores II",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em redes de computadores.",
+        "reqs": [
+            [
+                {
+                    "code": "MC832"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC964",
+        "name": "Tópicos em Computação Distribuída",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em computação distribuída.",
+        "reqs": [
+            [
+                {
+                    "code": "MC714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC970",
+        "name": "Introdução à Programação Paralela",
+        "credits": 4,
+        "syllabus": "Mecanismos e modelos de programação paralela utilizados em arquiteturas multicore. Sincronização de threads (ex. locks, mutexes, semáforos e barreiras).\nMetodologias de programação (usando, por exemplo, Pthreads e OpenMP). Técnicas de programação paralela na nuvem (usando, por exemplo, Map-Reduce). Ao final do curso, espera-se que o aluno compreenda os principais métodos usados em computação paralela, e os ambientes de programação comumente utilizados na indústria.",
+        "reqs": [
+            [
+                {
+                    "code": "MC202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC971",
+        "name": "Introdução à Programação Concorrente",
+        "credits": 4,
+        "syllabus": "Princípio de programação concorrente. Processos Concorrentes. Exclusão Mútua. Memória Compartilhada. Primitivas de Sincronização. Consenso. Estrutura de Dados Concorrentes.",
+        "reqs": [
+            [
+                {
+                    "code": "MC504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC972",
+        "name": "Tópicos em Arquitetura e Hardware I",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em arquitetura e hardware de computadores.",
+        "reqs": [
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC973",
+        "name": "Tópicos em Arquitetura e Hardware II",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em arquitetura e hardware de computadores.",
+        "reqs": [
+            [
+                {
+                    "code": "MC732"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC976",
+        "name": "Tópicos em Engenharia de Software II",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em engenharia de software.",
+        "reqs": [
+            [
+                {
+                    "code": "MC426"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC979",
+        "name": "Tópicos em Inteligência Artificial II",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em inteligência artificial.",
+        "reqs": [
+            [
+                {
+                    "code": "MC886"
+                }
+            ],
+            [
+                {
+                    "code": "MC906"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC986",
+        "name": "Tópicos em Interfaces Humano-Computador",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos avançados em interfaces humano-computador.",
+        "reqs": [
+            [
+                {
+                    "code": "MC750"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MC998",
+        "name": "Fluxo em Redes",
+        "credits": 4,
+        "syllabus": "Problemas de fluxos em redes: teoria, algoritmos e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "MC558"
+                }
+            ]
+        ]
+    }
+]

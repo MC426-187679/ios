@@ -1,0 +1,44 @@
+[
+    {
+        "code": "FM003",
+        "name": "Seminários sobre a Profissão",
+        "credits": 2,
+        "syllabus": "Palestras sobre temas de ciências físicas e matemáticas e de suas interfaces com outras ciências, visando o direcionamento da formação acadêmica dos alunos ingressantes."
+    },
+    {
+        "code": "FM201",
+        "name": "Atividades Científico - Culturais I",
+        "credits": 4,
+        "syllabus": "Atividades Científicas e Culturais a serem desenvolvidas no âmbito da Unicamp."
+    },
+    {
+        "code": "FM301",
+        "name": "Atividades Científico - Culturais II",
+        "credits": 2,
+        "syllabus": "Atividades Científivas e Culturais a serem desenvolvidas no âmbito da Unicamp."
+    },
+    {
+        "code": "FM401",
+        "name": "Atividades Científico - Culturais III",
+        "credits": 2,
+        "syllabus": "Atividades Científicas e Culturais a serem desenvolvidas no âmbito da Unicamp."
+    },
+    {
+        "code": "FM501",
+        "name": "Atividades Científico - Culturais IV",
+        "credits": 2,
+        "syllabus": "Atividades Científicas e Culturais a serem desenvolvidas no âmbito da Unicamp."
+    },
+    {
+        "code": "FM601",
+        "name": "Atividades Científico - Culturais V",
+        "credits": 2,
+        "syllabus": "Atividades Científicas e Culturais a serem desenvolvidas no âmbito da unicamp."
+    },
+    {
+        "code": "FM701",
+        "name": "Atividades Científico - Culturais VI",
+        "credits": 2,
+        "syllabus": "Atividades Científicas e Culturais a serem desenvolvidas no âmbito da Unicamp."
+    }
+]

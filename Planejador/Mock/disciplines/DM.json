@@ -1,0 +1,425 @@
+[
+    {
+        "code": "DM011",
+        "name": "Cárie I",
+        "credits": 4,
+        "syllabus": "Conhecer a anatomia dos músculos da face, lábios, palato e língua, da mastigação, A.T.M., boca e anexos e a histologia e histofisiologia das estruturas moles da boca e anexos, da articulação temporomandibular e dos aspectos embriológicos, microscópicos e bioquímicos das estruturas dentais e tecidos de sustentação.",
+        "reqBy": [
+            "DM021"
+        ]
+    },
+    {
+        "code": "DM012",
+        "name": "Diagnóstico Oral I",
+        "credits": 6,
+        "syllabus": "Programa integrado de Microbiologia e Genética para o estudo da biologia molecular de células humanas e microrganismos (eucarióticos, bacterianos e vírus) e suas principais aplicações no diagnóstico e/ou controle de doenças genéticas e microbianas.",
+        "reqBy": [
+            "DM032"
+        ]
+    },
+    {
+        "code": "DM013",
+        "name": "Terapêutica Cirúrgica I",
+        "credits": 2,
+        "syllabus": "Estudo das estruturas do crânio, suas variações anatômicas e aplicações clínicas.",
+        "reqBy": [
+            "DM043",
+            "DM046",
+            "DM068"
+        ]
+    },
+    {
+        "code": "DM021",
+        "name": "Cárie II",
+        "credits": 8,
+        "syllabus": "Programa integrado de Anatomia, Bioquímica, Histologia, Fisiologia, Patologia, Microbiologia e Odontologia Preventiva, para o estudo da anatomia e bioquímica das estruturas dentárias, das glândulas salivares, dos aspectos clínicos, microbiológicos, bioquímicos e histopatológicos do biofilme e cárie dentária, seus determinantes psicossociais e formas de prevenção e estudo do metabolismo, mecanismo de ação e toxidade do flúor.",
+        "reqs": [
+            [
+                {
+                    "code": "DM011"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DM031"
+        ]
+    },
+    {
+        "code": "DM022",
+        "name": "Diagnóstico Oral II",
+        "credits": 4,
+        "syllabus": "Estudo integrado de Imunologia e Genética para o estudo das bases moleculares de genética voltada à área de saúde, suas implicações no desenvolvimento de doenças com manifestações sistêmicas e bucais e às principais aplicações da biologia molecular no diagnóstico das doenças; bem como compreender os principais mecanismos pelos quais o organismo humano responde às agressões e enfrenta agentes infecciosos e os principais fenômenos imunológicos que afetam o organismo.",
+        "reqBy": [
+            "DM032",
+            "DM042"
+        ]
+    },
+    {
+        "code": "DM024",
+        "name": "Reabilitação Oral I",
+        "credits": 4,
+        "syllabus": "Programa integrado de Anatomia e Escultura Dental para o estudo e reprodução da anatomia dos dentes anteriores em manequim montado em articulador semi-ajustável, correlacionada funcionalmente com o Sistema Estomatognático.",
+        "reqBy": [
+            "DM034"
+        ]
+    },
+    {
+        "code": "DM031",
+        "name": "Cárie III",
+        "credits": 8,
+        "syllabus": "Programa integrado de Anatomia, Bioquímica, Odontologia Infantil, Odontologia Preventiva, Orientação profissional, Psicologia, Radiologia, Materiais Dentários e Semiologia para o estudo dos procedimentos e métodos clínicos e comportamentais de atuação para a prevenção da cárie dentária e preparo para o exercício das atividades clínicas necessárias ao tratamento da doença.",
+        "reqs": [
+            [
+                {
+                    "code": "DB021"
+                },
+                {
+                    "code": "DM021"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DM041"
+        ]
+    },
+    {
+        "code": "DM032",
+        "name": "Diagnóstico Oral III",
+        "credits": 4,
+        "syllabus": "Programa integrado de Patologia, Histologia e Radiologia para o estudo dos princípios básicos envolvidos na lesão, adaptação e morte celular e nos processos inflamatórios e de reparo e adquirir a fundação básica e biológica sobre a formação da face e estruturas bucais e suas anomalias e malformações.",
+        "reqs": [
+            [
+                {
+                    "code": "DB021"
+                },
+                {
+                    "code": "DM012"
+                },
+                {
+                    "code": "DM022"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DM042",
+            "DM046"
+        ]
+    },
+    {
+        "code": "DM034",
+        "name": "Reabilitação Oral II",
+        "credits": 4,
+        "syllabus": "Programa integrado de Anatomia e Escultura Dental para o estudo da anatomia dos dentes posteriores em modelo montado em articulador semi-ajustável, correlacionando com os aspectos fisiológicos e funcionais.",
+        "reqs": [
+            [
+                {
+                    "code": "DM024"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DM068",
+            "DM074",
+            "DM075"
+        ]
+    },
+    {
+        "code": "DM035",
+        "name": "Periodonto I",
+        "credits": 6,
+        "syllabus": "Programa integrado de Periodontia, Histologia, Bioquímica, Microbiologia, Patologia e Radiologia, para realizar o diagnóstico, o tratamento e prevenção das doenças periodontais.",
+        "reqBy": [
+            "DM045"
+        ]
+    },
+    {
+        "code": "DM036",
+        "name": "Procedimentos Comuns I",
+        "credits": 10,
+        "syllabus": "Programa integrado de Anatomia, Radiologia e Terapêutica Medicamentosa para o estudo de técnicas para a realização de radiografias intrabucais, interpretação radiográfica das estruturas maxilomandibulares, nervo trigêmeo, irrigação e drenagem da cabeça e pescoço. Estudo das emergências médico-odontológicas, cuidados preventivos e medidas de pronto atendimento em nível ambulatorial. Estudo da farmacologia e uso clínico de medicamentos.",
+        "reqBy": [
+            "DM046"
+        ]
+    },
+    {
+        "code": "DM041",
+        "name": "Cárie IV",
+        "credits": 10,
+        "syllabus": "Programa integrado de Dentística Restauradora e Materiais Dentários, para a aplicação dos princípios e técnicas para o diagnóstico e tratamento da cárie dental, classificação das cavidades, preparos cavitários e procedimentos restauradores. Estudo dos tipos, composição, propriedades, preparo e indicação dos materiais dentários.",
+        "reqs": [
+            [
+                {
+                    "code": "DM031"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC052",
+            "DM051",
+            "DO129",
+            "DO134"
+        ]
+    },
+    {
+        "code": "DM042",
+        "name": "Diagnóstico Oral IV",
+        "credits": 4,
+        "syllabus": "Programa integrado de Patologia, Semiologia e Radiologia para o estudo dos princípios de patologia do aparelho circulatório, características das lesões buco-dentais e analisar seu desenvolvimento e o prognóstico, considerando o diagnóstico e o tratamento indicado.",
+        "reqs": [
+            [
+                {
+                    "code": "DM022"
+                },
+                {
+                    "code": "DM032"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC052",
+            "DM052"
+        ]
+    },
+    {
+        "code": "DM043",
+        "name": "Terapêutica Cirúrgica II",
+        "credits": 4,
+        "syllabus": "Programa integrado de Cirurgia e Farmacologia conhecimento dos princípios de biossegurança, antissépticos e desinfetantes, equipamentos, instrumentos e materiais necessários à realização de exodontias.",
+        "reqs": [
+            [
+                {
+                    "code": "DM013"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC052",
+            "DM083"
+        ]
+    },
+    {
+        "code": "DM045",
+        "name": "Periodonto II",
+        "credits": 2,
+        "syllabus": "Programa integrado de Periodontia e Farmacologia para a execução do diagnóstico, classificação, etiopatogenia, tratamento e prevenção das doenças periodontais, ajuste oclusal e a relação da Periodontia com as demais especialidades.",
+        "reqs": [
+            [
+                {
+                    "code": "DM035"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC052"
+        ]
+    },
+    {
+        "code": "DM046",
+        "name": "Procedimentos Comuns II",
+        "credits": 12,
+        "syllabus": "Programa integrado de Anestesiologia, Orientação Profissional, Psicologia, Radiologia e Terapêutica Medicamentosa para manipulação do equipamento odontológico, planejamento clínico e organização do prontuário do paciente. Estudo dos aspectos psicossociais da relação profissional-paciente e dos princípios éticos relacionados à intervenção em saúde. Estudo das técnicas anestésicas e possíveis complicações devidas aos anestésicos locais. Realização e interpretação de radiografias extra bucais. Estágio clínico supervisionado de 30 horas para realização de procedimentos relacionados à Cirurgia e Periodontia.",
+        "reqs": [
+            [
+                {
+                    "code": "DM013"
+                },
+                {
+                    "code": "DM032"
+                },
+                {
+                    "code": "DM036"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC052",
+            "DM068"
+        ]
+    },
+    {
+        "code": "DM051",
+        "name": "Cárie V",
+        "credits": 8,
+        "syllabus": "Programa integrado de Dentística e Materiais Dentários para a execução de restaurações metálicas fundidas e coroas totais, preparos intra-radiculares e proteção dos dentes preparados, utilizando os materiais adequados.",
+        "reqs": [
+            [
+                {
+                    "code": "DM041"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC062",
+            "DO229",
+            "DO234"
+        ]
+    },
+    {
+        "code": "DM052",
+        "name": "Diagnóstico Oral V",
+        "credits": 10,
+        "syllabus": "Programa integrado de Patologia, Microbiologia e Semiologia para o estudo dos aspectos gerais e manifestações bucais da Aids,  faz infecções por vírus da família herpes humano, fúngicas e virais,  neoplasias benignas, tumores odontogencios, doençs e tumores ósseos, cicstos odontogenicos e não-odontogêncios, carcinoma espinocelular, consequências odontológicas do tratamento de câncer bucal e  análise do desenvolvimento e o prognóstico destas lesões.",
+        "reqs": [
+            [
+                {
+                    "code": "DM042"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC062"
+        ]
+    },
+    {
+        "code": "DM057",
+        "name": "Polpa e Periapice I",
+        "credits": 8,
+        "syllabus": "Programa integrado de Endodontia, Histologia, Patologia, Fisiologia, Anatomia e Radiologia para o desenvolvimento de conhecimentos e habilidades necessárias e indispensáveis para a execução de todas as etapas do tratamento de canais radiculares.",
+        "reqBy": [
+            "DC062",
+            "DM067"
+        ]
+    },
+    {
+        "code": "DM067",
+        "name": "Polpa e Periapice II",
+        "credits": 4,
+        "syllabus": "Programa integrado de Endodontia, Farmacologia, Prótese, Dentística, Periodontia e Cirurgia, para o treinamento e a execução de todas as fases do tratamento de canais radiculares de molares permanentes.",
+        "reqs": [
+            [
+                {
+                    "code": "DM057"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC072"
+        ]
+    },
+    {
+        "code": "DM068",
+        "name": "Odontologia Infantil I",
+        "credits": 8,
+        "syllabus": "Programa integrado de Ortodontia, Odontopediatria, Fisiologia, Radiologia, Patologia, Psicologia, Anatomia e Farmacologia, para desenvolvimento de conhecimentos e habilidades necessários às tarefas de atendimento da criança.",
+        "reqs": [
+            [
+                {
+                    "code": "DM013"
+                },
+                {
+                    "code": "DM034"
+                },
+                {
+                    "code": "DM046"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC073",
+            "DM078"
+        ]
+    },
+    {
+        "code": "DM074",
+        "name": "Reabilitação Oral III",
+        "credits": 5,
+        "syllabus": "Programa de Prótese Parcial Removível e Materiais Dentários para promover a reabilitação da oclusão através de próteses parciais removíveis.",
+        "reqs": [
+            [
+                {
+                    "code": "DC062"
+                },
+                {
+                    "code": "DM034"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC082",
+            "DM084",
+            "DM085"
+        ]
+    },
+    {
+        "code": "DM075",
+        "name": "Reabilitação Oral IV",
+        "credits": 7,
+        "syllabus": "Programa Prótese Total e Materiais Dentários para promover a reabilitação da oclusão através de próteses totais mediatas e imediatas.",
+        "reqs": [
+            [
+                {
+                    "code": "DC062"
+                },
+                {
+                    "code": "DM034"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC082",
+            "DM084",
+            "DM085"
+        ]
+    },
+    {
+        "code": "DM078",
+        "name": "Odontologia Infantil II",
+        "credits": 3,
+        "syllabus": "Programa integrado de Odontopediatria, Cirurgia, Endodontia Farmacologia e Psicologia, para desenvolvimento de conhecimentos e habilidades necessários às cirurgias e/ou tratamentos endodônticos, protéticos que envolvam procedimentos odontopediátricos. Estudo das urgências e emergências médicas em odontopediatria.",
+        "reqs": [
+            [
+                {
+                    "code": "DM068"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DC083"
+        ]
+    },
+    {
+        "code": "DM083",
+        "name": "Terapêutica Cirúrgica III",
+        "credits": 4,
+        "syllabus": "Programa integrado de Cirurgia, Anatomia e Patologia, para o estudo dos aspectos anatômicos do sistema nervoso periférico da cabeça e conhecimentos de propedêutica clínica e cirúrgica, com ênfase às técnicas de exodontia.",
+        "reqs": [
+            [
+                {
+                    "code": "DM043"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DM084",
+        "name": "Reabilitação Oral V",
+        "credits": 12,
+        "syllabus": "Programa Integrado de Prótese Fixa e Materiais Dentários desenvolvido para a confecção de Próteses Parciais Fixas.",
+        "reqs": [
+            [
+                {
+                    "code": "DM074"
+                },
+                {
+                    "code": "DM075"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "DM085",
+        "name": "Reabilitação Oral VI",
+        "credits": 4,
+        "syllabus": "Programa integrado de Prótese Fixa, Prótese Parcial Removível, Dentística Restauradora, Fisiologia para o estudo da oclusão dental fisiológica e patológica, diagnóstico e tratamento de desordens craniomandibulares e reabilitações orais envolvendo implantes osseointegrados.",
+        "reqs": [
+            [
+                {
+                    "code": "DM074"
+                },
+                {
+                    "code": "DM075"
+                }
+            ]
+        ]
+    }
+]

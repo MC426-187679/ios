@@ -1,0 +1,3061 @@
+[
+    {
+        "code": "HH092",
+        "name": "Introdução à História",
+        "credits": 4,
+        "syllabus": "Apresentação geral da história como ambiente de produção de conhecimento específico e polêmico."
+    },
+    {
+        "code": "HH183",
+        "name": "Introdução ao Estudo de História",
+        "credits": 8,
+        "syllabus": "Reflexão sobre o campo e o objeto de estudo da história e da historiografia. Introdução aos estudos didáticos pedagógicos.",
+        "reqBy": [
+            "HH285",
+            "HH381",
+            "HH384",
+            "HH386",
+            "HH482",
+            "HH483",
+            "HH484",
+            "HH584",
+            "HH587",
+            "HH682",
+            "HH685",
+            "HH701",
+            "HH702",
+            "HH703",
+            "HH704",
+            "HH705",
+            "HH706",
+            "HH707",
+            "HH708",
+            "HH709",
+            "HH710",
+            "HH711",
+            "HH712",
+            "HH713",
+            "HH714",
+            "HH715",
+            "HH716",
+            "HH717",
+            "HH718",
+            "HH719",
+            "HH720",
+            "HH721",
+            "HH722",
+            "HH723",
+            "HH724",
+            "HH725",
+            "HH726",
+            "HH727",
+            "HH728",
+            "HH729",
+            "HH730",
+            "HH731",
+            "HH732",
+            "HH733",
+            "HH734",
+            "HH735",
+            "HH736",
+            "HH737",
+            "HH738",
+            "HH739",
+            "HH740",
+            "HH741",
+            "HH742",
+            "HH743",
+            "HH744",
+            "HH745",
+            "HH746",
+            "HH747",
+            "HH748",
+            "HH749",
+            "HH750",
+            "HH751",
+            "HH752",
+            "HH753",
+            "HH754",
+            "HH755",
+            "HH756",
+            "HH757",
+            "HH758",
+            "HH759",
+            "HH764",
+            "HH765",
+            "HH766",
+            "HH767",
+            "HH768",
+            "HH769",
+            "HH770",
+            "HH771",
+            "HH772",
+            "HH773",
+            "HH774",
+            "HH775",
+            "HH776",
+            "HH797",
+            "HH798",
+            "HH900",
+            "HH901",
+            "HH902",
+            "HH903",
+            "HH904",
+            "HH905",
+            "HH910",
+            "HH911",
+            "HH912",
+            "HH913",
+            "HH914",
+            "HH915",
+            "HH916",
+            "HH917",
+            "HH918",
+            "HH919",
+            "HH920",
+            "HH921",
+            "HH922",
+            "HH923",
+            "HH924",
+            "HH925",
+            "HH926",
+            "HH927",
+            "HH928",
+            "HH929",
+            "HH931",
+            "HH932",
+            "HH933",
+            "HH934",
+            "HH935",
+            "HH936",
+            "HH937",
+            "HH938",
+            "HH939",
+            "HH940",
+            "HH941",
+            "HH942",
+            "HH943",
+            "HH944",
+            "HH945",
+            "HH946",
+            "HH947",
+            "HH948",
+            "HH949",
+            "HH950",
+            "HH951",
+            "HH952",
+            "HH953",
+            "HH954",
+            "HH955"
+        ]
+    },
+    {
+        "code": "HH185",
+        "name": "História Antiga",
+        "credits": 6,
+        "syllabus": "Revisão crítica da historiografia relativa à antiguidade, através da análise de textos e documentos do e sobre o período. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio."
+    },
+    {
+        "code": "HH186",
+        "name": "Laboratório de História",
+        "credits": 8,
+        "syllabus": "Leitura, interpretação e análise de textos historiográficos e de diferentes tipos de fontes. Confecção de textos acadêmicos (sínteses, resenhas, artigos científicos) e didáticos. Desenvolvimento de habilidades discursivas (de exposição e discussão) ligadas à interpretação e ao ensino de história. Introdução às tecnologias de comunicação e informação."
+    },
+    {
+        "code": "HH188",
+        "name": "História da África",
+        "credits": 6,
+        "syllabus": "Estudo da história da África nas épocas moderna e contemporânea, por meio da análise de documentos e da revisão crítica da historiografia. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio."
+    },
+    {
+        "code": "HH285",
+        "name": "História Medieval",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características do mundo medieval (séculos V - XV) por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH381",
+        "name": "História Moderna I",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características da sociedade moderna (séculos XV - XVII) por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH384",
+        "name": "História do Brasil I",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características da sociedade na América portuguesa (séculos XVI a XVIII), por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH386",
+        "name": "História da América I",
+        "credits": 6,
+        "syllabus": "Estudo das sociedades pré-colombianas e das sociedades coloniais hispano-americanas, através da análise de documentos e revisão crítica da historiografia. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH482",
+        "name": "História da América II",
+        "credits": 6,
+        "syllabus": "Estudo dos processos políticos, sociais e culturais na América hispânica nos séculos XIX e XX, por meio da análise de documentos e do debate historiográfico. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH483",
+        "name": "História do Brasil II",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características da sociedade brasileira no período imperial (século XIX), por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH484",
+        "name": "História Moderna II",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características da crise do antigo regime (século XVIII), por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH584",
+        "name": "História do Brasil III",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características da sociedade brasileira nas primeiras décadas republicanas, por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH587",
+        "name": "História Contemporânea I",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características da sociedade industrial (século XIX), por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH682",
+        "name": "História do Brasil IV",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características da sociedade brasileira contemporânea, por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH685",
+        "name": "História Contemporânea II",
+        "credits": 6,
+        "syllabus": "Estudo da constituição e características da sociedade industrial (século XX), por meio da revisão crítica da historiografia sobre o período e da análise de documentos. Estudos da história do ensino, de temas educacionais e de práticas didáticas relacionadas à disciplina. Revisão de conteúdos curriculares do ensino fundamental e médio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH690",
+        "name": "Estágio Supervisionado em História",
+        "credits": 12,
+        "syllabus": "Desenvolvimento de atividades de estágio e de imersão no campo de trabalho que propiciem ao professor em formação o contato com experiências, práticas e conhecimento de natureza profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH701",
+        "name": "Tópicos Especiais em História I",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH702",
+        "name": "Tópicos Especiais em História II",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH703",
+        "name": "Tópicos Especiais em História III",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH704",
+        "name": "Tópicos Especiais em História IV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH705",
+        "name": "Tópicos Especiais em História V",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH706",
+        "name": "Tópicos Especiais em História VI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH707",
+        "name": "Tópicos Especiais em História VII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH708",
+        "name": "Tópicos Especiais em História VIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH709",
+        "name": "Tópicos Especiais em História IX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH710",
+        "name": "Tópicos Especiais em História X",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH711",
+        "name": "Tópicos Especiais em História XI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH712",
+        "name": "Tópicos Especiais em História XII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH713",
+        "name": "Tópicos Especiais em História XIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH714",
+        "name": "Tópicos Especiais em História XIV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH715",
+        "name": "Tópicos Especiais em História XV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH716",
+        "name": "Tópicos Especiais em História XVI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH717",
+        "name": "Tópicos Especiais em História XVII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH718",
+        "name": "Tópicos Especiais em História XVIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH719",
+        "name": "Tópicos Especiais em História XIX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH720",
+        "name": "Tópicos Especiais em História XX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH721",
+        "name": "Tópicos Especiais em História XXI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH722",
+        "name": "Tópicos Especiais em História XXII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH723",
+        "name": "Tópicos Especiais em História XXIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH724",
+        "name": "Tópicos Especiais em História XXIV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH725",
+        "name": "Tópicos Especiais em História XXV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH726",
+        "name": "Tópicos Especiais em História XXVI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH727",
+        "name": "Tópicos Especiais em História XXVII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH728",
+        "name": "Tópicos Especiais em História XXVIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH729",
+        "name": "Tópicos Especiais em História XXIX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH730",
+        "name": "Tópicos Especiais em História XXX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH731",
+        "name": "Tópicos Especiais em História XXXI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH732",
+        "name": "Tópicos Especiais em História XXXII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH733",
+        "name": "Tópicos Especiais em História XXXIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH734",
+        "name": "Tópicos Especiais em História XXXIV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH735",
+        "name": "Tópicos Especiais em História XXXV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH736",
+        "name": "Tópicos Especiais em História XXXVI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH737",
+        "name": "Tópicos Especiais em História XXXVII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH738",
+        "name": "Tópicos Especiais em História XXXVIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH739",
+        "name": "Tópicos Especiais em História XXXIX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH740",
+        "name": "Tópicos Especiais em História XL",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH741",
+        "name": "Tópicos Especiais em História XLI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH742",
+        "name": "Tópicos Especiais em História XLII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH743",
+        "name": "Tópicos Especiais em História XLIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH744",
+        "name": "Tópicos Especiais em História XLIV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH745",
+        "name": "Tópicos Especiais em História XLV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH746",
+        "name": "Tópicos Especiais em História XLVI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH747",
+        "name": "Tópicos Especiais em História XLVII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH748",
+        "name": "Tópicos Especiais em História XLVIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH749",
+        "name": "Tópicos Especiais em História XLIX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH750",
+        "name": "Tópicos Especiais em História L",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH751",
+        "name": "Tópicos Especiais em História LI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH752",
+        "name": "Tópicos Especiais em História LII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH753",
+        "name": "Tópicos Especiais em História LIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH754",
+        "name": "Tópicos Especiais em História LIV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH755",
+        "name": "Tópicos Especiais em História LV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH756",
+        "name": "Tópicos Especiais em História LVI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH757",
+        "name": "Tópicos Especiais em História LVII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH758",
+        "name": "Tópicos Especiais em História LVIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH759",
+        "name": "Tópicos Especiais em História LIX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH764",
+        "name": "Estudo Dirigido I",
+        "credits": 4,
+        "syllabus": "Trabalho temático em grupo de alunos coordenados por um professor responsável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HH765"
+        ]
+    },
+    {
+        "code": "HH765",
+        "name": "Estudo Dirigido II",
+        "credits": 4,
+        "syllabus": "Trabalho temático em grupo de alunos coordenados por um professor responsável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                },
+                {
+                    "code": "HH764"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH766",
+        "name": "Tópicos Especiais em História LXVI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH767",
+        "name": "Tópicos Especiais em História LXVII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH768",
+        "name": "Tópicos Especiais em História LXVIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH769",
+        "name": "Tópicos Especiais em História LXIX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH770",
+        "name": "Tópicos Especiais em História LXX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH771",
+        "name": "Tópicos Especiais em História LXXI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH772",
+        "name": "Tópicos Especiais em História LXXII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH773",
+        "name": "Tópicos Especiais em História LXXIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH774",
+        "name": "Tópicos Especiais em História LXXIV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH775",
+        "name": "Tópicos Especiais em História LXXV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH776",
+        "name": "Tópicos Especiais em História LXXVI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História e das discussões prévias entre alunos e professores.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH788",
+        "name": "Introdução ao Estudo da Cidade",
+        "credits": 2,
+        "syllabus": "Introdução aos aspectos históricos relativos à vida nas cidades e à formação de um saber histórico sobre o espaço urbano. A questão urbana e habitacional, a esfera pública, o espaço privado, a segregação, a forma e a imagem da cidade e as diferentes percepções históricas do espaço habitado.",
+        "reqBy": [
+            "HH789",
+            "HH796",
+            "HH805",
+            "HH806"
+        ]
+    },
+    {
+        "code": "HH789",
+        "name": "Estudos Socioeconômicos para Arquitetura e Urbanismo I",
+        "credits": 4,
+        "syllabus": "Problematização das cidades no início do século XIX. Processos de urbanização e de transformação urbana, industrialização, formação de mercados de consumo e de trabalho. A cidade do capital. Higienismo, sanitarismo e as correlações entre doença e pobreza urbana. Movimentos sociais e intervenções estratégicas. Reforma urbana e cidades planejadas. O pensamento do século XIX e as definições de urbano. As cidades brasileiras e sua problematização social e urbana.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH788"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH796",
+        "name": "Estudos Socioeconômicos para Arquitetura e Urbanismo II",
+        "credits": 4,
+        "syllabus": "A formação do pensamento urbanístico no Brasil e sua inserção no debate internacional. As políticas urbanas do século XX e suas implicações socioeconômicas e culturais. Problemas e impasses nos diversos processos nacionais de urbanização. Configurações históricas espaciais: Plano Diretor, revitalizações, cidades satélites e crescimento urbano. Efeitos da desigualdade, da especulação imobiliária e da ocupação desordenada do espaço urbano. Esvaziamento da esfera pública. O fim da cidade? A cidade como experiência social, econômica, cultural e estética.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH788"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH797",
+        "name": "Estudo Dirigido em Ensino de História I",
+        "credits": 4,
+        "syllabus": "Trabalho temático sobre ensino de história em grupo de alunos coordenados por professor responsável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH798",
+        "name": "Estudo Dirigido em Ensino de História II",
+        "credits": 4,
+        "syllabus": "Trabalho temático sobre ensino de história em grupo de alunos coordenados por professor responsável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH804",
+        "name": "História da Arquitetura e Urbanismo do Clássico ao Barroco",
+        "credits": 4,
+        "syllabus": "Introdução à arquitetura clássica: Grécia e Roma na Antiguidade. A linguagem clássica da arquitetura. Vitrúvio e o Renascimento. O Renascimento italiano e a arquitetura na Europa. A arquitetura e a cidade brasileira no período colonial.",
+        "reqBy": [
+            "AU907",
+            "AU915"
+        ]
+    },
+    {
+        "code": "HH805",
+        "name": "História da Arquitetura e Urbanismo Moderno",
+        "credits": 4,
+        "syllabus": "A cultura arquitetônica do século XIX no Brasil e no exterior. Os modelos e as reformas urbanas nas cidades brasileiras. As novas tecnologias e seus materiais. O movimento moderno em arquitetura: o papel dos \"mestres\" (Le Corbusier, W. Gropius, Mies van der Rohe, Frank L. Wright) e dos CIAMs. Os arquitetos modernos brasileiros: os pioneiros, a escola carioca, os imigrantes europeus em São Paulo e as cidades modernas brasileiras. História do urbanismo e do paisagismo modernos no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH788"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH806",
+        "name": "História da Arquitetura e Urbanismo Contemporâneo",
+        "credits": 4,
+        "syllabus": "A cultura arquitetônica e urbanística no período 1945-1980. O último modernismo, a arquitetura das corporações e a reconstrução européia no pós-guerra; o Team X e o final dos CIAMs. Arquitetura moderna brasileira pós-45. O debate antimoderno dos anos 1960 e a pós-modernidade. Desconstrutivismo, a dimensão global e emergência do projeto urbano-revitalização urbana, restauro arquitetônico e requalificação de áreas históricas. Arquitetura pós-45 e contemporânea: sua crítica e seus principais arquitetos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH788"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH821",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo I",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH822",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo II",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH823",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo III",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH824",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo IV",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH825",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo V",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH826",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo VI",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH827",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo VII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH828",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo VIII",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH829",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo IX",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH830",
+        "name": "Tópicos Especiais em História para Arquitetura e Urbanismo X",
+        "credits": 6,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam no Departamento de História sobre temas relacionados à História da Arquitetura e do Urbanismo e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "HH900",
+        "name": "Monografia de Bacharelado I",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HH902"
+        ]
+    },
+    {
+        "code": "HH901",
+        "name": "Monografia de Licenciatura I",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HH903"
+        ]
+    },
+    {
+        "code": "HH902",
+        "name": "Monografia de Bacharelado II",
+        "credits": 12,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                },
+                {
+                    "code": "HH900"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH903",
+        "name": "Monografia de Licenciatura II",
+        "credits": 12,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                },
+                {
+                    "code": "HH901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH904",
+        "name": "Monitoria",
+        "credits": 2,
+        "syllabus": "Atividades de apoio didático exercidas em disciplinas de sigla HH sob supervisão do docente responsável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH905",
+        "name": "Ensino e Divulgação Científica",
+        "credits": 2,
+        "syllabus": "Participação, como assistente ou expositor, em eventos como congressos e seminários na área de história, no âmbito da Universidade ou fora dela, cujos créditos são obtidos segundo critérios estabelecidos pela Comissão de Graduação de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH910",
+        "name": "Tópicos Especiais em Teoria da História I",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e de textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH911",
+        "name": "Tópicos Especiais em Teoria da História II",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH912",
+        "name": "Tópicos Especiais em Teoria da História III",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH913",
+        "name": "Tópicos Especiais em Teoria da História IV",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH914",
+        "name": "Tópicos Especiais em Teoria da História V",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH915",
+        "name": "Tópicos Especiais em Teoria da História VI",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH916",
+        "name": "Tópicos Especiais em Teoria da História VII",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH917",
+        "name": "Tópicos Especiais em Teoria da História VIII",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH918",
+        "name": "Tópicos Especiais em Teoria da História IX",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH919",
+        "name": "Tópicos Especiais em Teoria da História X",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH920",
+        "name": "Tópicos Especiais em Teoria da História XI",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH921",
+        "name": "Tópicos Especiais em Teoria da História XII",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH922",
+        "name": "Tópicos Especiais em Teoria da História XIII",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH923",
+        "name": "Tópicos Especiais em Teoria da História XIV",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH924",
+        "name": "Tópicos Especiais em Teoria da História XV",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH925",
+        "name": "Tópicos Especiais em Teoria da História XVI",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH926",
+        "name": "Tópicos Especiais em Teoria da História XVII",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH927",
+        "name": "Tópicos Especiais em Teoria da História XVIII",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH928",
+        "name": "Tópicos Especiais em Teoria da História XIX",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH929",
+        "name": "Tópicos Especiais em Teoria da História XX",
+        "credits": 6,
+        "syllabus": "Estudo do pensamento histórico e dos textos fundamentais produzidos pela tradição historiográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH931",
+        "name": "Tópicos Especiais em Ensino de História I",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH932",
+        "name": "Tópicos Especiais em Ensino de História II",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH933",
+        "name": "Tópicos Especiais em Ensino de História III",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH934",
+        "name": "Tópicos Especiais em Ensino de História IV",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH935",
+        "name": "Tópicos Especiais em Ensino de História V",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH936",
+        "name": "Tópicos Especiais em Ensino de História VI",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH937",
+        "name": "Tópicos Especiais em Ensino de História VII",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH938",
+        "name": "Tópicos Especiais em Ensino de História VIII",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH939",
+        "name": "Tópicos Especiais em Ensino de História IX",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH940",
+        "name": "Tópicos Especiais em Ensino de História X",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH941",
+        "name": "Tópicos Especiais em Ensino de História XI",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH942",
+        "name": "Tópicos Especiais em Ensino de História XII",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH943",
+        "name": "Tópicos Especiais em Ensino de História XIII",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH944",
+        "name": "Tópicos Especiais em Ensino de História XIV",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH945",
+        "name": "Tópicos Especiais em Ensino de História XV",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH946",
+        "name": "Tópicos Especiais em Ensino de História XVI",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH947",
+        "name": "Tópicos Especiais em Ensino de História XVII",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH948",
+        "name": "Tópicos Especiais em Ensino de História XVIII",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH949",
+        "name": "Tópicos Especiais em Ensino de História XIX",
+        "credits": 8,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas sobre o ensino de História na Educação Básica que se realizam no Departamento de História.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH183"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH950",
+        "name": "Ênfase em História da Arte I",
+        "credits": 4,
+        "syllabus": "Metodologias da História da Arte. A pesquisa iconográfica. Fontes da literatura artística. Manuais e guias para a história da arte. A história da crítica de arte. Estudos sobre as coleções de arte. Estudo de autores consagrados e suas principais publicações. Temáticas, abordagens, estratégias de pesquisa e apresentação de resultados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH951",
+        "name": "Ênfase em História da Arte II",
+        "credits": 4,
+        "syllabus": "História da Arte Clássica. A constituição da tradição clássica. Tema de iconografia figurativa. As técnicas artísticas e a produção da obra entre os séculos XV e XIX. O ensino das artes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH952",
+        "name": "Ênfase em História da Arte III",
+        "credits": 4,
+        "syllabus": "História da Arte Moderna. Definição e contextualização das vanguardas artísticas européias. Os princípios da arte abstrata. Instituições e exposições para a arte moderna. O papel da crítica de arte. Materiais e estruturas para a fatura artística moderna.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH953",
+        "name": "Ênfase em Patrimônio Histórico e Cultural I",
+        "credits": 4,
+        "syllabus": "Histórias e teorias da preservação do patrimônio histórico e cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH954",
+        "name": "Ênfase em Patrimônio Histórico e Cultural II",
+        "credits": 4,
+        "syllabus": "Políticas de preservação. Bens culturais. Órgãos nacionais e internacionais de preservação. O instituto do tombamento. Legislação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HH955",
+        "name": "Ênfase em Patrimônio Histórico e Cultural III",
+        "credits": 4,
+        "syllabus": "Patrimônio histórico, cultural, artístico, urbano, móvel, ambiental e imaterial. Questões contemporâneas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "HH183",
+                    "partial": true
+                }
+            ]
+        ]
+    }
+]

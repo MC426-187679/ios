@@ -1,0 +1,4281 @@
+[
+    {
+        "code": "HZ051",
+        "name": "Sociologia do Trabalho I",
+        "credits": 4,
+        "syllabus": "Trabalho, capitalismo e modernidade na Sociologia Clássica. A organização do trabalho na Grande Indústria do século XX: fordismo, taylorismo e americanismo.  Do século XX ao XXI: Reestruturação produtiva, Toyotismo e Acumulação Flexível. As formas de organização da classe trabalhadora: greves, sindicatos e partidos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ052",
+        "name": "Sociologia do Trabalho II",
+        "credits": 4,
+        "syllabus": "O debate sobre o \"fim do trabalho\" e a sua centralidade. A expansão mundial da produção capitalista. Mundialização e financeirização. Taylorismo e Toyotismo no Brasil.  As cadeias produtivas de valor. A formação da classe trabalhadora brasileira e suas formas de organização.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ053",
+        "name": "Sociologia do Trabalho III",
+        "credits": 4,
+        "syllabus": "A nova configuração da classe trabalhadora: o avanço tecnológico e as novas gestão da força de trabalho. Trabalho imaterial e lei do valor na atualidade.  Gênero, raça e classe.  Novas formas de lutas sociais e resistências.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ054",
+        "name": "Sociologia das desigualdades I",
+        "credits": 4,
+        "syllabus": "Os fundamentos sociológicos e históricos das noções de diferença e desigualdade. O problema da desigualdade e dos direitos na história da cidadania burguesa. Possibilidades analíticas a partir da história social e política. Exploração, dominação e distinção na sociologia contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ055",
+        "name": "Sociologia das desigualdades II",
+        "credits": 4,
+        "syllabus": "Debates contemporâneos sobre desigualdade e discriminação: estudos sobre gênero, sexualidades, raça, etnicidades, mundos do trabalho, migrações e outros marcadores sociais da diferença. Possibilidades metodológicas e de articulação analítica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ056",
+        "name": "Técnicas de Investigação em Sociologia",
+        "credits": 4,
+        "syllabus": "Desenho de pesquisa: técnicas de observação e coleta de informações. A investigação social: interpretação e tratamento de dados. Análise qualitativa e quantitativa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ057",
+        "name": "Temas de Sociologia Clássica",
+        "credits": 4,
+        "syllabus": "Debates contemporâneos sobre temas e problemas da sociologia clássica. Anomia, integração e coesão social. Conflito, contradição e dominação. Indivíduo e sociedade. Estrutura e ação. Nação e modernidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ058",
+        "name": "Temas Contemporâneos da Sociologia",
+        "credits": 4,
+        "syllabus": "Recortes gerais ou específicos de temas relevantes da sociologia e da teoria social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ059",
+        "name": "Sociologia da Tecnologia",
+        "credits": 4,
+        "syllabus": "Investigação sociológica dos processos de concretização, na forma de programas de ação, instrumentos, ferramentas, máquinas e sistemas técnicos, de aspectos da atividade humana em sociedade. Abordagens dos processos tecnológicos em diferentes escalas e recortes, e.g.: cognitivos, corporais, políticos, econômicos, culturais, estéticos etc. Diferentes perspectivas teóricas e metodológicas para a investigação sociológica da tecnologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ060",
+        "name": "Trabalho de Campo Dirigido",
+        "credits": 4,
+        "syllabus": "Pesquisa de campo, sob orientação do professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ061",
+        "name": "Trabalho Dirigido",
+        "credits": 4,
+        "syllabus": "Pesquisa bibliográfica e/ou de campo, sob orientação do professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ062",
+        "name": "Gênero e Sexualidade",
+        "credits": 4,
+        "syllabus": "Este curso pretende situar o campo conceitual e as possibilidades de pesquisa abertas pelos estudos de gênero e sexualidade. Nas discussões das diferentes perspectivas deste estudo estarão incluídos temas como desnaturalização das diferenças sexuais, o caráter relacional das definições de gênero e a importância destas perspectivas para as teorias sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ063",
+        "name": "Antropologia, Organizações e Burocracia",
+        "credits": 4,
+        "syllabus": "Esta disciplina propõe explorar novos problemas e conceitos para uma antropologia das organizações. Nesse sentido, faz-se fundamental perguntar o que uma abordagem etnográfica terá a acrescentar a temas como: a presença massiva das instituições na vida social; a constituição de redes de relações inter-organizacionais diversas; seus encadeamentos e interrupções; as noções de serviço público e privado; as noções de vigilância e controle burocráticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ065",
+        "name": "Antropologia e Direito",
+        "credits": 4,
+        "syllabus": "A constituição do campo de estudos sobre a relação entre normas, sociedade e cultura, modalidades de administração de conflitos e produção da verdade. Tópicos sugeridos: violência, criminalidade e segurança; história da criminalização de práticas socioculturais; etnografias no campo jurídico; justiça, direitos humanos e diversidade cultural; pluralismo jurídico na América Latina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ066",
+        "name": "Antropologia e História",
+        "credits": 4,
+        "syllabus": "A relação entre perspectivas diacrônicas e sincrônicas na formação das Ciências Sociais, seus desdobramentos e debates atuais. Tópicos sugeridos: Evolucionismo, Etnohistória; Etnografia, história e memória; Estruturalismo e história; Cultura, estrutura e evento; História de longa duração; Microhistória; História cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ067",
+        "name": "Antropologia Rural",
+        "credits": 4,
+        "syllabus": "Esta disciplina explora as abordagens antropológicas acerca do rural e sua construção como objeto de estudo. Além de tratar das fomulações clássicas sobre sociedades agrárias e camponesas, aborda a crise do próprio conceito de sociedade agrária e do campesinato e as recomposições do rural como objeto através dos processos sociais em curso em contextos nacionais e internacionais que, por um lado, trouxeram para o campo questões como meio-ambiente, etnicidade e gênero e, por outro lado, possibilitaram a emergência de novos atores sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ068",
+        "name": "Corpo, Pessoa e Agência",
+        "credits": 4,
+        "syllabus": "A noção de pessoa e a de técnicas do corpo em Marcel Mauss são referências clássicas. Recentemente, cresce a literatura antropológica sobre pessoa, nome, corpo, agência humana (e pós-humana). Esta disciplina focalizará estas contribuições e discutirá a relação entre corpo e mente o natural e o social (e, ou, cultural), modos de conhecimento e cosmologias, gênero, tecnologias, subjetividade e intersubjetividades.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ069",
+        "name": "Raça, Etnicidade e Identidade",
+        "credits": 4,
+        "syllabus": "Raça e etnicidade, como conceitos e como articuladores de diferenças e identidades, indicam distintos embates, como, por exemplo, entre biologia, cultura, e política. Contextualizar estes conceitos, seus usos e embates científicos e políticos, serão os objetivos desta disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ103",
+        "name": "Estágio Supervisionado em Ciências Sociais I",
+        "credits": 8,
+        "syllabus": "A disciplina tem por objetivo desenvolver habilidades no ensino de Ciências Sociais, através da prática de atividades de ensino, tanto no sistema oficial de ensino como em espaços não formais, quando autorizados pela Comissão de Graduação em Ciências Sociais, e da reflexão sobre essas experiências, sob orientação de docente responsável pela disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ352"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ104"
+        ]
+    },
+    {
+        "code": "HZ104",
+        "name": "Estágio Supervisionado em Ciências Sociais II",
+        "credits": 8,
+        "syllabus": "A disciplina tem por objetivo desenvolver habilidades no ensino de Ciências Sociais, através da prática de atividades de ensino, tanto no sistema oficial de ensino como em espaços não formais, quando autorizados pela Comissão de Graduação em Ciências Sociais, e da reflexão sobre essas experiências, sob orientação de docente responsável pela disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ103"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ133",
+        "name": "Tópicos Especiais em Demografia I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Demografia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ631"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ134",
+        "name": "Tópicos Especiais em Demografia II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Demografia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ631"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ140",
+        "name": "Partidos Políticos",
+        "credits": 4,
+        "syllabus": "Esse curso percorre, na sua primeira parte, os três mais importantes enfoques teóricos sobre partidos políticos - o marxista, o organizacional e institucional. Na segunda parte, trata de sistemas partidários, dando enfoque ao funcionamento dos partidos em sistemas competitivos e não competitivos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ141",
+        "name": "Política I: Introdução à Ciência Política",
+        "credits": 5,
+        "syllabus": "O objetivo desta disciplina é permitir aos alunos compreender elementos fundamentais da Ciência Política: o objeto da Ciência Política; o poder político; a ação política. Serão ainda indicados e desenvolvidos conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqBy": [
+            "CE730",
+            "HZ248",
+            "HZ249",
+            "HZ345",
+            "HZ347",
+            "HZ431",
+            "HZ703"
+        ]
+    },
+    {
+        "code": "HZ142",
+        "name": "Tópicos Especiais em Ciência Política X",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ143",
+        "name": "Tópicos Especiais em Ciência Política XI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ144",
+        "name": "Tópicos Especiais de Ciência Política I",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ145",
+        "name": "Tópicos Especiais em Ciência Política XII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ146",
+        "name": "Tópicos Especiais em Ciência Política XIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ147",
+        "name": "Tópicos Especiais em Ciência Política XIV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ148",
+        "name": "Tópicos Especiais em Ciência Política XV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ149",
+        "name": "Tópicos Especiais em Ciência Política XVI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ153",
+        "name": "Tópicos Especiais em Sociologia X",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ154",
+        "name": "Tópicos Especiais em Sociologia I",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ155",
+        "name": "Tópicos Especiais em Sociologia XI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ156",
+        "name": "Tópicos Especiais em Sociologia XII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ157",
+        "name": "Tópicos Especiais em Sociologia XIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ158",
+        "name": "Sociologia de Durkheim",
+        "credits": 5,
+        "syllabus": "Num primeiro momento pretende-se passar ao aluno uma breve introdução à Sociologia e, posteriormente, o curso terá como foco a teoria da objetividade do fato social, a teoria da representação coletiva como consequência da organização social e a teoria dos princípios básicos que constituem a organização e montam os diferentes tipos de sociedade. Essas teorias serão seguidas até as leituras recentes de Durkheim no atual debate sobre o social. Indicação e desenvolvimento de conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqBy": [
+            "CE730",
+            "HZ051",
+            "HZ052",
+            "HZ053",
+            "HZ054",
+            "HZ055",
+            "HZ056",
+            "HZ057",
+            "HZ058",
+            "HZ059",
+            "HZ153",
+            "HZ154",
+            "HZ155",
+            "HZ156",
+            "HZ157",
+            "HZ159",
+            "HZ254",
+            "HZ256",
+            "HZ257",
+            "HZ259",
+            "HZ353",
+            "HZ354",
+            "HZ356",
+            "HZ357",
+            "HZ431",
+            "HZ452",
+            "HZ454",
+            "HZ554",
+            "HZ558",
+            "HZ559",
+            "HZ652",
+            "HZ654",
+            "HZ655",
+            "HZ703",
+            "HZ751",
+            "HZ752",
+            "HZ754",
+            "HZ756",
+            "HZ757",
+            "HZ758",
+            "HZ851",
+            "HZ854",
+            "HZ855",
+            "HZ857",
+            "HZ858",
+            "HZ955",
+            "HZ956"
+        ]
+    },
+    {
+        "code": "HZ159",
+        "name": "Tópicos Especiais em Sociologia XIV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ160",
+        "name": "Introdução a Antropologia: Natureza e Cultura",
+        "credits": 5,
+        "syllabus": "Esta disciplina pretende apresentar as principais discussões antropológicas em torno de natureza e cultura. Como se trata de uma disciplina de formação, enfatiza-se o compromisso com os tópicos basilares da antropologia e a leitura de pelo menos uma etnografia. Serão ainda indicados e desenvolvidos conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqBy": [
+            "CE730",
+            "HZ260",
+            "HZ431",
+            "HZ703",
+            "HZ861",
+            "HZ969"
+        ]
+    },
+    {
+        "code": "HZ163",
+        "name": "Tópicos Especiais em Antropologia X",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ164",
+        "name": "Tópicos Especiais em Antropologia I",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ165",
+        "name": "Tópicos Especiais em Antropologia XI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ166",
+        "name": "Tópicos Especiais em Antropologia XII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ167",
+        "name": "Tópicos Especiais em Antropologia XIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ168",
+        "name": "Tópicos Especiais em Antropologia XIV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ169",
+        "name": "Tópicos Especiais em Antropologia XV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ240",
+        "name": "Democracia e Cidadania",
+        "credits": 4,
+        "syllabus": "Paradigmas de análise sobre ação coletiva e movimentos sociais nos Estados Unidos e Europa e seus desdobramentos mais recentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ243",
+        "name": "Tópicos Especiais em Ciência Política XVII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ244",
+        "name": "Tópicos Especiais de Ciência Política II",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ245",
+        "name": "Tópicos Especiais em Ciência Política XVII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ246",
+        "name": "Tópicos Especiais em Ciência Política XIX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ247",
+        "name": "Tópicos Especiais em Ciência Política XX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Ciência política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ248",
+        "name": "Política II: Política Brasileira",
+        "credits": 5,
+        "syllabus": "O objetivo desta disciplina é permitir aos alunos compreender as rupturas políticas no Brasil contemporâneo: 1891, 1930, 1937, 1945, 1964 e 1985; o debate existente na bibliografia sobre esses temas; as transformações verificadas no Estado e no regime político e suas relações com a sociedade e a economia. Serão ainda indicados e desenvolvidos conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "HZ141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ249",
+        "name": "Pensamento Político: Debates Contemporâneos",
+        "credits": 6,
+        "syllabus": "O objetivo do curso é apresentar tendências contemporâneas do pensamento político e debates teóricos que marcaram o campo da ciência política nas últimas décadas.",
+        "reqs": [
+            [
+                {
+                    "code": "HZ141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ252",
+        "name": "Sociologia: Introdução",
+        "credits": 4,
+        "syllabus": "A Sociologia como ciência. Sociologia e pensamento social no século XIX. Os princípos constitutivos dos sistemas sociais: integração e contradição. Comunidade e sociedade. Movimentos sociais.\nObs.: Os alunos do Curso de Ciências Sociais não poderão cursar esta disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ342",
+            "HZ342"
+        ]
+    },
+    {
+        "code": "HZ253",
+        "name": "Introdução a Ciências Sociais",
+        "credits": 4,
+        "syllabus": "A Sociologia como ciência. Sociologia e pensamento social no século XIX. Os princípios constitutivos dos sistemas sociais: integração e contradição. Estrutura de classes e estratificação social. Ideologia e movimentos sociais.\nObs.: Os alunos do Curso de Ciências Sociais não poderão cursar esta disciplina."
+    },
+    {
+        "code": "HZ254",
+        "name": "Tópicos Especiais em Sociologia II",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no Departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ256",
+        "name": "Tópicos Especiais em Sociologia XV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ257",
+        "name": "Tópicos Especiais em Sociologia XVI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ258",
+        "name": "Sociologia de Marx",
+        "credits": 5,
+        "syllabus": "O curso pretende apresentar pontos fundamentais da formulação teórica de Marx, através da leitura de textos clássicos. Tratamento da gênese do pensamento, de aspectos centrais de sua crítica de economia política e de sua produção propriamente política. Indicação e desenvolvimento de conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqBy": [
+            "HZ051",
+            "HZ052",
+            "HZ053",
+            "HZ054",
+            "HZ055",
+            "HZ056",
+            "HZ057",
+            "HZ058",
+            "HZ059",
+            "HZ153",
+            "HZ154",
+            "HZ155",
+            "HZ156",
+            "HZ157",
+            "HZ159",
+            "HZ254",
+            "HZ256",
+            "HZ257",
+            "HZ259",
+            "HZ353",
+            "HZ354",
+            "HZ356",
+            "HZ357",
+            "HZ452",
+            "HZ454",
+            "HZ554",
+            "HZ558",
+            "HZ559",
+            "HZ652",
+            "HZ654",
+            "HZ655",
+            "HZ751",
+            "HZ752",
+            "HZ754",
+            "HZ756",
+            "HZ757",
+            "HZ758",
+            "HZ851",
+            "HZ854",
+            "HZ855",
+            "HZ857",
+            "HZ858",
+            "HZ955",
+            "HZ956"
+        ]
+    },
+    {
+        "code": "HZ259",
+        "name": "Tópicos Especiais em Sociologia XVII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ260",
+        "name": "Antropologia II: Troca, Sociedade e Estrutura",
+        "credits": 5,
+        "syllabus": "Esta disciplina pretende apresentar as principais discussões antropológicas em torno de troca, sociedade e estrutura. Como se trata de uma disciplina de formação, enfatiza-se o compromisso com os tópicos basilares da antropologia e a leitura de pelo menos uma etnografia.Serão ainda indicados e desenvolvidos conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "HZ160"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ360",
+            "HZ969"
+        ]
+    },
+    {
+        "code": "HZ264",
+        "name": "Tópicos Especiais em Antropologia II",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ265",
+        "name": "Tópicos Especiais em Antropologia XVI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo desenvolvidas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ266",
+        "name": "Tópicos Especiais em Antropologia XVII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ267",
+        "name": "Tópicos Especiais em Antropologia XVIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ268",
+        "name": "Tópicos Especiais em Antropologia XIX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ269",
+        "name": "Tópicos Especiais em Antropologia XX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ291",
+        "name": "Tópicos Especiais de Humanidades I",
+        "credits": 2,
+        "syllabus": "O curso é dedicado a uma introdução das relações entre ciência, tecnologia e a sociedade contemporânea. Será dada ênfase especial ao caso brasileiro, tentando mostrar como se concretizam essas relações num contexto específico. A abordagem será interdisciplinar, através de uma contribuição da Antropologia, da Ciência Política, da História e da Sociologia.\nObs.: Sendo uma disciplina reservada aos cursos de Engenharia, nos quais consta como eletiva em seus currículos, os alunos de Humanidades, Artes e do Curso de Filosofia não poderão cursar esta disciplina."
+    },
+    {
+        "code": "HZ292",
+        "name": "Tópicos Especiais de Humanidades II",
+        "credits": 2,
+        "syllabus": "Filosofia da ciência. Elementos de sociologia. Sociologia rural. Antropologia. Deontologia.\nObs.: Sendo uma disciplina reservada aos cursos de engenharia, nos quais consta como eletiva em seus currículos, os alunos das Áreas de Humanidades, Artes e do curso de Filosofia não poderão cursar esta disciplina."
+    },
+    {
+        "code": "HZ293",
+        "name": "Tópicos Especiais de Humanidades III",
+        "credits": 2,
+        "syllabus": "O curso abordará a análise dos aspectos sociais das inovações tecnológicas e da pesquisa científica. No decorrer das exposições e seminários, serão desenvolvidas análises de casos precisos, tentando incorporar um quadro de referência comparativo entre a sociedade brasileira e o contexto internacional.\nObs.: Sendo uma disciplina reservada aos cursos de Engenharia, nos quais consta como eletiva em seus currículos, os alunos das Áreas de Humanidades, Artes e do curso de Filosofia não poderão cursar esta disciplina."
+    },
+    {
+        "code": "HZ339",
+        "name": "Educação e Questões Demográficas",
+        "credits": 6,
+        "syllabus": "Essa disciplina tem como objetivo fornecer aos alunos um conjunto de conteúdos específicos e de ferramentas pedagógicas sobre a relação entre a educação, em seus diversos níveis, e as questões demográficas. A disciplina é composta por módulos que abordam, por um lado, os aspectos principais da dinâmica demográfica (fecundidade, mortalidade e migração); por outro lado, abordam como estes componentes da dinâmica demográfica se relacionam com a Educação, seja em termos de geração de demandas, seja em termos de caracterização e avaliação do atendimento às demandas educacionais. Pretende-se estabelecer a conexão entre teoria e prática, e entre conhecimentos específicos e pedagógicos, com contextualização social da prática educacional e enfatizando as relações entre educação, diferenças, diversidade e desigualdade, com foco nas questões demográficas relacionadas à igualdade e à inclusão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                },
+                {
+                    "code": "HZ358"
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ340",
+        "name": "Política e Direito I",
+        "credits": 4,
+        "syllabus": "A disciplina tem o objetivo de introduzir o estudante de ciências sociais nos temas e debates no campo das relações entre política e direito. O curso tem uma parte fixa com o objetivo de introduzir os estudantes aos autores e temas fundamentais no campo, e uma parte variável, na qual diferentes temas serão tratados, com o objetivo de propiciar aos estudantes o conhecimento de temas, conceitos e técnicas de pesquisa atuais no campo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ342",
+        "name": "Teoria do Estado I",
+        "credits": 4,
+        "syllabus": "Fundamentos teóricos da análise do Estado contemporâneo. A relação entre Estado e a sociedade civil. Estado e classes sociais. A questão da burocracia. As estruturas do Estado moderno.",
+        "reqs": [
+            [
+                {
+                    "code": "CE151"
+                },
+                {
+                    "code": "HZ252"
+                }
+            ],
+            [
+                {
+                    "code": "CE161"
+                },
+                {
+                    "code": "HZ252"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ344",
+        "name": "Tópicos Especiais de Ciência Política III",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ345",
+        "name": "Política III: Teorias do Estado",
+        "credits": 5,
+        "syllabus": "O objetivo desta disciplina é permitir aos alunos compreender os fundamentos teóricos da análise do Estado contemporâneo; a relação entre o Estado e a sociedade civil; a relação entre Estado e classes sociais; a questão da burocracia; as estruturas do Estado moderno. Serão ainda indicados e desenvolvidos conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "HZ141"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ140",
+            "HZ240",
+            "HZ339",
+            "HZ340",
+            "HZ346",
+            "HZ348",
+            "HZ349",
+            "HZ359",
+            "HZ369",
+            "HZ440",
+            "HZ447",
+            "HZ448",
+            "HZ449",
+            "HZ540",
+            "HZ547",
+            "HZ548",
+            "HZ549",
+            "HZ640",
+            "HZ647",
+            "HZ740",
+            "HZ747",
+            "HZ840",
+            "HZ847",
+            "HZ940",
+            "HZ947",
+            "HZ948",
+            "HZ949"
+        ]
+    },
+    {
+        "code": "HZ346",
+        "name": "Política e Direito II",
+        "credits": 4,
+        "syllabus": "A disciplina tem o objetivo de introduzir o estudante de ciências sociais nos temas e debates no campo das relações entre política e direito. O curso tem uma parte fixa com o objetivo de introduzir os estudantes aos autores e temas fundamentais no campo, e uma parte variável, na qual diferentes temas serão tratados, com o objetivo de propiciar aos estudantes o conhecimento de temas, conceitos e técnicas de pesquisa atuais no campo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ347",
+        "name": "Pensamento Político: Debates Contemporâneos II",
+        "credits": 6,
+        "syllabus": "O objetivo do curso é apresentar tendências contemporâneas do pensamento político e debates teóricos que marcaram o campo da ciência política nas últimas décadas.",
+        "reqs": [
+            [
+                {
+                    "code": "HZ141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ348",
+        "name": "Teorias da Ação Coletiva e Movimentos Sociais",
+        "credits": 4,
+        "syllabus": "Paradigmas de análise sobre ação coletiva e movimentos sociais nos Estados Unidos e Europa e seus desdobramentos mais recentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ349",
+        "name": "Políticas Públicas Educacionais",
+        "credits": 6,
+        "syllabus": "Disciplina voltada para a formação didático-pedagógica com ênfase no conhecimento de conceitos e noções basilares sobre políticas públicas educacionais; trajetória das políticas educacionais no Brasil e a questão do financiamento; sistemas de ensino, diretrizes curriculares e dimensão federativa; políticas específicas em cada nível de ensino; ensino público e ensino privado; escola, gestão e projeto político-pedagógico como níveis operacionais e espaços de produção de políticas públicas educacionais. Pretende-se estabelecer a conexão entre teoria e prática, e entre conhecimentos específicos e pedagógicos, com contextualização social da prática educacional e enfatizando as relações entre educação, diferenças, diversidade e desigualdade, com foco em práticas pedagógicas e políticas educacionais que promovam igualdade e inclusão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                },
+                {
+                    "code": "HZ358"
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ352",
+        "name": "Metodologia e Técnica de Pesquisa",
+        "credits": 8,
+        "syllabus": "A construção dos problemas sociológicos e as diferentes vertentes teórico-metodológicos da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ103",
+            "HZ658",
+            "HZ659"
+        ]
+    },
+    {
+        "code": "HZ353",
+        "name": "Tópicos Especiais em Sociologia XVIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ354",
+        "name": "Tópicos Especiais em Sociologia III",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ356",
+        "name": "Tópicos Especiais em Sociologia XIX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ357",
+        "name": "Tópicos Especiais em Sociologia XX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ358",
+        "name": "Sociologia de Weber",
+        "credits": 5,
+        "syllabus": "O curso sobre o pensamento de Weber aborda alguns aspectos da obra desse autor mais diretamente relacionados à tradição do pensamento sociológico. Os temas abordados são ideologias, onde se discutem a concepção weberiana de \"espírito de capitalismo\", fundamentos de teoria social, política e metodológica. Pretende-se também utilizar textos de cientistas sociais brasileiros que utilizam categorias de Weber na análise de nossa sociedade. Indicação e desenvolvimento de conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqBy": [
+            "HZ051",
+            "HZ052",
+            "HZ053",
+            "HZ054",
+            "HZ055",
+            "HZ056",
+            "HZ057",
+            "HZ058",
+            "HZ059",
+            "HZ153",
+            "HZ154",
+            "HZ155",
+            "HZ156",
+            "HZ157",
+            "HZ159",
+            "HZ254",
+            "HZ256",
+            "HZ257",
+            "HZ259",
+            "HZ339",
+            "HZ349",
+            "HZ352",
+            "HZ353",
+            "HZ354",
+            "HZ356",
+            "HZ357",
+            "HZ359",
+            "HZ369",
+            "HZ452",
+            "HZ454",
+            "HZ554",
+            "HZ555",
+            "HZ558",
+            "HZ559",
+            "HZ652",
+            "HZ654",
+            "HZ655",
+            "HZ657",
+            "HZ751",
+            "HZ752",
+            "HZ754",
+            "HZ756",
+            "HZ757",
+            "HZ758",
+            "HZ851",
+            "HZ854",
+            "HZ855",
+            "HZ857",
+            "HZ858",
+            "HZ955",
+            "HZ956"
+        ]
+    },
+    {
+        "code": "HZ359",
+        "name": "Educação e Sociedade",
+        "credits": 8,
+        "syllabus": "A educação como objeto de análise e investigação da Sociologia a partir da contribuição de autores clássicos e contemporâneos no que se refere às relações entre educação e sociedade e uma sociologia da educação. Estudo das interpretações relativas à escola, aos sistemas de ensino e aos diferentes processos educacionais existentes na sociedade. A pesquisa sociológica sobre educação no Brasil e em outros contextos escolares. Pretende-se estabelecer a conexão entre teoria e prática, e entre conhecimentos específicos e pedagógicos, com contextualização social da prática educacional e enfatizando as relações entre educação, diferenças, diversidade e desigualdade, com foco nos aspectos sociológicos dos fenômenos da igualdade e da inclusão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                },
+                {
+                    "code": "HZ358"
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ360",
+        "name": "Antropologia III: Teorias e Experimentações Etnográficas",
+        "credits": 5,
+        "syllabus": "O objetivo desta disciplina é permitir aos alunos compreender a antropologia a partir da prática etnográfica. Trata-se de disponibilizar aos alunos a leitura de etnografias antropológicas recuperando o arco de discussões sobre o fazer etnográfico. Serão ainda indicados e desenvolvidos conteúdos a serem trabalhados pelo futuro docente no ensino de Sociologia no ensino médio, bem como o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "HZ260"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ060",
+            "HZ061",
+            "HZ062",
+            "HZ063",
+            "HZ065",
+            "HZ066",
+            "HZ067",
+            "HZ068",
+            "HZ069",
+            "HZ163",
+            "HZ164",
+            "HZ165",
+            "HZ166",
+            "HZ167",
+            "HZ168",
+            "HZ169",
+            "HZ264",
+            "HZ265",
+            "HZ266",
+            "HZ267",
+            "HZ268",
+            "HZ269",
+            "HZ339",
+            "HZ349",
+            "HZ359",
+            "HZ364",
+            "HZ365",
+            "HZ366",
+            "HZ369",
+            "HZ460",
+            "HZ464",
+            "HZ465",
+            "HZ466",
+            "HZ467",
+            "HZ469",
+            "HZ562",
+            "HZ564",
+            "HZ565",
+            "HZ664",
+            "HZ665",
+            "HZ667",
+            "HZ669",
+            "HZ764",
+            "HZ864",
+            "HZ866",
+            "HZ962",
+            "HZ963",
+            "HZ964",
+            "HZ966",
+            "HZ967",
+            "HZ968",
+            "HZ969"
+        ]
+    },
+    {
+        "code": "HZ364",
+        "name": "Tópicos Especiais em Antropologia III",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ365",
+        "name": "Antropologia da Religião",
+        "credits": 4,
+        "syllabus": "O estudo da diversidade dos sistemas e experiências religiosas em diferentes tipos de sociedades, incluída aí a atualidade das nossas próprias culturas. O curso envolve também a leitura crítica de Teorias Antropológicas da Religião e o seu diálogo com teorias de Ciências Afins.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ366",
+        "name": "Modos de Conhecimento e suas Expressões",
+        "credits": 4,
+        "syllabus": "Esta disciplina tem como objetivo aprofundar discussões e estimular pesquisa e invenção conceitual e metodológica sobre os modos de percepção, de compreensão e simbolização do mundo e da vida. Quanto às expressões, serão exploradas, particularmente, mas não unicamente, as expressões narrativas, música, imagens e objetos, e suas relações com a experiência. Biografias, etnografias, coleções e acervos deverão ser explorados nestas discussões em sua parte mais experimental, na forma de um atelier de pesquisa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ369",
+        "name": "Ensino de Antropologia: Temas e Conceitos Fundamentais",
+        "credits": 8,
+        "syllabus": "Disciplina voltada para a formação didático-pedagógica em Antropologia, abrangendo conteúdos que serão objeto do ensino do futuro docente. Estes incluem um conjunto de temas e conceitos fundamentais. Os temas indicados são: história e cultura afro-brasileira, indígena e africana; educação ambiental; problemas sociais contemporâneos; modos de conhecimento e relações de ensino-aprendizagem. E, os conceitos: cultura, alteridade, raça, gênero e desigualdade. O objetivo é capacitar os alunos no manejo da sala de aula a partir da seleção e avaliação de materiais e métodos para o ensino da Antropologia, estabelecendo a conexão entre teoria e prática, e entre conhecimentos específicos e pedagógicos, com contextualização social da prática educacional e enfatizando as relações entre educação, diferenças, diversidade e desigualdade, com foco em práticas pedagógicas e políticas educacionais que promovam igualdade e inclusão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                },
+                {
+                    "code": "HZ358"
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ379",
+        "name": "Oficinas de Leitura e Escrita em Humanidades",
+        "credits": 4,
+        "syllabus": "Leitura, interpretação e discussão de textos fundamentais para a teoria social e humanidades. Contextualização histórica dos textos e autores em discussão. Escrita de conteúdos dissertativos (resenhas, sínteses, artigos científicos). Práticas de leitura e organização de oficinas de escrita para o ensino médio."
+    },
+    {
+        "code": "HZ431",
+        "name": "Metodologia e Técnicas de Pesquisa I",
+        "credits": 8,
+        "syllabus": "Inserir os estudantes de Ciências Sociais no exercício da pesquisa científica, focalizando aspectos relacionados às dimensões teórico-metodológicas, às etapas básicas da pesquisa e da elaboração de projeto de pesquisa, bem como o delineamento e procedimentos para a reconstrução da realidade social. Promover o desenvolvimento de habilidades linguísticas referentes ao ensino da Sociologia no ensino médio, com leitura, produção e utilização de diferentes gêneros de textos e práticas de registro e comunicação. Estímulo e orientação para o uso de Tecnologias de Informação e Comunicação (TICs) como recurso pedagógico e para o desenvolvimento pessoal e profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "HZ141"
+                },
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ160"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ631"
+        ]
+    },
+    {
+        "code": "HZ440",
+        "name": "Trabalho e Sindicalismo",
+        "credits": 4,
+        "syllabus": "O conceito de trabalho. Transformações nas relações de trabalho. Formas de organização e representação de interesses dos trabalhadores. Formas de ação sindical. Desafios do sindicalismo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ442",
+        "name": "Estado e Desenvolvimento I",
+        "credits": 4,
+        "syllabus": "Estado e sistema político. O Estado imperial. A queda do regime liberal. O Estado republicano e o sistema político oligárquico. A crise oligárquica: a revolução de 30.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ444",
+        "name": "Tópicos Especiais de Ciência Política IV",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ445",
+        "name": "Teoria dos Partidos e Sistemas Partidários",
+        "credits": 6,
+        "syllabus": "Esse curso percorre, na sua primeira parte, os três mais importantes enfoques teóricos sobre partidos políticos - o marxista, o organizacional e institucional. Na segunda parte, trata de sistemas partidários, dando enfoque ao funcionamento dos partidos em sistemas competitivos e não competitivos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ447",
+        "name": "Política IV - Tradições do Pensamento Político",
+        "credits": 5,
+        "syllabus": "A disciplina trata de quatro tradições do pensamento político moderno e contemporâneo: o absolutismo monárquico, o liberalismo, o republicanismo e o socialismo. A disciplina visa propiciar tanto a formação nos autores fundamentais do pensamento político moderno, quanto a introdução aos debates atuais em teoria política, possibilitando aos estudantes uma iniciação à pesquisa nessa área.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ448",
+        "name": "Teorias da Ação Coletiva e Movimentos Sociais II",
+        "credits": 4,
+        "syllabus": "Paradigmas de análise sobre ação coletiva e movimentos sociais nos Estados Unidos e Europa e seus desdobramentos mais recentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ449",
+        "name": "Partidos Políticos II",
+        "credits": 4,
+        "syllabus": "Esse curso percorre, na sua primeira parte, os três mais importantes enfoques teóricos sobre partidos políticos - o marxista, o organizacional e institucional. Na segunda parte, trata de sistemas partidários, dando enfoque ao funcionamento dos partidos em sistemas competitivos e não competitivos",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ452",
+        "name": "Sociologia do Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Do primário exportador à substituição de importações. Estagnação e tentativas de superação. Desenvolvimento econômico e distribuição de renda. Teoria da modernização. Marginalidade social. Teoria da dependência. O modelo histórico latino-americano. A etapa recente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ454",
+        "name": "Tópicos Especiais em Sociologia IV",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ460",
+        "name": "Pesquisa Antropológica",
+        "credits": 8,
+        "syllabus": "O curso tem como objetivo fornecer instrumentos teóricos e práticos sobre a pesquisa de campo. Técnicas de pesquisas, observação participante, entrevistas, histórias de vida, o uso dos microcomputadores, as diferentes perspectivas de interpretacão antropológica, as relações entre sujeito e objeto de pesquisa. A bibliografia incluirá textos clássicos sobre pesquisa de campo e textos contemporâneos que fazem uma leitura crítica de seus objetivos e resultados. O curso contemplará a possibilidade de realização de uma experiência de pesquisa de campo e a elaboração de um breve projeto de pesquisa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ464",
+        "name": "Tópicos Especiais em Antropologia IV",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ465",
+        "name": "Antropologia no Brasil",
+        "credits": 6,
+        "syllabus": "Curso que visa familiarizar os estudantes com as tradições da disciplina no Brasil, no contexto mais amplo da história da antropologia. A bibliografia incluirá análises dos aspectos institucionais - museus, centros e faculdades onde os antropólogos desenvolveram seus trabalhos de pesquisa e ensino metodológicos e teóricos dessa história.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ466",
+        "name": "Mito e Ritual",
+        "credits": 6,
+        "syllabus": "Curso que aborda as principais vertentes teóricas, racionalistas e não racionalistas, na análise antropológica do mito e do rito.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ467",
+        "name": "Antropologia e Estudos de Parentesco",
+        "credits": 6,
+        "syllabus": "A emergência dos estudos de parentesco na disciplina antropológica. A teoria dos grupos de unifiliação e a teoria da aliança de casamento. Questões clássicas e recentes, modelos e métodos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ469",
+        "name": "Antropologia IV - Antropologia Contemporânea",
+        "credits": 5,
+        "syllabus": "A disciplina explora as perspectivas antropológicas diante dos desafios colocados pelo mundo contemporâneo, sublinhando as redefinições conceituais e as reflexões atuais sobre a prática etnográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ540",
+        "name": "Políticas Públicas",
+        "credits": 4,
+        "syllabus": "Introduzir a temática das políticas públicas com base nas experiências contemporâneas do Estado de Bem-Estar Social. Examinar as principais abordagens com relação à formulação, implementação, legitimação e avaliação das políticas públicas. Analisar o papel das políticas públicas em relação ao processo de formação da cidadania democrática e os desafios da gestão participativa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ542",
+        "name": "Estado e Desenvolvimento II",
+        "credits": 4,
+        "syllabus": "O eixo será a identificação das formas políticas e dos seus processos de conservação e transformação correspondentes à fase de industrialização no Brasil de 1930 a 1964 e no pós-64. Economia e sociedade. O Estado de base populista. Desenvolvimentismo e o populismo. O colapso do populismo. 1964 e as novas formas de Estado e regime no Brasil. A crise do regime autoritário.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ544",
+        "name": "Tópicos Especiais de Ciência Política V",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ545",
+        "name": "Teoria das Elites",
+        "credits": 4,
+        "syllabus": "A emergência de uma teoria das elites; a reincorporação parcial da teoria das elites pela corrente neoliberal; a reincorporação crítica (de esquerda) do conceito de elite pelas correntes anglo-saxãs radical e marxista. Conclusão: reflexão sobre o caráter eventualmente complementar ou contraditório do conceito de elite e seus pressupostos teóricos fundamentais, com relação às teorias do estado burocrático moderno (Weber) e do burocrático-capitalista (Poulantzas).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ546",
+        "name": "Política V - Teoria e Pesquisa em Ciência Política",
+        "credits": 6,
+        "syllabus": "Este curso tem como supostos os desdobramentos da relação entre teoria e pesquisa, a afirmação de que teoria e empiria não são dissociadas, e a idéia de que a escolha teórica está associada à escolha de métodos para compreensão do objetivo de estudo selecionado. Apresentação de abordagens da Ciência Política, por exemplo: correntes do institucionalismo, escolha racional, marxismo, pluralismo, cultura política, etc. Apresentação de métodos associados à pesquisa qualitativa e quantitativa, coleta de dados, processamento e análise.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ547",
+        "name": "Democracia e Cidadania II",
+        "credits": 4,
+        "syllabus": "Paradigmas de análise sobre ação coletiva e movimentos sociais nos Estados Unidos e Europa e seus desdobramentos mais recentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ548",
+        "name": "Trabalho e Sindicalismo II",
+        "credits": 4,
+        "syllabus": "O conceito de trabalho. Transformações nas relações de trabalho. Formas de organização e representação de interesses dos trabalhadores. Formas de ação sindical. Desafios do sindicalismo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ549",
+        "name": "Políticas Públicas II",
+        "credits": 4,
+        "syllabus": "Introduzir a temática das políticas públicas com base nas experiências contemporâneas do Estado de Bem-Estar Social. Examinar as principais abordagens com relação à formulação, implementação, legitimação e avaliação das políticas públicas. Analisar o papel das políticas públicas em relação ao processo de formação da cidadania democrática e os desafios da gestão participativa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ554",
+        "name": "Tópicos Especiais em Sociologia V",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ555",
+        "name": "Pensamento Social do Brasil",
+        "credits": 5,
+        "syllabus": "Debates de diferentes abordagens analíticas para a sistematização e institucionalização da Sociologia no Brasil. As articulações entre intelectuais, ideias, política e vida cultural para investigação dos processos sociais e históricos de constituição da sociedade e do Estado no país, em particular entre o século XIX e meados do século XX.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ558",
+        "name": "Sociedade e pensamento social na América Latina",
+        "credits": 4,
+        "syllabus": "Processo histórico de formação das sociedades latino-americanas. Gênese e transformação da nação. Estado e economia. Lutas sociais e a relação entre intelectuais, cultura e política. Mapeamento das análises clássicas e contemporâneas sobre o passado e o presente da região, em especial sobre os processos de modernização (econômica, social, política e cultural) e de constituição das identidades nacionais, no contexto da relação entre centro e periferia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ559",
+        "name": "Sociologia da Ciência",
+        "credits": 4,
+        "syllabus": "Investigação sociológica da produção de conhecimento como atividade humana em sociedade, ligada tanto a sistemas de representação quanto a práticas concretas. Práticas de conhecimento tradicionais e informais até aquelas mais diretamente ligadas ao campo das ciências modernas, no qual a relação entre ciências naturais e sociais tem especial relevância. Implicações políticas, econômicas e culturais das diferentes práticas de conhecimento. Diferentes perspectivas teóricas e metodológicas para a investigação sociológica da produção de conhecimento devem ser abordadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ562",
+        "name": "Antropologia Econômica",
+        "credits": 4,
+        "syllabus": "O curso deve introduzir o objeto da definição da Antropologia Econômica, seus programas de pesquisa, seus temas, seus métodos e suas aplicações. Abordará a comparação entre sistemas econômicos e aspectos da economia informal moderna.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ564",
+        "name": "Tópicos Especiais em Antropologia V",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ565",
+        "name": "Antropologia Urbana",
+        "credits": 4,
+        "syllabus": "Esta disciplina visa analisar a formação de uma tradição de estudos sobre \"fenômenos urbanos\" nas ciências sociais e, em particular, na antropologia, a partir das experiências sociais da modernidade. A dicotomia rural/urbano. De uma ciência social do urbano aos estudos sociológicos nas cidades.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ631",
+        "name": "Estatística para Ciências Sociais",
+        "credits": 4,
+        "syllabus": "Introduzir conceitos e técnicas básicas da estatística como instrumentos para o desenvolvimento de pesquisas em ciências sociais. Da definição das questões da pesquisa ao levantamento dos dados. Fontes de dados secundárias e fontes primárias. Tratamento e organização das informações. Distribuição de frequência. Medidas de tendência e de variabilidade. Representação gráfica e tabular. Princípios da amostragem nas ciências sociais. Introdução à probabilidade e suas principais distribuições. Medidas de correlação e associação. Estímulo e orientação para o uso de Tecnologias de Informação e Comunicação (TICs) como recurso pedagógico e para o desenvolvimento pessoal e profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ431"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ133",
+            "HZ134"
+        ]
+    },
+    {
+        "code": "HZ640",
+        "name": "Pensamento Político Brasileiro",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo das principais linhagens do pensamento político no Brasil nos séculos XIX e XX, como: o liberalismo, o conservadorismo, o autoritarismo, o marxismo, o desenvolvimentismo, o nacionalismo etc. A disciplina procura articular a análise de obras clássicas e seu impacto na compreensão dos períodos críticos da formação do estado no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ642",
+        "name": "Partidos Políticos no Brasil",
+        "credits": 4,
+        "syllabus": "O sistema político no Império. República: Estado e sistema político; processo político-partidário; partidos e regionalismo. 1930-1945: a Revolução de 30 e os partidos; A.L.N.; Integralismo. 1945-1964: populismo; o sistema partidário. O pós 1964: Estado autoritário e sistema político; bipartidarismo e reorganização partidária.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ644",
+        "name": "Tópicos Especiais de Ciência Política VI",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ646",
+        "name": "A América Latina e o Sistema Internacional",
+        "credits": 4,
+        "syllabus": "Análise comparada das políticas exteriores dos países latino-americanos e do papel exercido pelo continente no sistema internacional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ647",
+        "name": "Pensamento Político Brasileiro II",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo das principais linhagens do pensamento político no Brasil nos séculos XIX e XX, como: o liberalismo, o conservadorismo, o autoritarismo, o marxismo, o desenvolvimentismo, o nacionalismo etc. A disciplina procura articular a análise de obras clássicas e seu impacto na compreensão dos períodos críticos da formação do estado no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ652",
+        "name": "Sociologia Urbana",
+        "credits": 4,
+        "syllabus": "Urbanização como processo. Organização da cidade; crescimento demográfico; migrações. A urbanização em países dependentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ654",
+        "name": "Tópicos Especiais em Sociologia VI",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ655",
+        "name": "Pensamento Social no Brasil II",
+        "credits": 4,
+        "syllabus": "Debater o Brasil, teórica e empiricamente, a partir do enfrentamento de processos sociais recentes e contemporâneos da história política e cultural nacional (de meados do século XX em diante).Discutir a recorrência de alguns temas e problemas, bem como a investigação de novos dilemas  e novos sujeitos sociais colocados para pensar a articulação entre ideias, intelectuais, política e vida cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ657",
+        "name": "Sociologia Contemporânea I",
+        "credits": 5,
+        "syllabus": "Análise e a reflexão de temas centrais da sociologia contemporânea. Os problemas sociológicos legados pelos clássicos. As novas questões advindas do cenário teórico e social contemporâneo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ658",
+        "name": "Técnicas de Investigação Empírica II",
+        "credits": 4,
+        "syllabus": "Aprofundar-se no conhecimento das técnicas de análise quantitativa às Ciências Sociais, destacando-se técnicas estatísticas multivariadas, manipulação de arquivos e acervos, geoprocessamento de informação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ352"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ659",
+        "name": "Técnicas de Investigação Empírica III",
+        "credits": 4,
+        "syllabus": "Aprofundar-se no conhecimento de métodos e técnicas de levantamento de dados nas Ciências Sociais, destacando-se surveys, pesquisas qualitativas, observação participante e grupos focais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ352"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ664",
+        "name": "Tópicos Especiais em Antropologia VI",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ665",
+        "name": "Etnologia",
+        "credits": 4,
+        "syllabus": "Esta disciplina abordará a construção de um repertório de temas clássicos de estudo, assim como as principais temáticas e debates atuais em etnologia, enfocando, principalmente, as sociedades indígenas. Tópicos sugeridos: estrutura social e parentesco, cosmologia e mitologia, corpo e noção de pessoa, identidades e etnogênese, etnopolítica e transformações contemporâneas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ667",
+        "name": "Mídia, Cultura e História",
+        "credits": 4,
+        "syllabus": "Este curso tem como objetivo introduzir os alunos ao estudo antropológico da cultura e da mídia na sociedade brasileira contemporânea. Ênfase especial será dada tanto às questões relacionadas à visualização da antropologia (especialmente à dimensão imagética da pesquisa etnográfica) quanto à emergente \"antropologia do visual\".",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ669",
+        "name": "Etnologia Sul Americana",
+        "credits": 4,
+        "syllabus": "Curso que apresenta uma visão geral e introdutória das sociedades indígenas nas terras baixas sul-americanas. Em perspectiva comparativa, aborda áreas etnográficas com ênfase para estrutura social, bem como os debates teóricos que suscitam no campo americanista.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ700",
+        "name": "Monografia em Ciências Sociais",
+        "credits": 16,
+        "syllabus": "Elaboração de projeto de pesquisa; desenvolvimento da mesma, redação e defesa da monografia. Obs.: Recomenda-se que o aluno tenha feito iniciação científica ou esteja adiantado em pesquisas no tema proposto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ701",
+        "name": "Monografia em Ciências Sociais I",
+        "credits": 4,
+        "syllabus": "Elaboração de projeto de pesquisa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ702"
+        ]
+    },
+    {
+        "code": "HZ702",
+        "name": "Monografia em Ciências Sociais II",
+        "credits": 12,
+        "syllabus": "Desenvolvimento da pesquisa, redação e defesa da monografia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "HZ701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ703",
+        "name": "Iniciação Científica em Ciências Sociais I",
+        "credits": 2,
+        "syllabus": "Introdução à pesquisa científica sob a orientação de um docente com o objetivo de introduzir o discente na prática da pesquisa científica no âmbito das ciências sociais. É preciso autorização de um docente responsável e a apresentação de um projeto de pesquisa que virá a ser desenvolvido; ao final da disciplina se faz necessária a apresentação de um relatório ao docente responsável e à coordenação de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ141"
+                },
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ160"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ704"
+        ]
+    },
+    {
+        "code": "HZ704",
+        "name": "Iniciação Científica em Ciências Sociais II",
+        "credits": 2,
+        "syllabus": "Pesquisa científica sob a orientação de um docente com o objetivo de introduzir o discente na prática da pesquisa científica no âmbito das ciências sociais em continuidade à introdução prévia feita em HZ703 - Iniciação Científica em Ciências Sociais I. É preciso autorização de um docente responsável e ao final da disciplina se faz necessária a apresentação de um relatório e à coordenação de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ703"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ705"
+        ]
+    },
+    {
+        "code": "HZ705",
+        "name": "Iniciação Científica em Ciências Sociais III",
+        "credits": 2,
+        "syllabus": "Pesquisa científica sob a orientação de um docente com o objetivo de aprimorar o discente na prática da pesquisa científica no âmbito das ciências sociais em continuidade à disciplina HZ704 - Iniciação Científica em Ciências Sociais II. É preciso autorização de um docente responsável e ao final da disciplina se faz necessária a apresentação de um relatório e à coordenação de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ704"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ706"
+        ]
+    },
+    {
+        "code": "HZ706",
+        "name": "Iniciação Científica em Ciências Sociais IV",
+        "credits": 2,
+        "syllabus": "Pesquisa científica sob a orientação de um docente com o objetivo de aprimorar o discente na prática da pesquisa científica no âmbito das ciências sociais em continuidade à disciplina HZ705 - Iniciação Científica em Ciências Sociais III. É preciso autorização de um docente responsável e ao final da disciplina se faz necessária a apresentação de um relatório e à coordenação de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ705"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ740",
+        "name": "Regimes e Sistemas Políticos Comparados",
+        "credits": 4,
+        "syllabus": "A disciplina tem como objetivo desenvolver conceitos e reflexões necessários à compreensão do processo de construção dos estados modernos. Para isto enfatizará, de uma perspectiva histórica e teórica, a relação entre o desenvolvimento dos sistemas políticos contemporâneos e os principais tipos de regime político. Nesta perspectiva comparada, ênfase especial será atribuída ao sistema político brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ741",
+        "name": "Regimes Políticos",
+        "credits": 4,
+        "syllabus": "Este curso trata do funcionamento de regimes democráticos, autoritários e totalitários, tendo como pano de fundo as concepções teóricas básicas de democracia e ditadura no século XX.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ742",
+        "name": "Movimentos Sociais e Participação Política no Brasil",
+        "credits": 4,
+        "syllabus": "Análise das condições do surgimento, evolução e dinâmica dos movimentos sociais urbanos no período republicano, e de sua articulação com o sistema político nacional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ744",
+        "name": "Tópicos Especiais de Ciência Política VII",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ745",
+        "name": "Ideologia, Política e Sociedade",
+        "credits": 4,
+        "syllabus": "Ideologias e classes sociais. Ideologia e conflitos sociais. Poder de Estado, hegemonia e ideologia. Ideologia e Regimes Políticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ746",
+        "name": "Teoria do Estado de Bem-Estar Social",
+        "credits": 4,
+        "syllabus": "Análise das origens, expansão e crise do \"Estado de Bem-Estar Social\", a partir de diferentes enfoques teóricos e/ou casos nacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ747",
+        "name": "Regimes e Sistemas Políticos Comparados II",
+        "credits": 4,
+        "syllabus": "A disciplina tem como objetivo desenvolver conceitos e reflexões necessários à compreensão do processo de construção dos estados modernos. Para isto enfatizará, de uma perspectiva histórica e teórica, a relação entre o desenvolvimento dos sistemas políticos contemporâneos e os principais tipos de regime político. Nesta perspectiva comparada, ênfase especial será atribuída ao sistema político brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ751",
+        "name": "Sociologia do Meio Ambiente",
+        "credits": 4,
+        "syllabus": "As questões ambientais globais como problemas relacionados com a alta modernidade, tanto no que diz as mudanças tecnológicas, econômicas, políticas e científicas alcançadas desde o século XIX. A problemática ambiental vista a partir da interface com a sociologia contemporânea, a sociologia das mudanças climáticas e a sociologia do conhecimento científico",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ752",
+        "name": "Sociologia Rural",
+        "credits": 4,
+        "syllabus": "Contribuições clássicas ao estudo da questão agrária. Formas, processos e contradições do desenvolvimento do capitalismo no campo (ou das sociedades agrárias). Questão agrária no Brasil: evolução histórica e transformações das relações sociais. Contradições e formas de lutas sociais no campo brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ754",
+        "name": "Tópicos Especiais em Sociologia VII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ756",
+        "name": "Estudos de População",
+        "credits": 4,
+        "syllabus": "Perspectivas teórico-metodológicas de questões populacionais tais como: os novos padrões de fecundidade, mortalidade, migrações e as alterações na composição populacional, o processo de envelhecimento, as transformações do mercado de trabalho e a situação da mulher, as mudanças nas famílias e unidades domésticas. Com uma abordagem sociodemográfica, o curso enfatiza as dimensões macro e micro sociais das análises nos estudos de população.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ757",
+        "name": "Sociologia Contemporânea II",
+        "credits": 4,
+        "syllabus": "Questões centrais da sociologia contemporânea, levando em conta a pluralidade, diversidade e contribuições significativas das teorias. Originalidades, transformações, consensos e dissensos, já consolidados e/ou emergentes no campo da sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ758",
+        "name": "Pensamento Social do Brasil III",
+        "credits": 4,
+        "syllabus": "Conflitos atualizados na história política republicana brasileira. Direitos, cidadania, terra, educação, raça e mestiçagem. Novos sujeitos sociais na luta pela redemocratização: novas agendas e problemas. A comparação com outros contextos nacionais como problema para o Pensamento Social no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ764",
+        "name": "Tópicos Especiais em Antropologia VII",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ770",
+        "name": "Projetos em Teoria Sociológica Clássica e Contemporânea",
+        "credits": 4,
+        "syllabus": "Planejamento, condução, análise, e interpretação de trabalhos voltados para os estudos sobre Sociologia Clássica e a produção sociológica contemporânea. As discussões acontecem em nível da preparação de trabalhos num ambiente de formação teórica e conceitual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ771",
+        "name": "Reunião Científica I",
+        "credits": 4,
+        "syllabus": "Série de atividades ofertadas na forma de encontros, seminários, palestras, colóquios, oficinas e grupos de estudo nas quais serão abordados temas oriundos da produção acadêmico-científica dos programas pertencentes às linhas de pesquisa do departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ772",
+        "name": "Reunião Científica II",
+        "credits": 4,
+        "syllabus": "Série de atividades ofertadas na forma de encontros, seminários, palestras, colóquios, oficinas e grupos de estudo nas quais serão abordados temas oriundos da produção acadêmico-científica dos programas pertencentes às linhas de pesquisa do departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ773",
+        "name": "Reunião Científica III",
+        "credits": 4,
+        "syllabus": "Série de atividades ofertadas na forma de encontros, seminários, palestras, colóquios, oficinas e grupos de estudo nas quais serão abordados temas oriundos da produção acadêmico-científica dos programas pertencentes às linhas de pesquisa do departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ774",
+        "name": "Reunião Científica IV",
+        "credits": 4,
+        "syllabus": "Série de atividades ofertadas na forma de encontros, seminários, palestras, colóquios, oficinas e grupos de estudo nas quais serão abordados temas oriundos da produção acadêmico-científica dos programas pertencentes às linhas de pesquisa do departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ775",
+        "name": "Programas de Formação em Cultura, Trabalho e Sociedade I",
+        "credits": 4,
+        "syllabus": "Esta disciplina tem por base o debate acerca dos aspectos socioeconômicos e culturais vinculados ao cotidiano da comunidade acadêmica e seu desenvolvimento está associado à programação de palestras pela Comissão de Graduação do curso e pelo Centro Acadêmico de Ciências Humanas. Compreende também visitas monitoradas a instituições culturais, participação em eventos culturais da universidade e debates de temas gerais relacionados ao ensino e à pesquisa nos diferentes campos das Ciências Sociais, com a participação de acadêmicos de institutos isolados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ776",
+        "name": "Programas de Formação em Cultura, Trabalho e Sociedade II",
+        "credits": 4,
+        "syllabus": "Esta disciplina tem por base o debate acerca dos aspectos socioeconômicos e culturais vinculados ao cotidiano da comunidade acadêmica e seu desenvolvimento está associado à programação de palestras pela Comissão de Graduação do curso e pelo Centro Acadêmico de Ciências Humanas. Compreende também visitas monitoradas a instituições culturais, participação em eventos culturais da universidade e debates de temas gerais relacionados ao ensino e à pesquisa nos diferentes campos das Ciências Sociais, com a participação de acadêmicos de institutos isolados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ777",
+        "name": "Programas de Formação em Cultura, Trabalho e Sociedade III",
+        "credits": 4,
+        "syllabus": "Esta disciplina tem por base o debate acerca dos aspectos socioeconômicos e culturais vinculados ao cotidiano da comunidade acadêmica e seu desenvolvimento está associado à programação de palestras pela Comissão de Graduação do curso e pelo Centro Acadêmico de Ciências Humanas. Compreende também visitas monitoradas e instituições culturais, participação em eventos culturais da universidade e debates de temas gerais relacionados ao ensino e à pesquisa nos diferentes campos das Ciências Sociais, com a participação de acadêmicos de institutos isolados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ778",
+        "name": "Programas de Formação em Cultura, Trabalho e Sociedade IV",
+        "credits": 4,
+        "syllabus": "Esta disciplina tem por base o debate acerca dos aspectos socioeconômicos e culturais vinculados ao cotidiano da comunidade acadêmica e seu desenvolvimento está associado à programação de palestras pela Comissão de Graduação do curso e pelo Centro Acadêmico de Ciências Humanas. Compreende também visitas monitoradas a instituições culturais, participação em eventos culturais da universidade e debates de temas gerais relacionados ao ensino e à pesquisa nos diferentes campos das Ciências Sociais, com a participação de acadêmicos de institutos isolados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ780",
+        "name": "Laboratório de Iniciação Científica",
+        "credits": 4,
+        "syllabus": "O laboratório será organizado em torno de projetos de iniciação científica em andamento, com ênfase nos aspectos metodológicos e destaque às técnicas de pesquisa de campo, quando aplicável. Estes seminários organizam-se em torno da discussão dos projetos de dissertação dos alunos de graduação, ênfase dada aos problemas mais gerais de corte teórico-epistemológico, enfrentados nas pesquisas individuais. O objetivo é a retomada dos trabalhos apresentados à seleção e analisá-los à luz das disciplinas já cursadas pelos alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ781",
+        "name": "Atividades Programadas em Ciência e Cultura I",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu conteúdo e programa definidos em função das atividades e pesquisas que se realizam no curso de Ciências Sociais, em especial aquelas vinculadas ao Departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ782",
+        "name": "Atividades Programadas em Ciência e Cultura II",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu conteúdo e programa definidos em função das atividades e pesquisas que se realizam no curso de Ciências Sociais, em especial aquelas vinculadas ao Departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ783",
+        "name": "Atividades Programadas em Ciência e Cultura III",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu conteúdo e programa definidos em função das atividades e pesquisas que se realizam no curso de Ciências Sociais, em especial aquelas vinculadas ao Departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ784",
+        "name": "Atividades Programadas em Ciência e Cultura IV",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu conteúdo e programa definidos em função das atividades e pesquisas que se realizam no curso de Ciências Sociais, em especial aquelas vinculadas ao Departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ791",
+        "name": "Atividades Científico-Culturais e de Ensino I",
+        "credits": 2,
+        "syllabus": "Participação como expositor, observador ou, ainda, organizador em atividades artísticas, culturais, de ensino ou científicas (produção cultural, mostra individual e coletiva em instituição especializada; visitas monitoradas a exposições e acervos e atividades de frequência a congressos, seminários e afins).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ792",
+        "name": "Atividades Científico-Culturais e de Ensino II",
+        "credits": 2,
+        "syllabus": "Participação como expositor, observador ou, ainda, organizador em atividades artísticas, culturais, de ensino ou científicas (produção cultural, mostra individual e coletiva em instituição especializada; visitas monitoradas a exposições e acervos e atividades de frequência a congressos, seminários e afins).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ793",
+        "name": "Atividades Científico-Culturais e de Ensino III",
+        "credits": 2,
+        "syllabus": "Participação como expositor, observador ou, ainda, organizador em atividades artísticas, culturaus, de ensino ou científicas (produção cultural, mostra individual e coletiva em instituição especializada; visitas monitoradas a exposições e acervos e atividades de frequência a congressos, seminários e afins).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ794",
+        "name": "Atividades Científico-Culturais e de Ensino IV",
+        "credits": 2,
+        "syllabus": "Participação como expositor, observador ou, ainda, organizador em atividades artísticas, culturais, de ensino ou científicas (produção cultural, mostra individual e coletiva em instituição especializada; visitas monitoradas a exposições e acervos e atividades de frequência a congressos, seminários e afins).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ795",
+        "name": "Atividades Científico-Culturais e de Ensino V",
+        "credits": 2,
+        "syllabus": "Participação como expositor, observador ou, ainda, organizador em atividades artísticas, culturais, de ensino ou científicas (produção cultural, mostra individual e coletiva em instituição especializada; visitas monitoradas a exposições e acervos e atividades de frequência a congressos, seminários e afins).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ796",
+        "name": "Atividades Científico-Culturais e de Ensino VI",
+        "credits": 2,
+        "syllabus": "Participação como expositor, observador ou, ainda, organizador em atividades artísticas, culturais, de ensino ou científicas (produção cultural, mostra individual e coletiva em instituição especializada; visitas monitoradas a exposições e acervos e atividades de frequência a congressos, seminários e afins).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ831",
+        "name": "Demografia e Antropologia",
+        "credits": 4,
+        "syllabus": "Introdução à problemática demográfica, explorando as possibilidades de diálogo e colaboração entre Demografia e Antropologia. Identificação das especificidades do \"olhar demográfico\" e do \"olhar antropológico\". Questões gerais da colaboração interdisciplinar e algumas de suas modalidades específicas. Noções básicas com que trabalha a Demografia e principais medidas demográficas, com o recurso a aulas práticas. Temas sujeitos a abordagem interdisciplinar e alguns estudos concretos já realizados."
+    },
+    {
+        "code": "HZ832",
+        "name": "Estudos de População",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem sócio-demográfica e dimensões macro e micro sociais nos estudos de população. Oferecer noções básicas nos estudos da composição, estrutura e dinâmica das populações humanas, focalizando conceitos, fontes de dados, técnicas e formas de mensuração básicas para o desenvolvimento dos estudos populacionais. Perspectivas teórico-metodológicas sobre: novos padrões de fecundidade, mortalidade, migrações e alterações na composição populacional, o processo de envelhecimento, transformações do mercado de trabalho e situação da mulher, mudanças nas famílias e unidades domésticas."
+    },
+    {
+        "code": "HZ833",
+        "name": "Estudos Urbanos",
+        "credits": 4,
+        "syllabus": "Esta disciplina visa introduzir o aluno no debate teórico e metodológico sobre a análise e compreensão do processo de urbanização, o crescimento das cidades e as características e consequências deste fenômeno. Serão apresentadas algumas linhas teóricas e autores representativos do pensamento sobre a questão urbana, com ênfase no caso brasileiro e em temas importantes com a metropolização, a relação entre o rural e urbano, a migração, segregação socioespacial, pobreza, vulnerabilidade etc. Também serão apresentadas formas de análise empírica dos fenômenos a partir do uso de dados existentes."
+    },
+    {
+        "code": "HZ840",
+        "name": "Estado e Reformas Econômicas no Capitalismo Contemporâneo",
+        "credits": 4,
+        "syllabus": "O papel do estado no capitalismo contemporâneo. Estado e classes sociais. Estado e relações internacionais. O debate sobre globalização e o declínio do Estado. As reformas econômicas neoliberais - com especial destaque para o Brasil. As mudanças na sociedade e na economia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ841",
+        "name": "Cultura e Política",
+        "credits": 4,
+        "syllabus": "O curso se propõe a discutir as relações entre cultura e política de uma perspectiva interdisciplinar que a Ciência Política, e também a Antropologia, têm encontrado no tratamento das questões relativas ao poder e à produção cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ842",
+        "name": "Teoria da Ideologia",
+        "credits": 4,
+        "syllabus": "Exame das principais contribuições da teoria da ideologia. A possibilidade da construção de uma teoria científica das ideologias. A relação entre as produções ideológicas e as práticas sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ844",
+        "name": "Tópicos Especiais de Ciência Política VIII",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ845",
+        "name": "Análise de Conjunturas Recentes",
+        "credits": 4,
+        "syllabus": "O curso objetiva introduzir os alunos nos processos de análise conjuntural de situações políticas e, ao mesmo tempo, discutir os traços essenciais da formação histórica e política recente do Brasil; essa discussão se dá tanto ao nível das determinações estruturais da formação social brasileira, quanto no da ação das forças políticas que, no limite das possibilidades materiais e institucionais de uma conjuntura, interferem no processo e permitem configurá-lo historicamente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ847",
+        "name": "Estado e Reformas Econômicas no Capitalismo Contemporâneo II",
+        "credits": 4,
+        "syllabus": "O papel do estado no capitalismo contemporâneo. Estado e classes sociais. Estado e relações internacionais. O debate sobre globalização e o declínio do Estado. As reformas econômicas neoliberais - com especial destaque para o Brasil. As mudanças na sociedade e na economia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ851",
+        "name": "Sociologia da Cultura",
+        "credits": 4,
+        "syllabus": "Temas clássicos e emergentes da sociologia da cultura. A complexidade da cultura a partir de suas implicações sociológicas. Produção de bens simbólicos. Relações entre consumidores e criadores. Formação e apogeu da cultura erudita; cultura de massa e indústria cultural; cultura popular e identidade nacional; cultura e contemporaneidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ854",
+        "name": "Tópicos Especiais em Sociologia VIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ855",
+        "name": "Sociedade e Educação",
+        "credits": 4,
+        "syllabus": "Análise da contribuição teórica de autores clássicos e contemporâneos que estudaram a relação Educação e Sociedade. Estudo do processo de institucionalização da Pesquisa Histórica, Sociológica e Antropológica sobre Educação no Brasil. Balanço crítico da produção nacional e internacional a partir de temas, questões, problemas de investigação e diferentes orientações teórico-metodológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ857",
+        "name": "Sociologia Contemporânea III",
+        "credits": 4,
+        "syllabus": "Contribuições originais surgidas no campo da teoria social.  Novas problematizações sociológicas e sua relação com o tempo histórico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ858",
+        "name": "Sociologia da Cultura II",
+        "credits": 4,
+        "syllabus": "A sociedade brasileira vista a partir da produção cultural. Cultura e formação nacional. Cultura e modernidade. Movimentos culturais e cultura e mercado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ859",
+        "name": "Sociologia da Cultura III",
+        "credits": 4,
+        "syllabus": "A sociedade brasileira vista a partir da produção cultural. Cultura e formação nacional. Cultura e modernidade. Movimentos culturais e cultura e mercado."
+    },
+    {
+        "code": "HZ861",
+        "name": "Leitura de Monografias Antropológicas",
+        "credits": 4,
+        "syllabus": "Leitura das monografias antropológicas (e suas reeleituras), em suas contextualizações na história da antropologia, atentando, nestas monografias, tanto ao conhecimento das sociedades etnografadas, quanto ao diálogo entre os antropólogos e os nativos e ao diálogo entre os antropólogos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ160"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ864",
+        "name": "Tópicos Especiais em Antropologia VIII",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ866",
+        "name": "Antropologia e os Grupos de Idade",
+        "credits": 4,
+        "syllabus": "Discussão antropológica sobre as categorias e os grupos de idade. Tendo como base contextos etnográficos distintos, o curso problematizará os estudos sobre grupos de idade nas sociedades urbanas contemporâneas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ935",
+        "name": "Leitura Dirigida em Demografia I",
+        "credits": 2,
+        "syllabus": "Realização de programa de leitura sobre tema escolhido na área de Demografia ou em áreas conexas. A leitura é dirigida por um professor do Departamento de Demografia. O Coordenador de Graduação em Ciências Sociais exigirá, no ato de matrícula, a carta de aceitação do professor e a apresentação, por escrito, do tema, da bibliografia e da forma de avaliação do programa de leitura a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ936"
+        ]
+    },
+    {
+        "code": "HZ936",
+        "name": "Leitura Dirigida em Demografia II",
+        "credits": 2,
+        "syllabus": "Realização de programa de leitura sobre tema escolhido na área de Demografia ou em áreas conexas. A leitura é dirigida por um professor do Departamento de Demografia. O Coordenador de Graduação em Ciências Sociais exigirá, no ato de matrícula, a carta de aceitação do professor e a apresentação, por escrito, do tema, da bibliografia e da forma de avaliação do programa de leitura a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ935"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ940",
+        "name": "Estado, Nação e Nacionalismo",
+        "credits": 6,
+        "syllabus": "A teoria do Estado burguês: o Estado no modo de produção capitalista. O Estado do capitalismo monopolista de Estado. O Estado dependente na era de capitalismo mundial. O Estado de transição.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ941",
+        "name": "Teoria da Ação Sindical",
+        "credits": 4,
+        "syllabus": "Sindicalismo e modo de produção capitalista. Sindicalismo e classes sociais. Ideologias sindicais. Sindicalismo, reforma e revolução.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ942",
+        "name": "Relações Internacionais",
+        "credits": 4,
+        "syllabus": "Introdução às relações internacionais. Noções básicas; algumas abordagens teóricas. Evolução do sistema internacional, do pós-guerra aos dias de hoje, com ênfase na América Latina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ943",
+        "name": "Relações Internacionais II",
+        "credits": 4,
+        "syllabus": "Introdução às relações internacionais. Noções básicas; algumas abordagens teóricas. Evolução do sistema internacional, do pós-guerra aos dias de hoje, com ênfase na América Latina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ944",
+        "name": "Tópicos Especiais de Ciência Política IX",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Política.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ945",
+        "name": "Leitura Dirigida em Ciência Política I",
+        "credits": 2,
+        "syllabus": "Realização de programa de leitura sobre tema escolhido na área de Ciência Política ou em áreas conexas. A leitura é dirigida por um professor do Departamento de Ciência Política. O Coordenador de Graduação em Ciências Sociais exigirá, no ato da matrícula, a carta de aceitação do professor e a apresentação, por escrito, do tema, da bibliografia e da forma de avaliação do programa de leitura a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ946",
+        "name": "Leitura Dirigida em Ciência Política II",
+        "credits": 2,
+        "syllabus": "Realização de programa de leitura sobre tema escolhido na área de Ciência Política ou em áreas conexas. A leitura é dirigida por um professor do Departamento de Ciência Política. O Coordenador de Graduação em Ciências Sociais exigirá, no ato da matrícula, a carta de aceitação do professor e a apresentação, por escrito, do tema, da bibliografia e da forma de avaliação do programa de leitura a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ947",
+        "name": "Estado, Nação e Nacionalismo II",
+        "credits": 6,
+        "syllabus": "A teoria do Estado burguês: o Estado no modo de produção capitalista. O Estado do capitalismo monopolista de Estado. O Estado dependente na era de capitalismo mundial. O Estado de transição.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ948",
+        "name": "Estudos Legislativos I",
+        "credits": 4,
+        "syllabus": "Essa matéria pretende oferecer um panorama sobre a área de Estudos Legislativos, dando ênfase para trabalhos que procuram conectar arena legislativa e arena eleitoral e tiveram grande impacto no campo no debate internacional e nacional sobre estudos legislativos. Serão abordados 4 grandes temas, a saber: os modelos de ação parlamentar, teorias distributivistas, informacional e partidária; o papel da centralização institucional no comportamento dos legisladores (segredo eficiente); a controvérsia sobre o papel dos partidos políticos na condução dos trabalhos legislativos; e a formação de coalizões.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ949",
+        "name": "Estudos Legislativos II",
+        "credits": 4,
+        "syllabus": "Essa matéria pretende oferecer um panorama sobre a área de Estudos Legislativos, dando ênfase para trabalhos que procuram conectar arena legislativa e arena eleitoral e tiveram grande impacto no campo no debate internacional e nacional sobre estudos legislativos. Serão abordados 4 grandes temas, a saber: os modelos de ação parlamentar, teorias distributivistas, informacional e partidária; o papel da centralização institucional no comportamento dos legisladores (segredo eficiente); a controvérsia sobre o papel dos partidos políticos na condução dos trabalhos legislativos; e a formação de coalizões.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ345"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ954",
+        "name": "Tópicos Especiais em Sociologia IX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no departamento de Sociologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ955",
+        "name": "Leitura Dirigida em Sociologia I",
+        "credits": 2,
+        "syllabus": "Realização de programa de leitura sobre tema escolhido na área de Sociologia ou em áreas conexas. A leitura é dirigida por um professor do Departamento de Sociologia. O Coordenador de Graduação em Ciências Sociais exigirá, no ato de matrícula, a carta de aceitação do professor e a apresentação, por escrito, do tema, da bibliografia e da forma de avaliação do programa de leitura a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ956",
+        "name": "Leitura Dirigida em Sociologia II",
+        "credits": 2,
+        "syllabus": "Realização de programa de leitura sobre tema escolhido na área de Sociologia ou em áreas conexas. A leitura é dirigida por um professor do Departamento de Sociologia. O Coordenador de Graduação em Ciências Sociais exigirá, no ato de matrícula, a carta de aceitação do professor e a apresentação, por escrito, do tema, da bibliografia e da forma de avaliação do programa de leitura a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ258"
+                },
+                {
+                    "code": "HZ358"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ962",
+        "name": "Antropologia Política",
+        "credits": 4,
+        "syllabus": "O estudo dos clássicos deverá mostrar como a disciplina, empregando os métodos da etnografia, ocupou-se inicialmente das estruturas de poder em sociedades sem estado, interessando-se depois pela mudança e conflito. O curso tratará ainda de desenvolvimentos mais recentes, abordando as relações de poder nos interstícios da sociedade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ963",
+        "name": "Leitura Dirigida em Antropologia I",
+        "credits": 2,
+        "syllabus": "Realização de programa de leitura sobre tema escolhido na área de Antropologia ou em áreas conexas. A leitura é dirigida por um professor do Departamento de Antropologia. O Coordenador de Graduação em Ciências Sociais exigirá, no ato de matrícula, a carta de aceitação do professor e a apresentação, por escrito, do tema, da bibliografia e da forma de avaliação do programa de leitura a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HZ965"
+        ]
+    },
+    {
+        "code": "HZ964",
+        "name": "Tópicos Especiais em Antropologia IX",
+        "credits": 4,
+        "syllabus": "Este curso terá seu programa definido em função do andamento das pesquisas que estão sendo realizadas no conjunto de Antropologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ965",
+        "name": "Leitura Dirigida em Antropologia II",
+        "credits": 2,
+        "syllabus": "Realização de programa de leitura sobre tema escolhido na área de Antropologia ou em áreas conexas. A leitura é dirigida por um professor do Departamento de Antropologia. O Coordenador de Graduação em Ciências Sociais exigirá, no ato de matrícula, a carta de aceitação do professor e a apresentação, por escrito, do tema, da bibliografia e da forma de avaliação do programa de leitura a ser desenvolvido.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ963"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ966",
+        "name": "Tópicos Especiais em Teoria Antropológica I",
+        "credits": 4,
+        "syllabus": "Curso monográfico cujo objetivo é aprofundar questões ou autores relevantes na teoria antropológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ967",
+        "name": "Tópicos Especiais em Teoria Antropológica II",
+        "credits": 4,
+        "syllabus": "Curso monográfico cujo objetivo é aprofundar questões ou autores relevantes na teoria antropológica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ968",
+        "name": "Monografias Clássicas",
+        "credits": 4,
+        "syllabus": "Estudo em profundidade de monografias antropológicas clássicas; discussão sobre teorias e métodos na antropologia social.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HZ969",
+        "name": "Monografias Básicas - Brasil",
+        "credits": 4,
+        "syllabus": "Estudo em profundidade de monografias clássicas sobre o Brasil, como base para discussões de método e teoria em antropologia e em disciplinas afins.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "HZ160"
+                },
+                {
+                    "code": "HZ260"
+                },
+                {
+                    "code": "HZ360"
+                }
+            ]
+        ]
+    }
+]

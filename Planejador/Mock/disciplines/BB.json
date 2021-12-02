@@ -1,0 +1,277 @@
+[
+    {
+        "code": "BB017",
+        "name": "A Teoria do Proteoma e da Proteômica",
+        "credits": 4,
+        "syllabus": "A proteômica é a ciência que estuda o proteoma, o complemento proteico do genoma, num dado momento, numa dada condição. Os alunos terão um treinamento teórico nos conceitos de análises de proteoma utilizando as técnicas mais difundidas em proteômica em larga escala como a eletroforese de duas dimensões e espectrometria de massas (shotgun). Cromatografia líquida, SDS-PAGE e análise de dados in silico também serão abordados. As aulas basearão em artigos científicos, os quais deverão ser estudados pelos alunos previamente e discutidos em sala. Em geral, proteômica quantitativa como será abordada, visando compreender o papel das proteínas em mecanismos patogênicos (proteômica clínica será o foco, mas não exclusivamente). Ao final do curso, os alunos terão base suficiente para iniciar experimentos em laboratório, que poderão ser empregadas na disciplina prática subsequente (BB018). Como esperado, o ideal é que os alunos desta disciplina já tenham cursado alguma disciplina que aborde estrutura e função de proteínas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "BB018"
+        ]
+    },
+    {
+        "code": "BB018",
+        "name": "O Proteoma e a Proteômica na Prática",
+        "credits": 4,
+        "syllabus": "A proteômica é a ciência que estuda o proteoma, que é o conjunto de proteínas expressas (produzidas) por uma célula, tecido ou organismo, num dado momento, numa dada condição. Os alunos terão um treinamento prático nos conceitos de análises de proteoma utilizando as técnicas mais difundidas em proteômica em larga escala como a eletroforese de duas dimensõs e espectrometria de massas (shotgun). Ainda, cromatografia líquida. SDS-PAGE e análise de dados in silico serão abordados. Assuntos de proteômica comparativa serão abordados, através da compreensão do papel das proteínas em mecanismos patogênicos (proteômica clínica será o foco, mas não exclusivamente).",
+        "reqs": [
+            [
+                {
+                    "code": "BB017"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB110",
+        "name": "Bioquímica",
+        "credits": 4,
+        "syllabus": "Bioquímica da contração do músculo esquelético. Princípios de bioenergética. Fontes de energia para o músculo esquelético. Metabolismo anaeróbio: fosfocreatina e glicogênio. Metabolismo aeróbio: metabolismo de carboidratos e lipídeos (cadeia de transporte de elétrons e fosforilação oxidativa). Metabolismo de proteínas. Integração metabólica durante exercício e jejum.\n \n ",
+        "reqBy": [
+            "BF310",
+            "BF312"
+        ]
+    },
+    {
+        "code": "BB123",
+        "name": "Bioquímica Básica I",
+        "credits": 5,
+        "syllabus": "Aminoácidos. Proteínas: estrutura e função. Sistemas tampão, transporte de gases e equilíbrio ácido-base do sangue. Cinética enzimática. Metabolismo de carboidratos, lipídeos e proteínas. Aspectos bioquímicos da ação hormonal. Integração metabólica.",
+        "reqBy": [
+            "BF284",
+            "BI214",
+            "BM215",
+            "MD362"
+        ]
+    },
+    {
+        "code": "BB125",
+        "name": "Fundamentos de Biologia Molecular",
+        "credits": 2,
+        "syllabus": "Estrutura do DNA e replicação. Mutações e reparo do DNA. Estrutura do RNA e transcrição. Síntese e endereçamento de proteínas. Regulação da expressão gênica. Uso de técnicas recombinantes no diagnóstico e tratamento de saúde (sequenciamento de DNA, southern/northern/western blotting, clonagem, PCR, e outros)."
+    },
+    {
+        "code": "BB280",
+        "name": "Bioquímica Básica",
+        "credits": 8,
+        "syllabus": "Proteínas: Composição, Estrutura e Função. Enzimas: Cinética, Regulação e Inibição. Estratégias de Regulação do Metabolismo. Metabolismo de carboidratos. Metabolismo de Lipídeos. Transporte de Elétrons e Fosforilação Oxidativa. Metabolismo de Aminoácidos. Integração Metabólica. Métodos Experimentais Básicos em Bioquímica.",
+        "reqBy": [
+            "BB680"
+        ]
+    },
+    {
+        "code": "BB281",
+        "name": "Bioquímica de Proteínas",
+        "credits": 4,
+        "syllabus": "Sistemas-Tampão Biológicos. Proteínas: Composição, Estrutura e Função. Enzimas: Cinética, Regulação e Inibição. Métodos Experimentais Básicos em Bioquímica de proteínas, cromatografia, eletroforese, cinética enzimática. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. \n ",
+        "reqBy": [
+            "BB590"
+        ]
+    },
+    {
+        "code": "BB315",
+        "name": "Bioquímica",
+        "credits": 8,
+        "syllabus": "Estrutura e função de proteínas. Cinética e regulação enzimática. Metabolismo de carboidratos, lipídeos e proteínas. Regulação hormonal do metabolismo. Aspectos farmacológicos do metabolismo de lipídeos, carboidratos e proteínas. Integração do metabolismo.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "BB415",
+            "FR415",
+            "FR511",
+            "FR512",
+            "FR605",
+            "FR606",
+            "FR614",
+            "MD182",
+            "MD183",
+            "MD187",
+            "QO752"
+        ]
+    },
+    {
+        "code": "BB350",
+        "name": "Bioquímica Metabólica",
+        "credits": 6,
+        "syllabus": "Bioquímica da contração muscular, órgão tendinoso de Golgi e fuso neuromuscular, fontes de energia anaeróbica (fosfocreatina e glicogênio) e aeróbicas (clicogênio e ácidos graxos), ciclo de Krebs, cadeia de Krebs, cadeia de transporte de eletrons, espécies reativas de oxigênio; tamponamento muscular e sanguíneo, aspectos bioquímicos da ação hormonal e integração metabólica em situações de exercício. Adaptações neurais e musculares em resposta aos treinamentos de força, endurance e flexibilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "BS150"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB381",
+        "name": "Metabolismo",
+        "credits": 4,
+        "syllabus": "Metabolismo de carboidratos. Metabolismo de Lipídeos. Metabolismo de Aminoácidos. Transporte de Elétrons e Fosforilação Oxidativa. Integração Metabólica. Estratégias de Regulação do Metabolismo. Bancos de dados de vias metabólicas. Estudo comparado de vias metabólicas. Produção e análise de textos em língua portuguesa. Utilização de tecnologia da informação e comunicação. ",
+        "reqBy": [
+            "BH555",
+            "BH555"
+        ]
+    },
+    {
+        "code": "BB415",
+        "name": "Bioquímica Farmacêutica",
+        "credits": 4,
+        "syllabus": "Aspectos bioquímicos da interação, metabolização e da resistência medicamentosa. Influência da nutrição na biodisponibilidade de drogas. Monitoramento enzimático da ação medicamentosa.",
+        "reqs": [
+            [
+                {
+                    "code": "BB315"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB500",
+        "name": "Iniciação Científica em Bioquímica I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Bioquímica. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB523",
+        "name": "Práticas em Bioquímica",
+        "credits": 2,
+        "syllabus": "Introdução a metodologias básicas em laboratório de bioquímica como centrifugação, fotometria, extração por solventes ou sais, diálise, cromatografia, eletroforese, e outros. Purificação de macromoléculas de interesse biológico (proteínas, DNA) e caracterização através de suas propriedades estruturais. Quantificação de metabólitos importantes em material biológico: glicose, colesterol, uréia, aminotransferases."
+    },
+    {
+        "code": "BB583",
+        "name": "Informática Aplicada ao Ensino de Biologia",
+        "credits": 8,
+        "syllabus": "Utilização de computadores para o desenvolvimento de material didático na área de biologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB585",
+        "name": "Enzimologia Teórica e Aplicada",
+        "credits": 4,
+        "syllabus": "Teoria: sistema tampão; técnicas de purificação e caracterização de enzimas através de extração, centrifugação, precipitação, cromatografias; eletroforese; cristalografia; espectrofotometria; radioisótopos; clonagem e expressão heteróloga; cinética enzimática; aplicações biotecnológicas de enzimas; biologia molecular aplicada a enzimologia e engenharia de proteínas. Prática: sistema tampão; espectrofotometria; extração e precipitação salina de enzimas; determinação de parâmetros cinéticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB590",
+        "name": "Biologia Molecular Aplicada a Biotecnologia",
+        "credits": 4,
+        "syllabus": "A  disciplina tem como objetivo geral discutir com os alunos as bases teóricas da biotecnologia nas áreas ambiental, saúde humana, biocombustíveis e produção de alimentos, informando sobre os principais processos biológicos envolvidos. Apresentar mediante exemplos concretos as abordagens metodológicas empregadas para viabilizar estes processos. Para isso, espera-se que os alunos matriculados",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BB281"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB600",
+        "name": "Iniciação Científica em Bioquímica II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Bioquímica. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB680",
+        "name": "Bioquímica Médica",
+        "credits": 4,
+        "syllabus": "Bioquímica do sangue; Transporte de O2 e CO2 no sangue; Equilíbrio Ácido-base e hidroeletrolítico do sangue; Membranas: estrutura e função; Membranas excitáveis; Bioquímica da ação hormonal; Integração metabólica em nível de órgãos; Princípios de Nutrição Humana.",
+        "reqs": [
+            [
+                {
+                    "code": "BB280"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB700",
+        "name": "Estágio Supervisionado em Bioquímica I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Bioquímica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BB800",
+        "name": "Estágio Supervisionado em Bioquímica II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do departamento de Bioquímica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

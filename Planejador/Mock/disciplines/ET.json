@@ -1,0 +1,303 @@
+[
+    {
+        "code": "ET016",
+        "name": "Eletrotécnica",
+        "credits": 2,
+        "syllabus": "Elementos e Leis dos circuitos em C.C. e C.A. Potência e Energia. Circuitos monofásicos e trifásicos. Transformadores. Máquinas elétricas de indução, síncronas e de corrente contínua. Instalações elétricas e dispositivos de proteção.",
+        "reqs": [
+            [
+                {
+                    "code": "EE521"
+                }
+            ],
+            [
+                {
+                    "code": "F 328"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM075",
+            "FA780",
+            "FT741"
+        ]
+    },
+    {
+        "code": "ET017",
+        "name": "Circuitos e Eletrotécnica",
+        "credits": 4,
+        "syllabus": "Revisão de conceitos básicos. Elementos e leis de circuitos elétricos em C.C. e C.A. Circuitos monofásicos e trifásicos. Potência e Energia. Transformadores. Máquinas elétricas rotativas. Instalações elétricas e dispositivos de proteção.",
+        "reqs": [
+            [
+                {
+                    "code": "F 328"
+                },
+                {
+                    "code": "F 329"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ET025",
+        "name": "Técnicas de Alta Tensão I",
+        "credits": 4,
+        "syllabus": "Geradores. Medidas de alta tensão e corrente. Fenômenos de sobretensão e coordenação de isolamento. Testes de materiais e equipamentos. Condução e disruptura em gases.",
+        "reqs": [
+            [
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ET520",
+        "name": "Princípios de Conversão de Energia",
+        "credits": 4,
+        "syllabus": "Circuitos magnéticos. Transformadores. Princípios de conversão eletromecânica de energia. Introdução às máquinas elétricas rotativas.",
+        "reqs": [
+            [
+                {
+                    "code": "EA611"
+                },
+                {
+                    "code": "F 328"
+                }
+            ],
+            [
+                {
+                    "code": "EA611"
+                },
+                {
+                    "code": "EE521"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ES563",
+            "ES663",
+            "ES891",
+            "ES963",
+            "ET620",
+            "ET621",
+            "ET910",
+            "ET911"
+        ]
+    },
+    {
+        "code": "ET521",
+        "name": "Laboratório de Princípios de Conversão de Energia",
+        "credits": 2,
+        "syllabus": "Propriedades de circuitos magnéticos. Estudo de eletroímã. Funcionamento de máquinas elétricas rotativas. Transformador elétrico.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "EA611"
+                },
+                {
+                    "code": "EE521"
+                }
+            ],
+            [
+                {
+                    "code": "EA611"
+                },
+                {
+                    "code": "F 328"
+                },
+                {
+                    "code": "F 428"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ET621"
+        ]
+    },
+    {
+        "code": "ET616",
+        "name": "Eletrotécnica",
+        "credits": 4,
+        "syllabus": "Revisão de conceitos básicos. Elementos e leis de circuitos elétricos. Circuitos monofásicos e trifásicos. Transformadores. Máquinas elétricas rotivas.",
+        "reqs": [
+            [
+                {
+                    "code": "EA513"
+                }
+            ],
+            [
+                {
+                    "code": "EE521"
+                }
+            ],
+            [
+                {
+                    "code": "F 328"
+                },
+                {
+                    "code": "F 329"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM852",
+            "EM915",
+            "EM915",
+            "EM971",
+            "ES724",
+            "ES724",
+            "ES724"
+        ]
+    },
+    {
+        "code": "ET620",
+        "name": "Máquinas Elétricas",
+        "credits": 4,
+        "syllabus": "Máquina de Corrente Contínua. Máquina Síncrona. Máquina de Indução. Motores de Potência Fracionária e Subfracionária.",
+        "reqs": [
+            [
+                {
+                    "code": "ET520"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG605",
+            "EG626",
+            "EG645",
+            "ET720"
+        ]
+    },
+    {
+        "code": "ET621",
+        "name": "Laboratório de Máquinas Elétricas",
+        "credits": 2,
+        "syllabus": "Característica de partida de cada tipo de motor. Ensaios com máquina CC. Ensaios com máquina síncrona. Ensaios com máquina de indução.\nObs.: Esta disciplina será ministrada quinzenalmente.",
+        "reqs": [
+            [
+                {
+                    "code": "ET520"
+                },
+                {
+                    "code": "ET521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ET720",
+        "name": "Sistemas de Energia Elétrica I",
+        "credits": 4,
+        "syllabus": "Introdução geral. Linhas de transmissão. Transformadores de potência. Máquinas síncronas. Introdução ao cálculo de fluxo de potência. Introdução a sistemas de distribuição.",
+        "reqs": [
+            [
+                {
+                    "code": "ET620"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG005",
+            "EG600",
+            "EG601",
+            "EG602",
+            "EG603",
+            "EG604",
+            "EG614",
+            "EG615",
+            "EG616",
+            "EG620",
+            "EG622",
+            "EG640",
+            "EG643",
+            "EG651",
+            "EG652",
+            "ET025",
+            "ET820",
+            "ET931",
+            "ET941"
+        ]
+    },
+    {
+        "code": "ET820",
+        "name": "Sistemas de Energia Elétrica II",
+        "credits": 4,
+        "syllabus": "Introdução. Controle por computador em tempo real. Automatização da distribuição. Controle automático da geração. Introdução ao controle em tempo real de sistemas de transmissão.",
+        "reqs": [
+            [
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ET910",
+        "name": "Instalações Elétricas",
+        "credits": 4,
+        "syllabus": "Proporcionar o conhecimento dos conceitos sobre o instalações elétricas de baixa tensão: Definições, conceitos e arranjos físicos convencionais, materiais e equipamentos, condutores e cabos elétricos. Dimensionamento de condutores elétricos e o projeto de um quadro de distribuição. Entender  e  Projetar  sistemas  de  iluminação  e  de  distribuição  de  energia  elétrica  em  instalações  residenciais.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "ET520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ET911",
+        "name": "Projeto de instalações elétricas I (industrial)",
+        "credits": 4,
+        "syllabus": "Proporcionar o conhecimento dos conceitos sobre o instalações elétricas de alta tensão: Definições e conceitos sobre o fornecimento de energia elétrica e seu uso industrial, dispositivos de comando, proteção e automação industrial. Dimensionamento de cargas industriais e o estudo de subestações. Estudar e elaborar um projeto elétrico industrial.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "ET520"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ET912"
+        ]
+    },
+    {
+        "code": "ET912",
+        "name": "Projeto de instalações elétricas II (predial)",
+        "credits": 4,
+        "syllabus": "Proporcionar o conhecimento dos conceitos sobre o instalações elétricas de baixa tensão: Definições, conceitos e arranjos físicos, dispositivos de comando e proteção, aterramento de instalações elétricas e proteção Contra Descargas Atmosféricas. Elaboração do Quadro de Cargas, dos diagramas unifilar e trifilar. Projeto de instalação elétrica predial.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "ET911"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ET931",
+        "name": "Análise Computacional de Sistemas de Energia Elétrica I",
+        "credits": 4,
+        "syllabus": "Formulação do problema de fluxo de carga. Algoritmos básicos de solução: Newton e desacoplados. Técnicas de armazenamento compacto de matrizes esparsas.",
+        "reqs": [
+            [
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ET941",
+        "name": "Proteção de Sistemas de Energia Elétrica I",
+        "credits": 4,
+        "syllabus": "Análise de curtos-circuitos. Princípios básicos de proteção de sistemas de potência.",
+        "reqs": [
+            [
+                {
+                    "code": "ET720"
+                }
+            ]
+        ]
+    }
+]

@@ -1,0 +1,913 @@
+[
+    {
+        "code": "QO321",
+        "name": "Química Orgânica I",
+        "credits": 4,
+        "syllabus": "Introdução da disciplina: alguns aspectos históricos e de teoria estrutural. Estrutura Eletrônica e Ligação Química. Estruturas Orgânicas. Reações Orgânicas. Alcanos. Reações de alcanos. Estereoquímica. Haletos de alquila e organometálicos. Estrutura e propriedades físicas de haletos de alquila. Uso de hidrocarbonetos halogenados, nomenclatura e estrutura de substâncias organometálicas, propriedades físicas e preparação de organometálicos, reações de organometálicos. Substituição nucleofílica e eliminações. Álcoois e éteres. Alcenos (alquenos). Alcinos (alquinos) e nitrilas.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                },
+                {
+                    "code": "QG102"
+                }
+            ],
+            [
+                {
+                    "code": "QG108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BB315",
+            "EQ531",
+            "EQ531",
+            "EQ531",
+            "QG092",
+            "QO421",
+            "QO423",
+            "QO424",
+            "QO425",
+            "QO521",
+            "QO551",
+            "QO623",
+            "QO851",
+            "QO852",
+            "QO853",
+            "QO854",
+            "QO855",
+            "QO856"
+        ]
+    },
+    {
+        "code": "QO323",
+        "name": "Química Orgânica I (Engenharia Química)",
+        "credits": 4,
+        "syllabus": "Orbitais híbridos. Hidrocarbonetos. Petróleo. Benzeno e derivados. Haletos orgânicos. Álcoois. Éteres. Ácidos carboxílicos e derivados. Aldeídos e cetonas. Aminas. Compostos heterocíclicos. Polímeros. Noções de estereoquímica.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "QG107"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ531",
+            "EQ583",
+            "QO422"
+        ]
+    },
+    {
+        "code": "QO325",
+        "name": "Química Orgânica I (Engenharia de Alimentos)",
+        "credits": 3,
+        "syllabus": "Estrutura e propriedades dos compostos de carbono; alcanos; estereoquímica; alcenos; alcinos; dienos; hidrocarbonetos cíclicos; substituição nucleofílica alifática, cinética e mecanismos; alcóois.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "QG107"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QO421",
+            "QO425"
+        ]
+    },
+    {
+        "code": "QO327",
+        "name": "Química Orgânica II (Engenharia Química)",
+        "credits": 8,
+        "syllabus": "Técnicas de Laboratório em Química Orgânica. Diferenciações entre hidrocarbonetos. Obtenção de alcenos, cetonas, ésteres, haletos de alquila, fenóis e aminas. Condensação aldólica. Polímeros. Corantes. Sabão. Introdução à cromatografia e a espectroscopia de absorção.",
+        "reqs": [
+            [
+                {
+                    "code": "QO427"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO421",
+        "name": "Química Orgânica II",
+        "credits": 4,
+        "syllabus": "Aldeídos e cetonas. Ácidos carboxílicos. Derivados dos ácidos carboxílicos. Conjugação, sistemas alílicos, dienos e polienos, compostos carbonílicos insaturados, reações do tipo Diels-Alder. Benzeno e o anel aromático. Substituição eletrofílica aromática. Haletos de arila e substituição nucleofílica aromática. Fenóis. Aminas. Outras funções nitrogenadas.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                }
+            ],
+            [
+                {
+                    "code": "QO325"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ531",
+            "EQ531",
+            "FR507",
+            "FR508",
+            "QF661",
+            "QO422",
+            "QO721",
+            "QO752"
+        ]
+    },
+    {
+        "code": "QO422",
+        "name": "Química Orgânica II (Engenharia Química)",
+        "credits": 8,
+        "syllabus": "Técnicas de laboratório em Química Orgânica. Diferenciações entre hidrocarbonetos. Obtenção de alcenos, cetonas, ésteres, haletos de alquila, fenóis e aminas. Condensação aldólica. Polímeros. Corantes. Sabão. Introdução à cromatografia e à espectroscopia de absorção.",
+        "reqs": [
+            [
+                {
+                    "code": "QO323"
+                }
+            ],
+            [
+                {
+                    "code": "QO421"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO423",
+        "name": "Fundamentos da Espectrometria de Massas",
+        "credits": 2,
+        "syllabus": "Fundamentos experimentais, interpretação de dados e aplicações de espectrometria de massas.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QO620",
+            "QO622",
+            "QO622"
+        ]
+    },
+    {
+        "code": "QO424",
+        "name": "Fundamentos em Espectroscopia e Ressonância Magnética Nuclear",
+        "credits": 2,
+        "syllabus": "Fundamentos experimentais, interpretação de dados e aplicações da Espectroscopia de Ressonância Magnética Nuclear.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QO620",
+            "QO622",
+            "QO622"
+        ]
+    },
+    {
+        "code": "QO425",
+        "name": "Química Orgânica II (Engenharia de Alimentos)",
+        "credits": 3,
+        "syllabus": "Éteres; ácidos carboxílicos; aldeídos e cetonas; derivados funcionais dos ácidos carboxílicos; aminas; compostos heterocíclicos, benzeno e derivados.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                }
+            ],
+            [
+                {
+                    "code": "QO325"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA512",
+            "TA614"
+        ]
+    },
+    {
+        "code": "QO427",
+        "name": "Química Orgânica I",
+        "credits": 4,
+        "syllabus": "1) Reações entre ácidos e bases (Arrhenius, Brønsted e Lewis)\n2) Alcanos e a análise conformacional\n3) Estereoquímica\n4) Reações de adição, substituição e eliminação\n5) Propriedades e reatividade de nucleófilos (álcoois, aminas, enóis, enaminas, reagentes de Grignard, organolítiados e carbânions)\n6) Propriedades e reatividade de eletrófilos (aldeídos, cetonas, iminas, ácidos carboxílicos e derivados, haletos de alquila e carbocátions)\n7) Conjugação e aromaticidade (derivados do benzeno e heteroaromáticos)",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ531",
+            "EQ583",
+            "FT311",
+            "FT830",
+            "QO327",
+            "TA243",
+            "TA343",
+            "TA411",
+            "TA416",
+            "TA512",
+            "TA614",
+            "TA724",
+            "TA729"
+        ]
+    },
+    {
+        "code": "QO521",
+        "name": "Química Orgânica II",
+        "credits": 6,
+        "syllabus": "Aldeídos e cetonas. Ácidos carboxílicos e derivados. Conjugação, sistemas alílicos, dienos e polienos, compostos carbonílicos insaturados, reações do tipo Diels-Alder. Benzeno e o anel aromático, substituição eletrofílica aromática. Haletos de arila e substituição nucleofílica aromática. Fenóis. Aminas. Outras funções nitrogenadas. Em todos os casos, relação entre características estruturais e reatividade, com ênfase em mecanismos, relações estereoquímicas envolvidas e ampla exemplificação de aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ531",
+            "QF661",
+            "QG091",
+            "QG564",
+            "QG565",
+            "QG565",
+            "QG565",
+            "QG650",
+            "QO621",
+            "QO653",
+            "QO851",
+            "QO852",
+            "QO853",
+            "QO854",
+            "QO855",
+            "QO856",
+            "QO858"
+        ]
+    },
+    {
+        "code": "QO551",
+        "name": "Bioquímica I",
+        "credits": 4,
+        "syllabus": "Introdução, aminoácidos, proteínas: estrutura, métodos para análise de proteínas, função de proteínas, carboidratos, ácidos nucleicos e estrutura de RNA e DNA, métodos para análise de ácidos nucleicos, princípios da tecnologia de DNA recombinante, lipídeos e membranas biológicas, transporte através de membranas, enzimologia, tópicos selecionados.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QO652",
+            "QO653",
+            "TA918"
+        ]
+    },
+    {
+        "code": "QO620",
+        "name": "Química Orgânica Experimental II",
+        "credits": 8,
+        "syllabus": "Análise qualitativa de compostos orgânicos utilizando métodos químicos e físicos. Projetos de síntese orgânica e de produtos naturais.",
+        "reqs": [
+            [
+                {
+                    "code": "QG650"
+                },
+                {
+                    "code": "QO423"
+                },
+                {
+                    "code": "QO424"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO621",
+        "name": "Química Orgânica III",
+        "credits": 4,
+        "syllabus": "Introdução à filosofia e prática de sínteses orgânicas: principais transformações de grupos funcionais; grupos de proteção. Uso de compostos polifuncionais na formação de ligações carbono-carbono ou outras ligações. Métodos específicos de formação de ligações carbono-carbono. Reações pericíclicas: orbitais moleculares de fronteira; reações de cicloadição; rearranjo sigmatrópico.",
+        "reqs": [
+            [
+                {
+                    "code": "QO521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO622",
+        "name": "Química Orgânica Experimental II",
+        "credits": 8,
+        "syllabus": "Análise qualitativa de compostos orgânicos utilizando métodos químicos e físicos. Projetos de síntese orgânica e de produtos naturais.",
+        "reqs": [
+            [
+                {
+                    "code": "QG564"
+                },
+                {
+                    "code": "QO423"
+                },
+                {
+                    "code": "QO424"
+                }
+            ],
+            [
+                {
+                    "code": "QG565"
+                },
+                {
+                    "code": "QO423"
+                },
+                {
+                    "code": "QO424"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO623",
+        "name": "Química Orgânica Experimental",
+        "credits": 6,
+        "syllabus": "Experimentos englobando extração ácido-base, isolamento de produtos naturais, preparação de compostos orgânicos e fármacos, conhecimentos básicos de isolamento, purificação e caracterização de produtos de síntese por meios espectroscópicos tais como infravermelho, ultravioleta, ressonância magnética nuclear e espectrometria de massas. Métodos cromatográficos. Princípios de análise orgânica. Projetos de síntese orgânica e de produtos naturais.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR415",
+            "FR614"
+        ]
+    },
+    {
+        "code": "QO652",
+        "name": "Bioquímica Experimental",
+        "credits": 4,
+        "syllabus": "Fundamentos de bioquímica experimental. Conhecimentos de técnicas utilizadas no isolamento e caracterização de biomoléculas: proteínas, lipídeos, sacarídeos e ácidos nucléicos (RNA e DNA). Princípios de biologia molecular: material biológico, biossegurança, do gene à proteína recombinante, ferramentas computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "QO551"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO653",
+        "name": "Bioquímica II",
+        "credits": 4,
+        "syllabus": "Introdução ao metabolismo, catabolismo da glicose, transdução de sinal, metabolismo do glicogênio, ciclo do ácido cítrico, gliconeogênese e via das pentoses, transporte de elétrons e fosforilação oxidativa, fotossíntese, metabolismo dos lipídeos, metabolismo dos aminoácidos, metabolismo dos nucleotídeos, integração e regulação do metabolismo, fluxo da informação gênica, expressão e enovelamento celular de proteínas, controle de expressão e princípios para engenharia de proteínas.",
+        "reqs": [
+            [
+                {
+                    "code": "QO521"
+                },
+                {
+                    "code": "QO551"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO721",
+        "name": "Química Orgânica III",
+        "credits": 2,
+        "syllabus": "Diferenças entre heteroaromáticos e heterociclos. Principais reações envolvendo heteroaromáticos de 5 e 6 membros contendo um ou dois heteroátomos (N, O, S). Síntese de heteroaromáticos de 5 e 6 membros contendo um ou dois heteroátomos. Síntese de heteroaromáticos fundidos. Exemplos de sínteses de fármacos contendo anéis heterocíclicos.",
+        "reqs": [
+            [
+                {
+                    "code": "QO421"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO752",
+        "name": "Bioquímica Molecular",
+        "credits": 4,
+        "syllabus": "Introdução; Química de biomoléculas; Aplicações de espectrometria e espectroscopia para o estudo de biomoléculas; Membranas, transporte, neurotransmissão; Transdução de sinal, ação de hormônios, câncer; Bases moleculares do fluxo da informação gênica e da ação de antibióticos; Expressão e enovelamento celular das proteínas; Proteínas, aplicação em patologia e terapia; Bases moleculares do estresse oxidativo e do processo inflamatório; Bases moleculares da mobilidade celular e da contração muscular; Química combinatória e suas aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "BB315"
+                },
+                {
+                    "code": "QO421"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO851",
+        "name": "Aplicação de Tecnologias em Química Orgânica Sintética",
+        "credits": 2,
+        "syllabus": "Introdução. Química Verde. Sonoquímica. Irradiação Microondas. Química em Fluxo Contínuo. Mecanoquímica.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                },
+                {
+                    "code": "QO521",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO852",
+        "name": "Introdução à Catálise Assimétrica",
+        "credits": 2,
+        "syllabus": "Modos de indução assimétrica. Catálise com ácidos e bases de Lewis. Outros modos de ativação além de ácidos e bases de Lewis. Indução assimétrica em catálise enantioseletiva. Interações não-clássicas entre substrato e catalisador. Resolução cinética e resolução cinética dinâmica. Efeitos não-lineares e autocatálise. Sistemas catalíticos bifuncionais, dualísticos e multifuncionais. Reações de dessimetrização. Aplicações na preparação de moléculas complexas. ",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                },
+                {
+                    "code": "QO521",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO853",
+        "name": "Introdução à Química Supramolecular e Catálise Supramolecular",
+        "credits": 2,
+        "syllabus": "Introdução aos conceitos básicos de Química Supramolecular. Processos de auto-montagem, auto-eleição e auto-organização. Síntese de blocos de construção na Química Supramolecular. Introdução à catálise supramolecular com ênfase em reações conhecidas do programa de Química Orgânica (hidrólises, reações aldólicas, reação de Diels-Alder e outras).",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                },
+                {
+                    "code": "QO521",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO854",
+        "name": "Nanomateriais para Liberação Controlada de Fármacos",
+        "credits": 2,
+        "syllabus": "Introdução à Nanotecnologia. Potencialidades da Nanomedicina. Princípios e aplicações de “Drug Delivery”. Lipossomas, Micelas e vesículas. Nanoparticulas poliméricas. Nanopartículas metálicas. Dendrímeros e dendrons. Hidrogéis. Alótropos de carbono. Perspectivas. ",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                },
+                {
+                    "code": "QO521",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO855",
+        "name": "Química de Produtos Naturais",
+        "credits": 2,
+        "syllabus": "Introdução à química dos produtos naturais e considerações gerais. Métodos de extração e isolamento. Métodos de identificação Metabolismo primário e secundário. Reações bioquímicas e mecanismos de reação. Elucidação das sequencias metabólicas. Ecologia química e interação planta-planta.  Interação planta inseto. Interação animal-animal. Carboidratos.  Rota do ácido shikímico.  Rota dos policetídios. Rota do ácido mevalônico. Alcaloídes.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                },
+                {
+                    "code": "QO521",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO856",
+        "name": "Química dos Compostos Heterocíclicos: Uma Introdução",
+        "credits": 2,
+        "syllabus": "A estrutura dos compostos heterocíciclicos. Aspectos básicos da nomenclatura de compostos heterocíciclicos. Padrão geral de reatividade de compostos heterocíclicos. Heterocíclos de três, quatro, cinco e seis membros. Compostos heteroaromáticos de cinco e seis membros (reatividade e síntese), compostos heteroaromáticos fundidos (indóis, benzofuranos, quinolinas, cumarinas, entre outros); reatividade e síntese, compostos heterocíclicos e heteroaromáticos na natureza, em medicamentos e em materiais de alto desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                },
+                {
+                    "code": "QO521",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO857",
+        "name": "Introdução à Química Verde",
+        "credits": 2,
+        "syllabus": "Sustentabilidade. Histórico da Química Verde. Princípios e Métricas. Matérias-Primas Renováveis. Solventes Verdes. Noções de Catálise. Prevenção de Resíduos e Diminuição dos Riscos. Exemplos da aplicação da Química Verde.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO858",
+        "name": "Introdução à Físico-Química Orgânica",
+        "credits": 2,
+        "syllabus": "Estrutura e modelos de ligação química, Termodinâmica e estabilidade de compostos orgânicos, Análise conformacional e estereoquímica, Superfícies de energia potencial e análise cinética de reações orgânicas, Ferramentas de estudos de mecanismos de reação e suas aplicações em reações de adição e eliminação, reações de substituição e rearanjos; Introdução à cálculos teóricos para entendimento de estrutura e reatividade de compostos orgânicos.",
+        "reqs": [
+            [
+                {
+                    "code": "QO521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO920",
+        "name": "Tópicos Especiais em Química Orgânica I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO921",
+        "name": "Tópicos Especiais em Química Orgânica II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO922",
+        "name": "Tópicos Especiais em Química Orgânica III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO923",
+        "name": "Tópicos Especiais em Química Orgânica IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO924",
+        "name": "Tópicos Especiais em Química Orgânica V",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO925",
+        "name": "Tópicos Especiais em Química Orgânica VI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO926",
+        "name": "Tópicos Especiais em Química Orgânica VII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO927",
+        "name": "Tópicos Especiais em Química Orgânica VIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO928",
+        "name": "Tópicos Especiais em Química Orgânica IX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO929",
+        "name": "Tópicos Especiais em Química Orgânica X",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO930",
+        "name": "Tópicos Especiais em Química Orgânica XI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO931",
+        "name": "Tópicos Especiais em Química Orgânica XII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO932",
+        "name": "Tópicos Especiais em Química Orgânica XIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO933",
+        "name": "Tópicos Especiais em Química Orgânica XIV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO934",
+        "name": "Tópicos Especiais em Química Orgânica XV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO935",
+        "name": "Tópicos Especiais em Química Orgânica XVI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO936",
+        "name": "Tópicos Especiais em Química Orgânica XVII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO937",
+        "name": "Tópicos Especiais em Química Orgânica XVIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO938",
+        "name": "Tópicos Especiais em Química Orgânica XIX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO939",
+        "name": "Tópicos Especiais em Química Orgânica XX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO940",
+        "name": "Tópicos Especiais em Química Orgânica Experimental I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO941",
+        "name": "Tópicos Especiais em Química Orgânica Experimental II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO942",
+        "name": "Tópicos Especiais em Química Orgânica XXI",
+        "credits": 4,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO943",
+        "name": "Tópicos Especiais em Química Orgânica XXII",
+        "credits": 4,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO944",
+        "name": "Tópicos Especiais em Química Orgânica Experimental III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QO945",
+        "name": "Tópicos Especiais em Química Orgânica Experimental IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

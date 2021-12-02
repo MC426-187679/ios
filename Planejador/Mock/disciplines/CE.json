@@ -1,0 +1,1753 @@
+[
+    {
+        "code": "CE100",
+        "name": "Tópicos Especiais de Economia XXVI",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da Economia. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE105",
+        "name": "Fundamentos da Teoria Econômica",
+        "credits": 2,
+        "syllabus": "Ciência e modos de conhecimento. Filosofia e teoria do conhecimento. Concepções de ciência. A ciência como prática social. A teoria econômica como ciência, como técnica e como ideologia.",
+        "reqBy": [
+            "CE305"
+        ]
+    },
+    {
+        "code": "CE112",
+        "name": "Economia Matemática II",
+        "credits": 4,
+        "syllabus": "Operações com vetores. Produto escalar. Equações de reta e plano. Funções de várias variáveis reais. Limites e continuidade. Derivadas parciais de funções de duas ou mais variáveis. Funções diferenciáveis. Diferencial. Vetor gradiente. Teorema das funções implícitas. Derivadas parciais de ordens superiores. Aplicações em análise estática comparativa. Otimização de funções de várias variáveis: não condicionada e condicionada.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE113"
+        ]
+    },
+    {
+        "code": "CE113",
+        "name": "Economia Matemática III",
+        "credits": 4,
+        "syllabus": "Vetores e Matrizes. Sistemas de Equações Lineares. Combinação Linear. Dependência e Independência Linear. Transformação Linear. Autovalores e Autovetores. Matriz Diagonalizável. Modelos Dinâmicos e Cálculo Integral. Sistemas Dinâmicos com uma variável de estado. Equações em Diferenças e Equações Diferenciais. Modelos dinâmicos e equações simultâneas: Sistemas de Equações em Diferenças e Sistemas de Equações Diferenciais. Aplicações em Economia: Modelos de Crescimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CE112"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE423"
+        ]
+    },
+    {
+        "code": "CE131",
+        "name": "Introdução à Economia para Ciências Sociais",
+        "credits": 4,
+        "syllabus": "O sistema de produção. Divisão do trabalho. Os três aspectos da produção. Taxa de lucro e movimento do capital. Salário e lucros. Crescimento e ciclo.",
+        "reqBy": [
+            "CE730"
+        ]
+    },
+    {
+        "code": "CE138",
+        "name": "Estratégias de Empresas para Engenharia",
+        "credits": 2,
+        "syllabus": "Conceitos básicos de economia. Introdução à macroeconomia. Processo de globalização e de reestruturação produtiva. Estratégias empresariais: inovação, concorrência e estratégias competitivas.",
+        "reqs": [
+            [
+                {
+                    "code": "CE141"
+                },
+                {
+                    "code": "CE641"
+                }
+            ],
+            [
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT540",
+            "FT742",
+            "TA542"
+        ]
+    },
+    {
+        "code": "CE141",
+        "name": "Contabilidade e Análise de Balanço",
+        "credits": 4,
+        "syllabus": "A empresa e a tomada de decisões. Funções da contabilidade. Relatórios Contábeis. Balanço Patrimonial. Regimes de contabilidade. Demonstração do Resultado do Exercício. Demonstração dos lucros e prejuízos acumulados. Demonstração das mutações do patrimônio líquido. Demonstração das origens e aplicações de recursos. Demonstração dos fluxos de caixa. Análise das demonstrações financeiras e indicadores.",
+        "reqBy": [
+            "CE138",
+            "CE539",
+            "CE641",
+            "CE672",
+            "CE742",
+            "CE751",
+            "CE841"
+        ]
+    },
+    {
+        "code": "CE142",
+        "name": "Métodos de Análise Econômica I",
+        "credits": 4,
+        "syllabus": "Determinação de custos. Gasto, custo, despesa, investimento, desembolso. Estrutura de custos. Análise econômica de custos. Métodos para determinação de custos de produtos. Determinação do preço de venda a partir do custo. Valor do dinheiro no tempo. Capitalização simples: juros simples, montante e valor atual. Desconto comercial e desconto racional. Capitalização composta. Juros compostos e montante de pagamento único. Taxas efetivas e equivalentes. Séries não uniformes e uniformes. Anuidades perpétuas. Decisões de investimento e fluxo de caixa. Valor presente líquido e taxa interna de retorno",
+        "reqBy": [
+            "CE351",
+            "CE641",
+            "CE672",
+            "CE742",
+            "CE751"
+        ]
+    },
+    {
+        "code": "CE151",
+        "name": "Introdução à Economia",
+        "credits": 6,
+        "syllabus": "A economia de mercado, origens e destino da produção. A circulação numa economia de mercado. As relações econômicas internacionais. O setor público. O sistema financeiro. A unidade produtora, sua inserção no sistema. Repartição e apropriação do produto social.",
+        "reqBy": [
+            "CE838",
+            "HZ342"
+        ]
+    },
+    {
+        "code": "CE161",
+        "name": "História Econômica Geral",
+        "credits": 4,
+        "syllabus": "Feudalismo. Transição para o Capitalismo. O Antigo Sistema Colonial. Revolução Industrial. Revoluções Burguesas. A hegemonia inglesa a e nova divisão internacional do trabalho. As industrializações atrasadas. A Segunda Revolução Industrial. A crise de hegemonia inglesa e do padrão-ouro.",
+        "reqBy": [
+            "HZ342"
+        ]
+    },
+    {
+        "code": "CE172",
+        "name": "Introdução à Economia",
+        "credits": 6,
+        "syllabus": "A economia de mercado, origens e destino da produção. A circulação numa economia de mercado. As relações econômicas internacionais. O setor público. O sistema financeiro. A unidade produtora, sua inserção no sistema. Repartição e apropriação do produto social.",
+        "reqBy": [
+            "CE242",
+            "CE272"
+        ]
+    },
+    {
+        "code": "CE181",
+        "name": "Intérpretes do Brasil",
+        "credits": 4,
+        "syllabus": "Leitura e discussão de clássicos do pensamento brasileiro. Identidade Nacional. Pensamento político e social brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE191",
+        "name": "História Econômica Geral I",
+        "credits": 4,
+        "syllabus": "Feudalismo. Formação do sistema capitalista. O antigo regime econômico: o capital comercial. O antigo regime político e social. O antigo sistema colonial. Revoluções burguesas. Revolução industrial. A hegemonia inglesa e a nova divisão internacional do trabalho.",
+        "reqBy": [
+            "CE281",
+            "CE291"
+        ]
+    },
+    {
+        "code": "CE200",
+        "name": "Tópicos Especiais de Economia XXVII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da Economia. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE205",
+        "name": "Ciências Sociais para Economia",
+        "credits": 4,
+        "syllabus": "O surgimento do Estado Moderno, os contratualistas e a questão do poder e da legitimidade. O projeto iluminista e a emergência da sociedade capitalista: Marx, Weber e Durkheim. A sociedade contemporânea: mudanças estruturais e a contestação do projeto iluminista. Novos atores, novas identidades, novos conflitos, crise de valores, desafio da ordem e da mudança em sociedades fragmentadas e multiculturais.",
+        "reqBy": [
+            "CE305"
+        ]
+    },
+    {
+        "code": "CE242",
+        "name": "Métodos de Análise Econômica II",
+        "credits": 2,
+        "syllabus": "Análise de Dados Econômicos-Sociais. Deflacionamento de séries. Índices de Preços. Construção de Indicadores da Situação Econômico-Social: Medidas de Desigualdade, de Concentração e de Pobreza.",
+        "reqs": [
+            [
+                {
+                    "code": "CE172"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE372"
+        ]
+    },
+    {
+        "code": "CE243",
+        "name": "Ciência Política",
+        "credits": 4,
+        "syllabus": "Estado e Industrialização: nacionalismo e desenvolvimento. O significado histórico da Revolução de 64. O sentido da abertura prática e da redemocratização. O tempo do neo-liberalismo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE592"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE262",
+        "name": "Microeconomia I",
+        "credits": 4,
+        "syllabus": "Mercado: oferta, demanda e equilíbrio. Comportamento do consumidor. Demanda individual e de mercado. Produção e custos de produção. Equilíbrio em mercados competitivos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE362"
+        ]
+    },
+    {
+        "code": "CE272",
+        "name": "Contabilidade Social",
+        "credits": 4,
+        "syllabus": "Contabilidade nacional: definição e mensuração dos agregados. Gastos e determinação da renda. Consumo, poupança e investimento. Moeda, crédito e taxa de juros. Preferência pela liquidez. As condições de equilíbrio macroeconômico em uma economia aberta e com governo. Taxas de juros e taxa do câmbio em uma economia aberta. Crescimento e distribuição da renda. Análise aplicada das Contas Econômicas Integradas (CEI) e da Tabela de Recursos e Usos (TRU) divulgadas pelo IBGE.",
+        "reqs": [
+            [
+                {
+                    "code": "CE172"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE372"
+        ]
+    },
+    {
+        "code": "CE281",
+        "name": "Fundamentos de História Econômica do Brasil",
+        "credits": 4,
+        "syllabus": "A organização do Estado nacional: Estado nação no século XIX. Independência e unidade nacional na América. Processo de independência no Brasil. Economia, sociedade e identidade nacional no Brasil: Economia nacional e organização social. Escravismo e identidade nacional. Liberalismo e instituições políticas. Abolição e República. Estado e modernização no Brasil: origens do Brasil moderno. Revolução de 30 e a redefinição da questão nacional. Desenvolvimento e sociabilidade na segunda metade do século XX.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE191"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE291",
+        "name": "História Econômica Geral II",
+        "credits": 4,
+        "syllabus": "A construção da hegemonia britânica. Sociedade e política no século XIX. As industrializações atrasadas. Do imperialismo à grande guerra. Revolução russa. Economia mundial no entreguerras. Crise do liberalismo. A segunda-guerra mundial e Bretton Woods. Guerra fria. Economia mundial pós-segunda guerra. Direitos e democracia. Revolução cultural no ocidente. Mundo do trabalho. Socialismo real. Periferia. Década de crise. Fim do socialismo. Balanço e perspectiva.",
+        "reqs": [
+            [
+                {
+                    "code": "CE191"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE391",
+            "CE582"
+        ]
+    },
+    {
+        "code": "CE302",
+        "name": "Instituições de Direito",
+        "credits": 2,
+        "syllabus": "Direito Econômico: regulação jurídica da economia. Meio ambiente, consumidor, concorrência e direito de propriedade. Setores da economia: telecomunicações, gás e petróleo, sistema financeiro, agricultura, indústria."
+    },
+    {
+        "code": "CE304",
+        "name": "Direito",
+        "credits": 2,
+        "syllabus": "Fundamento de direito público e privado. Aplicação de normas jurídicas aos fatos econômicos."
+    },
+    {
+        "code": "CE305",
+        "name": "Economia Política I",
+        "credits": 4,
+        "syllabus": "O nascimento da economia política. Os fisiocratas e a noção de excedente econômico. Smith e a idéia de ordem natural. Smith: teoria do valor e divisão do trabalho. Ricardo: teoria do valor e da distribuição. Ricardo e a visão da crise capitalista. Marx: valor, dinheiro e valorização. Processo de trabalho e valorização em Marx. Reprodução simples e acumulação de capital em Marx. Marx e a lei geral da acumulação capitalista.",
+        "reqs": [
+            [
+                {
+                    "code": "CE105"
+                },
+                {
+                    "code": "CE205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE405"
+        ]
+    },
+    {
+        "code": "CE323",
+        "name": "Estatística Econômica e Introdução à Econometria",
+        "credits": 4,
+        "syllabus": "Inferência Estatística: Propriedades dos estimadores. Estimadores pontuais. Intervalos de confiança e testes de hipóteses. Análise de variância. Coeficiente de correlação. Regressão linear simples. Análise de variância da regressão. Intervalo de previsão.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE423"
+        ]
+    },
+    {
+        "code": "CE342",
+        "name": "Métodos de Análise Econômica III",
+        "credits": 2,
+        "syllabus": "Modelos macroeconômicos e aplicações. Modelos macroeconômicos híbridos utilizados por bancos centrais e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "CE372"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE572",
+            "CE671"
+        ]
+    },
+    {
+        "code": "CE351",
+        "name": "Matemática Financeira",
+        "credits": 4,
+        "syllabus": "Regime de capitalização simples, composto e contínuo. Taxas equivalentes. Operações e desconto. Taxa nominal, taxa efetiva e taxa real. Série de pagamentos uniformes. Sistemas de amortização. Operações financeiras mais comuns. Critério de avaliação de investimento: taxa interna de retorno e valor presente líquido. Títulos de renda fixa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE142"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE362",
+        "name": "Microeconomia II",
+        "credits": 4,
+        "syllabus": "Monopólio. Oligopólio e concorrência monopolística. Teoria dos jogos. Escolha intertemporal, incerteza e informação. Equilíbrio geral.",
+        "reqs": [
+            [
+                {
+                    "code": "CE262"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE462",
+            "CE482",
+            "CE651",
+            "CE751",
+            "CE938"
+        ]
+    },
+    {
+        "code": "CE372",
+        "name": "Macroeconomia I",
+        "credits": 4,
+        "syllabus": "Determinação do emprego e da produção no modelo clássico. Princípio da demanda efetiva. Determinação da produção, emprego e renda em Keynes. Determinação da renda em Kalecki. Análise macroeconômica.",
+        "reqs": [
+            [
+                {
+                    "code": "CE242"
+                },
+                {
+                    "code": "CE272"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE342",
+            "CE472",
+            "CE651",
+            "CE654",
+            "CE938"
+        ]
+    },
+    {
+        "code": "CE391",
+        "name": "Desenvolvimento Socioeconômico",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e subdesenvolvimento. O pensamento cepalino. A questão da revolução democrática burguesa. Teorias da dependência. O desenvolvimento associado. Contribuições teóricas mais recentes sobre desenvolvimento e subdesenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CE291"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE491",
+            "CE526",
+            "CE792"
+        ]
+    },
+    {
+        "code": "CE405",
+        "name": "Economia Política II",
+        "credits": 4,
+        "syllabus": "Marx: realização da mais-valia e os esquemas de reprodução. Valores e preços de produção em Marx. Lei da tendência à queda da taxa de lucro em Marx. Dinheiro, capital a juros e capital fictício em Marx. Hilferding e o capital financeiro. A discussão contemporânea sobre o capital fictício e crises financeiras.",
+        "reqs": [
+            [
+                {
+                    "code": "CE305"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE505",
+            "CE791"
+        ]
+    },
+    {
+        "code": "CE414",
+        "name": "Política e Políticas Sociais no Brasil",
+        "credits": 4,
+        "syllabus": "Políticas públicas e seu papel no mundo contemporâneo. Instrumental analítico da análise e da avaliação de políticas públicas na área social. Processo de constituição do Estado do Bem-Estar Social na perspectiva histórica e internacional. Evolução do sistema de proteção social brasileiro desde os anos trinta até a atualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE423",
+        "name": "Econometria I",
+        "credits": 4,
+        "syllabus": "Econometria e economia. Regressão Linear Múltipla. Variáveis Binárias. Violação das Hipóteses. Equações Simultâneas. Estimando e testando hipóteses em modelos de regressão linear. Aplicações em Economia.",
+        "reqs": [
+            [
+                {
+                    "code": "CE113"
+                },
+                {
+                    "code": "CE323"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE442",
+            "CE731"
+        ]
+    },
+    {
+        "code": "CE442",
+        "name": "Métodos de Análise Econômica IV",
+        "credits": 2,
+        "syllabus": "Séries Temporais: Estacionariedade, Processo Auto-Regressivo Média Móvel. Raiz Unitária e Cointegração. Simulação de modelos. Desenvolvimento de modelos de séries temporais. Aplicações em economia.",
+        "reqs": [
+            [
+                {
+                    "code": "CE423"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE451",
+        "name": "Métodos Quantitativos Aplicados à Economia Financeira",
+        "credits": 4,
+        "syllabus": "Processo decisório em condições de risco. Risco e retorno de um ativo e de uma carteira. Seleção de carteiras e teoria de Markowitz. Modelo de índice único. Modelo de índice múltiplo. Outros modelos de escolha de carteiras. Análise da utilidade do investidor. Modelo de precificação de ativos. Modelo de formação de preços por arbritagem. Eficiência de mercado. Mercado de opções e métodos de apreçamento. Mercado de renda fixa: formação de preços e administração de carteiras.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "ME715"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE462",
+        "name": "Microeconomia III",
+        "credits": 4,
+        "syllabus": "Equilíbrio geral e falhas de mercado. Informações assimétricas: seleção adversa, sinalização de mercado, risco moral e o problema da relação agente e principal. Externalidades e bens públicos. Teoria da regulação e defesa da concorrência. A firma nos enfoques neoclássico, transacional e da teoria da agência. Mecanismos de coordenação e preços de transferência. Motivação e incentivos. Estratégia, estrutura e resultado.",
+        "reqs": [
+            [
+                {
+                    "code": "CE362"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE562",
+            "CE652",
+            "CE753",
+            "CE783"
+        ]
+    },
+    {
+        "code": "CE472",
+        "name": "Macroeconomia II",
+        "credits": 4,
+        "syllabus": "Modelo keynesiano simplificado. Modelo IS-LM em economia fechada e aberta. Curvas de oferta agregada e demanda agregada em economia fechada e aberta. Curva de Phillips. Política econômica.",
+        "reqs": [
+            [
+                {
+                    "code": "CE372"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE572",
+            "CE671",
+            "CE783"
+        ]
+    },
+    {
+        "code": "CE482",
+        "name": "Economia Internacional I",
+        "credits": 4,
+        "syllabus": "Origens da teoria do comércio internacional. Modelos de comércio internacional: vantagens corporativas (abordagem ricardiana, Heckscher-Ohlin), modelo de concorrência imperfeita. Visões críticas aos modelos convencionais: cepalina e evolucionista. Instrumentos de política comercial e economia política da política comercial. Institucionalidade e regulação do comércio multilateral. Acordos de integração comercial. Teoria do investimento direto externo. Internacionalização comercial e produtiva e empresas transnacionais. Países em desenvolvimento e as redes globais e regionais de produção.",
+        "reqs": [
+            [
+                {
+                    "code": "CE362"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE582"
+        ]
+    },
+    {
+        "code": "CE491",
+        "name": "Formação Econômica do Brasil I",
+        "credits": 4,
+        "syllabus": "A especificidade de Portugal nos quadros da expansão comercial européia. A economia mercantil-escravista colonial. A crise do antigo sistema colonial. A economia mercantil-escravista cafeeira nacional. A crise do escravismo e a emergência do mercado de trabalho assalariado. Estado, indústria e agricultura. A dinâmica da acumulação: capital cafeeiro e capital industrial.",
+        "reqs": [
+            [
+                {
+                    "code": "CE391"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE591",
+            "CE653",
+            "CE891",
+            "CE892"
+        ]
+    },
+    {
+        "code": "CE505",
+        "name": "Economia Política Contemporânea",
+        "credits": 4,
+        "syllabus": "As corporações capitalistas produtivas e suas estratégias de acumulação. Dinâmica da renda e do emprego e a dinâmica da riqueza. Impactos da financeirização do capitalismo. Análise das expansões e crises. Identificação e avaliação das diferentes abordagens vigentes desde o enfoque da Economia Política.",
+        "reqs": [
+            [
+                {
+                    "code": "CE405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE526",
+        "name": "Teoria do Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Teorias sobre o desenvolvimento do capitalismo no século XX. O capital financeiro. O imperialismo. O capitalismo monopolista de Estado. Classes sociais no capitalismo de hoje.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE391"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE539",
+        "name": "Métodos Quantitativos Aplicados à Administração de Empresas I",
+        "credits": 4,
+        "syllabus": "Processo e sistema integrado de informações para gestão empresarial estratégica. Métodos para o controle e dimensionamento do capital produtivo. Métodos para dimensionamento do mercado, controle de vendas, controle da utilização e reposição dinâmica dos recursos produtivos. Conceituação de custos e processo de custeio. Métodos para determinação dos custos, preços e lucros unitários dos produtos. Sistemas de custeio: formação do preço devenda. Ferramentas para utilização das informações de custos e preços no processo estratégico. Métodos para avaliação dos resultados econômico e financeiro das empresas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE542",
+        "name": "Métodos de Análise Econômica V",
+        "credits": 4,
+        "syllabus": "Métodos e Instrumentos de análise de conjuntura econômica. Indicadores de instituições nacionais e multilaterais.",
+        "reqs": [
+            [
+                {
+                    "code": "CE593"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE562",
+        "name": "Microeconomia IV",
+        "credits": 4,
+        "syllabus": "Crítica à abordagem neoclássica da concorrência. A abordagem estrutura-conduta-desempenho e a contribuição de Steindl. Inovação e concorrência na abordagem neo-schumpeteriana. A empresa como agente da concorrência. Estratégias de crescimento das empresas.",
+        "reqs": [
+            [
+                {
+                    "code": "CE462"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE672"
+        ]
+    },
+    {
+        "code": "CE572",
+        "name": "Macroeconomia III",
+        "credits": 4,
+        "syllabus": "Tópicos da política macroeconômica. Crescimento e ciclo econômico. A contribuição de Harrod e da escola de Cambridge. O modelo de Solow. Modelos de crescimento endógeno. Restrição e comércio exterior. Crescimento e abertura financeira. Crescimento e distribuição da renda. Crescimento em modelos heterodoxos de consistência entre fluxos e estoques. Análises aplicadas dos modelos apresentados.",
+        "reqs": [
+            [
+                {
+                    "code": "CE342"
+                },
+                {
+                    "code": "CE472"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE872"
+        ]
+    },
+    {
+        "code": "CE582",
+        "name": "Economia Internacional II",
+        "credits": 4,
+        "syllabus": "O padrão-ouro e a estabilidade do sistema monetário internacional. O período entreguerras e fracionamento da economia mundial: Grande Depressão. Bretton Woods e hegemonia americana após a segunda grande guerra: reorganização do sistema monetário internacional. Padrão de produção das economias avançadas: reconstrução da Europa e do Japão. Processo de internacionalização e nova divisão internacional do trabalho. Euromercado e crise do dólar.",
+        "reqs": [
+            [
+                {
+                    "code": "CE291"
+                },
+                {
+                    "code": "CE482"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE682"
+        ]
+    },
+    {
+        "code": "CE591",
+        "name": "Formação Econômica do Brasil II",
+        "credits": 4,
+        "syllabus": "Expansão da economia cafeeira e gênese da industrialização. Crise da divisão internacional do trabalho e mudança no padrão de crescimento. Industrialização restringida. Estado, indústria e agricultura. Internacionalização dos mercados internos e industrialização pesada. Distribuição de renda. A crise dos anos 1960.",
+        "reqs": [
+            [
+                {
+                    "code": "CE491"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE592",
+            "CE853"
+        ]
+    },
+    {
+        "code": "CE592",
+        "name": "Economia Brasileira Contemporânea I",
+        "credits": 4,
+        "syllabus": "As reformas institucionais da ditadura militar e a retomada do crescimento. O ciclo expansivo: retomada, auge e inflexão. Estado, indústria e agricultura. Distribuição de renda. o novo quadro internacional e o II PND. Choques externos, crise e ajustamento na primeira metade dos anos 80.",
+        "reqs": [
+            [
+                {
+                    "code": "CE591"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE243",
+            "CE593"
+        ]
+    },
+    {
+        "code": "CE593",
+        "name": "Economia Brasileira Contemporânea II",
+        "credits": 4,
+        "syllabus": "Restrição externa, semiestagnação e inflação nos anos oitenta. Reformas estruturais nos anos noventa. Estabilidade monetária e semi-estagnação. Inserção externa. Reestruturação produtiva. Pobreza e distribuição de renda. Movimento recente da economia brasileira.",
+        "reqs": [
+            [
+                {
+                    "code": "CE592"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE542"
+        ]
+    },
+    {
+        "code": "CE623",
+        "name": "Sistema Monetário Internacional",
+        "credits": 4,
+        "syllabus": "A evolução do sistema financeiro internacional de 1870 até o presente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE671"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE625",
+        "name": "Técnicas de Pesquisa",
+        "credits": 2,
+        "syllabus": "Métodos de investigação científica. Elaboração de projetos de pesquisa. Assessoramento ao aluno na escolha do tema de monografia e orientador. Elaboração do projeto de monografia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE725"
+        ]
+    },
+    {
+        "code": "CE641",
+        "name": "Introdução à Administração",
+        "credits": 4,
+        "syllabus": "Organização do trabalho e revolução industrial. Organizações e administração. Teorias da administração clássicas e modernas. Processo administrativo e as aplicações nas empresas: planejamento, organização, liderança e controle. Administração de projetos. Administração de operações. Empresa classe mundial, toyotismo, qualidade total. Modelos de melhoria. Administração da tecnologia e da informação. Responsabilidade social.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE141"
+                },
+                {
+                    "code": "CE142"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE138"
+        ]
+    },
+    {
+        "code": "CE651",
+        "name": "Economia Agrícola",
+        "credits": 4,
+        "syllabus": "Desenvolvimento recente da agricultura e agroindústria no Brasil: situação e persperctivas. Estrutura fundiária. Financiamento e comercialização.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE362"
+                },
+                {
+                    "code": "CE372"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE652",
+        "name": "Economia Industrial",
+        "credits": 4,
+        "syllabus": "A indústria de transformação na economia mundial contemporânea. Diagnóstico da atual indústria brasileira. Evolução e transformação da indústria brasileira. Panorama recente de setores, empresas e grupos industriais. Política industrial, tecnológica e de comércio exterior no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE462"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE653",
+        "name": "Economia Regional e Urbana",
+        "credits": 4,
+        "syllabus": "Fundamentos históricos dos desequilíbrios regionais no Brasil. Integração do mercado nacional. Processo de urbanização. Políticas de desenvolvimento regional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE491"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE654",
+        "name": "Economia do Trabalho",
+        "credits": 4,
+        "syllabus": "População e força de trabalho. Estrutura do emprego e formas de organização da produção. Estrutura do emprego no Brasil. Nível e distribuição dos salários. Políticas de salários e emprego. Relações de trabalho e sindicalismo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE372"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE671",
+        "name": "Economia Monetária",
+        "credits": 4,
+        "syllabus": "Moeda: caracterização e evolução histórica. Fundamentos da teoria monetária: demanda por moeda e oferta de moeda endógena. Taxa de juros. Moeda e dinâmica econômica: a hipótese de instabilidade financeira. Política monetária: fundamentos, operacionalidade e mecanismos de transmissão. Sistemas e mercados financeiros: mercado de crédito, mercado de capitais, instrumentos de cobertura de riscos, regulamentação e supervisão. Sistema financeiro brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "CE342"
+                },
+                {
+                    "code": "CE472"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE623",
+            "CE712",
+            "CE723",
+            "CE791",
+            "CE823",
+            "CE923"
+        ]
+    },
+    {
+        "code": "CE672",
+        "name": "Estratégias Corporativas e Financeirização",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de finanças das corporações: risco, retorno e orçamento de capital. Decisões de estrutura de capital. Governança corporativa, mercado financeiro e desenvolvimento econômico. Visões alternativas do processo de financeirização. Financeirização e impactos sobre as estratégias das Corporações. Estratégia Shareholder Value. Gestão das estruturas de capital e de ativos das grandes corporações brasileiras. Padrão e instrumentos de financiamento das empresas não financeiras (ENF) no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "CE141"
+                },
+                {
+                    "code": "CE142"
+                },
+                {
+                    "code": "CE562"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE682",
+        "name": "Economia Internacional III",
+        "credits": 4,
+        "syllabus": "Contradições de Bretton Woods e dilemas da economia americana nos anos 1970. Crise do padrão de produção americano. A expansão do capital financeiro internacional nos anos 1970 e a crise da dívida externa dos países em desenvolvimento. Retomada da hegemonia americana: política do dólar forte e coordenação macroeconômica nos anos 1980. Regime dólar flexível e formação de zona monetária européia e da área de influência do iene. Inserção financeira e comercial dos países em desenvolvimento. Principais tendências da economia mundial.",
+        "reqs": [
+            [
+                {
+                    "code": "CE582"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE782",
+            "CE792"
+        ]
+    },
+    {
+        "code": "CE712",
+        "name": "Teoria Monetária e Financeira",
+        "credits": 4,
+        "syllabus": "Moeda, crédito e ciclo do capital em Marx. Hilferding e o capital financeiro. Keynes: Moeda, riqueza e composição da carteira dos agentes. Instabilidade financeira e ciclo econômico. Abordagens convencionais e neutralidade da moeda. Institucionalidade e papel dos sistemas financeiros. Teorias da regulação financeira.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE671"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG042"
+        ]
+    },
+    {
+        "code": "CE723",
+        "name": "Economia Financeira",
+        "credits": 4,
+        "syllabus": "Inovações financeiras. Instrumentos derivativos. Processos de Securitização. Agentes e participantes dos mercados. Instrumentos de tomada de decisões e gestão de riscos. Práticas financeiras: internacionalização dos fluxos de capitais, alavancagem, arbitragem e especulação. Os riscos financeiros contemporâneos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE671"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE725",
+        "name": "Monografia I",
+        "credits": 8,
+        "syllabus": "O aluno deverá realizar trabalho individual de pesquisa supervisionado por um professor orientador, embasado no projeto elaborado na disciplina Técnicas de Pesquisa.",
+        "reqs": [
+            [
+                {
+                    "code": "CE625"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE825"
+        ]
+    },
+    {
+        "code": "CE730",
+        "name": "Economia Brasileira",
+        "credits": 4,
+        "syllabus": "Formação econômica do Brasil até meados do século XIX. Economia cafeeira e industrialização. Evolução da economia no pós-guerra.",
+        "reqs": [
+            [
+                {
+                    "code": "CE131"
+                },
+                {
+                    "code": "HZ141"
+                },
+                {
+                    "code": "HZ158"
+                },
+                {
+                    "code": "HZ160"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE731",
+        "name": "Econometria II",
+        "credits": 4,
+        "syllabus": "Modelos Univariados de Séries de Tempo e suas aplicações. Processos Estacionários versus Processos não Estacionários. Modelos de volatilidade condicional e heterocedastico. Modelos Multivariados de Séries de Tempo e suas aplicações. Análise de Painel.",
+        "reqs": [
+            [
+                {
+                    "code": "CE423"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME715"
+        ]
+    },
+    {
+        "code": "CE738",
+        "name": "Economia para Engenharia",
+        "credits": 4,
+        "syllabus": "O processo de produção visto pelas óticas micro e macroeconômicas. Produção e propriedade. Produção como técnica e como processo social. Agregação da produção. Mercados. Papel do governo.",
+        "reqBy": [
+            "EA052",
+            "ES931"
+        ]
+    },
+    {
+        "code": "CE742",
+        "name": "Economia e Estratégia das Empresas",
+        "credits": 4,
+        "syllabus": "Empresa: caracterização e objetivos. Processo de administração estratégica: Análise do Ambiente. Estabelecimento da diretriz organizacional. Missão. Formulação da estratégia. Implementação da estratégia. Controle estratégico. Concorrência e processo competitivo. Inovação, desperdício e expansão de mercados. Estratégia competitiva. Vantagem competitiva. Análise da concorrência. Decisões estratégicas. Estratégia como inovação e ruptura. Estratégias para pequenas empresas. Estratégias para empreendimentos associativos e populares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE141"
+                },
+                {
+                    "code": "CE142"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE751",
+        "name": "Elaboração e Análise de Projetos",
+        "credits": 4,
+        "syllabus": "Crescimento, planejamento econômico e projetos. Estudos do mercado e dos aspectos técnicos do projeto. Estrutura organizacional. Aspectos legais e ambientais. Dimensionamento das grandezas econômicas e financeiras para o período de vigência do projeto. Projeção de receitas e custos. Estimativas de resultados e do investimento. Estudo das fontes de financiamento. Projeção do fluxo de caixa. Métodos de avaliação de projetos: taxa de retorno, análise do fluxo de caixa capitalizado, valor presente líquido, taxa interna de retorno. Avaliação sob a ótima do investidor privado e sob a ótica social.",
+        "reqs": [
+            [
+                {
+                    "code": "CE141"
+                },
+                {
+                    "code": "CE142"
+                },
+                {
+                    "code": "CE362"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE753",
+        "name": "Economia do Meio Ambiente",
+        "credits": 4,
+        "syllabus": "Serviços ecossistêmicos e insumos: sustentabilidade e disponibilidade. Falha de mercado e meio ambiente. Elementos para uma macroeconomia ambiental. Valoração de serviços ecossistêmicos. Desenvolvimento econômico e meio ambiente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE462"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE782",
+        "name": "Economia Internacional IV",
+        "credits": 4,
+        "syllabus": "Globalização produtiva e financeira. A evolução da mobilidade do capital e dos regimes cambiais. O debate sobre a abertura financeira. Hierarquia das moedas. O papel do dólar. Os ciclos de liquidez e os países em desenvolvimento. Crises cambiais. Temas contemporâneos em finanças internacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "CE682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE783",
+        "name": "Metodologia Econômica",
+        "credits": 4,
+        "syllabus": "Introdução à metodologia econômica. Revisão histórica da metodologia econômica. Popper e o falsificacionismo em debate. Realismo dos pressupostos e a economia como instrumento de previsão. Novas perspectivas em racionalidade econômica. Economia como construção de modelos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE462"
+                },
+                {
+                    "code": "CE472"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE791",
+        "name": "História do Pensamento Econômico",
+        "credits": 4,
+        "syllabus": "Significados da história do pensamento econômico. Economia clássica e a matriz liberal. Consolidação da economia neoclássica até os anos 30. Evolução das teorias macroeconômica e microeconômica no século 20.",
+        "reqs": [
+            [
+                {
+                    "code": "CE405"
+                },
+                {
+                    "code": "CE671"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE792",
+        "name": "Desenvolvimento Econômico Contemporâneo",
+        "credits": 4,
+        "syllabus": "A problemática do desenvolvimento econômico: conceitos e indicadores. A economia política do desenvolvimento, pioneiros e a tradição cepalina. O resgate do desenvolvimento. Novas visões do desenvolvimento. Variedades do capitalismo. Padrões e estilos de desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CE391"
+                },
+                {
+                    "code": "CE682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE823",
+        "name": "Mercado Bancário",
+        "credits": 4,
+        "syllabus": "Sistema financeiro no Brasil. Bancos privados e públicos no Brasil. Dinâmica dos sistemas financeiros e tendências da regulamentação. Tipologia e gestão de riscos da intermediação financeira.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE671"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE825",
+        "name": "Monografia II",
+        "credits": 8,
+        "syllabus": "Continuação do trabalho desenvolvido na disciplina Monografia I.",
+        "reqs": [
+            [
+                {
+                    "code": "CE725"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE838",
+        "name": "Contabilidade para Engenharia",
+        "credits": 2,
+        "syllabus": "A empresa e a tomada de decisões. Funções da contabilidade. Relatórios Contábeis. Análise aplicada das demonstrações financeiras e indicadores nas empresas.",
+        "reqs": [
+            [
+                {
+                    "code": "CE151"
+                }
+            ],
+            [
+                {
+                    "code": "EC306"
+                }
+            ],
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE839",
+        "name": "Introdução à Administração para Computação",
+        "credits": 2,
+        "syllabus": "Administração pública e privada. Funções e princípios da administração. O planejamento da empresa."
+    },
+    {
+        "code": "CE841",
+        "name": "Finanças das Empresas",
+        "credits": 4,
+        "syllabus": "Função financeira. Risco e retorno. Ciclo operacional e fundos gerados. Interpretação e análise das demonstrações financeiras. Lucro e valor econômico agregado. Alavancagem operacional e financeira. Administração financeira no curto prazo. Capital de giro na perspectiva estática e na perspectiva dinâmica. Planejamento financeiro no longo prazo. Fluxos de caixa. Métodos de análise de investimentos. Planejamento periódico: orçamento empresarial. Impacto das decisões financeiras na Economia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE853",
+        "name": "Economia do Setor Público",
+        "credits": 4,
+        "syllabus": "Política fiscal: visões teóricas. O papel do Estado. Sistema tributário: conceitos básicos, tipos de impostos e carga tributária. Sistema tributário brasileiro: evolução recente. Orçamento público e política orçamentária. Federalismo fiscal. Déficit e dívida pública. Política fiscal e finanças públicas no Brasil: evolução recente.",
+        "reqs": [
+            [
+                {
+                    "code": "CE591"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE856",
+        "name": "Tópicos Especiais de Economia I",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE857",
+        "name": "Tópicos Especiais de Economia II",
+        "credits": 4,
+        "syllabus": "Estudo de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE858",
+        "name": "Tópicos Especiais de Economia III",
+        "credits": 4,
+        "syllabus": "Estudo de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE859",
+        "name": "Tópicos Especiais de Economia IV",
+        "credits": 4,
+        "syllabus": "Estudo de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE860",
+        "name": "Tópicos Especiais de Economia V",
+        "credits": 4,
+        "syllabus": "Estudo de tópicos específicos de qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE861",
+        "name": "Tópicos Especiais de Economia VI",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE862",
+        "name": "Tópicos Especiais de Economia VII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE863",
+        "name": "Tópicos Especiais de Economia VIII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE864",
+        "name": "Tópicos Especiais de Economia IX",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE865",
+        "name": "Tópicos Especiais de Economia X",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser ficado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE866",
+        "name": "Tópicos Especiais de Economia XI",
+        "credits": 4,
+        "syllabus": "Estudo de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE867",
+        "name": "Tópicos Especiais de Economia XII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE868",
+        "name": "Tópicos Especiais de Economia XIII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE869",
+        "name": "Tópicos Especiais de Economia XIV",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE870",
+        "name": "Tópicos Especiais de Economia XV",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE871",
+        "name": "Tópicos Especiais de Economia XVI",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE872",
+        "name": "Macroeconomia Pós-Keynesiana",
+        "credits": 4,
+        "syllabus": "Fundamentos da escola pós-keynesiana. Incerteza e probabilidade. Expectativas e confiança. Convenções. Princípio da Demanda efetiva. Escolha de ativos e acumulação de riqueza. Preferência pela liquidez. Determinantes do investimento. A hipótese da instabilidade financeira. Formação de preços. Inflação. Macroeconomia da economia aberta. Crescimento econômico com restrição do balanço de pagamentos. Política econômica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE572"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE873",
+        "name": "Tópicos Especiais em Economia XVII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE874",
+        "name": "Tópicos Especiais de Economia XVIII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE875",
+        "name": "Tópicos Especiais de Economia XIX",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE876",
+        "name": "Tópicos Especiais de Economia XX",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE877",
+        "name": "Tópicos Especiais de Economia XXI",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE878",
+        "name": "Tópicos Especiais de Economia XXII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE879",
+        "name": "Tópicos Especiais de Economia XXIII",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE880",
+        "name": "Tópicos Especiais de Economia XXIV",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE881",
+        "name": "Tópicos Especiais de Economia XXV",
+        "credits": 4,
+        "syllabus": "Estudos de tópicos específicos em qualquer área da ciência econômica e da economia brasileira. Conteúdo a ser fixado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE891",
+        "name": "Economia Latino-Americana",
+        "credits": 4,
+        "syllabus": "Inserção na divisão internacional do trabalho. Tipologia das economias primário-exportadoras. O pós-guerra e a presença dos Estados Unidos. A atualidade. Características sub-regionais. Alternativas de desenvolvimento. Os anos 80: crise e respostas. Anos 90 e 2000: liberalização e crise.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE491"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE892",
+        "name": "Estado e Políticas Públicas",
+        "credits": 4,
+        "syllabus": "Breve abordagem das teorias do Estado. Diversidade de padrões de intervenção estatal. Experiências e instrumentos de políticas públicas setoriais (industrial, infraestrutura, social, agrícola, regional, urbana, etc).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE491"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE923",
+        "name": "Finanças e Mercado de Capitais",
+        "credits": 4,
+        "syllabus": "Teorias microeconômicas das decisões financeiras em situações de incerteza. Teorias das resultantes macroeconômicas no mercado de capitais. Aplicações da teoria da instabilidade financeira a crises. Mercado de capitais brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE671"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE938",
+        "name": "Economia Rural",
+        "credits": 4,
+        "syllabus": "A economia como ciência humana e social. O setor agropecuário dentro do sistema econômico. Tipos de organização da produção na agricultura. Custos, preços e mercados de produtos agropecuários. Evolução e perspectivas da agropecuária no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "CE362"
+                },
+                {
+                    "code": "CE372"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CE939",
+        "name": "Gestão de Marketing",
+        "credits": 4,
+        "syllabus": "Conceito de Marketing. Mercados e estruturas de mercado. O composto mercadológico. Abordagem a partir da análise, adaptação, ativação e avaliação. Abordagem a partir do produto, preço, promoção, ponto de vista e pós-venda. Mercados específicos: caracterização, análise, tendências. Plano de marketing.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

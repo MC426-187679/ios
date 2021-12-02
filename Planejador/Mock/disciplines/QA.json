@@ -1,0 +1,771 @@
+[
+    {
+        "code": "QA112",
+        "name": "Química Analítica Fundamental I",
+        "credits": 8,
+        "syllabus": "Introdução à Química Analítica. Estequiometria. Erros e Tratamento estatístico de dados. Amostragem. Equilíbrios químicos de precipitação e ácido-base. Aplicações de reações de precipitação e ácido-base na identificação e determinação de espécies químicas. Gravimetria. Introdução à volumetria. Volumetria de precipitação e neutralização.",
+        "reqBy": [
+            "QA217"
+        ]
+    },
+    {
+        "code": "QA213",
+        "name": "Química II (Engenharia de Alimentos)",
+        "credits": 6,
+        "syllabus": "Introdução à análise qualitativa. Fenômenos de equilíbrio. Técnicas gerais de análise qualitativa. Separação e classificação de cátions e ânions. Introdução à análise quantitativa. Amostragem. Tratamento dos dados analíticos. Técnicas gerais de análise quantitativa. Gravimetria. Volumetria.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "QG109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA411",
+            "TA724",
+            "TA729"
+        ]
+    },
+    {
+        "code": "QA217",
+        "name": "Química Analítica Fundamental II",
+        "credits": 8,
+        "syllabus": "Equilíbrios químicos de complexação e oxirredução. Células eletroquímicas. Aplicações de reações de complexação e oxirredução na identificação e quantificação de espécies químicas. Volumetria de complexação e oxirredução. Introdução à potenciometria. Preparo de amostra.",
+        "reqs": [
+            [
+                {
+                    "code": "QA112"
+                },
+                {
+                    "code": "QG109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA316",
+            "QF632"
+        ]
+    },
+    {
+        "code": "QA218",
+        "name": "Química Analítica",
+        "credits": 6,
+        "syllabus": "Equilíbrio Químico. Equilíbrio ácido-base. Equilíbrio de solubilidade. Equilíbrio de complexação. Equilíbrio de óxido-redução. Análise qualitativa e quantitativa. Gravimetria. Volumetria. Expressão de resultados analíticos.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                }
+            ],
+            [
+                {
+                    "code": "QG109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR508",
+            "FT830"
+        ]
+    },
+    {
+        "code": "QA282",
+        "name": "Química Clássica",
+        "credits": 8,
+        "syllabus": "Equilíbrios iônicos, ácido-base, de íons complexos e de óxido-redução. Solubilidade e produto de solubilidade. Análise qualitativa e quantitativa. Volumetria. Gravimetria. Expressão de resultados analíticos.",
+        "reqs": [
+            [
+                {
+                    "code": "QG108"
+                },
+                {
+                    "code": "QG109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA381",
+            "QA383",
+            "QA481",
+            "QA483",
+            "QA582",
+            "QA815",
+            "QF632"
+        ]
+    },
+    {
+        "code": "QA313",
+        "name": "Química III (Engenharia Química)",
+        "credits": 8,
+        "syllabus": "Erros e tratamento dos dados analíticos. Gravimetria. Volumetria. Fundamentos dos métodos de análise instrumental (espectrofotometria e potenciometria). Cromatografia.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                },
+                {
+                    "code": "QG102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ801"
+        ]
+    },
+    {
+        "code": "QA314",
+        "name": "Química Analítica (Engenharia de Alimentos)",
+        "credits": 4,
+        "syllabus": "Introdução à análise qualitativa. Fenômenos de equilíbrio. Introdução à Análise Quantitativa. Marcha analítica de separação e classificação de cátions e ânions. Amostragem. Tratamento de dados analíticos. Volumetria. Gravimetria.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA316",
+        "name": "Química Analítica III",
+        "credits": 8,
+        "syllabus": "Fundamentos da análise instrumental. Métodos espectroanalíticos, métodos eletroanalíticos e métodos de separação. Tratamento estatístico de dados e interpretação de resultados obtidos com métodos instrumentais.",
+        "reqs": [
+            [
+                {
+                    "code": "QA217"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA416"
+        ]
+    },
+    {
+        "code": "QA381",
+        "name": "Espectroanalítica",
+        "credits": 2,
+        "syllabus": "Introdução aos Métodos Espectroanalíticos. Instrumentos para Espectroscopia Ótica. Espectroscopia de Absorção Molecular no UV-visível. Espectroscopia de Luminescência Molecular. Espectroscopia Atômica.",
+        "reqs": [
+            [
+                {
+                    "code": "QA282"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA583",
+            "QA584"
+        ]
+    },
+    {
+        "code": "QA383",
+        "name": "Eletroanalítica",
+        "credits": 2,
+        "syllabus": "Introdução à química eletroanalítica. Potenciometria. Eletrogravimetria. Coulometria. Voltametria. Amperometria.",
+        "reqs": [
+            [
+                {
+                    "code": "QA282"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA583",
+            "QA584"
+        ]
+    },
+    {
+        "code": "QA416",
+        "name": "Química Analítica IV",
+        "credits": 8,
+        "syllabus": "Preparo de amostras. Aplicações de técnicas espectroanalíticas, eletroanalíticas e de separação em metodologias analíticas. Validação de metodologias analíticas.",
+        "reqs": [
+            [
+                {
+                    "code": "QA316"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA481",
+        "name": "Métodos de Separação",
+        "credits": 2,
+        "syllabus": "Introdução aos métodos de separação. Cromatografia em camada delgada e em coluna.  Cromatografia gasosa. Cromatografia líquida de alta eficiência e ultra-alta eficiência. Eletroforese capilar.",
+        "reqs": [
+            [
+                {
+                    "code": "QA282"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA583",
+            "QA584",
+            "QG565"
+        ]
+    },
+    {
+        "code": "QA483",
+        "name": "Estatística Aplicada à Química Analítica",
+        "credits": 2,
+        "syllabus": "Erros em análises químicas. Tratamento e avaliação estatística de dados. Amostragem. Métodos de padronização. Planejamento experimental. Introdução aos métodos multivariados.",
+        "reqs": [
+            [
+                {
+                    "code": "QA282"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA583",
+            "QA584"
+        ]
+    },
+    {
+        "code": "QA582",
+        "name": "Química Analítica Instrumental I",
+        "credits": 6,
+        "syllabus": "Fundamentos dos métodos espectroanalíticos, métodos eletroanalíticos e métodos de separação. Tratamento estatístico de dados e interpretação de resultados obtidos com métodos instrumentais.",
+        "reqs": [
+            [
+                {
+                    "code": "QA282"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA682"
+        ]
+    },
+    {
+        "code": "QA583",
+        "name": "Preparo de Amostras",
+        "credits": 2,
+        "syllabus": "Fundamentos das técnicas de preparo de amostras para analitos inorgânicos e orgânicos. ",
+        "reqs": [
+            [
+                {
+                    "code": "QA381"
+                },
+                {
+                    "code": "QA383"
+                },
+                {
+                    "code": "QA481"
+                },
+                {
+                    "code": "QA483"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA584",
+        "name": "Laboratório de Química Analítica Instrumental",
+        "credits": 6,
+        "syllabus": "Aplicações de técnicas espectroanalíticas, eletroanalíticas e de separação em métodosanalíticos. Tratamento de amostras.",
+        "reqs": [
+            [
+                {
+                    "code": "QA381"
+                },
+                {
+                    "code": "QA383"
+                },
+                {
+                    "code": "QA481"
+                },
+                {
+                    "code": "QA483"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QA851",
+            "QA852",
+            "QA853",
+            "QA854"
+        ]
+    },
+    {
+        "code": "QA682",
+        "name": "Química Analítica Instrumental II",
+        "credits": 6,
+        "syllabus": "Aplicações de técnicas espectroanalíticas, eletroanalíticas e de separação em metodologias analíticas. Validação de metodologias analíticas. Tratamento de amostras.",
+        "reqs": [
+            [
+                {
+                    "code": "QA582"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA815",
+        "name": "Química do Meio Ambiente",
+        "credits": 4,
+        "syllabus": "Química dos solos, águas e atmosfera. Poluição ambiental: prevenção e processos de tratamento (remediação). Reações químicas e processos de interesse para a saúde humana nas águas, nos solos e na atmosfera. Legislação e poluição ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "QA282"
+                },
+                {
+                    "code": "QF531",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA851",
+        "name": "Validação de Métodos Analíticos",
+        "credits": 2,
+        "syllabus": "Validação de métodos analíticos",
+        "reqs": [
+            [
+                {
+                    "code": "QA584"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA852",
+        "name": "Aplicações Analíticas da Espectroscopia Vibracional",
+        "credits": 2,
+        "syllabus": "Aplicações analíticas das espectroscopias no Infravermelho próximo, médio e Raman. Tratamento multivariado dos dados. Controle de Processos.",
+        "reqs": [
+            [
+                {
+                    "code": "QA584"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA853",
+        "name": "Especiação Química",
+        "credits": 2,
+        "syllabus": "Especiação e fracionamento aplicados a química analítica.",
+        "reqs": [
+            [
+                {
+                    "code": "QA584"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA854",
+        "name": "Quimiometria",
+        "credits": 2,
+        "syllabus": "Importância da estatística multivariada em química. Considerações sobre planejamentos fatoriais e otimização em química. Aplicação da análise multivariada para tratamento de dados químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "QA584"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA910",
+        "name": "Tópicos Especiais em Química Analítica I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA911",
+        "name": "Tópicos Especiais em Química Analítica II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA912",
+        "name": "Tópicos Especiais em Química Analítica III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA913",
+        "name": "Tópicos Especiais em Química Analítica IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA914",
+        "name": "Tópicos Especiais em Química Analítica V",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA915",
+        "name": "Tópicos Especiais em Química Analítica VI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA916",
+        "name": "Tópicos Especiais em Química Analítica VII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA917",
+        "name": "Tópicos Especiais em Química Analítica VIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA918",
+        "name": "Tópicos Especiais em Química Analítica IX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA919",
+        "name": "Tópicos Especiais em Química Analítica X",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA920",
+        "name": "Tópicos Especiais em Química Analítica XI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA921",
+        "name": "Tópicos Especiais em Química Analítica XII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA922",
+        "name": "Tópicos Especiais em Química Analítica XIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA923",
+        "name": "Tópicos Especiais em Química Analítica XIV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA924",
+        "name": "Tópicos Especiais em Química Analítica XV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA925",
+        "name": "Tópicos Especiais em Química Analítica XVI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA926",
+        "name": "Tópicos Especiais em Química Analítica XIX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA927",
+        "name": "Tópicos Especiais em Química Analítica XVIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA928",
+        "name": "Tópicos Especiais em Química Analítica XIX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA929",
+        "name": "Tópicos Especiais em Química Analítica XX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA930",
+        "name": "Tópicos Especiais em Química Analítica Experimental II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA931",
+        "name": "Tópicos Especiais em Química Analítica Experimental I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA932",
+        "name": "Tópicos Especiais em Química Analítica XXI",
+        "credits": 4,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA933",
+        "name": "Tópicos Especiais em Química Analítica XXII",
+        "credits": 4,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA934",
+        "name": "Tópicos Especiais em Química Analítica Experimental III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA935",
+        "name": "Tópicos Especiais em Química Analítica Experimental IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA936",
+        "name": "Tópicos Especiais em Química Analítica Experimental V",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QA937",
+        "name": "Tópicos Especiais em Química Analítica Experimental VI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

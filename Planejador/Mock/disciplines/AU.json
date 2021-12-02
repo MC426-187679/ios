@@ -1,0 +1,2329 @@
+[
+    {
+        "code": "AU001",
+        "name": "Projeto de Graduação I",
+        "credits": 10,
+        "syllabus": "Projeto arquitetônico e de desenho urbano complexo com abordagem interdisciplinar. Sequência completa das etapas de projeto profissional: estudos preliminares, análise de programa funcional, definição de partido, anteprojeto, maquetes de estudo, plano de massa para implantação na malha urbana.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                },
+                {
+                    "code": "AU120"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU020"
+        ]
+    },
+    {
+        "code": "AU013",
+        "name": "Metodologia de Projeto III: Humanização",
+        "credits": 2,
+        "syllabus": "Processo de projeto e métodos de apoio: análise do local, programa arquitetônico, humanização e construtibilidade. Análise de projetos, considerando os fatores: sociais, culturais, espaciais, comportamentais, ergonômicos, econômicos, de uso e conforto; equacionados sob as exigências locais, ambientais, técnicas e legais, abrangendo questões relativas à estética e aos princípios básicos do desenho urbano sustentável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP112",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU014",
+        "name": "Metodologia de Projeto IV: Arquitetura de Interesse Social",
+        "credits": 2,
+        "syllabus": "Processo de projeto e métodos de apoio: participação e inclusão do usuário e comunidades; variáveis físico ambientais, socioeconômicas, técnicas e de uso; relações de vizinhança. Introdução a sustentabilidade no ambiente construído.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU113",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU015",
+        "name": "Metodologia de Projeto V: Desempenho Térmico",
+        "credits": 2,
+        "syllabus": "Clima e ambiente construído. Conforto térmico e sustentabilidade na arquitetura. Índices de conforto. Conforto térmico no ambiente construído: conceitos, materiais e técnicas. Geometria da insolação. Ventilação natural. Cálculo, detalhamento e simulação do conforto térmico em projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU114",
+                    "partial": true
+                },
+                {
+                    "code": "AU501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU017",
+        "name": "Metodologia de Projeto VII: Acústica na Arquitetura",
+        "credits": 2,
+        "syllabus": "Acústica arquitetônica: conceitos, materiais e técnicas. Conforto acústico dos ambientes construídos. Normas de conforto acústico. Cálculo, detalhamento e simulação do conforto acústico em projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU018",
+        "name": "Metodologia do Projeto VIII: Complexidade",
+        "credits": 2,
+        "syllabus": "Teoria e crítica da arquitetura e do projeto urbano contemporâneo. Pensamento complexo aplicado à arquitetura. Processo de projeto e métodos de apoio: sistema axiomático e análise multicriterial.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU115",
+                    "partial": true
+                },
+                {
+                    "code": "AU117",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU019",
+        "name": "Metodologia de Projeto IX: Verticalidade",
+        "credits": 2,
+        "syllabus": "Processo de projeto e métodos de apoio: verticalidade, normas técnicas, densidade e sustentabilidade. Sistemas estruturais, prediais (instalações elétricas e telefonia, hidráulico-sanitárias, gás, ar condicionado e proteção contra incêndio) e métodos construtivos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU118",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU020",
+        "name": "Projeto de Graduação II",
+        "credits": 14,
+        "syllabus": "Projeto arquitetônico e de desenho urbano complexo com abordagem interdisciplinar. Desenvolvimento do Projeto de Graduação I. Projeto executivo, detalhamento de acabamento, maquetes de apresentação, memorial.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA490",
+                    "special": true
+                },
+                {
+                    "code": "AU001"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU021",
+        "name": "Metodologia de Projeto VI: Iluminação Natural e Artificial na Arquitetura",
+        "credits": 2,
+        "syllabus": "Processo de projeto e métodos de apoio: luz e visão; conceitos físicos fundamentais; normas brasileiras de iluminação natural e artificial. Modelos físicos e computacionais para estudos da iluminação natural e artificial. Luz elétrica: fontes, luminárias e controles. Conceituação do projeto Luminotécnico. Cálculo e simulação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU113"
+                },
+                {
+                    "code": "AU115",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU022",
+        "name": "Teoria de Projeto X: Integração Colaboração",
+        "credits": 2,
+        "syllabus": "Processo de projeto com instrumentos e ambientes colaborativos. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos. Estudo de caso de projetos de alto grau de controle de atividades e de orçamentos envolvendo equipes multidisciplinares."
+    },
+    {
+        "code": "AU023",
+        "name": "Metodologia de Projeto XI: Sistemas Arquitetônicos",
+        "credits": 4,
+        "syllabus": "Processo de projeto e métodos de apoio: conceitos e teorias da arquitetura contemporânea; impacto urbano ambiental do projeto de arquitetura; legislação, ética e prática profissional."
+    },
+    {
+        "code": "AU091",
+        "name": "Fundamentos da Arquitetura I",
+        "credits": 2,
+        "syllabus": "Introdução à Arquitetura; Processos de projeto, de representação e de construção ao longo da história; Promeiros processos construtivos: Primeiras Sociedades, Origens da arquitetura monumental: Mesopotâmia e Egito; Antiguidade Clássica: arquitetura Grega e Romana; Arquitetura e arte Paleocristã e Bizantina; Idade Média: da Alta Idade Média ao Gótico; o Renascimento e os Tratados de Arquitetura; Maneirismo e Barroco; O Iluminismo e as origens do Neoclássico; Romantismo e Neoclassicismo; Arquitetura e Revolução Insdustrial; Arquitetura e arte no século XIX."
+    },
+    {
+        "code": "AU092",
+        "name": "Fundamentos da Arquitetura II",
+        "credits": 2,
+        "syllabus": "As Primeiras Sociedades; As primeiras cidades do Vale do Rio Indo: a cultura Harappa e Mohenjo-Daro; Arquitetura na Índia do Período Védico; Arquitetura e as cidades na China; O Budismo e o Hinduísmo: a Arquitetura na Indonésia, na Índia e na China; A Arquitetura no Japão: cultio do arroz e a Arquitetura do celeiro, a Arquitetura dos templos Budistas e Xintoístas, a Arquitetura residencial e os castelos; Arquitetura e as cidades na América Central e Andina pré-colombianas: os Mais, os Incas e os Astecas; A Arquitetura Islâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU100",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "A ser definida a cada semestre em que for oferecida."
+    },
+    {
+        "code": "AU101",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "A ser definida a cada semestre em que for oferecida."
+    },
+    {
+        "code": "AU110",
+        "name": "Fundamentos da Teoria da Arquitetura",
+        "credits": 2,
+        "syllabus": "Introdução à História da Arquitetura; Processos de projeto e de construção ao longo da história; Primeiros processos construtivos: Egito e Creta; Antiguidade Clássica: arquitetura Grega e Romana; O tratado de Vitruvius; Queda do Império Romano e Império Bizantino; Idade Média: da Alta Idade Média ao Gótica; o Renascimento e os Tratados de Arquitetura; Maneirismo, Barroco e Rococó; O iluminismo e as origens do Neoclássico; Romantismo e Neoclassicismo; Arquitetura e Revolução Industrial; Arquitetura e Arte Moderna; Arquitetura e Arte Contemporânea."
+    },
+    {
+        "code": "AU113",
+        "name": "Teoria e Projeto III: Fatores do Projeto",
+        "credits": 6,
+        "syllabus": "Fatores na concepção do projeto de arquitetura:sociais, culturais, funcionais,espaciais, psicológicos e econômicos, equacionados sob as exigências locais, ambientais, técnicas e legais abrangendo questões relativas à estética e aos princípios básicos do desenho urbano sustentável. Processo de projeto: análise de projetos e estrutura-arquitetura. Exercícios de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AP112",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU014",
+            "AU021",
+            "AU114",
+            "AU121",
+            "AU903",
+            "AU911",
+            "CV902",
+            "CV906"
+        ]
+    },
+    {
+        "code": "AU114",
+        "name": "Teoria e Projeto IV: Projetos de Interesse Social",
+        "credits": 4,
+        "syllabus": "Modalidades e soluções espaciais de projetos de interesse social, especialmente da habitação. Variáveis físico ambientais, socioeconômicas, técnicas e funcionais. Relações de vizinhança. Espaços e equipamentos de uso coletivo. Exercícios de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU113",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU015",
+            "AU115"
+        ]
+    },
+    {
+        "code": "AU115",
+        "name": "Teoria e Projeto V: Conforto Térmico",
+        "credits": 6,
+        "syllabus": "Clima e ambiente construído. Conforto térmico e sustentabilidade na arquitetura. Índices de conforto. Conforto térmico no ambiente construído: conceitos, materiais e técnicas. Geometria da insolação. Ventilação natural. Condicionamento de ar. Conservação de energia. Cálculo, detalhamento e avaliação do conforto térmico em projeto. Projetos variados cujo tema central seja o conforto térmico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU114",
+                    "partial": true
+                },
+                {
+                    "code": "AU501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU018",
+            "AU021",
+            "AU118",
+            "AU121",
+            "AU121"
+        ]
+    },
+    {
+        "code": "AU117",
+        "name": "Teoria e Projeto VII: Acústica Arquitetônica",
+        "credits": 6,
+        "syllabus": "Acústica arquitetônica: conceitos, materiais e técnicas. Questões de projeto referente ao conforto acústico dos ambientes construídos. Normas de conforto acústico. Projetos variados cujo tema central seja a acústica.",
+        "reqs": [
+            [
+                {
+                    "code": "AU501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU018",
+            "AU118"
+        ]
+    },
+    {
+        "code": "AU118",
+        "name": "Teoria e Projeto VIII: Complexidade",
+        "credits": 6,
+        "syllabus": "Projeto de alta complexidade funcional. Edifícios Multifuncionais. Edifícios públicos. Impacto urbano-ambiental dos projetos de arquitetura. Desenho urbano. Metodologia de projeto. Teoria e crítica contemporânea. Arquitetura contemporânea nacional e internacional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP742",
+                    "partial": true
+                },
+                {
+                    "code": "AU115"
+                },
+                {
+                    "code": "AU117",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU019",
+            "AU119"
+        ]
+    },
+    {
+        "code": "AU119",
+        "name": "Teoria e Projeto IX: Verticalidade",
+        "credits": 6,
+        "syllabus": "Edifícios verticais. Projetos de edifícios residenciais ou comerciais, enfocando principalmente questões referentes aos sistemas estruturais, prediais (instalações elétricas e telefonia, hidráulico-sanitárias, gás, ar condicionado e proteção contra incêndio) e métodos construtivos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU118",
+                    "partial": true
+                },
+                {
+                    "code": "AU816",
+                    "partial": true
+                },
+                {
+                    "code": "AU817",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU120"
+        ]
+    },
+    {
+        "code": "AU120",
+        "name": "Teoria e Projeto X: Projeto Integrado e Colaborativo",
+        "credits": 6,
+        "syllabus": "Instrumentos e ambientes. Internet, extranet e intranet. Metodologias e estratégias organizacionais para projetos integrados e colaborativos. Coordenação de projetos. Estudo de caso de projetos de alto grau de controle de atividades e de orçamentos envolvendo equipes multidisciplinares. Desenvolvimento de projeto de forma colaborativa utilizando recursos da tecnologia da informação e comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU119",
+                    "partial": true
+                },
+                {
+                    "code": "AU406",
+                    "partial": true
+                },
+                {
+                    "code": "AU815",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU001"
+        ]
+    },
+    {
+        "code": "AU121",
+        "name": "Teoria e Projeto VI - Iluminação Natural e Artificial na Arquitetura",
+        "credits": 8,
+        "syllabus": "Iluminação natural e artificial na arquitetura contemporânea. Aprendendo a ver (exercícios de sensibilização). Luz e visão. Conceitos físicos fundamentais. Normas Brasileiras sobre iluminação natural e artificial. A iluminação natural na prática do projeto de arquitetura. Modelos físicos computacionais para estudos da iluminação natural. Luz elétrica: fontes, luminárias e controles. Conceituação do projeto Luminotécnico. Modelos físicos e computacionais para estudos da iluminação artificial. Projeto de edifício com ênfase nas soluções de iluminação natural e artificial.",
+        "reqs": [
+            [
+                {
+                    "code": "AU113"
+                },
+                {
+                    "code": "AU115",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "AU115",
+                    "partial": true
+                },
+                {
+                    "code": "AU501",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU133",
+        "name": "Projeto III: Fatores de Projeto de Arquitetura",
+        "credits": 6,
+        "syllabus": "Fatores na concepção do projeto de arquitetura aplicados a exercícios projetuais: sociais, culturais, espaciais, urbanos, comportamentais, ambientais, legais, econômicos, de uso e conforto. Processo de projeto: entendimento do lugar, programa de necessidades e construbilidade. Concepção do habitat no contexto da cidade com ênfase nos conceitos humanizadores do ambiente cosntruído. Escalas do projeto de arquitetura. Exercícios de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP112",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU134",
+            "AU136"
+        ]
+    },
+    {
+        "code": "AU134",
+        "name": "Projeto IV: Arquitetura de Interesse Social",
+        "credits": 6,
+        "syllabus": "Modalidades e soluções arquitetônicas e urbanísticas de projetos de interesse social, especialmente da habitação. Análise e diagnóstico dos assentamentos humanos sociais. Variáveis ambientais, socioeconômicas e técnicas. Relações de vizinhança. Participação e inclusão da comunidade no processo de projeto. Desenho urbano sustentável. Espaços e equipamentos de uso coletivo. Exercícios de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU133",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU135"
+        ]
+    },
+    {
+        "code": "AU135",
+        "name": "Projeto V: Arquitetura Bioclimática",
+        "credits": 6,
+        "syllabus": "Projeto de arquitetura bioclimática. Concepção e avaliação. Projetos variados cujo tema central seja o conforto térmico. Edifícios institucionais com ênfase na arquitetura escolar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU134",
+                    "partial": true
+                },
+                {
+                    "code": "AU501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU136",
+            "AU136",
+            "AU138"
+        ]
+    },
+    {
+        "code": "AU136",
+        "name": "Projeto VI: Iluminação Natural e Artificial na Arquitetura",
+        "credits": 6,
+        "syllabus": "Concepção e desenvolvimento de projeto com ênfase na iluminação natural e artificial. Aprendendo a ver: exercícios de sensibilização. A iluminação natural na prática do projeto de arquitetura.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU133",
+                    "partial": true
+                },
+                {
+                    "code": "AU135",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "AU135",
+                    "partial": true
+                },
+                {
+                    "code": "AU501",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU137",
+        "name": "Projeto VII: Acústica na Arquitetura",
+        "credits": 6,
+        "syllabus": "Projeto com ênfase na acústica arquitetônica. Concepção e avaliação. Desenvolvimento de projetos variados cujo tema central seja o conforto acústico. Edifícios com ênfase em atividades culturais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU501",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU138"
+        ]
+    },
+    {
+        "code": "AU138",
+        "name": "Projeto VIII: Complexidade",
+        "credits": 6,
+        "syllabus": "Projeto de alta complexidade funcional. Edifícios Multifuncionais. Edifícios públicos. Impacto urbano-ambiental dos projetos de arquitetura. Desenho urbano. Metodologia de projeto. Arquitetura contemporânea nacional e internacional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU135"
+                },
+                {
+                    "code": "AU137"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU139"
+        ]
+    },
+    {
+        "code": "AU139",
+        "name": "Projeto IX: Verticalidade",
+        "credits": 6,
+        "syllabus": "Processo de projeto e métodos de apoio: verticalidade, normas técnicas, densidade e sustentabilidade. Sistemas estruturais, prediais (instalações elétricas e telefonia, hidráulico-sanitárias, gás, ar condicionado e proteção contra incêndio) e métodos construtivos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU138",
+                    "partial": true
+                },
+                {
+                    "code": "AU816",
+                    "partial": true
+                },
+                {
+                    "code": "AU817",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU140"
+        ]
+    },
+    {
+        "code": "AU140",
+        "name": "Projeto X: Projeto Integrado e Colaborativo",
+        "credits": 6,
+        "syllabus": "Desenvolvimento de projetos de arquitetura de forma colaborativa, utilizando recursos da tecnologia da informação e comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU139",
+                    "partial": true
+                },
+                {
+                    "code": "AU406",
+                    "partial": true
+                },
+                {
+                    "code": "AU815",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU143",
+        "name": "Teoria e Projeto III: Estratégias de Concepção em Arquitetura",
+        "credits": 8,
+        "syllabus": "Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Desenvolvimento de projetos a partir da concepção do habitar no contexto da cidade com ênfase na humanização do ambiente construído e desenho urbano sustentável.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AP112",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU144",
+        "name": "Teoria e Projeto IV: Arquitetura de Interesse Social",
+        "credits": 12,
+        "syllabus": "Dinâmicas de produção do espaço na cidade. Relações do espaço construído com os espaços abertos e seus diversos significados. Projeto participativo e inclusão do usuário e comunidades. Introdução à sustentabilidade urbana. Modalidades e soluções de projetos de interesse social. Relação entre os espaços públicos, semi-públicos e privados. Relações de vizinhança. Desenho urbano sustentável. Prática de projeto em situações de precariedade habitacional e urbana. Espaços e equipamentos comunitários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU145",
+        "name": "Teoria e Projeto V: Conforto Térmico e Projeto Bioclimático",
+        "credits": 8,
+        "syllabus": "Clima e conforto no ambiente construído. Arquitetura bioclimática. O ser humano e o ambiente térmico. Índices de conforto. Propriedades termofísicas dos materiais e componentes construtivos. Radiação solar. Geometria da insolação. Ventilação natural. Cálculo, detalhamento e simulação do desempenho térmico em projeto. Projeto de arquitetura bioclimática. Concepção e avaliação. Desenvolvimento de projetos variados cujo tema central seja o conforto térmico. Edifícios institucionais. Práticas de laboratório.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU146",
+                    "partial": true
+                },
+                {
+                    "code": "AU501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU701"
+        ]
+    },
+    {
+        "code": "AU146",
+        "name": "Teoria e Projeto VI: Iluminação Natural e Artificial na Arquitetura",
+        "credits": 10,
+        "syllabus": "O lugar da iluminação natural e artificial na arquitetura e no urbanismo contemporâneos. Aprender a ver (exercícios de sensibilização). Luz e visão. Conceitos físicos fundamentais. Iluminação Natural: sol e céu como fontes de luz; trajetórias solares, captação da luz e proteção contra a insolação em sistemas de iluminação lateral e zenital. Modelos físicos e computacionais. Processo de Projeto. Exigências legais e normativas. Iluminação Artificial: fontes de luz elétrica, luminárias, equipamentos auxiliares e dispositivos de controle. Modelos gráficos e computacionais. Exigências legais e normativas. Processo de Projeto. Projeto de edifício com ênfase nas soluções de iluminação natural e artificial.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU501",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU145",
+            "AU701"
+        ]
+    },
+    {
+        "code": "AU147",
+        "name": "Teoria e Projeto VII: Acústica Arquitetônica",
+        "credits": 8,
+        "syllabus": "Projeto com ênfase em questões acústicas. Conceitos, materiais e técnicas. Conforto acústico do ambiente construído. Normas e critérios de conforto acústico. Cálculo, detalhamento e simulação acústica de salas aplicados ao projeto. Concepção e avaliação de projetos com ênfase nos aspectos acústicos e na qualidade acústica da sala. Desenvolvimento de exercício de projeto arquitetônico cujo programa de necessidade esteja relacionado a ambientes artístico-culturais-músicais: teatro, ópera, sala de concertos, auditórios, estúdios.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU148",
+            "AU701"
+        ]
+    },
+    {
+        "code": "AU148",
+        "name": "Teoria e Projeto VIII: Complexidade em Arquitetura",
+        "credits": 8,
+        "syllabus": "Teoria e crítica da arquitetura e do urbanismo. Pensamento complexo aplicado à arquitetura. Metodologia de projeto. Projetos de alta complexidade programática e funcional. Edifícios multifuncionais. Políticas públicas relacionadas à arquitetura e ao urbanismo. Impacto urbano ambiental dos projetos de arquitetura. A metrópole contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU147",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU149"
+        ]
+    },
+    {
+        "code": "AU149",
+        "name": "Teoria e Projeto IX: Arquitetura e Verticalidade",
+        "credits": 8,
+        "syllabus": "Verticalidade, normas técnicas, densidade e sustentabilidade. Sistemas estruturais, prediais (instalações elétricas e telefonia, hidráulico-sanitárias, gás, ar condicionado e proteção contra incêndio) e métodos construtivos. Concepção e desenvolvimento de projetos de edifícios verticais com ênfase em edifícios residenciais ou comerciais. Detalhamento construtivo. Integração com projeto estrutural e complementares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU148",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU150"
+        ]
+    },
+    {
+        "code": "AU150",
+        "name": "Teoria e Projeto X: Integração e Colaboração no Projeto",
+        "credits": 8,
+        "syllabus": "Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos. Estudo de caso de projetos de alto grau de controle de atividades e de orçamentos envolvendo equipes multidisciplinares. Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU149",
+                    "partial": true
+                },
+                {
+                    "code": "AU406",
+                    "partial": true
+                },
+                {
+                    "code": "AU815",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU191",
+        "name": "Teoria e Projeto: Ateliê Vertical 1",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU192",
+        "name": "Teoria e Projeto: Ateliê Vertical 2",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU193",
+        "name": "Teoria e Projeto: Ateliê Vertical 3",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU194",
+        "name": "Teoria e Projeto: Ateliê Vertical 4",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU195",
+        "name": "Teoria e Projeto: Ateliê Vertical 5",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU196",
+        "name": "Teoria e Projeto: Ateliê Vertical 6",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU197",
+        "name": "Teoria e Projeto: Ateliê Vertical 7",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU198",
+        "name": "Teoria e Projeto: Ateliê Vertical 8",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU199",
+        "name": "Teoria e Projeto: Ateliê Vertical 9",
+        "credits": 6,
+        "syllabus": "Ateliê temático com equipes mistas transversalmente ao curso. Metodologia do processo de concepção e conceitos projetuais: partido, programa, humanização e sustentabilidade. Condicionantes do lugar, uso, tecnologias construtivas e contexto socioambiental na concepção do projeto de arquitetura aplicadas à prática projetual. Análise de projetos em relação ao meio e a paisagem: eixos, preexistências edificadas, comunidades e vegetação. Processo de projeto com instrumentos e ambientes colaborativos. Building Information Modeling. Metodologias e estratégias organizacionais para projetos integrados. Coordenação de projetos.  Desenvolvimento de projetos de arquitetura de forma colaborativa utilizando recursos da tecnologia da informação e comunicação."
+    },
+    {
+        "code": "AU200",
+        "name": "Tópicos em Arquitetura e Urbanismo I",
+        "credits": 2,
+        "syllabus": "A ser definida a cada semestre em que for oferecida."
+    },
+    {
+        "code": "AU201",
+        "name": "Tópicos em Arquitetura e Urbanismo II",
+        "credits": 2,
+        "syllabus": "A ser definida a cada semestre em que for oferecida."
+    },
+    {
+        "code": "AU202",
+        "name": "Tópicos em Arquitetura e Urbanismo VIII",
+        "credits": 2,
+        "syllabus": "A ser definida a cada semestre em que for oferecida."
+    },
+    {
+        "code": "AU203",
+        "name": "Tópicos em Arquitetura e Urbanismo III",
+        "credits": 2,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU204",
+        "name": "Tópicos em Arquitetura e Urbanismo IV",
+        "credits": 2,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU205",
+        "name": "Tópicos em Arquitetura e Urbanismo V",
+        "credits": 2,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU206",
+        "name": "Tópicos em Arquitetura e Urbanismo VI",
+        "credits": 4,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU207",
+        "name": "Tópicos em Arquitetura e Urbanismo VII",
+        "credits": 2,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU208",
+        "name": "Tópicos em Arquitetrua e Urbanismo VIII",
+        "credits": 2,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU209",
+        "name": "Tópicos em Arquitetura e Urbanismo IX",
+        "credits": 2,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU210",
+        "name": "Tópicos em Arquitetura e Urbanismo X",
+        "credits": 2,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU211",
+        "name": "Tópicos em Arquitetura e Urbanismo XI",
+        "credits": 2,
+        "syllabus": "Tópicos específicos de Arquitetura e Urbanismo desenvolvidos através de metologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU212",
+        "name": "Desenho II: Desenho Técnico",
+        "credits": 4,
+        "syllabus": "Expressão de idéias através da comunicação visual. Representação do espaço arquitetônico; Introdução à modelagem geométrica digital; Conceituação básica da compreensão das figuras no espaço e sua representação através do processo das projeções ortogonais. Representação gráfica dos elementos construtivos aplicados nos projetos de Arquitetura. Normas Gerais de Desenho Técnico (ABNT).",
+        "reqs": [
+            [
+                {
+                    "code": "AU221"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU313"
+        ]
+    },
+    {
+        "code": "AU221",
+        "name": "Geometria Aplicada à Arquitetura",
+        "credits": 4,
+        "syllabus": "Geometria Espacial: Projeções Ortogonais e Rebatimentos; Conceituação básica da compreensão das figuras no espaço e sua representação através do processo das projeções ortogonais e perspectivas; Perspectivas Paralelas e Representação Gráfica; Sombras; Geometria de Coberturas: concordância e interferência de planos e sua representação; Planificação; Modelagem: Projeto e construção de sólidos: arestas e faces/plano de massa.",
+        "reqBy": [
+            "AU212",
+            "AU223",
+            "AU302",
+            "AU312"
+        ]
+    },
+    {
+        "code": "AU222",
+        "name": "Cálculo",
+        "credits": 4,
+        "syllabus": "Intervalos e Desigualdades. Funções. Limites. Continuidade. Derivada e Diferencial. Integral. Técnicas e Integração.",
+        "reqBy": [
+            "ME414"
+        ]
+    },
+    {
+        "code": "AU223",
+        "name": "Topografia e Informações Geográficas para Arquitetura",
+        "credits": 4,
+        "syllabus": "Introdução: Conceitos fundamentais; unidades de medidas e sistema de coordenadas. Planimetria. Altimetria. Terraplenagem. Noções de astronomia. Geodésia. Cartografia. Sistema de projeção UTM (Universal Transferso de Mercator). Conceitos básicos de Fotogrametria e Sensoriamento Remoto. Posicionamento por Satélite - GPS e Sistemas de Informação Geográfica envolvendo questões ambientais.",
+        "reqs": [
+            [
+                {
+                    "code": "AU221"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU901",
+            "AU902",
+            "AU919",
+            "CV087",
+            "CV088",
+            "CV089",
+            "CV090"
+        ]
+    },
+    {
+        "code": "AU225",
+        "name": "Estágio Supervisionado I",
+        "credits": 4,
+        "syllabus": "Estágio em Arquitetura e Urbanismo, introdução à prática profissional, relação entre teoria e prática no exercício da Arquitetura e Urbanismo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU250",
+        "name": "Tópicos em Arquitetura e Urbanismo XII",
+        "credits": 4,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU251",
+        "name": "Tópicos em Arquitetura e Urbanismo XIII",
+        "credits": 4,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU252",
+        "name": "Tópicos em Arquitetura e Urbanismo XIV",
+        "credits": 4,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU253",
+        "name": "Tópicos em Arquitetura e Urbanismo XV",
+        "credits": 4,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU254",
+        "name": "Tópicos em Arquitetura e Urbanismo XVI",
+        "credits": 4,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU255",
+        "name": "Tópicos em Arquitetura e Urbanismo XVII",
+        "credits": 4,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU256",
+        "name": "Tópicos em Arquitetura e UrbanismoXVIII",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos atraves de metodologia variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU257",
+        "name": "Tópicos em Arquitetura e Urbanismo XIX",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e ranismo desenvolvidos através de metofologias variadas",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU258",
+        "name": "Tópicos em Arquitetura e Urbanismo XX",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de Metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU259",
+        "name": "Tópicos em Arquitetura e Urbanismo XXI",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU260",
+        "name": "Tópicos em Arquitetura e Urbanismo XXII",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e Urbanismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU261",
+        "name": "Tópicos em Arquitetura e Urbanismo XXIII",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e Uranismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU262",
+        "name": "Tópicos em Arquitetura e Urbanismo XXIV",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e Uranismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU263",
+        "name": "Tópicos em Arquitetura e Urbanismo XXV",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e Uranismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU264",
+        "name": "Tópicos em Arquitetura e Urbanismo XXVI",
+        "credits": 3,
+        "syllabus": "Tópicos específicos em Arquitetura e Uranismo desenvolvidos através de metodologias variadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU300",
+        "name": "Projeto assistido por computador",
+        "credits": 3,
+        "syllabus": "Introdução ao conceito de Modelagem da Informação da Construção (BIM), por meio da modelagem arquitetônica de projetos de referência. Conceitos básicos e detalhados da construção, englobando a modelagem de paredes, pisos, portas, janelas, telhados, customização de pranchas, parametrização de elementos, renderização, representação técnica do modelo geométrico digital e a extração de quantitativos. ",
+        "reqBy": [
+            "AU303",
+            "AU904",
+            "AU908",
+            "AU909",
+            "CV702"
+        ]
+    },
+    {
+        "code": "AU301",
+        "name": "Informática Aplicada I: Introdução à Comunicação",
+        "credits": 2,
+        "syllabus": "Conceitos de design gráfico. Utilização de sistemas integrados: editor de texto, planilha eletrônica e editor de apresentações. Conceitos de raster e vector. Utilização de programas de tratamento de imagens, editoração eletrônica e web design."
+    },
+    {
+        "code": "AU302",
+        "name": "Informática Aplicada II: Introdução ao CAD",
+        "credits": 2,
+        "syllabus": "Sistemas de CAD. Introdução ao conceito de BIM. Interoperalidade. Modelagem geométrica digital. Parametrização e definição de classes de objetos. Representação técnica 2D a partir do modelo geométrico digital.",
+        "reqs": [
+            [
+                {
+                    "code": "AU221",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU303",
+        "name": "Informática Aplicada III: CAD no Processo Criativo",
+        "credits": 2,
+        "syllabus": "O projeto auxiliado por computador - definições e histórico. Conceitos computacionais para a geração de formas arquitetônicas: composições com diferentes tipos de simetria, com formas paramétricas e com aleatoriedade; substituições e sistemas de composição hierárquicos. Novas metodologias do projeto com o uso de recursos computacionais: gramática da forma, projeto baseado em performance, projeto baseado em restrições, projeto baseado em desempenho. Exercício de projeto com ferramenta computacional específica para a geração de formas.",
+        "reqs": [
+            [
+                {
+                    "code": "AU300"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU312",
+            "AU910"
+        ]
+    },
+    {
+        "code": "AU311",
+        "name": "Informática Aplicada I: Introdução",
+        "credits": 4,
+        "syllabus": "Laboratório de microinformática. Introdução à informática: equipamentos e sistemas operacionais. Utilização de editores de desenho e de imagens. Utilização de sistemas integrados para escritório: editor de texto, planilha eletrônica e editor de apresentações. Introdução à Internet.",
+        "reqBy": [
+            "AU312"
+        ]
+    },
+    {
+        "code": "AU312",
+        "name": "Informática Aplicada II: Planos e Volumes",
+        "credits": 4,
+        "syllabus": "Composição e articulação de formas, superfícies e volumes. Aplicação de softwares específicos, editores de imagens e modeladores de superfícies e sólidos, animação e multimídia.",
+        "reqs": [
+            [
+                {
+                    "code": "AP111",
+                    "partial": true
+                },
+                {
+                    "code": "AU221",
+                    "partial": true
+                },
+                {
+                    "code": "AU311",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "AP213",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "AU303",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU313"
+        ]
+    },
+    {
+        "code": "AU313",
+        "name": "Informática Aplicada III: CADD",
+        "credits": 4,
+        "syllabus": "Desenho e projeto em 2D (plantas baixas) e 3D (maquetes virtuais). Distribuição e organização do desenho em níveis de informação. Blocos de bibliotecas. Visualização em 3D. Impressão.",
+        "reqs": [
+            [
+                {
+                    "code": "AU212",
+                    "partial": true
+                },
+                {
+                    "code": "AU312"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU904"
+        ]
+    },
+    {
+        "code": "AU401",
+        "name": "Estruturas I: Introdução",
+        "credits": 4,
+        "syllabus": "Fundamentos da mecânica Newtoniana. Estática dos corpos rígidos. Noções sobre o projeto estrutural. Morfologia e classificação de elementos estruturais. Vínculos estruturais. Ações e reações. Esforços solicitantes e relações diferenciais. Diagramas de esforços solicitantes. Centro de gravidade, momento estático e momento de inércia.",
+        "reqs": [
+            [
+                {
+                    "code": "MS123",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU402"
+        ]
+    },
+    {
+        "code": "AU402",
+        "name": "Estruturas II: Resistência",
+        "credits": 2,
+        "syllabus": "Tensão. Deformação. Relação tensão-deformação. Tração e compressão. Flexão. Cisalhamento. Torção. Deslocamentos em vigas. Instabilidade de barras.",
+        "reqs": [
+            [
+                {
+                    "code": "AU401",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU403",
+            "AU404",
+            "AU405",
+            "AU407"
+        ]
+    },
+    {
+        "code": "AU403",
+        "name": "Estruturas III: Estática",
+        "credits": 2,
+        "syllabus": "Processo dos esforços. Processo dos deslocamentos. Aplicação a vigas, pórticos e arcos. Aplicações de programas computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "AU402",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU404",
+        "name": "Estruturas IV: Fundações",
+        "credits": 4,
+        "syllabus": "Classificação dos solos. Distribuição de pressões no solo. Compactação. Taludes e arrimos. Capacidade de carga dos solos. Fundações diretas. Tubulações. Estacas. Escoramentos. Escolha do tipo de fundação.",
+        "reqs": [
+            [
+                {
+                    "code": "AU402",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU405",
+        "name": "Estruturas V: Concreto",
+        "credits": 4,
+        "syllabus": "Concepção. Pré-dimensionamento. Cálculo e detalhamento de estruturas de concreto.",
+        "reqs": [
+            [
+                {
+                    "code": "AU402",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU406",
+            "AU911",
+            "CV902"
+        ]
+    },
+    {
+        "code": "AU406",
+        "name": "Estruturas VI: Metálicas e Madeira",
+        "credits": 4,
+        "syllabus": "Concepção de estruturas de madeira e de aço. Ações. Esforços. Pré-dimensionamento de estruturas de madeira e de aço. Projetos arquitetônicos de estruturas de madeira e de aço.",
+        "reqs": [
+            [
+                {
+                    "code": "AU405",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU120",
+            "AU140",
+            "AU150"
+        ]
+    },
+    {
+        "code": "AU407",
+        "name": "Introdução à Geotecnia",
+        "credits": 4,
+        "syllabus": "Formação dos solos. Tamanho e forma das partículas. Propriedades e classificação dos solos. Compactação. Tensões geostáticas. Resistência ao cisalhamento. Taludes e contenções. Geossintéticos. Investigação do subsolo. Fundações rasas e profundas. Escolha do tipo de fundação.\n \n \n ",
+        "reqs": [
+            [
+                {
+                    "code": "AU402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU416",
+        "name": "Estruturas VII: Sistemas Estruturais",
+        "credits": 4,
+        "syllabus": "Discussão sobre diferentes concepções de sistemas estruturais. Sistema laje-viga-pilar. Sistema em alvenaria estrutural. Sistema estrutural misto: aço-concreto."
+    },
+    {
+        "code": "AU501",
+        "name": "Física Aplicada à Arquitetura",
+        "credits": 2,
+        "syllabus": "Termodinâmica. Temperatura. Calor, trabalho e a primeira lei da termodinâmica. Propriedades e processos térmicos. A disponibilidade de energia. Propriedades termofísicas dos materiais e componentes construtivos. Movimento ondulatório. Ondas sonoras. Conceitos de acústica. Ondas eletromagnéticas. Radiação solar e radiação térmica. Interação com o meio. Conceitos de iluminação e fotometria.",
+        "reqBy": [
+            "AU015",
+            "AU017",
+            "AU115",
+            "AU117",
+            "AU121",
+            "AU135",
+            "AU136",
+            "AU137",
+            "AU145",
+            "AU146",
+            "AU147",
+            "AU817",
+            "AU900"
+        ]
+    },
+    {
+        "code": "AU502",
+        "name": "Hidráulica",
+        "credits": 2,
+        "syllabus": "Definições básicas. Algumas propriedades físicas dos fluidos. Equação fundamental da estática dos fluidos. Medidas de pressão. Fluidos em movimento: equação da continuidade e equação da energia. Escoamento permanente em encanamentos: perdas de cargas distribuídas e localizadas, noções sobre bombas. Escoamento permanente em canais abertos e fechados: equação de Manning.",
+        "reqs": [
+            [
+                {
+                    "code": "MS123",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU504",
+            "AU813",
+            "AU816",
+            "CV702"
+        ]
+    },
+    {
+        "code": "AU504",
+        "name": "Hidrologia Urbana",
+        "credits": 2,
+        "syllabus": "Ciclo Hidrólogo. Bacia hidrográfica. Precipitações. Escoamento superficial. Infiltração. Evaporação e transpiração. Hidrograma unitário. Vazões de enchentes. Regularização de vazões. Propagação de enchentes em reservatórios e canais. Sistemas de drenagem urbana. Sarjetas, bocas de lobo e galerias. Estruturas de transição.",
+        "reqs": [
+            [
+                {
+                    "code": "AU502",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV702"
+        ]
+    },
+    {
+        "code": "AU601",
+        "name": "Fundamentos do Urbanismo",
+        "credits": 4,
+        "syllabus": "O espaço urbano. A cidade. Processo de ocupação do espaço urbano. Dinâmica do crescimento urbano. Forma, função e estrutura urbana. Uso e ocupação do solo urbano. Exercícios de intervenção urbana.",
+        "reqBy": [
+            "AP741",
+            "AP742",
+            "AU612",
+            "AU613",
+            "AU901",
+            "AU919",
+            "CV001"
+        ]
+    },
+    {
+        "code": "AU605",
+        "name": "Conforto Urbano",
+        "credits": 2,
+        "syllabus": "Condicionantes da forma urbana para o conforto térmico e acústico dos usuários nos espaços públicos. A relação entre a forma urbana e os aspectos relativos a iluminação, radiação solar, ventilação e ruídos no espaço urbano. Exercícios de intervenção urbana."
+    },
+    {
+        "code": "AU609",
+        "name": "Projeto de Novos Bairros Urbanos",
+        "credits": 4,
+        "syllabus": "Aspectos técnicos e jurídicos do parcelamento do solo no Brasil. O loteamento como modalidade do desenho urbano. Concepção e execução de projetos de loteamentos urbanos. Estudos de terraplenagem, geometria de vias e lotes e noções de infraestrutura urbana."
+    },
+    {
+        "code": "AU610",
+        "name": "Fundamentos de Estatística Aplicada ao Planejamento Urbano",
+        "credits": 2,
+        "syllabus": "Conceitos básicos de probabilidade e estatística descritiva aplicados ao Planejamento Urbano"
+    },
+    {
+        "code": "AU612",
+        "name": "Planejamento Urbano II: Planos Urbanos",
+        "credits": 5,
+        "syllabus": "Planejamento territorial. Planos, objetivos, teorias, métodos e instrumentos do planejamento urbano. Demografia urbana. O Plano Diretor Municipal: conceitos, métodos de elaboração, implantação e controle. Planos setoriais. Administração municipal e economia urbana.",
+        "reqs": [
+            [
+                {
+                    "code": "AU601",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU713"
+        ]
+    },
+    {
+        "code": "AU613",
+        "name": "Planejamento Urbano III: Desenho Urbano",
+        "credits": 6,
+        "syllabus": "Aspectos técnicos  e jurídicos do uso e parcelamento do solo no Brasil. Concepção e execução de grandes projetos urbanos. Estudos de reestruturação e requalificação urbana. Sistema urbanos complexos e a prática do urbanismo sustentável no projeto e requalificação urbana.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU614"
+        ]
+    },
+    {
+        "code": "AU614",
+        "name": "Planejamento Urbano IV: Planejamento Ambiental",
+        "credits": 4,
+        "syllabus": "Histórico e conceitos em planejamento, urbanismo e ambiente. Urbanização e alternativas ambientais. Avaliação ecológica de habitats urbanos. Mapeamento e avaliação da paisagem em áreas urbanas para planejamentos ambientais. Ferramentas do planejamento ambiental (zoneamentos, planos diretores, áreas de proteção ambiental, estudo de bacia hidrográfica e relatório de impacto ambiental).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU613",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU700",
+        "name": "Eficiência Energética no Projeto e na Construção",
+        "credits": 2,
+        "syllabus": "O consumo de energia no setor de edificações. Bioclimatologia, eficiência no setor residencial. Eficiência no setor comercial e em edifícios de serviços e públicos. Legislação brasileira. O PROCEL. Avaliação de eficiência energética no projeto. Método de cálculo da eficiência, sistemas de iluminação, sistemas de condicionamento de ar, envoltória. Simulação."
+    },
+    {
+        "code": "AU701",
+        "name": "Arquitetura Sustentável: Projeto e Construção",
+        "credits": 6,
+        "syllabus": "Desenvolvimento sustentável. Agenda 21 para a Construção sustentável. Projeto e arquitetura sustentável. Construção sustentável. Tecnologias para a sustentabilidade. Análise de ciclo de vida. Indicadores de sustentabilidade. Metodologias para avaliação ambiental e certificação verde de produtos e edifícios. Avaliação da sustentabilidade de edifícios. Apresentação e discussão de casos de referência. Aplicações em estudo de caso e exercícios de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU145"
+                },
+                {
+                    "code": "AU146"
+                },
+                {
+                    "code": "AU147"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU713",
+        "name": "Planejamento da Paisagem: Macro Paisagem",
+        "credits": 6,
+        "syllabus": "Questões de desenvolvimento regional. Conceitos e teorias do espaço regional - rede urbana e regionalização. Impactos dos problemas regionais no desenvolvimento urbano. A paisagem na dimensão regional, transformações da paisagem pelos processos de urbanização. Regiões metropolitanas e demais organizações regionais – aspectos técnicos e administrativos. Planos s instrumentos do planejamento regional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AU612",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU811",
+        "name": "Tecnologia do Ambiente Construído I: Materiais de Construção",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo dos materiais de construção. Aglomerantes minerais. Agregados para argamassas e concretos. Argamassas. Concretos. Elementos de alvenaria. Materiais betuminosos e impermeabilizantes. Madeiras e aço para concreto armado. Tintas, vernizes, vidros e plásticos.",
+        "reqBy": [
+            "AU812"
+        ]
+    },
+    {
+        "code": "AU812",
+        "name": "Tecnologia do Ambiente Construído II: Técnicas Construtivas",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo de técnicas construtivas. Normalização. Detalhamento. Aplicação dos materiais da construção nas diversas etapas da obra. A construção civil vista como um processo construtivo onde se dá a integração entre técnica e arquitetura.",
+        "reqs": [
+            [
+                {
+                    "code": "AU811",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU814",
+            "CV906"
+        ]
+    },
+    {
+        "code": "AU813",
+        "name": "Tecnologia do Ambiente Construído III: Sistemas Prediais",
+        "credits": 4,
+        "syllabus": "Instalações elétricas e telefonia. Instalações prediais de água fria e quente, esgotos sanitários, águas pluviais, gás e proteção contra incêndio com hidrantes. Projeto e detalhamento.",
+        "reqs": [
+            [
+                {
+                    "code": "AU502",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU814",
+        "name": "Técnicas Retrospectivas",
+        "credits": 4,
+        "syllabus": "Reflexão crítica sobre as práticas projetuais em edifícios pré-existentes; Ações preservacionistas ao longo da história, no Brasil e no Exterior; Teoria e história do restauro, legislação patrimonial, técnicas construtivas, patologias das edificações e sistemas de diagnóstico; Projetos de conservação e restauro de edifícios e sítios de interesse histórico-cultural.",
+        "reqs": [
+            [
+                {
+                    "code": "AU812",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU917"
+        ]
+    },
+    {
+        "code": "AU815",
+        "name": "Tecnologia do Ambiente Construído VI: Gerenciamento",
+        "credits": 6,
+        "syllabus": "Sistemas de gerenciamento e planejamento de empreendimentos. Fases da construção civil. Estruturas organizacionais para gerenciamento das operações. Controle de custos e de prazos. Análise de idade técnica, econômica e financeira de empreendimentos. A inflação e seus efeitos no planejamento. Orçamentação com uso de softwares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU120",
+            "AU140",
+            "AU150"
+        ]
+    },
+    {
+        "code": "AU816",
+        "name": "Sistemas Prediais, Hidráulicos e Sanitários",
+        "credits": 4,
+        "syllabus": "Sistemas prediais de água fria, quente, esgoto sanitário e água pluvial:critérios de projeto e normalização. Introdução à conservação de água nos edifícios.",
+        "reqs": [
+            [
+                {
+                    "code": "AU502"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU119",
+            "AU139",
+            "AU911",
+            "CV900",
+            "CV902"
+        ]
+    },
+    {
+        "code": "AU817",
+        "name": "Sistemas Elétricos",
+        "credits": 2,
+        "syllabus": "Noções de geração, transmissão e distribuição de energia elétrica, corrente alternada. Aterramento. Sistemas mono e trifásicos. Fator de potência. Materiais elétricos. Proteção e comando de circuitos elétricos. Projeto de instalações elétricas. Instalações de para-raios. TV, Som e telefone.",
+        "reqs": [
+            [
+                {
+                    "code": "AU501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AU119",
+            "AU139"
+        ]
+    },
+    {
+        "code": "AU900",
+        "name": "Clima e Conforto no Ambiente Construído Urbano",
+        "credits": 2,
+        "syllabus": "Características gerais do clima urbano. Ilhas de calor. Efeitos do desenho do clima urbano. Recintos Urbanos. Ruas, praças. Impacto das áreas verdes. Diretrizes do projeto para o desenho urbano e de edificações.",
+        "reqs": [
+            [
+                {
+                    "code": "AU501",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "EC321",
+                    "partial": true
+                },
+                {
+                    "code": "EC322",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU901",
+        "name": "Sistema de Informação Geográfica Aplicado ao Urbanismo",
+        "credits": 4,
+        "syllabus": "Introdução ao Sistema de Informação Geográfica. Definição, Histórico, Aplicações e Potenciais usuários. A Arquitetura de Sistemas de Informação Geográfica e os Dados Geográficos: Aquisição, armazenamento, estruturação, manipulação e consulta. Análise, apresentação e gerenciamento. Operações de Análise Geográfica e as experiências na implantação e uso de SIG nas Organizações.",
+        "reqs": [
+            [
+                {
+                    "code": "AU223"
+                },
+                {
+                    "code": "AU601",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU902",
+        "name": "Geoprocessamento Aplicado à Arquitetura e Engenharia Civil",
+        "credits": 4,
+        "syllabus": "Conceitos Básicos em Geoprocessamento: tipos de dados e estrutura de armazenamento. Cartografia básica para Geoprocessamento. Entendimento e Modelagem de dados de Arquitetura e Engenharia para uso em geoprocessamento. A Estrutura dos dados Geográficos para uso em ambiente Urbano e as Operações básicas de Análise Territorial com Geoprocessamento. Experiências de uso do Geoprocessamento em organismos que elaboram análise espacial.",
+        "reqs": [
+            [
+                {
+                    "code": "AU223"
+                },
+                {
+                    "code": "CV321"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU903",
+        "name": "Seminários e Arquitetura Contemporânea",
+        "credits": 2,
+        "syllabus": "Panorama da produção contemporânea da Arquitetura e do Urbanismo, a partir da 2ª Guerra Mundial até os dias atuais e os debates culturais suscitados por esta produção, com destaque para a questão da pós-modernidade e o pluralismo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AU113"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU904",
+        "name": "CAD Aplicado ao Projeto de Arquitetura",
+        "credits": 2,
+        "syllabus": "Abordagem projetual em ferramenta de CAD para o desenvolvimento de projetos complexos. Aplicação de padrão de nomenclatura de diretórios, arquivos e layers. Integração de projetos em CAD.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AU300"
+                }
+            ],
+            [
+                {
+                    "code": "AU313"
+                }
+            ],
+            [
+                {
+                    "code": "EC304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU905",
+        "name": "Saneamento Ambiental e Saúde Pública",
+        "credits": 2,
+        "syllabus": "Fundamentos de Saneamento e de Saúde Pública. Qualidade socioambiental do meio. Impactos Ambientais dos processos urbanos. Legislação Pertinente. Estudo de Caso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU906",
+        "name": "Gestão Ambiental por Bacias",
+        "credits": 3,
+        "syllabus": "Fundamentos de planejamento ambiental e gestão pública. Legislação pertinente. Processos participativos. Representação social/percepção. Manejo urbano de recursos naturais. Serviços ambientais. Estudo de Caso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU907",
+        "name": "Teoria e História da Conservação e Restauração",
+        "credits": 2,
+        "syllabus": "Estudo das teorias relativas às justificativas e transformações dos critérios para preservação dos monumentos arquitetônicos e bens culturais ao longo da história através da análise de seus principais autores e tendências.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH804"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU908",
+        "name": "Introdução à Programação em Arquitetura",
+        "credits": 2,
+        "syllabus": "Introdução à programação em ambiente CAD. Conceitos de algoritmo, script, macro, variável (tipo e declaração), vetor, procedimento, sub-rotina, função, condicional, estruturas de repetição, interface gráfica, entrada de dados, linguagem orientada a objetos, classe, método, propriedade, instanciamento. Usos da programação, da automoção de tarefas repetitivas à geração exploratória de formas. Desenvolvimento de um programa em um ambiente CAD.",
+        "reqs": [
+            [
+                {
+                    "code": "AU300"
+                }
+            ],
+            [
+                {
+                    "code": "CV201"
+                }
+            ],
+            [
+                {
+                    "code": "EC304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU909",
+        "name": "Modelos no Estudo de Formas Tridimensionais",
+        "credits": 4,
+        "syllabus": "Noções teóricas e práticas para estudos de formas e composições geométricas. Técnicas para o pensar por modelos virtuais e físicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AU300"
+                }
+            ],
+            [
+                {
+                    "code": "CV201"
+                }
+            ],
+            [
+                {
+                    "code": "EC204"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU910",
+        "name": "Prototipagem e Fabricação Digital",
+        "credits": 4,
+        "syllabus": "Conceitos de modelo, maquete e protótipo. Conceitos de prototipagem rápida, ferramental rápido e manufatura rápida. Tecnologias de materialização digital: sistemas aditivos, subtrativos e formativos. Tecnologias de digitalização 3D. Exemplos de aplicação: maquetes arquitetônicas, protótipos funcionais, engenharia reversa, formas para concreto, mobiliário e elementos construtivos. Desenvolvimento de um exercício de projeto e produção de um protótipo.",
+        "reqs": [
+            [
+                {
+                    "code": "AU303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU911",
+        "name": "Integração de Projeto em CAD 4D",
+        "credits": 2,
+        "syllabus": "Moldagem tridimensional de maquete eletrônica arquitetônica e de sistemas estruturais. Compatibilização tridimensional do projeto arquitetônico estrutural. Estudos de colisão. Simulação da construção.",
+        "reqs": [
+            [
+                {
+                    "code": "AU113"
+                }
+            ],
+            [
+                {
+                    "code": "AU405"
+                },
+                {
+                    "code": "CV402"
+                }
+            ],
+            [
+                {
+                    "code": "AU816"
+                },
+                {
+                    "code": "CV714"
+                }
+            ],
+            [
+                {
+                    "code": "CV702"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU912",
+        "name": "Teoria e Crítica na Arquitetura Contemporânea",
+        "credits": 2,
+        "syllabus": "Teoria e crítica na arquitetura contemporânea. Análise crítica de projetos de arquitetura. Arquitetura e cultura. Filosofia e arquitetura. Lógica. Desconstrutivismo. Teoria do projeto. Crítica tipológica. Conceito de espaço. Arquitetura contemporânea nacional e internacional."
+    },
+    {
+        "code": "AU913",
+        "name": "Eficiência Energética em Edificações",
+        "credits": 2,
+        "syllabus": "Panorama energético nacional e mundial. Evolução da oferta e da demanda de energia no Brasil. Tendências atuais na área de conservação de energia. O consumo no setor de edificações. Variáveis climáticas, variáveis humanas e arquitetônicas. Bioclimatologia, eficiência no setor residencial. Eficiência no setor comercial e em edifícios de serviços e públicos. Legislação brasileira. O PROCEL. Método de cálculo da eficiência, sistemas de iluminação, sistemas de condicionamento de ar, envoltória. Simulação, certificação."
+    },
+    {
+        "code": "AU914",
+        "name": "Práticas do Projeto Urbano: Desenvolvimento Urbano",
+        "credits": 6,
+        "syllabus": "Reabilitação urbana e conservação integrada, com ênfase no patrimônio histórico construído. Teorias e métodos de avaliação integrada de recuperação, manutenção e gestão do patrimônio arquitetônico, ambiental e urbano. Aperfeiçoamento das práticas projetuais para requalificação e desenvolvimento sustentável da cidade contemporânea. Políticas públicas. Estudos e projetos para as áreas centrais."
+    },
+    {
+        "code": "AU915",
+        "name": "Laboratório de Restauro I: A Documentação do Patrimônio Arquitetônico",
+        "credits": 4,
+        "syllabus": "Associando aulas teóricas à prática de campo, a disciplina aborda métodos de análise e documentação científica de edifícios e sítios de valor histórico e cultural. Em acordo com as prerrogativas preservacionistas internacionais de restauro arquitetônico busca fornecer aos estudantes instrumentação conceitual e técnica necessária à abordagem dos problemas conservativos enfrentados no âmbito do projeto sobre o pré-construído. O enfoque principal do curso é o registro documental das características formais e estado de conservação de arquiteturas históricas a partir de estudos realizados in situ.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HH804"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU916",
+        "name": "Análise de Projetos de Arquitetura e Urbanismo",
+        "credits": 3,
+        "syllabus": "Análise de projetos como método de aprendizado em arquitetura e urbanismo. A codificação do projeto e o papel da planta, do corte e do croqui como instrumentos de compreensão e concepção do espaço. Estudo da linguagem do projeto arquitetônico. Análise de elementos de arquitetura, composição formal, estrutura funcional, técnica e de conforto em projetos paradigmáticos modernos e contemporâneos."
+    },
+    {
+        "code": "AU917",
+        "name": "Técnicas Retrospectivas II: Sítios Urbanos",
+        "credits": 6,
+        "syllabus": "Reabilitação urbana e conservação integrada, com ênfase no patrimônio histórico construído. Teorias e métodos de avaliação integrada de recuperação, manutenção e gestão do patrimônio arquitetônico, ambiental e urbano. Aperfeiçoamento das práticas projetuais para requalificação e desenvolvimento sustentável da cidade contemporânea. Políticas públicas. Estudos e projetos para as áreas centrais.",
+        "reqs": [
+            [
+                {
+                    "code": "AU814"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU918",
+        "name": "Saneamento de Pequenas Comunidades",
+        "credits": 3,
+        "syllabus": "Dimensão e saneamento da área rural ou isolada. Sistemas centralizados e descentralizados. Legislação. Separação da urina, Banheiro seco. Tanque séptico. Filtro anaeróbio. Vala de infiltação e sumidouro. Vala de Filtração e filtro de areia. Vermifiltro. Escoamento superficial. Sistema alagado construído. Irrigação. Gerenciamento dos sistemas descentralizados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU919",
+        "name": "Transporte urbano e geografia",
+        "credits": 3,
+        "syllabus": "Geografia das redes de transporte. Modos de transporte e intermodalidade. Transporte e economia. Distribuição global de mercadorias. Transporte e geografia urbana. Mobilidade urbana e usos de solo. Distribuição urbana de cargas. Transporte sustentável e logística verde. Planejamento e políticas de transporte. Metodologias aplicadas na geografia do transporte. Sistemas de informação geográfica de transporte e modelos de demanda de passageiros e mercadorias.",
+        "reqs": [
+            [
+                {
+                    "code": "AU223"
+                },
+                {
+                    "code": "AU601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AU920",
+        "name": "Tópicos Integrados AU-EC",
+        "credits": 4,
+        "syllabus": "Disciplina de tópicos integrados e viagens de estudo."
+    },
+    {
+        "code": "AU921",
+        "name": "Tópicos Integrados AU-EC",
+        "credits": 4,
+        "syllabus": "Disciplina de tópicos integrados e viagens de estudo."
+    },
+    {
+        "code": "AU922",
+        "name": "Tópicos Integrados AU-EC",
+        "credits": 4,
+        "syllabus": "Disciplina de tópicos integrados e viagens de estudo."
+    },
+    {
+        "code": "AU923",
+        "name": "Tópicos Integrados AU-EC",
+        "credits": 3,
+        "syllabus": "Disciplina de tópicos integrados e viagens de estudo."
+    },
+    {
+        "code": "AU924",
+        "name": "Tópicos Integrados AU-EC",
+        "credits": 3,
+        "syllabus": "Disciplina de tópicos integrados e viagens de estudo."
+    },
+    {
+        "code": "AU925",
+        "name": "Tópicos Integrados AU-EC",
+        "credits": 2,
+        "syllabus": "Disciplina de tópicos integrados e viagens de estudo."
+    },
+    {
+        "code": "AU990",
+        "name": "Práticas de Campo Diurnas 10 (PCD-10)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados. "
+    },
+    {
+        "code": "AU991",
+        "name": "Práticas de Campo Diurnas 1 (PCD-1)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados."
+    },
+    {
+        "code": "AU992",
+        "name": "Práticas de Campo Diurnas 2 (PCD-2)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados. "
+    },
+    {
+        "code": "AU993",
+        "name": "Práticas de Campo Diurnas 3 (PCD-3)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados. "
+    },
+    {
+        "code": "AU994",
+        "name": "Práticas de Campo Diurnas 4 (PCD-4)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados."
+    },
+    {
+        "code": "AU995",
+        "name": "Práticas de Campo Diurnas 5 (PCD-5)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados."
+    },
+    {
+        "code": "AU996",
+        "name": "Práticas de Campo Diurnas 6 (PCD-6)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados."
+    },
+    {
+        "code": "AU997",
+        "name": "Práticas de Campo Diurnas 7 (PCD-7)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados. "
+    },
+    {
+        "code": "AU998",
+        "name": "Práticas de Campo Diurnas 8 (PCD-8)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados. "
+    },
+    {
+        "code": "AU999",
+        "name": "Práticas de Campo Diurnas 9 (PCD-9)",
+        "credits": 2,
+        "syllabus": "Atividades integradas de campo de arquitetura e urbanismo. Visitas a sítios históricos, áreas habitacionais, centros urbanos, canteiros de obras, edifícios, monumentos, espaços públicos. Práticas associadas a todas as disciplinas do semestre, agendadas aos sábados. "
+    }
+]

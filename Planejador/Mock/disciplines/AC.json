@@ -1,0 +1,1010 @@
+[
+    {
+        "code": "AC001",
+        "name": "Laboratório de Prática Teatral: Interpretação",
+        "credits": 4,
+        "syllabus": "Elaboração de exercícios cênicos integrando os procedimentos desenvolvidos nas disciplinas práticas anteriores. Relação do sujeito atuante com a construção cênica."
+    },
+    {
+        "code": "AC002",
+        "name": "Laboratório de Prática Teatral: Direção",
+        "credits": 4,
+        "syllabus": "Concepção e prática de direção de espetáculo teatral de curta duração. Planejamento do processo de criação e montagem. A produção de sentido no discurso cênico a partir dos diversos elementos componentes do texto espetacular."
+    },
+    {
+        "code": "AC003",
+        "name": "Laboratório de Prática Teatral: Dramaturgia",
+        "credits": 4,
+        "syllabus": "Elaboração de dramaturgias teatrais. Integração do texto à experimentação cênica. Instrumentalização do aluno para a construção ficcional."
+    },
+    {
+        "code": "AC004",
+        "name": "Laboratório de Prática Teatral: Cenografia e Figurino",
+        "credits": 4,
+        "syllabus": "Processos de criação e execução em cenografia e figurino. Desenvolvimento da percepção espacial e visual e sua relação com os elementos plásticos que compõem a cena."
+    },
+    {
+        "code": "AC013",
+        "name": "Laboratório de Prática Teatral: Iluminação",
+        "credits": 2,
+        "syllabus": "Noções introdutórias de projetos de iluminação cênica, suas fases de pesquisa, criação e execução."
+    },
+    {
+        "code": "AC105",
+        "name": "Canto para o Ator I",
+        "credits": 2,
+        "syllabus": "Desenvolvimento das potencialidades musicais do aluno através do canto individual e do canto coral como elemento de qualificação para o trabalho do ator.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC109"
+                },
+                {
+                    "code": "AC209"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC205"
+        ]
+    },
+    {
+        "code": "AC109",
+        "name": "Música e Ritmo I",
+        "credits": 2,
+        "syllabus": "Estudo prático e teórico dos principais elementos da linguagem musical. Aspectos rítmicos, melódicos e harmônicos. Treinamento da escuta musical.",
+        "reqBy": [
+            "AC105",
+            "AC209"
+        ]
+    },
+    {
+        "code": "AC110",
+        "name": "Improvisação Teatral",
+        "credits": 6,
+        "syllabus": "Introdução à improvisação teatral, introduzindo o aluno na prática do jogo cênico, com todos os elementos constituintes da cena teatral. O silêncio, a palavra e o jogo como eixos norteadores. ",
+        "reqBy": [
+            "AC150",
+            "AC170",
+            "AC180",
+            "AC210"
+        ]
+    },
+    {
+        "code": "AC112",
+        "name": "Técnicas Circenses I",
+        "credits": 2,
+        "syllabus": "Treinamento das técnicas básicas de acrobacia e malabarismo. Estudo das modalidades de equilíbrio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC223"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC212"
+        ]
+    },
+    {
+        "code": "AC113",
+        "name": "Formas Espetaculares no Ocidente",
+        "credits": 2,
+        "syllabus": "Estudo das formas espetaculares ocidentais nos diversos processos de composição cênica: das festas às ritualizações e encenações."
+    },
+    {
+        "code": "AC115",
+        "name": "Formas do Teatro Ocidental I",
+        "credits": 2,
+        "syllabus": "Estudo de referências fundamentais do Teatro Ocidental, incluindo Antiguidade Grega, Teatro Medieval e Teatro Elizabetano.",
+        "reqBy": [
+            "AC215"
+        ]
+    },
+    {
+        "code": "AC120",
+        "name": "Tópicos em Estética Teatral",
+        "credits": 2,
+        "syllabus": "Estudo dos fundamentos da estética e da filosofia da arte. Introdução à reflexão analítica e crítica no campo específico do fazer teatral."
+    },
+    {
+        "code": "AC121",
+        "name": "Práticas de Ação Teatral na Comunidade I",
+        "credits": 4,
+        "syllabus": "As possibilidades de ação teatral em comunidades: análise e estudo de casos existentes; estudo da criação de caráter teatral a partir da interação do indivíduo, ou grupo de artistas, com uma dada comunidade. Planejamento e sondagem em campo de possíveis ações, com viés pedagógicos e/ou criação artística.",
+        "reqBy": [
+            "AC221"
+        ]
+    },
+    {
+        "code": "AC123",
+        "name": "Corpo-Voz I",
+        "credits": 4,
+        "syllabus": "Desenvolvimento da percepção e integração entre corpo, voz e movimento.",
+        "reqBy": [
+            "AC223"
+        ]
+    },
+    {
+        "code": "AC129",
+        "name": "Formas Espetaculares e Cultura Popular Brasileira I",
+        "credits": 2,
+        "syllabus": "Estudo das relações existentes entre a cultura popular brasileira, especialmente os folguetos ou danças dramáticas, e o teatro enquanto forma espetacular e enquanto arte que auxiliou na configuração da nacionalidade brasileira.",
+        "reqBy": [
+            "AC229",
+            "AC331"
+        ]
+    },
+    {
+        "code": "AC133",
+        "name": "Artes do Corpo I",
+        "credits": 2,
+        "syllabus": "Estudo experiencial dos fundamentos do corpo cênico visando a articulação corpo-sujeito-imaginário. Desenvolvimento da consciência corporal e reconhecimento das ferramentas expressivas do corpo-sujeito. Revisão de conhecimentos sobre anatomia humana.",
+        "reqBy": [
+            "AC233"
+        ]
+    },
+    {
+        "code": "AC134",
+        "name": "Artes da Voz I",
+        "credits": 2,
+        "syllabus": "Desenvolvimento da percepção e investigação da produção da voz para criação cênica. Revisão de conhecimentos sobre anatomia humana.",
+        "reqBy": [
+            "AC234"
+        ]
+    },
+    {
+        "code": "AC143",
+        "name": "Técnicas Corpóreas: Luta I",
+        "credits": 2,
+        "syllabus": "Introdução aos elementos técnicos de uma luta ou arte marcial enfatizando os aspectos lúdicos presentes no jogo de combate.",
+        "reqBy": [
+            "AC243"
+        ]
+    },
+    {
+        "code": "AC145",
+        "name": "Expressão Corporal I",
+        "credits": 2,
+        "syllabus": "Introdução à expressão corporal. Laboratório de expressão livre."
+    },
+    {
+        "code": "AC150",
+        "name": "Improvisação: O Jogo I",
+        "credits": 4,
+        "syllabus": "Introdução ao jogo teatral buscando o desenvolvimento do ator a partir de diferentes dinâmicas relacionais que envolvem o outro, assim como o coletivo.",
+        "reqs": [
+            [
+                {
+                    "code": "AC110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC250"
+        ]
+    },
+    {
+        "code": "AC160",
+        "name": "Tópicos em Prática de Encenação",
+        "credits": 4,
+        "syllabus": "Estudos orientados para a investigação de procedimentos específicos de criação cênica."
+    },
+    {
+        "code": "AC161",
+        "name": "Tópicos em Criação Cênica I",
+        "credits": 4,
+        "syllabus": "Estudos orientados para a investigação de procedimentos específicos de criação cênica."
+    },
+    {
+        "code": "AC170",
+        "name": "Improvisação: O Silêncio I",
+        "credits": 4,
+        "syllabus": "A utilização de um conjunto de procedimentos como instrumento para a expressão do ator, com ênfase nos elementos não-verbais da cena.",
+        "reqs": [
+            [
+                {
+                    "code": "AC110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC270"
+        ]
+    },
+    {
+        "code": "AC180",
+        "name": "Improvisação: A Palavra I",
+        "credits": 4,
+        "syllabus": "A exploração da palavra como matéria para o desencadeamento do acontecimento cênico.",
+        "reqs": [
+            [
+                {
+                    "code": "AC110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC280"
+        ]
+    },
+    {
+        "code": "AC190",
+        "name": "Tópicos Especiais em Produção Teatral I",
+        "credits": 2,
+        "syllabus": "Atividades práticas de produção teatral, voltadas para a realização da Mostra dos espetáculos teatrais do PICC."
+    },
+    {
+        "code": "AC205",
+        "name": "Canto para o Ator II",
+        "credits": 2,
+        "syllabus": "Desenvolvimento das potencialidades musicais do aluno através do canto individual e do canto coral como elemento de qualificação para o trabalho do ator.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC105"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC209",
+        "name": "Música e Ritmo II",
+        "credits": 2,
+        "syllabus": "Aprofundamento no estudo prático e teórico dos principais elementos da linguagem musical. Primeira abordagem da voz cantada.",
+        "reqs": [
+            [
+                {
+                    "code": "AC109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC105"
+        ]
+    },
+    {
+        "code": "AC210",
+        "name": "Improvisação Teatral II",
+        "credits": 6,
+        "syllabus": "Aprofundamento dos procedimentos trabalhados na disciplina Improvisação Teatral.  ",
+        "reqs": [
+            [
+                {
+                    "code": "AC110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC340"
+        ]
+    },
+    {
+        "code": "AC211",
+        "name": "Teatro Latino-Americano I",
+        "credits": 2,
+        "syllabus": "Reflexão sobre a complexidade do fenômeno teatral latino-americano no contexto histórico, socioeconômico e cultural da região."
+    },
+    {
+        "code": "AC212",
+        "name": "Técnicas Circenses II",
+        "credits": 2,
+        "syllabus": "Aperfeiçoamento das modalidades estudadas em Técnicas Circenses I. Prática de exercícios coletivos e composição de partituras cênicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC112"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC214",
+        "name": "Linguagens Circenses",
+        "credits": 2,
+        "syllabus": "Conhecer as linguagens circenses de maneira ampla, em especial as brasileiras, incluindo não somente as práticas acrobáticas, de equilíbrio e de palhaço, como também o circo-teatro e o melodrama circenses nacionais."
+    },
+    {
+        "code": "AC215",
+        "name": "Formas do Teatro Ocidental II",
+        "credits": 2,
+        "syllabus": "Estudo de referências fundamentais do Teatro Ocidental, incluindo o gênero dramático e suas crises e derivações até o começo do século XX.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC115"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC317"
+        ]
+    },
+    {
+        "code": "AC218",
+        "name": "Máscara: Elementos Técnicos de Artes Visuais I",
+        "credits": 2,
+        "syllabus": "Introdução aos elementos técnicos das artes visuais, visando a confecção de adereços cênicos. A máscara no teatro e a dialética do ocultar/revelar. Estudo da máscara facial e aprendizado de técnicas de confecção de máscaras.",
+        "reqBy": [
+            "AC317"
+        ]
+    },
+    {
+        "code": "AC221",
+        "name": "Práticas de Ação Teatral na Comunidade II",
+        "credits": 4,
+        "syllabus": "O compromisso e as ações do artista de teatro em interação com a comunidade. Criação e experimentação de práticas específicas de ação teatral junto à comunidade, com apresentação de resultado final.",
+        "reqs": [
+            [
+                {
+                    "code": "AC121"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC223",
+        "name": "Corpo-Voz II",
+        "credits": 4,
+        "syllabus": "A partir da integração corpo-voz-movimento, ampliar as possibilidades expressivas corpórea-vocais do ator e seu redimensionamento cênico.",
+        "reqs": [
+            [
+                {
+                    "code": "AC123"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC112",
+            "AC323",
+            "AC331"
+        ]
+    },
+    {
+        "code": "AC229",
+        "name": "Formas Espetaculares e Cultura Popular Brasileira II",
+        "credits": 4,
+        "syllabus": "Continuidade dos estudos empreendidos na AC129 de forma a elaborar um exercício cênico de rua que envolva a cultura popular brasileira.",
+        "reqs": [
+            [
+                {
+                    "code": "AC129"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC233",
+        "name": "Artes do Corpo II",
+        "credits": 2,
+        "syllabus": "Ferramentas básicas de composição: fatores de movimento, partitura corporal, narrativa gestual. Investigação de procedimentos para a composição de corpos ficcionais. Estudos do corpo como significação poética. Revisão de conhecimentos sobre anatomia humana.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC133"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC333"
+        ]
+    },
+    {
+        "code": "AC234",
+        "name": "Artes da Voz II",
+        "credits": 2,
+        "syllabus": "Desenvolver a compreensão do discurso cênico, a partir da integração corpo-voz-movimento e suas possibilidades expressivas, em diferentes recortes de atuação. Revisão de conhecimentos sobre anatomia humana.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC134"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC334"
+        ]
+    },
+    {
+        "code": "AC243",
+        "name": "Técnicas Corpóreas: Luta II",
+        "credits": 2,
+        "syllabus": "Utilização de elementos do jogo de combate em situações de conflito dramático.",
+        "reqs": [
+            [
+                {
+                    "code": "AC143"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC245",
+        "name": "Expressão Corporal II",
+        "credits": 2,
+        "syllabus": "Introdução à expressão corporal. Laboratório de expressão livre."
+    },
+    {
+        "code": "AC250",
+        "name": "Improvisação: O Jogo II",
+        "credits": 4,
+        "syllabus": "Aprofundamento dos elementos estudados na disciplina Improvisação: O Jogo I, desenvolvendo procedimentos e regras relacionadas ao jogo teatral.",
+        "reqs": [
+            [
+                {
+                    "code": "AC150"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC260",
+        "name": "Tópicos em Prática de Encenação",
+        "credits": 4,
+        "syllabus": "Estudos orientados para a investigação de procedimentos específicos de criação cênica."
+    },
+    {
+        "code": "AC261",
+        "name": "Tópicos em Criação Cênica II",
+        "credits": 4,
+        "syllabus": "Estudos orientados para a investigação de procedimentos específicos de criação cênica."
+    },
+    {
+        "code": "AC270",
+        "name": "Improvisação: O Silêncio II",
+        "credits": 4,
+        "syllabus": "Aprofundamento dos procedimentos desenvolvidos na disciplina Improvisação: O Silêncio I, aplicados à construção da cena.",
+        "reqs": [
+            [
+                {
+                    "code": "AC170"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC280",
+        "name": "Improvisação: A Palavra II",
+        "credits": 4,
+        "syllabus": "Aprofundamento dos procedimentos desenvolvidos na disciplina Improvisação: A Palavra I, com ênfase na estruturação da cena.",
+        "reqs": [
+            [
+                {
+                    "code": "AC180"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC290",
+        "name": "Tópicos Especiais em Produção Teatral II",
+        "credits": 2,
+        "syllabus": "Atividades práticas de produção teatral, voltadas para a realização da Mostra dos espetáculos teatrais do PICC."
+    },
+    {
+        "code": "AC315",
+        "name": "Teatro Brasileiro I",
+        "credits": 2,
+        "syllabus": "Estudo de dramaturgia, espetáculos e teorias fundamentais na história do teatro brasileiro.",
+        "reqBy": [
+            "AC415"
+        ]
+    },
+    {
+        "code": "AC316",
+        "name": "Estudos de Dramaturgia",
+        "credits": 2,
+        "syllabus": "Leituras e análises de textos consagrados da dramaturgia ocidental.",
+        "reqBy": [
+            "AC555"
+        ]
+    },
+    {
+        "code": "AC317",
+        "name": "Estudos de Cenografia e Figurino",
+        "credits": 2,
+        "syllabus": "Investigar os componentes cênicos cenografia e indumentária visando sua aplicação nas teatralidades contemporâneas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC215"
+                },
+                {
+                    "code": "AC218"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC318",
+        "name": "Estudos de Direção Teatral",
+        "credits": 4,
+        "syllabus": "As origens, especificidades e desenvolvimento das estéticas cênicas matriciais. Características de discursos cênicos empreendidos na contemporaneidade. Elaboração e estudo de projeto de direção de obra curta.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC340"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC320",
+        "name": "Formas do Teatro Cômico no Ocidente",
+        "credits": 4,
+        "syllabus": "Estudo dos conceitos do teatro cômico. Análise e interpretação de obras clássicas, modernas e contemporâneas."
+    },
+    {
+        "code": "AC321",
+        "name": "Produção Teatral",
+        "credits": 2,
+        "syllabus": "Estudos técnicos sobre organização e gestão de obras artísticas. Relação da obra de arte com o mercado."
+    },
+    {
+        "code": "AC323",
+        "name": "Corpo-Voz III",
+        "credits": 4,
+        "syllabus": "Desenvolver a compreensão do discurso cênico, a partir da integração corpo-voz-movimento e suas possibilidades expressivas, em diferentes recortes de atuação.",
+        "reqs": [
+            [
+                {
+                    "code": "AC223"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC423"
+        ]
+    },
+    {
+        "code": "AC331",
+        "name": "Corpo e Teatralidades Brasileiras I",
+        "credits": 4,
+        "syllabus": "Experiência prática de teatralidades presentes na oralidade popular brasileira. O ponto de vista do artista.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC129"
+                },
+                {
+                    "code": "AC223"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC431"
+        ]
+    },
+    {
+        "code": "AC333",
+        "name": "Artes do Corpo III",
+        "credits": 2,
+        "syllabus": "Desenvolver a compreensão do discurso cênico, a partir do corpo em movimento e suas possibilidades expressivas, em diferentes recortes de atuação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC233"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC334",
+        "name": "Artes da Voz III",
+        "credits": 2,
+        "syllabus": "Desenvolver a compreensão do discurso cênico, a partir da integração corpo-voz e suas possibilidades expressivas, em diferentes recortes de atuação, com foco na questão da palavra cênica.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC234"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC434"
+        ]
+    },
+    {
+        "code": "AC340",
+        "name": "Princípios da Ação Cênica",
+        "credits": 6,
+        "syllabus": "Estudo do conceito de ação física em seus aspectos constitutivos. Exercícios cênicos.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC210"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC318",
+            "AC440",
+            "AC441"
+        ]
+    },
+    {
+        "code": "AC360",
+        "name": "Tópicos em Prática de Encenação",
+        "credits": 4,
+        "syllabus": "Estudos orientados para a investigação de procedimentos específicos de criação cênica."
+    },
+    {
+        "code": "AC361",
+        "name": "Tópicos em Criação Cênica III",
+        "credits": 4,
+        "syllabus": "Estudos orientados para a investigação de procedimentos específicos de criação cênica."
+    },
+    {
+        "code": "AC390",
+        "name": "Tópicos Especiais em Produção Teatral III",
+        "credits": 2,
+        "syllabus": "Atividades práticas de produção teatral, voltadas para a realização da Mostra dos espetáculos teatrais do PICC."
+    },
+    {
+        "code": "AC414",
+        "name": "Formas do Teatro Oriental",
+        "credits": 2,
+        "syllabus": "Estudo de tradições cênicas Asiáticas e desdobramentos contemporâneos. Abordagem de diálogos com artistas e pesquisadores Ocidentais."
+    },
+    {
+        "code": "AC415",
+        "name": "Teatro Brasileiro II",
+        "credits": 2,
+        "syllabus": "Estudo de dramaturgia, espetáculos e teorias fundamentais na história recente do teatro brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "AC315"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC423",
+        "name": "Corpo-Voz IV",
+        "credits": 2,
+        "syllabus": "Exercícios de criação de leituras encenadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AC323"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC431",
+        "name": "Corpo e Teatralidades Brasileiras II",
+        "credits": 6,
+        "syllabus": "Realizar um exercício cênico tomando como referência aspectos da dança e da teatralidade na oralidade popular brasileira. O ponto de vista do artista.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC331"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC434",
+        "name": "Artes da Voz IV",
+        "credits": 2,
+        "syllabus": "Exercícios de criação de leituras encenadas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC334"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC440",
+        "name": "Linguagem da Ação Cênica",
+        "credits": 6,
+        "syllabus": "Desenvolvimento da ação física na construção da cena. Estudo da ação física nas diversas poéticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC340"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC555"
+        ]
+    },
+    {
+        "code": "AC441",
+        "name": "Atuação e Mídias",
+        "credits": 4,
+        "syllabus": "Estudos sobre a atuação na linguagem audiovisual.",
+        "reqs": [
+            [
+                {
+                    "code": "AC340"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC460",
+        "name": "Tópicos em Práticas de Encenação",
+        "credits": 4,
+        "syllabus": "Estudos orientados para a investigação de procedimentos específicos de criação cênica."
+    },
+    {
+        "code": "AC461",
+        "name": "Tópicos em Criação Cênica IV",
+        "credits": 4,
+        "syllabus": "Estudos orientados para a investigação de procedimentos específicos de criação cênica."
+    },
+    {
+        "code": "AC555",
+        "name": "Projeto Integrado de Criação Cênica I",
+        "credits": 12,
+        "syllabus": "Exercício de montagem cênica a partir de uma fonte não dramatúrgica, seja ela literária, iconográfica ou da tradição oral. Aprendizado de práticas de escrita cênica. Laboratórios de práticas interpretativas, corporais e vocais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC316"
+                },
+                {
+                    "code": "AC440"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC666"
+        ]
+    },
+    {
+        "code": "AC557",
+        "name": "Estudos Teóricos no Processo de Criação I",
+        "credits": 2,
+        "syllabus": "Estudar teorias pertinentes à criação do Projeto Integrado de Criação Cênica I, isto é, que fundamentem a elaboração do signo cênico tendo elementos não dramáticos como ponto de partida.",
+        "reqBy": [
+            "AC657"
+        ]
+    },
+    {
+        "code": "AC657",
+        "name": "Estudos Teóricos no Processo de Criação II",
+        "credits": 2,
+        "syllabus": "Estudar teorias pertinentes à criação do Projeto Integrado de Criação Cênica II, isto é, que fundamentem um espetáculo calcado na narratividade, no épico e/ou na personagem clássica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC557"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC757"
+        ]
+    },
+    {
+        "code": "AC666",
+        "name": "Projeto Integrado de Criação Cênica II",
+        "credits": 10,
+        "syllabus": "Exercício cênico a partir de texto da tradição dramatúrgica com ênfase na narratividade. Laboratórios de práticas interpretativas, corporais e vocais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC555"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC777"
+        ]
+    },
+    {
+        "code": "AC757",
+        "name": "Estudos Teóricos no Processo de Criação III",
+        "credits": 2,
+        "syllabus": "Estudar teorias pertinentes à criação do Projeto Integrado de Criação Cênica III, isto é, que fundamentem o aprendizado sobre a construção da personagem.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC657"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC857"
+        ]
+    },
+    {
+        "code": "AC777",
+        "name": "Projeto Integrado de Criação Cênica III",
+        "credits": 10,
+        "syllabus": "Exercício cênico a partir de texto da tradição dramatúrgica com ênfase na linguagem realista. Laboratórios de práticas interpretativas, corporais e vocais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC666"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AC888"
+        ]
+    },
+    {
+        "code": "AC857",
+        "name": "Poéticas Cênicas",
+        "credits": 2,
+        "syllabus": "Temas específicos de estudos em poéticas cênicas, abordando a produção teatral e a criação artística em seus aspectos interdisciplinares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC757"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC887",
+        "name": "Memorial",
+        "credits": 4,
+        "syllabus": "Relato do processo de formação artística do aluno no decorrer do curso com orientação de um professor."
+    },
+    {
+        "code": "AC888",
+        "name": "Projeto Integrado de Criação Cênica IV",
+        "credits": 8,
+        "syllabus": "Projeto de montagem cênica proposto pelos formandos, em qualquer gênero, estilo ou tendência estética, orientado por um ou mais professores, com apresentação pública final.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AC777"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AC890",
+        "name": "Metodologia e Criação em Artes Cênicas",
+        "credits": 2,
+        "syllabus": "Abordagem de processos de pesquisa e criação no teatro contemporâneo."
+    }
+]

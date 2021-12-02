@@ -1,0 +1,30 @@
+[
+    {
+        "code": "EX001",
+        "name": "Extensão Comunitária I",
+        "credits": 2,
+        "syllabus": "Esta disciplina é oferecida a alunos de graduação envolvidos efetivamente no desenvolvimento de projeto de Extensão Universitária Comunitária supervisionados por docentes da Unicamp, na interação com comunidades externas à Universidade. A Extensão Universitária envolve, obrigatoriamente, e de forma indissolúvel, atividades de investigação científica e outras de ensino e formação de recursos humanos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EX002",
+        "name": "Projeto Rondon de Extensão Universitária",
+        "credits": 2,
+        "syllabus": "Esta disciplina é oferecida para alunos de graduação envolvidos efetivamente no desenvolvimento de projetos superviosionados por docentes da Unicamp, na interação com comunidades externas à Unicamp atendidas pelo Projeto Rondon do Ministério da Defesa. A Extensão Universitária envolve, obrigatoriamente, e de forma indissociável, atividades de investigação científica e outras de ensino e formção de recursos humanos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

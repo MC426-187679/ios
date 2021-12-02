@@ -1,0 +1,1344 @@
+[
+    {
+        "code": "TA009",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 4,
+        "syllabus": "Trabalho individual e orientado por docente da FEA, constando de desenvolvimento teórico sobre um tema relevante à Engenharia de Alimentos, realizado a partir de pesquisa bibliográfica; segundo normas definidas pela Comissão de Graduação da FEA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA017",
+        "name": "Biotecnologia de Alimentos",
+        "credits": 2,
+        "syllabus": "Princípios fundamentais de engenharia genética e sua correlação com alimentos in natura e processados. Organismos e vegetais geneticamente modificados. Obtenção de metabólitos de interesse industrial. Biotransformação de produtos por via enzimática e microbiana.",
+        "reqs": [
+            [
+                {
+                    "code": "TA610"
+                },
+                {
+                    "code": "TA615"
+                }
+            ],
+            [
+                {
+                    "code": "TA718",
+                    "special": true
+                },
+                {
+                    "code": "TA818",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA021",
+        "name": "Projeto Tecnológico",
+        "credits": 5,
+        "syllabus": "Execução das etapas do processo de desenvolvimento de um produto alimentício a partir do conceito inicial. Definição teórica e experimental (em laboratório e/ou planta-piloto) de justificativa para o desenvolvimento do produto, definição do público-alvo e do mercado, seleção de matérias-primas (ingredientes e aditivos), formulações, operações de processamento, embalagens, custo-formulação, características de qualidade e aspectos legais relacionados ao produto selecionado.",
+        "reqs": [
+            [
+                {
+                    "code": "TA725"
+                },
+                {
+                    "code": "TA741"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA023",
+        "name": "Desenvolvimento de Produtos e Processos",
+        "credits": 7,
+        "syllabus": "Desenvolvimento de produtos e processos no setor de alimentos: definição, caracterização e introdução de produtos e processos no mercado de alimentos. Elaboração de projeto de desenvolvimento de produtos e processos incluindo abordagem prática.",
+        "reqs": [
+            [
+                {
+                    "code": "TA623"
+                },
+                {
+                    "code": "TA724"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA030",
+        "name": "Refrigeração",
+        "credits": 8,
+        "syllabus": "O papel do frio na conservação de alimentos. Refrigerantes. Ciclos teórico e real de refrigeração por compressão. Sistemas de múltiplos estágios. Componentes do sistema e características de desempenho. Automação e controles. Isolamento e câmaras frigoríficas. Carga térmica. Termoacumulação. Cogeração. Conservação e recuperação de energia. Operação, manutenção e segurança. Estocagem, transporte e comercialização frigorificadas. Normas.",
+        "reqs": [
+            [
+                {
+                    "code": "TA731"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA035",
+        "name": "Laboratório de Operações Unitárias",
+        "credits": 4,
+        "syllabus": "Experimentos em operações unitárias mais relevantes na Engenharia de Alimentos com montagem, medição e interpretação de resultados.",
+        "reqs": [
+            [
+                {
+                    "code": "TA631"
+                },
+                {
+                    "code": "TA731"
+                },
+                {
+                    "code": "TA831"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA046",
+        "name": "Serviços de Alimentação",
+        "credits": 3,
+        "syllabus": "Alimentação fora do lar: histórico e tendências. Programas governamentais: PAT e alimentação escolar. Tipologia de serviços de alimentação. Planejamento, layout, dimensionamento de áreas de cozinhas e refeitórios. Equipamentos e logística em serviços de alimentação. Tecnologias na produção de refeições coletivas: processamento mínimo e \"cookchill\". Visitas técnicas: centrais de processamento e distribuição de refeições. Projetos.",
+        "reqs": [
+            [
+                {
+                    "code": "TA332"
+                },
+                {
+                    "code": "TA615"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA101",
+        "name": "Formação e Atuação do Engenheiro de Alimentos",
+        "credits": 2,
+        "syllabus": "O Curso de Engenharia de Alimentos na FEA/Unicamp. O perfil profissional e atividades do engenheiro de Alimentos dentro de sua área de atuação."
+    },
+    {
+        "code": "TA102",
+        "name": "Estágio Científico e Tecnológico I",
+        "credits": 10,
+        "syllabus": "Iniciação a atividades práticas desenvolvidas em laboratório sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA103"
+        ]
+    },
+    {
+        "code": "TA103",
+        "name": "Estágio Científico e Tecnológico II",
+        "credits": 10,
+        "syllabus": "Iniciação a atividades práticas desenvolvidas em laboratório sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "TA102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA109",
+        "name": "Introdução ao Curso de Engenharia de Alimentos",
+        "credits": 2,
+        "syllabus": "Atribuições gerais profissionais e regulamentação das atividades do engenheiro. Conhecimentos e habilidades necessárias. Responsabilidade profissional e social do engenheiro formado na Universidade Pública. Campos de atuação, atualidade e tendências. Contexto sócio-econômico-ambiental do sistema agroindustrial do Brasil; sistemas de gestão da qualidade; pesquisa científica e desenvolvimento tecnológico na produção de alimentos."
+    },
+    {
+        "code": "TA209",
+        "name": "Trabalho de Conclusão de Curso I",
+        "credits": 2,
+        "syllabus": "Trabalho individual e orientado por docente da FEA, constando da elaboração de proposta de trabalho, respectivo plano de atividades e sugestão de bibliografia, para o desenvolvimento teórico sobre um tema relevante à Engenharia de Alimentos, a ser realizado a partir de pesquisa bibliográfica, segundo normas definidas pela Comissão de Graduação da FEA.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA309"
+        ]
+    },
+    {
+        "code": "TA221",
+        "name": "Características e Pré-Processamento de Grãos",
+        "credits": 3,
+        "syllabus": "Importância econômica, sistema de comercialização, classificação, composição química, propriedades físicas, estocagem e possibilidades de aproveitamento industrial das matérias-primas, grãos oleaginosos e cereais. Recepção, classificação, limpeza, secagem, e outras operações relativas ao pré-processamento de grãos e cereais. Beneficiamento, extração e degomagem de óleos. Tecnologia da produção de farinha de trigo. Moagem industrial de milho. Produção de amido de milho. Beneficiamento de arroz.",
+        "reqBy": [
+            "FT722",
+            "FT723",
+            "FT821",
+            "TA622",
+            "TA824",
+            "TA826",
+            "TA909"
+        ]
+    },
+    {
+        "code": "TA243",
+        "name": "Química de Alimentos I",
+        "credits": 4,
+        "syllabus": "Propriedades da água e seus efeitos sobre as transformações físico-químicas nos alimentos. Carboidratos, classificação, estrutura e propriedades em relação aos alimentos. Transformações químicas e físicas e seu efeito sobre cor textura e aroma nos alimentos. Vitaminas aquo e lipossolúveis. Aditivos, classificação e uso em alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                },
+                {
+                    "code": "QO427"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA309",
+        "name": "Trabalho de Conclusão de Curso II",
+        "credits": 2,
+        "syllabus": "Trabalho individual e orientado por docente da FEA, constando da execução da proposta de trabalho e respectivo plano de atividades aprovados na disciplina pré-requisito TA209.",
+        "reqs": [
+            [
+                {
+                    "code": "TA209"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA322",
+        "name": "Características e Pré-Processamento de Frutas, Hortaliças, Café, Cacau e Cana",
+        "credits": 3,
+        "syllabus": "Importância econômica, sistemas de comercialização, classificação, propriedades físicas e químicas e maturação. Colheita, estocagem e possibilidades de aproveitamento industrial frutas e hortaliças. Operações de pré-processamento e principais processos de conservação para alimentos ácidos e de baixa acidez. Pré-processamento de café, cacau e clarificação de cana-de-açúcar.",
+        "reqBy": [
+            "FT622",
+            "FT722",
+            "FT723",
+            "TA620",
+            "TA622",
+            "TA826",
+            "TA909",
+            "TA920"
+        ]
+    },
+    {
+        "code": "TA331",
+        "name": "Termodinâmica",
+        "credits": 4,
+        "syllabus": "Grandezas intensivas e extensivas. Equações de estado. Primeira e segunda leis da termodinâmica. Reversibilidade. Substâncias reais. Ferramentas matemáticas. Gás ideal. Substâncias reais. Equilíbrio. Estabilidade. Equilíbrio de fases. Fugacidade de compostos puros. Misturas. Grandezas parciais molares. Mistura ideal de gases. Mistura ideal. Fugacidade e coeficiente de atividade. Energia livre de Gibbs excedente. Equilíbrio: líquido/vapor, líquido/líquido, líquido/líquido/vapor.",
+        "reqs": [
+            [
+                {
+                    "code": "QF331"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT410",
+            "FT510",
+            "TA534"
+        ]
+    },
+    {
+        "code": "TA332",
+        "name": "Fundamentos de Cálculos em Processo",
+        "credits": 4,
+        "syllabus": "Grandezas fundamentais. Sistemas de unidade. Variáveis de processo. Propriedades Físicas. Conceitos de Pressão absoluta, manométrica e vácuo. Balanços de massa e energia em processos contínuos ou em batelada com ou sem reação química. Técnicas de resolução envolvendo componentes de amarração, reciclo, by-pass e purga. Pressão de vapor, equilíbrio de fases. Exemplos de balanços envolvendo misturas, solubilidade e cristalização, combustão, fermentação, destilação, evaporação, condensação, extração, umidificação, secagem e torres de resfriamento. Psicrometria e Processamento de ar.",
+        "reqs": [
+            [
+                {
+                    "code": "QF331"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT410",
+            "FT510",
+            "TA046",
+            "TA534"
+        ]
+    },
+    {
+        "code": "TA343",
+        "name": "Química de Alimentos II",
+        "credits": 4,
+        "syllabus": "Aminoácido e proteínas, pigmentos naturais e lipídeos. Classificação, estrutura e propriedades em relação aos alimentos. Transformações físicas e químicas em proteínas, pigmentos naturais e lipídeos e seus efeitos sobre cor, textura, sabor e aroma nos alimentos. Efeitos do processamento sobre os componentes de alimentos. Sabor e aroma, compostos voláteis e não voláteis. Mudanças durante processamento.",
+        "reqs": [
+            [
+                {
+                    "code": "QG101"
+                },
+                {
+                    "code": "QO427"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA411",
+        "name": "Química de Alimentos I",
+        "credits": 4,
+        "syllabus": "Propriedades da água, atividade de água e seus efeitos na estabilidade de alimentos. Estruturas e propriedades de aminoácidos e proteínas. Desnaturação e propriedades funcionais de proteínas. Estruturas, propriedades e funções de carboidratos em alimentos. Reações e modificações químicas de carboidratos. Transformações e interações de proteínas e carboidratos durante processamento e estocagem de alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "QA213"
+                },
+                {
+                    "code": "QO427"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT412",
+            "FT530",
+            "FT531",
+            "FT620",
+            "FT622",
+            "FT630",
+            "FT722",
+            "FT723",
+            "FT821",
+            "FT822",
+            "TA513",
+            "TA514",
+            "TA516",
+            "TA611",
+            "TA619",
+            "TA620",
+            "TA622",
+            "TA722",
+            "TA824",
+            "TA826",
+            "TA920",
+            "TA927"
+        ]
+    },
+    {
+        "code": "TA416",
+        "name": "Fundamentos de Bioquímica",
+        "credits": 4,
+        "syllabus": "- Sistema tampão e Aminoácidos como tampão. - Biossíntese de Ácidos Nucléicos e Proteínas. - Natureza das reações enzimáticas, características das enzimas e cinética enzimática. - Bioenergética - Metabolismo dos carboidratos. Metabolismo de lipídios. Metabolismo de proteínas. Integração metabólica.",
+        "reqs": [
+            [
+                {
+                    "code": "QO427"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA417",
+        "name": "Termodinâmica",
+        "credits": 4,
+        "syllabus": "Relações entre grandezas termodinâmicas. Equações de estado para substância pura. Caracterização do equílibrio. Equilíbrio de fases. Métodos para predição de propriedades termodinâmicas. Misturas. Fenômenos de superfície.",
+        "reqs": [
+            [
+                {
+                    "code": "QF335"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA433",
+            "TA433"
+        ]
+    },
+    {
+        "code": "TA421",
+        "name": "Características e Pré-Processamento de Leite e Ovos",
+        "credits": 3,
+        "syllabus": "Importância econômica e sistemas de produção da cadeia de leite e ovos. Estrutura, fisiologia e valor nutricional. Composição e físico-química dos constituintes. Microbiologia de leite e ovos. Operações de pré-processamento, pasteurização e controle de qualidade de leite e ovos.",
+        "reqBy": [
+            "FT723",
+            "FT822",
+            "TA722",
+            "TA826",
+            "TA909",
+            "TA920",
+            "TA927"
+        ]
+    },
+    {
+        "code": "TA431",
+        "name": "Mecânica dos Materiais",
+        "credits": 3,
+        "syllabus": "Balanço de forças e momento. Tensão: normal e tangencial. Tensão admissível: fator de segurança. Deformação mecânica: axial e em cisalhamento. Problemas estaticamente indeterminados. Deformação térmica. Relação tensão-deformação: lei de Hooke e não-linearidade. Razão de Poisson, tensão residual e fadiga. Propriedades mecânicas de sólidos: tração, compressão, punção, flexão e torção. Lei de Newton de viscosidade. Fluidos não-newtonianos. Tensão-taxa de deformação: classificação de fluidos. Viscoelasticidade e número de Deborah. Reologia a baixas deformações: ensaios transientes e oscilatórios.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "MA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT621",
+            "FT640",
+            "FT740",
+            "TA623",
+            "TA631",
+            "TA734"
+        ]
+    },
+    {
+        "code": "TA433",
+        "name": "Fundamentos de Engenharia de Alimentos",
+        "credits": 4,
+        "syllabus": "Variáveis de processo. Estimativa de propriedades termodinâmicas de gases, líquidos e sólidos. Balanços de massa e energia: reciclo, purga, combustão, fermentação, destilação, evaporação, condensação e secagem. Psicrometria. Equilíbrio químico e de fases. Atividade de água.",
+        "reqs": [
+            [
+                {
+                    "code": "QF333"
+                },
+                {
+                    "code": "TA321",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "QF333"
+                },
+                {
+                    "code": "TA417"
+                }
+            ],
+            [
+                {
+                    "code": "QF335"
+                },
+                {
+                    "code": "TA321",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "QF335"
+                },
+                {
+                    "code": "TA417"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA512",
+        "name": "Química dos Componentes de Alimentos e do Processamento I",
+        "credits": 6,
+        "syllabus": "Propriedades da água e seus efeitos sobre as transformações físico-químicas nos alimentos. Carboidratos, classificação, estrutura e propriedades em relação aos alimentos. Transformações químicas e físicas e seu efeito sobre cor, textura e aroma nos alimentos. Vitaminas aquo e lipossolúveis. Aditivos, classificação e uso em alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "QO425"
+                }
+            ],
+            [
+                {
+                    "code": "QO427"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA513",
+        "name": "Análise de Alimentos",
+        "credits": 4,
+        "syllabus": "Importância da análise de alimentos para controle de qualidade físico-químico de alimentos. Técnicas e importância da amostragem. Preparo e preservação de amostras. Fatores relevantes na escolha de um método de análise. Desenvolvimento e validação de métodos de análise para alimentos. Tratamento qualitativo e quantitativo dos dados. Métodos para determinação de macronutrientes: umidade, cinzas, proteínas, lipídeos, açúcares e fibra alimentar. Aplicações para análise de alimentos, vantagens e desvantagens das técnicas analíticas.",
+        "reqs": [
+            [
+                {
+                    "code": "TA411"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA619",
+            "TA741",
+            "TA741"
+        ]
+    },
+    {
+        "code": "TA514",
+        "name": "Bioquímica de Alimentos",
+        "credits": 4,
+        "syllabus": "Avaliação da capacidade tamponante e importânica do pH em organismos vivos e alimentos. Composição e importância de ácidos nucleicos e derivados no metabolismo e em alimentos. Obtenção e detecção de alimentos transgênicos. Enzimas, cinética enzimática, fatores que interferem na ação enzimática, características e funções. Metabolismo de Carboidratos: digestão e absorção carboidratos, Via Glicolítica, Ciclo de Krebs e Fosforilação oxidativa, Via Pentose Fosfato, Degradação e Síntese de glicogênio.",
+        "reqs": [
+            [
+                {
+                    "code": "TA411"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT511",
+            "FT512",
+            "FT630",
+            "TA610",
+            "TA611",
+            "TA615",
+            "TA641"
+        ]
+    },
+    {
+        "code": "TA516",
+        "name": "Química de Alimentos II",
+        "credits": 4,
+        "syllabus": "Estruturas, propriedades e funções de ácidos graxos e lipídeos. Reações e modificações químicas de lipídeos durante o processamento e estocagem de alimentos. Estruturas e transformações químicas de vitaminas e suas consequências. Estruturas, propriedades e alterações de corantes naturais. Química do aroma e do sabor.",
+        "reqs": [
+            [
+                {
+                    "code": "TA411",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT512",
+            "FT622",
+            "FT630",
+            "FT722",
+            "FT723",
+            "FT821",
+            "FT822",
+            "TA611",
+            "TA620",
+            "TA622",
+            "TA641",
+            "TA722",
+            "TA824",
+            "TA826",
+            "TA920",
+            "TA927"
+        ]
+    },
+    {
+        "code": "TA521",
+        "name": "Características e Pré-Processamento de Carnes",
+        "credits": 3,
+        "syllabus": "Introdução à produção animal no Brasil. Estatísticas de produção e exportação. Requisitos sanitários. Descrição dos abatedouros frigoríficos e processos de abate. Bem-estar animal e rastreabilidade. Estrutura da carne. Rigor mortis e cold shortening. Pré-abate e abate de frangos. Atributos de qualidade de carnes. Conservação e qualidade de pescados.",
+        "reqBy": [
+            "FT821",
+            "FT822",
+            "TA722",
+            "TA824",
+            "TA909",
+            "TA927"
+        ]
+    },
+    {
+        "code": "TA534",
+        "name": "Fenômenos de Transporte",
+        "credits": 6,
+        "syllabus": "Sistemas e análise dimensional. Princípios de semelhança. Propriedades de transporte (viscosidade, condutividade térmica, difusividade de massa). Balanços diferenciais e integrais de quantidade de movimento, energia e de massa. Leis de Newton da viscosidade e de resfriamento. Leis de Fourier e de Fick. Condução, convecção e radiação. Condução e difusão em regime permanente e transiente. Convecção térmica e de massa. Trocadores de calor.",
+        "reqs": [
+            [
+                {
+                    "code": "TA331"
+                },
+                {
+                    "code": "TA332"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT620",
+            "FT621",
+            "FT640",
+            "FT721",
+            "FT741",
+            "FT820",
+            "TA623",
+            "TA631",
+            "TA731",
+            "TA736",
+            "TA737",
+            "TA831"
+        ]
+    },
+    {
+        "code": "TA541",
+        "name": "Análise Sensorial de Alimentos",
+        "credits": 4,
+        "syllabus": "O ambiente dos testes sensoriais e outros fatores que influenciam a avaliação sensorial. Métodos Sensoriais: a) métodos discriminativos, b) métodos descritivos, c) métodos afetivos. Análise estatística univariada (ANOVA). Seleção de provadores. Correlação entre medidas sensoriais e instrumentais. Princípios básicos sobre psicofísica: lei de Stevens e Threshold.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA741",
+            "TA741"
+        ]
+    },
+    {
+        "code": "TA542",
+        "name": "Economia Agroalimentar",
+        "credits": 2,
+        "syllabus": "Conceitos básicos de economia aplicados ao setor agroalimentar. Análise da oferta e procura. Análise do consumidor e consumo de alimentos. Situação alimentar e nutricional da população. Noções de desenvolvimento. Conceito e coordenação de sistemas agroalimentares. Caracterização do sistema agroalimentar no Brasil. Tipos e avaliação de políticas de segurança alimentar e nutricional.",
+        "reqs": [
+            [
+                {
+                    "code": "CE138"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT742",
+            "TA832"
+        ]
+    },
+    {
+        "code": "TA607",
+        "name": "Microbiologia Preditiva Aplicada a Alimentos",
+        "credits": 4,
+        "syllabus": "Aplicações da microbiologia preditiva. Tipos de Modelos Preditivos. Coleta de dados em microbiologia preditiva. Validação de modelos preditivos. Testes desafio. Aplicações da modelagem preditiva na segurança e estabilidade microbiológica dos alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "TA615"
+                },
+                {
+                    "code": "TA716"
+                },
+                {
+                    "code": "TA912"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA608",
+        "name": "Microbiologia Molecular de Alimentos",
+        "credits": 4,
+        "syllabus": "Métodos moleculares para identificação e classificação de micro-organismos encontrados em alimentos. Sequenciamento de DNA aplicado à segurança alimentar. Sistemática e evolução molecular de micro-organismos provenientes de alimentos. Bioinformática aplicada à segurança alimentar. Estudos de casos de métodos moleculares aplicados à segurança alimentar.",
+        "reqs": [
+            [
+                {
+                    "code": "TA615"
+                },
+                {
+                    "code": "TA716"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA610",
+        "name": "Transformações Bioquímicas em Alimentos",
+        "credits": 4,
+        "syllabus": "Estudar as transformações bioquímicas em alimentos de origem vegetal e animal. Inicia-se com as alterações bioquímicas \"post mortem\" de animais e peixes e suas implicações no processamento e qualidade final do alimento. Transformações Bioquímicas pós-colheita de frutas e hortaliças são estudadas descrevendo os metabolismos e transformações bioquímicas também no armazenamento. Enzimas importantes no processamento de alimentos são estudadas com relação a modos de ação, inibição ou inativação e aplicações nos processamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "TA514"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT721",
+            "TA017"
+        ]
+    },
+    {
+        "code": "TA611",
+        "name": "Toxicologia de Alimentos",
+        "credits": 2,
+        "syllabus": "Fundamentos de toxicologia. Delineamento de estudos de toxicidade. Carcinogênese química. Compostos tóxicos naturais de origem vegetal e animal. Aditivos alimentares, pesticidas, metais tóxicos e micotoxinas em alimentos. Contaminantes ambientais e compostos tóxicos formados durante o processamento.",
+        "reqs": [
+            [
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA514"
+                },
+                {
+                    "code": "TA516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA614",
+        "name": "Química dos Componentes de Alimentos e do Processamento II",
+        "credits": 6,
+        "syllabus": "Aminoácidos e proteínas, pigmentos naturais e lipídeos. Classificação, estrutura e propriedades em relação aos alimentos. Transformações físicas e químicas em proteínas, pigmentos naturais e lipídeos e seus efeitos sobre cor, textura, sabor e aroma nos alimentos. Sabor e aroma, compostos voláteis e não voláteis. Mudanças durante processamento.",
+        "reqs": [
+            [
+                {
+                    "code": "QO425"
+                }
+            ],
+            [
+                {
+                    "code": "QO427"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA615",
+        "name": "Microbiologia de Alimentos",
+        "credits": 4,
+        "syllabus": "Micro-organismos de importância em alimentos. Fatores que controlam o comportamento microbiano em alimentos. Teoria dos obstáculos. Técnicas microbiológicas utilizadas em alimentos. Micro-organismos benéficos em alimentos. Micro-organismos deterioradores em alimentos: bactérias esporuladas e não esporuladas, leveduras e fungos filamentosos. Características, ecologia, mecanismos de patogenicidade e medidas de controle de patógenos em alimentos. Micotoxinas. Planos de amostragem e padrões microbiológicos para alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "BM320"
+                },
+                {
+                    "code": "TA514"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT620",
+            "FT640",
+            "FT721",
+            "FT830",
+            "TA017",
+            "TA046",
+            "TA607",
+            "TA608",
+            "TA623",
+            "TA716",
+            "TA724",
+            "TA726",
+            "TA736",
+            "TA912",
+            "TA927"
+        ]
+    },
+    {
+        "code": "TA619",
+        "name": "Análise Instrumental de Alimentos",
+        "credits": 4,
+        "syllabus": "Importância da análise instrumental de alimentos. Avaliação de métodos analíticos. Controle de qualidade analítica. Técnicas básicas de preparo de amostra para análise instrumental. Radiação eletromagnética. Espectrofotometria na região do ultravioleta e do visível. Espectroscopia de Fluorescência Molecular. Espectroscopia no infravermelho próximo e médio. Espectrometria atômica (absorção e emissão). Introdução à cromatografia. Métodos cromatográficos clássicos. Cromatografia Líquida de Alta Eficiência. Cromatografia gasosa. Aplicações e análises de alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA513"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA620",
+        "name": "Processos Tecnológicos I",
+        "credits": 3,
+        "syllabus": "Processo de fabricação de vegetais fermentados e acidificados. Fermentação acética (vinagre). Produtos orientais fermentados à base de soja. Produção de vinho e cerveja. Produção de refrescos e refrigerantes.",
+        "reqs": [
+            [
+                {
+                    "code": "BM320"
+                },
+                {
+                    "code": "TA322"
+                },
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA622",
+        "name": "Processos Tecnológicos II",
+        "credits": 3,
+        "syllabus": "Conservação de alimentos pela redução da atividade de água. Caracterização físico-química de alimentos de baixa atividade de água e determinação da atividade de água. Frutas conservadas pela adição de açúcar para a redução da atividade de água: geleias, frutas açucaradas, doces em massa e balas. Desidratação de frutas e hortaliças. Resfriamento e congelamentos de frutas e hortaliças. Produtos de panificação (pães, bolos e biscoitos) e massas alimentícias (convencionais e instantâneas). Processos, equipamentos, ingredientes, aditivos e qualidade dos produtos finais.",
+        "reqs": [
+            [
+                {
+                    "code": "BM320"
+                },
+                {
+                    "code": "TA221"
+                },
+                {
+                    "code": "TA322"
+                },
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA623",
+        "name": "Embalagem de Alimentos",
+        "credits": 3,
+        "syllabus": "História e função das embalagens na indústria de alimentos. Embalagens plásticas, metálicas, celulósicas e de vidro. Matérias-primas, processos de conversão e transformação, propriedades físicas, químicas e mecânicas. Tampas e processos de fechamento. Sistemas de embalagens. Máquinas e equipamentos de acondicionamento. Controle de qualidade. Distribuição, logística, planejamento e legislação. Reciclagem. Estabilidade de alimentos: mecanismos de transformações físicas, químicas e microbiológicas. Adequação do sistema alimento/embalagem/ambiente; cálculos de vida-de-prateleira.",
+        "reqs": [
+            [
+                {
+                    "code": "TA431"
+                },
+                {
+                    "code": "TA534"
+                },
+                {
+                    "code": "TA615"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT840",
+            "TA023",
+            "TA725"
+        ]
+    },
+    {
+        "code": "TA631",
+        "name": "Operações Unitárias I",
+        "credits": 4,
+        "syllabus": "Escoamento de fluidos newtonianos e não-newtonianos: sistemas isotérmicos e não-isotérmicos. Energia de atrito de parede e de forma. Tubulações, válvulas e acessórios. Dimensionamento de sistemas de bombeamento, ventilação e agitação. Sistemas particulados: esfericidade, porosidade e velocidade terminal. Distribuição de tamanho de partículas. Escoamento em meios porosos e fluidização. Transporte hidráulico e pneumático. Operações de separação mecânica: peneiragem, filtração, sedimentação, centrifugação, ciclones e hidrociclones. Operações de redução de tamanho: moagem e homogeneização.",
+        "reqs": [
+            [
+                {
+                    "code": "TA431"
+                },
+                {
+                    "code": "TA534"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT740",
+            "TA035",
+            "TA734"
+        ]
+    },
+    {
+        "code": "TA641",
+        "name": "Nutrição e Qualidade Nutricional de Alimentos",
+        "credits": 4,
+        "syllabus": "Descrição dos macro e micronutrientes. Características química, propriedades, funções bioquímicas e nutricionais. Processos de digestão, absorção e transporte dos nutrientes. Recomendações e necessidades nutricionais em função do estágio de vida. Desequilíbrios nutricionais resultantes da ingestão não-criteriosa de alimentos. Alterações desejáveis e indesejáveis de nutrientes durante o processamento e armazenamento. Avaliação nutricional por métodos químicos, bioquímicos e biológicos. Conceitos de formulação. Produtos para fins especiais. Substâncias bioativas e alimentos funcionais.",
+        "reqs": [
+            [
+                {
+                    "code": "TA514"
+                },
+                {
+                    "code": "TA516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA712",
+        "name": "Análise Sensorial de Alimentos",
+        "credits": 4,
+        "syllabus": "O ambiente dos testes sensoriais e outros fatores que influenciam a avaliação sensorial. Métodos Sensoriais: a) métodos discriminativos, b) métodos descritivos, c) métodos afetivos. Análise estatística univariada (ANOVA). Seleção de provadores. Correlação entre medidas sensoriais e instrumentais. Princípios básicos sobre psicofísica: lei de Stevens e Threshold.",
+        "reqs": [
+            [
+                {
+                    "code": "ME319",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA716",
+        "name": "Microbiologia de Processos",
+        "credits": 2,
+        "syllabus": "Conceito de ecologia microbiana dos alimentos. Importância individual das etapas de processamento para a segurança e estabilidade microbiológica dos alimentos. Técnicas para estudo da ecologia microbiana dos alimentos. Microbiologia de carnes e derivados. Microbiologia de frutas e derivados. Microbiologia de vegetais e derivados. Microbiologia de leite e derivados. Microbiologia de pescados e derivados. Microbiologia de cereais. Microbiologia de bebidas. Microbiologia de condimentos, oleagionosas, mel.",
+        "reqs": [
+            [
+                {
+                    "code": "TA615"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA607",
+            "TA608",
+            "TA836"
+        ]
+    },
+    {
+        "code": "TA722",
+        "name": "Processos Tecnológicos III",
+        "credits": 3,
+        "syllabus": "Características e uso industrial de culturas lácticas. Processamento de iogurte e leites fermentados. Princípios de fabricação e variedades de queijos. Coagulação ácida e enzimática. Maturação e propriedades de queijos. Processamento de pescados salgados fermentados.",
+        "reqs": [
+            [
+                {
+                    "code": "BM320"
+                },
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA421"
+                },
+                {
+                    "code": "TA516"
+                },
+                {
+                    "code": "TA521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA724",
+        "name": "Higiene e Legislação",
+        "credits": 3,
+        "syllabus": "Controle da higiene no processamento de alimentos: aspectos legais, requisitos higiênicos das instalações, Boas Práticas de Manufatura (BPM), Procedimentos Padrões de Higiene Operacional (PPHO) e sistema de Análise de Perigos e Pontos Críticos de Controle (APPCC). Fundamentos da limpeza e sanitização. Qualidade de vida no trabalho: Consolidação das Leis do Trabalho (CLT) e normas regulamentadoras de segurança e medicina do trabalho. Conceitos de acidentes e riscos operacionais, medidas de controle e prevenção.",
+        "reqs": [
+            [
+                {
+                    "code": "QA213"
+                },
+                {
+                    "code": "QO427"
+                },
+                {
+                    "code": "TA615"
+                }
+            ],
+            [
+                {
+                    "code": "TA321",
+                    "special": true
+                },
+                {
+                    "code": "TA618",
+                    "partial": true,
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT840",
+            "TA023",
+            "TA741"
+        ]
+    },
+    {
+        "code": "TA725",
+        "name": "Desenvolvimento de Novos Produtos",
+        "credits": 2,
+        "syllabus": "Expectativas e satisfação do consumidor. Definição e caracterização de novos produtos. Introdução de novos produtos no mercado. Gerenciamento do processo de desenvolvimento de novos produtos: geração de ideias, estratégias industriais, mecanismos de autoavaliação. Caracterização do consumidor de novos produtos. Caracterização do mercado. Condições a serem atendidas pelo novo produto. Relação sucesso x insucesso de um novo produto. Ciclo de vida.",
+        "reqs": [
+            [
+                {
+                    "code": "TA623"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA021"
+        ]
+    },
+    {
+        "code": "TA726",
+        "name": "Segurança dos Alimentos",
+        "credits": 2,
+        "syllabus": "Ferramentas de controle higiênico-sanitário no processamento de alimentos: legislação aplicada ao registro e controle de alimentos. Boas Práticas de Manufatura (BPM), Procedimentos Padrão de Higiene Operacional (PPHO), sistema de Análise de Perigos e Pontos Críticos de Controle (APPCC) e fundamentos de limpeza e sanitização.",
+        "reqs": [
+            [
+                {
+                    "code": "TA615"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA729",
+            "TA741"
+        ]
+    },
+    {
+        "code": "TA729",
+        "name": "Segurança Industrial",
+        "credits": 1,
+        "syllabus": "Conhecimento geral da legislação e das normas regulamentadoras de segurança no trabalho. Legislação profissional e CLT. Conceitos de acidentes e riscos. CIPA, SESMT. Riscos ocupacionais: químicos, físicos e biológicos. Equipamentos de proteção coletiva e individual. Sinalização de segurança. Prevenção e combate a incêndios. Primeiros socorros. Ergonomia.",
+        "reqs": [
+            [
+                {
+                    "code": "QA213"
+                },
+                {
+                    "code": "QO427"
+                },
+                {
+                    "code": "TA726"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA731",
+        "name": "Operações Unitárias II",
+        "credits": 4,
+        "syllabus": "Propriedades térmicas dos alimentos. Transporte de calor por radiação. Trocadores de calor. Transporte de calor na mudança de fase. Concentração de alimentos por evaporação. Refrigeração e congelamento de alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "TA534"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT720",
+            "TA030",
+            "TA035",
+            "TA912",
+            "TA927"
+        ]
+    },
+    {
+        "code": "TA734",
+        "name": "Instalações Industriais",
+        "credits": 8,
+        "syllabus": "Introdução ao desenho técnico. Fluxogramas de Processo e Mecânico. Elaboração de Anteprojeto de planta para indústria alimentícia. Composição, estrutura e propriedades dos aços Carbono e Inox. Tratamento térmico, corrosão e soldas. Tubulações, válvulas e conexões sanitárias e não sanitárias. Projeto sanitário com válvulas mix-proof. Caldeiras. Linhas de vapor. Tratamento de água primário e para caldeiras. Instalações Sanitárias e Central CIP. Aquecimento e isolamento de tubulações. Traçado e suporte de tubulações. Layout. Desenho em computador de planta isométrico. Lista de materiais.",
+        "reqs": [
+            [
+                {
+                    "code": "TA431"
+                },
+                {
+                    "code": "TA631"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA736",
+        "name": "Engenharia de Bioprocessos",
+        "credits": 2,
+        "syllabus": "Introdução aos Bioprocessos. Microrganismos e meios de cultura industriais. Aspectos metabólicos de relevância industrial. Balanços: velocidades, dinâmica e desenho experimental. Biorreatores e formas de operação de um bioprocesso. Velocidades específicas em cultivos tipo batelada. Modelos cinéticos tipo caixa-preta para o crescimento microbiano: crescimento sob limitação nutricional. Modelos estequiométricos tipo caixa-preta para microrganismos: a reação de processo em função da velocidade específica de crescimento. Transferência de oxigênio e respiração microbiana em bioprocessos.",
+        "reqs": [
+            [
+                {
+                    "code": "TA534"
+                },
+                {
+                    "code": "TA615"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA737",
+        "name": "Instrumentação e Controle",
+        "credits": 4,
+        "syllabus": "Fluxograma de engenharia, normas para descrever estratégias de controle de processos industriais. Instrumentação de medição de temperatura, pressão, vazão e nível e outros. Medição e controle de parâmetro de processo. Curvas Características de válvulas de controle e atuadores. Apresentação de Controladores Lógicos Programáveis. Noções de linearidades de Processos. Apresentação de noções sobre teoria de controladores P, PI e PID. Ajuste/sintonias de controladores P, PI, PID. Estratégias de controle e malhas de controle feedback, cascata e feedforward.",
+        "reqs": [
+            [
+                {
+                    "code": "F 328"
+                },
+                {
+                    "code": "TA534"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA741",
+        "name": "Controle de Qualidade na Indústria de Alimentos",
+        "credits": 4,
+        "syllabus": "Definição de Qualidade, Conceitos de Inspeção, Controle de Qualidade. Garantia e Sistemas de Gestão de Qualidade. Normas ISO 9000. Gestão de Segurança de Alimentos: APPCC e ISO 22000. Atributos de qualidade de alimentos: cor e textura. Conceitos de Amostragem. Curvas característica de operação. Amostragem por atributos e por variáveis. Controle estatístico e capacidade de processo. Ferramentas de Qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "TA513"
+                },
+                {
+                    "code": "TA541"
+                },
+                {
+                    "code": "TA726"
+                }
+            ],
+            [
+                {
+                    "code": "TA513"
+                },
+                {
+                    "code": "TA541"
+                },
+                {
+                    "code": "TA724"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA021"
+        ]
+    },
+    {
+        "code": "TA824",
+        "name": "Processos Tecnológicos IV",
+        "credits": 3,
+        "syllabus": "Processos tecnológicos utilizados na elaboração de produtos cárneos emulsionados, conservados por salva, fermentados e reestruturados de carne bovina, suína e de aves. Funções de ingredientes e aditivos em produtos cárneos processados. Fatores que influenciam a estabilidade, qualidade e segurança de produtos cárneos.",
+        "reqs": [
+            [
+                {
+                    "code": "BM320"
+                },
+                {
+                    "code": "TA221"
+                },
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA516"
+                },
+                {
+                    "code": "TA521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA826",
+        "name": "Processos Tecnológicos V",
+        "credits": 3,
+        "syllabus": "Físico-química do glóbulo de gordura do leite. Instabilidade de emulsão. Fabricação de manteiga, cremes de leite pasteurizado e esterilizado. Creme chantilly. Gelados comestíveis. Função dos ingredientes e processamento. Tecnologia do processamento de produtos de base lipídica de origem vegetal: produção de óleos, gorduras comestíveis e margarinas. Refino, clarificação, desodorização, hidrogenação, fracionamento e interesterificação de óleos e gorduras. Formulação de gorduras especiais.",
+        "reqs": [
+            [
+                {
+                    "code": "BM320"
+                },
+                {
+                    "code": "TA221"
+                },
+                {
+                    "code": "TA322"
+                },
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA421"
+                },
+                {
+                    "code": "TA516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA831",
+        "name": "Operações Unitárias III",
+        "credits": 4,
+        "syllabus": "Difusão. Equilíbrio de fases. Coeficientes de transferência de massa. Transferência de massa na interface. Principais operações e equipamentos por estágio ou de contato diferencial. Operações unitárias contínuas ou em batelada. Umidificação. Secagem. Extração sólido-líquido. Extração líquido-líquido. Destilação contínua e em batelada. Absorção e esgotamento. Cálculo do número de estágio e altura de recheio.",
+        "reqs": [
+            [
+                {
+                    "code": "TA534"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA035"
+        ]
+    },
+    {
+        "code": "TA832",
+        "name": "Formulação e Avaliação de Projetos",
+        "credits": 2,
+        "syllabus": "Elementos básicos de projetos e perfis industriais. Avaliação de mercado e projeção de tendências. Estudo e escolha do processo. Quantificação do processamento: requisitos de insumos, energia, etc. Produtividade. Escala e tamanho. Layout de Fábrica. Localização. Avaliação Econômica de Projetos. Custos. Depreciação. Investimento Fixo e Capital de Giro. Composição de custos de um produto alimentício. Análise de rentabilidade de projetos: rentabilidade sobre o patrimônio. Período de recuperação do investimento. Taxa interna de retorno. Valor atual líquido.",
+        "reqs": [
+            [
+                {
+                    "code": "TA542"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FT841",
+            "TA932"
+        ]
+    },
+    {
+        "code": "TA836",
+        "name": "Tratamento de Águas Residuárias",
+        "credits": 2,
+        "syllabus": "Caracterização de águas residuárias da Indústria de Alimentos. Tratamento primário, secundário e terciário. Métodos físicos, químicos e biológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "TA716"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA909",
+        "name": "Estágio Supervisionado",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado em indústrias e empresas do setor de alimentos ou em outros órgãos credenciados pela FEA.",
+        "reqs": [
+            [
+                {
+                    "code": "TA221"
+                },
+                {
+                    "code": "TA322"
+                },
+                {
+                    "code": "TA421"
+                },
+                {
+                    "code": "TA521"
+                }
+            ],
+            [
+                {
+                    "code": "TA503",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "TA720",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA912",
+        "name": "Termobacteriologia Aplicada a Alimentos",
+        "credits": 2,
+        "syllabus": "Métodos térmicos de inativação microbiana e conservação dos alimentos. Micro-organismos de importância em alimentos termoprocessados: fontes, caracterização e ecologia. Métodos para determinação da resistência térmica de micro-organismos. Enumeração e recuperação de micro-organismos pós-processamento térmico. Estabelecimento de processos térmicos. Modelagem preditiva da inativação térmica. Avaliação da penetração de calor em alimentos processados. Validação de processos térmicos. Uso bioindicadores de esterilização.",
+        "reqs": [
+            [
+                {
+                    "code": "TA615"
+                },
+                {
+                    "code": "TA731"
+                }
+            ]
+        ],
+        "reqBy": [
+            "TA607"
+        ]
+    },
+    {
+        "code": "TA918",
+        "name": "Microbiologia e Fermentações",
+        "credits": 4,
+        "syllabus": "Técnicas microbiológicas. Caracterização e identificação de bactérias, fungos filamentosos e leveduras. Crescimento de microrganismos. Exame microbiológico da água. Fermentações alcoólicas e de ácidos orgânicos. Produção de proteínas unicelulares, enzimas, antibióticos, aminoácidos e vitaminas.",
+        "reqs": [
+            [
+                {
+                    "code": "QO551"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA920",
+        "name": "Processos Tecnológicos VI",
+        "credits": 3,
+        "syllabus": "Processos de torrefação, moagem, extração, concentração, congelamento, secagem (spray-dryer, drum dryer, liofilização), instantaneização, cristalização e centrifugação. Processamento de sucos. Processamento de tomate e derivados. Processamento de leites evaporado, condensado açucarado, desidratado (integral e desnatado) e instantaneizado. Processamento de café, chocolate e açúcar de cana. ",
+        "reqs": [
+            [
+                {
+                    "code": "BM320"
+                },
+                {
+                    "code": "TA322"
+                },
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA421"
+                },
+                {
+                    "code": "TA516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA927",
+        "name": "Processos Tecnológicos VII",
+        "credits": 2,
+        "syllabus": "Processamento térmico de alimentos em autoclaves e sistemas contínuos. Pasteurização e esterilização de vegetais, leite, carnes e produtos mistos. Processamento de alimentos extrusados. Processamento de alimentos por métodos não convencionais (micro-ondas, aquecimento ôhmico, alta pressão, irradiação e pulso elétrico). Parâmetros de qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "TA411"
+                },
+                {
+                    "code": "TA421"
+                },
+                {
+                    "code": "TA516"
+                },
+                {
+                    "code": "TA521"
+                },
+                {
+                    "code": "TA615"
+                },
+                {
+                    "code": "TA731"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TA932",
+        "name": "Projeto Industrial",
+        "credits": 6,
+        "syllabus": "Elaboração de um anteprojeto de uma indústria de alimentos ou correlata. Identificação dos objetivos e mercados do empreendimento. Definição do Plano de Produção e das estratégias de crescimento. Decisão da localização. Especificação de processos, sistema de qualidade, insumos industriais, equipamentos, instalações e edificações. Elaboração do arranjo físico. Caracterização e quantificação do investimento fixo. Cálculo dos custos de produção, capital de giro e preço de venda. Determinação dos indicadores de rentabilidade e risco. Estudo preliminar de viabilidade econômica.",
+        "reqs": [
+            [
+                {
+                    "code": "TA832"
+                }
+            ]
+        ]
+    }
+]

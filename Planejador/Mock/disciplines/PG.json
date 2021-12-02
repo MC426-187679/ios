@@ -1,0 +1,424 @@
+[
+    {
+        "code": "PG001",
+        "name": "Tópicos Especiais em Políticas Públicas I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "PG002",
+        "name": "Tópicos Especiais em Políticas Públicas II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "PG003",
+        "name": "Tópicos Especiais em Políticas Públicas III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "PG004",
+        "name": "Tópicos Especiais em Políticas Públicas IV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "PG100",
+        "name": "Introdução à Ciência Política",
+        "credits": 4,
+        "syllabus": "Fundamentos do pensamento político. Etnocentrismo: o eu e o outro. Indivíduo, sociedade e política. Democracia e participação. Autoritarismo e ditadura. Teorias de Estado: Liberalismo, Marxismo, Pluralismo, Elitismo. Problemas contemporaneos. Conservadorismo, individualismo, consumismo. Regulação da mídia e liberdade. Cidadania. Educação política.",
+        "reqBy": [
+            "PG200",
+            "PG400"
+        ]
+    },
+    {
+        "code": "PG200",
+        "name": "Estado, Burocracia e Políticas Públicas",
+        "credits": 6,
+        "syllabus": "A Formação do Estado e de seu aparato administrativo. A burocracia e o Estado Moderno. Weber e burocracia (tipo ideal e formas de dominação). Burocracia pública como ator e seu papel nas políticas públicas. Dilemas entre burocracia e política. Discricionariedade, controle e accountability. Burocracias de alto e médio escalão. Insulamento burocrático. Burocracia de linha de frente e o ciclo de políticas públicas. Reformas do Estado e serviço público. Cargos, funções, carreira, formação, mérito e avaliação de desempenho de servidores. O papel das escolas de governo.",
+        "reqs": [
+            [
+                {
+                    "code": "PG100"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG301"
+        ]
+    },
+    {
+        "code": "PG201",
+        "name": "Sistemas de Proteção Social",
+        "credits": 6,
+        "syllabus": "Estudos sobre expansão dos Direitos Sociais no Século XX. O surgimento do Welfare State e suas interpretações. Desigualdade e a questão social no sistema capitalista. O conceito de cidadania. Os Sistemas de Proteção Social Europeus e Latinoamericanos. Relações entre Política econômica e Política social. O tripé da seguridade social no Brasil. Crise Econômica, Neoliberalismo e Crise dos Estados de Bem-Estar."
+    },
+    {
+        "code": "PG300",
+        "name": "Contabilidade Pública",
+        "credits": 4,
+        "syllabus": "Serviço Público. Administração Pública. Função e objetivos da contabilidade pública. Regimes Contábeis. Patrimônio Público. Dívida Pública. Orçamento público. Receita e despesa pública. Demonstrações contábeis aplicadas ao setor público. Análise das Demonstrações Contábeis Aplicadas ao setor público.",
+        "reqs": [
+            [
+                {
+                    "code": "GL203"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG810"
+        ]
+    },
+    {
+        "code": "PG301",
+        "name": "Evolução do Estado e Instituições Públicas no Brasil",
+        "credits": 6,
+        "syllabus": "Relações Estado e sociedade no Brasil. A perspectiva histórica da administração pública no Brasil: instituições e sua transformação. Federalismo no Brasil: conformação histórica e desafios contemporâneos. Governo, administração e políticas públicas no Brasil. Administração direta e indireta. Processos de reforma recente do Estado brasileiro. Novas relações estado-sociedade: concessões, parceria público-privado, organizações sociais. ",
+        "reqs": [
+            [
+                {
+                    "code": "PG200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG501"
+        ]
+    },
+    {
+        "code": "PG400",
+        "name": "Teorias do Desenvolvimento",
+        "credits": 4,
+        "syllabus": "Principais contribuições dos teóricos do desenvolvimento. O debate da Cepal sobre os países em desenvolvimento. Abordagem econômica e histórica de temas clássicos do desenvolvimento econômico tais como crescimento, mudança tecnológica, padrões de financiamento público e privado, distribuição de renda, desigualdade (individual, social e regional), políticas públicas, e recursos naturais e meio-ambiente.",
+        "reqs": [
+            [
+                {
+                    "code": "PG100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG500",
+        "name": "Direito para Administração Pública I",
+        "credits": 4,
+        "syllabus": "O Direito na evolução do Poder, do Estado e seus elementos fundamentais. Constituição: Conceito, Espécies, Rigidez. Emenda constitucional. Formas de Estado e de Governo. Regimes governamentais. Os fundamentos e os objetivos da República Federativa do Brasil. Princípios, direitos e garantias fundamentais. Normas jurídicas: conceito e classificação: vigência e eficácia; irretroatividade e interpretação. Noções de Direito Público: Direito Constitucional, Direito Administrativo, Direito Tributário , Direito Penal, Direito Eleitoral e Direito Internacional. Noções de Direitos Difusos: Direito Ambiental, Direito Consumidor, Previdenciário, Infância e Juventude e Trabalho. Noções de Direito Privado: Direito Civil, Empresarial e Internacional.",
+        "reqBy": [
+            "PG600"
+        ]
+    },
+    {
+        "code": "PG501",
+        "name": "Políticas Públicas no Brasil",
+        "credits": 4,
+        "syllabus": "Abordagem crítica e histórica de diferentes políticas públicas no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "PG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG502",
+        "name": "Seminários em Políticas Públicas",
+        "credits": 4,
+        "syllabus": "Estudo de temas contemporâneos e relevantes para a gestão pública municipal, estadual e federal e políticas públicas em geral."
+    },
+    {
+        "code": "PG600",
+        "name": "Direito para Administração Pública II",
+        "credits": 4,
+        "syllabus": "Princípios e regras do Direito Administrativo. Processualidade ampla e processo administrativo. Administração direta, indireta e terceiro setor. Legislação aplicada à administração governamental. Princípios do Direito tributário. Direitos e garantias fundamentais ligados aos tributos. Matriz constitucional, as normas gerais do sistema tributário nacional, as limitações e a competências para instituir impostos no pacto federativo. Normas gerais das finanças públicas.",
+        "reqs": [
+            [
+                {
+                    "code": "PG500"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG704"
+        ]
+    },
+    {
+        "code": "PG601",
+        "name": "Estudos de Caso do Setor Público",
+        "credits": 4,
+        "syllabus": "Natureza e funções do setor público brasileiro nos três níveis de governo. Relações interfederativas. Caracterização das ações do setor público em diferentes setores de atuação: economia, saúde, previdência, assistência social, educação, segurança, transporte, habitação, cultura e meio ambiente."
+    },
+    {
+        "code": "PG700",
+        "name": "Economia de Redes",
+        "credits": 2,
+        "syllabus": "Conceito de monopólio natural; Conceito de ativos específicos e direitos de propriedade; Estruturas de mercado em indústrias de rede: segmentação e integração vertical, economias de coordenação versus concorrência; Experiências recentes de reformas em indústrias redes: as indústrias elétricas, de telecomunicações e gás.",
+        "reqs": [
+            [
+                {
+                    "code": "GL202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG701",
+        "name": "Economia do Setor Público",
+        "credits": 4,
+        "syllabus": "O Estado. Funções do setor público. Princípios de tributação. Sistema Tributário: evolução do sistema tributário brasileiro. Gasto público. Déficit e Dívida Pública. Financiamento do gasto público. A evolução das Políticas Públicas no período recente.",
+        "reqs": [
+            [
+                {
+                    "code": "GL507"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG804",
+            "PG805",
+            "PG806"
+        ]
+    },
+    {
+        "code": "PG702",
+        "name": "Estado de Modos de Governança no Século XXI",
+        "credits": 4,
+        "syllabus": "Principais características das relações entre Estado e sociedade no período recente. Conceitos de Governança. Estado em rede. Descentralização, regiões e políticas públicas. Novos instrumentos de políticas públicas não-hierárquicas.",
+        "reqs": [
+            [
+                {
+                    "code": "GL101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG703",
+        "name": "Introdução às Políticas Públicas",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de políticas públicas. Políticas públicas: estruturas e processos. Estruturação de problemas. Processos de tomada de decisões políticas. Ciclo de política: formulação, implementação e avaliação de políticas. Abordagens recentes e reflexão sobre atores nas políticas.",
+        "reqs": [
+            [
+                {
+                    "code": "NC400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG809"
+        ]
+    },
+    {
+        "code": "PG704",
+        "name": "Laboratório de Políticas Públicas I",
+        "credits": 4,
+        "syllabus": "Identificação de problemas. Construção e usos de indicadores. Planejamento Estratégico Situacional. Metodologia de Diagnósticos de Situações. Mapa Cognitivo. Desenvolvimento de projetos.",
+        "reqs": [
+            [
+                {
+                    "code": "PG600"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG801"
+        ]
+    },
+    {
+        "code": "PG705",
+        "name": "Políticas de Concorrência",
+        "credits": 2,
+        "syllabus": "Equilíbrio parcial dos mercados sob concorrência perfeita e monopólio puro. Economia do bem-estar. Mercado relevante e poder de mercado. Abuso de poder de mercado e estratégias predatórias. Fusões verticais e horizontais. Lei de Antitruste nos EUA. Políticas de concorrência na Europa e a experiência brasileira: a atuação do CADE, SDE e SEAE.",
+        "reqs": [
+            [
+                {
+                    "code": "GL202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG807"
+        ]
+    },
+    {
+        "code": "PG706",
+        "name": "Políticas Públicas e Terceiro Setor",
+        "credits": 2,
+        "syllabus": "Conceito de terceiro setor. Características das organizações do terceiro setor. Agendas e atores sociais. Financiamento das políticas e suas áreas de atuação. Administração pública e setor público não-estatal. Natureza concorrente ou complementar das relações entre Estado e Terceiro Setor no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG707",
+        "name": "Ciência Política",
+        "credits": 2,
+        "syllabus": "Fenômeno político, poder, ideologia, legitimidade. Formas de Estado, formas de governo, regimes políticos, sistemas de investidura, sistemas partidários e história das instituições políticas no Brasil."
+    },
+    {
+        "code": "PG708",
+        "name": "Políticas nos Setores de Infraestrutura e Serviços",
+        "credits": 2,
+        "syllabus": "Bens essenciais e monopólios naturais. Conceito de ativos específicos e direitos de propriedade. Histórico e experiências recentes de organização dos setores elétrico, de telecomunicações, gás e saneamento. Privatização, concessões, regulamentação."
+    },
+    {
+        "code": "PG709",
+        "name": "Governança em Políticas Públicas",
+        "credits": 4,
+        "syllabus": "Principais características das relações entre Estado e sociedade no período recente. Instituições públicas não estatais. Capital social e comunidade cívica. Governança: principais conceitos e modelos. Tipos de Governança: corporativa, pública e global. Estado em rede. Descentralização e coordenação.",
+        "reqs": [
+            [
+                {
+                    "code": "PG800"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG710",
+        "name": "Comunicação e Marketing no Setor Público",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de Marketing e Comunicação. Marketing, Comunicação e Sociedade: novas tendências, ética e responsabilidade, interação com o ambiente, etc. Gestão Operacional de Marketing e Comunicação. Sistemas de Informação e Pesquisa. Comunicação, prestação de contas e transparência das ações governamentais."
+    },
+    {
+        "code": "PG800",
+        "name": "Formulação, Implementação e Avaliação de Políticas Públicas",
+        "credits": 6,
+        "syllabus": "Coordenadoria",
+        "reqBy": [
+            "PG709"
+        ]
+    },
+    {
+        "code": "PG801",
+        "name": "Laboratório de Políticas Públicas II",
+        "credits": 4,
+        "syllabus": "Metodologia de Planejamento de Situações. Construção de cenários. Gestão de projetos. Gestão do risco, do escopo, do tempo e dos custos. Proposição das etapas de implementação, monitoramento e avaliação de um projeto de política pública.",
+        "reqs": [
+            [
+                {
+                    "code": "PG704"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG802",
+        "name": "Legislação Básica para a Ação Governamental",
+        "credits": 4,
+        "syllabus": "Principais dispositivos constitucionais e legais que regem a atuação da administração pública. Contratações (obras, serviços e aquisições). Concessão de serviço público. Gestão de patrimônio imobiliário. Orçamento e finanças. Lei de responsabilidade fiscal. Legislação de pessoal. Convênios. Contratos de gestão e Parcerias Público-Privadas. Administração pública e setor público não-estatal. Natureza concorrente ou complementar das relações entre estado e Terceiro Setor Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "GL504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG803",
+        "name": "Estado, Burocracia e Políticas Públicas no Brasil",
+        "credits": 2,
+        "syllabus": "Relações entre Estado, Burocracia e instituições Políticas no Brasil contemporâneo. Padrões históricos de relação entre Estado, Burocracia e Processo decisório. Clientelismo. Modalidades de articulação de interesses e burocracia e processos decisórios. Democracia, burocracia e poder legislativo.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG804",
+        "name": "Análise Econômica de Políticas Públicas",
+        "credits": 2,
+        "syllabus": "Fundamentos, dimensões e consequências econômicas das políticas públicas. Economia Mista e Welfare State. Teorias do Estado, Escolha pública, neoinstitucionalismo, keynesianismo. Arbitragem Estado e Mercado: Bens Coletivos, Assimetria de Informações, Efeitos Sociais e escolhas sociais. Cálculo econômico público: Cálculo econômico e simulação de decisões, mercados políticos, serviços públicos, formas de organização. Gestão das Políticas de estabilização, déficit público e comportamento dos atores e privados.",
+        "reqs": [
+            [
+                {
+                    "code": "PG701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG805",
+        "name": "Políticas Públicas e Proteção Social",
+        "credits": 2,
+        "syllabus": "As políticas públicas e a proteção social. História dos grandes sistemas de proteção social: a grande transformação. Cidadania e Democracia. As tipologias abrangentes. O Welfare State e os Sistemas de Proteção Social tardios. Abordagens teóricas clássicas e recentes. Evolução do sistema de proteção brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "GL502"
+                },
+                {
+                    "code": "PG701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG806",
+        "name": "Políticas Públicas e Proteção Social no Brasil",
+        "credits": 2,
+        "syllabus": "Os primórdios do sistema de proteção brasileiro. Vargas: a política social no projeto da industrialização brasileira. O controle dos instrumentos de política econômica. O papel do Estado. A Política Trabalhista. Previdência Social. Educação e Saúde. De Vargas a 1964. Os Governos Militares. A constituição de 1988. Da Nova República à política atual.",
+        "reqs": [
+            [
+                {
+                    "code": "PG701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG807",
+        "name": "Regulação Econômica: Teoria e Políticas",
+        "credits": 2,
+        "syllabus": "Modelos de regulação de preços e de quantidades; Regulação da qualidade; Teoria dos leilões; Instituições regulatórias, compromisso regulatório, captura; Teoria de contratos. Agências regulatórias, experiências internacionais e no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "PG705"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG808",
+        "name": "Estado e Desenvolvimento",
+        "credits": 2,
+        "syllabus": "Teorias do desenvolvimento. O papel do Estado nos países desenvolvidos e nos países em desenvolvimento. Gasto público e desenvolvimento. Investimento público e financiamento. Estado e privatização."
+    },
+    {
+        "code": "PG809",
+        "name": "Avaliação de Políticas Públicas",
+        "credits": 4,
+        "syllabus": "Fundamentos de avaliação. Principais modelos e instrumentos metodológicos no campo de avaliação. Métodos básicos de monitoramento e avaliação de processos e resultados. Métodos de estimação de impactos. Estudos de casos.",
+        "reqs": [
+            [
+                {
+                    "code": "PG703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "PG810",
+        "name": "Administração Financeira e Orçamentária Pública",
+        "credits": 4,
+        "syllabus": "1.Integrando o Planejamento à execução financeira; 2. SIAFI – Instrumento para execução orçamentária-financeira; 3. Execução das Receitas Públicas; 4. Execução das Despesas Públicas; 5. Vinculações de Receitas e Transferências Intergovernamentais; 6. Programação Financeira; 7. Restos a pagar, Despesas de Exercícios Anteriores e Suprimentos de Fundos; 8. Controle na Gestão Pública.",
+        "reqs": [
+            [
+                {
+                    "code": "PG300"
+                }
+            ]
+        ]
+    }
+]

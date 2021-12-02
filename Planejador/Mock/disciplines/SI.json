@@ -1,0 +1,836 @@
+[
+    {
+        "code": "SI010",
+        "name": "Estrutura de Dados II",
+        "credits": 4,
+        "syllabus": "Temas complementares em Estrutura de Dados. Atividades práticas de desenvolvimento e implementação de programas e projetos utilizando Estruturas de Dados sob orientação docente.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI011",
+        "name": "Paradigmas de Linguagens de Programação",
+        "credits": 2,
+        "syllabus": "Paradigmas de linguagens de programação. Programação imperativa: não estruturada, estruturada e orientada a objetos. Programação declarativa: funcional e lógica. Desenvolvimento de programas utilizando os paradigmas estudados.",
+        "reqs": [
+            [
+                {
+                    "code": "SI100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI100",
+        "name": "Algoritmos e Programação de Computadores I",
+        "credits": 4,
+        "syllabus": "Algoritmos: representações e técnicas de construção. Estrutura de dados e de controle de programas. Introdução a uma linguagem de programação de alto nível. Modularização em linguagem de programação. Alocação dinâmica de memória. Implementação de programas.",
+        "reqBy": [
+            "SI011",
+            "SI200",
+            "SI201",
+            "SI202",
+            "SI300",
+            "SI305",
+            "ST266",
+            "ST567"
+        ]
+    },
+    {
+        "code": "SI101",
+        "name": "Fundamentos de Sistemas de Informação",
+        "credits": 2,
+        "syllabus": "Bases conceituais e filosóficas da área de Sistemas de Informação. Conceitos, objetivos, funções e componentes dos sistemas de informação. Dimensões tecnológica, organizacional e humana dos sistemas de informação. Tipos de sistemas de informação. Áreas de pesquisa em Sistemas de Informação. Conhecimento científico e metodologia de pesquisa em Sistemas de Informação.",
+        "reqBy": [
+            "SI202",
+            "SI302",
+            "SI801"
+        ]
+    },
+    {
+        "code": "SI102",
+        "name": "Seminários I",
+        "credits": 2,
+        "syllabus": "Participação em seminários de assuntos diversos cujo caráter prioritário é a introdução do discente à área de Computação."
+    },
+    {
+        "code": "SI120",
+        "name": "Lógica Matemática",
+        "credits": 4,
+        "syllabus": "Lógica Proposicional e de Quantificadores. Sistemas dedutivos naturais, axiomáticos e tableaux analíticos. Consistência, Compacidade, Completude e Correção.",
+        "reqBy": [
+            "SI702"
+        ]
+    },
+    {
+        "code": "SI200",
+        "name": "Algoritmos e Programação de Computadores II",
+        "credits": 4,
+        "syllabus": "Recursividade. Manipulação de arquivos. Bibliotecas estáticas e dinâmicas. Desenvolvimento de programas.",
+        "reqs": [
+            [
+                {
+                    "code": "SI100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI201",
+        "name": "Estrutura de Dados I",
+        "credits": 4,
+        "syllabus": "Representação e Manipulação de Dados na Memória Interna do Computador: Tabelas, Listas, Árvores. Algoritmos correspondentes de Busca, Inserção, Remoção e Percurso. Desenvolvimento de programas.",
+        "reqs": [
+            [
+                {
+                    "code": "SI100"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI010",
+            "SI302",
+            "SI500",
+            "SI502",
+            "SI700",
+            "SI803",
+            "SI804",
+            "ST061",
+            "ST069",
+            "ST069",
+            "ST099",
+            "ST562",
+            "ST765",
+            "ST765"
+        ]
+    },
+    {
+        "code": "SI202",
+        "name": "Resolução de Problemas I",
+        "credits": 4,
+        "syllabus": "Atividades práticas e supervisionadas de resolução de problemas diversos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI100"
+                }
+            ],
+            [
+                {
+                    "code": "SI101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI220",
+        "name": "Matemática Discreta",
+        "credits": 4,
+        "syllabus": "Conjuntos. Álgebra dos conjuntos. Relações. Funções. Estruturas algébricas. Reticulados. Álgebra Booleana."
+    },
+    {
+        "code": "SI221",
+        "name": "Geometria Analítica e Álgebra Linear",
+        "credits": 6,
+        "syllabus": "Matrizes, Sistemas Lineares e Determinantes. Espaçoes Vetoriais de Dimensão Finita. Produto Escalar e Vetorial. Retas e Planos. Projeção Ortogonal. Distâncias. Transformações Lineares, Autovalores e Autovetores. Diagonalização. Classificação das Cônicas.",
+        "reqBy": [
+            "ST069",
+            "ST115",
+            "ST765"
+        ]
+    },
+    {
+        "code": "SI250",
+        "name": "Economia e Finanças",
+        "credits": 4,
+        "syllabus": "Introdução à Economia. Introdução à teoria do consumidor e teoria do mercado. Introdução à engenharia econômica. Tipos de investimento e métodos de análise de investimento."
+    },
+    {
+        "code": "SI300",
+        "name": "Programação Orientada a Objetos I",
+        "credits": 4,
+        "syllabus": "Estudo do Paradigma de Programação Orientada a Objetos. Estudo de linguagem de programação orientada a objetos. Atividades práticas de implementação de projetos no paradigma orientado a objetos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI100"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI400",
+            "SI401",
+            "SI502",
+            "SI803",
+            "SI804",
+            "ST061"
+        ]
+    },
+    {
+        "code": "SI302",
+        "name": "Resolução de Problemas II",
+        "credits": 4,
+        "syllabus": "Atividades práticas e supervisionadas de resolução de problemas diversos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI101"
+                },
+                {
+                    "code": "SI201",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI304",
+        "name": "Engenharia de Software II",
+        "credits": 4,
+        "syllabus": "Modelagem para análise e projeto orientados a objetos. Garantia de Qualidade de Software - Teste e Validação. Tecnologias Emergentes.",
+        "reqs": [
+            [
+                {
+                    "code": "ST266"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI502",
+            "ST062"
+        ]
+    },
+    {
+        "code": "SI305",
+        "name": "Análise de Sistemas de Informação I",
+        "credits": 4,
+        "syllabus": "Introdução ao Sistema de Informação. Conceitos Gerais de Sistemas de Informação. Ciclo de Vida de um Projeto de Sistemas. Viabilidade e Implementação de Sistemas. Análise de casos de uso. Análise orientada a objetos. Diagramas estáticos e dinâmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI100"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI405",
+            "SI502"
+        ]
+    },
+    {
+        "code": "SI350",
+        "name": "Teoria Geral de Sistemas",
+        "credits": 2,
+        "syllabus": "A origem e o conceito da Teoria Geral de Sistemas. O conceito de sistema. Componentes genéricos de um sistema. As relações entre sistema e ambiente. Hierarquia de sistemas. Classificações dos sistemas. Enfoque sistêmico. O pensamento sistêmico aplicado na resolução de problemas. O pensamento sistêmico aplicado às organizações. Modelagem de Sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "TT350"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI400",
+        "name": "Programação Orientada a Objetos II",
+        "credits": 4,
+        "syllabus": "Estudo complementar do Paradigma de Programação Orientada a Objetos. Atividades práticas e supervisionadas de implementação de projetos no paradigma orientado a objetos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI300"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI700"
+        ]
+    },
+    {
+        "code": "SI401",
+        "name": "Programação para a Web",
+        "credits": 4,
+        "syllabus": "Elaboração de páginas web. Linguagens de marcação. Folhas de estilo. Javascript. Uso de linguagens de programação para geração dinâmica de páginas web. Uso de servidores web para armazenamento de sites. Atividades práticas de implementação de sistemas baseados nessas linguagens.",
+        "reqs": [
+            [
+                {
+                    "code": "SI300"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI404",
+        "name": "Introdução a Interfaces Humano-Computador",
+        "credits": 2,
+        "syllabus": "Construção e Avaliação de Interfaces Humano-Computador. Aspectos Humanos e Tecnológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "ST266"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI502"
+        ]
+    },
+    {
+        "code": "SI405",
+        "name": "Análise de Sistemas de Informação II",
+        "credits": 4,
+        "syllabus": "Assuntos complementares sobre o tema Análise de Sistemas de Informação.",
+        "reqs": [
+            [
+                {
+                    "code": "SI305"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI420",
+        "name": "Introdução a Algoritmos em Grafos",
+        "credits": 2,
+        "syllabus": "Conceito, representação e aplicação de grafos. Operações sobre grafos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA425",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI450",
+        "name": "Administração da Produção",
+        "credits": 2,
+        "syllabus": "Sistemas de produção, ferramentas da produção enxuta e produção sustentável. Gestão da cadeia de suprimentos. Planejamento e coordenação de atividades em projetos. Indicadores de desempenho. Estratégia de produção.",
+        "reqs": [
+            [
+                {
+                    "code": "TT350"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI500",
+        "name": "Complexidade de Algoritmos",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de algoritmos. Técnicas de projeto de algoritmos eficientes. Análise assintótica de limites de complexidade. Técnicas de prova de cotas inferiores. Exemplos de análise de algoritmos iterativos e recursivos. Programação dinâmica. Algoritmos probabilísticos. Complexidade Pessimista, Complexidade Média, Complexidade Mínima do problema, Classes de problemas: P, NP, NP-Completa.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI501",
+        "name": "Redes de Comunicação II",
+        "credits": 4,
+        "syllabus": "Protocolos para interconexão de redes. Arquiteturas e Protocolos para comunicação sem fio. Gerência de redes. Introdução a redes móveis e ópticas. Comunicação multimídia. Modelos de tráfego. Atividades práticas e supervisionadas de desenvolvimento de protocolos de comunicação.",
+        "reqs": [
+            [
+                {
+                    "code": "ST568"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI502",
+        "name": "Projeto Integrador",
+        "credits": 4,
+        "syllabus": "Atividades práticas e supervisionadas de planejamento e execução de projeto que integre os conteúdos de diversas disciplinas do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201"
+                },
+                {
+                    "code": "SI300"
+                },
+                {
+                    "code": "SI304"
+                },
+                {
+                    "code": "SI305"
+                },
+                {
+                    "code": "SI404"
+                },
+                {
+                    "code": "ST767"
+                },
+                {
+                    "code": "TT060"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI700",
+        "name": "Programação para Dispositivos Móveis",
+        "credits": 4,
+        "syllabus": "Estudo de linguagens de programação de alto nível apropriadas para criação de sistemas voltados para dispositivos móveis. Atividades práticas de implementação de sistemas para dispositivos móveis.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201",
+                    "partial": true
+                },
+                {
+                    "code": "SI400"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI701",
+        "name": "Introdução a Multimídia",
+        "credits": 2,
+        "syllabus": "Conceitos de multimídia e sistemas multimídia. Arquitetura e aplicações multimídia, classificação dos tipos de sistemas multimídias. Dispositivos de entrada e saída em ambientes multimídia. Fundamentos do processamento de imagens. Fundamentos de animação. Fundamentos de processamento de som. Critérios de seleção de soluções multimídia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI702",
+        "name": "Inteligência Artificial",
+        "credits": 4,
+        "syllabus": "Fundamentos de IA. Agentes inteligentes. Representação de conhecimento e solução de problemas. Estruturas e estratégias de busca. Lógica matemática, representação e inferência. Sistemas baseados em regras. Inteligência computacional. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "SI120"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI703",
+        "name": "Governança e Planejamento Estratégico de TI",
+        "credits": 2,
+        "syllabus": "Evolução do uso da Informática na Organização. Recursos Humanos em Tecnologia da Informação. Relacionamento da Informática com o negócio: ambientes de tecnologia da informação, estados da administração, atitudes da alta gerência, função da informática na organização. Uso estratégico da tecnologia da informação. Modelo Genérico de Governança: Regulamentações e normas, alinhamento estratégico, planejamento de TI, Operações e Serviços, relacionamento com usuários e fornecedores e Segurança.",
+        "reqs": [
+            [
+                {
+                    "code": "TT350"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI704",
+        "name": "Seminários II",
+        "credits": 2,
+        "syllabus": "Participação em seminários de assuntos diversos visando complementação da formação do discente. Os seminários a serem ministrados abordarão prioritariamente pesquisas e trabalhos diversos em andamento, bem como opções de seguimento da carreira após a conclusão do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI800",
+        "name": "Empreendedorismo e Inovação",
+        "credits": 2,
+        "syllabus": "Empreendedorismo e tipo psicológico do empreendedor. Gestão da Inovação e sustentabilidade. Análise estratégica. Fatores críticos de sucesso e vantagem competitiva. Análise de cenários, técnicas de mercado para novos produtos. Análise financeira de investimento e formação de preço de venda. Composição de plano de negócios.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI801",
+        "name": "Introdução a Auditoria e Segurança de Sistemas",
+        "credits": 2,
+        "syllabus": "Conceitos e tipos de ameaças, riscos e vulnerabilidades dos sistemas de informação. Conceito e objetivos da segurança de informações. Planejamento, implementação e avaliação de políticas de segurança de informações. Conceito e objetivos da auditoria de sistemas de informação. Técnicas de auditoria em sistemas de informação. Softwares de auditoria. Estrutura da função de auditoria de sistemas de informação nas organizações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "SI101"
+                },
+                {
+                    "code": "TT304",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI802",
+        "name": "Tópicos Especiais em Tecnologia II",
+        "credits": 4,
+        "syllabus": "Estudo de temas avançados em Tecnologia. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI803",
+        "name": "Visualização de Informação",
+        "credits": 4,
+        "syllabus": "Teoria de Visualização de Informação. Representações gráficas e interativas de dados. Mapeamento visual. Representação de dados multidimensionais. Aspectos relevantes de interação humano-computador. Programação de sistemas baseados em Visualização de Informação.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201"
+                },
+                {
+                    "code": "SI300"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI804",
+        "name": "Computação Bioinspirada",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais de Computação Bioinspirada. Algoritmos bioinspirados voltados para otimização e mineração de dados. Experimentação de heurísticas e adaptação de algoritmos da área para problemas diversos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI201"
+                },
+                {
+                    "code": "SI300"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI805",
+        "name": "Tópicos Especiais em Tecnologia",
+        "credits": 4,
+        "syllabus": "Estudo de temas avançados em Tecnologia. A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI901",
+        "name": "Iniciação Científica I",
+        "credits": 10,
+        "syllabus": "Atividades de Iniciação Científica, desenvolvidas sob orientação de docente da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI902",
+        "name": "Iniciação Científica II",
+        "credits": 10,
+        "syllabus": "Atividades de Iniciação Científica, desenvolvidas sob orientação de docente da Unicamp. ",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI903",
+        "name": "Iniciação Tecnológica I",
+        "credits": 10,
+        "syllabus": "Atividades de Iniciação Tecnológica, desenvolvidas sob orientação de docente da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI904",
+        "name": "Iniciação Tecnológica II",
+        "credits": 10,
+        "syllabus": "Atividades de Iniciação Tecnológica, desenvolvidas sob orientação de docente da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI905",
+        "name": "Monitoria I",
+        "credits": 5,
+        "syllabus": "Participação em atividades de monitoria, sob orientação de docente responsável pela disciplina em que o discente irá atuar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA410",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI906"
+        ]
+    },
+    {
+        "code": "SI906",
+        "name": "Monitoria II",
+        "credits": 5,
+        "syllabus": "Participação em atividades de monitoria, sob orientação de docente responsável pela disciplina em que o discente irá atuar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA410",
+                    "special": true
+                },
+                {
+                    "code": "SI905"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI907",
+        "name": "Intercâmbio Acadêmico I",
+        "credits": 10,
+        "syllabus": "Participação em Intercâmbio Acadêmico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA435",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI908"
+        ]
+    },
+    {
+        "code": "SI908",
+        "name": "Intercâmbio Acadêmico II",
+        "credits": 10,
+        "syllabus": "Participação em Intercâmbio Acadêmico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA435",
+                    "special": true
+                },
+                {
+                    "code": "SI907"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI909",
+        "name": "Atividades Complementares",
+        "credits": 10,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI910",
+        "name": "Estágio em Computação I",
+        "credits": 10,
+        "syllabus": "Estágio desenvolvido de acordo com regras internas da Faculdade de Tecnologia. Obs.: Não é responsabilidade da Unicamp procurar e obter estágio para os alunos. ",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI911"
+        ]
+    },
+    {
+        "code": "SI911",
+        "name": "Estágio em Computação II",
+        "credits": 10,
+        "syllabus": "Estágio desenvolvido de acordo com regras internas da Faculdade de Tecnologia. Obs.: Não é responsabilidade da Unicamp procurar e obter estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI910"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI912",
+        "name": "Trabalho de Conclusão de Curso I",
+        "credits": 6,
+        "syllabus": "Definição de projeto e levantamento de revisão bibliográfica sobre o tema da monografia do trabalho de conclusão de curso, necessariamente relacionado a Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI913"
+        ]
+    },
+    {
+        "code": "SI913",
+        "name": "Trabalho de Conclusão de Curso II",
+        "credits": 6,
+        "syllabus": "Desenvolvimento e apresentação de monografia referente ao trabalho de conclusão de curso, na área de Computação.",
+        "reqs": [
+            [
+                {
+                    "code": "SI912"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI914",
+        "name": "Estágio em Computação I",
+        "credits": 6,
+        "syllabus": "Estágio desenvolvido de acordo com regras internas da Faculdade de Tecnologia. Obs.: Não é responsabilidade da Unicamp procurar e obter estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "SI915"
+        ]
+    },
+    {
+        "code": "SI915",
+        "name": "Estágio em Computação II",
+        "credits": 6,
+        "syllabus": "Estágio desenvolvido de acordo com regras internas da Faculdade de Tecnologia. Obs.: Não é responsabilidade da Unicamp procurar e obter estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "SI914"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI916",
+        "name": "Estágio em Computação",
+        "credits": 20,
+        "syllabus": "Estágio desenvolvido de acordo com regras internas da Faculdade de Tecnologia. Obs.: Não é responsabilidade da Unicamp procurar e obter estágio para os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI917",
+        "name": "Estágio em Computação",
+        "credits": 12,
+        "syllabus": "Estágio desenvolvido de acordo com as regras inernas da Faculdade de Tecnologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "SI918",
+        "name": "Atividades Complementares",
+        "credits": 16,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

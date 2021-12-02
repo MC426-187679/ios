@@ -1,0 +1,28 @@
+[
+    {
+        "code": "DB011",
+        "name": "Biociências I",
+        "credits": 16,
+        "syllabus": "Programa Integrado de Anatomia, Bioquímica, Histologia e Fisiologia para o estudo e conhecimento da estrutura e função das biomoléculas e seu metabolismo, citologia e biologia molecular, excitabilidade celular, homeostasia; conhecimento das estruturas macro e microscópica e da função dos sistemas esquelético, articular, muscular e nervoso e seus respectivos tecidos.",
+        "reqBy": [
+            "DB021"
+        ]
+    },
+    {
+        "code": "DB021",
+        "name": "Biociências II",
+        "credits": 16,
+        "syllabus": "Programa Integrado de Anatomia, Bioquímica, Histologia, Fisiologia e Farmacologia. Conhecimento das estruturas macro e microscópica e função dos sistema nervoso autônomo, cardiovascular, respiratório, digestório, urinário, endócrino e reprodutor; conhecimento dos ritmos biológicos, metabolismo e termoregulação; conhecimento do mecanismo de ação de drogas no organismo humano, através do estudo da farmacocinética, farmacodinâmica, ação de drogas sobre o sistema nervoso central e sistema nervoso autônomo.",
+        "reqs": [
+            [
+                {
+                    "code": "DB011"
+                }
+            ]
+        ],
+        "reqBy": [
+            "DM031",
+            "DM032"
+        ]
+    }
+]

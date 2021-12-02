@@ -1,0 +1,2088 @@
+[
+    {
+        "code": "LA001",
+        "name": "LIBRAS e Educação de Surdos",
+        "credits": 4,
+        "syllabus": "Conhecimentos teórico-práticos introdutórios de LIBRAS e dos parâmetros que a caracterizam como língua; constituição do sujeito surdo pela LIBRAS; história da educação e as organizações dos movimentos políticos dos surdos; comunidades surdas e suas produções culturais; abordagens educacionais no ensino da pessoa surda; projetos de educação bilíngue; leis de acessibilidade e de garantia à educação."
+    },
+    {
+        "code": "LA071",
+        "name": "Estágio Supervisionado",
+        "credits": 8,
+        "syllabus": "Estágio supervisionado a ser cumprido em uma das áreas de atuação previstas pelo curso."
+    },
+    {
+        "code": "LA083",
+        "name": "Leitura e Produção de Textos Acadêmicos I",
+        "credits": 4,
+        "syllabus": "Introdução à leitura e à produção de gêneros prestigiados na esfera acadêmica, em suas diferentes áreas.",
+        "reqBy": [
+            "LA084"
+        ]
+    },
+    {
+        "code": "LA084",
+        "name": "Leitura e Produção de Textos Acadêmicos II",
+        "credits": 4,
+        "syllabus": "Leitura e Produção de gêneros prestigiados na esfera acadêmica, em suas diferentes áreas.",
+        "reqs": [
+            [
+                {
+                    "code": "LA083"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA085",
+        "name": "Letramentos Acadêmicos para Universitários Indígenas I",
+        "credits": 4,
+        "syllabus": "Introdução à leitura e à produção de gêneros prestigiados na esfera acadêmica, em suas diferentes áreas, considerando as especificidades sociolinguísticas de alunos universitários indígenas e os modos de circulação e recepção da produção escrita e oral no ambiente universitário.",
+        "reqBy": [
+            "LA086"
+        ]
+    },
+    {
+        "code": "LA086",
+        "name": "Letramentos Acadêmicos para Universitários Indígenas II",
+        "credits": 4,
+        "syllabus": "Aprofundamento de experiências de leitura e produção de gêneros prestigiados na esfera acadêmica, em suas diferentes áreas, considerando as especificidades sociolinguísticas de alunos universitários indígenas e os modos de circulação e recepção da produção escrita e oral no ambiente universitário.",
+        "reqs": [
+            [
+                {
+                    "code": "LA085"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA091",
+        "name": "Língua Inglesa I",
+        "credits": 4,
+        "syllabus": "Introdução à compreensão e produção de textos orais e escritos básicos em língua inglesa em suas diversas modalidades relacionados à vida acadêmica; ensino e prática de estruturas frasais simples e vocabulário visando promover o domínio da língua inglesa nos diversos níveis de proficiência; utilização de eixos temáticos específicos a fim de estimular a reflexão crítica sobre cidadania e participação social, tendo a língua inglesa como ferramenta de comunicação e expressão; preparação do aluno para inserção no contexto dos cursos de graduação oferecidos pela UNICAMP.",
+        "reqBy": [
+            "LA092"
+        ]
+    },
+    {
+        "code": "LA092",
+        "name": "Língua Inglesa II",
+        "credits": 4,
+        "syllabus": "Expansão da prática de compreensão e produção de textos orais e escritos em língua inglesa em suas diversas modalidades relacionados à vida acadêmica; ensino e prática de estruturas frasais mais complexas e vocabulário visando promover o domínio da língua inglesa nos diversos níveis de proficiência; utilização de eixos temáticos específicos a fim de estimular a reflexão crítica sobre cidadania e participação social, tendo a língua inglesa como ferramenta de comunicação e expressão; dar sequência na preparação do aluno iniciada em LA091 Língua Inglesa para ProFis 1 a fim de promover sua inserção no contexto dos cursos de graduação oferecidos pela UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "LA091"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA093"
+        ]
+    },
+    {
+        "code": "LA093",
+        "name": "Língua Inglesa III",
+        "credits": 3,
+        "syllabus": "Expandindo as orientações curriculares do Ensino Médio às especificidades da educação superior, a disciplina amplia conteúdos da LA092 nos domínios linguístico-discursivo, sociocultural e educacional e prioriza a reflexão sobre ciência, tecnologia e suas relações com a língua inglesa, aspectos identitários, vida acadêmica e mercado de trabalho, através de práticas de letramentos digitais e críticos, articuladas às bases discursivas e textuais de descrição, narração e argumentação, envolvendo gêneros orais, escritos e multimodais oriundos, prioritariamente, das esferas do entretenimento, da divulgação científica, além da acadêmica, jornalística e multimidiática.",
+        "reqs": [
+            [
+                {
+                    "code": "LA092"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA094"
+        ]
+    },
+    {
+        "code": "LA094",
+        "name": "Língua Inglesa IV",
+        "credits": 3,
+        "syllabus": "Expandindo as orientações curriculares do Ensino Médio às especificidades da educação superior, a disciplina amplia conteúdos da LA093 nos domínios linguístico-discursivo, sociocultural e educacional e prioriza a reflexão sobre o ensino superior, pesquisa, cidadania ativa e suas relações com o inglês na sociedade globalizada, através de práticas de letramentos digitais e críticos, articuladas às bases discursivas e textuais de narração, expressão de opinião, argumentação e reivindicação, envolvendo gêneros orais, escritos e multimodais oriundos, prioritariamente, das esferas do entretenimento, da divulgação científica, além da política, acadêmica, jornalística e multimidiática.",
+        "reqs": [
+            [
+                {
+                    "code": "LA093"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA104",
+        "name": "Letramentos: Teoria e Prática",
+        "credits": 4,
+        "syllabus": "Introdução aos estudos dos letramentos como processo histórico-ideológico de apropriação da cultura da escrita. Sensibilização para mitos e preconceitos que cercam os conceitos (alfabetização, alfabetismos, letramentos) e que sustentam certos enfoques que orientam a escolarização. Revisão do conceito de letramentos a partir das práticas multiletradas contemporâneas. A disciplina inclui necessariamente um trabalho de pesquisa no campo."
+    },
+    {
+        "code": "LA111",
+        "name": "Japonês I",
+        "credits": 4,
+        "syllabus": "Uso da língua japonesa em situações específicas do cotidiano: cumprimentar; informação sobre datas, horários, preços e dados pessoais; descrever objetos e locais; relatar atividades rotineiras.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA211"
+        ]
+    },
+    {
+        "code": "LA112",
+        "name": "Inglês I",
+        "credits": 4,
+        "syllabus": "Introdução às habilidades de compreensão e produção de textos orais, escritos e multimodais em inglês, voltando-se a ações do cotidiano, vinculadas principalmente aos propósitos comunicativos de descrição, apresentação pessoal, expressão de opinião e relato de hábitos e experiências rotineiras no presente, visando a aprimorar a formação acadêmica/profissional do aluno e a promover reflexão sobre o funcionamento da língua inglesa, sensibilizando para aspectos culturais pertinentes.",
+        "reqBy": [
+            "LA212"
+        ]
+    },
+    {
+        "code": "LA113",
+        "name": "Francês I",
+        "credits": 4,
+        "syllabus": "Introdução ao francês como língua estrangeira (nível A1 do Quadro Comum Europeu de Referência para Línguas) a partir de uma perspectiva multiculturalista considerando-se a oralidade e a escrita, tanto na recepção quanto na produção. Sensibilização à consciência linguístico-discursiva, enfocando-se elementos de interculturalidade e práticas de língua francesa em contextos variados, com ênfase no contexto acadêmico. Iniciação aos recursos expressivos da língua necessários aos tipos de interação previstos, através da utilização de textos orais e escritos em gêneros com predominância informativa relacionados à temática central: vida de estudante (falar de si em interação) através de estruturas básicas de língua para se expressar dentro do contexto universitário.",
+        "reqBy": [
+            "LA213"
+        ]
+    },
+    {
+        "code": "LA114",
+        "name": "Alemão I",
+        "credits": 4,
+        "syllabus": "Introdução ao alemão como língua estrangeira (nível A1.1 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e consciência linguística. Estruturas fundamentais da língua e textos altamente convencionalizados. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqBy": [
+            "LA214",
+            "LA244"
+        ]
+    },
+    {
+        "code": "LA115",
+        "name": "Russo I",
+        "credits": 4,
+        "syllabus": "Estudo da língua russa em nível elementar, com iniciação à expressão oral e escrita.",
+        "reqBy": [
+            "LA215"
+        ]
+    },
+    {
+        "code": "LA116",
+        "name": "Hebraico I",
+        "credits": 4,
+        "syllabus": "Desenvolvimento das quatro habilidades (compreensão e produção oral e escrita) em um nível básico fundamental. Uso de textos simples, alguns de autoria dos próprios alunos. Abordagem de aspectos culturais inerentes à língua.",
+        "reqBy": [
+            "LA216"
+        ]
+    },
+    {
+        "code": "LA117",
+        "name": "Português para Estrangeiros I",
+        "credits": 4,
+        "syllabus": "Interpretação e produção de diversos gêneros discursivos orais e escritos - notadamente propagandas, spots de rádio, panfletos, textos ficcionais curtos, textos científicos curtos, documentos, fichas de inscrição, depoimentos, notícias, posts de blogs, e-mails, cartas, bilhetes, quadrinhos, mapas, gráficos - capacitando o aluno a (i) usar a língua em situações cotidianas e no âmbito acadêmico; (ii) problematizar diferentes aspectos linguísticos e socioculturais da construção dos discursos (diferenças de variedades, de registros, de relações de poder); (iii) posicionar-se de maneira autoral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA217"
+        ]
+    },
+    {
+        "code": "LA118",
+        "name": "Italiano I",
+        "credits": 4,
+        "syllabus": "Produção de diversos gêneros discursivos orais e escritos da língua italiana prioritariamente na esfera do cotidiano, com destaque para fórum de discussão, blog, e-mail. Expressões de uso frequente em âmbitos fundamentais da vida cotidiana em uma universidade italiana típica. Panorama da história da língua italiana.",
+        "reqBy": [
+            "LA218"
+        ]
+    },
+    {
+        "code": "LA119",
+        "name": "Espanhol I",
+        "credits": 4,
+        "syllabus": "Desenvolvimento da competência comunicativa em espanhol em nível de usuário básico I, correspondente ao nível A1 do Marco Comum Europeu de Referência.",
+        "reqBy": [
+            "LA219"
+        ]
+    },
+    {
+        "code": "LA121",
+        "name": "Kanji I",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento das habilidades de compreensão textual e produções escrita e oral em níveis distintos de formalidade da língua japonesa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA122",
+        "name": "Inglês Instrumental I",
+        "credits": 4,
+        "syllabus": "Leitura de textos em inglês, visando ao desenvolvimento de estratégias globais de leitura e de análise linguística, tendo como base gêneros textuais da esfera acadêmica, jornalística e de divulgação científica, visando a aprimorar a formação acadêmica/profissional do aluno e a promover seu pensamento crítico a partir das realidades sócio-culturais expressas nos textos.",
+        "reqBy": [
+            "LA222",
+            "LA242"
+        ]
+    },
+    {
+        "code": "LA123",
+        "name": "Francês Instrumental I",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de uma compreensão em francês, a partir de textos autênticos escolhidos segundo os objetivos e interesses dos alunos.",
+        "reqBy": [
+            "LA223"
+        ]
+    },
+    {
+        "code": "LA124",
+        "name": "Alemão Instrumental I",
+        "credits": 4,
+        "syllabus": "Primeira abordagem do alemão, através do manejo de textos escritos, de cunho geral ou acadêmico, segundo as áreas de interesse de cada grupo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA224"
+        ]
+    },
+    {
+        "code": "LA127",
+        "name": "Prática de Produção de Textos em Português para Estrangeiros",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento da capacidade de expressão escrita em português, através da análise de textos autênticos em língua portuguesa, escolhidos segundo os interesses dos alunos, visando ao reconhecimento e à produção de diferentes modalidades e registros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA267"
+                }
+            ],
+            [
+                {
+                    "code": "LA317"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA128",
+        "name": "Italiano Instrumental I",
+        "credits": 4,
+        "syllabus": "Iniciação à leitura de textos - serão escolhidos no curso - em língua italiana.",
+        "reqBy": [
+            "LA228"
+        ]
+    },
+    {
+        "code": "LA129",
+        "name": "Espanhol Intensivo para Intercambistas",
+        "credits": 4,
+        "syllabus": "O curso se centrará no desenvolvimento concomitante das quatro habilidades: compreensão e expressão discursiva oral e escrita, dentro de suas especificidades e coerência do nível linguístico demandado, vislumbrando uma integração intercultural da língua espanhola nos níveis A1 e A2.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA134",
+        "name": "Alemão Semipresencial I",
+        "credits": 6,
+        "syllabus": "lntrodução ao   alemão como língua estrangeira (até nível A1.2a no Quadro Comum Europeu, disponivel no sítio eletrônico do CEL). Semi-intensivo: contempla 100% do Nível I e 50% do Nível II das modalidades presencial/monitorado. Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e consciência linguística. Estruturas fundamentais da língua e textos simples e/ou convencionalizados. Uso sistemático de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, indiviidual e/ou em grupo, via ambiente virtual. Carga horária 50% em sala e 50% em ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA234"
+        ]
+    },
+    {
+        "code": "LA138",
+        "name": "Intercompreensão Línguas Românicas",
+        "credits": 4,
+        "syllabus": "Aprendizagem e prática da intercompreensão entre línguas românicas em aulas presenciais e através de atividades realizadas na plataforma Galanet (www.galanet.eu).",
+        "reqBy": [
+            "LA238"
+        ]
+    },
+    {
+        "code": "LA142",
+        "name": "Inglês Instrumental I à distância",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e prática de capacidades de leitura instrumental em língua inglesa em textos de gêneros variados.\nApresentação e uso de estruturas frasais como promotoras da compreensão textual. Introdução e demonstração\nde estratégias de leitura. Aplicação de estratégias de leitura para promover a compreensão textual. Leitura de\ntextos digitais",
+        "reqBy": [
+            "LA242"
+        ]
+    },
+    {
+        "code": "LA144",
+        "name": "Alemão em Estudo Monitorado I",
+        "credits": 4,
+        "syllabus": "Introdução ao alemão como língua estrangeira (nível A1.1 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão oral/escrita (ênfase), expressão escrita. Fomento da autonomia e consciência linguística. Estruturas fundamentais da língua e textos altamente convencionalizados. Uso sistemático de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual. Prova presencial.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA214",
+            "LA244"
+        ]
+    },
+    {
+        "code": "LA167",
+        "name": "Português para Falantes de Espanhol I",
+        "credits": 4,
+        "syllabus": "Interpretação e produção de diversos gêneros discursivos orais e escritos - propagandas, spots de rádio, panfletos, textos ficcionais curtos, textos científicos curtos, documentos, fichas de inscrição, depoimentos, notícias, posts de blogs, e-mails, cartas, bilhetes, quadrinhos, mapas, gráficos - capacitando o aluno a (i) usar a língua em situações cotidianas e no âmbito acadêmico; (ii) diferenciar e problematizar as especificidades do Português do Brasil nos níveis fonológico, morfossintático e lexical; (iii) problematizar diferentes aspectos linguísticos (morfológicos, sintáticos, fonéticos) e socioculturais da construção dos discursos (como diferenças de variedades, de registros, de relações de poder) e (iv) posicionar-se de maneira autoral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA267"
+        ]
+    },
+    {
+        "code": "LA204",
+        "name": "Leitura e Escrita: Teoria e Prática",
+        "credits": 4,
+        "syllabus": "Introdução às teorias - associacionistas, cognitivas e discursivo-enunciativas - de leitura e de produção de textos escritos e análise de seus impactos no ensino-aprendizagem de leitura/escrita. Abordagem da relação entre leitura e escrita e práticas com textos orais e multimodais em ambientes escolares."
+    },
+    {
+        "code": "LA211",
+        "name": "Japonês II",
+        "credits": 4,
+        "syllabus": "Uso da língua em situações específicas do cotidiano: narrar fatos e experiências, descrever qualidades de pessoas e objetos, pedir e oferecer ajuda, convidar alguém/recusar um convite.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA311"
+        ]
+    },
+    {
+        "code": "LA212",
+        "name": "Inglês II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de habilidades de compreensão e produção de textos orais, escritos e multimodais em inglês, voltando-se a práticas do cotidiano, vinculadas principalmente aos propósitos comunicativos de descrição de lugares e objetos, relatos de experiência no passado e de ações em progresso no presente, comparação, previsão e planejamento de atos futuros, instrução e relato de hábitos e experiências ligadas ao campo do entretenimento e da literatura, visando a aprimorar a formação acadêmica/profissional do aluno e a promover reflexão sobre o funcionamento da língua inglesa, sensibilizando para aspectos culturais pertinentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA112"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA312"
+        ]
+    },
+    {
+        "code": "LA213",
+        "name": "Francês II",
+        "credits": 4,
+        "syllabus": "Introdução ao francês como língua estrangeira (nível A1/A2 do Quadro Comum Europeu de Referência para Línguas) a partir de uma perspectiva multiculturalista considerando-se a oralidade e a escrita, tanto na recepção quanto na produção. Sensibilização à consciência linguístico-discursiva, enfocando-se elementos de interculturalidade e práticas de língua francesa em contextos variados, com ênfase no contexto acadêmico. Iniciação aos recursos expressivos da língua necessários aos tipos de interação previstos, através da utilização de textos orais e escritos em gêneros com predominância informativa e introdução à narrativa relacionados à temática central: vivenciando em interação as situações do cotidiano de um estudante universitário.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA113"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA313"
+        ]
+    },
+    {
+        "code": "LA214",
+        "name": "Alemão II",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível básico (A1.2 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e consciência linguística. Estruturas básicas da língua e textos simples. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA114"
+                }
+            ],
+            [
+                {
+                    "code": "LA144"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA314",
+            "LA344"
+        ]
+    },
+    {
+        "code": "LA215",
+        "name": "Russo II",
+        "credits": 4,
+        "syllabus": "Estudo da língua russa em nível elementar com ampliação do vocabulário através da leitura de textos simples.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA115"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA315"
+        ]
+    },
+    {
+        "code": "LA216",
+        "name": "Hebraico II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento das quatro habilidades (compreensão e produção oral e escrita) em um nível básico fundamental. Uso de textos simples, alguns de autoria dos próprios alunos. Abordagem de aspectos culturais inerentes à língua.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA116"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA316"
+        ]
+    },
+    {
+        "code": "LA217",
+        "name": "Português para Estrangeiros II",
+        "credits": 4,
+        "syllabus": "Interpretação e produção diversos gêneros discursivos orais e escritos - especialmente e-mails, cartas, propagandas, documentários, vídeos de sites, entrevistas, curtas e longas metragens, crônicas, contos, notícias, textos científicos curtos, abaixo-assinados, requerimentos - capacitando o aluno a (i) usar a língua em situações cotidianas e no âmbito acadêmico; (ii) problematizar os mais diferentes aspectos linguísticos e socioculturais da construção dos discursos (diferenças de variedades, de registros, de relações de poder); (iii) posicionar-se de maneira autoral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA117"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA317"
+        ]
+    },
+    {
+        "code": "LA218",
+        "name": "Italiano II",
+        "credits": 4,
+        "syllabus": "Produção de diversos gêneros discursivos orais e escritos da língua italiana prioritariamente na esfera do cotidiano (com destaque para gêneros como blog, e-mail, carta pessoal e diário). Funções comunicativas básicas tais como perguntar sobre ou narrar eventos ocorridos no passado ou que ocorrerão no futuro, falar sobre planos e comparar pessoas, locais e objetos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA118"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA228",
+            "LA318"
+        ]
+    },
+    {
+        "code": "LA219",
+        "name": "Espanhol II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento concomitante da compreensão e expressão discursiva oral e escrita em espanhol como língua estrangeira no nível linguístico usuário elementar 2. Nível de aprendizagem compatível ao A2 do Marco Comum Europeu de Referência para as línguas. Uso de estruturas da língua espanhola e tipologias textuais de complexidade regular. Compreensão de expressões frequentes relacionadas com áreas de prioridade imediata. Troca de informação simples e direta sobre assuntos de âmbito familiar e de rotina quotidiana. Descrição simples do campo de formação acadêmica e do meio circundante e referência a assuntos relacionados com necessidades imediatas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA119"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA319"
+        ]
+    },
+    {
+        "code": "LA221",
+        "name": "Kanji II",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento da capacidade de expressão oral e escrita; desenvolvimento do estudo do idioma quanto aos níveis de tratamento da língua; interação em termos de relação formal/informal e superior/inferior.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA222",
+        "name": "Inglês Instrumental II",
+        "credits": 4,
+        "syllabus": "Leitura de textos em inglês visando a explorar estruturas linguístcas mais complexas e procedimentos interpretativos, tendo como base gêneros textuais da esfera acadêmica, jornalística e de divulgação científica, visando aprimorar a formação acadêmica/profissional do aluno e a promover seu pensamento crítico a partir das realidades sócio-culturais expressas nos textos. (Disciplina com equivalência ao LA242).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA122"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA223",
+        "name": "Francês Instrumental II",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento da competência de compreensão de textos autênticos em francês escrito e, eventualmente, orais (essa segunda opção dependendo dos objetivos de cada grupo).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA123"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA224",
+        "name": "Alemão Instrumental II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento da compreensão escrita do alemão, em nível básico, a partir de textos de cunho geral ou acadêmico, segundo as áreas de interesse de cada grupo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA124"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA324"
+        ]
+    },
+    {
+        "code": "LA228",
+        "name": "Italiano Instrumental II",
+        "credits": 4,
+        "syllabus": "Leitura e traduções de textos preferencialmente acadêmicos e literários do italiano para o português.",
+        "reqs": [
+            [
+                {
+                    "code": "LA128"
+                }
+            ],
+            [
+                {
+                    "code": "LA218"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA234",
+        "name": "Alemão Semipresencial II",
+        "credits": 6,
+        "syllabus": "Alemão como língua estrangeira, nível básico (A2.1 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Semi-intensivo: 50% do Nível II e 100% do III do presencial/monitorado. Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e consciência linguística. Estruturas básicas da língua e textos com algumas complexidade. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA134"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA334",
+            "LA414"
+        ]
+    },
+    {
+        "code": "LA238",
+        "name": "Intercompreensão Línguas Românicas II",
+        "credits": 4,
+        "syllabus": "Aprendizagem e prática da intercompreensão entre línguas românicas em aulas presenciais e através de atividades realizadas na plataforma Galanet (www.galanet.eu).",
+        "reqs": [
+            [
+                {
+                    "code": "LA138"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA242",
+        "name": "Inglês Instrumental à Distância",
+        "credits": 4,
+        "syllabus": "Aprimoramento e prática de capacidades de leitura instrumental em língua inglesa em textos de gêneros acadêmico e científico. Aprofundamento no uso de estruturas frasais como promotoras da compreensão textual. Práticas de estratégias de leitura. Aplicação de estratégias de leitura para promover a compreensão textual. Leitura de textos digitais. Estudo autônomo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA122"
+                }
+            ],
+            [
+                {
+                    "code": "LA142"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA244",
+        "name": "Alemão em Estudo Monitorado II",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível básico (A1.2 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão oral/escrita (ênfase), expressão escrita. Fomento da autonomia e consciência linguística. Estruturas básicas da língua e textos simples. Uso sistemático de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual. Prova presencial.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA114"
+                }
+            ],
+            [
+                {
+                    "code": "LA144"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA314",
+            "LA344"
+        ]
+    },
+    {
+        "code": "LA267",
+        "name": "Português para Falantes de Espanhol II",
+        "credits": 4,
+        "syllabus": "Interpretação e produção de diversos gêneros discursivos orais e escritos - propagandas, spots de rádio, panfletos, textos ficcionais curtos, textos científicos curtos, documentos, fichas de inscrição, depoimentos, notícias, posts de blogs, e-mails, cartas, bilhetes, quadrinhos, mapas, gráficos - capacitando o aluno a (i) usar a língua em situações cotidianas e no âmbito acadêmico; (ii) diferenciar e problematizar as especificidades do Português do Brasil nos níveis fonológico, morfossintático e lexical; (iii) problematizar diferentes aspectos linguísticos (morfológicos, sintáticos, fonéticos) e socioculturais da construção dos discursos (diferenças de variedades, de registros, de relações de poder) e (iv) posicionar-se de maneira autoral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA167"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA127"
+        ]
+    },
+    {
+        "code": "LA271",
+        "name": "Estágio Supervisionado em Português como Segunda Língua / Língua Estrangeira I",
+        "credits": 10,
+        "syllabus": "Introdução a questões envolvendo o estágio supervisionado a ser cumprido na área de ensino/aprendizagem/avaliação de Português como Segunda Língua/Língua Estrangeira.",
+        "reqBy": [
+            "LA281"
+        ]
+    },
+    {
+        "code": "LA281",
+        "name": "Estágio Supervisionado em Português como Segunda Língua / Língua Estrangeira II",
+        "credits": 10,
+        "syllabus": "Aprofundamento de questões envolvendo o estágio supervisionado a ser cumprido na área de ensino/aprendizagem/avaliação de Português como Segunda Língua/Língua Estrangeira.",
+        "reqs": [
+            [
+                {
+                    "code": "LA271"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA303",
+        "name": "Interpretação: Teoria e Prática",
+        "credits": 4,
+        "syllabus": "Estudo e discussão de teorias da interpretação de diferentes tradições teórico-metodológicas que iluminem questões de natureza teórica e prática consideradas relevantes para uma reflexão mais aprofundada sobre leitura/interpretação de textos e demais objetos semióticos que povoam as práticas letradas contemporâneas, particularmente aquelas contempladas no ensino de língua portuguesa."
+    },
+    {
+        "code": "LA311",
+        "name": "Japonês III",
+        "credits": 4,
+        "syllabus": "Uso da língua em situações específicas do cotidiano: narrar atividades rotineiras; expressar o aspecto progressivo; dar instruções; pedir/dar/negar permissão; proibir, expressar obrigação e volição; falar sobre preferências e habilidades.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA411"
+        ]
+    },
+    {
+        "code": "LA312",
+        "name": "Inglês III",
+        "credits": 4,
+        "syllabus": "Expansão das habilidades de compreensão e produção de textos orais, escritos e multimodais em inglês, voltando-se a práticas do cotidiano e a situações mais formais, vinculadas principalmente aos propósitos comunicativos relacionados à descrição de pessoas, objetos e lugares, relatos de experiências no passado e de planos futuros, promessas, comparações e informações sobre habilidades e decisões não planejadas, visando a aprimorar a formação acadêmica/profissional do aluno e a promover reflexão sobre o funcionamento da língua inglesa, sensibilizando para aspectos culturais pertinentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA212"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA412"
+        ]
+    },
+    {
+        "code": "LA313",
+        "name": "Francês III",
+        "credits": 4,
+        "syllabus": "Introdução ao francês como língua estrangeira (nível A2 do Quadro Comum Europeu de Referência para Línguas) a partir de uma perspectiva multiculturalista considerando-se a oralidade e a escrita, tanto na recepção quanto na produção. Sensibilização à consciência linguístico-discursiva, enfocando-se elementos de interculturalidade e práticas de língua francesa em contextos variados, com ênfase no contexto acadêmico. Iniciação aos recursos expressivos da língua necessários aos tipos de interação previstos, através da utilização de textos orais e escritos em gêneros informativos, narrativos e de introdução à argumentação relacionados à temática central: mobilidade acadêmica e inserção profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA213"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA413"
+        ]
+    },
+    {
+        "code": "LA314",
+        "name": "Alemão III",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível básico (A2.1 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e consciência linguística. Estruturas básicas da língua e textos com alguma complexidade. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA214"
+                }
+            ],
+            [
+                {
+                    "code": "LA244"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA414"
+        ]
+    },
+    {
+        "code": "LA315",
+        "name": "Russo III",
+        "credits": 4,
+        "syllabus": "Estudo da língua russa em nível elementar com aperfeiçoamento da capacidade comunicativa oral e da expressão escrita em língua russa. Desenvolvimento do vocabulário.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA215"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA415"
+        ]
+    },
+    {
+        "code": "LA316",
+        "name": "Hebraico III",
+        "credits": 4,
+        "syllabus": "Aprofundamento das quatro habilidades (compreensão e produção oral e escrita) em um nível básico médio. Uso de textos de complexidade regular e introdução à compreensão de outras vozes na sala de aula que não a do professor, através de gravações em fitas e vídeos. Abordagem de aspectos culturais inerentes à língua.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA216"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA416"
+        ]
+    },
+    {
+        "code": "LA317",
+        "name": "Português para Estrangeiros III",
+        "credits": 4,
+        "syllabus": "Interpretação e produção de diversos gêneros discursivos orais e escritos - notícias, editoriais, artigos, textos de divulgação científica, resenhas, cartas argumentativas, resumos, resumos científicos, curtas e longas metragens, crônicas, contos, palestras curtas, comunicações de trabalhos científicos - capacitando o aluno a (i) usar a língua em situações cotidianas e no âmbito acadêmico; (ii) problematizar os mais diferentes aspectos linguísticos e socioculturais da construção dos discursos (diferenças de variedades, de registros, de relações de poder); (iii) posicionar-se de maneira autoral; (iv) produzir textos orais e escritos de diversos gêneros, especialmente os gêneros acadêmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA217"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA127"
+        ]
+    },
+    {
+        "code": "LA318",
+        "name": "Italiano III",
+        "credits": 4,
+        "syllabus": "Produção de diversos gêneros discursivos orais e escritos da língua italiana prioritariamente na esfera do cotidiano (com destaque para gêneros como blog e e-mail), jornalística (particularmente entrevistas e resenhas críticas), publicitária (publicidades comerciais e institucionais, televisivas, impressas e radiofônicas) e literária (romance e poesia). Funções comunicativas básicas tais como dar ordens e instruções, entrevistar com o propósito de informar um público, informar e opinar sobre um evento cultural/científico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA218"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA418"
+        ]
+    },
+    {
+        "code": "LA319",
+        "name": "Espanhol III",
+        "credits": 4,
+        "syllabus": "Desenvolvimento concomitante das quatro habilidades: compreensão e expressão discursiva oral e escrita em espanhol como língua estrangeira, dentro das especificidades e coerência do nível linguístico Usuário Independente 1. Nível de aprendizagem compatível ao B1 do Marco Comum Europeu de Referência. Produção de um discurso simples e coerente sobre assuntos que lhe são familiares ou de interesse pessoal. Descrição de experiências e eventos passados, sonhos, esperanças e ambições, bem como exposição breve de razões e justificações para uma opinião ou um projeto. Familiarização com tipologias textuais de complexidade Nível Intermediário 1.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA219"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA419"
+        ]
+    },
+    {
+        "code": "LA321",
+        "name": "Kanji III",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento da capacidade de expressão oral e escrita na língua japonesa; uso das formas para expressão de ideias e pensamentos mais complexos na forma superior/inferior e formal/informal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA324",
+        "name": "Alemão Instrumental III",
+        "credits": 4,
+        "syllabus": "Aprimoramento da compreensão escrita do alemão, em nível limiar, a partir de textos de cunho geral ou acadêmico, segundo as áreas de interesse de cada grupo. Iniciação à compreensão de textos orais, desde que prevista nos objetivos do grupo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA224"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA334",
+        "name": "Alemão Semipresencial III",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível básico médio (A2.2 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e consciência linguística. Estruturas e tipos de texto com maior grau de elaboração. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA234"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA434",
+            "LA514"
+        ]
+    },
+    {
+        "code": "LA344",
+        "name": "Alemão em Estudo Monitorado III",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível básico (A2.1 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão oral/escrita (ênfase), expressão escrita. Fomento da autonomia e consciência linguística. Estruturas básicas da língua e textos com alguma complexidade. Uso sistemático de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA214"
+                }
+            ],
+            [
+                {
+                    "code": "LA244"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA414"
+        ]
+    },
+    {
+        "code": "LA403",
+        "name": "Linguagem e Diversidade: Pesquisa e Ensino",
+        "credits": 6,
+        "syllabus": "O trabalho do professor de língua portuguesa em abordagens e temas relacionados à diversidade linguística e sociocultural. Legislações e documentos educacionais brasileiros sobre inclusão e diversidade. Relações entre língua e cultura no desenho dos currículos de Língua Portuguesa. Representações identitárias nas práticas discursivas escolares. A construção social dos preconceitos (linguístico, racial, de gênero etc.) e o seus impactos em sala de aula. Discussão acerca dos conceitos de representação, multiculturalismo e multilinguismo e de suas implicações para o ensino crítico de língua portuguesa. Análise de situações pedagógicas e produção de atividade didática.",
+        "reqBy": [
+            "LA811"
+        ]
+    },
+    {
+        "code": "LA404",
+        "name": "Ensino de Língua Portuguesa: Marcos Históricos e Documentos Curriculares",
+        "credits": 2,
+        "syllabus": "A constituição da disciplina de Língua Portuguesa. Reformas do ensino e os documentos curriculares de Língua Portuguesa. Políticas educacionais e seu impacto sobre a organização curricular de Língua Portuguesa. Políticas públicas para a leitura e a escrita."
+    },
+    {
+        "code": "LA405",
+        "name": "Seminários em Ensino de Língua Portuguesa",
+        "credits": 2,
+        "syllabus": "Estudo e discussão de textos de referência para o ensino da disciplina Língua Portuguesa na educação básica. Estudo de conceitos e ideias que sustentam as principais bases do ensino de Língua Portuguesa, inclusive aquelas presentes nas organizações curriculares na área."
+    },
+    {
+        "code": "LA406",
+        "name": "Laboratório de Produção de Materiais Didáticos para o Ensino de Língua Portuguesa",
+        "credits": 8,
+        "syllabus": "Modalidades de organização didática no ensino-aprendizagem de Língua Portuguesa. Materiais didáticos impressos e digitais, plataformas, ambientes, ferramentas, recursos e objetos digitais para o ensino-aprendizagem de Língua Portuguesa. Análise e produção de atividades, recursos e objetos digitais."
+    },
+    {
+        "code": "LA411",
+        "name": "Japonês IV",
+        "credits": 4,
+        "syllabus": "Uso da língua formal em situações específicas do cotidiano: fazer comparações, descrever habilidades, descrever experiências, justificar, pedir e dar sugestão, aconselhar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA511"
+        ]
+    },
+    {
+        "code": "LA412",
+        "name": "Inglês IV",
+        "credits": 4,
+        "syllabus": "Aprimoramento das habilidades de compreensão e produção de textos orais, escritos e multimodais em inglês, voltando-se a práticas do cotidiano e a situações mais formais, vinculadas principalmente aos propósitos comunicativos relacionados à formulação de hipóteses descrições e comparações, a relatos de experiências e hábitos no passado, à ação de dar conselhos e estabelecer obrigações e necessidades, bem como de reportar discursos dos outros, visando a aprimorar a formação acadêmica/profissional do aluno e a promover reflexão sobre o funcionamento da língua inglesa, sensibilizando para aspectos culturais pertinentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA312"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA512",
+            "LA842"
+        ]
+    },
+    {
+        "code": "LA413",
+        "name": "Francês IV",
+        "credits": 4,
+        "syllabus": "Introdução ao francês como língua estrangeira (nível A2/B1 do Quadro Comum Europeu de Referência para Línguas) a partir de uma perspectiva multiculturalista considerando-se a oralidade e a escrita, tanto na recepção quanto na produção. Sensibilização à consciência linguístico-discursiva, enfocando-se elementos de interculturalidade e práticas de língua francesa em contextos variados, com ênfase no contexto acadêmico. Iniciação aos recursos expressivos da língua necessários aos tipos de interação previstos, através da utilização de textos orais e escritos em gêneros informativos, narrativos, argumentativos e introdução aos gêneros literários relacionados à temática central: investir-se em projetos pessoais, de mobilidade acadêmica e projetos profissionais futuros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA313"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA513",
+            "LA843"
+        ]
+    },
+    {
+        "code": "LA414",
+        "name": "Alemão IV",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível básico médio (A2.2 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e consciência linguística. Estruturas e tipos de texto com maior grau de elaboração. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA234"
+                }
+            ],
+            [
+                {
+                    "code": "LA314"
+                }
+            ],
+            [
+                {
+                    "code": "LA344"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA434",
+            "LA514",
+            "LA844"
+        ]
+    },
+    {
+        "code": "LA415",
+        "name": "Russo IV",
+        "credits": 4,
+        "syllabus": "Estudo da língua russa em nível elementar. Introdução a estruturas menos simples da língua russa. Aprofundamento da capacidade de expressão oral e desenvolvimento da expressão escrita.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA315"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA515"
+        ]
+    },
+    {
+        "code": "LA416",
+        "name": "Hebraico IV",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento e aprofundamento das quatro habilidades (compreensão e produção oral e escrita) em um nível médio. Uso de textos mais elaborados e desenvolvimento da compreensão oral, através também de gravações em fitas e vídeos. Abordagem de aspectos culturais inerentes à língua.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA316"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA516"
+        ]
+    },
+    {
+        "code": "LA418",
+        "name": "Italiano IV",
+        "credits": 4,
+        "syllabus": "Produção de diversos gêneros discursivos orais e escritos da língua italiana prioritariamente na esfera do cotidiano (com destaque para carta do leitor e blog). Funções comunicativas tais como emitir e defender opinião com frases simples a favor ou contra um tema, elaborar hipóteses para explicar determinados acontecimentos e falar sobre planos para o futuro condicionando-os a algo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA318"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA518"
+        ]
+    },
+    {
+        "code": "LA419",
+        "name": "Espanhol IV",
+        "credits": 4,
+        "syllabus": "Desenvolvimento concomitante das quatro habilidades: compreensão e expressão discursiva oral e escrita em espanhol como língua estrangeira, dentro das especificidades e coerência do nível linguístico Usuário Independente 2. Compreensão das ideias principais em textos concretos e abstratos, incluindo discussões técnicas na sua área de especialidade. Comunicação com certo grau de espontaneidade ao tratar de assuntos variados. Consciência intercultural das diversas variantes hispânicas. Estruturas da língua espanhola e tipologias textuais mais complexas. Nível de aprendizagem compatível ao B2 do Marco Comum Europeu de Referência.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA319"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA849"
+        ]
+    },
+    {
+        "code": "LA434",
+        "name": "Alemão Semipresencial IV",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível básico médio-avançado (B1.1 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL. Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e da consciência linguística. Recepção e produção, oral e escrita, de textos com maior complexidade e extensão. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA334"
+                }
+            ],
+            [
+                {
+                    "code": "LA414"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA534",
+            "LA614"
+        ]
+    },
+    {
+        "code": "LA504",
+        "name": "Linguagem e Tecnologias",
+        "credits": 6,
+        "syllabus": "Enfoques históricos das relações entre tecnologia, linguagem e sociedade e suas repercussões nas concepções de língua, conhecimento e sujeito. Mutações na linguagem em relação à difusão e apropriação de inovações tecnológicas. Processos de naturalização da escrita enquanto tecnologia e suas repercussões educativas, sociais, cognitivas e epistemológicas na atualidade. Especificidades da interação e do funcionamento da linguagem nas interfaces hipermidiáticas e nos ambientes de comunicação mediada por computador, particularmente nos ambientes escolares."
+    },
+    {
+        "code": "LA511",
+        "name": "Japonês V",
+        "credits": 4,
+        "syllabus": "Uso da linguagem formal e informal em situações específicas do cotidiano: aconselhar, expressar possibilidades, capacidades, suposições, avaliações, dúvida, pedido e obrigatoriedade com detalhes circunstanciais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA411"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA611"
+        ]
+    },
+    {
+        "code": "LA512",
+        "name": "Inglês V",
+        "credits": 4,
+        "syllabus": "Ampliação das habilidades de compreensão e produção de textos orais, escritos e multimodais em inglês, por meio de práticas comunicativas do cotidiano e em atividades sociais mais formais, que exijam conhecimento de funções e aspectos linguísticos mais complexos, tais como desenvolver uma narrativa, participar de um debate e de uma mesa redonda sobre temas diversos, falar sobre eventos históricos, relatar pesquisas, visando à formação e atuação acadêmica/profissional do aluno e sensibilizando para aspectos culturais pertinentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA412"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA612"
+        ]
+    },
+    {
+        "code": "LA513",
+        "name": "Francês V",
+        "credits": 4,
+        "syllabus": "Ensino de francês como língua estrangeira em nível B1 do Quadro Comum Europeu de Referência para Línguas (disponível no sitio eletrônico do CEL), considerando-se a oralidade e a escrita, com ênfase na expressão (escrita e oral). Desenvolvimento da consciência linguistico-discursiva enfocando-se elementos de interculturalidade e práticas de língua francesa em contextos variados. Uso de recursos expressivos da língua através de textos orais e escritos de cunho informativo, narrativo e argumentativo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA413"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA514",
+        "name": "Alemão V",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira em nível básico médio-avançado (B1.1 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral/escrita, ênfase na compreensão. Fomento da autonomia e da consciência linguística. Recepção e produção, oral e escrita, de textos com maior complexidade e extensão. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA334"
+                }
+            ],
+            [
+                {
+                    "code": "LA414"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA534",
+            "LA614"
+        ]
+    },
+    {
+        "code": "LA515",
+        "name": "Russo V",
+        "credits": 4,
+        "syllabus": "Aprimoramento da capacidade de expressão oral e escrita em russo, através da leitura de textos autênticos sobre assuntos gerais selecionados. Regência verbal, declinação e aspectos verbais: análise contextual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA415"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA615"
+        ]
+    },
+    {
+        "code": "LA516",
+        "name": "Hebraico V",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento e aprofundamento das quatro habilidades (compreensão e produção oral e escrita) em um nível médio avançado. Uso de textos mais elaborados e desenvolvimento da compreensão oral a partir de fitas e vídeos. Abordagem de aspectos culturais inerentes à língua.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA416"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA616"
+        ]
+    },
+    {
+        "code": "LA518",
+        "name": "Italiano V",
+        "credits": 4,
+        "syllabus": "O objetivo da disciplina é levar o aluno ao aprimoramento das habilidades de compreensão e produção oral e escrita em italiano padrão atual, que possa lhe fornecer subsídios para a sua inserção em ambiente acadêmico, brasileiro e estrangeiro.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA418"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA618"
+        ]
+    },
+    {
+        "code": "LA534",
+        "name": "Alemão Semipresencial V",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível pré-intermediário (B1.2 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral e escrita. Recepção e produção, oral e escrita, de textos com maior complexidade e extensão. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA434"
+                }
+            ],
+            [
+                {
+                    "code": "LA514"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA602",
+        "name": "Pesquisa em Português Segunda Língua / Língua Estrangeira",
+        "credits": 2,
+        "syllabus": "Avaliação de material didático, análise de aulas, planejamentos e instrumentos de avaliação."
+    },
+    {
+        "code": "LA607",
+        "name": "Educação Bilíngue: Teoria e Prática",
+        "credits": 2,
+        "syllabus": "Introdução aos estudos e à pesquisa em Educação Bilíngue. Exame dos diferentes contextos educacionais bilíngues no país (contexto indígena, de imigração, de surdez, escolas internacionais etc.)."
+    },
+    {
+        "code": "LA608",
+        "name": "Multiletramentos, Linguagens e Mídias",
+        "credits": 2,
+        "syllabus": "Mudanças que as novas mídias trazem para as práticas discursivas e modos de socialização em processos de globalização cultural. Conceitos fundamentais para o estudo da relação entre linguagens e mídias (língua, linguagem, semiose, meio, modalidade, remidiação, convergência e transmídia). Características multimodais, multissemióticas e multimidiáticas dos textos contemporâneos e sua relação com diferentes práticas sociais oficiais e marginalizadas na contemporaneidade. Cibergêneros e hibridização dos papéis de produtor, usuário e consumidor na cultura digital.",
+        "reqBy": [
+            "LA881"
+        ]
+    },
+    {
+        "code": "LA611",
+        "name": "Japonês VI",
+        "credits": 4,
+        "syllabus": "Uso da linguagem formal e informal em situações específicas do cotidiano: expressar sentimentos, dúvidas, situações hipotéticas, planos e necessidades.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA511"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA612",
+        "name": "Inglês VI",
+        "credits": 4,
+        "syllabus": "Consolidação das habilidades de compreensão e produção de textos orais, escritos e multimodais em inglês, por meio de práticas comunicativas do cotidiano e em atividades sociais mais formais, que exijam conhecimento de funções e aspectos linguísticos complexos, tais como elaborar textos acadêmicos escritos de gêneros diversos, argumentar em debates, desenvolver narrativas, desenvolver hipóteses, entre outros, visando à formação e atuação acadêmica/profissional do aluno e sensibilizando para aspectos culturais pertinentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA512"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA722"
+        ]
+    },
+    {
+        "code": "LA614",
+        "name": "Alemão VI",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira, nível pré-intermediário (B1.2 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral e escrita. Recepção e produção, oral e escrita, de textos com maior complexidade e extensão. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA434"
+                }
+            ],
+            [
+                {
+                    "code": "LA514"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA714"
+        ]
+    },
+    {
+        "code": "LA615",
+        "name": "Russo VI",
+        "credits": 4,
+        "syllabus": "Prática de compreensão da leitura de textos gerais e textos científicos, específicos da área de estudos do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA515"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA616",
+        "name": "Hebraico VI",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento e aprofundamento das quatro habilidades (compreensão e produção oral e escrita) em um nível médio mais avançado. Desenvolvimento da compreensão oral a partir de fitas e vídeos. Prática de uma produção oral mais fluente e de uma produção escrita mais complexa. Abordagem de aspectos culturais inerentes à língua.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA516"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA618",
+        "name": "Italiano VI",
+        "credits": 4,
+        "syllabus": "Aperfeiçoamento da capacidade oral e escrita. Uso de textos com estruturas sintáticas complexas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA518"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA703",
+        "name": "Língua e Linguagens: Teoria e Prática",
+        "credits": 2,
+        "syllabus": "Exame teórico e prático da relação entre expressão verbal e outras formas de expressão em diferentes mídias. Exame de diferentes concepções da relação textualidade-multimodalidade-hipermodalidade em diferentes domínios dos estudos da linguagem."
+    },
+    {
+        "code": "LA710",
+        "name": "Tópicos em Língua Estrangeira / Segunda Língua: Teoria e Prática",
+        "credits": 2,
+        "syllabus": "Reflexão crítica sobre abordagens, metodologia e avaliação no ensino de línguas estrangeiras e segundas línguas. Introdução à pesquisa sobre esses tópicos."
+    },
+    {
+        "code": "LA711",
+        "name": "Ensino / Aprendizagem de Língua Materna: Teoria e Prática",
+        "credits": 2,
+        "syllabus": "Aprofundamento em uma questão específica de ensino-aprendizagem de Língua Materna na Educação Básica. Este aprofundamento incluirá estudos teóricos e análise de práticas e realidades escolares."
+    },
+    {
+        "code": "LA712",
+        "name": "Análise Linguística no Ensino de Língua Portuguesa",
+        "credits": 4,
+        "syllabus": "Reflexão crítica acerca do eixo da análise linguística no âmbito do ensino de língua portuguesa. Princípios teórico-metodológicos da prática de análise linguística. Questões de análise linguística relevantes para o ensino. Didatizações no eixo da análise linguística (materiais didáticos, projetos, aulas etc.)."
+    },
+    {
+        "code": "LA714",
+        "name": "Alemão VII",
+        "credits": 4,
+        "syllabus": "Alemão como língua estrangeira em nível intemediário (B2,1 no Quadro Comum Europeu, disponível no sítio eletrônico do CEL). Compreensão e expressão oral e escrita. Recepção e produção, oral e escrita, de textos de caráter predominantemente acadêmico, visando preparar o aluno para os desafios de uma estadia acadêmica em país de língua alemã. Uso integrado de tecnologias digitais, inclusive na avaliação. Trabalho autônomo, individual e/ou em grupo, via ambiente virtual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA614"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LA814"
+        ]
+    },
+    {
+        "code": "LA715",
+        "name": "Ensino de Línguas Mediado por Computador: Teoria e Prática",
+        "credits": 2,
+        "syllabus": "Introdução às principais teorias linguísticas e pedagógicas que têm norteado historicamente o ensino de línguas mediado por computador. Papéis do aprendiz, professor e tecnologias digitais em diferentes modelos didáticos. Principais ferramentas utilizadas na atualidade para o ensino de línguas nas modalidades presencial e à distância. Vantagens da hipermídia para a produção e encadeamento de diferentes tipos de objetos de aprendizagem. Prática de seleção, avaliação e produção de objetos de aprendizagem e de projetos de ensino de línguas mediado por computador.",
+        "reqBy": [
+            "LA880"
+        ]
+    },
+    {
+        "code": "LA722",
+        "name": "Língua Inglesa e Temas da Contemporaneidade",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e fortalecimento de capacidades de produção oral e escrita em Língua Inglesa a partir da discussão de tópicos relacionados a assuntos contemporâneos diversos, amparados por fontes multimodais de conhecimento que tenham potencial para promover reflexões também acerca de questões socioculturais. Práticas de leitura e compreensão oral focalizando o estudo de estruturas morfossintáticas, sentidos e, pronúncia e entoação da Língua Inglesa pertinentes aos temas propostos. Prática em contexto de vocabulário relacionado ao tema posto em debate.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "LA612"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA805",
+        "name": "Ensino de Língua Estrangeira",
+        "credits": 2,
+        "syllabus": "Reflexão crítica sobre abordagens, metodologias de ensino e avaliação a partir dessa comparação."
+    },
+    {
+        "code": "LA810",
+        "name": "Tópicos em Estudos do Letramento: Teoria e Prática",
+        "credits": 2,
+        "syllabus": "Aprofundamento de questões teóricas e de análises de práticas letradas específicas na área dos Estudos dos Letramentos."
+    },
+    {
+        "code": "LA811",
+        "name": "Tópicos em Linguagem e Diversidade: Teoria e Prática",
+        "credits": 2,
+        "syllabus": "Aprofundamento das discussões acerca de temas específicos que envolvem a relação entre linguagem, multiculturalismo e plurilinguismo.",
+        "reqs": [
+            [
+                {
+                    "code": "LA403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA814",
+        "name": "Alemão VIII",
+        "credits": 4,
+        "syllabus": "Estudo do idioma em nível básico avançado, visando ao desenvolvimento de maior autonomia nas habilidades de compreensão e expressão oral e escrita complementando os paradigmas do nível básico. Recepção e produção de textos mais complexos. Desenvolvimento da expressividade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA714"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA840",
+        "name": "Introdução aos Estudos da Tradução",
+        "credits": 2,
+        "syllabus": "Estudos de questões teóricas que fornecem subsídios para a tradução.",
+        "reqBy": [
+            "LA882"
+        ]
+    },
+    {
+        "code": "LA842",
+        "name": "Tradução: Inglês/Português",
+        "credits": 2,
+        "syllabus": "Análise e prática de traduções do inglês para o português.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA412"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA843",
+        "name": "Tradução: Francês/Português",
+        "credits": 2,
+        "syllabus": "Análise e prática de traduções do francês para o português.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA413"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA844",
+        "name": "Tradução: Alemão/Português",
+        "credits": 2,
+        "syllabus": "Análise e prática de traduções do alemão para o português.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA849",
+        "name": "Tradução: Espanhol/Português",
+        "credits": 2,
+        "syllabus": "Análise e prática de traduções do espanhol para o português.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "LA419"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA880",
+        "name": "Tópicos em Ensino de Línguas Mediado por Computador",
+        "credits": 2,
+        "syllabus": "Exame teórico e prático de questões específicas na área de Ensino de Línguas Mediado por Computador.",
+        "reqs": [
+            [
+                {
+                    "code": "LA715"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA881",
+        "name": "Tópicos em Multiletramentos, Linguagens e Mídias",
+        "credits": 2,
+        "syllabus": "Aprofundamento teórico e prático de temas ou aspectos específicos da relação entre letramentos, linguagens e mídias.",
+        "reqs": [
+            [
+                {
+                    "code": "LA608"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA882",
+        "name": "Tópicos em Ensino de Tradução",
+        "credits": 2,
+        "syllabus": "Aprofundamento de questões teóricas que fornecem subsídios para a tradução.",
+        "reqs": [
+            [
+                {
+                    "code": "LA840"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA883",
+        "name": "Tópicos em Linguística Aplicada I",
+        "credits": 2,
+        "syllabus": "Estudo de um tema da Linguística Aplicada."
+    },
+    {
+        "code": "LA884",
+        "name": "Tópicos em Linguística Aplicada II",
+        "credits": 2,
+        "syllabus": "Estudo de um tema da Linguística Aplicada."
+    },
+    {
+        "code": "LA885",
+        "name": "Tópicos em Linguística Aplicada III",
+        "credits": 2,
+        "syllabus": "Estudo de um tema da Linguística Aplicada."
+    },
+    {
+        "code": "LA886",
+        "name": "Tópicos em Linguística Aplicada IV",
+        "credits": 2,
+        "syllabus": "Estudo de um tema da Linguística Aplicada."
+    },
+    {
+        "code": "LA887",
+        "name": "Tópicos em Linguística Aplicada V",
+        "credits": 2,
+        "syllabus": "Estudo de um tema da Linguística Aplicada."
+    },
+    {
+        "code": "LA888",
+        "name": "Tópicos em Linguística Aplicada VI",
+        "credits": 2,
+        "syllabus": "Estudo de um tema da Linguística Aplicada."
+    },
+    {
+        "code": "LA900",
+        "name": "Seminários em Linguística Aplicada",
+        "credits": 2,
+        "syllabus": "Atividades acadêmicas e temas de pesquisa em Linguística Aplicada."
+    },
+    {
+        "code": "LA904",
+        "name": "Investigação Científica I",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA905",
+        "name": "Investigação Científica II",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA906",
+        "name": "Investigação Científica III",
+        "credits": 8,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno, sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA907",
+        "name": "Monografia",
+        "credits": 10,
+        "syllabus": "Trabalho final de curso envolvendo tema de pesquisa em Linguística Aplicada desenvolvido individualmente pelo aluno, sob orientação de um professor. A disciplina prevê defesa pública do trabalho perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA910",
+        "name": "Introdução aos Estudos do Português como Segunda Língua e Língua Estrangeira",
+        "credits": 4,
+        "syllabus": "Introdução aos estudos sobre o português como segunda língua e língua estrangeira (L2/LE). Panorama do português como língua adicional no cenário mundial e brasileiro. História do ensino do português como L2/LE no Brasil. A pesquisa nesse campo de atuação profissional. Levantamento e análise dos estudos existentes na área.",
+        "reqBy": [
+            "LA912"
+        ]
+    },
+    {
+        "code": "LA911",
+        "name": "A Sala de Aula de Português como Segunda Língua e Língua Estrangeira",
+        "credits": 4,
+        "syllabus": "Reflexão crítica sobre os principais modelos de aquisição e de aprendizagem de segunda língua e língua estrangeira (L2/LE). Concepções de língua(gem) e proficiência. Reflexão crítica sobre os conceitos de abordagem, planejamento, metodologias de ensino e avaliação. A formação do professor de português como segunda língua e língua estrangeira. Questões específicas relacionadas ao ensino e avaliação de cada uma das quatro habilidades. Análise de práticas em andamento nesse campo de atuação."
+    },
+    {
+        "code": "LA912",
+        "name": "Produção e Avaliação de Materiais para o Ensino de Português como L2/LE",
+        "credits": 4,
+        "syllabus": "Reflexão crítica sobre critérios para a avaliação e produção de materiais didáticos impressos e digitais para o ensino de português como segunda língua e língua estrangeira (L2/LE). Reflexão sobre o impacto das novas tecnologias na elaboração de materiais didáticos. Prática de elaboração de unidades de ensino nesse campo de atuação a partir da análise de necessidades de públicos específicos.",
+        "reqs": [
+            [
+                {
+                    "code": "LA910"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA914",
+        "name": "Ensino de Português como Segunda Língua para Surdos",
+        "credits": 2,
+        "syllabus": "A escolarização de alunos surdos. Bilinguismo em contexto de surdez. O ensino da modalidade escrita da Língua Portuguesa, como segunda língua, para pessoas surdas. A avaliação da produção escrita de alunos surdos."
+    },
+    {
+        "code": "LA915",
+        "name": "Monografia em Português como Segunda Língua / Língua Estrangeira I",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de projeto de pesquisa (definição de objetivos, revisão bibliográfica, constituição de corpus e análise preliminar dos dados) com vistas à elaboração de trabalho final de curso acerca do ensino, da aprendizagem e da avaliação de português como L2/LE, desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LA916",
+        "name": "Monografia em Português como Segunda Língua / Língua Estrangeira II",
+        "credits": 8,
+        "syllabus": "Conclusão da análise de dados e redação de trabalho final de curso envolvendo pesquisa individual acerca do ensino, da aprendizagem e da avaliação de português como L2/LE, sob orientação de um professor. A disciplina prevê, ao final do semestre, defesa pública do trabalho perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

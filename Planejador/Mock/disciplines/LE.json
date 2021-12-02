@@ -1,0 +1,1037 @@
+[
+    {
+        "code": "LE001",
+        "name": "Tópicos Especiais em Engenharia I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE002",
+        "name": "Tópicos Especiais em Engenharia II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE003",
+        "name": "Tópicos Especiais em Engenharia III",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE004",
+        "name": "Tópicos Especiais em Engenharia IV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE005",
+        "name": "Tópicos Especiais em Engenharia V",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE006",
+        "name": "Tópicos Especiais em Engenharia VI",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE007",
+        "name": "Tópicos em Matemática I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE008",
+        "name": "Tópicos em Matemática II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE009",
+        "name": "Tópicos em Matemática III",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE010",
+        "name": "Áreas e Formas de Atuação Profissional",
+        "credits": 2,
+        "syllabus": "Visão das áreas e formas de atuação do profissional e suas consequências na vida futura do formando. Preparar o aluno para a sua profissionalização e inserção no mercado de trabalho, qualquer que seja sua escolha dentre as diversas formas de atuação disponíveis. Propiciar ao aluno a oportunidade de preparar, ao longo do ano, sua documentação de apresentação profissional, como currículo, portfólio."
+    },
+    {
+        "code": "LE011",
+        "name": "Introdução à Atividade Empresarial",
+        "credits": 2,
+        "syllabus": "Elaboração de projeto, levantamento de informações; visitas, tomadas de depoimentos e estudo de casos e de bibliografias, sempre complementados por análise crítica; jogos e simulações. Visão sistêmica do empreendimento."
+    },
+    {
+        "code": "LE012",
+        "name": "Manutenção Industrial",
+        "credits": 2,
+        "syllabus": "Organização, planejamento e controle de manutenção. Manutenção mecânica e elétrica de equipamentos e instalações. Lubrificação. Manutenção produtiva total.",
+        "reqs": [
+            [
+                {
+                    "code": "LE103"
+                },
+                {
+                    "code": "LE406"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE013",
+        "name": "Tópicos em Matemática IV",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "LE100",
+        "name": "Desenho Técnico Assistido por Computador",
+        "credits": 4,
+        "syllabus": "Instrumentação e normas. Sistemas de projeções e perspectivas. Convenções e construções geométricas. Rebatimento. Mudança de planos. Introdução a um programa computacional de desenho. Desenho de elementos de máquinas. Desenho de conjunto.",
+        "reqBy": [
+            "LE503",
+            "LE902"
+        ]
+    },
+    {
+        "code": "LE101",
+        "name": "Cálculo I",
+        "credits": 6,
+        "syllabus": "Funções reais de uma variável real. Limite. Continuidade. Derivada. Integral. Técnicas de integração.",
+        "reqBy": [
+            "EU300",
+            "GL301",
+            "LE201",
+            "LE203",
+            "LE303",
+            "LE304",
+            "LE400",
+            "LE407",
+            "LE408",
+            "LE606"
+        ]
+    },
+    {
+        "code": "LE102",
+        "name": "Introdução à Engenharia",
+        "credits": 2,
+        "syllabus": "Noções gerais sobre Ciência e Tecnologia. Fundamentos Metodológicos de Engenharia. Origem e Evolução da Engenharia. Atribuições Profissionais e Perspectivas do Mercado de Trabalho. Descrição da indústria química. Desenvolvimento de processos químicos. Operações e processos unitários. Grandezas, dimensões e unidades. Variáveis de processo. Estequiometria. Balanços de Massa e de Energia. Estados estacionário e transiente. Aplicações simples a processos de balanço de massa e energia combinados."
+    },
+    {
+        "code": "LE103",
+        "name": "Oficinas",
+        "credits": 4,
+        "syllabus": "Medidas lineares com instrumentos de medida direta e indireta. Noções de tolerância ISO. Traçagem de peças, trabalhos de bancada. Operações básicas com máquinas operatrizes, furadeira, plaina limadora, torno mecânico horizontal e fresadora.",
+        "reqBy": [
+            "EU502",
+            "LE012",
+            "LE503"
+        ]
+    },
+    {
+        "code": "LE104",
+        "name": "Geometria Analítica e de Vetores",
+        "credits": 6,
+        "syllabus": "Sistemas lineares. Vetores, operações. Bases, sistemas de coordenadas. Distância, norma e ângulo. Produtos escalar e vetorial. Retas no plano e no espaço. Planos. Posições relativas, intersecções, distância e ângulos. Círculo e esfera. Coordenadas polares, cilíndricas e esféricas. Seções cônicas, classificação. Introdução às quádricas."
+    },
+    {
+        "code": "LE105",
+        "name": "Introdução à Engenharia",
+        "credits": 2,
+        "syllabus": "Natureza e formação do Engenheiro. Noções gerais sobre Ciência e Tecnologia. Fundamentos Metodológicos de Engenharia. Origem e Evolução da Engenharia. A Engenharia Brasileira. Atribuições Profissionais e Perspectivas do Mercado de Trabalho.",
+        "reqBy": [
+            "ER200",
+            "LE204"
+        ]
+    },
+    {
+        "code": "LE106",
+        "name": "Geometria Analítica e Álgebra Linear",
+        "credits": 6,
+        "syllabus": "Matrizes, Sistemas Lineares e Determinantes. Espaços Vetoriais de Dimensão Finita. Produto Escalar e Vetorial. Retas e Planos. Projeção Ortogonal. Distâncias. Transformações Lineares, Autovalores e Autovetores. Diagonalização. Classificação das Cônicas",
+        "reqBy": [
+            "LE203",
+            "LE400",
+            "LE402"
+        ]
+    },
+    {
+        "code": "LE200",
+        "name": "Química Geral",
+        "credits": 4,
+        "syllabus": "Estrutura atômica, configuração eletrônica, ligação química, forças intermoleculares, soluções e reações químicas. ",
+        "reqBy": [
+            "LE401",
+            "LE408"
+        ]
+    },
+    {
+        "code": "LE201",
+        "name": "Física Geral I",
+        "credits": 4,
+        "syllabus": "Cinemática do ponto. Leis de Newton. Estática e dinâmica da partícula. Trabalho e energia. Conservação da Energia. Momento linear e sua conservação. Colisões. Momento angular da partícula e de sistemas de partículas. Rotação de corpos rígidos.",
+        "reqs": [
+            [
+                {
+                    "code": "LE101",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER501",
+            "LE301"
+        ]
+    },
+    {
+        "code": "LE202",
+        "name": "Física Experimental I",
+        "credits": 2,
+        "syllabus": "Experiências de laboratório sobre: cinemática do ponto, Leis de Newton, estática e dinâmica da partícula, trabalho e energia, conservação da energia, momento linear e sua conservação, colisões, momento angular da partícula e de sistemas de partículas e rotação de corpos rígidos.",
+        "reqBy": [
+            "LE302"
+        ]
+    },
+    {
+        "code": "LE203",
+        "name": "Cálculo II",
+        "credits": 6,
+        "syllabus": "Funções de várias variáveis reais. Fórmula de Taylor. Máximos e mínimos. Integrais múltiplas. Integrais de linha. Teorema da divergência. Teorema de Stokes.",
+        "reqs": [
+            [
+                {
+                    "code": "LE101"
+                },
+                {
+                    "code": "LE106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LE300"
+        ]
+    },
+    {
+        "code": "LE204",
+        "name": "Fundamentos de Cálculos em Engenharia",
+        "credits": 2,
+        "syllabus": "Grandezas, dimensões e unidades. Variáveis de processo. Operações e processos unitários. Balanços materiais. Balanços de energia. Balanços material e energético combinados.",
+        "reqs": [
+            [
+                {
+                    "code": "LE105"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE205",
+        "name": "Introdução à Metodologia de Projeto",
+        "credits": 2,
+        "syllabus": "Introdução à dinâmica de grupos. Método científico. Conceitos da metodologia de projeto de engenharia. Projeto por funções. Planejamento de projeto. Pesquisa de mercado. Introdução às ferramentas da criatividade. Função desdobramento da qualidade (QFD). Projeto Axiomático."
+    },
+    {
+        "code": "LE300",
+        "name": "Cálculo III",
+        "credits": 6,
+        "syllabus": "Séries numéricas e séries de funções. Equações diferenciais ordinárias. Transformadas de Laplace. Sistemas de equações de primeira ordem. Equações diferenciais parciais e séries de Fourier.",
+        "reqs": [
+            [
+                {
+                    "code": "LE203"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU500"
+        ]
+    },
+    {
+        "code": "LE301",
+        "name": "Física Geral II",
+        "credits": 4,
+        "syllabus": "Oscilações. Gravitação. Ondas em meios elásticos. Ondas sonoras. Hidrostática e hidrodinâmica. Viscosidade. Temperatura. Calorimetria e condução de calor. Leis de termodinâmica; teoria cinética dos gases.",
+        "reqs": [
+            [
+                {
+                    "code": "LE201"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU560",
+            "EU590",
+            "LE404",
+            "LE405",
+            "LE501"
+        ]
+    },
+    {
+        "code": "LE302",
+        "name": "Física Experimental II",
+        "credits": 2,
+        "syllabus": "Experiências de laboratório sobre: oscilações, gravitação, ondas em meios elásticos, ondas sonoras, hidrostática e hidrodinâmica. Viscosidade, temperatura, calorimetria e condução de calor, leis da termodinâmica e teoria cinética dos gases.",
+        "reqs": [
+            [
+                {
+                    "code": "LE202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LE405"
+        ]
+    },
+    {
+        "code": "LE303",
+        "name": "Algoritmos e Programação de Computadores",
+        "credits": 4,
+        "syllabus": "Fundamentos de algoritmos e sua representação em linguagens de alto nível. Estudo pormenorizado de uma ou mais linguagens. Desenvolvimento sistemático e implementação de programas. Modularidade, depuração, testes e documentação de programas.",
+        "reqs": [
+            [
+                {
+                    "code": "LE101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER701",
+            "EU604",
+            "LE402",
+            "LE901"
+        ]
+    },
+    {
+        "code": "LE304",
+        "name": "Álgebra Linear",
+        "credits": 4,
+        "syllabus": "Espaços Vetoriais Reais. Subespaços. Base e dimensão. Transformações lineares e matrizes. Núcleo e imagem. Projeções. Autovalores e autovetores. Produto interno. Matrizes reais especiais. Diagonalização.",
+        "reqs": [
+            [
+                {
+                    "code": "LE101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE400",
+        "name": "Mecânica Geral",
+        "credits": 4,
+        "syllabus": "Sistemas de forças aplicadas equivalentes. Equilíbrio de corpos rígidos interligados. Treliças planas e espaciais. Carregamentos distribuídos. Diagrama dos esforços solicitantes. Cinemática dos corpos rígidos. Princípios básicos da dinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "LE101"
+                },
+                {
+                    "code": "LE106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU503",
+            "LE500"
+        ]
+    },
+    {
+        "code": "LE401",
+        "name": "Estrutura e Propriedade dos Materiais",
+        "credits": 4,
+        "syllabus": "Princípios da estrutura e defeitos cristalinos aplicados à materiais metálicos. Difusão atômica. Soluções sólidas. Diagramas de fase. Propriedades dos materiais metálicos e não metálicos. Estrutura e propriedade dos materiais cerâmicos. Estrutura e propriedade dos materiais poliméricos. Noções sobre materiais conjugados.",
+        "reqs": [
+            [
+                {
+                    "code": "LE200"
+                }
+            ],
+            [
+                {
+                    "code": "QG101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER700",
+            "EU480",
+            "EU501",
+            "EU570",
+            "EU700",
+            "EU703",
+            "EU704",
+            "EU901",
+            "LE600",
+            "LE602"
+        ]
+    },
+    {
+        "code": "LE402",
+        "name": "Cálculo Numérico",
+        "credits": 4,
+        "syllabus": "Aritmética de ponto flutuante. Zeros de funções reais. Sistemas lineares. Interpolação polinomial. Integração numérica. Quadrados mínimos lineares. Tratamento numérico de equações diferenciais ordinárias.",
+        "reqs": [
+            [
+                {
+                    "code": "LE106"
+                },
+                {
+                    "code": "LE303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER140",
+            "ER500",
+            "EU500",
+            "LE505"
+        ]
+    },
+    {
+        "code": "LE403",
+        "name": "Ergonomia",
+        "credits": 4,
+        "syllabus": "Histórico, conceitos, domínios e pressupostos da ergonomia. Contribuições da ergonomia para o projeto do trabalho: a organização do trabalho; os postos de trabalho; os sistemas de informação e as ferramentas de trabalho. Situação de Trabalho. Ambiente e principais componentes do trabalho. O homem no trabalho, ritmos humanos e de trabalho. Noções de esforço físico no trabalho, conforto e fadiga. Antropometria e biomecânica. Espaços de trabalho. Cognição, inteligência e o sentido do trabalho. Métodos e técnicas para estudo do homem no ambiente de trabalho.",
+        "reqBy": [
+            "ER900",
+            "LE900"
+        ]
+    },
+    {
+        "code": "LE404",
+        "name": "Física Geral III",
+        "credits": 4,
+        "syllabus": "Lei de Coulomb, Campo Elétrico, Lei de Gauss, Potencial Elétrico, Capacitância, Corrente e Resistência, Força Eletromotriz e Circuitos Elétricos, Campo Magnético, Lei de Ampére, Lei da Indução de Faraday, Indutância, Propriedades Magnéticas da Matéria, Oscilações Eletromagnéticas, Correntes Alternadas, Equações de Maxwel.",
+        "reqs": [
+            [
+                {
+                    "code": "LE301"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LE406"
+        ]
+    },
+    {
+        "code": "LE405",
+        "name": "Física Experimental III",
+        "credits": 2,
+        "syllabus": "Experiências de laboratório sobre: lei de Coulomb e campo elétrico, lei de Gauss, potencial elétrico, capacitores e dielétricos, corrente, resistência e força eletromotriz, circuitos e instrumentos de corrente contínua, campo magnético de uma corrente, forças magnéticas sobre correntes, força eletromotriz induzida e circuitos de corrente alternada.",
+        "reqs": [
+            [
+                {
+                    "code": "LE301"
+                },
+                {
+                    "code": "LE302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE406",
+        "name": "Eletrotécnica",
+        "credits": 2,
+        "syllabus": "Revisão de conceitos básicos. Elementos e leis de circuitos elétricos. Circuitos monofásicos e trifásicos. Transformadores. Máquinas elétricas rotativas.",
+        "reqs": [
+            [
+                {
+                    "code": "LE404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU804",
+            "LE012"
+        ]
+    },
+    {
+        "code": "LE407",
+        "name": "Matemática Financeira",
+        "credits": 4,
+        "syllabus": "Matemática financeira. Custos. Análise de Investimentos. Noções de contabilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "LE101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE408",
+        "name": "Termodinâmica I",
+        "credits": 4,
+        "syllabus": "Conceitos introdutórios e definições. Energia e Primeira Lei da Termodinâmica. Propriedades de uma substância pura. Balanço de energia em volume de controle. Segunda Lei da Termodinâmica. Entropia. ",
+        "reqs": [
+            [
+                {
+                    "code": "LE101"
+                },
+                {
+                    "code": "LE200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LE501",
+            "LE504"
+        ]
+    },
+    {
+        "code": "LE409",
+        "name": "Estatística e Probabilidade para Engenharia",
+        "credits": 4,
+        "syllabus": "Variáveis aleatórias discretas e contínuas. Variáveis aleatórias multidimensionais. Distribuições e amostrais. Introdução à teoria de estimação: estimadores pontuais e intervalos de confiança. Noções de amostragem. Teste de hipótese. Introdução à análise de variância. Testes de aderência. Tabelas de contingência. Exemplos de aplicação em engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "NC104"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER190",
+            "ER210",
+            "ER220",
+            "ER270",
+            "ER350",
+            "ER701",
+            "ER903",
+            "LE610",
+            "LE700",
+            "MG600"
+        ]
+    },
+    {
+        "code": "LE500",
+        "name": "Resistência dos Materiais",
+        "credits": 4,
+        "syllabus": "Introdução. Solicitação axial. Solicitação geral. Solicitação tangencial. Lei de Hooke generalizada. Esforços solicitantes. Distribuição de tensão.",
+        "reqs": [
+            [
+                {
+                    "code": "F 315"
+                }
+            ],
+            [
+                {
+                    "code": "LE400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER700",
+            "EU602"
+        ]
+    },
+    {
+        "code": "LE501",
+        "name": "Fenômenos de Transporte",
+        "credits": 4,
+        "syllabus": "Sistema e análise dimensional. Balanços baseados em volume de controle. Transporte laminar e turbulento (transferência molecular e convectiva de quantidade de movimento, calor e massa). Propriedade de transporte. Coeficientes de transferência.",
+        "reqs": [
+            [
+                {
+                    "code": "F 320"
+                }
+            ],
+            [
+                {
+                    "code": "LE301"
+                },
+                {
+                    "code": "LE408"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER600",
+            "ER602",
+            "ER806",
+            "ER807",
+            "EU600",
+            "LE704"
+        ]
+    },
+    {
+        "code": "LE502",
+        "name": "Gestão do Conhecimento Organizacional",
+        "credits": 4,
+        "syllabus": "Principais aspectos da gestão do conhecimento, conceitos de conhecimento e gestão, organizações do aprendizado, competitividade, inteligência competitiva, tecnologia, implantação de gestão do conhecimento no negócio da empresa, e seu impacto enquanto valor agregado ao produto."
+    },
+    {
+        "code": "LE503",
+        "name": "Tecnologia Mecânica",
+        "credits": 2,
+        "syllabus": "Processos de fabricação. Metrologia. Tolerâncias dimensionais e geométricas. Rugosidade superficial. Documentação do processo de fabricação. Tempos padrões. Lista de materiais (BOM).",
+        "reqs": [
+            [
+                {
+                    "code": "LE100"
+                },
+                {
+                    "code": "LE103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER603",
+            "EU601",
+            "EU900",
+            "LE600",
+            "LE602",
+            "LE603",
+            "LE608"
+        ]
+    },
+    {
+        "code": "LE504",
+        "name": "Termodinâmica II",
+        "credits": 4,
+        "syllabus": "Ciclos motores a vapor. Ciclos padrão-ar. Ciclos de refrigeração e frigoríficos. Bomba de calor. Propriedade de misturas. Psicrometria. Aplicações da termodinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "LE408"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER702",
+            "ER806",
+            "ER807",
+            "EU600",
+            "LE704"
+        ]
+    },
+    {
+        "code": "LE505",
+        "name": "Pesquisa Operacional I",
+        "credits": 4,
+        "syllabus": "A pesquisa operacional como método analítico de apoio à decisão. Noções de programação linear. Aspectos geométricos do método simplex e resolução gráfica. Noções de programação inteira. Problemas clássicos de pesquisa operacional: modelagem e resolução através de softwares. Aplicações em engenharia de produção e de manufatura.",
+        "reqs": [
+            [
+                {
+                    "code": "LE402"
+                }
+            ]
+        ],
+        "reqBy": [
+            "LE611"
+        ]
+    },
+    {
+        "code": "LE600",
+        "name": "Conformação Mecânica",
+        "credits": 2,
+        "syllabus": "Classificação dos processos de conformação. Metalurgia e mecânica da conformação. Descrição dos processos de conformação. Projetos de ferramentas de estampagem e forjamento.",
+        "reqs": [
+            [
+                {
+                    "code": "LE401"
+                },
+                {
+                    "code": "LE503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE601",
+        "name": "Gerenciamento de Projetos",
+        "credits": 4,
+        "syllabus": "Planejamento, gestão e implantação de projetos. Definição de projetos. Tipos de projetos. Ferramentas de gestão de projetos. Avaliação de viabilidade e desempenho de projetos. Gestão de riscos.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "NC400"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE602",
+        "name": "Usinagem de Materiais",
+        "credits": 4,
+        "syllabus": "Fundamentos da Usinagem. Processos de Usinagem. Escolha de Ferramental e das condições de Usinagem. Programação CN.",
+        "reqs": [
+            [
+                {
+                    "code": "F 589"
+                }
+            ],
+            [
+                {
+                    "code": "LE401"
+                },
+                {
+                    "code": "LE503"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU801",
+            "EU802",
+            "EU803",
+            "LE700",
+            "LE801",
+            "LE903"
+        ]
+    },
+    {
+        "code": "LE603",
+        "name": "Processos Metalúrgicos de Fabricação",
+        "credits": 4,
+        "syllabus": "Princípios de metalurgia do princípio de solidificação. Tecnologia da fundição em soldagem. Equipamentos e processos de soldagem. Metalurgia da soldagem.",
+        "reqs": [
+            [
+                {
+                    "code": "LE503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE604",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "Esta disciplina tem por objetivos: familiarizar os alunos do curso de graduação com o conhecimento científico e com os processos de trabalho científico; iniciá-los em métodos e técnicas de estudo e de pesquisa no campo da engenharia, através da definição do tema da pesquisa e levantamento bibliográfico.",
+        "reqBy": [
+            "LE705"
+        ]
+    },
+    {
+        "code": "LE605",
+        "name": "Educação Corporativa",
+        "credits": 2,
+        "syllabus": "Alinhamento estratégico da empresa, funções e competências essenciais. Definição de programas de capacitação nos diferentes níveis e área de atuação. Avaliação dos resultados dos processos de identificação, reconhecimento, geração, armazenamento e difusão do conhecimento individual, organizacional e social."
+    },
+    {
+        "code": "LE606",
+        "name": "Estatística",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de probabilidade. Estatística Descritiva. Variáveis Aleatórias. Principais distribuições discretas e contínuas: Binominal; Hipergeométrica; Poisson; Normal; T; F; e X2; Tipos de amostragem. Estimação, teste de hipótese e intervalo de confiança para médias, proporções e variâncias. Teste de independência e homogeneidade em tabelas de continência. Regressão e correlação linear, simples e múltipla. Análise de variância.",
+        "reqs": [
+            [
+                {
+                    "code": "LE101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE607",
+        "name": "Análise de Custos",
+        "credits": 2,
+        "syllabus": "Contabilidade financeira. Contabilidade de custos. Contabilidade gerencial. Esquema básico da contabilidade de custos. Métodos de custeio. Custeio por absorção. Custos por departamento. Custeio baseado em atividades (ABC). Custeio variável. Custos para tomada de decisão. Custos fixos. Custos variáveis. Margem de contribuição. Ponto de equilíbrio econômico. Ponto de equilíbrio financeiro. Relação custo-volume-lucro. Fixação de preço de venda e decisão sobre compra ou produção. Custos imputados e custos perdidos. Custos controláveis e custos estimados. Custo-padrão.",
+        "reqs": [
+            [
+                {
+                    "code": "GL200"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE608",
+        "name": "Processos de Fabricação I",
+        "credits": 4,
+        "syllabus": "Conceitos de fundição e solidificação. Processos da fundição. Tecnologia da fundição em soldagem. Equipamentos e processos de soldagem.",
+        "reqs": [
+            [
+                {
+                    "code": "LE503"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EU702"
+        ]
+    },
+    {
+        "code": "LE609",
+        "name": "Fundamentos de Finanças e Custos",
+        "credits": 4,
+        "syllabus": "Princípios de finanças. Custo médio de capital. Modelo Contábil Básico. Análise de Balanço. Contabilidade financeira. Contabilidade gerencial. Esquema básico da contabilidade de custos. Métodos de custeio. Custeio por absorção. Custos por departamento. Custeio baseado em atividades (ABC). Custeio variável. Custos para tomada de decisão. Custos fixos e variáveis. Margem de contribuição. Ponto de equilíbrio econômico e financeiro. Relação custo-volume-lucro. Fixação de preço de venda e decisão sobre compra ou produção. Custos imputados e perdidos. Custos controláveis estimados. Custo-padrão.",
+        "reqBy": [
+            "ER390"
+        ]
+    },
+    {
+        "code": "LE610",
+        "name": "Sistemas de Apoio à Decisão e Aprendizado de Máquina",
+        "credits": 2,
+        "syllabus": "Introdução aos métodos de apoio à decisão. Problemáticas de decisão: ordenamento, seleção e classificação. Decisão sob risco. Teoria da utilidade. Introdução ao apoio à decisão multicritério. Introdução ao aprendizado de máquina: classificação de padrões e agrupamento.",
+        "reqs": [
+            [
+                {
+                    "code": "LE409"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE611",
+        "name": "Pesquisa Operacional II",
+        "credits": 4,
+        "syllabus": "Fundamentos matemáticos da programação linear. O método Simplex. Dualidade. Análise de sensibilidade. Métodos de programação Inteira. Noções de programação estocástica e de programação dinâmica. Aplicações em engenharia e implementação computacional.",
+        "reqs": [
+            [
+                {
+                    "code": "LE505"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE700",
+        "name": "Engenharia de Qualidade",
+        "credits": 2,
+        "syllabus": "Conceitos básicos de qualidade. Histórico mundial e brasileiro. Principais correntes e autores. Modelo sistemático de qualidade - Sistema de gestão da qualidade. Organização do sistema da qualidade. Planejamento estratégico da qualidade. Integração dos sistemas na organização. Ciclo da qualidade: mercado, produto, produção. Recursos humanos para a qualidade. Gestão de custos da qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "LE602"
+                }
+            ],
+            [
+                {
+                    "code": "LE409"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER903"
+        ]
+    },
+    {
+        "code": "LE701",
+        "name": "Gestão de Projetos",
+        "credits": 4,
+        "syllabus": "Introdução ao gerenciamento de projeto para implementação de sistemas e desenvolvimento de produto. Fases do projeto (preparação, planejamento, monitoramento e adaptação). Revisão de técnicas clássicas (CPM e PERT). Matriz de estrutura de projeto. Simulação probabilística de projeto. Modelagem de sistemas dinâmicos aplicada ao projeto.",
+        "reqBy": [
+            "ER800",
+            "ER801",
+            "ER802"
+        ]
+    },
+    {
+        "code": "LE702",
+        "name": "Gestão de Recursos Humanos",
+        "credits": 4,
+        "syllabus": "Políticas e práticas da gestão de pessoas nas organizações públicas e privadas. A gestão de RH e seus objetivos, políticas e estratégias. Histórico de gestão de pessoal. Gestão estratégica de RH. A Gestão de Pessoas por competências. A Atração de Competências para as Organizações. Recrutando e Selecionando Pessoas. Formação Profissional e Desenvolvimento de Pessoas. Sistema de Desenvolvimento de Pessoas. Avaliação de Performance. Outras dimensões da Gestão de Pessoas: qualidade de vida.",
+        "reqBy": [
+            "GL802"
+        ]
+    },
+    {
+        "code": "LE703",
+        "name": "Sistemas Produtivos",
+        "credits": 2,
+        "syllabus": "Conceituação da manufatura. Classificação dos sistemas de manufatura. Aplicação de trabalho padrão. Tecnologia de grupo. Métricas da produção. Cálculo de recursos e capacidade produtiva.",
+        "reqs": [
+            [
+                {
+                    "code": "AA440",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER260",
+            "ER300",
+            "ER320",
+            "ER803",
+            "ER808",
+            "LE801",
+            "MG600"
+        ]
+    },
+    {
+        "code": "LE704",
+        "name": "Laboratório de Engenharia I",
+        "credits": 4,
+        "syllabus": "Experimentos em transferência de calor, mecânica de fluidos, termodinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "LE501"
+                },
+                {
+                    "code": "LE504",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "LE802"
+        ]
+    },
+    {
+        "code": "LE705",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "Esta disciplina tem por objetivos: familiarizar os alunos do curso de graduação com o conhecimento científico e com os processos de trabalho científico; iniciá-los em métodos e técnicas de estudo e de pesquisa no campo da engenharia, através da definição do tema da pesquisa e levantamento bibliográfico.",
+        "reqs": [
+            [
+                {
+                    "code": "LE604"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE800",
+        "name": "Gestão de Qualidade e Produtividade",
+        "credits": 2,
+        "syllabus": "Histórico da qualidade. Conceituação de sistemas de gerenciamento da qualidade. Normas ISO 9000 e certificação. Política da qualidade. Custos da qualidade. Novas abordagens sobre qualidade. Ferramentas da qualidade. Modelos de excelência."
+    },
+    {
+        "code": "LE801",
+        "name": "Planejamento e Controle de Produção",
+        "credits": 4,
+        "syllabus": "Caracterização do problema de planejamento e controle da produção (PCP). Cálculo de Necessidades (MRP). Mapeamento do fluxo de valor. Sistema Kaban. Takt time. Fluxo Contínuo.",
+        "reqs": [
+            [
+                {
+                    "code": "LE602"
+                }
+            ],
+            [
+                {
+                    "code": "LE703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE802",
+        "name": "Laboratório de Engenharia II",
+        "credits": 4,
+        "syllabus": "Experimentos das disciplinas específicas do curso de Engenharia de Manufatura.",
+        "reqs": [
+            [
+                {
+                    "code": "LE704"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE803",
+        "name": "Gestão de Qualidade",
+        "credits": 2,
+        "syllabus": "Histórico da qualidade. Conceituação de sistemas de gerenciamento da qualidade. Normas e certificações. Política da qualidade. Custos da qualidade. Novas abordagens sobre qualidade. Ferramentas da qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "GL303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AG804"
+        ]
+    },
+    {
+        "code": "LE804",
+        "name": "Ergonomia, Saúde e Higiene do Trabalho",
+        "credits": 6,
+        "syllabus": "Ergonomia. Ambiência e condições extremas. Higiene do Trabalho. Situação de trabalho. Carga de trabalho. Organização do Trabalho. Noções básicas de Antropometria e biomecânica. Relação trabalho e saúde. Método da AET (Análise Ergonômica do Trabalho): interdisciplinaridade, participação dos sujeitos, trabalho real, tarefa, atividade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA465",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE900",
+        "name": "Higiene e Segurança do Trabalho",
+        "credits": 2,
+        "syllabus": "Conceitos gerais sobre Higiene, Saúde e Segurança no Trabalho. Riscos à saúde relacionados ao ambiente de trabalho: avaliação, prevenção e controle. Normatização e Legislação. Relação Saúde e Trabalho. Toxicologia. Doenças profissionais e do trabalho. Acidentes do Trabalho e métodos de análise.",
+        "reqs": [
+            [
+                {
+                    "code": "LE403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE901",
+        "name": "Pesquisa Operacional",
+        "credits": 4,
+        "syllabus": "Otimização de fluxo em rede, problemas de transporte, caminho mínimo e fluxo máximo. Programação dinâmica, procedimento forward e backward. Programação por metas e programação inteira-mista. Programação não linear.",
+        "reqs": [
+            [
+                {
+                    "code": "LE303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER120",
+            "ER130",
+            "ER240",
+            "ER250",
+            "ER280"
+        ]
+    },
+    {
+        "code": "LE902",
+        "name": "Engenharia Assistida por Computador",
+        "credits": 4,
+        "syllabus": "Métodos e técnicas para engenharia assistida por computador. Projeto, processos e produção assistidos por computador. Conceitos de manufatura computacional integrada (CAE, CAD, CAM). Simulação.",
+        "reqs": [
+            [
+                {
+                    "code": "EU500"
+                },
+                {
+                    "code": "EU602"
+                },
+                {
+                    "code": "LE100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE903",
+        "name": "Engenharia Simultânea",
+        "credits": 2,
+        "syllabus": "A organização fabril por departamentos. A organização por Centros de Custos. A organização por Centros de Lucros. Técnicas modernas de gestão de projetos. O arranjo celular para manufatura. O conceito de equipes de trabalho multidisciplinares. A organização integrada por computador.",
+        "reqs": [
+            [
+                {
+                    "code": "LE602"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "LE904",
+        "name": "Introdução à Nanotecnologia",
+        "credits": 2,
+        "syllabus": "Os conceitos de nanociência e nanotecnologia e seus precursores históricos. A construção de tecnologias emergentes. Os objetos de estudo e desenvolvimento da nanotecnologia e suas estratégias com ênfase em materiais. As abordagens top-down, bottom-up, auto-montagem e síntese química e suas ferramentas. Aplicações tecnológicas: das nanopartículas aos computadores moleculares. Questões ambientais, éticas e sociais envolvendo tecnologias emergentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

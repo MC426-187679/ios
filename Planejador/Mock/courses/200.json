@@ -1,0 +1,39 @@
+{
+    "code": "200",
+    "name": "Programa de Formação Interdisciplinar Superior - ProFIS - Integral",
+    "tree": [
+        [
+            "BG091",
+            "GM091",
+            "LA083",
+            "MA091",
+            "QG191",
+            "TL106"
+        ],
+        [
+            "BF092",
+            "EN092",
+            "FI092",
+            "HH092",
+            "LA084",
+            "MA093"
+        ],
+        [
+            "CS093",
+            "EF091",
+            "GT001",
+            "LA091",
+            "MD163",
+            "PF093",
+            "PF095"
+        ],
+        [
+            "CV043",
+            "EP094",
+            "LA092",
+            "MC001",
+            "PF094",
+            "PF096"
+        ]
+    ]
+}

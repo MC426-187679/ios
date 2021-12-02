@@ -1,0 +1,3822 @@
+[
+    {
+        "code": "EM001",
+        "name": "Estágio Supervisionado",
+        "credits": 2,
+        "syllabus": "Acompanhamento de projetos. Montagens e execuções de equipamentos e sistemas em Engenharia Mecânica junto a um órgão credenciado pelo departamento. O estágio é orientado bilateralmente e conclui com apresentação de um relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM003",
+        "name": "Controle Numérico em Máquinas-Ferramenta",
+        "credits": 2,
+        "syllabus": "Princípios básicos de equipamentos CNC. Implantação de equipamentos CNC. Programação manual. Programação automática (APT). Pré e Pós-Processadores.",
+        "reqs": [
+            [
+                {
+                    "code": "EM733"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM004",
+        "name": "Planejamento do Processo Assistido pelo Computador",
+        "credits": 2,
+        "syllabus": "Planejamento do Processo Aplicado a Peças Prismáticas e de Revolução. Sistemas Variante e Generativo. Aplicação de Inteligência Artificial.",
+        "reqs": [
+            [
+                {
+                    "code": "EM733"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM006",
+        "name": "Manufatura Integrada por Computador",
+        "credits": 2,
+        "syllabus": "Flexibilidade. Automação Rígida e Flexível. Sistemas Flexíveis de Manufatura. Sistemas Integrados de Manufatura.",
+        "reqs": [
+            [
+                {
+                    "code": "EM733"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM007",
+        "name": "Planejamento da Produção Assistido pelo Computador",
+        "credits": 2,
+        "syllabus": "Sistemas Assistidos para Planejamento e Controle da Produção. Aplicação de Sistemas Especialistas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM733"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM008",
+        "name": "Automação da Manufatura",
+        "credits": 2,
+        "syllabus": "Controladores Lógicos Programáveis (CLP): recursos de hardware e de programação de configurações típicas. Integração de CLPs, Robôs e Máquinas-ferramenta de CN. Planejamento e Controle da Produção. Tecnologia de Grupo. Técnicas Modernas de Gerenciamento da Produção: JUST-I N-TIME e KANBAM.",
+        "reqs": [
+            [
+                {
+                    "code": "EM335"
+                }
+            ],
+            [
+                {
+                    "code": "EM608"
+                }
+            ],
+            [
+                {
+                    "code": "MC102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM009",
+        "name": "Introdução às Vibrações Não-Lineares",
+        "credits": 2,
+        "syllabus": "Sistemas lineares e não-lineares. Vibrações próprias de sistemas autônomos. Vibrações autoexcitadas. Vibrações parametricamente excitadas. Vibrações forçadas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM010",
+        "name": "Introdução à Dinâmica de Estruturas",
+        "credits": 2,
+        "syllabus": "Carregamentos. Métodos de discretização. Equações de movimento. Princípio dos deslocamentos virtuais e de Hamilton. Um grau de liberdade. Carregamento harmônico, periódico, pulso, geral. Método de Rayleigh. Diversos graus de liberdade. Matrizes de propriedade estrutural. Resposta dinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "EM406"
+                },
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM011",
+        "name": "Vias Permanentes e Terminais",
+        "credits": 4,
+        "syllabus": "Trilhos e fixações. Análise de deformação de trilhos. Juntas. Trilhos sobre apoio elástico. Estabilidade de trilhos nos planos horizontal e vertical. Contato roda-trilho. Aderência. Máquinas de mudança de via. Supervisão automática de pátios. Sistemas de identificação de carros. Containers. Sistemas de carregamento e descarregamento.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM013",
+        "name": "Materiais Cerâmicos",
+        "credits": 2,
+        "syllabus": "Definições. Cerâmica convencional X cerâmica avançada. Processamento de materiais cerâmicos: obtenção de pós, conformação, desificação, usinagem final, controle de qualidade. Microestrutura e propriedades de materiais cerâmicos. Exemplos de aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM014",
+        "name": "Materiais Poliméricos",
+        "credits": 2,
+        "syllabus": "Conceitos básicos. Estrutura molecular dos polímeros. Classificação dos polímeros. Comportamento térmico e mecânico de polímeros. Processamento de polímeros (classificação dos processos, processos de injeção e extrusão). Compósitos de matriz polimérica e blendas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM015",
+        "name": "Materiais de Grau Eletrônico",
+        "credits": 2,
+        "syllabus": "Classificação, aplicações e características dos materiais de grau eletrônico. Processos de obtenção e purificação. Técnicas para crescimento de monocristais. Ensaios de caracterização.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM016",
+        "name": "Solidificação dos Metais",
+        "credits": 2,
+        "syllabus": "Nucleação e crescimento. Rejeição de soluto. Transferência de calor na solidificação. Super-resfriamento constitucional. Morfologia da interface sólido-líquido. Estruturas eutéticas. Estrutura de lingotes. Segregação e defeitos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM017",
+        "name": "Tratamentos Superficiais dos Metais",
+        "credits": 2,
+        "syllabus": "Eletrodeposição de metais. Anodização do alumínio. Deposição de metais sem corrente elétrica. Deposição por aspersão térmica. Zincagem por imersão. Medição de espessura de revestimento. Ensaios e revestimento.",
+        "reqs": [
+            [
+                {
+                    "code": "EM440"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM018",
+        "name": "Fundamentos da Oxidação e Corrosão dos Metais",
+        "credits": 2,
+        "syllabus": "Princípios de oxidação dos metais. Definição de processos corrosivos e células galvânicas. Mecanismo eletroquímico da corrosão. Classificação dos meios de corrosão. Corrosão eletroquímica dos metais. Ensaios de corrosão. Proteção contra corrosão.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM019",
+        "name": "Tecnologia dos Aços",
+        "credits": 2,
+        "syllabus": "O diagrama de fase FeC. Decomposição da austenita. Formação da ferrita, perlita, bainita e martensita. Curvas TTT. Tratamentos térmicos e termoquímicos. Influência dos elementos de liga de aços. Classificação e seleção dos aços.",
+        "reqs": [
+            [
+                {
+                    "code": "EM440"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM020",
+        "name": "Complementos de Resistência dos Materiais",
+        "credits": 4,
+        "syllabus": "Introdução à teoria da elasticidade. Equações de compatibilidade. Elasticidade plana. Problemas bidimensionais em coordenadas polares. Aplicações práticas. Introdução a métodos variacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM023",
+        "name": "Tópicos em Engenharia dos Materiais II",
+        "credits": 2,
+        "syllabus": "Abordagem específica de um assunto relacionado com engenharia e ciência dos materiais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM024",
+        "name": "Utilização e Programação da Robótica Industrial",
+        "credits": 2,
+        "syllabus": "Áreas de utilização de Robôs na Indústria. Classificação de sistemas robotizados com relação à sua utilização. Linguagens de Programação. Técnicas de Inteligência Artificial aplicadas à Robótica. Estudo de Casos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM335"
+                }
+            ],
+            [
+                {
+                    "code": "EM608"
+                }
+            ],
+            [
+                {
+                    "code": "MC102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM025",
+        "name": "Métodos Computacionais de Mecânica dos Fluidos",
+        "credits": 2,
+        "syllabus": "Solução Numérica de Problemas de Valor Inicial e de Contorno. Solução Numérica de Equações Diferenciais Parciais Elípticas e Hiperbólicas. Métodos Explícito e Implícito para Solução de Equações Diferenciais Parciais Parabólicas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM561"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM026",
+        "name": "Métodos Computacionais de Engenharia Térmica",
+        "credits": 2,
+        "syllabus": "Tratamento de Dados em Tabelas e Gráficos. Ajustes de Curvas. Resolução de Sistemas de Equações Algébricas. Resolução de Equações Diferenciais Ordinárias e Parciais. Integração Numérica. Aplicação a Problemas de Engenharia Térmica.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM027",
+        "name": "Escoamento de Fluidos Compressíveis",
+        "credits": 2,
+        "syllabus": "Formulação Básica do Escoamento Unidimensional. Variação da Área da Seção de Escoamento. Onda de Choque. Escoamento Adiabático com Atrito em Dutos. Escoamento em Dutos com Troca de Calor. Escoamento com Injeção de Massa. Formulação para Escoamento Generalizado.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "EM561"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM028",
+        "name": "Ventilação Industrial e Ar Comprimido",
+        "credits": 2,
+        "syllabus": "Princípios da Ventilação e da Toxicologia. Ventilação para Diluição, Controle Térmico e por Exaustão. Ventilação Natural. Componentes de Sistemas de Ventilação. Ar Comprimido: Princípios, Usos, Componentes. Especificação do Sistema.",
+        "reqs": [
+            [
+                {
+                    "code": "EM672"
+                }
+            ],
+            [
+                {
+                    "code": "EM984"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM029",
+        "name": "Tubulações Industriais",
+        "credits": 2,
+        "syllabus": "Tubos: Materiais, Processos de Fabricação, Normas. Válvulas e Acessórios de Tubulações. Projeto de Instalações Industriais. Montagem e Testes. Introdução à Flexibilidade de Tubulações.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM030",
+        "name": "Tecnologia da Combustão",
+        "credits": 2,
+        "syllabus": "Combustíveis e Combustão. Estabilidade de Chama. Câmaras de Combustão. Queimadores. Aerodinâmica da Chama. Experiências em Laboratório.",
+        "reqs": [
+            [
+                {
+                    "code": "EM570"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM034",
+        "name": "Transferência de Calor Industrial",
+        "credits": 2,
+        "syllabus": "Classificação dos Trocadores de Calor. Coeficiente Global de Transferência de Calor e Diferença Média de Temperatura entre os Fluidos. Efetividade de um Trocador de Calor. Especificação, Verificação e Projeto de um Trocador. Projeto Termohidráulico de Trocadores de Calor Casco e Tubo, sem Mudança de Fase. Trocadores com Superfícies Estendidas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM035",
+        "name": "Metrologia Industrial",
+        "credits": 2,
+        "syllabus": "Novas técnicas: Conceitos; Níveis de normalização; O sistema brasileiro de normalização; Estrutura das normas técnicas; ABNT. A importância da metrologia. Relação com normas técnicas. Terminologia Normalizada sobre Medição; Desvios; Erros; Respectividade; etc. (VIM). Consideração sobre Erros de Medição; Calibração; Incertezas; Resultado de uma Medição. Considerações sobre a Avaliação de Sistemas de Medição. Rastreabilidade. A Rede Brasileira de Calibração. Credenciamento de Laboratórios.",
+        "reqs": [
+            [
+                {
+                    "code": "EM102"
+                },
+                {
+                    "code": "EM335"
+                }
+            ],
+            [
+                {
+                    "code": "EM104"
+                },
+                {
+                    "code": "ES235"
+                }
+            ],
+            [
+                {
+                    "code": "EM104"
+                },
+                {
+                    "code": "EM335"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM037",
+        "name": "Sistemas de Energia Solar",
+        "credits": 2,
+        "syllabus": "Disponibilidade de energia solar. Análise de coletores solares. Armazenamento térmico de energia solar. Sistemas de energia solar. Aplicações especiais.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM039",
+        "name": "Métodos Computacionais em Transferência de Calor",
+        "credits": 2,
+        "syllabus": "Troca de Calor por Radiação. Condução Unidimensional. Condução Bidimensional. Condução em Regime Transiente. Convecção Laminar. Métodos Integrais para convecção. Métodos Empíricos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM044",
+        "name": "Fontes de Energia",
+        "credits": 2,
+        "syllabus": "Recursos minerais energéticos e fontes renováveis de energia. Histórico da produção e consumo de energia no Brasil e no mundo. Influência dos fatores tecnológicos, econômicos, políticos, sociais e ecológicos nos seguintes sistemas energéticos: petróleo, carvão mineral, gás natural, energia nuclear, energia hidráulica, biomassa, energia solar, energia eólica e outros. Avaliação crítica do suprimento de energia no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "EM672"
+                }
+            ],
+            [
+                {
+                    "code": "EM884"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM048",
+        "name": "Gerência Energética em Processos Industriais",
+        "credits": 4,
+        "syllabus": "Uso Racional de Energia: Conceitos e Princípios da Conservação e da Substituição. Análise de Processos Industriais Energo-Intensivos e Caracterização do Uso de Energia. Instrumentos de Análise, Diagnóstico e Auditoria. Princípios da Gestão do Uso de Energia. Otimização Energética em Sistemas Industriais. Aspectos Ambientais da Gestão do Uso de Energia: Subprodutos, Resíduos, Efluentes e Reciclagens.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                },
+                {
+                    "code": "EM672"
+                }
+            ],
+            [
+                {
+                    "code": "EM670"
+                },
+                {
+                    "code": "EM884"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM049",
+        "name": "Introdução à Mecânica de Fratura e Fadiga",
+        "credits": 2,
+        "syllabus": "Trinca estacionária e carregamento estático. Balanço de energia e crescimento de trinca. Análise estática do início e do crescimento de trincas. Crescimento dinâmico de trincas. Fadiga.",
+        "reqs": [
+            [
+                {
+                    "code": "EM503"
+                },
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM050",
+        "name": "Processamento Digital de Sinais",
+        "credits": 3,
+        "syllabus": "Relações entre série e Transformada de Fourier, Transformada de Fourier Discreta e algoritmos da Transformada de Fourier Rápida. Processos estocásticos. Análise de correlação. Densidade espectral de potência: definição e métodos de obtenção. Periodograma e modelos Paramétricos. Relações entrada/saída de sistemas lineares. Filtros. Métodos de estimação da resposta ao impulso e resposta em frequência. Função de coerência.",
+        "reqs": [
+            [
+                {
+                    "code": "EA616"
+                },
+                {
+                    "code": "MA141"
+                },
+                {
+                    "code": "ME414"
+                }
+            ],
+            [
+                {
+                    "code": "EM707"
+                },
+                {
+                    "code": "MA141"
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM054",
+        "name": "Sistemas Digitais para Engenharia Mecânica",
+        "credits": 2,
+        "syllabus": "Sistemas de Aquisição de Dados. Sistemas de controle digital baseados em microprocessador. Controle digital de processos industriais. Controle de motores de passo e corrente contínua.",
+        "reqs": [
+            [
+                {
+                    "code": "EE530"
+                },
+                {
+                    "code": "EE531"
+                },
+                {
+                    "code": "EM707"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM056",
+        "name": "Introdução ao Cálculo Estrutural Matricial",
+        "credits": 2,
+        "syllabus": "Sistemas de Equações Lineares Esparsas. Equações Básicas da Elasticidade, Energia de Deformação. Teoremas de Energia Princípio dos Trabalhos Virtuais. Idealização Estrutural, Matriz de Rigidez de Elementos Reticulados. Método dos Deslocamentos, Formulação Matricial. Aspectos Computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM059",
+        "name": "Introdução à Robótica",
+        "credits": 2,
+        "syllabus": "Visão geral dos manipuladores. Descrição matemática de manipuladores. Sistemas de coordenadas em robótica. Modelamento da geometria de manipuladores. Modelamento inverso de manipuladores. Sistemas Realimentados para controle de manipuladores.",
+        "reqs": [
+            [
+                {
+                    "code": "EM504"
+                },
+                {
+                    "code": "EM707"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM097"
+        ]
+    },
+    {
+        "code": "EM062",
+        "name": "Instrumentação Dinâmica de Máquinas e Estruturas",
+        "credits": 4,
+        "syllabus": "Extensometria. Construção de Transdutores. Mecanismos de Excitação. Calibração de Transdutores. Erros.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                },
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM063",
+        "name": "Ensaios Dinâmicos de Máquinas e Estruturas",
+        "credits": 4,
+        "syllabus": "Normas Técnicas. Procedimento Experimental. Aquisição de Sinais. Dinâmica das Máquinas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM064",
+        "name": "Manutenção Preditiva de Máquinas",
+        "credits": 4,
+        "syllabus": "Conceitos Básicos. Análise de Falhas. Banco de Dados. Níveis de Alarme. Diagnose.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM065",
+        "name": "Modelamento de Máquinas e Estruturas",
+        "credits": 4,
+        "syllabus": "Modelamentos Matemáticos Discretos e Contínuos. Particularidades Físicas de Sistemas Mecânicos. Modelos Empíricos. Validação Experimental.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM066",
+        "name": "Poluição Industrial",
+        "credits": 2,
+        "syllabus": "Critérios de Qualidade do Ar e da Água. Fontes Poluentes e seus Efeitos. Disposição de Resíduos. Poluentes: Medição, Controle e Equipamentos. Legislação Específica.",
+        "reqs": [
+            [
+                {
+                    "code": "BE310"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM067",
+        "name": "Tópicos Equipamentos de Processos Fluidomecânicos e Térmicos",
+        "credits": 2,
+        "syllabus": "Abordagem mais ampla ou aprofundada de tema da Área de Equipamentos e Processos Fluidomecânicos e Térmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM068",
+        "name": "Projetos e Equipamentos de Processos Fluidomecânicos e Térmicos",
+        "credits": 4,
+        "syllabus": "Análise, Projeto e/ou Construção de um exemplo de equipamento ou processo fluidomecânico ou térmico, desenvolvido sob orientação de um professor do Departamento de Engenharia Térmica e de Fluidos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM069",
+        "name": "Mecânica dos Fluidos Aplicada",
+        "credits": 2,
+        "syllabus": "Teoria Hidrodinâmica de Lubrificação e sua Aplicação. Transientes de Pressão em Sistemas: Tratamento Numérico. Teoria e Dimensionamento de Ejetores de Gás e Vapor.",
+        "reqs": [
+            [
+                {
+                    "code": "EM561"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM071",
+        "name": "Estruturas Metálicas para Engenharia Mecânica",
+        "credits": 4,
+        "syllabus": "Tipos usuais e especiais de estruturas metálicas: Características e aplicações. Dimensionamento de sistemas estruturais e seus componentes.",
+        "reqs": [
+            [
+                {
+                    "code": "EM823"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM072",
+        "name": "Ferramentas e Dispositivos",
+        "credits": 2,
+        "syllabus": "Padronização de Ferramental. Normalização ISO-ABNT. Projeto de Dispositivos de Fixação e Localização. Simbologia.",
+        "reqs": [
+            [
+                {
+                    "code": "EM733"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM073",
+        "name": "Tratamento e Análise de Dados Experimentais",
+        "credits": 4,
+        "syllabus": "Introdução ao tratamento e análise de dados experimentais. Análise espectral. Relações entrada-saída em sistemas físicos. Introdução à identificação de sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "ME203",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM074",
+        "name": "Confiabilidade",
+        "credits": 2,
+        "syllabus": "Fundamentos básicos. Confiabilidade de sistemas. Modelos Paramétricos e não paramétricos. Qualificação de amostras. Ensaios e testes de qualificação.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM075",
+        "name": "Seleção, Especificação e Utilização de Máquinas Elétricas",
+        "credits": 4,
+        "syllabus": "Introdução, conceitos básicos. Máquinas de corrente contínua campo série, independente e paralelo, características e aplicações. Máquinas de corrente alternada: Tipos construtivos, valores característicos, escolha e especificações. Instalação, manutenção e proteções.",
+        "reqs": [
+            [
+                {
+                    "code": "ET016"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM076",
+        "name": "Fluidoautomática",
+        "credits": 2,
+        "syllabus": "Introdução ao projeto de circuitos de potência fluida. Projeto de circuitos lógicos básicos. Sistema de malha fechada.",
+        "reqs": [
+            [
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "EM608"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM077",
+        "name": "Tópicos em Engenharia dos Materiais I",
+        "credits": 2,
+        "syllabus": "Abordagem específica de um assunto relacionado com engenharia e ciência dos materiais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM078",
+        "name": "Análise Computacional de Redes de Condutos",
+        "credits": 2,
+        "syllabus": "Avaliação computacional de perda de carga em condutos. Métodos computacionais de solução de redes de condutos. Utilização e desenvolvimento de programas computacionais pertinentes.",
+        "reqs": [
+            [
+                {
+                    "code": "EM460"
+                },
+                {
+                    "code": "EM670"
+                }
+            ],
+            [
+                {
+                    "code": "EM672"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM079",
+        "name": "Turbinas Térmicas",
+        "credits": 2,
+        "syllabus": "Turbinas a vapor. Turbinas a gás. Aplicações de ciclo combinado. Cogeração com turbinas térmicas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM884"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM080",
+        "name": "Transferência de Calor com Mudança de Fase",
+        "credits": 2,
+        "syllabus": "Análise quantitativa dos mecanismos de condensação. Análise quantitativa da ebulição em convecção forçada. Análise de problemas de solidificação e fusão.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM082",
+        "name": "Transferência de Massa",
+        "credits": 2,
+        "syllabus": "Análise quantitativa da difusão binária. Transferência de massa entre fases. Difusão binária em convecção forçada.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM083",
+        "name": "Introdução à Mecânica Analítica",
+        "credits": 2,
+        "syllabus": "Fundamentos Cinemáticos. Sistemas Holonômicos e Não Holonômicos. Coordenadas Generalizadas. Fundamentos Cinéticos. Princípios do Trabalho Virtual de Hamilton. Equações de Lagrange. Equações em Variáveis de Estado. Solução das Equações e Critérios de Estabilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "EM404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM086",
+        "name": "Projeto de Equipamentos de Processos Fluidomecânicos e Térmicos",
+        "credits": 4,
+        "syllabus": "Análise, Projeto e/ou Construção de um exemplo de equipamento ou processo fluidomecânico ou térmico, desenvolvido sob orientação de um professor do Departamento de Engenharia Térmica e de Fluidos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM087",
+        "name": "Demanda de Energia",
+        "credits": 2,
+        "syllabus": "Demanda e Utilização de Energia. Conceituação e caracterização dos fatores condicionantes. Fluxos de energia e estruturas de consumo. Gestão e Políticas Energéticas. Planejamento energético.",
+        "reqs": [
+            [
+                {
+                    "code": "EM672"
+                }
+            ],
+            [
+                {
+                    "code": "EM884"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM088",
+        "name": "Tecnologia dos Metais Não Ferrosos",
+        "credits": 2,
+        "syllabus": "Classificação e características dos principais metais não ferrosos e suas ligas. Elaboração dos metais primários e secundários e das ligas metálicas. Fundição e transformação mecânica. Tratamentos térmicos e superficiais. Processos de fabricação. Propriedades e aplicações. Projeto de peça de construção mecânica em metais não ferrosos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM089",
+        "name": "Introdução Mecânica e Mecanismos de Fratura",
+        "credits": 2,
+        "syllabus": "Importância da Mecânica de Fratura dentro do contexto da Engenharia. Mecanismos de fratura. Controle de fratura através da temperatura de transição. Elementos da Mecânica de Fratura. Influência de variáveis microestruturais na tenacidade à fratura. Noções de corrosão, subtensão e propagação de trincas por fadiga.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM090",
+        "name": "Introdução à Engenharia de Petróleo",
+        "credits": 2,
+        "syllabus": "Noções básicas de geologia do petróleo, exploração, perfuração, produção e refino do petróleo."
+    },
+    {
+        "code": "EM092",
+        "name": "Introdução à Elasticidade Linear",
+        "credits": 2,
+        "syllabus": "Pré-requisitos matemáticos. Álgebra sensorial. Estado de tensão e equilíbrio. Análise da deformação. Equações constitutivas. Estratégias de solução. Aplicações. Alongamento, flexão, torção. Princípios de energia. Elasticidade bidimensional.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM093",
+        "name": "Tópicos em Engenharia",
+        "credits": 4,
+        "syllabus": "Abordagem mais ampla ou profunda de um assunto particular de Engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM095",
+        "name": "Estimação de Parâmetros e Otimização",
+        "credits": 2,
+        "syllabus": "Revisão de probabilidades. Introdução à Estatística. Métodos de estimação de parâmetros. Funções convexas e côncavas. Métodos de busca em otimização sem restrições. Otimização com restrições. Introdução à programação dinâmica.",
+        "reqs": [
+            [
+                {
+                    "code": "MA141"
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM097",
+        "name": "Tópicos em Robótica",
+        "credits": 2,
+        "syllabus": "Dinâmica do braço de um manipulador. Planejamento de Trajetórias. Controle de Manipuladores. Visão de baixo nível. Visão de alto nível. Inteligência robótica. Planejamento de tarefas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM059"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM098",
+        "name": "Tópicos em Controle de Sistemas",
+        "credits": 2,
+        "syllabus": "Modelamento de sistemas dinâmicos. Modelos Discretos e Contínuos. Sistemas de Controle com Realimentação. Métodos Matriciais para Análise de Sistemas Dinâmicos. Métodos Matriciais para o Projeto e Controle de Sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM707"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM099",
+        "name": "Introdução à Dinâmica de Fundações",
+        "credits": 2,
+        "syllabus": "Vibrações de Sistemas Elementares. Propagação de Ondas em Meios Contínuos Elásticos e Viscoelásticos. Soluções Teóricas para Problemas de Vibração de Fundações. Fundações Rasas. Fundações Profundamente Engastadas no Solo. Estacas. Interação Dinâmica entre Fundações. Determinação das Propriedades Dinâmicas dos Solos. Critérios de Projeto para Fundações Submetidas a Carregamento Dinâmico.",
+        "reqs": [
+            [
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM101",
+        "name": "Introdução à Engenharia Mecânica",
+        "credits": 1,
+        "syllabus": "Noções gerais sobre Ciência e Tecnologia. Fundamentos Metodológicos de Engenharia. Origem e Evolução da Engenharia Mecânica. A Engenharia Mecânica Brasileira. A Faculdade de Engenharia Mecânica da Unicamp. Atribuições Profissionais e Perspectivas do Mercado de Trabalho."
+    },
+    {
+        "code": "EM102",
+        "name": "Desenho Técnico",
+        "credits": 4,
+        "syllabus": "Instrumentação, normas, convenções e padronização. Fase do desenho (croquís, desenho preliminar). Cotagem. Perspectivas. Sistemas de projeções. Vistas principais parciais e auxiliares. Cortes e seções. Indicações de tolerância e ajustes. Desenhos de elementos de máquinas. Elementos de união (soldas, parafusos, rebites). Conjunto montado.",
+        "reqBy": [
+            "EM035",
+            "EM200",
+            "EM335",
+            "EM503"
+        ]
+    },
+    {
+        "code": "EM103",
+        "name": "Metodologia de Pesquisa e Redação Científica",
+        "credits": 2,
+        "syllabus": "Condução de revisão bibliográfica. Estruturas de trabalhos, relatórios, dissertações e teses. Normas de orientação bibliográfica e normas de apresentação de trabalhos. Estrutura e orientação para a formulação de artigos e resumo.",
+        "reqBy": [
+            "EM105",
+            "EM914"
+        ]
+    },
+    {
+        "code": "EM104",
+        "name": "Desenho Técnico Assistido por Computador",
+        "credits": 4,
+        "syllabus": "Instrumentação e normas. Sistemas de projeções e perspectivas. Convenções e construções geométricas. Métodos descritivos. Rebatimento. Correspondência homológica. Operação inversa ao rebatimento. Mudança de planos. Introdução a um programa computacional de desenho. Desenho de elementos de máquinas. Desenho de máquinas. Desenho de conjunto. Detalhamento de conjunto.",
+        "reqBy": [
+            "EM035",
+            "EM035",
+            "EM335",
+            "EM907",
+            "EM921",
+            "ES235"
+        ]
+    },
+    {
+        "code": "EM105",
+        "name": "Introdução ao Trabalho de Conclusão de Curso",
+        "credits": 2,
+        "syllabus": "Trabalho de caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas do curso de Engenharia Mecânica em preparação ao Trabalho de Conclusão de Curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA465",
+                    "special": true
+                },
+                {
+                    "code": "EM103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM106"
+        ]
+    },
+    {
+        "code": "EM106",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 4,
+        "syllabus": "Trabalho de caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas do curso de Engenharia Mecânica. A monografia padronizada será analisada por uma banca contendo ao menos dois avaliadores além do orientador.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "EM914"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "EM105"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM110",
+        "name": "Introdução à Engenharia Mecânica",
+        "credits": 2,
+        "syllabus": "Noções gerais sobre ciência e tecnologia. Fundamentos metodológicos de engenharia. Origem e evolução da engenharia mecânica. A engenharia mecânica brasileira. A Faculdade de Engenharia Mecânica da Unicamp. Atribuições profissionais e perspectiva do mercado do trabalho."
+    },
+    {
+        "code": "EM113",
+        "name": "Metodologia de Pesquisa e Redação Científica",
+        "credits": 3,
+        "syllabus": "Condução e revisão bibliográfica. Estrutura de trabalhos, relatórios, dissertações e teses. Normas e orientações bibliográficas e normas de apresentação de trabalhos. Estrutura e orientação para a formulação de artigos e resumos."
+    },
+    {
+        "code": "EM200",
+        "name": "Desenho Assistido por Computador",
+        "credits": 2,
+        "syllabus": "Introdução a um programa computacional de desenho. Desenhos de elementos de máquinas (sistemas de transmissão, mancais, conexões, etc.). Desenhos de conjunto. Detalhamento de conjunto.",
+        "reqs": [
+            [
+                {
+                    "code": "EM102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM790",
+            "EM907",
+            "EM909",
+            "EM921"
+        ]
+    },
+    {
+        "code": "EM201",
+        "name": "Engenharia Experimental",
+        "credits": 2,
+        "syllabus": "Atividades experimentais em laboratórios de ensino ou pesquisa sob orientação de um professor; atividades extracurriculares como mini-baja, aerodesign, desafio de robos e outras atividades de grupos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM202",
+        "name": "História da Mecânica",
+        "credits": 2,
+        "syllabus": "A evolução dos conceitos das ciências mecânicas, químicas e elétricas é apresentada em perspectiva histórica, segundo uma abordagem tanto quanto possível factual. O objetivo é mostrar aos alunos como se chegou a determinados conceitos-chave em mecânica. As aulas dar-se-ão na forma de palestras, seminários e audiovisuais. Será incentivada a reprodução de pequenos experimentos/máquinas por parte dos alunos."
+    },
+    {
+        "code": "EM203",
+        "name": "Análise Modal de Estruturas",
+        "credits": 4,
+        "syllabus": "Formulação modal. Sistemas com amortecimento estrutural e viscoso. Funções de resposta em frequência (FRF). Introdução à análise de sinais em tempo discreto. Transformada de Fourier discreta. Densidade espectral. Estimadores da FRF. Métodos de estimação de parâmetros nos domínios do tempo e da frequência. Comparação de resultados da análise modal teórica e experimental. MAC. Introdução ao ajuste de modelos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM230",
+        "name": "Oficinas em Instalações Elétricas",
+        "credits": 4,
+        "syllabus": "Tecnologia básica. Operações básicas de instalações elétricas residencial e industrial, de enrolamento de motor monofásico. Ligações de comandos elétricos automáticos.\nObs.: Realizado nas Oficinas da Escola SENAI \"Roberto Mange\", na Rua Pastor Cícero Canuto de Lima, nº71 - São Bernardo - Campinas - SP."
+    },
+    {
+        "code": "EM240",
+        "name": "Estrutura e Propriedades dos Materiais",
+        "credits": 4,
+        "syllabus": "Estrutura e defeitos cristalinos. Difusão atômica. Soluções sólidas. Nucleação e Crescimento de fases. Diagramas de fase. Recuperação, recristalização e crescimento de grãos. Solubilização e Precipitação.",
+        "reqs": [
+            [
+                {
+                    "code": "QG111"
+                },
+                {
+                    "code": "QG122"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM013",
+            "EM014",
+            "EM015",
+            "EM016",
+            "EM018",
+            "EM088",
+            "EM089",
+            "EM638",
+            "EM641",
+            "EM665",
+            "EM730",
+            "EM731",
+            "EM734",
+            "EM737",
+            "EM738",
+            "EM739",
+            "EM741",
+            "EM743",
+            "EM833",
+            "EM930"
+        ]
+    },
+    {
+        "code": "EM306",
+        "name": "Estática",
+        "credits": 4,
+        "syllabus": "Sistemas de forças aplicadas equivalentes. Equilíbrio de um corpo rígido. Equilíbrio de corpos rígidos interligados. Treliças planas e espaciais. Baricentro e carregamento distribuído. Esforços internos em elementos estruturais. Diagrama dos esforços solicitantes. Momento de inércia de figuras planas. Atrito",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "MA141"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM404",
+            "EM406",
+            "FA470"
+        ]
+    },
+    {
+        "code": "EM312",
+        "name": "Desenho Técnico",
+        "credits": 4,
+        "syllabus": "Instrumentação e normas. Teoria das projeções: Monjeanas, cotadas. Axonometria e perspectiva. Construções geométricas. Ajustes e tolerâncias. Desenho de elementos básicos de máquinas. Métodos de composição e de reprodução de desenhos.",
+        "reqBy": [
+            "EM335"
+        ]
+    },
+    {
+        "code": "EM330",
+        "name": "Oficinas I",
+        "credits": 4,
+        "syllabus": "Medidas lineares com instrumentos de medida direta e indireta. Noções de tolerância ISO. Traçagem de peças, trabalhos de bancada. Operações básicas com máquinas operatrizes, furadeira, plaina limadora, torno mecânico horizontal e fresadora.\nObs.: Realizado nas oficinas da Escola SENAI \"Roberto Mange\", na Rua Pastor Cícero Canuto de Lima, 71 - São Bernardo - Campinas - SP.",
+        "reqBy": [
+            "EM430",
+            "EM907",
+            "EM907"
+        ]
+    },
+    {
+        "code": "EM335",
+        "name": "Tecnologia Mecânica",
+        "credits": 4,
+        "syllabus": "Normalização. Tolerâncias dimensionais e geométricas. Cadeia de Dimensões. Rugosidade. Metrologia industrial. Princípios de Processos de Fabricação. Planejamento do processo e Sobrematerial. Noções de Controle Estatístico de Processo.",
+        "reqs": [
+            [
+                {
+                    "code": "EM102"
+                }
+            ],
+            [
+                {
+                    "code": "EM104"
+                }
+            ],
+            [
+                {
+                    "code": "EM312"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM008",
+            "EM024",
+            "EM035",
+            "EM035",
+            "EM535",
+            "EM730",
+            "EM733",
+            "EM831",
+            "EM880",
+            "EM928",
+            "EM949"
+        ]
+    },
+    {
+        "code": "EM360",
+        "name": "Termodinâmica I",
+        "credits": 4,
+        "syllabus": "Conceitos introdutórios e definições. Energia e Primeira Lei da Termodinâmica. Propriedades de uma substância pura. Balanço de energia em volume de controle. Segunda Lei da Termodinâmica. Entropia. Noções de ciclos motores e refrigeração.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM027",
+            "EM460",
+            "EM570",
+            "EM611",
+            "EM672",
+            "EM802",
+            "EM805",
+            "EM927",
+            "EM967",
+            "EM972",
+            "ES570",
+            "ES724"
+        ]
+    },
+    {
+        "code": "EM404",
+        "name": "Dinâmica",
+        "credits": 4,
+        "syllabus": "Estudo vetorial de curvas. Cinemática da partícula. Movimento relativo. Cinemática dos corpos rígidos nos movimentos plano e espacial. Princípios básicos da dinâmica: Leis de Newton, conservação dos momentos linear a angular e conservação de energia. Impacto e atrito. Cinética da partícula. Cinética dos sistemas de partículas. Cinética dos corpos rígidos nos movimentos plano e espacial.",
+        "reqs": [
+            [
+                {
+                    "code": "EM306"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM083",
+            "EM504",
+            "EM607",
+            "EM806",
+            "EM806",
+            "EM852",
+            "EM866",
+            "EM925",
+            "ES595"
+        ]
+    },
+    {
+        "code": "EM406",
+        "name": "Resistência dos Materiais I",
+        "credits": 4,
+        "syllabus": "Introdução a mecânica dos sólidos. Esforços solicitantes e Equações diferenciais de equilíbrio. Análise de Tensão. Análise de Deformação. Leis constitutivas. Modelos de barra, torção de eixos de seção circular e flexão de vigas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM306"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM010",
+            "EM503",
+            "EM506",
+            "EM605",
+            "EM609",
+            "EM638",
+            "EM638",
+            "EM805",
+            "FA576"
+        ]
+    },
+    {
+        "code": "EM423",
+        "name": "Resistência dos Materiais",
+        "credits": 3,
+        "syllabus": "Noções sobre o material. Conceituação de tensões, solicitação axial. Cisalhamento puro. Torção em eixos circulares. Flexão pura, simples e oblíqua. Deflexão em vigas retas. Estado triplo de tensões e deformações. Círculo de Mohr. Cisalhamento puro. Estado hidrostático de tensões.",
+        "reqs": [
+            [
+                {
+                    "code": "F 313",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "F 315",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM430",
+        "name": "Oficinas II",
+        "credits": 4,
+        "syllabus": "Tecnologia básica. Operações básicas de instalações elétricas residencial e industrial, de enrolamento de motor monofásico, Ligações de comandos elétricos automáticos.\nObs.: Realizado nas oficinas da Escola SENAI \"Roberto Mange\", na Rua Pastor Cícero Canuto de Lima, 71 - São Bernardo - Campinas - SP.",
+        "reqs": [
+            [
+                {
+                    "code": "EM330"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM440",
+        "name": "Transformações de Fase dos Materiais",
+        "credits": 2,
+        "syllabus": "Nucleação e crescimento de fases. Recuperação, recristalização e crescimento de grãos. Solubilização e precipitação. Ligas ferro-carbono. Tratamentos térmicos e termoquímicos das ligas ferro-carbono. Oxidação e corrosão de metais.",
+        "reqs": [
+            [
+                {
+                    "code": "QG111"
+                },
+                {
+                    "code": "QG122"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM017",
+            "EM019",
+            "EM736"
+        ]
+    },
+    {
+        "code": "EM460",
+        "name": "Termodinâmica II",
+        "credits": 4,
+        "syllabus": "Análise exergética. Ciclos motores a vapor. Ciclos padrão-ar. Ciclos de refrigeração e frigoríficos; bomba de calor. Propriedade de misturas. Pscicrometria. Reações químicas e combustão. Princípios de equilíbrio químico. Relações de Maxwell e propriedades termodinâmicas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM078",
+            "EM822",
+            "EM865",
+            "EM873",
+            "EM873",
+            "EM884",
+            "EM917",
+            "EM967",
+            "EM984"
+        ]
+    },
+    {
+        "code": "EM461",
+        "name": "Mecânica dos Fluidos I",
+        "credits": 4,
+        "syllabus": "Introdução e conceitos fundamentais. Lei básica da estática dos fluidos. Leis básicas na forma integral para volume de controle e o Teorema de Transporte de Reynolds. Análise dimensional e semelhança. Escoamento viscoso incompressível interno: perda de carga. Escoamento viscoso incompressível externo: arrasto e sustentação. Máquinas de Fluxo.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM076",
+            "EM503",
+            "EM561",
+            "EM605",
+            "EM609",
+            "EM611",
+            "EM612",
+            "EM672",
+            "EM703",
+            "EM803",
+            "EM805",
+            "EM861",
+            "EM863",
+            "EM863",
+            "EM865",
+            "EM884",
+            "EM917",
+            "EM927",
+            "EM967",
+            "EM967",
+            "EM976",
+            "EM976",
+            "EM984",
+            "ES672",
+            "ES672"
+        ]
+    },
+    {
+        "code": "EM503",
+        "name": "Introdução aos Métodos Numéricos Aplicados à Engenharia",
+        "credits": 4,
+        "syllabus": "Introdução aos métodos das diferenças finitas, dos volumes finitos e dos elementos finitos. Uso de aplicativos computacionais na solução de problemas de engenharia mecânica.",
+        "reqs": [
+            [
+                {
+                    "code": "EM102"
+                },
+                {
+                    "code": "EM406"
+                },
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM049",
+            "EM790",
+            "EM885",
+            "EM974",
+            "EM987"
+        ]
+    },
+    {
+        "code": "EM504",
+        "name": "Mecanismos e Dinâmica das Máquinas",
+        "credits": 4,
+        "syllabus": "Graus de liberdade, características e terminologia dos mecanismos articulados planares. Cinemática do engrenamento. Introdução aos camos. Modelagem cinemática e dinâmica por coordenadas generalizadas, Eksergian e introdução aos métodos de energia por Lagrange. Esforços internos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM059",
+            "EM608"
+        ]
+    },
+    {
+        "code": "EM506",
+        "name": "Resistência dos Materiais II",
+        "credits": 4,
+        "syllabus": "Tensões de cisalhamento em vigas. Vigas de material composto. Estado de tensão e deformação. Tensões e deformações principais. Carregamentos combinados. Critérios de resistência. Métodos de energia. Flambagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EM406"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM011",
+            "EM020",
+            "EM056",
+            "EM062",
+            "EM092",
+            "EM608",
+            "EM823",
+            "EM827",
+            "EM863",
+            "EM867",
+            "EM920",
+            "ES690",
+            "ES891",
+            "FA115",
+            "FA670",
+            "FA682",
+            "FA781"
+        ]
+    },
+    {
+        "code": "EM513",
+        "name": "Circuitos Elétricos para Engenharia Mecânica",
+        "credits": 4,
+        "syllabus": "Elementos e leis de circuitos. Equacionamento e soluções de circuitos por métodos algébricos e matriciais. Equacionamento de circuitos dinâmicos. Circuitos monofásicos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM524",
+        "name": "Fenômenos de Transporte",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais. Primeira e segunda leis da termodinâmica. Equações gerais da cinemática e dinâmica dos fluidos. Equações básicas de transferência de calor e massa.",
+        "reqs": [
+            [
+                {
+                    "code": "F 228",
+                    "partial": true
+                },
+                {
+                    "code": "F 229",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM535",
+        "name": "Usinagem dos Materiais",
+        "credits": 4,
+        "syllabus": "Normas de usinagem. Mecanismos de formação de cavaco. Forças e potência de corte. Materiais de ferramentas. Desgaste, avarias e vida de ferramentas. Análise das condições econômicas de usinagem. Usinabilidade. Furação. Fresamento. Retificação.",
+        "reqs": [
+            [
+                {
+                    "code": "EM335"
+                }
+            ],
+            [
+                {
+                    "code": "ES235"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM635",
+            "EM836",
+            "EM921",
+            "EM921",
+            "EM928",
+            "EM932",
+            "ES825"
+        ]
+    },
+    {
+        "code": "EM561",
+        "name": "Mecânica dos Fluidos II",
+        "credits": 4,
+        "syllabus": "Forças estáticas exercidas por fluidos sobre superfícies. Conceitos cinemáticos. Introdução à analise diferencial dos escoamentos. Equações de Navier-Stokes. Escoamento incompressível de fluidos não viscosos. Noções de escoamentos em canais abertos. Camada-limite. Introdução ao escoamento compressível. ",
+        "reqs": [
+            [
+                {
+                    "code": "EM461"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM025",
+            "EM027",
+            "EM069",
+            "EM670",
+            "EM783",
+            "EM886"
+        ]
+    },
+    {
+        "code": "EM570",
+        "name": "Transferência de Calor I",
+        "credits": 4,
+        "syllabus": "Introdução à Transferência de Calor.  Condução Unidimensional em Regime Permanente. Condução Bidimensional em Regime Permanente. Condução em regime Transitório: soluções analíticas das formulações concentrada e distribuída e método de solução numérica. Transferência de massa por difusão. Conceitos fundamentais da radiação térmica. Radiação de Superfícies negras e de superfícies opacas difusas e cinzentas. Fator de forma e troca de calor entre superfícies negras e entre superfícies opacas, difusa e cinzentas. Radiação combinada com outros mecanismos de troca de calor e em meios participantes.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "MA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM030",
+            "EM670",
+            "EM703",
+            "EM783",
+            "EM886",
+            "EM976",
+            "EM978",
+            "ES672"
+        ]
+    },
+    {
+        "code": "EM590",
+        "name": "Vibrações de Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Estudo das vibrações mecânicas. Sistemas lineares de um grau de liberdade. Vibrações livres e forçadas. Transformada de Laplace. Transmissibilidade e isolação de vibrações. Sistemas lineares discretos. Frequência natural e modos próprios. Absorvedores de vibração. Introdução aos ensaios dinâmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM402",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM707",
+            "ES621"
+        ]
+    },
+    {
+        "code": "EM605",
+        "name": "Engenharia de Completação",
+        "credits": 2,
+        "syllabus": "Projeto da completação de um poço petrolífero. Equipamentos de completação. Restauração e estimulação de poços.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM406"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM607",
+        "name": "Vibrações de Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Estudo das vibrações mecânicas. Sistemas lineares de um grau de liberdade. Vibrações livres e forçadas. Transformada de Laplace. Transmissibilidade e isolação de vibrações. Sistemas lineares discretos. Frequência natural e modos próprios. Absorvedores de vibração. Introdução aos ensaios dinâmicos. ",
+        "reqs": [
+            [
+                {
+                    "code": "EM404"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM009",
+            "EM010",
+            "EM049",
+            "EM062",
+            "EM063",
+            "EM064",
+            "EM065",
+            "EM099",
+            "EM703",
+            "EM703",
+            "EM707",
+            "EM863",
+            "EM864",
+            "EM867",
+            "EM910",
+            "EM924",
+            "EM950",
+            "ES621",
+            "ES710"
+        ]
+    },
+    {
+        "code": "EM608",
+        "name": "Elementos de Máquinas",
+        "credits": 4,
+        "syllabus": "Dimensionamento de componentes mecânicos à fadiga, fadiga superficial e fratura. Eixos, mancais, engrenagens, molas, junções, embreagens e freios, transmissões flexíveis.",
+        "reqs": [
+            [
+                {
+                    "code": "EM504",
+                    "partial": true
+                },
+                {
+                    "code": "EM506"
+                },
+                {
+                    "code": "EM638"
+                },
+                {
+                    "code": "EM909",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM008",
+            "EM024",
+            "EM076",
+            "EM790",
+            "EM806",
+            "EM905",
+            "EM910",
+            "EM915",
+            "EM926",
+            "EM971"
+        ]
+    },
+    {
+        "code": "EM609",
+        "name": "Engenharia de Perfuração",
+        "credits": 4,
+        "syllabus": "Introdução às técnicas e equipamentos de perfuração de poços petrolíferos. Considerações sobre a segurança das operações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM406"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM610",
+        "name": "Engenharia de Operações Marítimas",
+        "credits": 4,
+        "syllabus": "Tipos de plataformas marítimas. Noções de oceanografia. Sistemas oceânicos e sistemas para perfuração de petróleo no mar. Comportamento e critérios de operabilidade de sistemas flutuantes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM611",
+        "name": "Engenharia de Produção Petrolífera",
+        "credits": 4,
+        "syllabus": "Estudos dos processos de produção de óleo e gás. Propriedades e comportamentos de fluídos de reservatório; hidrocarbonetos; Sistemas multicomponentes e multifásico. Equações de transporte de óleo e gás; escoamento compressível; escoamento bifásico. Elevação natural e artificial do petróleo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM612",
+        "name": "Engenharia de Reservatórios",
+        "credits": 4,
+        "syllabus": "Propriedades das rochas e fluidos de reservatórios. Noções de escoamento mono e bifásico em meios porosos. Mecanismos de produção de testes de formação. Noções de métodos de recuperação suplementar.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM635",
+        "name": "Laboratório de Processos de Fabricação I",
+        "credits": 1,
+        "syllabus": "Experiências de laboratório relativas a usinagem e metrologia.",
+        "reqs": [
+            [
+                {
+                    "code": "EM535"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM638",
+        "name": "Mecânica e Mecanismos da Fratura",
+        "credits": 2,
+        "syllabus": "Mecanismos de fratura e fadiga. Noções de mecânica da fratura. Fadiga de alto e baixo ciclo. Propagação da trinca por fadiga. Aplicação dos conceitos da mecânica de fratura e fadiga ao projeto estrutural.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                },
+                {
+                    "code": "EM406"
+                }
+            ],
+            [
+                {
+                    "code": "EM406"
+                },
+                {
+                    "code": "ES242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM608"
+        ]
+    },
+    {
+        "code": "EM641",
+        "name": "Ensaios dos Materiais",
+        "credits": 2,
+        "syllabus": "Propriedades mecânicas dos materiais. Normas e especificações de ensaios de materiais. Ensaios mecânicos estáticos e dinâmicos. Metalografia. Análise química. Ensaios não destrutivos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM740"
+        ]
+    },
+    {
+        "code": "EM665",
+        "name": "Processos Metalúrgicos de Fabricação",
+        "credits": 4,
+        "syllabus": "Introdução à Fundição. Solidificação de Metais e Ligas. Formação de Estruturas Fundidas. Fluxo de material e calor na fundição. Controle da Fusão. Ligas de Fundição. Processos de Fundição: Contínua; Molde Colapsável e Molde Permanente. Projeto de Fundição. Análise Econômica de Fundição. Princípios e Metalurgia da soldagem. Simbologia e normalização em soldagem. Equipamentos e processos de soldagem. Princípios de Metalurgia do Pó. Processos de Metalurgia do Pó e controle de Processos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM928"
+        ]
+    },
+    {
+        "code": "EM670",
+        "name": "Transferência de Calor II",
+        "credits": 4,
+        "syllabus": "Introdução à troca convectiva de calor e de massa e sua analogia; resfriamento evaporativo e analogia de Reynolds. Troca convectiva de calor e massa em escoamentos forçados externos e internos, nos regimes laminar e turbulento. Convecção natural em superfícies e em cavidades; convecção mista e transferência de massa por convecção natural. Troca de calor com mudança de fase: condensação e ebulição em vaso aberto e em convecção forçada. Trocadores de calor: coeficiente global de troca de calor, métodos DMLT e da efetividade, trocadores de calor compactos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM561"
+                },
+                {
+                    "code": "EM570"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM026",
+            "EM029",
+            "EM034",
+            "EM037",
+            "EM039",
+            "EM048",
+            "EM048",
+            "EM067",
+            "EM078",
+            "EM080",
+            "EM082",
+            "EM963"
+        ]
+    },
+    {
+        "code": "EM672",
+        "name": "Sistemas Fluidotérmicos I",
+        "credits": 4,
+        "syllabus": "Introdução a sistemas: de compressão; de distribuição de gases e líquidos; de ventilação; de condicionamento de ar; de refrigeração; aos motores de combustão interna; geração de potência e cogeração; geração, distribuição e utilização de vapor.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM028",
+            "EM044",
+            "EM048",
+            "EM078",
+            "EM087",
+            "EM860",
+            "EM873",
+            "EM883",
+            "EM975",
+            "EM976",
+            "ES724"
+        ]
+    },
+    {
+        "code": "EM700",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "Atividades de iniciação científica em laboratório de pesquisa, sob orientação de um professor, mediante a aprovação de plano de trabalho pela comissão de graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM800"
+        ]
+    },
+    {
+        "code": "EM703",
+        "name": "Instrumentação",
+        "credits": 4,
+        "syllabus": "Características estáticas e dinâmicas dos instrumentos e sensores. Análise de dados e incertezas experimentais. Medida e análise de deslocamento, velocidade, aceleração, força, torque, potência mecânica. Problemas na amplificação, transmissão e armazenamento de sinais. Medições de som. Medidas de pressão, vazão e tempreatura. Medidas de propriedades térmicas e de transporte. Introdução ao processamento de sinais, amostragem, filtros digitais, janelamento e espectro de frequência.",
+        "reqs": [
+            [
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "EM570"
+                },
+                {
+                    "code": "EM607"
+                }
+            ],
+            [
+                {
+                    "code": "EM607"
+                },
+                {
+                    "code": "ES506"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM203",
+            "EM807",
+            "EM883"
+        ]
+    },
+    {
+        "code": "EM707",
+        "name": "Controle de Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Conceitos fundamentais. Critérios de estabilidade. Resposta em frequência. Lugar das raízes. Ações de controle básicas. Noções de modelagem de estado. Aplicações em controle de sistemas mecânicos, hidráulicos e pneumáticos, usando PID/CLP.",
+        "reqs": [
+            [
+                {
+                    "code": "EM590"
+                }
+            ],
+            [
+                {
+                    "code": "EM607"
+                }
+            ],
+            [
+                {
+                    "code": "ES595"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EG821",
+            "EM050",
+            "EM054",
+            "EM059",
+            "EM098",
+            "EM807",
+            "EM862",
+            "EM868",
+            "ES626",
+            "ES827"
+        ]
+    },
+    {
+        "code": "EM730",
+        "name": "Conformação Mecânica",
+        "credits": 2,
+        "syllabus": "Classificação dos processos de conformação. Metalurgia e mecânica da conformação. Descrição de processos de conformação. Projetos de ferramentas de estampagem e forjamento.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                },
+                {
+                    "code": "EM335"
+                }
+            ],
+            [
+                {
+                    "code": "ES235"
+                },
+                {
+                    "code": "ES242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM834",
+            "EM908",
+            "EM928"
+        ]
+    },
+    {
+        "code": "EM731",
+        "name": "Processos Metalúrgicos de Fabricação",
+        "credits": 2,
+        "syllabus": "Princípios de metalurgia do princípio de solidificação. Tecnologia da fundição. Simbologia e normalização em soldagem. Equipamentos e processos de soldagem. Metalurgia da soldagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM742",
+            "EM834"
+        ]
+    },
+    {
+        "code": "EM733",
+        "name": "Sistemas Produtivos",
+        "credits": 4,
+        "syllabus": "Conceituação da manufatura. Tempos padrões. Classificação dos sistemas de manufatura. Tecnologia de grupo. Produtividade industrial. Planejamento e controle da produção. Teoria das Restrições. MRP I e II. Arranjo físico. Sistema Toyota de Produção.",
+        "reqs": [
+            [
+                {
+                    "code": "EM335"
+                }
+            ],
+            [
+                {
+                    "code": "ES365"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM003",
+            "EM004",
+            "EM006",
+            "EM007",
+            "EM072",
+            "EM928",
+            "ES826"
+        ]
+    },
+    {
+        "code": "EM734",
+        "name": "Processamento de Polímeros",
+        "credits": 2,
+        "syllabus": "Conceitos de reologia, classificação e descrição dos processos de conformação de polímeros, aspectos construtivos de ferramentas e equipamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM736",
+        "name": "Caracterização dos Materiais",
+        "credits": 4,
+        "syllabus": "Importância da caracterização dos materiais. Técnicas de análise química. Análise metalográfica. Microscopia óptica. Microscopia eletrônica de varredura. Difração de raio-x. Análise térmica de materiais. Princípios básicos de técnicas experimentais. Análise de falhas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM440"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM737",
+        "name": "Tecnologia de Ligas Metálicas",
+        "credits": 4,
+        "syllabus": "O sistema ferro-carbono. Decomposição da Austenita e fases metaestáveís. Curvas TTT e CCT. Tratamentos térmicos e termoquímicos. Curvas. Influências dos elementos de liga nos aços. Classificação e seleção dos aços. Produção de Aços. Ferros fundidos: características e aplicações. Metais não ferrosos e suas ligas: tratamentos térmicos, classificação e aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM738",
+        "name": "Propriedades Mecânicas dos Materiais e Mecanismos de Fratura",
+        "credits": 4,
+        "syllabus": "Propriedades de fluência. Propriedades de fadiga. Mecanismos de fratura e fadiga. Noções de mecânica da fratura. Ensaios de tenacidada à fratura. Influências de variáveis microestruturais na tenacidade da fratura. Aplicação da mecânica de fratura elástica linear ao projeto estrutural. Noções de mecânica da fratura elastoplástica. Noções de propagação de técnicas por fadiga.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM739",
+        "name": "Materiais Compósitos",
+        "credits": 2,
+        "syllabus": "Definição de materiais compósitos. Compósitos de matriz metálica. Compósitos de matriz polimérica. Compósitos de matriz cerâmica. Processos de fabricação, caracterização estrutural e de propriedades. Compatibilidade de matriz e reforço, problemas de incorporação, reações de interface.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM740",
+        "name": "Laboratório de Engenharia dos Materiais",
+        "credits": 2,
+        "syllabus": "Experiências de laboratório relativas a estrutura, propriedades e transformações de fase de materiais metálicos e não metálicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM641"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM741",
+        "name": "Engenharia de Superfície",
+        "credits": 4,
+        "syllabus": "Introdução à corrosão. Revestimentos galvânicos; pintura; filmes finos; conversão química; metalização; implantação iônica; laser; difusão e tratamentos termo químicos. Caracterização de superfície.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM742",
+        "name": "Processos Metalúrgicos de Fabricação II",
+        "credits": 4,
+        "syllabus": "Formação de estruturas brutas de solidificação de ligas - mecanismos de formação de seu controle. Qualidade de produtos fundidos - segregação e defeitos. Manipulação de processos de fundição visando otimização da qualidade dos produtos. Processos de tixoconformação. Solidificação na soldagem. Crescimento de cristais e segregação na solda. Microestrutura de zona afetada pelo calor. Formação de defeitos no cordão decorrentes da solidificação.",
+        "reqs": [
+            [
+                {
+                    "code": "EM731"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM743",
+        "name": "Metalurgia do Pó",
+        "credits": 2,
+        "syllabus": "Matérias primas para a metalurgia do pó; processo de produção de pós metálicos. Mistura convencional de pós. Compactação, densificação, sinterização. Novos processos envolvendo densificação sem sinterização; extrusão a frio, HIP. Qualidade de produtos obtidos por metalurgia do pó. Exemplos de aplicação.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM783",
+        "name": "Laboratório de Calor e Fluidos I",
+        "credits": 2,
+        "syllabus": "Conjuntos de experiências de laboratório em termodinâmica básica e aplicada, sistemas fluidomecânicos e fenômenos de transporte. Medição de Pressão, vazão, temperatura e propriedades termofluidodinâmicas. Incertezas de medida.",
+        "reqs": [
+            [
+                {
+                    "code": "EM561"
+                },
+                {
+                    "code": "EM570"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM883"
+        ]
+    },
+    {
+        "code": "EM790",
+        "name": "Engenharia Assistida por Computador",
+        "credits": 2,
+        "syllabus": "Conceitos de CAD, CAE e CAM integrados. Sistemas de visualização 2D e 3D. Conceitos de Projeto Mecânico. Modelagem para refinamento, análise e otimização de sistemas mecânicos. Aplicação do método de elementos finitos a problemas estruturais e térmicos. Desenvolvimento de projeto assistido por computador.",
+        "reqs": [
+            [
+                {
+                    "code": "EM200"
+                },
+                {
+                    "code": "EM503"
+                },
+                {
+                    "code": "EM608",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM926"
+        ]
+    },
+    {
+        "code": "EM800",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "Atividades de iniciação científica de maneira complementar ou contínua das atividades desenvolvidas como iniciação científica I, em laboratório de pesquisa, sob orientação de um professor, mediante a aprovação de plano de trabalho pela comissão de graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "EM700"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM802",
+        "name": "Caracterização de Reservatórios Petrolíferos",
+        "credits": 4,
+        "syllabus": "Propriedades de rochas e fluidos. Avaliação de reservatórios. Análise de testes de formação. Mecanismos de produção. Análise de reservas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM803",
+        "name": "Escoamento Multifásico de Petróleo",
+        "credits": 4,
+        "syllabus": "Introdução. Revisão de escoamento monofásico. Variáveis básicas do escoamento bifásico. Padrões e mapas de fluxos gás-líquido. Balanço unidimensionais de massa, quantidade de movimento e energia em fluxo bifásico. Modelos cinemáticos: homogêneo, fases separadas, deslizamento. Correlações para cálculo de perda de carga e fração volumétrica em fluxo multifásico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM804",
+        "name": "Tópicos em Engenharia do Petróleo",
+        "credits": 2,
+        "syllabus": "Ementa variável. Seminários sobre tópicos específicos em engenharia do petróleo: Novas tecnologias e métodos utilizados em Engenharia do Petróleo. Novos produtos. Processos especiais. Tópicos complementares em Engenharia do Petróleo."
+    },
+    {
+        "code": "EM805",
+        "name": "Tópicos Avançados em Engenharia do Petróleo",
+        "credits": 4,
+        "syllabus": "Seminários sobre tópicos avançados em engenharia do petróleo sobre novas tecnologias e métodos utilizados em Engenharia do Petróleo, novos produtos e processos especiais.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "EM406"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM806",
+        "name": "Sistemas de Transmissão de Potência",
+        "credits": 2,
+        "syllabus": "Transmissões. Embreagens. Diferencial. CVT's. Utilização de curvas de potência e torque no desempenho do veículo.",
+        "reqs": [
+            [
+                {
+                    "code": "EM404"
+                },
+                {
+                    "code": "EM608"
+                }
+            ],
+            [
+                {
+                    "code": "EM404"
+                },
+                {
+                    "code": "ES690"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM807",
+        "name": "Laboratório de Dinâmica e Vibrações",
+        "credits": 2,
+        "syllabus": "Experimentos com aplicação dos conhecimentos da dinâmica e vibrações.",
+        "reqs": [
+            [
+                {
+                    "code": "EM703"
+                },
+                {
+                    "code": "EM707"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM822",
+        "name": "Máquinas Térmicas e Hidráulicas",
+        "credits": 2,
+        "syllabus": "Turbinas hidráulicas. Noções de turbinas térmicas. Motores diesel.",
+        "reqs": [
+            [
+                {
+                    "code": "EM460"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM823",
+        "name": "Introdução ao Cálculo Estrutural",
+        "credits": 4,
+        "syllabus": "Análise matricial. Coeficientes de influência. Matriz de rigidez: Montagem, propriedades e métodos de solução. Aplicações a estruturas de barras usadas em projeto mecânico.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM071"
+        ]
+    },
+    {
+        "code": "EM826",
+        "name": "Processamento de Sinais",
+        "credits": 4,
+        "syllabus": "Sinais determinísticos. Relações entre série e transformada de Fourier. Transformada de Fourier discreta e algorítimos da transformada de Fourier rápida. Relações entrada/saída de sistemas lineares. Processos estocásticos. Análise de correlação e densidade espectral de potência. Processamento digital de sinais aleatórios. Erros de estimação. Relações entrada/saída com sinais aleatórios. Aplicações à análise de sinais e vibração de máquinas e estruturas.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM827",
+        "name": "Mecânica do Contínuo",
+        "credits": 4,
+        "syllabus": "Noções de cálculo tensorial. Cinemática do meio contínuo. Tensores de deformação. Estado de tensores e tensor tensões. Equações constitutivas. Análise dos sólidos elásticos. Análise dos fluidos Newtonianos viscosos. Formulação integral dos princípios da mecânica dos meios contínuos. Solução dos problemas 2d e 3d.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM831",
+        "name": "Engenharia de Qualidade I",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de qualidade. Histórico mundial e brasileiro. Principais correntes e autores. Modelo sistemático da qualidade - Sistema de gestão da qualidade. Organização do sistema da qualidade. Planejamento estratégico da qualidade. Integração dos sistemas na organização. Ciclo da qualidade: mercado, produto, produção. Recursos humanos para a qualidade. Gestão de custos da qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "EM335"
+                },
+                {
+                    "code": "ME414"
+                }
+            ],
+            [
+                {
+                    "code": "ES235"
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM931"
+        ]
+    },
+    {
+        "code": "EM833",
+        "name": "Seleção de Materiais",
+        "credits": 2,
+        "syllabus": "Critérios de seleção de materiais. Matriz de decisão ponderada. Seleção de materiais(metálicos, poliméricos, cerâmicos e conjugados) para atender às solicitações: resistência mecânica, fadiga, tenacidade, desgaste, altas temperaturas, corrosão. Trabalho prático de seleção de materiais junto à indústria.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ],
+            [
+                {
+                    "code": "ES242"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM834",
+        "name": "Laboratório de Processos de Fabricação II",
+        "credits": 1,
+        "syllabus": "Experiências de laboratório relativas a fundição, soldagem e conformação.",
+        "reqs": [
+            [
+                {
+                    "code": "EM730"
+                },
+                {
+                    "code": "EM731"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM836",
+        "name": "Fundamentos da Engenharia da Qualidade",
+        "credits": 2,
+        "syllabus": "Filosofia do controle de qualidade. Aspectos estatísticos do controle de qualidade. Controle estatístico do processo.",
+        "reqs": [
+            [
+                {
+                    "code": "EM535"
+                },
+                {
+                    "code": "ME414"
+                }
+            ],
+            [
+                {
+                    "code": "ES535"
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM966"
+        ]
+    },
+    {
+        "code": "EM848",
+        "name": "Engenharia de Software",
+        "credits": 4,
+        "syllabus": "Processos de desenvolvimento de software: processo linear sequencial (clássico) e processos incrementais e iterativos. Análise: conceitos e princípios. Análise estruturada. Análise orientada a objeto. Projeto: conceitos e princípios. Projeto estruturado. Projeto orientado a objeto. Desenvolvimento orientado a objeto. Princípios de teste de software. Gerência de projeto de software: conceitos e princípios."
+    },
+    {
+        "code": "EM852",
+        "name": "Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Sistema mecânico em Engenharia. Conversão e transmissão de potência. Performance dinâmica e armazenamento de energia. Dinâmica linear de sistemas mecânicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM404"
+                },
+                {
+                    "code": "ET616"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM853",
+        "name": "Engenharia Econômica",
+        "credits": 2,
+        "syllabus": "Matemática financeira. Custos. Análise de investimentos. Noções de contabilidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM858",
+        "name": "Desempenho de Aeronaves",
+        "credits": 2,
+        "syllabus": "Equações de movimento. Tração requerida para voo nivelado e velocidade constante. Tração disponível e velocidade máxima. Potência requerida para voo nivelado e velocidade constante. Potência disponível e velocidade máxima. Efeito na altitude na potência requerida e disponível. Razão de subida, ângulo de subida e tempo de subida. Voo planado. Teto absoluto e de serviço. Alcance e autonomia para aeronaves a jato e a hélice. Equações de Breguet. Desempenho no pouso e na decolagem. Voo em curva, velocidade angular e diagrama V-n. Razão de subida acelerada, método da energia.",
+        "reqs": [
+            [
+                {
+                    "code": "EM861"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM859",
+        "name": "Dinâmica de Voo",
+        "credits": 4,
+        "syllabus": "Estabilidade, controle e equilíbrio. Sistemas de referência. Estabilidade estática, dinâmica e controle. Contribuição das partes do avião para o movimento de arfagem, equilíbrio, influência da variação da posição do CG, influência do profundor, momento de articulação, manobrabilidade. Influência dos dispositivos hiper-sustentadores. Movimento latero-direcional. Controle de guinada, estabilidade em rolamento, efeitos da geometria, controle de rolamento. Estabilidade dinâmica de aeronave sem e com atuação de controles.",
+        "reqs": [
+            [
+                {
+                    "code": "EM861"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM860",
+        "name": "Usinas Hidroelétricas",
+        "credits": 2,
+        "syllabus": "Usinas hidroelétricas e reservatórios associados: características básicas de projeto e de operação dos principais tipos. Usinas hidroelétricas de acumulação por bombeamento. Centrais hidroelétricas de pequeno porte: projeto, anteprojeto de uma turbina hidráulica.",
+        "reqs": [
+            [
+                {
+                    "code": "EM672"
+                }
+            ],
+            [
+                {
+                    "code": "EM884"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM861",
+        "name": "Aerodinâmica Básica",
+        "credits": 4,
+        "syllabus": "Cinética e dinâmica dos fluidos, técnicas de variáveis complexas, escoamento potencial bidimensional e tridimensional, aerodinâmica de aerofólio, teoria de asa finita, aerofólio e combinação em escoamento compressível.",
+        "reqs": [
+            [
+                {
+                    "code": "EM461"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM858",
+            "EM859",
+            "EM874",
+            "EM968",
+            "EM969"
+        ]
+    },
+    {
+        "code": "EM862",
+        "name": "Controle de Vibrações e Ruído",
+        "credits": 4,
+        "syllabus": "Revisão de controle clássico. Introdução ao controle digital. Controle por realimentação de estados digitais. Observadores. Controle adaptativo. Teoria da filtragem adaptativa. Algoritmos baseados em mínimos quadrados. Aplicação ao controle de sistemas aeronáuticos e automobilíticos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM707"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM863",
+        "name": "Aeroelasticidade",
+        "credits": 4,
+        "syllabus": "Introdução e conceitos, deformação de estrutura aerodinâmica sobre cargas estáticas e dinâmicas. Técnicas de cálculo de modo e de forma e frequência natural, análise de aerofólios em escoamentos bi e tridimensional incompressível e compressível, fenômenos de aeroelásticos estáticos, fenômeno de flutter.",
+        "reqs": [
+            [
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "EM506"
+                }
+            ],
+            [
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM864",
+        "name": "Dinâmica de Estruturas",
+        "credits": 2,
+        "syllabus": "Equilíbrio dinâmico e princípio de Hamilton. Obtenção de equações de equilíbrio dinâmico para meios contínuos simples: barras, eixo e vigas. Análise modal e reposta por superposição modal. Métodos aproximados usando equações de Lagrange. Análise modal de sistemas discretos. Resposta livre forçada. Integração direta a resposta por transformadas de Fourier e Laplace. Introdução método dos elementos finitos em dinâmica estrutural. Introdução ao método de redução e subestruturação. Introdução à análise modal experimental.",
+        "reqs": [
+            [
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM865",
+        "name": "Motores de Combustão Interna",
+        "credits": 4,
+        "syllabus": "Conceitos práticos de motores à gasolina, diesel e gás. Teoria de combustão aplicada a motores. Ondas de combustão. Projeto de câmara de combustão. Curvas de potência, torque, consumo e pressão média. Avaliação prática do motor.",
+        "reqs": [
+            [
+                {
+                    "code": "EM460"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM866",
+        "name": "Dinâmica de Veículos",
+        "credits": 4,
+        "syllabus": "Princípios da dinâmica veicular. Desempenho em aceleração e frenagem. Aerodinâmica, resistência ao rolamento. Suspensão, sistemas de direção, pneus e freios. Estudo dos elementos do motor. Dinâmica da suspensão: pneus, isolamento da vibração do motor; dirigibilidade, estabilidade, freios.",
+        "reqs": [
+            [
+                {
+                    "code": "EM404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM867",
+        "name": "Análise Dinâmica Estrutural",
+        "credits": 2,
+        "syllabus": "Aplicação do método dos elementos finitos na análise dinâmica estrutural. Cálculo de frequências naturais e modos de vibração. Cálculo de tensões e deformações dinâmicas. Resposta temporal e em frequência para excitações harmônicas, transientes e aleatórias. Fadiga. Choque.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                },
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM868",
+        "name": "Eletrônica Aplicada a Sistemas Automotivos",
+        "credits": 4,
+        "syllabus": "Sistemas automatizados aplicados a veículos automotores. Sensores em sistemas automáticos veiculares. Sistemas de condução e multiplexação de sinais, redes de comunicação de dados. Estrutura e funcionamento de circuitos lógicos reprogramáveis. Sistema de supervisão e controle. Sistemas eletrônicos de controle ativo de motores, transmissão e freios - Integração de Circuitos lógicos reprogramáveis, sensores e atuadores a partir de redes de comunicação de dados. Sistemas eletrônicos para gerenciamento de motores - ignição e injeção eletrônica.",
+        "reqs": [
+            [
+                {
+                    "code": "EM707"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM873",
+        "name": "Laboratório de Sistemas Fluidotérmicos",
+        "credits": 4,
+        "syllabus": "Conjunto de disciplinas de laboratório em termodinâmica básica e aplicada, sistemas fluidomecânicos e fenômenos de transporte.",
+        "reqs": [
+            [
+                {
+                    "code": "EM460"
+                },
+                {
+                    "code": "EM884"
+                }
+            ],
+            [
+                {
+                    "code": "EM460"
+                },
+                {
+                    "code": "EM672"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM874",
+        "name": "Projeto de Aeronaves",
+        "credits": 2,
+        "syllabus": "Aspectos históricos da evolução tecnológica da aviação. Análise das fases de um projeto: conceitual, preliminar e detalhado. Estimativa inicial do peso de uma aeronave. Definição da configuração de uma aeronave: perfil e dispositivos de hiper-sustentação, forma em planta de uma asa, torção e diedro, posição da asa na fuselagem, posição dos motores, tipos de cauda usados em aeronaves, forma da fuselagem. Determinação da carga alar e da razão tração-peso. Dimensionamento de uma aeronave. Estimativa da polar de arrasto. Verificação do cumprimento dos requisitos através de cálculos de desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "EM861"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM880",
+        "name": "Usinagem dos Metais II",
+        "credits": 4,
+        "syllabus": "Processo de furação - ferramentas de furação, processo de acabamentos de furos, formação de cavaco na furação, forças e potência de corte na furação. Processo de fresamento: tipos de fresamento, desgaste da ferramenta no fresamento. Escolha das condições de usinagem e do número de dentes da fresa, acabamento de superfícies fresadas, processos abrasivos de usinagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EM335"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM883",
+        "name": "Laboratório de Calor e Fluidos II",
+        "credits": 4,
+        "syllabus": "Conjunto de experiências de laboratório em termodinâmica básica e aplicada, sistemas fluidomecânicos e fenômenos de transporte.",
+        "reqs": [
+            [
+                {
+                    "code": "EM672"
+                },
+                {
+                    "code": "EM703"
+                }
+            ],
+            [
+                {
+                    "code": "EM783"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM884",
+        "name": "Sistemas Fluidotérmicos II",
+        "credits": 4,
+        "syllabus": "Introdução a sistemas fluidotérmicos. Combustíveis e combustão. Geração, distribuição e utilização de vapor. Fornos, aquecedores e incineradores. Sistemas de geração de potência. Turbinas térmicas. Motores de combustão interna. Sistemas de cogeração. Projeto, análise, integração de critérios econômicos, ambientais e otimização de sistemas de geração de potência.",
+        "reqs": [
+            [
+                {
+                    "code": "EM460"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM044",
+            "EM048",
+            "EM079",
+            "EM087",
+            "EM860",
+            "EM873",
+            "EM906",
+            "EM963",
+            "EM975"
+        ]
+    },
+    {
+        "code": "EM885",
+        "name": "Introdução ao Método dos Elementos Finitos",
+        "credits": 4,
+        "syllabus": "Introdução ao método dos modelos finitos, com aplicações mecânica dos sólidos. Conceitos básicos em mecânica: métodos variacionais e de resíduos ponderados. Discretização e funções de interpolação. Critérios de convergência. Matrizes dos elementos, elementos isoparamétricos, integração numérica. Conceitos elementares de programação.",
+        "reqs": [
+            [
+                {
+                    "code": "EM503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM886",
+        "name": "Laboratório de Calor e Fluidos II",
+        "credits": 2,
+        "syllabus": "Conjunto de experiências de laboratório em termodinâmica básica e aplicada, sistemas fluidomecânicos e fenômenos de transporte.",
+        "reqs": [
+            [
+                {
+                    "code": "EM561"
+                },
+                {
+                    "code": "EM570"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM900",
+        "name": "Estágio Didático",
+        "credits": 2,
+        "syllabus": "Auxílio aos docentes nas aulas práticas resolvendo listas de exercícios em aulas de laboratório, auxiliando os alunos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM903",
+        "name": "Engenharia, Ciência e Sociedade",
+        "credits": 1,
+        "syllabus": "Serão abordados temas pertinentes à Engenharia Mecânica sob o ponto de vista técnico, de sua influência sobre os paradigmas da sociedade tecnológica, suas relações com o meio ambiente e aspectos de relacionamento humano.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM904",
+        "name": "Introdução à Pesquisa Operacional",
+        "credits": 4,
+        "syllabus": "Introdução a problemas de otimização e suas propriedades básicas. Problemas de otimização irrestritos e com restrição. Programação linear, formulação, solução geométrica, o método simplex, dualidade e interpretação econômica. Otimização de fluxo em rede, problemas de transporte, caminho mínimo e fluxo máximo. Programação dinâmica, procedimento forward e backward. Programação por metas e programação inteira-mista.",
+        "reqs": [
+            [
+                {
+                    "code": "MA141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM905",
+        "name": "Autoveículos",
+        "credits": 4,
+        "syllabus": "Conceitos práticos de motores a gasolina, diesel e GLP. Utilização das Curvas de potência, torque, consumo e pressão média efetiva no desempenho do veículo. Estudo de elementos: embreagens, caixa de mudança, diferencial, suspensões, carroceria, freios e sistema hidráulico.",
+        "reqs": [
+            [
+                {
+                    "code": "EM608"
+                }
+            ],
+            [
+                {
+                    "code": "EM618",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM906",
+        "name": "Modelagem Computacional de Sistemas Térmicos",
+        "credits": 2,
+        "syllabus": "Projeto de sistemas térmicos. Metodologias de análise termodinâmica. Avaliação de propriedades termodinâmicas. Princípios de programação orientada a objetos. Modelagem computacional de equipamentos térmicos. Simulação computacional de sistemas térmicos. Aspectos de análise termoeconômica. Aplicação de métodos de otimização.",
+        "reqs": [
+            [
+                {
+                    "code": "EM884"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM907",
+        "name": "Desenho 3D Assistido por Computador",
+        "credits": 2,
+        "syllabus": "MODELAGEM 3D. O conceito de \"features\" para desenho. A concepção através de \"sketchs\" (esboços). O processamento geométrico de perfis a partir de esboços. A Cotação inteligente-funcional. A obtenção de vistas e cortes a partir do modelo sólido. A obtenção automática de grandezas de massa. Desenhos de conjuntos. Padrões para exportação/importação de desenhos entre sistemas distintos. O conceito de \"model-space\" e \"paper-space\". O interfaceamento CAD/CAM.",
+        "reqs": [
+            [
+                {
+                    "code": "EM104"
+                },
+                {
+                    "code": "EM330"
+                }
+            ],
+            [
+                {
+                    "code": "EM200"
+                },
+                {
+                    "code": "EM330"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM908",
+        "name": "Projeto de Ferramentas para Conformação",
+        "credits": 2,
+        "syllabus": "Planejamento do Processo de Forjamento a Quente; Planejamento do Processo de Forjamento a Frio; Planejamento do Processo de Estampagem Profunda; Critérios de Projeto de Ferramentas para Conformação Mecânica; Projeto de Ferramentas auxiliado por computador.",
+        "reqs": [
+            [
+                {
+                    "code": "EM730"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM909",
+        "name": "Projeto de Sistemas Mecânicos",
+        "credits": 4,
+        "syllabus": "Metodologia e sistemática do projeto. Métodos de sistematização da criatividade. Concepção a partir de critérios de funcionalidade. QFD e análise do valor. Arquitetura mecânica. Metodologias Design for X: Segurança, Manufatura, Confiabilidade. Otimização. Documentação de projeto. Projeto detalhado. Prototipagem e maquetagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EM200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM608",
+            "EM926"
+        ]
+    },
+    {
+        "code": "EM910",
+        "name": "Engenharia Mecânica Ferroviária",
+        "credits": 4,
+        "syllabus": "Comportamento mecânico de veículos sobre trilhos. Estudo da suspensão. Critérios de projetos. Tipos de truques e construção de caixas. Comportamento em vias retas e curvas. Engates. Carros de passageiros. Vagões de carga e de serviço. Comportamento longitudinal de composições. Serviços auxiliares.",
+        "reqs": [
+            [
+                {
+                    "code": "EM607"
+                },
+                {
+                    "code": "EM608"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM914",
+        "name": "Trabalho de Graduação I",
+        "credits": 2,
+        "syllabus": "Trabalho de caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas do curso de Engenharia Mecânica. O trabalho será desenvolvido sob a orientação de um professor, com apresentação final escrita e analisada por, ao menos, dois professores do Curso de Engenharia Mecânica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "EM103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM106",
+            "EM919"
+        ]
+    },
+    {
+        "code": "EM915",
+        "name": "Tração e Frenagem Ferroviária",
+        "credits": 4,
+        "syllabus": "Velocidade e aderência, atrito de rolamento. Momento motor e força de tração das locomotivas. Carga de tração requerida pela composição plano, em aclives. Tração elétrica, diesel, diesel elétrica. Motor de tração e capacidade de tração. Frenagem regenerativa e por atrito. Controle de velocidade.",
+        "reqs": [
+            [
+                {
+                    "code": "EM608"
+                },
+                {
+                    "code": "ET616"
+                }
+            ],
+            [
+                {
+                    "code": "EM618",
+                    "special": true
+                },
+                {
+                    "code": "ET616"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM916",
+        "name": "Estágio Supervisionado",
+        "credits": 12,
+        "syllabus": "Acompanhamento de projetos. Montagens e execuções de equipamentos e sistemas em Engenharia Mecânica junto a um órgão credenciado pelo departamento. O estágio é orientado bilateralmente e conclui com a apresentação de um relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM917",
+        "name": "Propulsão",
+        "credits": 4,
+        "syllabus": "Empuxo necessário para voo, termodinâmica básica, motor turbo - jato, turbinas a gás: turbina, propulsor e conjunto propulsor - turbina, motor a pistões, motor ranjet, motor foguete.",
+        "reqs": [
+            [
+                {
+                    "code": "EM460"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM918",
+        "name": "Tópicos em Engenharia Aeronáutica",
+        "credits": 2,
+        "syllabus": "Ementa variável. Seminários sobre tópicos específicos em engenharia aeronáutica: Novas tecnologias e métodos utilizados em engenharia aeronáutica. Novos produtos e equipamentos. Processos especiais. Tópicos complementares em engenharia aeronáutica."
+    },
+    {
+        "code": "EM919",
+        "name": "Trabalho de Graduação II",
+        "credits": 4,
+        "syllabus": "Trabalho de caráter teórico e/ou prático, envolvendo conhecimentos adquiridos em diversas disciplinas do curso de Engenharia Mecânica. O trabalho, que deverá ser uma continuação do trabalho iniciado na disciplina EM914, será desenvolvido sob a orientação de um professor, com apresentação final escrita e analisada por, ao menos, dois professores do Curso de Engenharia Mecânica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "EM914"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM920",
+        "name": "Análise de Tensões e Deformações",
+        "credits": 4,
+        "syllabus": "Relações entre tensões e deformações. Extensômetros elétricos e circuitos básicos. Fotoelasticidade bi e tridimensional. Sistemas por transparência. Reflexão e incidência oblíqua.",
+        "reqs": [
+            [
+                {
+                    "code": "EM506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM921",
+        "name": "Manufatura Assistida por Computador",
+        "credits": 4,
+        "syllabus": "CNC: Tipos de CNC, Centros de Torneamento; Centros de Usinagem; Programação manual; Programação via CAM; DNC; Desenvolvimento de programas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM104"
+                },
+                {
+                    "code": "EM535"
+                }
+            ],
+            [
+                {
+                    "code": "EM200"
+                },
+                {
+                    "code": "EM535"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM924",
+        "name": "Ensaios Dinâmicos",
+        "credits": 2,
+        "syllabus": "Características estáticas e dinâmicas dos instrumentos e sensores. Medida e análise de deslocamento, velocidade, aceleração, força, torque, potência mecânica, tempo, frequência e ângulos de fase. Problemas na amplificação, transmissão e armazenamento de sinais. Aplicações.",
+        "reqs": [
+            [
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM925",
+        "name": "Operação Ferroviária",
+        "credits": 4,
+        "syllabus": "Partida e aceleração. Perfil da linha e manutenção da velocidade. Operações em retas e curvas. Frenagens normais e de emergência. Sistemas de comando e controle de trens. Sinalização e controle de tráfego. Quadro de lotação de cargas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM926",
+        "name": "Projeto do Produto",
+        "credits": 2,
+        "syllabus": "Aplicação da metodologia de projeto no desenvolvimento das fases de concepção, projeto preliminar e projeto detalhado para componentes e sistemas mecânicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM608"
+                },
+                {
+                    "code": "EM790"
+                },
+                {
+                    "code": "EM909"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM927",
+        "name": "Aerodinâmica Compressível",
+        "credits": 2,
+        "syllabus": "Escoamento com onda de choque normal. Ondas de choque oblíquas e de expansão. Escoamento isentrópico com variação de área. Escoamento em bocais e difusores supersônicos. Escoamento unidimensional com atrito e troca de calor. Escoamento unidimensional generalizado. Teoria linearizada de escoamento subsônico e supersônico.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM928",
+        "name": "Projeto do Processo",
+        "credits": 4,
+        "syllabus": "Projeto de Sistemas de Manufatura. Geração da peça em bruto e seleção de processos. Sequenciamento Completo de Operações e Determinação de Operações Intermediárias. Detalhamento de Operações. Seleção dos Equipamentos de Produção e de Dispositivos Especiais. Montagem. Projeto da Instalação Fabril.",
+        "reqs": [
+            [
+                {
+                    "code": "EM335"
+                },
+                {
+                    "code": "EM535"
+                },
+                {
+                    "code": "EM665"
+                },
+                {
+                    "code": "EM730"
+                },
+                {
+                    "code": "EM733"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM930",
+        "name": "Soldagem dos Metais",
+        "credits": 2,
+        "syllabus": "Classificação dos processos da soldagem; soldagem a arco elétrico; soldagem a gás; soldagem por resistência elétrica; processos de brasegem; processos não convencionais de soldagem; qualidade de solda; soldagem de manutenção.",
+        "reqs": [
+            [
+                {
+                    "code": "EM240"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM931",
+        "name": "Engenharia de Qualidade II",
+        "credits": 4,
+        "syllabus": "Análise e resolução de problemas de qualidade. Ferramentas tradicionais de solução de problemas de qualidade. Ferramentas novas de solução de problemas de qualidade. Técnicas de implantação da qualidade: 5S. Análise do modo de falhas. Técnicas de comparação para a qualidade. Desenvolvimento da criatividade para a solução de problemas. Exemplos de solução de problemas da qualidade com técnicas estatísticas. Controle estatístico de processos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM831"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM932",
+        "name": "Manufatura Assistida por Computador",
+        "credits": 2,
+        "syllabus": "Máquinas-ferramenta CNC: princípios e unidades básicas. Linguagens gráficas para CAD e CAM. Editores específicos para CNC. Conexões entre operações CAD e CAM. O conceito de programa fonte e programa objeto. Os Pós-processadores para pacotes CAM. Ambientes para teste/validação de programas CNC. Aplicações de software CAM a tornos CNC. Aplicações de software CAM a operações de fresamento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EM535"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM949",
+        "name": "Manutenção Industrial",
+        "credits": 2,
+        "syllabus": "Organização, Planejamento e controle de manutenção. Manutenção mecânica e elétrica de equipamentos e instalações. Lubrificação.",
+        "reqs": [
+            [
+                {
+                    "code": "EM335"
+                }
+            ],
+            [
+                {
+                    "code": "ES235"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM950",
+        "name": "Vibrações em Máquinas",
+        "credits": 2,
+        "syllabus": "Balanceamento estático e dinâmico. Métodos experimentais e analíticos. Estudos de motores alternativos. Sistemas de vários graus de liberdade. Métodos digitais para vibrações torcionais. Estudo de eixos em rotação. Velocidades críticas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM963",
+        "name": "Usinas Termoelétricas",
+        "credits": 2,
+        "syllabus": "Usinas termoelétricas alimentadas a combustível fóssil e centrais nucleares: características básicas de projeto e de operação dos principais tipos: anteprojeto dos principais componentes. Geração de energia elétrica utilizando formas não convencionais de energia: avaliação do estado da arte: regimes de funcionamento.",
+        "reqs": [
+            [
+                {
+                    "code": "EM670"
+                },
+                {
+                    "code": "EM884"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM965",
+        "name": "Tópicos em Engenharia Automobilística",
+        "credits": 2,
+        "syllabus": "Ementa variável. Seminários sobre tópicos específicos em engenharia automobilística: Novas tecnologias e métodos utilizados em engenharia automobilística. Novos produtos e equipamentos. Processos especiais. Tópicos complementares em engenharia automobilística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM966",
+        "name": "Ferramentas da Qualidade",
+        "credits": 2,
+        "syllabus": "Abordagem mais ampla e profunda das Sete Ferramentas básicas da Qualidade e do Planejamento além de outras ferramentas estatísticas. \nObs.: Sete Ferramentas da Qualidade: Estratificação; Folha de Verificação; Gráfico de Pareto; Diagrama Causa/Efeito; Histograma; Diagrama de Dispersão; Gráfico de Controle. Sete Ferramentas do Planejamento: Diagrama de Afinidade; Diagrama de Relações; Diagrama de Árvore; Diagrama de Matriz; Diagrama de Priorização; Diagrama de Processo Decisório; Diagrama de Setas. Outras Ferramentas Estatísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM836"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM967",
+        "name": "Dinâmica dos Gases",
+        "credits": 2,
+        "syllabus": "Conceitos básicos dos gases ideal e real. Ondas de choque normal e oblique, ondas de combustão, escoamento com combustão, escoamento com atrito, troca de calor, injeção de massa, escoamento generalizado.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                },
+                {
+                    "code": "EM461"
+                }
+            ],
+            [
+                {
+                    "code": "EM460"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM968",
+        "name": "Aerodinâmica Numérica",
+        "credits": 2,
+        "syllabus": "Dinâmica de movimento de corpos nos fluidos. Classificação das equações diferenciais parciais, técnicas de solução de problemas elipticos, hiperbólicos ou parabólicos, escoamentos secundários, escoamento compressível em torno de aerofólio, método dos painéis.",
+        "reqs": [
+            [
+                {
+                    "code": "EM861"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM969",
+        "name": "Laboratório de Aerodinâmica",
+        "credits": 2,
+        "syllabus": "Experimentos para demonstrar conceitos fundamentais, distribuição de pressão em torno de aerofólio com e sem ângulo de ataque, medição de forças, avaliação de atrito induzido, interferência de asa com corpo, efeito biplano, casos de aerofólio em regime subsônico e supersônico, ondas de choque normal. Experimentos de propulsão.",
+        "reqs": [
+            [
+                {
+                    "code": "EM861"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM971",
+        "name": "Projeto de Máquinas de Elevação e Transporte",
+        "credits": 5,
+        "syllabus": "Análise e dimensionamento dos sistemas de elevação e translação de cargas nas máquinas de levantamento; guindaste, pontes rolantes e pórticos. Análise e dimensionamento dos elementos de transporte e das unidades motrizes de transportadores contínuos e discretos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM608"
+                },
+                {
+                    "code": "ET616"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM972",
+        "name": "Oferta e Demanda de Energia",
+        "credits": 2,
+        "syllabus": "Recursos minerais energéticos e fontes renováveis de energia. História da produção e consumo da energia no Brasil e no mundo. Influência dos fatores tecnológicos, econômicos, políticos, sociais e ecológicos em sistemas energéticos como petróleo, carvão mineral, gás natural e outros. Avaliação crítica do cumprimento de energia. Descrição dos usos de energia nos principais setores da sociedade moderna e sua evolução recente. Demanda e utilização de energia. Fluxos de energia e estruturas de consumo. Gestão e políticas energéticas. Planejamento energético.",
+        "reqs": [
+            [
+                {
+                    "code": "EM360"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM973",
+        "name": "Desenvolvimento e Meio Ambiente",
+        "credits": 2,
+        "syllabus": "Ciclos da natureza e o meio ambiente. Meio ambiente e o desenvolvimento social e econômico. Energia e o meio ambiente. Sustentabilidade. Políticas públicas, instrumentos econômicos e regulatórios. Padrões ambientais e legislação ambiental. Sistema de gestão ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM974",
+        "name": "Métodos Computacionais em Engenharia Térmica e Ambiental",
+        "credits": 2,
+        "syllabus": "Introdução ao método dos volumes finitos, aplicado em programas computacionais para a simulação de fenômenos envolvendo escoamento de fluidos, transferência de calor e transferência de massa, no âmbito do estudo de sistemas energéticos e de seus impactos ambientais.",
+        "reqs": [
+            [
+                {
+                    "code": "EM503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM975",
+        "name": "Gestão do Uso da Energia",
+        "credits": 2,
+        "syllabus": "Uso racional de energia: conceitos e princípios da conservação e da substituição. Análise de processos industriais energo-intensivos e caracterização do uso de energia. Instrumento de análise, diagnóstico e auditoria. Princípios da gestão do uso da energia. Otimização energética em sistemas industriais. Aspectos ambientais da gestão do uso de energia: subprodutos, resíduos, efluentes e reciclagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EM672"
+                }
+            ],
+            [
+                {
+                    "code": "EM884"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM976",
+        "name": "Engenharia Ambiental",
+        "credits": 4,
+        "syllabus": "Problemas e impactos ambientais na conversão do uso de energia. Padrões de emissão e padrões de qualidade. Indicadores e critérios de qualidade. Avaliação de impactos ambientais. Modelos de dispersão. Tecnologia de controle e tecnologias mais limpas. Reciclagem dos materiais.",
+        "reqs": [
+            [
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "EM570"
+                }
+            ],
+            [
+                {
+                    "code": "EM461"
+                },
+                {
+                    "code": "EM672"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM977",
+        "name": "Otimização de Sistemas",
+        "credits": 2,
+        "syllabus": "Programação linear: exemplo introdutório e formulação; método Simplex (procedimento, teoria, programação computacional); análise de sensibilidade, dualidade. Otimização em rede: transporte, caminho mínimo e fluxo máximo, método Simplex especializado. Programação não linear: Condições de otimalidade, busca unidimensional, minimização irrestrita, minimização com restrições.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM978",
+        "name": "Laboratório de Energia",
+        "credits": 2,
+        "syllabus": "Conjunto de experiências de laboratório envolvendo sistemas termodinâmicos, fluidomecânicos e fenômenos de transporte de interesse em aplicações energéticas.",
+        "reqs": [
+            [
+                {
+                    "code": "EM570"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM983",
+        "name": "Otimização de Sistemas Energéticos",
+        "credits": 2,
+        "syllabus": "Programação dinâmica: determinística e estocástica. Programação inteira: algoritmo de branch-and-bound. Aplicações em sistemas energéticos. Operação de sistemas hidrotérmico e de distribuição de água. Síntese de gasoduto, de sistema de cogeração e de rede de trocadores de calor.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM984",
+        "name": "Sistemas Fluidotérmicos III",
+        "credits": 4,
+        "syllabus": "Projeto, análise e otimização de sistemas fluidotérmicos. Análise sistêmica de plantas de bombeamento, recuperação de calor, geração de potência, refrigeração e ar-condicionado. Integração de critérios econômicos e ambientais. Uso integrado de ferramentas computacionais de cálculo de propriedades termofluidodinâmicas na simulação e otimização de sistemas fluidotérmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EM460"
+                },
+                {
+                    "code": "EM461"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM028"
+        ]
+    },
+    {
+        "code": "EM986",
+        "name": "Tópicos em Engenharia Ambiental",
+        "credits": 2,
+        "syllabus": "Ementa variável. Seminários sobre tópicos específicos em Engenharia Ambiental: Novas tecnologias e métodos utilizados em Engenharia Ambiental. Novos produtos e equipamentos. Processos especiais. Tópicos complementares em Engenharia Ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM987",
+        "name": "Introdução ao Método dos Elementos de Contorno",
+        "credits": 4,
+        "syllabus": "Introdução e fundamentos matemáticos. O método de análise por elementos de contorno. Introdução a transferência de calor. Aspectos da análise em 2D de problemas da transferência de calor por elementos de contorno. Conceitos de integração. Introdução à mecânica dos sólidos. Formulação de contorno em mecânica dos sólidos. Formulação de contorno para tensão plana e deformação plana. Análise de tensões em 2D pelo método dos elementos de contorno.",
+        "reqs": [
+            [
+                {
+                    "code": "EM503"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM988",
+        "name": "Métodos Matemáticos para a Engenharia",
+        "credits": 4,
+        "syllabus": "Números complexos. Séries. Vetores. Notação indicial. Vetores euclidianos. Produto escalar e projeções em uma reta. Matrizes. Métodos de resolução de sistemas de equações lineares. Transformações similares. Auto valores e auto-vetores. Pseudo-inversa e decomposições em valores singulares. Integradores lineares.",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM989",
+        "name": "Tópicos em Mecânica Computacional",
+        "credits": 2,
+        "syllabus": "Ementa variável. Seminários sobre tópicos específicos em mecânica computacional: novas tecnologias e métodos utilizados em mecânica computacional. Novos produtos e equipamentos, processos especiais. Tópicos complementares em mecânica computacional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM990",
+        "name": "Tópicos em Energia",
+        "credits": 2,
+        "syllabus": "Abordagem mais ampla ou profunda de um assunto particular de área de Energia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM992",
+        "name": "Projeto de Sistemas Termofluidomecânicos",
+        "credits": 4,
+        "syllabus": "Análise, projeto e/ou construção de um exemplo de sistema térmico ou fluidomecânico, desenvolvido sob a orientação de um professor da Engenharia Mecânica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM993",
+        "name": "Tópicos em Engenharia",
+        "credits": 4,
+        "syllabus": "Abordagem mais ampla ou profunda de um assunto particular de Engenharia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM995",
+        "name": "Tópicos em Engenharia de Fabricação I",
+        "credits": 4,
+        "syllabus": "Abordagem mais ampla ou profunda de um assunto particular de Engenharia na área de Fabricação."
+    },
+    {
+        "code": "EM996",
+        "name": "Tópicos em Engenharia de Fabricação II",
+        "credits": 2,
+        "syllabus": "Abordagem mais ampla ou profunda de um assunto particular na área de Fabricação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM997",
+        "name": "Tópicos em Engenharia de Qualidade I",
+        "credits": 2,
+        "syllabus": "Abordagem mais ampla ou profunda de um assunto particular de Engenharia na área de Qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM998",
+        "name": "Tópicos em Engenharia de Qualidade II",
+        "credits": 2,
+        "syllabus": "Abordagem mais ampla ou profunda de um assunto particular de Engenharia na área de Qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EM999",
+        "name": "Tópicos em Engenharia de Produção",
+        "credits": 2,
+        "syllabus": "Abordagem mais ampla ou profunda de um assunto particular de Engenharia na área de Produção."
+    }
+]

@@ -1,0 +1,638 @@
+[
+    {
+        "code": "GL001",
+        "name": "Tópicos Especiais em Gestão I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "GL002",
+        "name": "Tópicos Especiais em Gestão II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "GL003",
+        "name": "Tópicos Especiais em Gestão III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "GL004",
+        "name": "Tópicos Especiais em Gestão IV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "GL005",
+        "name": "Tópicos Especiais em Gestão V",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "GL006",
+        "name": "Tópicos Especiais em Gestão VI",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "GL100",
+        "name": "Matemática I",
+        "credits": 4,
+        "syllabus": "Revisão de matemática elementar. Funções e modelos matemáticos. Estudo de funções de uma variável. Limites. Noções de derivada. Modelos e aplicações em administração.",
+        "reqBy": [
+            "GL201",
+            "GL607"
+        ]
+    },
+    {
+        "code": "GL101",
+        "name": "Introdução à Economia",
+        "credits": 4,
+        "syllabus": "Dimensão histórica e social da economia. Origens e fundamentos da moderna economia capitalista. Microeconomia x Macroeconomia. Estudo dos agregados econômicos: PIB, Demanda Agregada e Renda Nacional. Mercado de trabalho. Consumo. Investimento. Governo: receitas e despesas. Moeda e juros. Setor Externo: balanço de pagamentos e câmbio.",
+        "reqBy": [
+            "PG702"
+        ]
+    },
+    {
+        "code": "GL102",
+        "name": "Integridade Acadêmica e Metodologia Científica",
+        "credits": 2,
+        "syllabus": "Integridade acadêmica. Boas práticas na vida acadêmica. Gestão do Tempo. Citação e paráfrase. Particularidades e conceitos da pesquisa em Administração. Tipos de pesquisa. Métodos de coleta, processamento e análise de dados. Normas técnicas para elaboração de um trabalho científico. Portal de Periódicos Capes e Sistema de Biblioteca da Unicamp (SBU)."
+    },
+    {
+        "code": "GL200",
+        "name": "Matemática Financeira",
+        "credits": 4,
+        "syllabus": "O valor da moeda no tempo. Capitalização simples. Capitalização composta. Desconto. Inflação. Séries de pagamentos. Sistemas de amortização. Decisões e análise de investimentos. Aplicações.",
+        "reqBy": [
+            "GL501",
+            "LE607",
+            "MG501"
+        ]
+    },
+    {
+        "code": "GL201",
+        "name": "Matemática II",
+        "credits": 4,
+        "syllabus": "Definição de derivada. Regras de derivação. Aplicações de derivada para Administração. Integração. Teorema Fundamental do Cálculo. Técnicas de Integração. Aplicações de Integral em Administração.",
+        "reqs": [
+            [
+                {
+                    "code": "GL100"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER401",
+            "GL301",
+            "GL303"
+        ]
+    },
+    {
+        "code": "GL202",
+        "name": "Microeconomia",
+        "credits": 4,
+        "syllabus": "A Ciência Econômica. O papel da microeconomia na Ciência Econômica. Mercado: demanda, oferta e equilíbrio. Teoria do consumidor. Teoria da Firma. Produção: tecnologia e custos. Estruturas de mercado: concorrência perfeita, monopólio, concorrência imperfeita e oligopólio. Modelos de mark-up. Noções de organização industrial. Incerteza e decisões.\n \n ",
+        "reqBy": [
+            "GL603",
+            "PG700",
+            "PG705"
+        ]
+    },
+    {
+        "code": "GL203",
+        "name": "Contabilidade I",
+        "credits": 4,
+        "syllabus": "Finalidades pelas quais se usa Contabilidade. Obrigatoriedade. Ativo. Passivo Líquido. Receitas. Despesas. Resultado. Equação Fundamental do Patrimônio. Configurações do estado Patrimonial. Procedimentos contábeis básicos. Método das Partidas dobradas. Operações com mercadorias. Avaliação dos estoques. Demonstrações Contábeis. Balanço Patrimonial. Demonstração de Resultado do Exercício. Demonstração das Mutações do Patrimônio Líquido. Demonstração dos Fluxos de Caixa. Demonstração do Valor Adicionado. Notas Explicativas. Diferenças básicas da Contabilidade Financeira e da Contabilidade Gerencial. Fundamentação Normativa da prática\ncontábil no Brasil segundo os pronunciamentos do CPC. Normas contábeis aplicáveis ao mercado de capitais. Obrigatoriedade da Auditoria.",
+        "reqBy": [
+            "GL300",
+            "PG300"
+        ]
+    },
+    {
+        "code": "GL300",
+        "name": "Contabilidade II",
+        "credits": 4,
+        "syllabus": "Estrutura das Demonstrações Contábeis segundo o pronunciamento do CPC 00. Aplicação da projeção das demonstrações financeiras para fins de planejamento e plano de negócios. Projeção das demonstrações Financeiras, premissas e cenários. Aplicações da Análise de Balanços e seus usuários. Análise financeira e indicadores. Análise Vertical. Análise Horizontal. Contabilidade de Custos. Contabilidade Gerencial x Financeira. Métodos de Custeio. Custos por Departamento. Custeio baseado em Atividades (ABC). Custos para tomada de decisão. Custeio Variável. Relação custo-volume-lucro. Fixação de preço de venda e decisão sobre compra ou produção. Custos imputados e custos perdidos. Custos controláveis e custos estimados. Custo-padrão. Noções de auditoria interna e externa.",
+        "reqs": [
+            [
+                {
+                    "code": "GL203"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL301",
+        "name": "Estatística I",
+        "credits": 4,
+        "syllabus": "Noções de amostragem. Estatística descritiva: métodos gráficos, medidas de tendência central e medidas de dispersão. Introdução à probabilidade. Variáveis aleatórias discretas. Variáveis aleatórias contínuas. Distribuição normal. Análise de correlação. Regressão linear.",
+        "reqs": [
+            [
+                {
+                    "code": "GL201",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "LE101",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "GL400"
+        ]
+    },
+    {
+        "code": "GL302",
+        "name": "Evolução do Pensamento em Gestão",
+        "credits": 4,
+        "syllabus": "Discutir as principais teorias sobre a administração. Avaliar as diferentes abordagens adotadas pelo pensamento em gestão. Conhecer e discutir a base teórica que funda as correntes do pensamento em gestão e estabelecer relações críticas com as ditas correntes, sendo capaz de avaliar o uso de técnicas e instrumentos de gestão nos contextos históricos, econômicos e sociais em que foram gerados e difundidos.",
+        "reqBy": [
+            "GL401",
+            "GL402"
+        ]
+    },
+    {
+        "code": "GL303",
+        "name": "Estatística para Administração",
+        "credits": 4,
+        "syllabus": "Revisão de probabilidade e aplicações. Variáveis aleatórias discretas e contínuas. Distribuição normal. Distribuições amostrais. Estimação pontual. Estimação intervalar. Noções de amostragem. Teste de hipótese. Análise de variância. Análise de regressão e correlação. Aplicações em administração. ",
+        "reqs": [
+            [
+                {
+                    "code": "GL201"
+                },
+                {
+                    "code": "NC104"
+                }
+            ]
+        ],
+        "reqBy": [
+            "GL304",
+            "LE803"
+        ]
+    },
+    {
+        "code": "GL304",
+        "name": "Métodos Quantitativos Aplicados",
+        "credits": 2,
+        "syllabus": "Apresentação e estudos de casos importantes de aplicação de métodos quantitativos em Administração.",
+        "reqs": [
+            [
+                {
+                    "code": "GL303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL400",
+        "name": "Estatística II",
+        "credits": 4,
+        "syllabus": "Distribuições amostrais. Estatística Inferencial: introdução à estimação, testes de hipóteses, análise de variância. Controle estatístico de processo. Introdução à teoria da decisão.",
+        "reqs": [
+            [
+                {
+                    "code": "GL301"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER190",
+            "ER210",
+            "ER220",
+            "ER270",
+            "ER350",
+            "GL500",
+            "GL506",
+            "GL607"
+        ]
+    },
+    {
+        "code": "GL401",
+        "name": "Sistemas de Gestão",
+        "credits": 2,
+        "syllabus": "Abordagens e modelos. Princípios de administração e funções do administrador. Áreas básicas da estrutura da empresa. Gestão da qualidade, da capacidade, de projetos, da expansão das operações e de processos. Introdução aos sistemas de gestão (JIT, TOC, MRP). Introdução aos sistemas integrados de gestão (ERP). Avaliação de desempenho. Novos modelos de organização e gestão.",
+        "reqs": [
+            [
+                {
+                    "code": "GL302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL402",
+        "name": "História das Empresas",
+        "credits": 4,
+        "syllabus": "Conceitos de empresa. A empresa como unidade de acumulação de capital. A empresa como organização. A empresa como estrutura organizacional. Origens da empresa moderna. Transformações das empresas no século XX. Novos tipos de empresa no mundo contemporâneo.",
+        "reqs": [
+            [
+                {
+                    "code": "GL302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL403",
+        "name": "Instituições de Direito",
+        "credits": 4,
+        "syllabus": "Origens e conceito do Direito. Direito como regulador da vida social. Normas sociais. Moral. Equidade e justiça. Direito objetivo. Direito subjetivo. Relação jurídica. Fatos jurídicos. Objeto de Direito. Direito público, privado e difuso: Conceito e subdivisões. Direito Constitucional: Estado e sociedade. Direitos políticos. Direitos e garantias individuais. Direito Civil: Capacidade. Personalidade. Direito de família e sucessões. Direito Empresarial: Ato de comércio. Sociedades comerciais. Títulos de crédito. Direito Penal. Culpabilidade. Pena. Direito Administrativo. Licitação. Direito Consumidor. Direito Ambiental.",
+        "reqBy": [
+            "CG800",
+            "GL504",
+            "MG400",
+            "MG811"
+        ]
+    },
+    {
+        "code": "GL500",
+        "name": "Gestão de Sistemas de Produção e de Custos",
+        "credits": 4,
+        "syllabus": "Tipos de sistemas de produção. Relacionamento da produção com as demais áreas da empresa. Arranjo físico. Estudos de tempos e métodos. Planejamento do produto e do processo. Sistemas de gestão (JIT, TOC, MRP). Sistemas integrados de gestão (ERP). Conceituação e classificação de custos. Custeio integral: conceito e modelos, métodos e sistemas de informações. Estratégias de custos. Custeio baseado em atividades.",
+        "reqs": [
+            [
+                {
+                    "code": "GL400"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL501",
+        "name": "Mercado Financeiro e de Capitais",
+        "credits": 4,
+        "syllabus": "Estrutura do sistema financeiro brasileiro. Instrumentos de atuação do Banco Central. Mercado bancário e interbancário: principais produtos e serviços. Mercado de renda variável. Mercado de renda fixa. Underwriting, Ações, ADR e BDR. Bolsa de valores. Bolsa de Mercadorias. Derivativos. Commercial papers e Debêntures. Securitização. Captação de recursos no exterior (Eurobonds e Euronotes) Leasing. Factoring. Mercado de câmbio. Fundos de investimento. Seguros. Governança Corporativa. Risco de Mercado.",
+        "reqs": [
+            [
+                {
+                    "code": "GL200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ER390",
+            "GL602"
+        ]
+    },
+    {
+        "code": "GL502",
+        "name": "Economia Brasileira",
+        "credits": 4,
+        "syllabus": "A inserção da economia brasileira no mundo desde o séc. XIX até os anos 30. O processo de industrialização: criação da indústria de base, restrições e o Plano de Metas. As reformas institucionais e a retomada do crescimento: PAEG, Milagre Econômico e II PND. Anos 80: crise, instabilidade e estagnação. Inflação e planos de estabilização. Anos noventa: abertura da economia e reforma do Estado. O Plano Real. Características da economia brasileira que condicionam o crescimento no século XXI: competitividade, capacitação tecnológica, distribuição de renda e padrão de financiamento.",
+        "reqs": [
+            [
+                {
+                    "code": "GL507"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AG700",
+            "PG805"
+        ]
+    },
+    {
+        "code": "GL503",
+        "name": "Introdução ao Processamento de Dados",
+        "credits": 2,
+        "syllabus": "Noções sobre algoritmos e programas. Introdução à programação em linguagem de alto nível.",
+        "reqBy": [
+            "AG704",
+            "MG704"
+        ]
+    },
+    {
+        "code": "GL504",
+        "name": "Direito Empresarial",
+        "credits": 2,
+        "syllabus": "Pessoa Física e Pessoa Jurídica de direito Privado. Pessoa Jurídica de direito Público. Autarquias. Fundações Privadas. Tipos de sociedades no Brasil. Contratos sociais. Holdings, Joint Ventures, incorporações, fusões e cisões. Concordata e Falência. Comércio: modelos de contratos, principais títulos de crédito. Títulos de Capital. Tipos de Ações. Direitos e obrigações dos acionistas. Títulos de dívida. Debêntures. Direitos dos Debenturistas. Propriedade intelectual.",
+        "reqs": [
+            [
+                {
+                    "code": "GL403"
+                }
+            ]
+        ],
+        "reqBy": [
+            "PG802"
+        ]
+    },
+    {
+        "code": "GL505",
+        "name": "Direito Tributário",
+        "credits": 2,
+        "syllabus": "Sistema Tributário Nacional Brasileiro. Competência Tributária. Impostos, Taxas e Contribuições de Melhoria. Contribuições especiais. Empréstimo compulsório. Sistema Previdenciário Nacional. Fato gerador do tributo. Contribuições previdenciárias. Impostos Federais. Impostos Estaduais. Impostos Municipais. Obrigações Acessórias. Obrigação pecuniária. Fiscalização tributária. Princípio da legalidade. Princípio da Anterioridade. Princípio da Anualidade. Créditos tributários."
+    },
+    {
+        "code": "GL506",
+        "name": "Gestão em Sistemas de Produção",
+        "credits": 4,
+        "syllabus": "Tipos e evolução de sistemas de produção e operações. Relação entre bens e serviços. Relacionamento da produção com as demais áreas da organização. Estratégia de Produção. Arranjo físico. Capacidade produtiva. Planejamento e programação da produção. Sistemas de gestão da produção.",
+        "reqs": [
+            [
+                {
+                    "code": "GL400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AG702",
+            "GL605"
+        ]
+    },
+    {
+        "code": "GL507",
+        "name": "Macroeconomia",
+        "credits": 4,
+        "syllabus": "Ementa: Dimensão histórica e social da economia. Origens e fundamentos da moderna economia capitalista. O papel da macroeconomia na Ciência Econômica. Fluxo da Renda. Renda e Produção. Estudo dos agregados econômicos: PIB, Demanda Agregada e Renda Nacional. Mercado de trabalho. Consumo. Investimento. Governo: receitas e despesas. Moeda e juros. Setor Externo: balanço de pagamentos e câmbio.",
+        "reqBy": [
+            "GL502",
+            "MG702",
+            "PG701"
+        ]
+    },
+    {
+        "code": "GL600",
+        "name": "Estudos de Mercado e Marketing",
+        "credits": 6,
+        "syllabus": "Evolução do pensamento em marketing. Relação do marketing com as outras funções da organização. Comportamento do consumidor. Composto mercadológico. Pesquisa de mercado. Identificação de oportunidades. Dimensões do produto: qualidade, desing, embalagem, marca, preço. Estratégia promocional. Propaganda. Distribuição. Segmentação de mercado.",
+        "reqBy": [
+            "GL609",
+            "MG705"
+        ]
+    },
+    {
+        "code": "GL601",
+        "name": "Estratégia e Planejamento",
+        "credits": 4,
+        "syllabus": "O processo de planejamento. Conceitos, metodologias e ferramentas de planejamento estratégico. Níveis de planejamento.  Formulação, implementação e avaliação estratégica. Estratégias e vantagem competitiva.",
+        "reqs": [
+            [
+                {
+                    "code": "NC400"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AG701",
+            "CG701",
+            "MG703",
+            "MG804",
+            "MG806",
+            "MG810",
+            "MG813",
+            "PG706",
+            "PG803"
+        ]
+    },
+    {
+        "code": "GL602",
+        "name": "Gestão Financeira",
+        "credits": 4,
+        "syllabus": "Sistema Financeiro Nacional. Valor e Orçamento de Capital. Gestão do capital circulante e da necessidade do capital de giro. Gestão de tesouraria. Papel do crédito. Administração do passivo circulante. Orçamento econômico financeiro. Projeções de receitas, custos e despesas. Orçamento de investimentos. VPL. Critérios de Avaliação de Investimento. Valor Presente Líquido. Taxa Interna de Retorno. Payback simples. Payback descontado. Estrutura de Capital. Políticas de dividendos. Custo do Capital próprio. Custo do capital de terceiros. Custo médio ponderado de capital (WACC).",
+        "reqs": [
+            [
+                {
+                    "code": "GL501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CG801",
+            "MG701",
+            "MG707"
+        ]
+    },
+    {
+        "code": "GL603",
+        "name": "Mercado, Concorrência e Competitividade",
+        "credits": 4,
+        "syllabus": "Construção de vantagens competitivas. Dimensões, formas e dinamismo da concorrência. A empresa, seus limites, sua expansão, seu núcleo de competência. Conceitos de indústria, mercado, setor. Tipologia de mercados. Fatores determinantes da competitividade: sistêmicos, setoriais e empresariais. Estratégias de concorrência.",
+        "reqs": [
+            [
+                {
+                    "code": "GL202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AG704",
+            "AG800",
+            "AG805",
+            "CG700",
+            "CG704",
+            "CG707",
+            "MG700",
+            "MG704",
+            "MG802"
+        ]
+    },
+    {
+        "code": "GL604",
+        "name": "Sistemas de Informação e Gestão do Conhecimento",
+        "credits": 2,
+        "syllabus": "Tecnologia da informação. Sistemas de informação. O conhecimento como ativo da empresa. Gestão do conhecimento: criação, fluxo e disseminação de conhecimento. Aprendizado organizacional. Impactos na competitividade e na organização da empresa.",
+        "reqBy": [
+            "CG803"
+        ]
+    },
+    {
+        "code": "GL605",
+        "name": "Gestão de Sistemas de Logística",
+        "credits": 4,
+        "syllabus": "Fundamentos de logística. Gestão da cadeia de suprimentos. Controle de estoques. Logística integrada.",
+        "reqs": [
+            [
+                {
+                    "code": "GL506"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CG805",
+            "MG803"
+        ]
+    },
+    {
+        "code": "GL606",
+        "name": "Direito Trabalhista",
+        "credits": 2,
+        "syllabus": "Contrato Individual de Trabalho. Tipos de Remuneração. Alterações do contrato de trabalho. Direitos e obrigações básicas do trabalhador. Direitos e obrigações básicas do empregador. Suspensão e interrupção do contrato de trabalho. Terminação do contrato de trabalho. Aviso prévio. Justas causas. Fundo de Garantia por Tempo de Serviço. Encargos trabalhistas por conta do empregador. Encargos trabalhistas por conta do empregado. Demissão sem justa causa. Terceirização e subcontratação. Encargos sociais e previdenciários. Cooperativas de trabalho."
+    },
+    {
+        "code": "GL607",
+        "name": "Pesquisa Operacional",
+        "credits": 2,
+        "syllabus": "Otimização de problemas de programação linear e inteira. Resoluções dos modelos com o Solver do Excel.",
+        "reqs": [
+            [
+                {
+                    "code": "GL100"
+                },
+                {
+                    "code": "GL400"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL608",
+        "name": "Administração de Sistemas de Informação",
+        "credits": 4,
+        "syllabus": "Tecnologia da Informação: conceitos fundamentais. Sistemas de informação. Gestão do conhecimento. Tecnologia da informação e desempenho empresarial. Negócios na era digital. Segurança da informação. Tecnologias e ferramentas emergentes."
+    },
+    {
+        "code": "GL609",
+        "name": "Comportamento do Consumidor",
+        "credits": 4,
+        "syllabus": "O consumidor: perspectivas e pontos de vistas. Segmentação de Mercado e análise demográfica. Os mercados consumidores globais: estrutura e estratégia. Os processos decisórios do consumidor. O reconhecimento de necessidade e a busca. Avaliação de alternativas a pré compra. Compra. Consumo, satisfação e descarte. Recursos do consumidor. Conhecimento. Atitudes. Motivação e autoconceito. Personalidade, valores e estilo de vida. O processamento de informação. Aprendizagem.Influenciando atitudes e comportamento. A influência da cultura no comportamento do consumidor. Influências étnicas sobre comportamento do consumidor. Classe social e status. Influência pessoal. Influência da família e do domicilio. Influência situacional. Varejo e consumidor. A difusão de inovação. O consumerismo e a responsabilidade ética. Métodos e modelos de análise e de pesquisa com consumidor.",
+        "reqs": [
+            [
+                {
+                    "code": "GL600"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL700",
+        "name": "Trabalho de Conclusão I",
+        "credits": 4,
+        "syllabus": "Orientação, supervisão e avaliação do Estágio realizado nas Organizações. Caracterização da organização. A situação problemática na organização e o Problema de Pesquisa. Relatório parcial de pesquisa na organização.",
+        "reqs": [
+            [
+                {
+                    "code": "AA458",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "GL800"
+        ]
+    },
+    {
+        "code": "GL701",
+        "name": "Estágio I",
+        "credits": 20,
+        "syllabus": "Estágio supervisionado em atividades de gestão em organizações privadas ou públicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA456",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "GL801"
+        ]
+    },
+    {
+        "code": "GL702",
+        "name": "Elaboração de Projetos",
+        "credits": 4,
+        "syllabus": "Conceitos básicos sobre projetos, planos de negócios e empreendedorismo. Aspectos administrativos, legais, mercadológicos, técnicos, econômicos e financeiros. Custo e financiamento. Estudo de viabilidade. Análise de risco. Elaboração de projeto ou plano de negócio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL704",
+        "name": "Estágio em Administração",
+        "credits": 20,
+        "syllabus": "Estágio supervisionado em atividades de gestão em organizações privadas ou públicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL710",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 8,
+        "syllabus": "Orientação, supervisão e avaliação do Estágio realizado nas Organizações. Caracterização da organização. A situação problemática na organização e o Problema de Pesquisa. Relatório parcial de pesquisa na organização.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL800",
+        "name": "Trabalho de Conclusão II",
+        "credits": 4,
+        "syllabus": "Fase complementar de orientação, supervisão e avaliação do Estágio Curricular nas Organizações. A execução do projeto de pesquisa. Coleta de dados. Elaboração de Relatório Final de Pesquisa. Sumário, Resumo e Introdução. Revisão Bibliográfica. Metodologia, análise e interpretação dos dados coletados. Considerações finais. Apêndices e anexos. Normas ABNT para apresentação de trabalhos acadêmicos.",
+        "reqs": [
+            [
+                {
+                    "code": "GL700"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL801",
+        "name": "Estágio II",
+        "credits": 20,
+        "syllabus": "Estágio supervisionado em atividades de gestão em organizações privadas ou públicas.",
+        "reqs": [
+            [
+                {
+                    "code": "GL701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL802",
+        "name": "Comportamento Organizacional",
+        "credits": 4,
+        "syllabus": "Entender a natureza e o escopo do trabalho contemporâneo por meio da Gestão Baseada em Valores (MBV) e do gerenciamento de Stress e da Qualidade de Vida adotada pelas melhores empresas do país.",
+        "reqs": [
+            [
+                {
+                    "code": "LE702"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "GL803",
+        "name": "Temas Contemporâneos de Direito",
+        "credits": 2,
+        "syllabus": "Política Nacional das relações de consumo. Da Qualidade de Produtos e Serviços, da Prevenção e da Reparação dos Danos. Da Responsabilidade por Vício do Produto e do Serviço. Da desconsideração da personalidade jurídica do Fornecedor. Da publicidade e das praticas abusivas no Direito do consumidor. Responsabilidade pós consumo. Logística reversa. Política Nacional de Meio Ambiente. Responsabilidade constitucional ambiental. Controle da poluição ambiental. Gestão ambiental empresarial para a sustentabilidade. Atualidades legislativas."
+    },
+    {
+        "code": "GL900",
+        "name": "Metodologia de Pesquisa em Administração",
+        "credits": 2,
+        "syllabus": "Abordagens de pesquisa em Administração. Particularidades e conceitos da pesquisa em Administração. Tipos de pesquisa. Métodos de coleta, processamento e análise de dados. Como escrever um projeto de pesquisa e um trabalho científico. Normas técnicas para elaboração de um trabalho científico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

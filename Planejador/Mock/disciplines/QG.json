@@ -1,0 +1,935 @@
+[
+    {
+        "code": "QG005",
+        "name": "Química e Mercado de Trabalho",
+        "credits": 1,
+        "syllabus": "Aspectos e possibilidades da profissão."
+    },
+    {
+        "code": "QG080",
+        "name": "Estágio",
+        "credits": 8,
+        "syllabus": "Estágio em Indústria química.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG091",
+        "name": "Petróleo e Petroquímica",
+        "credits": 2,
+        "syllabus": "Esta disciplina visa introduzir o aluno às atividades envolvidas no processamento e refino do petróleo para produção de combustíveis e insumos para a indústria petroquímica. Polimerização e polímeros baseados no petróleo, assim como outras fontes de energia e de insumos (gás natural, gás de síntese e metanol), são também abordadas, sempre sob o ponto de vista químico.",
+        "reqs": [
+            [
+                {
+                    "code": "QI245"
+                },
+                {
+                    "code": "QO521"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG092",
+        "name": "Geoquímica Orgânica",
+        "credits": 2,
+        "syllabus": "A Geoquímica Orgânica complementa um conjunto de áreas como geologia, paleontologia, biologia, engenharia do petróleo, visando a caracterização dos óleos e sedimentos, obtendo dados sobre a origem, rocha de geração, migração e condições dos reservatórios do petróleo, através de estudos dos marcadores biológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "QO321"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG100",
+        "name": "Química",
+        "credits": 4,
+        "syllabus": "Periodicidade e propriedades; reações redox e estados de oxidação; a ligação química em materiais isolantes, condutores e semicondutores; conceitos de eletroquímica; potenciais de redução; armazenamento de energia.",
+        "reqBy": [
+            "ES242"
+        ]
+    },
+    {
+        "code": "QG101",
+        "name": "Química I",
+        "credits": 4,
+        "syllabus": "Estrutura atômica, classificação periódica e propriedades dos elementos. Ligação química; estrutura e propriedades das substâncias. Noções de físico-química: termodinâmica, equilíbrios químicos e células eletroquímicas.",
+        "reqBy": [
+            "EQ314",
+            "ES242",
+            "FA097",
+            "FA373",
+            "FA479",
+            "FA733",
+            "LE401",
+            "QA213",
+            "QA218",
+            "QA313",
+            "QA314",
+            "QF331",
+            "QF331",
+            "QF331",
+            "QF333",
+            "QF335",
+            "QF337",
+            "QI242",
+            "QI244",
+            "QO321",
+            "QO323",
+            "QO325",
+            "QO427",
+            "TA243",
+            "TA343"
+        ]
+    },
+    {
+        "code": "QG102",
+        "name": "Química Experimental I",
+        "credits": 4,
+        "syllabus": "Experiências ilustrando o método científico, os conceitos de mol e de ligação química, óxido-redução, equilíbrio químico, pH, produto de solubilidade, preparação e purificação de substâncias.\n ",
+        "reqBy": [
+            "CV202",
+            "CV202",
+            "CV541",
+            "CV941",
+            "FA097",
+            "QA313",
+            "QI242",
+            "QI244",
+            "QO321"
+        ]
+    },
+    {
+        "code": "QG104",
+        "name": "Química",
+        "credits": 4,
+        "syllabus": "O átomo: forma e energia de orbitais e distribuição dos elétrons. A tabela periódica e propriedades associadas. Ligação química, propriedades associadas, propriedades de mineirais simples. Soluções aquosas: formas de expressar a concentração, pH, constante de equilíbrio. Noções de físico-química: energia, equilíbrio e cinética de processos geológicos. Funções de química orgânica e exemplos relevantes no Sistema Terra.",
+        "reqBy": [
+            "QF331",
+            "QF331",
+            "QF331",
+            "QF432"
+        ]
+    },
+    {
+        "code": "QG107",
+        "name": "Química I (Biologia)",
+        "credits": 6,
+        "syllabus": "Estequiometria. Ligação química. Funções da química orgânica. Experimentos que ilustram o método científico, conceito de mol, ligação química, equilíbrio, pH, ácidos e bases, titulação, purificação de substâncias.",
+        "reqBy": [
+            "QO323",
+            "QO325"
+        ]
+    },
+    {
+        "code": "QG108",
+        "name": "Química Geral Teórica",
+        "credits": 4,
+        "syllabus": "Estrutura atômica; periodicidade das propriedades atômicas; modelos de ligação química (iônica e covalente); geometria molecular; interações intermoleculares, propriedades gerais de sólidos, líquidos e gases. Noções de termodinâmica.",
+        "reqBy": [
+            "EQ531",
+            "EQ531",
+            "ES242",
+            "QA282",
+            "QF331",
+            "QF331",
+            "QF331",
+            "QF335",
+            "QF337",
+            "QF431",
+            "QF573",
+            "QG464",
+            "QG551",
+            "QG636",
+            "QI145",
+            "QI242",
+            "QI244",
+            "QI246",
+            "QO321"
+        ]
+    },
+    {
+        "code": "QG109",
+        "name": "Química Geral Experimental",
+        "credits": 4,
+        "syllabus": "Experimentos que ilustram técnicas e conceitos básicos em química.",
+        "reqBy": [
+            "QA213",
+            "QA217",
+            "QA218",
+            "QA282",
+            "QG464",
+            "QG551",
+            "QG564",
+            "QG565",
+            "QI242",
+            "QI244"
+        ]
+    },
+    {
+        "code": "QG111",
+        "name": "Química Teórica",
+        "credits": 2,
+        "syllabus": "Matéria e radiação eletromagnética; Estrutura atômica; Ligação química; Forças intermoleculares, Metais; Isolantes e semicondutores.",
+        "reqBy": [
+            "EM240",
+            "EM440",
+            "ES242"
+        ]
+    },
+    {
+        "code": "QG122",
+        "name": "Química Experimental",
+        "credits": 2,
+        "syllabus": "Funções termodinâmicas; Equilíbrios químicos; Soluções; Eletroquímica; Materiais.",
+        "reqBy": [
+            "EM240",
+            "EM440",
+            "ES242"
+        ]
+    },
+    {
+        "code": "QG191",
+        "name": "Química",
+        "credits": 6,
+        "syllabus": "Fórmulas e equações químicas. Classificações períodicas e propriedades dos elementos. Noções de físico-química, termoquímica, equilíbrio químicos e células eletroquímicas. Ligação química, estrutura e propriedades das substâncias. Minerais. Polímeros naturais e sintéticos.",
+        "reqBy": [
+            "CV202"
+        ]
+    },
+    {
+        "code": "QG331",
+        "name": "Estudos de Problemas de Ensino de Química",
+        "credits": 2,
+        "syllabus": "Aprendizagem significativa. Concepções alternativas e mudança conceitual no ensino de química, estudo e análise de casos. O papel da linguagem e das formas de representação no ensino de química. Estratégias para educação inclusiva Conhecimentos conceituais, procedimentais e atitudinais. Transposição didática. Contextualização no ensino de química, abordagem CTSA, possibilidades e limitações. O papel da avaliação como instrumento de reconhecimento, estruturação da prática profissional e construção de conhecimentos."
+    },
+    {
+        "code": "QG362",
+        "name": "Química com Segurança",
+        "credits": 2,
+        "syllabus": "Segurança em laboratório químico; identificação e uso de equipamentos de segurança; manuseio de substâncias com segurança; estocagem e descarte de resíduos de laboratórios. Contaminação química. Treinamento para atendimento em situações de emergência; técnicas de primeiros socorros. Legislação sobre segurança no trabalho."
+    },
+    {
+        "code": "QG464",
+        "name": "Laboratório Integrado",
+        "credits": 4,
+        "syllabus": "Experimentos de natureza interdisciplinar abrangendo diferentes métodos de preparação, caracterização e análises de fenômenos envolvidos na preparação de produtos de   tais como preparação de biodiesel e de solvente industrial, síntese e fomulação de fármacos, etc... utilizando técnicas e procedimentos tais como espectroscopia de IV, RMN, fluorescência de raios X, espectrometria de massa, reologia, análise termogravimétrica, determinação de área superficial, entre outros. ",
+        "reqs": [
+            [
+                {
+                    "code": "QG108"
+                },
+                {
+                    "code": "QG109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QG565"
+        ]
+    },
+    {
+        "code": "QG551",
+        "name": "Didática e Metodologia do Ensino de Química",
+        "credits": 8,
+        "syllabus": "Estratégias metodológicas para o ensino de química com abordagens teórica, histórica, fenomenológica e representacional, inclusive voltadas para educação inclusiva. Abordagens investigativas, metodologias ativas e assistivas. Tendências atuais no ensino de química.  Estratégias para o ensino inclusivo em química. Sequências didáticas no ensino de química: currículo, planejamento, ação e avaliação da prática profissional. O papel do processo reflexivo sobre a prática. Articulação entre teoria e prática na formação inicial de professores. ",
+        "reqs": [
+            [
+                {
+                    "code": "EL212"
+                },
+                {
+                    "code": "EL511"
+                },
+                {
+                    "code": "EL683"
+                },
+                {
+                    "code": "EP152"
+                },
+                {
+                    "code": "EP372"
+                },
+                {
+                    "code": "QG108"
+                },
+                {
+                    "code": "QG109"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG564",
+        "name": "Química Orgânica e Inorgânica Experimental",
+        "credits": 8,
+        "syllabus": "Estudo de estratégias de síntese, purificação e caracterização de substâncias orgânicas e inorgânicas, ilustrando-se o deslocamento do equilíbrio de reações através da remoção dos produtos ou de subprodutos, ou pela precipitação dos mesmos; a utilização de atmosfera inerte; a purificação por destilação, cristalização, sublimação ou cromatografia em coluna; a caracterização por espectroscopia no infravermelho, espectroscopia de ressonância magnética nuclear, ponto de fusão, espectrometria de massa e cromatografia em fase gasosa.",
+        "reqs": [
+            [
+                {
+                    "code": "QG109"
+                },
+                {
+                    "code": "QI145"
+                },
+                {
+                    "code": "QO521"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QG566",
+            "QI542",
+            "QO622"
+        ]
+    },
+    {
+        "code": "QG565",
+        "name": "Química Orgânica e Inorgânica Experimental",
+        "credits": 12,
+        "syllabus": "Estudo de estratégias de síntese, purificação e caracterização, ilustrando-se o deslocamento do equilíbrio de reações através da remoção dos produtos ou de subprodutos, ou pela precipitação dos mesmos; a utilização de atmosfera inerte; a purificação por destilação, cristalização, sublimação ou cromatografia em coluna; a caracterização por espectroscopia no infravermelho, espectroscopia de ressonância magnética nuclear, ponto de fusão, espectroscopia de massa e cromatografia em fase gasosa. Articulação de conceitos teóricos e práticos, recursos de informática e outras mídias para elaboração de proposta de ensino para apresentação oral e escrita.",
+        "reqs": [
+            [
+                {
+                    "code": "QA481"
+                },
+                {
+                    "code": "QG464"
+                },
+                {
+                    "code": "QO521"
+                }
+            ],
+            [
+                {
+                    "code": "QG109"
+                },
+                {
+                    "code": "QI246"
+                },
+                {
+                    "code": "QO521"
+                }
+            ],
+            [
+                {
+                    "code": "QI145"
+                },
+                {
+                    "code": "QO521"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QO622"
+        ]
+    },
+    {
+        "code": "QG566",
+        "name": "Estratégias Didáticas em Química Orgânica e Inorgânica",
+        "credits": 4,
+        "syllabus": "Estudo de estratégias didáticas para o ensino de fundamentos de síntese, purificação e caracterização de substâncias orgânicas e inorgânicas. Articulação de conceitos teóricos e práticos, recursos de informática e outras mídias para elaboração de proposta de ensino para apresentação oral e escrita.",
+        "reqs": [
+            [
+                {
+                    "code": "QG564"
+                }
+            ],
+            [
+                {
+                    "code": "QG650"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG636",
+        "name": "Planejamento de Experimentos",
+        "credits": 4,
+        "syllabus": "Introdução à estatística. Planejamento fatorial. Construção de modelos. Modelagem de misturas. Otimização simplex.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414",
+                    "partial": true
+                },
+                {
+                    "code": "QG108"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG650",
+        "name": "Laboratório de Síntese Orgânica e Inorgânica",
+        "credits": 8,
+        "syllabus": "Aprendizado das técnicas de preparação, isolamento, purificação e caracterização de substâncias orgânicas e inorgânicas, de manipulação de substâcias tóxicas e inflamáveis, e da montagem de aparelhagens necessárias para diversas finalidades. São estudadas diversas estratégias de síntese, purificação e caracterização, incluindo a utilização de atmosfera inerte.",
+        "reqs": [
+            [
+                {
+                    "code": "QI145"
+                },
+                {
+                    "code": "QO521"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QG566",
+            "QI543",
+            "QO620"
+        ]
+    },
+    {
+        "code": "QG664",
+        "name": "Espectroscopia Molecular",
+        "credits": 4,
+        "syllabus": "Teoria de Grupo. Espectroscopia rotacional, roto-vibracional e eletrônica. Experimentos selecionados.",
+        "reqs": [
+            [
+                {
+                    "code": "QF536"
+                },
+                {
+                    "code": "QI145"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG680",
+        "name": "Estágio Supervisionado I",
+        "credits": 6,
+        "syllabus": "Atividades formativas supervisionadas para promover interação com experiências, práticas e conhecimentos relacionados com o ensino de Química e o material instrucional disponível em escolas e espaços de educação não formal. As ações desenvolvidas incluem a inserção na dinâmica da escola e seus processos de organização, gestão e interação com a comunidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "EL874"
+                }
+            ]
+        ],
+        "reqBy": [
+            "QG880"
+        ]
+    },
+    {
+        "code": "QG760",
+        "name": "Projetos de Ensino em Química",
+        "credits": 8,
+        "syllabus": "Discussões presenciais (3 horas-aula semanais) envolvendo aspectos teóricos e conceituais para fundamentar a elaboração de projetos experimentais ou teóricos relacionados ao Ensino de Química, com foco na educação básica ou não formal. Os projetos serão executados durante o semestre letivo, acompanhados pela leitura crítica de textos diversos envolvendo a temática do Ensino de Química e da Educação, aplicação de recursos de informática e outras mídias, visando a elaboração de apresentação oral e relatórios que serão compartilhados com a turma nos encontros em sala de aula. O resultado de cada projeto, devidamente fundamentado com literatura específica e registrado numa monografia, que pode incluir material instrucional, será também apresentado em forma oral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "QL701"
+        ]
+    },
+    {
+        "code": "QG770",
+        "name": "Projetos de Pesquisa em Química I",
+        "credits": 4,
+        "syllabus": "Elaboração de projeto de pesquisa em Química a ser desenvolvido sob a supervisão de membros do corpo docente do IQ e áreas afins. Definição de projeto, levantamento bibliográfico, planejamento de atividades. ",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "QG870"
+        ]
+    },
+    {
+        "code": "QG771",
+        "name": "Tecnologias de Informação e Comunicação Aplicadas ao Ensino de Química",
+        "credits": 4,
+        "syllabus": "Perspectivas históricas, disciplinares e conceituais das Tecnologias e suas relações e com as práticas de ensino-aprendizagem em Ciências/Química, possibilidades e limitações. Tecnologias da informação e comunicação (TICs) e sociedade atual, evolução da web e novas tecnologias. Cultura escolar e cultura digital. Legislação Educacional sobre uso e formação com Tecnologias. Levantamento e problematização dos principais suportes tecnológicos: softwares educacionais, aplicativos, simulações, vídeos, sites cooperativos, laboratórios remotos e virtuais. TICs como ferramenta de avaliação. Ensino a distância e semipresencial e tecnologias assistivas. Articulação dos conteúdos com práticas em sala de aula. ",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG860",
+        "name": "Projetos de Pesquisa em Química",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de projetos científicos sob a supervisão de membros do corpo docente do IQ.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG863",
+        "name": "Projetos de Pesquisa em Ciências Farmacêuticas",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de projetos científicos de interesse das Ciências Farmacêuticas sob a supervisão de membros do corpo docente do Instituto de Química. O docente responsável pela disciplina será o representante do Instituto de Química na Comissão de Graduação do curso de Farmácia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG870",
+        "name": "Projetos de Pesquisa em Química II",
+        "credits": 16,
+        "syllabus": "Desenvolvimento de projeto de pesquisa em Química  sob a supervisão de membros do corpo docente do IQ e áreas afins.",
+        "reqs": [
+            [
+                {
+                    "code": "QG770"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG880",
+        "name": "Estágio Supervisionado II",
+        "credits": 8,
+        "syllabus": "Execução de projetos supervisionados de práticas de Ensino de Química em escola ou espaço não formal de educação para articulação de habilidades e competências desenvolvidas nas atividades de formação química e didático-pedagógica. As ações desenvolvidas incluem a inserção na dinâmica da escola e seus processos de organização, gestão e interação com a comunidade.",
+        "reqs": [
+            [
+                {
+                    "code": "QG680"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG960",
+        "name": "Tópicos Especiais em Química Geral I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG961",
+        "name": "Tópicos Especiais em Química Geral II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG962",
+        "name": "Tópicos Especiais em Química Geral III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG963",
+        "name": "Tópicos Especiais em Química Geral IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG964",
+        "name": "Tópicos Especiais em Química Geral V",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG965",
+        "name": "Tópicos Especiais em Química Geral VI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG966",
+        "name": "Tópicos Especiais em Química Geral VII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG967",
+        "name": "Tópicos Especiais em Química Geral VIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG968",
+        "name": "Tópicos Especiais em Química Geral IX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG969",
+        "name": "Tópicos Especiais em Química Geral X",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG970",
+        "name": "Tópicos Especiais em Química Geral XI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG971",
+        "name": "Tópicos Especiais em Química Geral XII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG972",
+        "name": "Tópicos Especiais em Química Geral XIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG973",
+        "name": "Tópicos Especiais em Química Geral XIV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG974",
+        "name": "Tópicos Especiais em Química Geral XV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG975",
+        "name": "Tópicos Especiais em Química Geral XVI",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG976",
+        "name": "Tópicos Especiais em Química Geral XVII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG977",
+        "name": "Tópicos Especiais em Química Geral XVIII",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG978",
+        "name": "Tópicos Especiais em Química Geral XIX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG979",
+        "name": "Tópicos Especiais em Química Geral XX",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG981",
+        "name": "Tópicos Especiais em Ensino de Química I",
+        "credits": 2,
+        "syllabus": "Abordagem de temas contemporâneos direta ou indiretamente relacionados ao Ensino de Química, com articulação de conhecimento científico, produções bibliográficas e material instrucional. Especificidades serão descritas por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG982",
+        "name": "Tópicos Especiais em Ensino de Química II",
+        "credits": 2,
+        "syllabus": "Abordagem de temas contemporâneos direta ou indiretamente relacionados ao Ensino de Química, com articulação de conhecimento científico, produções bibliográficas e material instrucional. Especificidades serão descritas por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG983",
+        "name": "Tópicos Especiais em Ensino de Química III",
+        "credits": 2,
+        "syllabus": "Abordagem de temas contemporâneos direta ou indiretamente relacionados ao Ensino de Química, com articulação de conhecimento científico, produções bibliográficas e material instrucional. Especificidades serão descritas por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG984",
+        "name": "Tópicos Especiais em Ensino de Química IV",
+        "credits": 2,
+        "syllabus": "Abordagem de temas contemporâneos direta ou indiretamente relacionados ao Ensino de Química, com articulação de conhecimento científico, produções bibliográficas e material instrucional. Especificidades serão descritas por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG985",
+        "name": "Tópicos Especiais em Química Geral Experimental I",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG986",
+        "name": "Tópicos Especiais em Química Geral Experimental II",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG987",
+        "name": "Tópicos Especiais em Química Geral Experimental III",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG988",
+        "name": "Tópicos Especiais em Química Geral Experimental IV",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QG989",
+        "name": "Tópicos Especiais em Química Geral Experimental V",
+        "credits": 2,
+        "syllabus": "Será fornecida por ocasião do oferecimento da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

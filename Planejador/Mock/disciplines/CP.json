@@ -1,0 +1,1026 @@
+[
+    {
+        "code": "CP001",
+        "name": "Tópicos Especiais em Ciências do Esporte I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP002",
+        "name": "Tópicos Especiais em Ciências do Esporte II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP003",
+        "name": "Tópicos Especiais em Ciências do Esporte III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP004",
+        "name": "Tópicos Especiais em Ciências do Esporte IV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP005",
+        "name": "Tópicos Especiais em Ciências do Esporte V",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP006",
+        "name": "Tópicos Especiais em Ciências do Esporte VI",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP007",
+        "name": "Tópicos Especiais em Ciências do Esporte VII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP008",
+        "name": "Tópicos Especiais em Ciências do Esporte VIII",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP009",
+        "name": "Tópicos Especiais em Ciências do Esporte IX",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP010",
+        "name": "Tópicos Especiais em Ciências do Esporte X",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP011",
+        "name": "Tópicos Especiais em Ciências do Esporte XI",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP012",
+        "name": "Tópicos Especiais em Ciências do Esporte XII",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP013",
+        "name": "Tópicos Especiais em Ciências do Esporte XIII",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CP014",
+        "name": "Laboratório de Biomecânica e Instrumentação Aplicada ao Esporte",
+        "credits": 4,
+        "syllabus": "Experimentos de avaliação e análise do movimento humano no contexto esportivo, nas atividades físicas e das atividades da vida diária. Metodologia e instrumentação para obtenção de variáveis biomecânicas. Utilização de técnicas para obtenção de dados a partir de imagens. Processamento digital de imagens. Utilização de sistemas informatizados e ferramentas matemáticas para análise do movimento humano."
+    },
+    {
+        "code": "CP015",
+        "name": "Tratamento Físico Personalizado",
+        "credits": 4,
+        "syllabus": "Introdução ao treinamento físico personalizado. Planejamento, organização e adequação de programas de treinamento físico personalizado com diversos objetivos. Estratégias de divulgação, marketing pessoal e estímulos relacionados à aderência e adesão ao programa. Estruturação, implementação do treinamento e avaliações ao longo das etapas previamente planejadas. Reajustes necessários para a continuidade do programa de treinamento personalizado."
+    },
+    {
+        "code": "CP016",
+        "name": "Práticas em Laboratório de Fisiologia Aplicada ao Esporte",
+        "credits": 3,
+        "syllabus": "Realização de práticas e controles de experimentos em fisiologia do exercício aplicada ao esporte. Discussão crítica dos resultados e dos procedimentos de avaliação e controle do exercício, rotineiramente observados no esporte de alto nível ou mesmo na clínica médica especializada."
+    },
+    {
+        "code": "CP017",
+        "name": "Biologia Molecular do Exercício Físico na Obesidade e Diabetes",
+        "credits": 4,
+        "syllabus": "Adaptações fisiológicas e moleculares do exercício físico agudo e crônico na obesidade e diabetes.",
+        "reqs": [
+            [
+                {
+                    "code": "CP410"
+                },
+                {
+                    "code": "CP506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP018",
+        "name": "Laboratório de Biologia Molecular do Exercício e Resistência à Insulina",
+        "credits": 2,
+        "syllabus": "Estudo das metodologias e ferramentas utilizadas na pesquisa experimental em biologia molecular do exercício físico.",
+        "reqs": [
+            [
+                {
+                    "code": "CP410"
+                },
+                {
+                    "code": "CP506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP019",
+        "name": "Aprofundamento em Esportes Individuais Combinados",
+        "credits": 4,
+        "syllabus": "Aplicação da metodologia de ensino das modalidades individuais em ambiente de incerteza com o meio (ex. corrida de aventura) e nas modalidades individuais em meio estável, com presença de adversários e mediante utilização de um objeto de intermediação. Estudo e aplicação dos aspectos relacionados à estrutura e lógica interna destas modalidades individuais.",
+        "reqs": [
+            [
+                {
+                    "code": "CP412"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP020",
+        "name": "Programas de Esporte e Lazer no Setor Público e Privado",
+        "credits": 4,
+        "syllabus": "Estudos e reflexões acerca da gestão pública e privada sobre projetos e eventos esportivos e voltados ao lazer, a partir de alguns contextos sociais como: repartições e secretarias públicas, clubes, associações, hotéis e academias. Organização e planejamento de projetos e eventos nestes contextos."
+    },
+    {
+        "code": "CP021",
+        "name": "Corpo, Saúde e Beleza",
+        "credits": 4,
+        "syllabus": "Análise das concepções de corpo, saúde e beleza ao longo do tempo até a contemporaneidade, e seus diálogos com o esporte."
+    },
+    {
+        "code": "CP023",
+        "name": "A Infância: Andar, Falar e Pensar",
+        "credits": 2,
+        "syllabus": "Estudo dos aspectos que envolvem a natureza humana individual na infância e a influência na adolescência e vida adulta. O significado do andar, falar e pensar e a relação existente entre estes três aspectos e o esporte. A importância da educação como alicerce na formação da criança considerando o ambiente ao seu redor e o significado das atividades motoras para uma educação corporalmente sadia."
+    },
+    {
+        "code": "CP024",
+        "name": "O Inato e o Adquirido nas Condutas Motoras Esportivas",
+        "credits": 2,
+        "syllabus": "As teorias inatistas, as teorias empiristas, as teorias construtivistas. Perspectivas biológicas e perspectivas culturais no ambiente esportivo. Questões relativas à aprendizagem e a detecção do talento esportivo."
+    },
+    {
+        "code": "CP025",
+        "name": "Pedagogia do Futebol",
+        "credits": 4,
+        "syllabus": "A pedagogia da rua. Os princípios pedagógicos e as condutas pedagógicas do professor de futebol. A metodologia de ensino do futebol baseada em jogos. A organização e planejamento do processo de iniciação ao futebol a partir do estabelecimento de um currículo de formação.",
+        "reqs": [
+            [
+                {
+                    "code": "CP505"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP026",
+        "name": "Treinador Desportivo",
+        "credits": 4,
+        "syllabus": "O treinador desportivo como gestor de campo e líder de equipe. Suas principais características e funções. Os diferentes perfis de liderança e a gestão de grupos heterogêneos. A gestão de pessoas nos esportes individuais e coletivos. O planejamento e logística de equipes."
+    },
+    {
+        "code": "CP027",
+        "name": "Periodização Tática e Periodização de Jogo no Futebol",
+        "credits": 4,
+        "syllabus": "Estudos sobre os princípios norteadores da periodização tática e da periodização de jogo. O processo de elaboração da periodização de jogo a partir das matrizes de jogos e da lógica do jogo de futebol."
+    },
+    {
+        "code": "CP028",
+        "name": "Pedagogia, Futebol e Complexidade",
+        "credits": 2,
+        "syllabus": "O pensamento complexo e seus reflexos nas teorias pedagógicas e nas metodologias de ensino e treinamento. O futebol enquanto uma manifestação de jogo. O jogo como um sistema complexo. O processo organizacional sistêmico do futebol como o princípio da periodização de jogo."
+    },
+    {
+        "code": "CP029",
+        "name": "Atletismo e Corridas Pedestres",
+        "credits": 4,
+        "syllabus": "Aprofundamento aos estudos do Atletismo, enfocando a regulamentação e as técnicas de cada prova, suas concepções de treinamento, bem como de seus aspectos organizacionais. Estudos sobre as corridas pedestres."
+    },
+    {
+        "code": "CP030",
+        "name": "Ginásticas Desportivizadas",
+        "credits": 4,
+        "syllabus": "Práxis de algumas modalidades gímnicas (desportivizadas), como a Ginástica Rítmica, Ginástica Artística, Ginástica de Trampolim e Ginástica Acrobática, abordando aspectos relacionados às especificidades técnicas, a projetos de inserção da modalidade em diferentes contextos, ao seu desenvolvimento (historicamente construído na sociedade e nas organizações esportivas) e à periodização para o alto rendimento."
+    },
+    {
+        "code": "CP031",
+        "name": "Ginástica Geral",
+        "credits": 4,
+        "syllabus": "Práxis das especificidades da Ginástica Geral, compreendendo-a dentro do contexto da qualidade de vida e do movimento EPT (resignificado), como uma prática gímnica que valoriza sobremaneira a formação humana, a vivência de valores sociais e a autonomia. Elaboração de projetos e aulas adequados ao perfil do contexto social no qual será inserida."
+    },
+    {
+        "code": "CP032",
+        "name": "Futsal",
+        "credits": 4,
+        "syllabus": "Estudo e prática dos aspectos técnicos, táticos e físicos do Futsal, e reflexão sobre planejamento, organização e execução de programas de iniciação, especialização e treinamento."
+    },
+    {
+        "code": "CP033",
+        "name": "Futebol de Campo",
+        "credits": 4,
+        "syllabus": "Estudo e prática dos aspectos técnicos, táticos e físicos do Futebol, e reflexão sobre planejamento, organização e execução de programas de iniciação, especialização e treinamento."
+    },
+    {
+        "code": "CP034",
+        "name": "Basquetebol",
+        "credits": 4,
+        "syllabus": "Estudo e prática dos aspectos técnicos, táticos e físicos do basquetebol, e reflexão sobre planejamento, organização e execução de programas de iniciação, especialização e treinamento."
+    },
+    {
+        "code": "CP035",
+        "name": "Voleibol",
+        "credits": 4,
+        "syllabus": "Estudo e prática dos aspectos técnicos, táticos e físicos do Voleibol, e reflexão sobre planejamento, organização e execução de programas de iniciação, especialização e treinamento.",
+        "reqs": [
+            [
+                {
+                    "code": "CP305"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP036",
+        "name": "Handebol",
+        "credits": 4,
+        "syllabus": "Estudo e prática dos aspectos técnicos, táticos e físicos do Handebol, e reflexão sobre planejamento, organização e execução de programas de iniciação, especialização e treinamento."
+    },
+    {
+        "code": "CP037",
+        "name": "Natação",
+        "credits": 4,
+        "syllabus": "Estudos teórico-práticos relativos à natação de alto rendimento, que permitam abordar e desenvolver procedimentos metodológicos para os esportes aquáticos no desde a iniciação até ao alto rendimento, com ênfase na natação."
+    },
+    {
+        "code": "CP038",
+        "name": "Esportes com Raquete",
+        "credits": 4,
+        "syllabus": "Estudo e prática dos aspectos técnicos, táticos e físicos das modalidades com raquete, e reflexão sobre planejamento, organização e execução de programas de iniciação, especialização e treinamento.",
+        "reqs": [
+            [
+                {
+                    "code": "CP412"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP039",
+        "name": "Treinamento Físico Personalizado",
+        "credits": 4,
+        "syllabus": "Introdução ao treinamento físico personalizado. Planejamento, organização e adequação de programas de treinamento físico personalizado com diversos objetivos. Estratégias de divulgação, marketing pessoal e estímulos relacionados à aderência e adesão ao programa. Estruturação, implementação do treinamento e avaliações ao longo das etapas previamente planejadas. Reajustes necessários para a continuidade do programa de treinamento personalizado."
+    },
+    {
+        "code": "CP040",
+        "name": "A Influência do Exercício Físico no Sono e Distúrbios do Sono",
+        "credits": 4,
+        "syllabus": "Estudo dos principais conceitos sobre sono e distúrbios do sono, por meio da análise da literatura acerca dos aspectos fisiológicos e comportamentais. Abordagem de questões relacionadas à influência do exercício físico no padrão de sono e nos distúrbios de sono em diferentes faixas etárias e populações."
+    },
+    {
+        "code": "CP041",
+        "name": "Fundamentos do Poker",
+        "credits": 4,
+        "syllabus": "Modalidades de poker e seus mitos. Regras do Poker Texas Hold'em e desenvolvimento do jogo como esporte. Fundamentos matemáticos do poker: probabilidades, valor esperado, odds, odds implícitos, equilíbio de Nash no poker, variância e gerenciamento de risco. Fundamentos estratégicos do poker: posição, classificação de mãos, análise do flop, blefe, slow-play, sobrevivência x eliminação, gerenciamento de bankroll e aspectos avançados do jogo."
+    },
+    {
+        "code": "CP042",
+        "name": "Estudos Avançados em Exercício Físico e Saúde",
+        "credits": 4,
+        "syllabus": "Estudo da epidemiologia, etiopatogênese, fisiopatologia, biologia molecular e estratégias interdisciplinares, com ênfase na prescrição do exercício físico para a prevenção e o tratamento das doenças crônicas."
+    },
+    {
+        "code": "CP043",
+        "name": "Tênis de Mesa",
+        "credits": 4,
+        "syllabus": "Evolução do tênis de mesa. Competências e organização de conteúdos no tênis de mesa. Ensino-treino do tênis de mesa, baseado em perspectivas pedagógicas atuais, aplicado para jogadores iniciantes, avançados e elite. Organização de eventos envolvendo o tênis de mesa"
+    },
+    {
+        "code": "CP044",
+        "name": "Judô",
+        "credits": 4,
+        "syllabus": "Estudos e vivências teórico-práticas relativos à pedagogia e ao treinamento do Judô, englobando desde suas origens, seu surgimento, sua disseminação, sua esportivização e sua expansão no mundo e no Brasil. Também será abordado o contexto atual do judô enquanto modalidade Olímpica, mas não deixando de considerar o paradoxo existente neste esporte, que se trata do tradicionalismo vs. modernidade."
+    },
+    {
+        "code": "CP045",
+        "name": "Esportes ultraprolongados",
+        "credits": 4,
+        "syllabus": "Estudo dos esportes ultraprolongados tendo por pauta: o atleta; as principais competições; os aspectos tático-técnicos, fisiológicos e emocionais; a preparação dos atletas e a organização de eventos."
+    },
+    {
+        "code": "CP100",
+        "name": "Educação Física e Esporte: Ciência e Profissão",
+        "credits": 4,
+        "syllabus": "Análise reflexiva sobre o conhecimento do processo histórico constitutivo das Ciências do Esporte, compreendendo-se os contextos socioculturais, econômicos e políticos geradores de demandas socioindividuais e interpretativas das produções teórico-metodológicas desta especialidade como ciência."
+    },
+    {
+        "code": "CP101",
+        "name": "Fundamentos da Ginástica",
+        "credits": 4,
+        "syllabus": "Estudo e aplicação das principais escolas ou métodos de ginástica, sua influência na atualidade e suas dimensões pedagógicas."
+    },
+    {
+        "code": "CP102",
+        "name": "História da Educação Física e do Esporte",
+        "credits": 3,
+        "syllabus": "Análise reflexiva sobre o conhecimento do processo histórico constitutivo das Ciências do Esporte, compreendendo-se os contextos sócioculturais, econômicos e políticos geradores de demandas sócioindividuais e interpretativas das produções teórico-metodológicas desta especialidade como ciência."
+    },
+    {
+        "code": "CP103",
+        "name": "Metodologia de Treinamento das Ginásticas",
+        "credits": 2,
+        "syllabus": "Estudos teórico-práticos relativos à pedagogia do esporte, que permitam abordar e desenvolver procedimentos metodológicos para aprendizagem das ginásticas. Conhecimento e entendimento acerca das possibilidades de intervenção do profissional no universo da ginástica (no ensino não formal), abordando também seu diálogo com os debates contemporâneos (corpo, saúde, beleza, entre outros).",
+        "reqBy": [
+            "CP205"
+        ]
+    },
+    {
+        "code": "CP200",
+        "name": "Fundamentos Metodológicos do Treinamento Desportivo",
+        "credits": 4,
+        "syllabus": "Conceituações e estrutura do treinamento desportivo. Princípios do Treinamento. Meios e Métodos do Treinamento. Caracterização das capacidades físicas. Etapas de preparação desportiva de muitos anos.",
+        "reqBy": [
+            "CP602"
+        ]
+    },
+    {
+        "code": "CP201",
+        "name": "Atletismo",
+        "credits": 4,
+        "syllabus": "Introdução aos estudos do Atletismo, de suas concepções pedagógicas e do treinamento, bem como de seus aspectos organizacionais."
+    },
+    {
+        "code": "CP202",
+        "name": "Metodologia de Treinamento dos Esportes Individuais",
+        "credits": 4,
+        "syllabus": "Estudos teóricos-práticos relativos à pedagogia do esporte, que permitam abordar e desenvolver procedimentos metodológicos para aprendizagem, sobretudo, dos esportes em que há predomínio dos movimentos de corridas, saltos, lançamentos e arremessos com implementos específicos e alternativos. Estudo das combinações de movimentos (andar, marchar, correr, saltar, lançar e arremessar), sempre contextualizando-os no Atletismo, triatlon, provas pedestres, entre outras derivações. Introdução a organização de competições pedagógicas."
+    },
+    {
+        "code": "CP203",
+        "name": "Pedagogia do Jogo",
+        "credits": 4,
+        "syllabus": "A teoria do jogo e suas múltiplas abordagens. O ato de jogar e sua relação com o desenvolvimento e aprendizagem. Estudo do jogo na pedagogia. O jogo no processo de construção da cultura lúdica infantil. O jogo e nas novas tendências pedagogia do esporte."
+    },
+    {
+        "code": "CP204",
+        "name": "Tópicos de Pesquisa em Ciências do Esporte",
+        "credits": 4,
+        "syllabus": "Aprofundamento dos fundamentos da Metodologia Científica. Métodos e técnicas de pesquisa nas diferentes áreas de pesquisa em Ciências do Esporte. A comunicação entre orientados/orientadores. Normas para Elaboração de Trabalhos Acadêmicos. O pré-projeto de pesquisa. O Projeto de Pesquisa.  O Experimento. A organização de texto científico (Normas ABNT). A divulgação dos dados obtidos em revistas com seletivo corpo editorial."
+    },
+    {
+        "code": "CP205",
+        "name": "Temas Contemporâneos de Ginásticas",
+        "credits": 2,
+        "syllabus": "Debates sobre as tendências e os dilemas vividos nas manifestações ginásticas na contemporaneidade, em diferentes contextos de intervenção profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "CP103"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP300",
+        "name": "Luta",
+        "credits": 4,
+        "syllabus": "Estudos teórico-práticos sobre Luta e suas relações com o Esporte. Noções das diferentes lutas e procedimentos pedagógicos para o seu ensino e aperfeiçoamento."
+    },
+    {
+        "code": "CP301",
+        "name": "Bioquímica Aplicada às Ciências do Esporte",
+        "credits": 4,
+        "syllabus": "Estudos do anabolismo e catabolismo de carboidratos, lipídeos e aminoácidos, com ênfase na prática esportiva. Controle hormonal e energético do metabolismo. Maquinaria antioxidante e integração metabólica."
+    },
+    {
+        "code": "CP302",
+        "name": "Fundamentos da Antropologia e Esporte",
+        "credits": 4,
+        "syllabus": "Fundamentos de Antropologia Social e suas implicações para o Esporte. A relação entre Esporte e Cultura."
+    },
+    {
+        "code": "CP303",
+        "name": "Pedagogia do Esporte: Esporte Individual I",
+        "credits": 4,
+        "syllabus": "Estudos sobre o conceito e abordagens teóricas em Pedagogia do Esporte, relacionados ao desenvolvimento motor individual, com ênfase nas ações motoras envolvidas na execução dos elementos básicos dos esportes. O Esporte como expressão da cultura e suas implicações para o ensino das modalidades esportivas individuais. Conceitos sobre competição e detecção de talentos esportivos."
+    },
+    {
+        "code": "CP304",
+        "name": "Psicologia no Esporte",
+        "credits": 4,
+        "syllabus": "Fundamentos teóricos da Psicologia no esporte. Estudos dos conceitos básicos e fenômenos da psicologia nas atividades físicas. A relação mente/corpo e fatores de bem-estar e saúde mental. Formação da personalidade. Normal e patológico. Estudo da relação entre as dimensões psicológicas (motivação, ansiedade, tendências, hábitos, vontade, estresse, dependências, agressividade, reações afetivas e auto-imagem) e a prática de atividades específicas. Compulsão. Perdas."
+    },
+    {
+        "code": "CP305",
+        "name": "Pedagogia do Esporte",
+        "credits": 2,
+        "syllabus": "As relações entre a pedagogia e o esporte. O conceito de pedagogia do esporte. As bases de fundamentação das novas tendências em pedagogia do esporte.",
+        "reqBy": [
+            "CP035",
+            "CP806"
+        ]
+    },
+    {
+        "code": "CP306",
+        "name": "Psicologia da Aprendizagem Aplicada ao Esporte",
+        "credits": 2,
+        "syllabus": "Principais teorias da aprendizagem. Teoria cognitiva, psicogenética e sociocultural. O processo de ensino aprendizagem. Mecanismos psicológicos da aprendizagem."
+    },
+    {
+        "code": "CP307",
+        "name": "Bioquímica Metabólica",
+        "credits": 5,
+        "syllabus": "Equilíbrio ácido-base; Estrutura e Metabolismo de Carboidratos (Glicólise, fermentação, glicogenólise, glicogênese, gliconeogênese); Estrutura e Metabolismo de Lipídeos (Oxidação e síntese de ácidos graxos e triacilgliceróis); Estrutura e Metabolismo de Aminoácidos e Proteínas (Síntese de aminoácidos e Ciclo da uréia); Ciclo de Krebs; Cadeia respiratória; Maquinaria Antioxidante. Integração metabólica.",
+        "reqs": [
+            [
+                {
+                    "code": "SL105"
+                }
+            ]
+        ],
+        "reqBy": [
+            "SL208"
+        ]
+    },
+    {
+        "code": "CP400",
+        "name": "Fundamentos de Psicologia e Esporte",
+        "credits": 4,
+        "syllabus": "Estudo das teorias psicológicas e suas visões de corpo e movimento. O conhecimento psicológico aplicado ao Esporte. Aspectos psicológicos do processo ensino-aprendizagem em Esporte. Aspectos psicológicos da prática esportiva. Pesquisa em Psicologia aplicada à iniciação e treinamento esportivo."
+    },
+    {
+        "code": "CP401",
+        "name": "Pedagogia do Esporte: Esporte Coletivo",
+        "credits": 4,
+        "syllabus": "Estudos sobre o conceito e abordagens teóricas em Pedagogia do Esporte. O esporte como expressão de cultura e suas implicações para o ensino das modalidades esportivas coletivas; o esporte coletivo como categoria."
+    },
+    {
+        "code": "CP402",
+        "name": "Atividades Aquáticas: Nado",
+        "credits": 4,
+        "syllabus": "Estudo das formas de expressão humana no meio aquático e suas diferentes manifestações na sociedade."
+    },
+    {
+        "code": "CP403",
+        "name": "Adaptações dos Sistemas Orgânicos ao Treinamento Físico",
+        "credits": 4,
+        "syllabus": "Estudo da fisiologia do exercício. Ajustes e adaptações dos sistemas orgânicos em resposta ao exercício e ao treinamento físico."
+    },
+    {
+        "code": "CP404",
+        "name": "Biomecânica Aplicada em Ciências do Esporte",
+        "credits": 4,
+        "syllabus": "Estudo e aplicação da metodologia e instrumentação para biomecânica voltadas à análise do movimento humano no contexto esportivo, nas atividades físicas e das atividades da vida diária."
+    },
+    {
+        "code": "CP405",
+        "name": "Jogo",
+        "credits": 2,
+        "syllabus": "Introdução aos estudos do jogo como fenômeno-cultural e suas relações com o Esporte."
+    },
+    {
+        "code": "CP406",
+        "name": "Pedagogia do Esporte: Esporte Individual",
+        "credits": 4,
+        "syllabus": "Estudos sobre o conceito e abordagens teóricas em Pedagogia do Esporte. O Esporte como expressão da cultura e suas implicações para o ensino das modalidades esportivas individuais."
+    },
+    {
+        "code": "CP407",
+        "name": "Farmacologia",
+        "credits": 4,
+        "syllabus": "Estudo dos princípios gerais de farmacologia, farmacocinética e farmacodinâmica. Natureza macromolecular dos receptores das drogas. Ações e efeitos de drogas no organismo."
+    },
+    {
+        "code": "CP408",
+        "name": "Pedagogia do Esporte: Esporte Individual II",
+        "credits": 4,
+        "syllabus": "Iniciação esportiva em modalidades individuais, enquanto processo pedagógico, nos esportes de raquete, de aventura, da dança, e outras modalidades individuais."
+    },
+    {
+        "code": "CP409",
+        "name": "Metodologia de Treinamento dos Esportes de Combate",
+        "credits": 4,
+        "syllabus": "Estudos teórico-práticos relativos à pedagogia do esporte, que permitam abordar e desenvolver procedimentos metodológicos para aprendizagem dos esportes de combate.\nConceituação das lutas, artes marciais e esporte de combate. O multiculturalismo e os esportes de combate, com destaque para as práticas presentes no programa Olímpico. A\nesportivização e espetacularização das lutas."
+    },
+    {
+        "code": "CP410",
+        "name": "Fisiologia do Exercício",
+        "credits": 4,
+        "syllabus": "Estudo da fisiologia do exercício. Ajustes e adaptações fisiológicas dos sistemas orgânicos em resposta ao exercício e ao treinamento físico.",
+        "reqs": [
+            [
+                {
+                    "code": "SL208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CP017",
+            "CP018",
+            "CP507",
+            "CP606",
+            "CP607",
+            "CP702"
+        ]
+    },
+    {
+        "code": "CP411",
+        "name": "Fundamentos da Biomecânica",
+        "credits": 4,
+        "syllabus": "Estudo do movimento do corpo humano nas atividades físicas e esportivas a partir dos conceitos mecânicos básicos. Análises dos movimentos a partir de variáveis obtidas por cinemetria, dinamometria, antropometria e eletromiografia.",
+        "reqs": [
+            [
+                {
+                    "code": "SL209"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP412",
+        "name": "Metodologia de Treinamento dos Esportes Individuais Combinados",
+        "credits": 4,
+        "syllabus": "Estudos teórico-práticos relativos à pedagogia do esporte, que permitam abordar e desenvolver procedimentos metodológicos para aprendizagem dos esportes combinados, nas modalidades individuais em ambiente de incerteza com o meio e nas modalidades individuais em meio estável, com presença de adversários e mediante utilização de um objeto de intermediação. Estudo dos aspectos relacionados à estrutura e lógica interna destas modalidades individuais.",
+        "reqBy": [
+            "CP019",
+            "CP038"
+        ]
+    },
+    {
+        "code": "CP500",
+        "name": "Sociologia do Esporte",
+        "credits": 4,
+        "syllabus": "Estudo das relações Esporte e Sociedade e suas implicações na sociedade contemporânea."
+    },
+    {
+        "code": "CP501",
+        "name": "Esporte Adaptado I",
+        "credits": 4,
+        "syllabus": "Estudo dos conceitos de Esporte Adaptado. Fundamentos e características das deficiências sensoriais, físicas e cognitivas. Considerações históricas e sociais.",
+        "reqBy": [
+            "CP704"
+        ]
+    },
+    {
+        "code": "CP502",
+        "name": "Treinamento Desportivo e Rendimento",
+        "credits": 2,
+        "syllabus": "Estudo dos desportos de acordo com a característica das ações motoras, dos meios e métodos de treinamento, das capacidades motoras e sua relação com o princípio da especificidade. Modelos de estruturação e periodização do treinamento desportivo. Planejamento, diagnóstico, programação e execução de treinamento em Ciência do Esporte. Preparação do desempenho.",
+        "reqs": [
+            [
+                {
+                    "code": "CP607"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP503",
+        "name": "Aprendizagem Motora",
+        "credits": 4,
+        "syllabus": "Estudo das teorias, processos e mecanismos específicos da aprendizagem motora."
+    },
+    {
+        "code": "CP504",
+        "name": "Fundamentos de Esportes de Raquete",
+        "credits": 2,
+        "syllabus": "Os esportes de raquete enquanto processo pedagógico. Os diferentes estilos na aprendizagem e na prática esportiva. Fundamentos destes esportes."
+    },
+    {
+        "code": "CP505",
+        "name": "Metodologia de Treinamento dos Esportes Coletivos I",
+        "credits": 4,
+        "syllabus": "Estudos teórico-práticos relativos à pedagogia do esporte, que permitam abordar e desenvolver procedimentos metodológicos para aprendizagem dos esportes coletivos no proceso de iniciação, tendo por referências as competências essenciais dos jogos coletivos, suas características gerais e o desenvolvimento das habilidades abertas em contexto de jogo.",
+        "reqBy": [
+            "CP025",
+            "CP608"
+        ]
+    },
+    {
+        "code": "CP506",
+        "name": "Biologia Molecular do Exercício",
+        "credits": 2,
+        "syllabus": "Conceitos básicos e atuais em biologia molecular do exercício. Adaptações moleculares ao exercício agudo e ao treinamento.",
+        "reqs": [
+            [
+                {
+                    "code": "SL208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CP017",
+            "CP018"
+        ]
+    },
+    {
+        "code": "CP507",
+        "name": "Atividade Física e Esporte para Grupos Especiais",
+        "credits": 4,
+        "syllabus": "Estudo das diferentes alterações no corpo humano relacionadas às populações especiais (gestantes, obesos, cardiopatas, hipertensos, diabéticos, etc.) para promoção, manutenção e recuperação da saúde através do exercício físico e do esporte.",
+        "reqs": [
+            [
+                {
+                    "code": "CP410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP508",
+        "name": "Epidemiologia Básica",
+        "credits": 2,
+        "syllabus": "Conceitos, métodos e aplicações na Epidemiologia. Elementos da Epidemiologia descritiva e os métodos de estudos de agravos à saúde na população. Indicadores de saúde. Análise e interpretação das medidas de risco e associação. Método epidemiológico. Desenhos de estudo epidemiológicos.",
+        "reqs": [
+            [
+                {
+                    "code": "SL303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP509",
+        "name": "Estágio Em Ciência do Esporte - Esporte Adaptado",
+        "credits": 6,
+        "syllabus": "  Atividades de estágio que propiciem ao/à profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional, dentro dos esportes adaptados."
+    },
+    {
+        "code": "CP510",
+        "name": "Estágio Em Ciência do Esporte",
+        "credits": 6,
+        "syllabus": "Atividades de estágio que propiciem ao/à profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional."
+    },
+    {
+        "code": "CP600",
+        "name": "Políticas Públicas em Esporte",
+        "credits": 4,
+        "syllabus": "Análise das políticas públicas em Esporte, nos seus mais diversos níveis (municipal, estadual e federal), ao longo do tempo, e seus impactos nas concepções e nos processos de democratização do esporte.",
+        "reqs": [
+            [
+                {
+                    "code": "AA425",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP601",
+        "name": "Fundamentos de Nutrição e Esporte",
+        "credits": 4,
+        "syllabus": "Estudo dos nutrientes essenciais, seu papel metabólico e consequências de suas carências. Demandas alimentares durante as fases do desenvolvimento humano e na atividade física e esporte. Estudo sobre ergogênicos nutricionais."
+    },
+    {
+        "code": "CP602",
+        "name": "Avaliação em Ciências do Esporte",
+        "credits": 4,
+        "syllabus": "Estudo dos testes, medidas, avaliações e análise de dados em Ciências do Esporte, em suas diferentes manifestações. Métodos de avaliação diversificados, desde utilizados em diagnóstico até envolvidos com a prescrição de intensidade de exercício. Avaliações das capacidades físicas em diversas faixas etárias e condições esportivas.",
+        "reqs": [
+            [
+                {
+                    "code": "CP200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CP607",
+            "SL602"
+        ]
+    },
+    {
+        "code": "CP603",
+        "name": "Dança",
+        "credits": 2,
+        "syllabus": "Introdução à linguagem da Dança como expressão histórica e cultural, popular, clássica e moderna e suas relações com o Esporte. Estudo sobre os métodos de expressão corporal. O ritmo e a expressão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP604",
+        "name": "Pedagogia do Esporte: Esporte Coletivo II",
+        "credits": 4,
+        "syllabus": "Estudos sobre pedagogia do esporte e suas implicações nos métodos de ensino dos jogos esportivos coletivos. Estabelecer relações com os modelos de aprendizagem aplicados à iniciação esportiva nas diferentes formas de expressão do esporte."
+    },
+    {
+        "code": "CP605",
+        "name": "Introdução aos Estudos Adaptados",
+        "credits": 4,
+        "syllabus": "Estudo dos conceitos de Esporte Adaptado. Fundamentos e características das deficiências sensoriais, físicas e cognitivas. Considerações históricas e sociais dos esportes adaptados e o impacto na organização do esporte nacional."
+    },
+    {
+        "code": "CP606",
+        "name": "Fundamentos do Treinamento Resistido",
+        "credits": 2,
+        "syllabus": "Estudo teórico-prático dos fundamentos básicos do treinamento resistido. Estudo das adaptações fisiológicas e metabólicas que ocorrem no corpo humano em resposta ao exercício físico resistido crônico e agudo. Elaboração de programas de exercício físico resistido.",
+        "reqs": [
+            [
+                {
+                    "code": "CP410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP607",
+        "name": "Avaliações Fisiológicas Aplicadas ao Esporte",
+        "credits": 4,
+        "syllabus": "Variáveis fisiológicas e determinação da intensidade de esforço por meio de avaliações aplicadas ao esporte. Estrutura das avaliações embasadas em respostas fisiológicas e adequações ao esporte em suas diversas vertentes, tais como etapas de treinamento a longo prazo, fases da periodização e objetivos diferenciados. Compreensão correta dos resultados fornecidos por avaliações fisiológicas em ciências do esporte.",
+        "reqs": [
+            [
+                {
+                    "code": "CP410"
+                },
+                {
+                    "code": "CP602"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CP502"
+        ]
+    },
+    {
+        "code": "CP608",
+        "name": "Metodologia de Treinamento dos Esportes Coletivos II",
+        "credits": 4,
+        "syllabus": "Estudos teórico-práticos relativos à pedagogia do esporte, que permitam abordar e desenvolver procedimentos metodológicos para aprendizagem, aperfeiçoamento e treinamento dos esportes coletivos no processo de especialização tendo por referências as competências essenciais dos jogos coletivos e suas manifestações específicas em contexto de jogo.",
+        "reqs": [
+            [
+                {
+                    "code": "CP505"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP609",
+        "name": "Introdução aos Esportes Adaptados",
+        "credits": 2,
+        "syllabus": "Estudo dos conceitos de Esporte Adaptado. Fundamentos e características das deficiências sensoriais, físicas e cognitivas. Considerações históricas e sociais dos esportes adaptados e o impacto na organização do esporte nacional.",
+        "reqBy": [
+            "CP706"
+        ]
+    },
+    {
+        "code": "CP610",
+        "name": "Análise de Desempenho em Esportes Coletivos",
+        "credits": 3,
+        "syllabus": "Estudo dos métodos, ferramentas computacionais e variáveis do jogo, utilizadas no planejamento do treinamento, controle de informações e tomadas de decisão das comissões técnicas. Coleta e análise de dados em jogos, a partir de registros em vídeo."
+    },
+    {
+        "code": "CP700",
+        "name": "Socorros de Urgência",
+        "credits": 2,
+        "syllabus": "Reconhecimento da situação de emergência, prioridade e condutas a serem tomadas. Prevenção de acidentes. Primeiros Socorros em lesões mais frequentes e naquelas relacionadas às práticas de atividades físicas. Atuação do Profissional de Educação Física como educador na prática de primeiro socorrista."
+    },
+    {
+        "code": "CP701",
+        "name": "Esporte, Lazer e Sociedade",
+        "credits": 3,
+        "syllabus": "Análise acerca dos papéis do esporte e do lazer no desenvolvimento da sociedade ao longo do tempo e na contemporaneidade, especialmente em alguns marcos históricos, estabelecendo relações com os aspectos culturais e educacionais, com vistas a uma transformação da realidade."
+    },
+    {
+        "code": "CP702",
+        "name": "Processo de Envelhecimento e Ciência do Esporte",
+        "credits": 2,
+        "syllabus": "Estudo do processo de envelhecimento. Estudo do exercício físico e das manifestações esportivas relacionados ao processo de envelhecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "CP410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP703",
+        "name": "Fundamentos de Marketing e Esporte",
+        "credits": 4,
+        "syllabus": "Estudo dos fundamentos de Marketing aplicados ao esporte. Conceitos de Marketing associando estes conhecimentos com situações aplicadas no Esporte. Relações de causa-efeito nas ações de MKT aplicadas ao Esporte.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP704",
+        "name": "Esporte Adaptado II",
+        "credits": 4,
+        "syllabus": "Estudo das modalidades esportivas adaptadas (histórico e evolução). Avaliação funcional do esporte adaptado. Regulamento e pontuação nas várias modalidades. A organização do Esporte Paraolímpico. Modalidade de Esporte Paraolímpico.",
+        "reqs": [
+            [
+                {
+                    "code": "CP501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP705",
+        "name": "Estágio em Ciências do Esporte I",
+        "credits": 14,
+        "syllabus": "Atividades de estágio que propiciem ao profissional em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA468",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP706",
+        "name": "Esporte Adaptado",
+        "credits": 4,
+        "syllabus": "Estudo das modalidades esportivas adaptadas (histórico e evolução). Avaliação funcional do esporte adaptado. Regulamento e pontuação nas várias modalidades. A organização do Esporte Paraolímpico. Modalidade de Esporte Paraolímpico.",
+        "reqs": [
+            [
+                {
+                    "code": "CP609"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP707",
+        "name": "Trabalho de Conclusão de Curso I",
+        "credits": 4,
+        "syllabus": "Supervisão do desenvolvimento dos trabalhos monográficos de conclusão de curso, ofertando suporte aos docentes e discentes. Orientações para a composição do trabalho monográfico, em seus diferentes aspectos: formatação, normalização (ABNT), estrutura, metodologia da pesquisa, coesão textual e fundamentação acadêmico-científica. Finalização do trabalho e dos textos e execução das bancas de defesa pública dos trabalhos monográficos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "CP807"
+        ]
+    },
+    {
+        "code": "CP708",
+        "name": "Psicologia no Esporte e na Atividade Física I",
+        "credits": 3,
+        "syllabus": "Nesta disciplina serão apresentados e discutidos conceitos introdutórios da psicologia do esporte, fundamentos da psicologia do esporte e do exercício físico. Conceitos básicos da área da psicologia e implicações éticas envolvidas no esporte e na atividade física. O comportamento humano no contexto do esporte e da atividade física. Teorias da personalidade. Personalidade e esporte. Percepção no esporte. Regulação psicológica da ação esportiva. Teorias da motivação. Conceitos de ativação, estresse e ansiedade e sua relação com o desempenho no contexto esportivo e da atividade física. Pesquisas em psicologia do esporte e do exercício.",
+        "reqBy": [
+            "CP808"
+        ]
+    },
+    {
+        "code": "CP709",
+        "name": "Treinadores e Treinadoras Esportivos",
+        "credits": 4,
+        "syllabus": "Treinadores e treinadoras esportivos como gestores de campo e líder de equipes. Suas principais características, competências e funções. O desenvolvimento e aprendizagem de treinadores e treinadoras como um processo ao longo da vida."
+    },
+    {
+        "code": "CP800",
+        "name": "Atividade Física e Esporte para Grupos Diferenciados",
+        "credits": 4,
+        "syllabus": "Estudo das concepções e procedimentos para o desenvolvimento de programas de atividades físicas e de Esporte para grupos diferenciados, tais como: gestantes, obesos, cardiopatas, hipertensos e diabéticos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP801",
+        "name": "Organização e Gestão em Esporte",
+        "credits": 4,
+        "syllabus": "Estudo da administração e da gestão e a aplicação de conhecimento destas áreas em toda variedade de atividades existentes no fenômeno Esporte."
+    },
+    {
+        "code": "CP802",
+        "name": "Prevenção e Reabilitação em Ciência do Esporte",
+        "credits": 4,
+        "syllabus": "Conceitos, classificação e estudo das lesões desportivas. Implicações do destreinamento no esportista. As doenças crônica-degenerativas não transmissíveis nas Ciências do Esporte.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP803",
+        "name": "Estágio em Ciência do Esporte II",
+        "credits": 14,
+        "syllabus": "Atividades de estágio que propiciem ao profissinal em formação o contato com experiências, práticas e conhecimentos próprios ao campo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA468",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP804",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 4,
+        "syllabus": "Revisar as normas e discutir o desenvolvimento do trabalho de conclusão de curso. Habilitar o aluno tanto para pensar criticamente sobre as diferentes etapas do projeto de pesquisa (materiais e métodos, coleta de dados, análise de resultados, discussão e considerações finais) como também, para elaborar poster e apresentações orais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "SL600"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP805",
+        "name": "Marketing Esportivo",
+        "credits": 4,
+        "syllabus": "Compreensão dos fundamentos do Marketing e sua aplicabilidade no contexto esportivo, analisando diversas interfaces do produto esporte (e o que o esporte gera como produto) e o mercado, preferencialmente por meio de \"cases\""
+    },
+    {
+        "code": "CP806",
+        "name": "Metodologia de Treinamento dos Esportes Aquáticos",
+        "credits": 4,
+        "syllabus": "Estudos teórico-práticos relativos à pedagogia do esporte, que permitam abordar e desenvolver procedimentos metodológicos para aprendizagem dos esportes aquáticos no processo de iniciação, com ênfase na natação.",
+        "reqs": [
+            [
+                {
+                    "code": "CP305"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP807",
+        "name": "Trabalho de Conclusão de Curso II",
+        "credits": 4,
+        "syllabus": "Supervisão do desenvolvimento dos trabalhos monográficos de conclusão de curso, ofertando suporte aos docentes e discentes. Orientações para a composição do trabalho monográfico, em seus diferentes aspectos: formatação, normalização (ABNT), estrutura, metodologia da pesquisa, coesão textual e fundamentação acadêmico-científica. Finalização do trabalho e dos textos e execução das bancas de defesa pública dos trabalhos monográficos.",
+        "reqs": [
+            [
+                {
+                    "code": "CP707"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CP808",
+        "name": "Psicologia no Esporte e na Atividade Física II",
+        "credits": 2,
+        "syllabus": "Nesta disciplina serão discutidos temas relacionados com: aspectos psicológicos que interferem no desempenho esportivo e na atividade física. Tomada de decisão no esporte. Processos de grupo (grupos e equipe; liderança; coesão de grupo; comunicação). Emoções no esporte. Saúde e bem-estar (exercício e bem-estar psicológico; comportamento e adesão ao exercício; reações psicológicas associadas à lesão esportiva; comportamentos dependentes e patológicos; Burnout; excesso de exercício; compulsões e perdas). Agressividade. A criança no esporte. Desenvolvimento do caráter e espírito esportivo. Expertise. Planejamento da carreira esportiva. ",
+        "reqs": [
+            [
+                {
+                    "code": "CP708"
+                }
+            ]
+        ]
+    }
+]

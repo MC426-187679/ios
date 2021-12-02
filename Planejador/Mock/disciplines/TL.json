@@ -1,0 +1,1422 @@
+[
+    {
+        "code": "TL054",
+        "name": "Tópicos Especiais em Cultura Portuguesa",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL055",
+        "name": "Tópicos Especiais em Literatura Infantil",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL056",
+        "name": "Tópicos Especiais em Literatura Hispano-Americana I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL057",
+        "name": "Tópicos Especiais em Literatura Hispano-Americana II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL058",
+        "name": "Tópicos Especiais em Literatura Hispano-Americana III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL059",
+        "name": "Tópicos Especiais em Estética e Literatura I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL060",
+        "name": "Tópicos Especiais em Estética e Literatura II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL061",
+        "name": "Tópicos Especiais em Estética e Literatura III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL062",
+        "name": "Tópicos Especiais em Teoria Literária I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL063",
+        "name": "Tópicos Especiais em Teoria Literária II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL064",
+        "name": "Tópicos Especiais em Teoria Literária III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL065",
+        "name": "Tópicos Especiais em Crítica Literária I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL066",
+        "name": "Tópicos Especiais em Crítica Literária II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL067",
+        "name": "Tópicos Especiais em Crítica Literária III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL068",
+        "name": "Tópicos Especiais em História Literária I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL069",
+        "name": "Tópicos Especiais em História Literária II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL070",
+        "name": "Tópicos Especiais em História Literária III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL071",
+        "name": "Estágio Supervisionado",
+        "credits": 8,
+        "syllabus": "Estágio supervisionado a ser cumprido em atividade relativa ao ensino de literatura."
+    },
+    {
+        "code": "TL072",
+        "name": "Tópicos Especiais de Literatura e Sociedade I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL073",
+        "name": "Tópicos Especiais de Literatura e Sociedade II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL074",
+        "name": "Tópicos Especiais de Literatura e Sociedade III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL075",
+        "name": "Tópicos Especiais de Literatura e História I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL076",
+        "name": "Tópicos Especiais de Literatura e História II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL077",
+        "name": "Tópicos Especiais de Literatura e História III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL078",
+        "name": "Tópicos Especiais de Literatura e Cultura Popular I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL079",
+        "name": "Tópicos Especiais de Literatura e Cultura Popular II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL080",
+        "name": "Tópicos Especiais de Literatura e Cultura Popular III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL081",
+        "name": "Tópicos Especiais de Literatura e Psicanálise I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL082",
+        "name": "Tópicos Especiais de Literatura e Psicanálise II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL083",
+        "name": "Tópicos Especiais de Literatura e Psicanálise III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL084",
+        "name": "Tópicos Especiais de Literatura Comparada I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL085",
+        "name": "Tópicos Especiais de Literatura Comparada II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL086",
+        "name": "Tópicos Especiais de Literatura Comparada III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL087",
+        "name": "Tópicos Especiais de Literatura Brasileira I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL088",
+        "name": "Tópicos Especiais de Literatura Brasileira II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL089",
+        "name": "Tópicos Especiais de Literatura Brasileira III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL090",
+        "name": "Tópicos Especiais de Literatura Portuguesa I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL091",
+        "name": "Tópicos Especiais de Literatura Portuguesa II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL092",
+        "name": "Tópicos Especiais de Literatura Portuguesa III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL093",
+        "name": "Tópicos Especiais de Literaturas em Línguas Estrangeiras I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL094",
+        "name": "Tópicos em Produção de Textos I",
+        "credits": 4,
+        "syllabus": "Estudo prático da produção de textos em gêneros acadêmicos ou literários."
+    },
+    {
+        "code": "TL095",
+        "name": "Tópicos em Produção de Textos II",
+        "credits": 4,
+        "syllabus": "Estudo prático da produção de textos em gêneros acadêmicos ou literários."
+    },
+    {
+        "code": "TL096",
+        "name": "Tópicos Especiais de Literatura e Outras Produções Culturais I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL097",
+        "name": "Tópicos Especiais de Literatura e Outras Produções Culturais II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL098",
+        "name": "Tópicos Especiais de Literatura e Outras Produções Culturais III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL099",
+        "name": "Tópicos em Literatura Infantil",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL106",
+        "name": "Textos Fundamentais de Literatura",
+        "credits": 2,
+        "syllabus": "Leitura de textos básicos da literatura (ficção, poesia e teatro), selecionados de modo a construir repertório formativo."
+    },
+    {
+        "code": "TL107",
+        "name": "Tópicos em História Literária Portuguesa I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL108",
+        "name": "Introdução à Literatura e Cultura Brasileira",
+        "credits": 4,
+        "syllabus": "Apresentação aos alunos ingressantes do campo de pesquisa em literatura e cultura brasileira. Análise de textos literários e/ou ensaísticos que possibilitem a reflexão sobre modelos de ensino de literatura e cultura brasileiras."
+    },
+    {
+        "code": "TL109",
+        "name": "Introdução aos Estudos Literários",
+        "credits": 4,
+        "syllabus": "Análise de textos teóricos, críticos e de história literária, bem como de textos em prosa e poesia, que possibilitem uma introdução ao campo dos estudos literários."
+    },
+    {
+        "code": "TL118",
+        "name": "Textos em Teoria, Crítica e História Literária I",
+        "credits": 2,
+        "syllabus": "Introdução à leitura e interpretação de textos de teoria, critica e historiografia literária selecionados de modo a constituir repertório formativo. Sugere-se a concomitância de matrícula com TL222."
+    },
+    {
+        "code": "TL120",
+        "name": "Tópicos em Teoria e História Literária I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL121",
+        "name": "Tópicos Especiais de Literatura e Identidade Cultural I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL122",
+        "name": "Tópicos Especiais de Literatura e Identidade Cultural II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL123",
+        "name": "Tópicos Especiais de Literatura e Identidade Cultural III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL124",
+        "name": "Tópicos Especiais de Literatura e Filosofia I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL125",
+        "name": "Tópicos Especiais de Literatura e Filosofia II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL126",
+        "name": "Tópicos Especiais de Literatura e Filosofia III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL127",
+        "name": "Tópicos em História Literária Portuguesa II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL128",
+        "name": "Tópicos em Literatura Brasileira I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL129",
+        "name": "Tópicos Especiais em Teatro I",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL130",
+        "name": "Tópicos em Teoria e História Literária II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL131",
+        "name": "Tópicos Especiais de Literatura Italiana I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL132",
+        "name": "Tópicos Especiais de Literatura Italiana II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL133",
+        "name": "Tópicos Especiais de Literatura Italiana III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL134",
+        "name": "Tópicos Especiais de Literatura e Geografia I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL135",
+        "name": "Tópicos Especiais de Literatura e Geografia II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL136",
+        "name": "Tópicos Especiais de Literatura e Geografia III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL137",
+        "name": "Tópicos em História Literária Portuguesa III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL138",
+        "name": "Tópicos em Literatura Brasileira II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL139",
+        "name": "Tópicos Especiais em Teatro II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL140",
+        "name": "Tópicos em Teoria e História Literária III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL141",
+        "name": "Tópicos Especiais em Tradução Literária I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL142",
+        "name": "Tópicos Especiais em Tradução Literária II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL143",
+        "name": "Tópicos Especiais em Tradução Literária III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL144",
+        "name": "Tópicos Especiais em Prosa Não-Ficcional I",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL145",
+        "name": "Tópicos X: Textos em Teatro III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL146",
+        "name": "Tópicos XI: Textos em Teatro IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL147",
+        "name": "Tópicos em História Literária Portuguesa IV",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL148",
+        "name": "Tópicos em Literatura Brasileira III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL149",
+        "name": "Tópicos XII: Textos em Poesia III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL150",
+        "name": "Tópicos em Teoria e História Literária IV",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL151",
+        "name": "Tópicos XIII: Textos em Poesia IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL152",
+        "name": "Tópicos XIV: Textos em Prosa de Ficção III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL153",
+        "name": "Tópicos XV: Textos em Prosa de Ficção IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL154",
+        "name": "Tópicos XVI: Textos em Prosa Não-Ficcional III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL155",
+        "name": "Tópicos em Literatura Clássica I",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo de temas, obras e autores paradigmáticos da tradição greco-latina."
+    },
+    {
+        "code": "TL156",
+        "name": "Tópicos XVII: Textos em Prosa Não-Ficcional IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL157",
+        "name": "Tópicos em História Literária Portuguesa V",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL158",
+        "name": "Tópicos em Literatura Brasileira IV",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL159",
+        "name": "Tópicos XVIII: Textos em Teoria, Crítica e História Literária III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL160",
+        "name": "Tópicos em Teoria e História Literária V",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL161",
+        "name": "Tópicos XIX: Textos em Teoria, Crítica e História Literária IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL162",
+        "name": "Tópicos em Pesquisa XIII: Literatura e Imprensa II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL163",
+        "name": "Tópicos em Pesquisa XIV: Literatura e Imprensa III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL164",
+        "name": "Tópicos em Pesquisa XIV: Literatura e Imprensa IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL165",
+        "name": "Tópicos em Pesquisa I: Teoria Literária I",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL166",
+        "name": "Tópicos em Pesquisa II: Crítica Literária I",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL167",
+        "name": "Tópicos em História Literária Portuguesa VI",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL168",
+        "name": "Tópicos em Literatura Brasileira V",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL169",
+        "name": "Tópicos Especiais em Prosa Não-Ficcional II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL170",
+        "name": "Tópicos em Pesquisa XV: Literatura e Outras Artes II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL171",
+        "name": "Tópicos em Pesquisa XV: Literatura e Outras Artes III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL172",
+        "name": "Tópicos em Pesquisa XV: Literatura e Outras Artes IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL173",
+        "name": "Tópicos Especiais em Prosa Não-Ficcional III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL190",
+        "name": "Tópicos Especiais em Poesia I",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL191",
+        "name": "Tópicos Especiais em Poesia II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL192",
+        "name": "Tópicos Especiais em Poesia III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL193",
+        "name": "Tópicos Especiais em Poesia IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL194",
+        "name": "Tópicos Especiais em Poesia V",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL195",
+        "name": "Tópicos Especiais em Prosa de Ficção I",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL196",
+        "name": "Tópicos Especiais em Prosa de Ficção II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL197",
+        "name": "Tópicos Especiais em Prosa de Ficção III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL198",
+        "name": "Tópicos Especiais em Prosa de Ficção IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL199",
+        "name": "Tópicos Especiais em Prosa de Ficção V",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL206",
+        "name": "Tópicos Especiais em Prosa Não-Ficcional IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL207",
+        "name": "Tópicos em Literatura de Língua Portuguesa: África",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL208",
+        "name": "Tópicos em Literatura Brasileira: Autores I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL209",
+        "name": "Tópicos em Literatura Hispano-Americana",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL210",
+        "name": "Tópicos Especiais em Teoria, Crítica e História Literária I",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL222",
+        "name": "Pesquisa XII: Historiografia Literária I",
+        "credits": 2,
+        "syllabus": "Introdução à pesquisa em historiografia literária, com análise de bibliografia pertinente. Sugere-se a concomitância de matrícula com TL118."
+    },
+    {
+        "code": "TL223",
+        "name": "Tópicos em Pesquisa XVIII: Literatura e Suportes Materiais II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL224",
+        "name": "Tópicos em Pesquisa XX: Literatura e Suportes Materiais III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL225",
+        "name": "Tópicos em Pesquisa XXI: Literatura e Suportes Materiais IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL226",
+        "name": "Tópicos Especiais em Teoria, Crítica e História Literária II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL227",
+        "name": "Tópicos em Literatura de Língua Portuguesa: Ásia",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL228",
+        "name": "Tópicos em Literatura Brasileira: Autores II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL229",
+        "name": "Tópicos em Pesquisa XXI: Literatura e Ensino II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL230",
+        "name": "Tópicos em Pesquisa XXII: Literatura e Ensino III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL231",
+        "name": "Tópicos em Pesquisa XXIII: Literatura e Ensino IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL232",
+        "name": "Tópicos em Pesquisa XXIV: Literatura e suas Fontes Históricas II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL233",
+        "name": "Tópicos em Pesquisa XXV: Literatura e suas Fontes Históricas III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL234",
+        "name": "Tópicos em Pesquisa XXVI: Literatura e suas Fontes Históricas IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL235",
+        "name": "Tópicos em Pesquisa XXVII: Literatura e Práticas de Leitura II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL236",
+        "name": "Tópicos em Pesquisa XXVIII: Literatura e Práticas de Leitura III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL237",
+        "name": "Tópicos em Pesquisa XXIX: Literatura e Práticas de Leitura IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL238",
+        "name": "Tópicos em Literatura Brasileira: Autores III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL239",
+        "name": "Tópicos em Pesquisa XXX: Tradução Literária II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL240",
+        "name": "Tópicos em Pesquisa XXXI: Tradução Literária III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL241",
+        "name": "Tópicos em Pesquisa XXXII: Tradução Literária IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL242",
+        "name": "Tópicos em Pesquisa XXXIII: Temas e Questões de Literatura Brasileira II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL243",
+        "name": "Tópicos em Pesquisa XXXIV: Temas e Questões de Literatura Brasileira III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL244",
+        "name": "Tópicos em Pesquisa XXXV: Temas e Questões de Literatura Brasileira V",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL245",
+        "name": "Tópicos em Pesquisa XXXVI: Literatura e Arquivos II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL246",
+        "name": "Tópicos em Pesquisa XXXVII: Literatura e Arquivos III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL247",
+        "name": "Tópicos em Pesquisa XXXVIII: Literatura e Arquivos IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL248",
+        "name": "Tópicos em Pesquisa XXXIX: Teoria Literária II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL249",
+        "name": "Tópicos em Pesquisa XL: Teoria Literária III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL250",
+        "name": "Tópicos em Pesquisa XL: Teoria Literária IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL251",
+        "name": "Tópicos em Pesquisa XLII: Crítica Literária II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL252",
+        "name": "Tópicos em Pesquisa XLIII: Crítica Literária III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL253",
+        "name": "Tópicos em Pesquisa XLIV: Crítica Literária IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL254",
+        "name": "Tópicos em Pesquisa XLV: Historiografia Literária II",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL255",
+        "name": "Tópicos em Literatura Clássica II",
+        "credits": 4,
+        "syllabus": "Estudo de temas, obras e autores paradigmáticos da tradição greco-latina."
+    },
+    {
+        "code": "TL256",
+        "name": "Tópicos em Pesquisa XLVI: Historiografia Literária III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL257",
+        "name": "Tópicos em Pesquisa XLVII: Historiografia Literária IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL258",
+        "name": "Tópicos Especiais em Literatura Espanhola I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL259",
+        "name": "Tópicos Especiais em Literatura Espanhola II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL260",
+        "name": "Tópicos Especiais em Literatura Espanhola III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL261",
+        "name": "Tópicos Especiais em Literatura e Direito I",
+        "credits": 4,
+        "syllabus": "Introdução à pesquisa das relações entre a literatura e direito, com análise de corpus a ser estabelecido."
+    },
+    {
+        "code": "TL262",
+        "name": "Tópicos Especiais em Literatura e Direito II",
+        "credits": 4,
+        "syllabus": "Introdução à pesquisa das relações entre literatura e direito, com análise de corpus a ser estabelecido."
+    },
+    {
+        "code": "TL263",
+        "name": "Tópicos Especiais em Literatura e Direito III",
+        "credits": 4,
+        "syllabus": "Introdução à pesquisa das relações entre literatura e direito, com análise de corpus a ser estabelecido."
+    },
+    {
+        "code": "TL264",
+        "name": "Tópicos Especiais em Teoria, Crítica e História Literária III",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL265",
+        "name": "Tópicos Especiais em Teoria, Crítica e História Literária IV",
+        "credits": 2,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL266",
+        "name": "Tópicos Especiais em Editoração I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL267",
+        "name": "Tópicos Especiais em Editoração II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL268",
+        "name": "Investigação em Editoração I",
+        "credits": 8,
+        "syllabus": "Atividade prática em editoração sob supervisão de docente do curso de Estudos Literários, a ser desenvolvida como projeto individual ou como estágio em empresa autorizado pela coordenação do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL269",
+        "name": "Investigação em Editoração II",
+        "credits": 8,
+        "syllabus": "Atividade prática em editoração sob supervisão de docente do curso de Estudos Literários, a ser desenvolvida como projeto individual ou como estágio em empresa autorizado pela coordenação do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL304",
+        "name": "Tópicos Especiais em Literatura Comparada I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL305",
+        "name": "Tópicos Especiais em Literatura Comparada II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL306",
+        "name": "Tópicos Especiais em Literatura Comparada III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL309",
+        "name": "Tópico em Literatura Italiana",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL311",
+        "name": "Tópicos Especiais em Literatura em Língua Inglesa I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL312",
+        "name": "Tópicos Especiais em Literatura em Língua Inglesa II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL313",
+        "name": "Tópicos Especiais em Literatura em Língua Inglesa III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL314",
+        "name": "Tópicos Especiais em Literatura em Língua Francesa I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL315",
+        "name": "Tópicos Especiais em Literatura em Língua Francesa II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL316",
+        "name": "Tópicos Especiais em Literatura em Língua Francesa III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL317",
+        "name": "Tópicos Especiais em Literatura em Língua Alemã I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento."
+    },
+    {
+        "code": "TL318",
+        "name": "Tópicos em Literatura Brasileira: Regiões I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL319",
+        "name": "Tópicos Especiais em Literatura em Língua Alemã II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL320",
+        "name": "Tópicos em Teoria Literária",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL321",
+        "name": "Tópicos Especiais em Literatura em Língua Alemã III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL322",
+        "name": "Tópicos Especiais em Literatura em Línguas Estrangeiras I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL323",
+        "name": "Tópicos Especiais em Literatura em Línguas Estrangeiras II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL324",
+        "name": "Tópicos Especiais em Literatura em Línguas Estrangeiras III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL328",
+        "name": "Tópicos em Literatura Brasileira: Regiões II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL338",
+        "name": "Tópicos em Literatura Brasileira: Regiões III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL404",
+        "name": "Literatura e Ensino",
+        "credits": 2,
+        "syllabus": "Introdução à discussão sobre o ensino da literatura a partir de uma abordagem de seu conteúdo enquanto disciplina escolar. O conceito de cânone e a formação do cânone literário na literatura brasileira. O problema da periodização na história da literatura, aplicado à literatura brasileira."
+    },
+    {
+        "code": "TL405",
+        "name": "Seminários em Ensino de Literatura",
+        "credits": 2,
+        "syllabus": "Estudos sobre o ensino de literatura em uma abordagem interdisciplinar com outros campos das humanidades. O papel das humanidades e da literatura na educação. O problema do valor no estudo da literatura, aplicado à literatura brasileira. "
+    },
+    {
+        "code": "TL406",
+        "name": "Laboratório de Ensino em Literatura",
+        "credits": 8,
+        "syllabus": "Pesquisa orientada para elaboração de propostas de ensino de Literatura."
+    },
+    {
+        "code": "TL409",
+        "name": "Tópico em Literatura Espanhola",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL418",
+        "name": "Tópicos em Literatura Brasileira: Movimentos I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL419",
+        "name": "História do Livro e da Leitura",
+        "credits": 4,
+        "syllabus": "Uma introdução à história e à historiografia do livro e da leitura."
+    },
+    {
+        "code": "TL420",
+        "name": "Tópicos em Literatura Comparada",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL428",
+        "name": "Tópicos em Literatura Brasileira: Movimentos II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL438",
+        "name": "Tópicos em Literatura Brasileira: Movimentos III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL509",
+        "name": "Tópico em Literatura em Língua Inglesa",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL518",
+        "name": "Tópicos em Literatura Brasileira: Gêneros I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL528",
+        "name": "Tópicos em Literatura Brasileira: Gêneros II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL538",
+        "name": "Tópicos em Literatura Brasileira: Gêneros III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL609",
+        "name": "Tópico em Literatura em Língua Francesa",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL618",
+        "name": "Tópicos em Literatura Brasileira: Marginais I",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL628",
+        "name": "Tópicos em Literatura Brasileira: Marginais II",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL638",
+        "name": "Tópicos em Literatura Brasileira: Marginais III",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL709",
+        "name": "Tópico em Literatura em Língua Alemã",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL809",
+        "name": "Tópico em Literatura em Línguas Estrangeiras",
+        "credits": 4,
+        "syllabus": "Será divulgada por ocasião do oferecimento da disciplina."
+    },
+    {
+        "code": "TL904",
+        "name": "Investigação Científica I",
+        "credits": 8,
+        "syllabus": "Elaboração de projeto de pesquisa no campo dos  Estudos Literários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL905",
+        "name": "Investigação Científica II",
+        "credits": 8,
+        "syllabus": "Elaboração de projeto de pesquisa no campo dos  Estudos Literários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL906",
+        "name": "Investigação Científica III",
+        "credits": 8,
+        "syllabus": "Elaboração de projeto de pesquisa no campo dos  Estudos Literários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL907",
+        "name": "Monografia",
+        "credits": 10,
+        "syllabus": "Trabalho final de curso envolvendo tema de pesquisa no campo dos  Estudos Literários, desenvolvido individualmente pelo aluno sob orientação de um professor. A disciplina prevê defesa pública do trabalho perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL908",
+        "name": "Monografia I",
+        "credits": 8,
+        "syllabus": "Trabalho final de curso envolvendo tema de pesquisa no campo dos  Estudos Literários, desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "TL909"
+        ]
+    },
+    {
+        "code": "TL909",
+        "name": "Monografia II",
+        "credits": 8,
+        "syllabus": "Trabalho final de curso envolvendo tema de pesquisa no campo dos Estudos Literários, desenvolvido individualmente pelo aluno sob orientação de um professor. Ficará a cargo do docente responsável pela disciplina decidir se ele será defendido perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "TL908"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL910",
+        "name": "Investigação em Estudos Literários I",
+        "credits": 8,
+        "syllabus": "Elaboração de projeto de pesquisa no campo dos  Estudos Literários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL911",
+        "name": "Investigação em Estudos Literários II",
+        "credits": 8,
+        "syllabus": "Elaboração de projeto de pesquisa no campo dos  Estudos Literários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL912",
+        "name": "Investigação em Estudos Literários III",
+        "credits": 8,
+        "syllabus": "Elaboração de projeto de pesquisa no campo dos  Estudos Literários.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL915",
+        "name": "Monografia em Português como Segunda Língua / Língua Estrangeira I",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de projeto de pesquisa (definição de objetivos, revisão bibliográfica, constituição de corpus e análise preliminar dos dados) com vistas à elaboração de trabalho final de curso acerca do ensino de literatura e cultura brasileiras em contexto de português como L2/LE, desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "TL916",
+        "name": "Monografia em Português como Segunda Língua / Língua Estrangeira II",
+        "credits": 8,
+        "syllabus": "Conclusão da análise de dados e redação de trabalho final de curso envolvendo tema de pesquisa individual sobre o ensino de literatura e cultura brasileiras em contexto de português como L2/LE, sob orientação de um professor. A disciplina prevê, ao final do semestre, defesa pública do trabalho perante banca constituída pelo professor orientador e mais dois membros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

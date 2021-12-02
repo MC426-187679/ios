@@ -1,0 +1,1332 @@
+[
+    {
+        "code": "NT001",
+        "name": "Tópicos Especiais em Nutrição I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NT002",
+        "name": "Tópicos Especiais em Nutrição II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NT003",
+        "name": "Tópicos Especiais em Nutrição III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NT004",
+        "name": "Tópicos Especiais em Nutrição IV",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NT005",
+        "name": "Tópicos Especiais em Nutrição V",
+        "credits": 2,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "NT100",
+        "name": "Nutrição: Ciência e Profissão",
+        "credits": 2,
+        "syllabus": "Conhecimento do processo histórico constitutivo da Nutrição como Ciência e da Nutrição como profissão, análise histórica da emergência e evolução dos cursos de Nutrição em nível superior e da atuação do profissional nutricionista em diversas áreas, discussão sobre o perfil do profissional nutricionista em suas áreas de atuação no mercado atual, conhecimento sobre os órgãos que são responsáveis pela regulamentação da profissão de nutricionista.",
+        "reqBy": [
+            "NT520"
+        ]
+    },
+    {
+        "code": "NT101",
+        "name": "Bioquímica dos Alimentos I",
+        "credits": 4,
+        "syllabus": "Introdução à Bioquímica. Introdução à Bioenergética. Metabolismo dos carboidratos, lipídios, aminoácidos e peptídeos, proteínas, enzimas, vitaminas, hipossolúveis e hidrossolúveis, enzimas e co-enzimas.",
+        "reqBy": [
+            "NT201"
+        ]
+    },
+    {
+        "code": "NT102",
+        "name": "Bioquímica I",
+        "credits": 2,
+        "syllabus": "Equilíbrio ácido-base. Estrutura de carboidratos, lipídeos, aminoácidos e proteínas. Enzimas e coenzimas.",
+        "reqBy": [
+            "NT203",
+            "NT302"
+        ]
+    },
+    {
+        "code": "NT103",
+        "name": "Composição de Alimentos",
+        "credits": 4,
+        "syllabus": "Conceitos de química geral e experimental. Propriedades da água, atividade de água e seus efeitos na estabilidade de alimentos. Carboidratos. Proteínas. Lipídios. Vitaminas e Minerais. Pigmentos naturais. Enzimas. Compostos de aroma e sabor. Composição de alimentos: Açúcares e produtos açucarados. Óleos, gorduras e derivados. Grãos oleaginosos e cereais. Frutas e Hortaliças. Carnes e derivados. Leite e derivados. Ovos. Alimentos enriquecidos e alimentos para fins especiais.",
+        "reqBy": [
+            "NT204",
+            "NT402",
+            "NT406"
+        ]
+    },
+    {
+        "code": "NT200",
+        "name": "Bioquímica dos Alimentos",
+        "credits": 6,
+        "syllabus": "Estudo do Sistema Tampão. Aminoácidos. Proteínas. Síntese Protéica. Lipídeos. Carboidratos. Enzimas. Vitaminas Lipossolúveis e Hidrossolúveis. Metabolismo de Carboidratos, Lipídeos e Proteínas. Integração Metabólica. Influência das alterações bioquímicas dos alimentos sobre o estado nutricional."
+    },
+    {
+        "code": "NT201",
+        "name": "Bioquímica dos Alimentos II",
+        "credits": 6,
+        "syllabus": "Glicólise, glicogenólise, glicogênese. Ciclo de Krebs. Oxidação de ácidos graxos e síntese de ácidos graxos. Cadeia respiratória. Metabolismo de aminoácidos e compostos nitrogenados. Estudo do sistema de Tampão. Influência das alterações bioquímicas dos alimentos sobre estado nutricional. Inter-relações metabólicas.",
+        "reqs": [
+            [
+                {
+                    "code": "NT101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT202",
+        "name": "Parasitologia",
+        "credits": 3,
+        "syllabus": "Estudo de protozoários e helmintos parasitos humanos de interesse médico, que sejam veiculados pela água, solo ou alimentos. Epidemiologia, mecanismos de infecção/contaminação, ciclo de vida, processos patogênicos e métodos diagnóstico."
+    },
+    {
+        "code": "NT203",
+        "name": "Bioquímica II",
+        "credits": 6,
+        "syllabus": "Glicólise, glicogenólise, glicogênese, gliconeogênese. Ciclo de Krebs. Oxidação de ácidos graxos e síntese de ácidos graxos. Cadeia respiratória. Metabolismo de aminoácidos e compostos nitrogenados. Inter-relações metabólicas.",
+        "reqs": [
+            [
+                {
+                    "code": "NT102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT509"
+        ]
+    },
+    {
+        "code": "NT204",
+        "name": "Análise de Alimentos",
+        "credits": 4,
+        "syllabus": "Noções de química analítica e quantitativa. Preparo e padronização de amostras e soluções. Importância da análise de alimentos. Técnicas de amostragem. Tratamento qualitativo e quantitativo dos dados. Determinação de parâmetros físico-químicos em alimentos. Determinação da composição centesimal de alimentos. Métodos físicos aplicados à análise de alimentos. Técnicas cromatográficas em análise de alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "NT103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT304"
+        ]
+    },
+    {
+        "code": "NT205",
+        "name": "Microbiologia e Higiene dos Alimentos I",
+        "credits": 4,
+        "syllabus": "Micro-organismos de importância em alimentos: patogênicos, deterioradores , ou empregados para obtenção de produtos. Fatores que interferem no crescimento de micro-organismos nos alimentos. Microbiota natural do corpo humano e saúde do manipulador de alimentos. Agentes sanitizantes. Doenças transmitidas por alimentos: diagnóstico, prevenção e investigação de surtos epidemiológicos. Boas práticas de manipulação de alimentos e Procedimento Operacional Padronizado (POP).",
+        "reqs": [
+            [
+                {
+                    "code": "SL105"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT305"
+        ]
+    },
+    {
+        "code": "NT206",
+        "name": "Composição e Análise de Alimentos",
+        "credits": 8,
+        "syllabus": "Conceitos de química. Propriedades da água. Macro e micronutrientes. Pigmentos naturais. Enzimas. Compostos de aroma e sabor. Composição de alimentos: Açúcares e produtos açucarados. Óleos, gorduras e derivados. Grãos oleaginosos e cereais. Frutas e Hortaliças. Carnes e derivados. Leite e derivados. Ovos. Alimentos enriquecidos e para fins especiais. Preparo e padronização de amostras e soluções. Técnicas de amostragem. Determinação de parâmetros físico-químicos e da composição centesimal de alimentos. Métodos físicos. Técnicas cromatográficas. Análise de compostos bioativos em alimentos."
+    },
+    {
+        "code": "NT207",
+        "name": "Probióticos, Prebióticos e Promoção de Saúde",
+        "credits": 2,
+        "syllabus": "Histórico, definições, requisitos necessários para obtenção do status de probiótico, principais gêneros de probióticos, principais agentes prebióticos, posbióticos/paraprobióticos, métodos de análise dependentes e independentes de cultivo para análise de microbiota/microbioma, disbiose, propriedades à saúde de probióticos e prebióticos, aspectos de segurança, perspectivas futuras.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "NT305"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT210",
+        "name": "Bioquímica",
+        "credits": 6,
+        "syllabus": "Equilíbrio ácido-base e sistema tampão. Estrutura e metabolismo de carboidratos. Estrutura e metabolismo de lipídeos. Estrutura e metabolismo de aminoácidos e proteínas. Características estruturais de Enzimas e Coenzimas. Cinética e inibição enzimática.",
+        "reqBy": [
+            "NT404",
+            "NT509",
+            "NT605",
+            "SL208",
+            "SL402"
+        ]
+    },
+    {
+        "code": "NT300",
+        "name": "Bromatologia e Tecnologia de Alimentos",
+        "credits": 6,
+        "syllabus": "Noções de química analítica e quantitativa. Determinação da composição centesimal de um alimento. Tabela de composição de alimentos, noções sobre a legislação de alimentos. Conceito de tecnologia de alimentos. A indústria de alimentos. Operações unitárias. Conservação pelo calor (pasteurização e esterilização); pelo controle da umidade (concentração, secagem e desidratação); pelo frio (refrigeração, congelamento). Uso de aditivos e processamento de frutas e hortaliças, do leite, de carnes e de lipídeos."
+    },
+    {
+        "code": "NT301",
+        "name": "Métodos de Análises em Alimentos",
+        "credits": 4,
+        "syllabus": "Determinação de umidade, lipídeos, proteínas, fibras e carboidratos. Técnicas de separação de compostos tais como: cromatografia, extração por solventes. Análise espectrofotométrica."
+    },
+    {
+        "code": "NT302",
+        "name": "Genética do Metabolismo",
+        "credits": 4,
+        "syllabus": "Bases genéticas da hereditariedade, suas causas e consequências. Doenças genéticas de interesse em Nutrição.",
+        "reqs": [
+            [
+                {
+                    "code": "NT102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT303",
+        "name": "Psicologia na Nutrição",
+        "credits": 4,
+        "syllabus": "Conhecimentos básicos em psicologia. Interação humana e relações interpessoais. Aspectos interatuantes na relação do nutricionista com o paciente (cliente e família). Instrumentalização do nutricionista para a escuta psicológica na sua prática. Formação da personalidade. Concepções do normal e patológico. Aspectos biopsicossociais envolvidos no comportamento alimentar e nos transtornos alimentares. Implicações dos modelos familiares no desenvolvimento de hábitos alimentares, compulsão. Perdas."
+    },
+    {
+        "code": "NT304",
+        "name": "Tecnologia de Alimentos",
+        "credits": 4,
+        "syllabus": "Conceito de Tecnologia de Alimentos. Principais alterações em alimentos. Princípios de conservação de alimentos. Conservação de alimentos pelo uso de calor. Conservação de alimentos pelo uso do frio. Conservação de alimentos por controle de umidade. Conservação de alimentos por incorporação de solutos. Conservação de alimentos por fermentação. Aditivos em alimentos. Embalagens. Processamento de leite e derivados. Processamento de carnes e derivados. Processamento de frutas e hortaliças. Processamento de óleos e gorduras. Processamento de cereais e derivados. Processamento de produtos açucarados.",
+        "reqs": [
+            [
+                {
+                    "code": "NT204"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT305",
+        "name": "Microbiologia e Higiene dos Alimentos II",
+        "credits": 4,
+        "syllabus": "Plano de amostragem. Micro-organismos indicadores. Vigilância Sanitária. Legislação e padrões microbiológicos para alimentos e água. Principais patógenos esporulados e não esporulados envolvidos em surtos alimentares. Determinação de micro- organismos por métodos físicos, químicos, moleculares e imunológicos. Noções de toxicologia de alimentos. Qualidade total (ISO 9000).",
+        "reqs": [
+            [
+                {
+                    "code": "NT205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT207",
+            "NT406",
+            "NT407",
+            "NT409"
+        ]
+    },
+    {
+        "code": "NT306",
+        "name": "Metodologia de Pesquisa Aplicada à Nutrição",
+        "credits": 2,
+        "syllabus": "Construção do conhecimento. História da ciência e abordagem crítica de sua evolução. Evolução da ciência da nutrição. Conceitos da metodologia da pesquisa científica. Elaboração de projeto de pesquisa. As bases de dados científicos e pesquisa bibliográfica. Leitura crítica de artigos científicos."
+    },
+    {
+        "code": "NT400",
+        "name": "Nutrição Normal e Dietética",
+        "credits": 8,
+        "syllabus": "Dieta e nutrientes: essenciais e não essenciais; lipídeos como elemento de consumo. Requerimento de energia. Proteína química e biológica, fatores que condicionam a qualidade da proteína; relação protéico-calórica. Valor protéico. Oligoelementos microconstituintes e índice de qualidade do alimento. Conceituações da terminologia dietética, cálculos dietéticos, determinação do VET e distribuição percentual dos nutrientes. Alimentação nas diferentes fases da vida: criança, adolescente, adulto e idoso."
+    },
+    {
+        "code": "NT401",
+        "name": "Patologia e Nutrição",
+        "credits": 4,
+        "syllabus": "Introdução à patologia, reação inflamatória, reação imunológica. Distúrbios circulatórios, distúrbios gastrointestinais, intestino irritável, doenças genéticas e neoplasia."
+    },
+    {
+        "code": "NT402",
+        "name": "Técnica Dietética",
+        "credits": 6,
+        "syllabus": "Sistematização dos procedimentos e das técnicas adequadas para a aquisição, seleção, conservação, preparação e armazenamento dos alimentos. Utilização de Ficha Técnica para padronização de receitas. Pesos e medidas. Fator de correção, índice de conversão e índice de reidratação e custos. Cálculo do valor nutricional (total e porção). Estudo das tranformações físico-químicas e sensoriais durante o processamento de gorduras, cereais e derivados, leite, ovos, hortaliças e frutas, carnes, aves e pescados, leguminosas, bebidas, massas, açúcares, caldos e molhos. Rótulos e embalagens.",
+        "reqs": [
+            [
+                {
+                    "code": "NT103",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT405",
+            "NT711"
+        ]
+    },
+    {
+        "code": "NT403",
+        "name": "Nutrição Educacional",
+        "credits": 2,
+        "syllabus": "Antropologia e Nutrição; alimentação no contexto atual da transformação; discussão sobre significados e valor do alimento; fatores que afetam as escolhas alimentares; breve histórico da \"Educação Nutricional\", diferenciação entre educação e orientação nutricional; aconselhamento nutricional; instituições e atores envolvidos na educação em nutrição; comunicação verbal e não-verbal; conceito de empoderamento; sentido da nutrição a partir de mensagens da mídia; planejamento de atividades educacionais; relato de experiências; desenvolvimento e avaliação de atividades educacionais em Nutrição."
+    },
+    {
+        "code": "NT404",
+        "name": "Interação Fármaco-Nutriente",
+        "credits": 2,
+        "syllabus": "Estudo da interação fármaco-nutrientes. Efeito dos fármacos sobre biodisponibilidade de macro e micro-nutrientes. Ação dos fármacos sobre nutrição humana, apetite, sistema endócrino. Fitoterápicos e homeopáticos.",
+        "reqs": [
+            [
+                {
+                    "code": "NT210"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT405",
+        "name": "Nutrição e Dietética",
+        "credits": 6,
+        "syllabus": "Conceitos de alimentos, alimentação e nutrição. Energia e Nutrientes: propriedades, funções, fontes, biodisponibilidade e metabolismo, recomendações e necessidades. Utilização de tabelas de composição química de alimentos. Princípios gerais e leis da alimentação. Guias alimentares e ferramentas de recomendações nutricionais.",
+        "reqs": [
+            [
+                {
+                    "code": "NT402",
+                    "partial": true
+                },
+                {
+                    "code": "SL208",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT501",
+            "NT508",
+            "NT509",
+            "NT509",
+            "NT511",
+            "NT512",
+            "NT513",
+            "NT603",
+            "NT605",
+            "NT609"
+        ]
+    },
+    {
+        "code": "NT406",
+        "name": "Administração de Serviços de Alimentação e Nutrição I",
+        "credits": 4,
+        "syllabus": "Identificação, finalidade, tipos e características das unidades de alimentação e nutrição (UAN). Planejamento de uma UAN: dimensionamento de área e equipamentos específicos para o recebimento e armazenagem de alimentos, para a produção e para a distribuição de refeições. Dimensionamento e administração de Unidades de Alimentação e Nutrição: administração de recursos humanos, administração de materiais, administração financeira e administração de produção.",
+        "reqs": [
+            [
+                {
+                    "code": "NT103"
+                },
+                {
+                    "code": "NT305"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT506"
+        ]
+    },
+    {
+        "code": "NT407",
+        "name": "Planejamento em Alimentação Coletiva",
+        "credits": 4,
+        "syllabus": "Conceitos e caracterização acerca da organização e funcionamento da Alimentação Coletiva. Planejamento de recursos físicos e funcionais em Unidades de Alimentação e Nutrição. Legislações envolvidas no Planejamento em Alimentação Coletiva.",
+        "reqs": [
+            [
+                {
+                    "code": "NT305",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT511",
+            "NT514"
+        ]
+    },
+    {
+        "code": "NT408",
+        "name": "Metodologias Pedagógicas em Saúde",
+        "credits": 3,
+        "syllabus": "Fundamentos teóricos e práticos de metodologias pedagógicas para o trabalho em saúde. Abordagens pedagógicas; limites e possibilidades; metodologias participativas didático-pedagógicas. A comunicação como ferramenta para estabelecer relações de cuidado. O trabalho em equipes multidisciplinares. Conhecimento e prática de diversas metodologias.",
+        "reqBy": [
+            "NT512"
+        ]
+    },
+    {
+        "code": "NT409",
+        "name": "Avaliação e Gestão de Risco Sanitário em Serviços de Alimentação",
+        "credits": 2,
+        "syllabus": "Risco sanitário. Avaliação de risco sanitário. Identificação de pontos críticos de controle. Elaboração de estratégias de intervenção em higiene e boas práticas. Elaboração de manual de boas práticas. Assessoria e consultoria em higiene e boas práticas em serviços de alimentação.",
+        "reqs": [
+            [
+                {
+                    "code": "NT305"
+                }
+            ],
+            [
+                {
+                    "code": "NT511"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT410",
+        "name": "Fisiologia Oral Aplicada à Nutrição",
+        "credits": 2,
+        "syllabus": "Análise das principais funções do sistema orofacial relacionados à Nutrição Humana. Estudo integrado de anatomia e fisiologia oral humana, abordando do ponto de vista estrutural e funcional a sensibilidade oral, olfação, gustação, secreção salivar, mastigação e deglutição.",
+        "reqs": [
+            [
+                {
+                    "code": "SL208"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT500",
+        "name": "Higiene dos Alimentos",
+        "credits": 4,
+        "syllabus": "Noção de processo infeccioso. Situação dos alimentos na cadeia do processo infeccioso. Doenças humanas e zoonoses. Aspectos epidemiológicos e clínicos das doenças que podem ser transmitidas por alimento de origem animal e vegetal. Perfil das toxi-infecções alimentares. Controle dos manipuladores de alimentos. Doenças transmitidas por alimentos: diagnóstico, prevenção e investigação de surtos epidemiológicos. Análise de perigos em pontos críticos de controle de alimentos (APPCC). Qualidade total, ISO 9000. Implantação do sistema APPCC em uma UAN."
+    },
+    {
+        "code": "NT501",
+        "name": "Alimentos Funcionais: Modo de Ação",
+        "credits": 4,
+        "syllabus": "Alimentos com alegação de propriedade funcional, nutracêuticos e compostos bioativos. Conceituação e definição de prébiótico e próbiótico, seus possíveis efeitos benefícios e mecanismos de ação. Composto ou substância bioativa presentes nos alimentos, fontes e seus possíveis mecanismos de ação na prevenção e promoção da saúde.",
+        "reqs": [
+            [
+                {
+                    "code": "NT405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT502",
+        "name": "Geografia da Fome e Segurança Alimentar",
+        "credits": 4,
+        "syllabus": "Avaliação e Caracterização sócio-econômica das regiões brasileiras. Disponibilidade regional de alimentos in natura e alimentos minimamente processados. Rede de distribuição de alimentos e programas emergenciais de combate à fome. Políticas públicas de acesso ao alimento. Importância e aplicação dos inquéritos alimentares. Relação entre a Geografia e a Economia. Introdução à Geografia da Agricultura. Tipos de agricultura e problemas locais. O problema alimentar: fome, desnutrição no Brasil. Dívida política econômica e a fome . Novas alternativas de nutrição."
+    },
+    {
+        "code": "NT503",
+        "name": "Epidemiologia Aplicada à Nutrição",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de Epidemiologia; História Natural da Doença. Indicadores de Saúde. Sistemas de Informação em Saúde (SIM, SINASC, SISVAN). Transição Demográfica e Epidemiológica. Epidemiologia Descritiva. Delineamento de estudos em Epidemiologia Nutricional. Introdução à análise de dados em Epidemiologia Nutricional. Vigilância Epidemiológica.",
+        "reqs": [
+            [
+                {
+                    "code": "SL303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT507"
+        ]
+    },
+    {
+        "code": "NT504",
+        "name": "Estágio I",
+        "credits": 8,
+        "syllabus": "Estágio em Nutrição.",
+        "reqBy": [
+            "NT604"
+        ]
+    },
+    {
+        "code": "NT505",
+        "name": "Microbiologia dos Alimentos",
+        "credits": 4,
+        "syllabus": "Microrganismos de importância em alimentos: patogênicos, deterioradores, ou empregados para obtenção de produtos. Fatores que interferem no crescimento de microrganismos nos alimentos."
+    },
+    {
+        "code": "NT506",
+        "name": "Administração dos Serviços de Alimentação e Nutrição II",
+        "credits": 4,
+        "syllabus": "Planejamento de cardápios e de compras em UANs. Planejamento e organização de lactário. Código de ética do nutricionista.",
+        "reqs": [
+            [
+                {
+                    "code": "NT406"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT507",
+        "name": "Segurança Alimentar e Nutricional",
+        "credits": 4,
+        "syllabus": "Fome, Segurança Alimentar e Nutricional (SAN) e Direito Humano à Alimentação Adequada (DHAA). Determinantes da Insegurança Alimentar Nutricional (IAN). Modelo de desenvolvimento e crises econômicas. Sistema Alimentar brasileiro. Política, reforma agrária, agricultura familiar, ecológica, tradicional, insumos e sementes geneticamente modificadas. Produção, disponibilidade, desperdício de alimentos e suas implicações ambientais. Água como Direito Humano. Leis e políticas que estruturam programas de SAN. Caracterização e avaliação de intervenções e programas emergenciais e estruturais de SAN.",
+        "reqs": [
+            [
+                {
+                    "code": "NT503"
+                }
+            ],
+            [
+                {
+                    "code": "SL500"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT610"
+        ]
+    },
+    {
+        "code": "NT508",
+        "name": "Nutrição e Dietética nos Ciclos da Vida",
+        "credits": 6,
+        "syllabus": "Conceitos básicos da alimentação e nutrição em situações fisiológicas: Nutrição e planejamento da dieta do pré-escolar. Nutrição e planejamento da dieta do escolar. Nutrição e planejamento da dieta do adolescente. Nutrição e planejamento da dieta do adulto. Nutrição e planejamento da dieta do idoso. Nutrição e planejamento da dieta do vegetariano.",
+        "reqs": [
+            [
+                {
+                    "code": "NT405"
+                },
+                {
+                    "code": "NT600"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT606",
+            "NT607",
+            "NT608",
+            "NT610",
+            "NT710",
+            "SL602"
+        ]
+    },
+    {
+        "code": "NT509",
+        "name": "Farmacologia Aplicada à Nutrição",
+        "credits": 3,
+        "syllabus": "Estudo da interação fármaco-nutrientes. Efeito dos fármacos sobre biodisponibilidade de macro e micro-nutrientes. Ação dos fármacos sobre nutrição humana, apetite, sistema endócrino. Fitoterápicos e homeopáticos.",
+        "reqs": [
+            [
+                {
+                    "code": "NT203"
+                },
+                {
+                    "code": "NT405",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "NT210"
+                },
+                {
+                    "code": "NT405",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT510",
+        "name": "Educação e Comunicação em Nutrição, Alimentação e Cultura",
+        "credits": 4,
+        "syllabus": "Fundamentos teóricos e históricos da Educação Alimentar e Nutricional no Brasil e no Mundo. Aspectos históricos, geográficos, sociais e culturais da alimentação. Educação Nutricional e Promoção da Saúde. Planejamento e avaliação de Programas de Educação Nutricional. Educomunicação em Nutrição, Alimentação e Cultura.",
+        "reqs": [
+            [
+                {
+                    "code": "SL402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT511",
+        "name": "Gestão em Alimentação Coletiva",
+        "credits": 4,
+        "syllabus": "Gestão de Restaurantes Comerciais e de Unidades de Alimentação e Nutrição. Planejamento e elaboraçãoo de cardápios para coletividades. Gestão financeira e logística de suprimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "NT405"
+                },
+                {
+                    "code": "NT407"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT409",
+            "NT703",
+            "NT704",
+            "NT802",
+            "NT804",
+            "NT806",
+            "NT807",
+            "NT808",
+            "NT809",
+            "NT900",
+            "NT901",
+            "NT902"
+        ]
+    },
+    {
+        "code": "NT512",
+        "name": "Educação Alimentar e Nutricional",
+        "credits": 4,
+        "syllabus": "Fundamentos teóricos e históricos da Educação Alimentar e Nutricional no Brasil e no Mundo. Educação Alimentar e Nutricional e Promoção da Saúde. Planejamento e avaliação de Programas de Educação Alimentar e Nutricional. Educação Alimentar e Nutricional e Políticas Públicas. Aconselhamento nutricional. Educomunicação em Nutrição, Alimentação e Cultura.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "NT405"
+                },
+                {
+                    "code": "NT408"
+                },
+                {
+                    "code": "NT600"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT611",
+            "SL602"
+        ]
+    },
+    {
+        "code": "NT513",
+        "name": "Alimentação e Cultura",
+        "credits": 4,
+        "syllabus": "Ciências Humanas e Sociais em Alimentação e Nutrição. Aspectos históricos, geográficos e sócio-antropológicos da Alimentação e Nutrição. Arte, Literatura e Alimentação.",
+        "reqs": [
+            [
+                {
+                    "code": "NC301"
+                },
+                {
+                    "code": "NT405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT514",
+        "name": "AVANÇOS EM SEGURANÇA DOS ALIMENTOS",
+        "credits": 4,
+        "syllabus": "Discussão sobre a problemática das Doenças Transmitidas por Alimentos no Brasil e nos demais países. Principais fatores associados a surtos. Análise de riscos (avaliação, gestão e comunicação de riscos). Utilização de ponderações matemáticas na análise de riscos. Aspectos cognitivos relacionados a manipulação de alimentos. Cultura de Segurança dos alimentos. Métodos de avaliação e análise da segurança dos alimentos.",
+        "reqs": [
+            [
+                {
+                    "code": "NT407"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT515",
+        "name": "Análise de compostos bioativos em alimentos",
+        "credits": 4,
+        "syllabus": "Capacitar os alunos para realizar a análise de compostos bioativos em alimentos. Compreender o processo de análise e os cálculos envolvidos. Conhecer os principais métodos de preparação de amostras e de análise instrumental."
+    },
+    {
+        "code": "NT520",
+        "name": "Iniciação Científica em Nutrição",
+        "credits": 2,
+        "syllabus": "Disciplina destinada a alunos do curso de nutrição que estão em execução de projetos de iniciação científica na área da saúde com professores da Faculdade de Ciências Aplicadas. Disciplina de orientação de iniciação científica de alunos que estão com projetos em execução.",
+        "reqs": [
+            [
+                {
+                    "code": "NT100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT600",
+        "name": "Avaliação do Estado Nutricional",
+        "credits": 6,
+        "syllabus": "Determinantes do estado nutricional da população. Indicadores antropométricos, clínicos, bioquímicos, demográfico, sócio-econômicos e culturais. Avaliação do estado e situação nutricional da população.",
+        "reqs": [
+            [
+                {
+                    "code": "SL208",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT508",
+            "NT512",
+            "NT607",
+            "NT608",
+            "NT710"
+        ]
+    },
+    {
+        "code": "NT601",
+        "name": "Nutrição em Saúde Pública",
+        "credits": 6,
+        "syllabus": "Análise dos distúrbios nutricionais como problemas de Saúde Pública (desnutrição protéico-energética, anemia, hipovitaminose A, bócio endêmico e obesidade). Perfil alimentar e nutricional da população brasileira. Desenvolvimento de um modelo geral de determinação do estado nutricional e sua aplicação no caso brasileiro. Estratégias alternativas de intervenção para o controle de distúrbios nutricionais. Avaliação do estado nutricional em nível individual e de população.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT602",
+        "name": "Administração dos Serviços de Alimentação",
+        "credits": 6,
+        "syllabus": "Identificação, finalidade, tipos e características das unidades de alimentação e nutrição (UAM). Planejamento de uma UAM: dimensionamento de área e equipamentos específicos para recebimento e armazenagem de alimentos, para a produção e distribuição de refeições. Planejamento de cardápios e de compras, dimensionamento e administração de pessoal. Planejamento e organização de lactário. Código de ética do nutricionista."
+    },
+    {
+        "code": "NT603",
+        "name": "Avaliação do Consumo Alimentar",
+        "credits": 2,
+        "syllabus": "Métodos de inquérito alimentar. Validade, reprodutibilidade e fontes de erro na avaliação do consumo alimentar. Marcadores bioquímicos da ingestão alimentar. Aplicação das recomendações nutricionais para grupos populacionais e indivíduos. Aplicação dos métodos de inquérito alimentar em diferentes tipos de estudos epidemiológicos. Análise e interpretação de dados de consumo alimentar.",
+        "reqs": [
+            [
+                {
+                    "code": "NT405"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT606",
+            "NT607",
+            "NT608",
+            "NT610",
+            "NT710"
+        ]
+    },
+    {
+        "code": "NT604",
+        "name": "Estágio II",
+        "credits": 8,
+        "syllabus": "Estágio em Nutrição.",
+        "reqs": [
+            [
+                {
+                    "code": "NT504"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT605",
+        "name": "Nutrição Aplicada aos Esportes",
+        "credits": 4,
+        "syllabus": "Bioenergética e metabolismo de nutrientes durante o exercício físico. Ingestão de alimentos, nutrientes e suplementos nutricionais no desempenho de atletas de diferentes modalidades esportivas e na saúde de indivíduos engajados em programas regulares de atividade física. Orientação nutricional para atletas e praticantes de atividade física.",
+        "reqs": [
+            [
+                {
+                    "code": "NT210"
+                },
+                {
+                    "code": "NT405"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT606",
+        "name": "Nutrição Materno-Infantil",
+        "credits": 4,
+        "syllabus": "Avaliação e recomendações para planejamento de atividades de orientação nutricional para mulheres no ciclo gravídico-puerperal e o bebê no primeiro ano de vida.",
+        "reqs": [
+            [
+                {
+                    "code": "NT508"
+                },
+                {
+                    "code": "NT603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT607",
+        "name": "Dietoterapia I",
+        "credits": 6,
+        "syllabus": "Conceitos de dietoterapia. Terapia nutricional enteral e parenteral. Dietoterapia na desnutrição energético-protéica, nas enfermidades orais, esofágicas, gástricas, intestinais, hepáticas, pancreáticas, das vias biliares, nas alergias alimentares, no estresse fisiológico e no câncer.",
+        "reqs": [
+            [
+                {
+                    "code": "NT508"
+                },
+                {
+                    "code": "NT600"
+                },
+                {
+                    "code": "NT603"
+                },
+                {
+                    "code": "SL208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT706",
+            "NT707",
+            "NT709"
+        ]
+    },
+    {
+        "code": "NT608",
+        "name": "Fisiopatologia da Nutrição I",
+        "credits": 4,
+        "syllabus": "Introdução à imunologia e reação inflamatória. Fisiopatologia de doenças associadas à nutrição: desnutrição energético-protéica, enfermidades orais, esofágicas, gástricas, intestinais, hepáticas, pancreáticas e das vias biliares. Fisiopatologia das alergias alimentares e de neoplasias.",
+        "reqs": [
+            [
+                {
+                    "code": "NT508"
+                },
+                {
+                    "code": "NT600"
+                },
+                {
+                    "code": "NT603"
+                },
+                {
+                    "code": "SL208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT708",
+            "NT709"
+        ]
+    },
+    {
+        "code": "NT609",
+        "name": "Erros Inatos do Metabolismo e Nutrição",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de genética, biologia molecular, mutações e leis da hereditariedade. Alterações bioquímicas, matabólicas e tratamento nutricional adequado nos erros inatos do metabolismo.",
+        "reqs": [
+            [
+                {
+                    "code": "NT405"
+                },
+                {
+                    "code": "SL208"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT610",
+        "name": "Nutrição em Saúde Coletiva",
+        "credits": 4,
+        "syllabus": "Transição Nutricional. Epidemiologia Nutricional: caracterização e análise do padrão alimentar e dos distúrbios nutricionais com implicações em Saúde Coletiva (sobrepeso/obesidade, desnutrição, anemia, deficiência de vitamina A, dentre outros). Leis e políticas que estruturam os programas de Nutrição em Saúde Coletiva. Caracterização e avaliação de intervenções e programas de Nutrição em Saúde Coletiva.",
+        "reqs": [
+            [
+                {
+                    "code": "NT507"
+                },
+                {
+                    "code": "NT508"
+                },
+                {
+                    "code": "NT603"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT703",
+            "NT704",
+            "NT802",
+            "NT804",
+            "NT806",
+            "NT807",
+            "NT808",
+            "NT809",
+            "NT900",
+            "NT901",
+            "NT902"
+        ]
+    },
+    {
+        "code": "NT611",
+        "name": "Psicologia da Nutrição I",
+        "credits": 2,
+        "syllabus": "Conhecimentos básicos em psicologia. Subjetividade. Interação humana e relações interpessoais. Formação da personalidade. Concepções do normal e patológico. Aspectos biopsicossociais envolvidos no comportamento alimentar e nos transtornos alimentares. Fatores emocionais que interferem no comportamento alimentar.",
+        "reqs": [
+            [
+                {
+                    "code": "NT512"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT706"
+        ]
+    },
+    {
+        "code": "NT700",
+        "name": "Dietoterapia",
+        "credits": 8,
+        "syllabus": "Evolução histórica. Conceitos e objetivos da dietoterapia. Avaliação nutricional de pacientes: exames clínicos, bioquímicos, antropométricos e anamnese alimentar. Tratamento dietético para pacientes com: doenças do sistema digestório, doenças endócrinas, cardiovasculares, renais, pulmonares, carenciais, infecciosas, alergias alimentares, queimaduras graves, neoplasias e imunodeprimidos. Terapia nutricional enteral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT701",
+        "name": "Nutrição: Saúde Materna e da Mulher",
+        "credits": 4,
+        "syllabus": "Fornecer as bases fundamentais para que o nutricionista conheça e possa planejar suas atividades de orientação nutricional, de acordo com as necessidades da mulher no ciclo gravídico-puerperal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT702",
+        "name": "Estágio em Nutrição no Envelhecimento I",
+        "credits": 10,
+        "syllabus": "Estágio em Nutrição no Envelhecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT703",
+        "name": "Estágio em Nutrição Clínica I",
+        "credits": 20,
+        "syllabus": "Estágio desenvolvido em hospitais, clínicas e ambulatórios, onde os alunos aplicam os conhecimentos teóricos da dietoterapia nas unidades de internação.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT704",
+        "name": "Estágio em Nutrição e Saúde Coletiva I",
+        "credits": 20,
+        "syllabus": "Estágio em unidades básicas de Saúde (UBS).",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT705",
+        "name": "Estágio em Nutrição no Esporte I",
+        "credits": 10,
+        "syllabus": "Disciplina prática conduzida sob a forma de estágio em centros desportivos, clubes e agremiações, e no condicionamento individual de atletas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT706",
+        "name": "Psicologia e Nutrição II",
+        "credits": 2,
+        "syllabus": "Instrumentalização do nutricionista para a escuta psicológica na sua prática. Teoria de grupo. Trabalho com coletivos. Trabalho em equipe. Relação nutricionista paciente (cliente e família). Implicações dos modelos familiares no desenvolvimento de hábitos alimentares. Atendimento hospitalar. Reabilitação. Perdas/morte. Seleção de pessoal.",
+        "reqs": [
+            [
+                {
+                    "code": "NT607"
+                },
+                {
+                    "code": "NT611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT707",
+        "name": "Dietoterapia II",
+        "credits": 6,
+        "syllabus": "Dietoterapia na obesidade, nos distúrbios alimentares, no diabetes mellitus, nas doenças cardiovasculares, na síndrome metabólica, nas doenças renais, nas doenças pulmonares, nas anemias, e na síndrome da imunodeficiência adquirida - AIDS.",
+        "reqs": [
+            [
+                {
+                    "code": "NT607"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT703",
+            "NT704",
+            "NT802",
+            "NT804",
+            "NT806",
+            "NT807",
+            "NT808",
+            "NT809",
+            "NT900",
+            "NT901",
+            "NT902"
+        ]
+    },
+    {
+        "code": "NT708",
+        "name": "Fisiopatologia da Nutrição II",
+        "credits": 4,
+        "syllabus": "Fisiopatologia de doenças associadas à nutrição: obesidade, magreza, distúrbios alimentares, diabetes mellitus, doenças cardiovasculares, síndrome metabólica, doenças renais, pulmonares, anemias e na Síndrome da Imunodeficiência Adquirida (AIDS).",
+        "reqs": [
+            [
+                {
+                    "code": "NT608"
+                }
+            ]
+        ],
+        "reqBy": [
+            "NT703",
+            "NT704",
+            "NT802",
+            "NT804",
+            "NT806",
+            "NT807",
+            "NT808",
+            "NT809",
+            "NT900",
+            "NT901",
+            "NT902"
+        ]
+    },
+    {
+        "code": "NT709",
+        "name": "Dietoterapia em Pediatria",
+        "credits": 5,
+        "syllabus": "Assistência nutricional aos recém-nascidos, crianças e adolescentes nas diversas doenças por meio da dietoterapia durante o acompanhamento ambulatorial ou na internação com a visão integral e humanizada. Introdução aos princípios básicos na assistência ao paciente pediátrico; assistência nutricional na desnutrição e nas diversas doenças do aparelho digestivo, doenças metabólicas e de erros inatos do metabolismo, doenças cardiovasculares, doenças renais e pulmonares, e na terapia enteral e parenteral.",
+        "reqs": [
+            [
+                {
+                    "code": "NT607"
+                },
+                {
+                    "code": "NT608"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT710",
+        "name": "Dietoterapia Ambulatorial",
+        "credits": 4,
+        "syllabus": "Treinamento em técnicas de abordagem ao indivíduo enfermo. Treinamento em técnicas de avaliação nutricional realizadas em ambulatório. Treinamento no desenvolvimento de estratégias de intervenção nutricional no atendimento ambulatorial de indivíduos enfermos. Discussão multiprofissional de casos clínicos. Apresentação e discussão de artigos científicos.",
+        "reqs": [
+            [
+                {
+                    "code": "NT508"
+                },
+                {
+                    "code": "NT600"
+                },
+                {
+                    "code": "NT603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT711",
+        "name": "Técnica Dietética II",
+        "credits": 4,
+        "syllabus": "Sistematização de procedimentos e de técnicas adequadas para preparo e armazenamento de receitas específicas para populações especiais e em diferentes ciclos de vida. Elaboração de cardápios e de Fichas Técnicas de preparações alimentícias voltadas para populações especiais e em ciclos da vida específicos. ",
+        "reqs": [
+            [
+                {
+                    "code": "NT402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT800",
+        "name": "Alimentação e Nutrição Institucional",
+        "credits": 17,
+        "syllabus": "Disciplina prática conduzida sob a forma de estágio em unidades de alimentação que aplicam métodos e técnicas de gerenciamento para o atendimento nutricional de grupos populacionais sadios.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT801",
+        "name": "Nutrigenômica",
+        "credits": 4,
+        "syllabus": "Implicações éticas, legais e sociais da nutrigenômica. Interferência nutricional na estrutura cromossomal, expressão gênica e síntese proteica. Diversidade genética populacional Vs determinismo nutricional, cultural e individual. Influência nutricional nas ciências ômicas. Sinalização celular mediada por nutrientes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT802",
+        "name": "Estágio em Nutrição Clínica II",
+        "credits": 10,
+        "syllabus": "Estágio desenvolvido em hospitais, clínicas e ambulatórios, onde os alunos aplicam os conhecimentos teóricos da dietoterapia nas unidades de internação.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT803",
+        "name": "Estágio em Nutrição do Envelhecimento II",
+        "credits": 4,
+        "syllabus": "Estágio."
+    },
+    {
+        "code": "NT804",
+        "name": "Estágio em Nutrição e Saúde Coletiva II",
+        "credits": 10,
+        "syllabus": "Estágio em Ambulatórios de Especialidades, na Atenção Básica à Saúde, em Instituições de Atenção à Saúde, em Programas de Alimentação Escolar e em equipamentos de Segurança Alimentar e Nutricional.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT805",
+        "name": "Estágio em Nutrição no Esporte II",
+        "credits": 4,
+        "syllabus": "Disciplina prática conduzida sob a forma de estágio em centros desportivos, clubes e agremiações, e no condicionamento individual de atletas."
+    },
+    {
+        "code": "NT806",
+        "name": "Estágio em Nutrição Clínica I",
+        "credits": 10,
+        "syllabus": "Estágio desenvolvido em hospitais, clínicas e ambulatórios, onde os alunos aplicam os conhecimentos teóricos da dietoterapia nas unidades de internação.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT807",
+        "name": "Estágio em Nutrição e Saúde Coletiva I",
+        "credits": 10,
+        "syllabus": "Estágio em Ambulatórios de Especialidades, na Atenção Básica à Saúde, em Instituições de Atenção à Saúde, em Programas de Alimentação Escolar e em equipamentos de Segurança Alimentar e Nutricional.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT808",
+        "name": "Estágio em Unidades de Alimentação e Nutrição I",
+        "credits": 10,
+        "syllabus": "Disciplina prática conduzida sob a forma de estágio em unidades de alimentação que aplicam métodos e técnicas de gerenciamento para o atendimento nutricional de grupos populacionais sadios.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT809",
+        "name": "Estágio em Unidades de Alimentação e Nutrição II",
+        "credits": 10,
+        "syllabus": "Disciplina prática conduzida sob a forma de estágio em unidades de alimentação que aplicam métodos e técnicas de gerenciamento para o atendimento nutricional de grupos populacionais sadios.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT900",
+        "name": "Estágio em Nutrição Clínica",
+        "credits": 20,
+        "syllabus": "Estágio desenvolvido em hospitais, clínicas e ambulatórios, onde os alunos aplicam os conhecimentos teóricos da dietoterapia nas unidades de internação.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT901",
+        "name": "Estágio em Nutrição e Saúde Coletiva",
+        "credits": 20,
+        "syllabus": "Estágio em Ambulatórios de Especialidades, na Atenção Básica à Saúde, em Instituições de Atenção à Saúde, em Programas de Alimentação Escolar e em equipamentos de Segurança Alimentar e Nutricional.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "NT902",
+        "name": "Estágio em Unidades de Alimentação e Nutrição",
+        "credits": 20,
+        "syllabus": "Disciplina prática conduzida sob a forma de estágio em Unidades de Alimentação que aplicam métodos e técnicas de gerenciamento para o atendimento nutricional de grupos populacionais sadios.",
+        "reqs": [
+            [
+                {
+                    "code": "NT511"
+                },
+                {
+                    "code": "NT610"
+                },
+                {
+                    "code": "NT707"
+                },
+                {
+                    "code": "NT708"
+                }
+            ]
+        ]
+    }
+]

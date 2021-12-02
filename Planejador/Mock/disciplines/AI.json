@@ -1,0 +1,30 @@
+[
+    {
+        "code": "AI001",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "Participação entre os meses de julho a dezembro, em Reuniões Científicas com duração mínima de 24 h, com apresentação de trabalho, documentada através do Certificado de Participação e do material apresentado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AI002",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "Participação entre os meses de janeiro a julho, em Reuniões Científicas com duração mínima de 24 h, com apresentação de trabalho, documentada através do Certificado de Participação e do material apresentado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

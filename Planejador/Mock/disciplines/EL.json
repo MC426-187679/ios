@@ -1,0 +1,470 @@
+[
+    {
+        "code": "EL101",
+        "name": "Iniciação Científica em Educação I",
+        "credits": 2,
+        "syllabus": "Introdução às atividades de pesquisa em educação sob a supervisão de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL103",
+        "name": "Colóquios I",
+        "credits": 2,
+        "syllabus": "Conjunto de atividades oferecidas na forma de seminários, palestras e oficinas, abordando temas da produção científica e cultural, que são de interesse da Educação, da Física, da Química e da Educação em Ciências."
+    },
+    {
+        "code": "EL104",
+        "name": "Iniciação à Docência",
+        "credits": 6,
+        "syllabus": "Participação em projetos de iniciação à docência desenvolvidos na Unicamp em parceria com escolas de educação básica da rede pública de ensino."
+    },
+    {
+        "code": "EL105",
+        "name": "Tecnologias e Processos Educativos",
+        "credits": 6,
+        "syllabus": "Abordagem interdisciplinar e cultural, propondo-se o tratamento das mídias e das tecnologias de comunicação e informação, como parte dos processos educativos amplos. Os alunos vivenciarão situações práticas que os levarão a refletir, criticamente, as  tecnologias na educação."
+    },
+    {
+        "code": "EL109",
+        "name": "Introdução à Pesquisa no Ensino de Ciências",
+        "credits": 6,
+        "syllabus": "Educação em Ciências como campo de pesquisa. Relações entre pesquisa e docência na Educação em Ciências. Introdução às metodologias de pesquisa em Ensino de Ciências. Práticas de pesquisa em Ensino de Ciências."
+    },
+    {
+        "code": "EL110",
+        "name": "Tópicos Especiais em Educação I",
+        "credits": 2,
+        "syllabus": "Estudo das representações culturais em circulação na sociedade, em suas articulações com os saberes produzidos pelos diferentes campos de ciências."
+    },
+    {
+        "code": "EL111",
+        "name": "Leitura, Produção de Textos e Docência",
+        "credits": 6,
+        "syllabus": "Práticas de leitura e escrita no contexto da formação inicial em nível superior, em seus diferentes gêneros que performam o universo de significação, a história do modo de viver contemporâneo e a produção de conhecimento. Práticas de leitura e de produção em diferentes linguagens, principalmente aquelas que movimentam a esfera acadêmica da atividade humana."
+    },
+    {
+        "code": "EL112",
+        "name": "Fundamentos Conceituais e Pedagógicos da Matemática Elementar",
+        "credits": 8,
+        "syllabus": "Coordenadoria"
+    },
+    {
+        "code": "EL136",
+        "name": "Problemas do Ensino de Física e Química",
+        "credits": 4,
+        "syllabus": "Reconhecimento e análise das questões e temas que envolvem o Ensino da Química e da Física na educação básica. Contato com a produção de conhecimento nas áreas de Ensino de Química e Ensino de Física."
+    },
+    {
+        "code": "EL142",
+        "name": "Tópicos Especiais em Ciências Sociais Aplicadas à Educação",
+        "credits": 6,
+        "syllabus": "A disciplina aborda temas fundamentais da Educação a partir de aportes teóricos metodológicos das Ciências Sociais numa perspectiva interdisciplinar."
+    },
+    {
+        "code": "EL201",
+        "name": "Iniciação Científica em Educação II",
+        "credits": 2,
+        "syllabus": "Introdução às atividades de pesquisa em educação sob a supervisão de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL203",
+        "name": "Colóquios II",
+        "credits": 2,
+        "syllabus": "Atividades na forma de seminários, palestras de oficinas com temas de interesse da Educação, Física, Química, Educação em Ciências e/ou outras áreas afins, como: Música, Fonoaudiologia, Farmácia, Bioquímica, Biologia, etc."
+    },
+    {
+        "code": "EL204",
+        "name": "Seminários Integrados de Atividades em Física e Química",
+        "credits": 4,
+        "syllabus": "Conjunto de Seminários com participação de pesquisadores das áreas de Química, Física e Educação, com exposição das características e peculiaridades de seus trabalhos de pesquisa."
+    },
+    {
+        "code": "EL210",
+        "name": "Tópicos Especiais em Educação II",
+        "credits": 2,
+        "syllabus": "Abordagens de temas contemporâneos direta ou indiretamente relacionados ao campo da educação, da ciência e da arte."
+    },
+    {
+        "code": "EL212",
+        "name": "Política Educacional: Organização da Educação Brasileira",
+        "credits": 6,
+        "syllabus": "Estudo analítico das políticas educacionais no Brasil com destaque para: a política educacional no contexto das políticas públicas; organização dos sistemas de ensino considerando as peculiaridades nacionais e os contextos e legislação de ensino; organização da educação básica e do ensino superior.",
+        "reqBy": [
+            "AD071",
+            "EL774",
+            "EL874",
+            "EL876",
+            "EL921",
+            "QG551"
+        ]
+    },
+    {
+        "code": "EL213",
+        "name": "LIBRAS e Educação de Surdos",
+        "credits": 4,
+        "syllabus": "Conhecimentos teórico-práticos introdutórios de LIBRAS e dos parâmetros que a caracterizam como língua; constituição do sujeito surdo pela LIBRAS; história da educação e as organizações dos movimentos políticos dos surdos; comunidades surdas e suas produções culturais; abordagens educacionais no ensino da pessoa surda; projetos de educação bilíngue; leis de acessibilidade e de garantia à educação."
+    },
+    {
+        "code": "EL214",
+        "name": "História da Profissão Docente",
+        "credits": 4,
+        "syllabus": "História dos saberes e das práticas docentes. A docência na perspectiva da história da educação. Historiografia da formação docente. Memória e docência."
+    },
+    {
+        "code": "EL221",
+        "name": "Práticas de Educação e Saúde",
+        "credits": 4,
+        "syllabus": "Esta disciplina discute a multidimensionalidade das práticas de educação e saúde (PES), inserindo-as nos contextos sócio-histórico culturais. Estabelece interlocuções com referenciais que problematizam os discursos, as práticas e as suas formas de organização, pretendendo que estes espaços sejam férteis para ampliar a participação e a democratização das questões de saúde na sociedade.",
+        "reqBy": [
+            "EL874",
+            "EL921"
+        ]
+    },
+    {
+        "code": "EL284",
+        "name": "Educação Matemática Escolar I",
+        "credits": 2,
+        "syllabus": "O objetivo deste curso é promover análise e estudo de Problemas e perspectivas da Educação Matemática brasileira.",
+        "reqBy": [
+            "EL684",
+            "MA811",
+            "MA812",
+            "MA813"
+        ]
+    },
+    {
+        "code": "EL285",
+        "name": "Conhecimento em Física Escolar I",
+        "credits": 2,
+        "syllabus": "Análise de questões específicas do ensino da Física e de campos e conhecimentos envolvidos em propostas de solução para essas questões.",
+        "reqBy": [
+            "EL685",
+            "MA811",
+            "MA812",
+            "MA813"
+        ]
+    },
+    {
+        "code": "EL303",
+        "name": "Colóquios III",
+        "credits": 2,
+        "syllabus": "Conjunto de atividades oferecidas na forma de seminários, palestras e oficinas, abordando temas da produção científica e cultural, que são de interesse da Educação, da Física, da Química e da Educação em Ciências."
+    },
+    {
+        "code": "EL403",
+        "name": "Colóquios IV",
+        "credits": 2,
+        "syllabus": "Conjunto de atividades oferecidas na forma de seminários, palestras e oficinas, abordando temas da produção científica e cultural, que são de interesse da Educação, da Física, da Química e da Educação em Ciências."
+    },
+    {
+        "code": "EL485",
+        "name": "Filosofia e História da Educação",
+        "credits": 6,
+        "syllabus": "Introdução à Filosofia e História da Educação, consideradas à luz de suas diferenças frente à Ciência e à Pedagogia: estudo e discussões das origens históricas da Filosofia e dos processos, narrativas e ideias que se relacionam com as configurações assumidas pela Educação no Brasil, principalmente em seu período de formação."
+    },
+    {
+        "code": "EL505",
+        "name": "Iniciação Científica em Ensino de Ciências I",
+        "credits": 2,
+        "syllabus": "Introdução à abordagem científica de problemas relacionados aos estudos em Ensino de Ciências. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL506",
+        "name": "Iniciação Científica em Ensino de Biologia I",
+        "credits": 2,
+        "syllabus": "Introdução à abordagem científica de problemas relacionados aos estudos em Ensino de Biologia. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL511",
+        "name": "Psicologia e Educação",
+        "credits": 6,
+        "syllabus": "Fundamentos teóricos e contribuições da psicologia para o estudo e compreensão de questões relacionadas à Educação, considerando as possibilidades de  atuação docente. Inserção em contextos educativos e análise do cotidiano escolar.",
+        "reqBy": [
+            "AD071",
+            "EL774",
+            "EL874",
+            "EL876",
+            "EL921",
+            "QG551"
+        ]
+    },
+    {
+        "code": "EL605",
+        "name": "Iniciação Científica em Ensino de Ciências II",
+        "credits": 2,
+        "syllabus": "Introdução à abordagem científica de problemas relacionados aos estudos em Ensino de Ciências. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL606",
+        "name": "Iniciação Científica em Ensino de Biologia II",
+        "credits": 2,
+        "syllabus": "Introdução à abordagem científica de problemas relacionados aos estudos em Ensino de Biologia. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL683",
+        "name": "Escola e Cultura",
+        "credits": 6,
+        "syllabus": "Dimensões da escola e da cultura na Pesquisa e no Conhecimento em Educação.",
+        "reqBy": [
+            "AD071",
+            "EL774",
+            "EL774",
+            "EL874",
+            "EL876",
+            "EL921",
+            "QG551"
+        ]
+    },
+    {
+        "code": "EL684",
+        "name": "Educação Matemática Escolar II",
+        "credits": 6,
+        "syllabus": "O objetivo deste curso é promover uma problematização multidimensional do conhecimento matemático escolar na perspectiva da Educação Matemática.",
+        "reqs": [
+            [
+                {
+                    "code": "EL284"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL685",
+        "name": "Conhecimento em Física Escolar II",
+        "credits": 2,
+        "syllabus": "Planejamento, organização e avaliação de unidades de ensino tendo em vista a Física Escolar.",
+        "reqs": [
+            [
+                {
+                    "code": "EL285"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL774",
+        "name": "Estágio Supervisionado I",
+        "credits": 8,
+        "syllabus": "Imersão no campo de trabalho, que propicie ao professor, em formação inicial, o contato com experiências, práticas e conhecimentos de natureza profissional, tanto na escola quanto em espaços educativos não escolares. Conhecer as características das instituições educativas no contexto socioeconômico cultural brasileiro, articulando as diferentes formas de ensino-aprendizagem, de gestão e de organização.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA445",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA445",
+                    "special": true
+                },
+                {
+                    "code": "EF632"
+                },
+                {
+                    "code": "EF832"
+                },
+                {
+                    "code": "EL683"
+                }
+            ],
+            [
+                {
+                    "code": "AA445",
+                    "special": true
+                },
+                {
+                    "code": "EL212"
+                },
+                {
+                    "code": "EL511"
+                },
+                {
+                    "code": "EL683"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EL874",
+            "FL701",
+            "FL702",
+            "GF806"
+        ]
+    },
+    {
+        "code": "EL874",
+        "name": "Estágio Supervisionado II",
+        "credits": 8,
+        "syllabus": "Atuação no campo de trabalho que propicie ao professor em formação o contato com experiências, práticas e conhecimentos de natureza profissional, articulando as diferentes formas de ensino-aprendizagem, de gestão e de organização. Trabalho de campo orientado para a avaliação dos componentes da prática educativa, procurando compreendê-la a partir dos contextos nos quais se desenvolvem. Elaboração e implementação de projetos e propostas que ampliem as alternativas de intervenção e atuação.",
+        "reqs": [
+            [
+                {
+                    "code": "EL212"
+                },
+                {
+                    "code": "EL221"
+                },
+                {
+                    "code": "EL511"
+                },
+                {
+                    "code": "EL683"
+                }
+            ],
+            [
+                {
+                    "code": "EL774"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AD081",
+            "AD083",
+            "AP762",
+            "GF806",
+            "LT700",
+            "LT701",
+            "MU573",
+            "MU999",
+            "QG680"
+        ]
+    },
+    {
+        "code": "EL876",
+        "name": "Estágio Supervisionado II",
+        "credits": 8,
+        "syllabus": "Atuação no campo de trabalho que propicie ao professor em formação o contato com experiências, práticas e conhecimentos de natureza profissional. Trabalho de campo orientado para a avaliação dos componentes da prática educativa a partir de contextos nos quais ela se desenvolve. Elaboração de projetos e propostas que ampliem as alternativas de intervenção em ações pedagógicas coletivas, estabelecidas em parceria com os profissionais que participam da formação do professor nos variados campos de estágio.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "EL212"
+                },
+                {
+                    "code": "EL511"
+                },
+                {
+                    "code": "EL683"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EL883",
+        "name": "Práticas Pedagógicas em Matemática",
+        "credits": 2,
+        "syllabus": "O objetivo deste curso é promover estudos e investigações da atividade pedagógica em Matemática na escola."
+    },
+    {
+        "code": "EL884",
+        "name": "Práticas Pedagógicas em Física",
+        "credits": 2,
+        "syllabus": "Estudo de soluções apontadas pelas principais tendências da Educação em Física para problemas dessa disciplina na escola de ensino médio."
+    },
+    {
+        "code": "EL885",
+        "name": "Estágio Supervisionado III",
+        "credits": 13,
+        "syllabus": "A partir de observação, participação e análise das realidades das instituições escolares, dimensionar o papel da educação científica, com base em referênciais que inter-relacionam os conceitos de ciência e educação, dentre outros. Escolha de elementos do currículo idealizado/praticado para o ensino de ciências e sua análise e discussão em episódios de estágio supervisionado."
+    },
+    {
+        "code": "EL921",
+        "name": "Estágio Supervisionado no Ensino de Enfermagem",
+        "credits": 19,
+        "syllabus": "Desenvolvimento de atividades de estágio e reflexões ético epistemológicas sobre natureza de um trabalho pedagógico em saúde capaz de subsidiar a formação de trabalhadores comprometidos com a sustentação do Sistema Único de Saúde (SUS). Análise das políticas de formação docente para a educação profissional técnica em nível médio na área de saúde, na perspectiva da Reforma Sanitária.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA450",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "EL212"
+                },
+                {
+                    "code": "EL221"
+                },
+                {
+                    "code": "EL511"
+                },
+                {
+                    "code": "EL683"
+                }
+            ]
+        ]
+    }
+]

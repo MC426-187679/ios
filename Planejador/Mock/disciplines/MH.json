@@ -1,0 +1,1740 @@
+[
+    {
+        "code": "MH101",
+        "name": "Introdução à Educação Física",
+        "credits": 2,
+        "syllabus": "Grandes temas em debate. Relação entre a Educação Física e o conhecimento científico. Educação Física e: educação, esportes e atividade física."
+    },
+    {
+        "code": "MH102",
+        "name": "História da Educação Física e Esportes",
+        "credits": 3,
+        "syllabus": "Educação Física e Esportes enquanto fenômenos culturais da sociedade moderna. A sociedade industrial e a construção do conceito de tempo livre.",
+        "reqBy": [
+            "MH103"
+        ]
+    },
+    {
+        "code": "MH103",
+        "name": "História da Educação Física e Esportes do Brasil",
+        "credits": 3,
+        "syllabus": "Análise do pensamento historiográfico na Educação Física e nos esportes no Brasil. Estudo da Educação Física e dos esportes face às políticas governamentais. Estudo da estruturação das Instituições formadoras dos profissionais em Educação Física e esportes. Estudo da categoria profissional, seu processo organizativo, suas entidades, suas formas de luta: análise e perspectiva.",
+        "reqs": [
+            [
+                {
+                    "code": "MH102"
+                }
+            ],
+            [
+                {
+                    "code": "MH112"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH104",
+        "name": "Introdução à Metodologia de Pesquisa Científica de Educação Física",
+        "credits": 3,
+        "syllabus": "O que é ciência e os diferentes campos científicos. O conhecimento científico. A questão do método. A relação método e técnicas. O relacionamento dessas com a pesquisa em Educação Física. Conceitos de informação. Documentação, comunicação e informação nas ciências."
+    },
+    {
+        "code": "MH105",
+        "name": "Teorias da Educação Física e Esportes",
+        "credits": 3,
+        "syllabus": "Educação Física como ciência. Epistemologia e Educação Física. A produção do conhecimento em Educação Física no Brasil."
+    },
+    {
+        "code": "MH106",
+        "name": "Informação em Educação Física, Esportes e Lazer",
+        "credits": 2,
+        "syllabus": "Conceitos de informação e sua relação com outras disciplinas. Diferenças entre documentação, comunicação e informação. Comunicação nas ciências. Sociedades científicas com interface com as disciplinas de Educação Física, Esportes e Lazer. Base de dados e fontes de informações nessas áreas de estudo. Recursos informacionais a partir da Unicamp. Jornalismo científico."
+    },
+    {
+        "code": "MH107",
+        "name": "Metodologia do Trabalho Científico",
+        "credits": 2,
+        "syllabus": "A pesquisa como ensino. Procedimentos de Estudo na Universidade. A documentação como método de uso pessoal. Leitura, Análise e Interpretação de textos. Uso de Biblioteca e o acesso à informação. Pesquisa bibliográfica e procedimentos característicos dos trabalhos acadêmicos.",
+        "reqBy": [
+            "MH114",
+            "MH609"
+        ]
+    },
+    {
+        "code": "MH108",
+        "name": "Motricidade Humana",
+        "credits": 4,
+        "syllabus": "Desenvolvimento da motricidade humana. Princípios gerais do desenvolvimento motor e etapas evolutivas. Motricidade global e fina. O corpo e o espaço."
+    },
+    {
+        "code": "MH112",
+        "name": "História da Educação Física e Esportes I",
+        "credits": 2,
+        "syllabus": "Educação Física e Esportes enquanto fenômenos culturais da sociedade moderna. A sociedade industrial e a construção do conceito de tempo livre.",
+        "reqBy": [
+            "MH103"
+        ]
+    },
+    {
+        "code": "MH114",
+        "name": "Introdução à Metodologia de Pesquisa Científica em Educação Física I",
+        "credits": 2,
+        "syllabus": "O que é ciência e os diferentes campos científicos. O conhecimento científico. A questão do método. A relação método e técnicas. O relacionamento dessas com a pesquisa em Educação Física. Conceitos de informação. Documentação, comunicação e informação nas ciências.",
+        "reqs": [
+            [
+                {
+                    "code": "MH107"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH609",
+            "MH709"
+        ]
+    },
+    {
+        "code": "MH115",
+        "name": "Teorias da Educação Física e Esportes I",
+        "credits": 2,
+        "syllabus": "Educação Física como ciência. Epistemologia e Educação Física. A produção do conhecimento em Educação Física no Brasil."
+    },
+    {
+        "code": "MH200",
+        "name": "Bases Biológicas da Atividade Física",
+        "credits": 4,
+        "syllabus": "Aspectos morfológicos e funcionais dos componentes celulares e teciduais dos sistemas orgânicos. Modificações estruturais dos tecidos determinadas pelo processo de adaptação e mudança nos níveis da atividade física."
+    },
+    {
+        "code": "MH201",
+        "name": "Noções Básicas de Saúde e Urgência na Educação Física",
+        "credits": 3,
+        "syllabus": "Introdução aos fundamentos de higiene, considerando os conhecimentos básicos na área da saúde. Noções de epidemiologia e doenças transmissíveis. Reconhecimento da situação de emergência e procedimento frente ao acidentado. Prevenção, identificação e primeiros cuidados com lesões ocorridas nas diferentes modalidades esportivas. Identificação e encaminhamento em estados patológicos do escolar."
+    },
+    {
+        "code": "MH202",
+        "name": "Nutrição em Educação Física e Esportes",
+        "credits": 2,
+        "syllabus": "Papel metabólico e dinâmica corporal dos nutrientes essenciais, bem como as consequências de suas carências alimentares. Demandas alimentares durante as fases do desenvolvimento humano e na atividade física."
+    },
+    {
+        "code": "MH203",
+        "name": "Bases Neurofuncionais do Movimento",
+        "credits": 2,
+        "syllabus": "Estudo do substrato neuroanatômico dos diferentes níveis de atividade do sistema nervoso. Circuitos neuroanatômicos de integração do meio interno do organismo. Conexões neurofuncionais entre as expressões afetivas e motoras do comportamento humano. Influências de meio na formação do desenvolvimento do sistema nervoso.",
+        "reqBy": [
+            "MH204"
+        ]
+    },
+    {
+        "code": "MH204",
+        "name": "Desenvolvimento Neuromotor",
+        "credits": 3,
+        "syllabus": "Diferentes etapas do desenvolvimento motor. Caracterização psicomotora da criança nas fases pré-escola e escolar. Avaliação dos estágios psicomotores. Relação entre desenvolvimento motor e fatores sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "MH203"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH205",
+        "name": "Cinesiologia",
+        "credits": 4,
+        "syllabus": "Estudo dos diferentes tipos de tensões e contrações musculares, tipos de trabalho musculares. Estudo das diferentes articulações com sua mobilidade e funções nos movimentos. Identificação, na prática, de músculos específicos em cada movimento articular, bem como de toda ação que envolve um movimento, tanto normal quanto na prática esportiva.",
+        "reqBy": [
+            "MH905"
+        ]
+    },
+    {
+        "code": "MH206",
+        "name": "Antropologia Física",
+        "credits": 3,
+        "syllabus": "Natureza da antropologia geral e física. Introdução à teoria da evolução. Filogenia e ontogenia: Adaptação humana, plasticidade e aclimatização. Estudo do crescimento e desenvolvimento humano e atividade física sob o enfoque biocultural. Tendência celular. Cineantropometria."
+    },
+    {
+        "code": "MH207",
+        "name": "Introdução à Educação Física Especial",
+        "credits": 4,
+        "syllabus": "A pessoa portadora de deficiência através dos tempos, considerações históricas e biopsicossociais. Fundamentos neuroanatomofisiológico, conceitos e característica das deficiências sensoriais, físicas e cognitivas. Educação Física Adaptada. Conceituação e evolução. A questão institucional: escola ou clínica.",
+        "reqBy": [
+            "MH504",
+            "MH514",
+            "MH706"
+        ]
+    },
+    {
+        "code": "MH208",
+        "name": "Motricidade Humana Fase Adulta e Terceira Idade",
+        "credits": 3,
+        "syllabus": "Características na fase adulta e terceira idade em relação ao ciclo da vida. Estudo das transformações anátomo-fisiológicas decorrentes da faixa etária e suas relações com ecossistema e cultura. Estágio supervisionado e desenvolvimento de programas de atividade física."
+    },
+    {
+        "code": "MH209",
+        "name": "Adaptação dos Sistemas Orgânicos ao Treinamento Físico",
+        "credits": 2,
+        "syllabus": "Características gerais de funcionamento dos Sistemas Orgânicos. Adaptações fisiológicas no Sistema Neuro-muscular, Sistemas Energéticos, Nutrição, Metabolismo e Exercício Físico. Capacidade de trabalho físico e sua avaliação.",
+        "reqs": [
+            [
+                {
+                    "code": "BF410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH210",
+        "name": "Saúde Coletiva e Atividade Física",
+        "credits": 2,
+        "syllabus": "Saúde Coletiva e Atividade Física: tendências e características básicas; principais concepções e práticas; bases biológicas e epidemiológicas. Lesões desportivas: conceitos fundamentais, classificação evolutiva e segundo nível de acometimento; gênese e determinantes; quantificação dos fatores de risco, profilaxia e controle; equipamentos de proteção individual e coletiva; aspectos epidemiológicos descritivos.",
+        "reqBy": [
+            "MH607"
+        ]
+    },
+    {
+        "code": "MH211",
+        "name": "Aspectos Antropologia do Crescimento, Desenvolvimento e Maturidade",
+        "credits": 2,
+        "syllabus": "Os processos da adaptação humana em nível filogenético e ontogenético, relacionados com as fases do crescimento, maturação e desenvolvimento, nas duas primeiras décadas da vida, sob a ótica da Antropologia Biocultural. Maturação dos diferentes sistemas (curva de Scammon), estirão do crescimento, maturação biológica, somatótipo, composição corporal curvas da performance motora são associados ao gênero, idade e fatores socioculturais. A cineantropometria é o método utilizado para avaliação das respostas adaptativas nesta fase."
+    },
+    {
+        "code": "MH212",
+        "name": "Socorros de Urgência em Educação Física",
+        "credits": 2,
+        "syllabus": "Reconhecimento da situação de emergência, prioridades e conduta a serem tomadas. Prevenção, identificação e primeiros socorros com lesões ocorridas em diferentes modalidades esportivas. Recursos disponíveis, improvisação e encaminhamentos necessários."
+    },
+    {
+        "code": "MH220",
+        "name": "Bases Biológicas da Atividade Física I",
+        "credits": 2,
+        "syllabus": "Aspectos morfológicos e funcionais dos componentes celulares e teciduais dos sistemas orgânicos. Modificações estruturais dos tecidos determinadas pelo processo de adaptação e mudanças nos níveis da atividade física."
+    },
+    {
+        "code": "MH300",
+        "name": "Ludomotricidade I",
+        "credits": 4,
+        "syllabus": "Análise filosófica do comportamento motor típico das atividades lúdicas. Reflexões sobre o jogo, o esporte, a dança, a brincadeira e a festa, envolvendo os componentes da alegria, divertimento e desenvolvimento. Implicações ideológicas e ação contra-ideológica."
+    },
+    {
+        "code": "MH301",
+        "name": "Ludomotricidade II",
+        "credits": 4,
+        "syllabus": "Análise antropossociológica do comportamento motor típico das atividades lúdicas. Estudo do jogo, do esporte, da dança, da brincadeira e da festa como elemento de diferentes culturas e sociedades, destacando: linguagem, alienação, repressão social e relações de poder."
+    },
+    {
+        "code": "MH302",
+        "name": "Ludomotricidade III",
+        "credits": 4,
+        "syllabus": "Estudo do homem na sua relação consigo mesmo e na transformação do meio. Atividades psíquicas como reguladoras das condutas humanas. Análise da estrutura do comportamento como regulador das condutas. A experiência corporal na formação da consciência."
+    },
+    {
+        "code": "MH303",
+        "name": "Pedagogia do Movimento I",
+        "credits": 3,
+        "syllabus": "Estudo do jogo como atividade humana e possibilidades de ação como instrumento pedagógico no desenvolvimento do homem. O jogo como fenômeno cultural.",
+        "reqBy": [
+            "MH501"
+        ]
+    },
+    {
+        "code": "MH304",
+        "name": "Pedagogia do Movimento II",
+        "credits": 3,
+        "syllabus": "Discussão teórico-prática que visa vivenciar as tendências que historicamente têm influenciado a Ginástica, com o objetivo de aplicá-la, modificá-la e adequá-la, segundo as características do meio onde o aluno se desenvolverá profissionalmente.",
+        "reqBy": [
+            "MH501"
+        ]
+    },
+    {
+        "code": "MH305",
+        "name": "Pedagogia do Movimento III",
+        "credits": 3,
+        "syllabus": "A partir da consideração do esporte como manifestação da cultura e como fenômeno sócio-cultural, esta disciplina trata do ensino das modalidades coletivas, considerando-as não como fins em si mesmas, mas como atividades culturalmente determinadas. Pretende-se discutir uma metodologia de ensino que possa tornar o esporte acessível a todos os indivíduos.",
+        "reqBy": [
+            "MH502",
+            "MH503"
+        ]
+    },
+    {
+        "code": "MH306",
+        "name": "Vivências Corporais",
+        "credits": 3,
+        "syllabus": "Manifestação e intercâmbio de experiências de movimento através da prática de atividades desportivas e corporais por parte do corpo discente. Reflexão sobre as experiências do movimento."
+    },
+    {
+        "code": "MH307",
+        "name": "Introdução à Recreação e aos Estudos do Lazer",
+        "credits": 4,
+        "syllabus": "Laboratório de atividades recreativas, tanto no ambiente escolar como fora dele. Abordagem conceitual das relações existentes entre a Educação Física, recreação e lazer, dentro de uma visão histórica, com vista à perspectiva contemporânea.",
+        "reqBy": [
+            "MH701",
+            "MH702",
+            "MH703",
+            "MH704",
+            "MH706",
+            "MH709"
+        ]
+    },
+    {
+        "code": "MH308",
+        "name": "Aspectos Filosóficos da Motricidade",
+        "credits": 4,
+        "syllabus": "Análise do fenômeno da motricidade e sua relação com pressupostos filosóficos, estudo da Corporeidade na produção de conhecimento na área da motricidade. Aspectos epistemológicos e pedagógicos da motricidade, em especial no teto da ludomotricidade."
+    },
+    {
+        "code": "MH309",
+        "name": "Aspectos Antropológicos da Motricidade",
+        "credits": 4,
+        "syllabus": "Análise antropológica da motricidade humana, estudo do jogo, do esporte e da dança como fenômenos socioculturais."
+    },
+    {
+        "code": "MH310",
+        "name": "Aspectos Psicológicos da Motricidade",
+        "credits": 4,
+        "syllabus": "Estudo do homem na sua relação transformadora com o meio e consigo próprio. Análise das estruturas do comportamento como reguladoras das condutas relacionadas com as situações de esporte, do jogo e da dança. A experiência corporal como um fator de transformação do \"SELF\".",
+        "reqBy": [
+            "MH605"
+        ]
+    },
+    {
+        "code": "MH311",
+        "name": "Pedagogia do Movimento IV (Dança)",
+        "credits": 3,
+        "syllabus": "Desenvolvimento de estudos teórico-práticos sobre o estudo da dança, abordando seu código - movimento, dançarino, som espaço geral; as formas de avaliação de seu processo e produto, e; os eixos pelos quais ela pode ser abordada - o fazer, o apreciar, a história."
+    },
+    {
+        "code": "MH312",
+        "name": "Pedagogia do Movimento V (Lutas)",
+        "credits": 3,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem de algumas lutas, com ênfase na natureza dos movimentos básicos através de conceitos e de atos motores."
+    },
+    {
+        "code": "MH319",
+        "name": "Aspectos Socioantropológicos da Motricidade Humana",
+        "credits": 4,
+        "syllabus": "Análise antropológica da motricidade humana, estudo do jogo, do esporte e da dança como fenômeno socioculturais."
+    },
+    {
+        "code": "MH400",
+        "name": "Introdução ao Treinamento em Esportes",
+        "credits": 4,
+        "syllabus": "Classificação e identificação das capacidades e habilidades motoras condicionantes e coordenativas. Classificação e identificação dos fatores determinantes e limitantes nas atividades físicas, relacionadas com as capacidades motoras. Princípios do treinamento esportivo. Bases de planejamento. Adaptação do treinamento para a situação do ensino formal."
+    },
+    {
+        "code": "MH401",
+        "name": "Pedagogia e Esportes I",
+        "credits": 4,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem do atletismo e da natação, com ênfase na natureza dos movimentos básicos e através dos atos motores."
+    },
+    {
+        "code": "MH402",
+        "name": "Pedagogia e Esportes II",
+        "credits": 4,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem da ginástica artística e ginástica rítmica desportiva, com ênfase na natureza dos movimentos básicos e através dos atos motores."
+    },
+    {
+        "code": "MH403",
+        "name": "Pedagogia e Esportes III",
+        "credits": 4,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem do basquetebol e handebol, com ênfase na natureza dos movimentos básicos e através dos atos motores."
+    },
+    {
+        "code": "MH404",
+        "name": "Pedagogia e Esportes IV",
+        "credits": 4,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem do futebol e voleibol, com ênfase na natureza dos movimentos básicos e através dos atos motores."
+    },
+    {
+        "code": "MH411",
+        "name": "Pedagogia e Esportes - Natação",
+        "credits": 2,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem da natação, com ênfase na natureza dos movimentos básicos e através de atos motores."
+    },
+    {
+        "code": "MH412",
+        "name": "Pedagogia e Esportes - Atletismo",
+        "credits": 2,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem do atletismo, com ênfase na natureza dos movimentos básicos e através de atos motores."
+    },
+    {
+        "code": "MH413",
+        "name": "Pedagogia e Esportes - Ginástica Artística",
+        "credits": 2,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem da Ginástica Artística, com ênfase na natureza dos movimentos básicos e através de atos motores."
+    },
+    {
+        "code": "MH414",
+        "name": "Pedagogia e Esportes - Ginástica Rítmica e Desportiva",
+        "credits": 2,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem da Ginástica Rítmica Desportiva, com ênfase na natureza dos movimentos básicos e através de atos motores."
+    },
+    {
+        "code": "MH415",
+        "name": "Pedagogia e Esportes - Basquetebol",
+        "credits": 2,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem do Basquetebol, com ênfase na natureza dos movimentos básicos e através dos atos motores."
+    },
+    {
+        "code": "MH416",
+        "name": "Pedagogia e Esportes - Handebol",
+        "credits": 2,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem do Handebol, com ênfase na natureza dos movimentos básicos e através dos atos motores."
+    },
+    {
+        "code": "MH417",
+        "name": "Pedagogia e Esportes - Futebol",
+        "credits": 2,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem dos fundamentos do Futebol, com ênfase na natureza dos movimentos básicos e através dos atos motores. Espaço físico e alternativo. Noções de regras."
+    },
+    {
+        "code": "MH418",
+        "name": "Pedagogia e Esportes - Voleibol",
+        "credits": 2,
+        "syllabus": "Ensino - Aprendizagem do jogo de voleibol."
+    },
+    {
+        "code": "MH501",
+        "name": "Educação Motora I",
+        "credits": 4,
+        "syllabus": "Análise do conteúdo dos princípios e da prática veiculados pela Educação Física na Pré-Escola e na Escola de 1º Grau (1ª a 4ª séries).",
+        "reqs": [
+            [
+                {
+                    "code": "MH303"
+                },
+                {
+                    "code": "MH304"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH502",
+            "MH503",
+            "MH505",
+            "MH513"
+        ]
+    },
+    {
+        "code": "MH502",
+        "name": "Educação Motora II",
+        "credits": 4,
+        "syllabus": "Análise do conteúdo dos princípios e da prática veiculados pela Educação Física na Escola de 1º Grau (5ª a 8ª séries) e na de 2º Grau.",
+        "reqs": [
+            [
+                {
+                    "code": "MH305"
+                },
+                {
+                    "code": "MH501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH503",
+        "name": "Educação Motora III",
+        "credits": 6,
+        "syllabus": "Análise do conteúdo dos princípios e da prática veiculados pela Educação Física no ensino de 2º Grau (parte diversificada da Habilitação Magistério) e no 3º Grau.",
+        "reqs": [
+            [
+                {
+                    "code": "MH305"
+                },
+                {
+                    "code": "MH501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH504",
+        "name": "Educação Física Escolar Especial",
+        "credits": 4,
+        "syllabus": "Adaptações necessárias para um trabalho em educação física especial. Implicações para a elaboração e desenvolvimento de programas. Aspectos interdisciplinares de educação física especial. A educação física e esporte para pessoas portadoras de deficiências.",
+        "reqs": [
+            [
+                {
+                    "code": "MH207"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH505",
+        "name": "Seminário de Monografia I - Licenciatura",
+        "credits": 2,
+        "syllabus": "Orientação específica para o desenvolvimento dos projetos de monografia de conclusão do curso, na habilitação licenciatura.",
+        "reqs": [
+            [
+                {
+                    "code": "MH501"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH506",
+            "MH800",
+            "MH801"
+        ]
+    },
+    {
+        "code": "MH506",
+        "name": "Seminário de Monografia II - Licenciatura",
+        "credits": 4,
+        "syllabus": "Elaboração e apresentação dos trabalhos monográficos da habilitação licenciatura.",
+        "reqs": [
+            [
+                {
+                    "code": "MH505"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH513",
+        "name": "Educação Motora III",
+        "credits": 4,
+        "syllabus": "Análise do conteúdo dos princípios e da prática veiculados pela Educação Física no ensino de 2º Grau (parte diversificada da Habilitação Magistério) e no 3º Grau.",
+        "reqs": [
+            [
+                {
+                    "code": "MH501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH514",
+        "name": "Educação Física Escolar Especial",
+        "credits": 2,
+        "syllabus": "Adaptações necessárias para um trabalho em educação física especial. Implicações para a elaboração e desenvolvimento de programas. Aspectos interdisciplinares de educação física especial. A educação física e esporte para pessoas portadoras de deficiências.",
+        "reqs": [
+            [
+                {
+                    "code": "MH207"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH601",
+        "name": "Treinamento em Esportes",
+        "credits": 6,
+        "syllabus": "O condicionamento físico das diversas modalidades esportivas. Generalização e especificação do treinamento em esportes. Planejamento, diagnóstico, prognóstico, execução e acompanhamento. A periodização.",
+        "reqBy": [
+            "MH611",
+            "MH612",
+            "MH613",
+            "MH614",
+            "MH615",
+            "MH616",
+            "MH617",
+            "MH618",
+            "MH619"
+        ]
+    },
+    {
+        "code": "MH602",
+        "name": "Adaptações do Sistema Orgânico ao Treinamento Físico",
+        "credits": 4,
+        "syllabus": "Características gerais de funcionamento dos sistemas orgânicos. Adaptações fisiológicas no sistema neuromuscular, sistemas energéticos, nutrição, metabolismo e exercício físico. Capacidade de trabalho físico e sua avaliação.",
+        "reqs": [
+            [
+                {
+                    "code": "BF410"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH603",
+        "name": "Biomecânica do Movimento em Esportes",
+        "credits": 3,
+        "syllabus": "Conceitos mecânicos básicos: movimento linear, movimento angular, cinética linear e angular, mecânica dos fluidos. Aplicação prática: Análise qualitativa."
+    },
+    {
+        "code": "MH604",
+        "name": "Marketing em Educação Física, Esportes e Lazer",
+        "credits": 4,
+        "syllabus": "Análise do marketing atual e sua relação nas áreas da educação física, dos esportes e do lazer. Conceituação e atualidade com a finalidade de contemplar o estudante com a visão atual do marketing, colocando-o a par de toda evolução que constantemente ocorre no setor."
+    },
+    {
+        "code": "MH605",
+        "name": "Estudos Psicológicos do Esporte",
+        "credits": 4,
+        "syllabus": "Abordagem de diferentes aspectos psicológicos inerentes às relações humanas na situação de jogo ou fenômeno esporte",
+        "reqs": [
+            [
+                {
+                    "code": "MH310"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH606",
+        "name": "Organização e Legislação em Esportes",
+        "credits": 2,
+        "syllabus": "Normas gerais de esportes e sua regulamentação. O sistema esportivo nacional. Origem do direito, seus ramos e conceitos, e sua relação com Educação Física e esportes."
+    },
+    {
+        "code": "MH607",
+        "name": "Saúde Coletiva e Performance Humana",
+        "credits": 4,
+        "syllabus": "Parâmetros quantificáveis da performance humana. Respostas biopsicossociais da saúde coletiva e performance humana. Prescrição de atividades.",
+        "reqs": [
+            [
+                {
+                    "code": "BF410"
+                },
+                {
+                    "code": "MH210"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH609",
+        "name": "Seminários em Monografia I - Treinamento em Esportes I",
+        "credits": 2,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "MH107"
+                },
+                {
+                    "code": "MH114"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH800",
+            "MH802"
+        ]
+    },
+    {
+        "code": "MH610",
+        "name": "Seminários de Monografia I - Treinamento em Esportes",
+        "credits": 3,
+        "syllabus": "Tema de pesquisa a ser desenvolvido individualmente pelo aluno sob orientação de um professor.",
+        "reqBy": [
+            "MH620"
+        ]
+    },
+    {
+        "code": "MH611",
+        "name": "Artes Marciais",
+        "credits": 4,
+        "syllabus": "Identificação das artes marciais como elemento da cultura esportiva, buscando, no direcionamento da sua prática e teoria, a construção e o aperfeiçoamento das qualidades físicas, sociais, intelectuais e afetivas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH631",
+            "MH641"
+        ]
+    },
+    {
+        "code": "MH612",
+        "name": "Atletismo",
+        "credits": 4,
+        "syllabus": "Planejamento, organização e execução de programas de ensino de atletismo para os diversos segmentos da sociedade. Organização de competições e preparação global do atleta e da equipe.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH632",
+            "MH642"
+        ]
+    },
+    {
+        "code": "MH613",
+        "name": "Basquetebol",
+        "credits": 4,
+        "syllabus": "Planejamento, organização e execução de programas de ensino de basquetebol para os diversos segmentos da sociedade. Organização de competições e preparação global do atleta e da equipe.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH633",
+            "MH643"
+        ]
+    },
+    {
+        "code": "MH614",
+        "name": "Handebol",
+        "credits": 4,
+        "syllabus": "Planejamento, organização e execução de programas de ensino em handebol para os diversos segmentos da sociedade. Organização de competições e preparação global do atleta e da equipe.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH634",
+            "MH644"
+        ]
+    },
+    {
+        "code": "MH615",
+        "name": "Ginástica Artística",
+        "credits": 4,
+        "syllabus": "Regulamento e pontuação, histórico e evolução da modalidade. Análise técnica e execução e aperfeiçoamento de seus fundamentos. Organização de competições e preparação global do ginasta e da equipe.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH635",
+            "MH645"
+        ]
+    },
+    {
+        "code": "MH616",
+        "name": "Ginástica Rítmica Desportiva",
+        "credits": 4,
+        "syllabus": "Regulamento e pontuação, histórico e evolução da modalidade. Análise técnica e execução e aperfeiçoamento de seus fundamentos. Organização de competições e preparação global do ginasta e da equipe.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH636",
+            "MH646"
+        ]
+    },
+    {
+        "code": "MH617",
+        "name": "Futebol de Campo",
+        "credits": 4,
+        "syllabus": "Planejamento, organização e execução de programas de ensino em futebol para os diversos segmentos da sociedade. Organização de competições e preparação global do atleta e da equipe.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH637",
+            "MH647"
+        ]
+    },
+    {
+        "code": "MH618",
+        "name": "Natação",
+        "credits": 4,
+        "syllabus": "Planejamento, organização e execução de programas de ensino em natação para os diversos segmentos da sociedade. Organização de competições e preparação global do atleta e da equipe.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH638",
+            "MH648"
+        ]
+    },
+    {
+        "code": "MH619",
+        "name": "Voleibol",
+        "credits": 4,
+        "syllabus": "Planejamento, organização e execução de programas de ensino em voleibol para os diversos segmentos da sociedade. Organização de competições e preparação global do atleta e da equipe.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH630",
+            "MH639",
+            "MH649"
+        ]
+    },
+    {
+        "code": "MH620",
+        "name": "Seminários de Monografia II - Treinamento em Esportes",
+        "credits": 3,
+        "syllabus": "Prosseguimento e término das atividades que se iniciaram na Monografia I, resultando em um trabalho obrigatório para finalização do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MH610"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH630",
+        "name": "Estágio Supervisionado em Treinamento e Esporte I",
+        "credits": 8,
+        "syllabus": "Aplicação de princípios de treinamento nas modalidades, através de acompanhamento de escolinhas e equipes. Participação em campeonatos. Elaboração de programa de treinamento dessas modalidades.\nObs.: Disciplina destinada a estágio de alunos com interesse em modalidades diferentes das tradicionais oferecidas pela faculdade.",
+        "reqs": [
+            [
+                {
+                    "code": "MH611"
+                }
+            ],
+            [
+                {
+                    "code": "MH612"
+                }
+            ],
+            [
+                {
+                    "code": "MH613"
+                }
+            ],
+            [
+                {
+                    "code": "MH614"
+                }
+            ],
+            [
+                {
+                    "code": "MH615"
+                }
+            ],
+            [
+                {
+                    "code": "MH616"
+                }
+            ],
+            [
+                {
+                    "code": "MH617"
+                }
+            ],
+            [
+                {
+                    "code": "MH618"
+                }
+            ],
+            [
+                {
+                    "code": "MH619"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH640"
+        ]
+    },
+    {
+        "code": "MH631",
+        "name": "Estágio Supervisionado em Treinamento I - Artes Marciais",
+        "credits": 4,
+        "syllabus": "Desenvolvimento e treinamento de lutas, através de acompanhamento dos diferentes segmentos que envolvem sua realidade.",
+        "reqs": [
+            [
+                {
+                    "code": "MH611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH632",
+        "name": "Estágio Supervisionado em Treinamento I - Atletismo",
+        "credits": 4,
+        "syllabus": "Acompanhamento do processo de treinamento técnico/tático na modalidade de atletismo no segmento escolar e não escolar.",
+        "reqs": [
+            [
+                {
+                    "code": "MH612"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH633",
+        "name": "Estágio Supervisionado em Treinamento I - Basquetebol",
+        "credits": 4,
+        "syllabus": "Acompanhamento, aprofundamento e atuação no processo de início e treinamento na modalidade basquetebol.",
+        "reqs": [
+            [
+                {
+                    "code": "MH613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH634",
+        "name": "Estágio Supervisionado em Treinamento I - Handebol",
+        "credits": 4,
+        "syllabus": "Aplicação de princípios de treinamento na modalidade handebol através de acompanhamento de equipes de iniciação desportiva e equipes de aperfeiçoamento desportivo.",
+        "reqs": [
+            [
+                {
+                    "code": "MH614"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH635",
+        "name": "Estágio Supervisionado em Treinamento I - Ginástica Artística",
+        "credits": 4,
+        "syllabus": "Aplicação de estágio supervisionado na área da Ginástica Artística, visando desenvolver uma complementação de seus conhecimentos teóricos da disciplina. Acompanhamento de algumas equipes de treinamento em nível de iniciação desportiva, realizada em clubes, escolas e/ou instituições que desenvolvam esta prática da modalidade.",
+        "reqs": [
+            [
+                {
+                    "code": "MH615"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH636",
+        "name": "Estágio Supervisionado em Treinamento I - Ginástica Rítmica e Desportiva",
+        "credits": 4,
+        "syllabus": "Aplicação de estágio supervisionado na área da Ginástica Rítmica Desportiva, visando desenvolver uma complementação de seus conhecimentos teóricos da disciplina. Acompanhamento de algumas equipes de treinamento em nível de iniciação desportiva, realizada em clubes, escolas e/ou instituições que desenvolvam esta prática da modalidade.",
+        "reqs": [
+            [
+                {
+                    "code": "MH616"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH637",
+        "name": "Estágio Supervisionado em Treinamento I - Futebol",
+        "credits": 4,
+        "syllabus": "Aplicação de princípios de treinamento no futebol, através de acompanhamento de equipes, clubes e escolinhas. Participação em competições. Elaboração de programas de treinamento.",
+        "reqs": [
+            [
+                {
+                    "code": "MH617"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH638",
+        "name": "Estágio Supervisionado em Treinamento I - Natação",
+        "credits": 4,
+        "syllabus": "Aplicação de princípios de treinamento na modalidade natação através de acompanhamento de equipes de iniciação desportiva e equipes de aperfeiçoamento desportivo.",
+        "reqs": [
+            [
+                {
+                    "code": "MH618"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH639",
+        "name": "Estágio Supervisionado em Treinamento I - Voleibol",
+        "credits": 4,
+        "syllabus": "A realidade na prática do voleibol (iniciação e treinamento)",
+        "reqs": [
+            [
+                {
+                    "code": "MH619"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH640",
+        "name": "Estágio Supervisionado em Treinamento II",
+        "credits": 8,
+        "syllabus": "Aprofundamento dos conceitos e da prática executada no Estágio Supervisionado em treinamento em Esportes I. \nObs.: Disciplina destinada a estágio de alunos com interesse em modalidades diferentes das tradicionais oferecidas pela faculdade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH630"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH641",
+        "name": "Estágio Supervisionado em Treinamento II - Artes Marciais",
+        "credits": 4,
+        "syllabus": "Aprofundamento do desenvolvimento e treinamento de lutas, através de acompanhamento dos diferentes segmentos que envolvem sua realidade.",
+        "reqs": [
+            [
+                {
+                    "code": "MH611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH642",
+        "name": "Estágio Supervisionado em Treinamento II - Atletismo",
+        "credits": 4,
+        "syllabus": "Aprofundamento do processo e acompanhamento da estrutura geral do treinamento na modalidade de atletismo.",
+        "reqs": [
+            [
+                {
+                    "code": "MH612"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH643",
+        "name": "Estágio Supervisionado em Treinamento II - Basquetebol",
+        "credits": 4,
+        "syllabus": "Acompanhamento e aprofundamento no processo de treinamento na modalidade basquetebol.",
+        "reqs": [
+            [
+                {
+                    "code": "MH613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH644",
+        "name": "Estágio Supervisionado em Treinamento II - Handebol",
+        "credits": 4,
+        "syllabus": "Aplicação de princípios de treinamento na modalidade handebol através de acompanhamento de equipes de alto rendimento nas diferentes faixas etárias e sexo.",
+        "reqs": [
+            [
+                {
+                    "code": "MH614"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH645",
+        "name": "Estágio Supervisionado em Treinamento II - Ginástica Artística",
+        "credits": 4,
+        "syllabus": "Aplicação de estágio supervisionado na área da Ginástica Artística, visando a um aperfeiçoamento dos conhecimentos adquiridos. Acompanhamento de equipes de treinamento de alto nível, nas categorias juvenil e adulto, realizada em clubes e/ou instituições.",
+        "reqs": [
+            [
+                {
+                    "code": "MH615"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH646",
+        "name": "Estágio Supervisionado em Treinamento II - Ginástica Rítmica e Desportiva",
+        "credits": 4,
+        "syllabus": "Aplicação de estágio supervisionado na área da Ginástica Rítmica Desportiva, visando a um aperfeiçoamento dos conhecimentos adquiridos. Acompanhamento de equipes de treinamento de alto nível, nas categorias juvenil e adulto, realizada em clubes e/ou instituições.",
+        "reqs": [
+            [
+                {
+                    "code": "MH616"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH647",
+        "name": "Estágio Supervisionado em Treinamento II - Futebol",
+        "credits": 4,
+        "syllabus": "Aplicação de princípios de treinamento nas modalidades, através de acompanhamento de equipes de futebol, clubes e escolinhas. Participação em competições. Elaboração de programas de treinamento.",
+        "reqs": [
+            [
+                {
+                    "code": "MH617"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH648",
+        "name": "Estágio Supervisionado em Treinamento - Natação",
+        "credits": 4,
+        "syllabus": "Aplicação de princípios de treinamento na modalidade natação através de acompanhamento de equipes de iniciação desportiva e equipes de aperfeiçoamento desportivo.",
+        "reqs": [
+            [
+                {
+                    "code": "MH618"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH649",
+        "name": "Estágio Supervisionado em Treinamento II - Voleibol",
+        "credits": 4,
+        "syllabus": "Envolvimento direto com a realidade do voleibol.",
+        "reqs": [
+            [
+                {
+                    "code": "MH619"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH701",
+        "name": "Relação Educação Física, Recreação e Estudos do Lazer",
+        "credits": 4,
+        "syllabus": "Abordagem interdisciplinar da recreação e lazer; conceitos, conteúdos, barreiras para a sua prática e o papel do animador cultural, com ênfase na realidade brasileira e na motricidade, como atividade de lazer.",
+        "reqs": [
+            [
+                {
+                    "code": "MH307"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH705",
+            "MH708"
+        ]
+    },
+    {
+        "code": "MH702",
+        "name": "O Processo de Liderança na Recreação e Lazer",
+        "credits": 4,
+        "syllabus": "Teorias e princípios de liderança e o papel da supervisão nas atividades de recreação e lazer dentro de um processo grupal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH307"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH708"
+        ]
+    },
+    {
+        "code": "MH703",
+        "name": "Processo de Planejamento na Recreação e Lazer I",
+        "credits": 4,
+        "syllabus": "Análise das linhas de ação de órgãos públicos e privados, estabelecidos na área. Elaboração de políticas administrativas, desenvolvimento e implementação de programas recreativos e gerenciamento organizacional dos serviços de lazer, tanto no setor público, como privado.",
+        "reqs": [
+            [
+                {
+                    "code": "MH307"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH707"
+        ]
+    },
+    {
+        "code": "MH704",
+        "name": "Espaços e Equipamentos de Recreação e Lazer",
+        "credits": 4,
+        "syllabus": "A dimensão política do espaço, análise específica do espaço urbano. Planejamento de espaços e equipamentos específicos e não específicos, destinados à recreação e lazer, com ênfase no processo de desenvolvimento de toda instalação e na sua manutenção.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH307"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH708"
+        ]
+    },
+    {
+        "code": "MH705",
+        "name": "Lazer e Sociedade",
+        "credits": 4,
+        "syllabus": "As relações entre lazer e trabalho, família, religião e educação. Estudo do lazer relacionado às diversas fases do ser humano: infância, juventude, idade adulta e terceira idade.",
+        "reqs": [
+            [
+                {
+                    "code": "MH701"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH710"
+        ]
+    },
+    {
+        "code": "MH706",
+        "name": "Recreação e Lazer para Portadores de Deficiências",
+        "credits": 4,
+        "syllabus": "Planejamento, execução e avaliação de serviços de recreação específicos para portadores de deficiência física, mental, auditiva e visual nos seus diversos estágios de desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "MH207"
+                },
+                {
+                    "code": "MH307"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH707",
+        "name": "Processo de Planejamento na Recreação e Lazer II",
+        "credits": 4,
+        "syllabus": "Princípios básicos para a elaboração e orçamento voltados para recreação e lazer. Os processos de avaliação com ênfase na estratégia de identificação de necessidades. Avaliação de programas, pessoal, equipamentos e instalações.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH708",
+        "name": "Estágio Supervisionado em Recreação e Lazer I",
+        "credits": 4,
+        "syllabus": "Supervisão das atividades desenvolvidas pelos alunos, enquanto estagiários, passando por diversos tipos de experiências, em entidades que prestam serviço na área de recreação e lazer, previamente credenciados pela coordenação do estágio.",
+        "reqs": [
+            [
+                {
+                    "code": "MH701"
+                },
+                {
+                    "code": "MH702"
+                },
+                {
+                    "code": "MH704"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH710",
+            "MH711"
+        ]
+    },
+    {
+        "code": "MH709",
+        "name": "Métodos da Pesquisa Científica Aplicada à Recreação e Lazer I",
+        "credits": 4,
+        "syllabus": "Embasamento para a elaboração de projeto tendo em vista o trabalho monográfico de conclusão de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MH114"
+                },
+                {
+                    "code": "MH307"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH713",
+            "MH800",
+            "MH803"
+        ]
+    },
+    {
+        "code": "MH710",
+        "name": "Estágio Supervisionado em Recreação e Lazer II",
+        "credits": 4,
+        "syllabus": "Seleção de uma das atividades credenciadas pela coordenação do estágio supervisionado para aprofundamento de experiências. Execução e avaliação de projeto específico de recreação e lazer.",
+        "reqs": [
+            [
+                {
+                    "code": "MH705"
+                },
+                {
+                    "code": "MH708"
+                },
+                {
+                    "code": "MH716"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH712"
+        ]
+    },
+    {
+        "code": "MH711",
+        "name": "Tópicos Especiais em Recreação e Lazer I",
+        "credits": 4,
+        "syllabus": "Seleção de temas, definidos pelos docentes e alunos em comum acordo, à luz dos acontecimentos que envolvam direta ou indiretamente a área de recreação e lazer.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH708"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MH712"
+        ]
+    },
+    {
+        "code": "MH712",
+        "name": "Tópicos Especiais em Recreação e Lazer II",
+        "credits": 4,
+        "syllabus": "Aprofundamento de temas na área de recreação e lazer eleitos em comum acordo entre docentes e alunos. Ênfase nas questões ligadas à preparação desse novo profissional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MH710"
+                },
+                {
+                    "code": "MH711"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH713",
+        "name": "Metodologia de Pesquisa Científica Aplicada à Recreação e Lazer II",
+        "credits": 4,
+        "syllabus": "Orientação específica para o desenvolvimento de projeto dos trabalhos monográficos de conclusão do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MH709"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH714",
+        "name": "Psicologia do Lazer",
+        "credits": 4,
+        "syllabus": "O significado psicológico do lazer, as teorias e os métodos de pesquisa. O desenvolvimento da pessoa e a formação de atividades de lazer no seu contexto socio-psicológico."
+    },
+    {
+        "code": "MH716",
+        "name": "Recreação e Lazer para Portadores de Deficiências I",
+        "credits": 2,
+        "syllabus": "Planejamento, execução e avaliação de serviços de recreação específicos para portadores de deficiência física, mental, auditiva e visual nos seus diversos estágios de desenvolvimento.",
+        "reqBy": [
+            "MH710"
+        ]
+    },
+    {
+        "code": "MH800",
+        "name": "Seminários de Monografias",
+        "credits": 4,
+        "syllabus": "Incentivo, acompanhamento, discussão e avaliação, em conjunto com respectivos orientadores, da formulação individual de monografia em Temática em Licenciatura de Educação Física, Ciências do Esporte e Estudos em Lazer, desde a fase de concepção, planejamento, execução, análise e redação, apresentada sob a forma de trabalho final de Curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MH505"
+                }
+            ],
+            [
+                {
+                    "code": "MH609"
+                }
+            ],
+            [
+                {
+                    "code": "MH709"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH801",
+        "name": "Monografia de Licenciatura",
+        "credits": 4,
+        "syllabus": "Incentivo, acompanhamento, discussão e avaliação, em conjunto com respectivos orientadores, da formulação individual da monografia em Temática de Licenciatura em Educação Física, desde a fase de concepção, planejamento, execução, análise e redação, apresentada sob forma de trabalho final de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MH505"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH802",
+        "name": "Monografia de Treinamento em Esportes",
+        "credits": 4,
+        "syllabus": "Incentivo, acompanhamento, discussão e avaliação, em conjunto com respectivos orientadores, da formulação individual da monografia em Temática de Treinamento em Ciências do Esporte, desde a fase de concepção, planejamento, execução, análise e redação, apresentada sob a forma de trabalho final de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MH609"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH803",
+        "name": "Monografia de Recreação e Lazer",
+        "credits": 4,
+        "syllabus": "Incentivo, acompanhamento, discussão e avaliação, em conjunto com respectivos orientadores, da formulação individual da monografia em Temática de Recreação e Lazer, desde a fase de concepção, planejamento, execução, análise e redação, apresentada sob a forma de trabalho final de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MH709"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH898",
+        "name": "Estágio Supervisionado em Fisiologia do Exercício I",
+        "credits": 12,
+        "syllabus": "Acompanhamento e aprendizagem de técnicas laboratoriais em fisiologia do exercício (calibração e operação de equipamentos, visando à obtenção de Medidas de Variáveis Metabólicas e Respiratórias e Eletrocardiografia Dinâmica de 24 horas). Atividades de estudo e seminários a respeito das adaptações dos sistemas orgânicos ao exercício e treinamento físico."
+    },
+    {
+        "code": "MH899",
+        "name": "Estágio Supervisionado em Fisiologia do Exercício II",
+        "credits": 12,
+        "syllabus": "Atividades laboratoriais em provas de avaliação funcional do sistema nervoso autônomo do coração. Avaliação da capacidade física aeróbica (determinação do limiar de anaerobiose). Acompanhamento dos programas de recondicionamento físico. Participação em seminários e reuniões bibliográficas sobre temas relacionados ao exercício físico."
+    },
+    {
+        "code": "MH901",
+        "name": "Análise Psicológica e Biológica das Necessidades Corporais Individualizadas",
+        "credits": 3,
+        "syllabus": "Análise das consequências corporais e psíquicas da relação inconsciente do ser humano com o seu corpo. A abordagem psicológica permite ao aluno compreender melhor as atividades corporais desenvolvidas pela Faculdade de Educação Física, através da tomada de consciência do corpo, seu desenvolvimento, mudanças e suas defesas."
+    },
+    {
+        "code": "MH902",
+        "name": "Capoeira",
+        "credits": 3,
+        "syllabus": "Introdução do aprendizado da capoeira, através de seus elementos básicos, preparação corporal, golpes, canto, instrumentos e seus toques e o jogo: conhecimento de seu processo histórico de desenvolvimento."
+    },
+    {
+        "code": "MH903",
+        "name": "Utilização e Construção de Aparelhos em Educação Física",
+        "credits": 3,
+        "syllabus": "Análise e exploração de aparelhos tradicionalmente utilizados pela Educação Física. Construção e adaptação de materiais alternativos."
+    },
+    {
+        "code": "MH904",
+        "name": "Acampamento",
+        "credits": 3,
+        "syllabus": "Estudo dos diferentes tipos de acampamento e sua integração com outras áreas que tenham como propósito e estudo do meio ambiente e/ou pesquisa de campo, e/ou aplicação de acampamento para diferentes objetivos Recreação e Lazer, Desportos Ecológicos, etc."
+    },
+    {
+        "code": "MH905",
+        "name": "Métodos Especiais para o Desenvolvimento da Força Muscular com Peso",
+        "credits": 3,
+        "syllabus": "Teoria e prática dos métodos específicos para o desenvolvimento da força muscular através de exercícios em aparelhos e implementos com peso. Desenvolvimento técnico e sua aplicabilidade nos diferentes esportes.",
+        "reqs": [
+            [
+                {
+                    "code": "BF410"
+                },
+                {
+                    "code": "MH205"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MH906",
+        "name": "Um Estudo do Ritmo na Motricidade",
+        "credits": 2,
+        "syllabus": "Estudo e análise do fenômeno ritmo através de propostas pedagógicas no trabalho com o ritmo, dentro de uma perspectiva lúdica."
+    },
+    {
+        "code": "MH907",
+        "name": "Futebol de Salão",
+        "credits": 3,
+        "syllabus": "Sua história, evolução, regulamentação e atualidade. Estudo de seus elementos fundamentais dentro de uma sequência pedagógica."
+    },
+    {
+        "code": "MH908",
+        "name": "Tênis de Campo",
+        "credits": 3,
+        "syllabus": "Sua história, evolução, regulamentação e atualidade. Estudo de seus elementos fundamentais dentro de uma sequência pedagógica."
+    },
+    {
+        "code": "MH909",
+        "name": "Taekwondo",
+        "credits": 2,
+        "syllabus": "Identificação do TKD como esporte e arte marcial, buscando no direcionamento de sua prática e teoria, a construção e o aperfeiçoamento das qualidades físicas sociais, intelectuais e afetivas."
+    },
+    {
+        "code": "MH910",
+        "name": "Aspectos Cognitivos da Motricidade Humana",
+        "credits": 2,
+        "syllabus": "A motricidade na espécie humana e no indivíduo. A formação do símbolo. Mecanismo de adaptação. A formação das regras no jogo. A ordem e a desordem."
+    },
+    {
+        "code": "MH911",
+        "name": "A Relação Corpo e Movimento na Educação Física",
+        "credits": 3,
+        "syllabus": "Fenômeno Psicossomático e a relação corpo/mente. A disponibilidade corporal. Percepção e controle do próprio corpo. Equilíbrio tônico-postural. Tomada de consciência da respiração."
+    },
+    {
+        "code": "MH912",
+        "name": "Dança em Educação Física",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de vivências que promovam a educação das sensações, através de exercícios de sensibilização, de compreensão e significação do desenho do corpo no espaço, para expressão corporal, e as implicações anatomofisiológicas."
+    },
+    {
+        "code": "MH913",
+        "name": "A Interdisciplinaridade e a Educação Física",
+        "credits": 2,
+        "syllabus": "Análise a respeito da teoria da interdisciplinaridade. Estudo da relação entre a interdisciplinaridade e a Educação Física. Ênfase no nível de círculo básico, 3ª e 4ª séries do Primeiro Grau."
+    },
+    {
+        "code": "MH914",
+        "name": "Ginástica Aeróbica",
+        "credits": 2,
+        "syllabus": "Aspectos históricos dos exercícios aeróbicos. Conceituação de ginástica aeróbica. Desenvolvimento de programas de capacidade aeróbica. Programa de ginástica aeróbica e condicionamento físico."
+    },
+    {
+        "code": "MH915",
+        "name": "Psicologia do Movimento Corporal",
+        "credits": 3,
+        "syllabus": "A análise psicológica das relações que o ser humano estabelece consigo no domínio das atividades corporais. A importância da tomada de consciência destas relações, do desenvolvimento e formação do Eu e das defesas corporais em função das atividades desenvolvidas na Educação Física e outras áreas afins."
+    },
+    {
+        "code": "MH916",
+        "name": "Recursos Computacionais Aplicados à Atividade Física",
+        "credits": 2,
+        "syllabus": "Conhecimentos básicos de computação. Estudo e aplicação de pacotes de programas. Aplicações de programas especiais (conversão analógico-digital-analógico) na análise de variáveis biológicas."
+    },
+    {
+        "code": "MH917",
+        "name": "Esportes Adaptados",
+        "credits": 2,
+        "syllabus": "Abordagem de procedimentos pedagógicos que levem a uma vivência, aprendizagem e conhecimento dos esportes adaptados, buscando, no direcionamento de sua prática e teoria, seus valores culturais, sociais, políticos e acadêmicos."
+    },
+    {
+        "code": "MH918",
+        "name": "Bases Biológicas da Postura Humana",
+        "credits": 2,
+        "syllabus": "Estudos das modificações bioquímicas, celulares e teciduais de componentes do sistema locomotor relacionados com os processos adaptativos da postura e do movimento humano."
+    },
+    {
+        "code": "MH920",
+        "name": "Estágio de Extensão em Atividade Física Adaptada",
+        "credits": 2,
+        "syllabus": "Participação na criação, elaboração e aplicação de projetos de extensão para o desenvolvimento de programas de atividade motora adaptada para populações com necessidades especiais."
+    },
+    {
+        "code": "MH921",
+        "name": "Estágio de Extensão em Educação Motora",
+        "credits": 2,
+        "syllabus": "Aplicação de Estágio Supervisionado em Projetos de Extensão em Educação Motora, visando desenvolver uma complementação dos conhecimentos teóricos adquiridos."
+    },
+    {
+        "code": "MH922",
+        "name": "Estágio de Extensão em Ciências do Esporte",
+        "credits": 2,
+        "syllabus": "Participação na criação, elaboração e aplicação de projetos de extensão para o desenvolvimento de programas em ciências do esporte."
+    },
+    {
+        "code": "MH923",
+        "name": "Estágio de Extensão em Recreação e Lazer",
+        "credits": 2,
+        "syllabus": "Participação na criação, elaboração e aplicação em projetos de extensão, para o desenvolvimento de programas em Recreação e Lazer."
+    },
+    {
+        "code": "MH924",
+        "name": "Laboratório Básico de Biomecânica",
+        "credits": 3,
+        "syllabus": "Introdução à Biomecânica Experimental. Estudo e análise de conceitos de mecânica aplicados à Biomecânica. Iniciação ao Método Científico."
+    },
+    {
+        "code": "MH925",
+        "name": "Esportes Náuticos",
+        "credits": 3,
+        "syllabus": "Abordagem de procedimentos de ensino que levem à vivência e aprendizagem de esportes náuticos, com ênfase nas técnicas básicas da canoagem e vela, através da prática."
+    },
+    {
+        "code": "MH926",
+        "name": "Procedimentos da Pesquisa Antropológica em Educação Física",
+        "credits": 2,
+        "syllabus": "Aplicação de procedimentos da Pesquisa Antropológica em Estudos de Educação Física: observação participante, grupo de foco, entrevista, conversa, questionário, organização e análise das informações, relação entre pesquisador e pesquisa."
+    },
+    {
+        "code": "MH927",
+        "name": "Atuação Profissional em Educação Física para Populações Minoritárias",
+        "credits": 2,
+        "syllabus": "Discussões de conteúdos da Educação Física para populações minoritárias: grupos indígenas, população rural (camponeses e caiçaras), \"meninos de rua\"."
+    },
+    {
+        "code": "MH928",
+        "name": "Atividade Física e Saúde: Qualidade de Vida",
+        "credits": 2,
+        "syllabus": "Discussões sobre a importância da atividade física para a saúde como medidas preventivas, discutindo os aspectos: Bases Biológicas do Exercício Físico para a Saúde, Exercício Físico na Criança e no Adolescente, Exercício Físico e doenças, Exercício Físico/Qualidade de Vida/Meio Ambiente, Exercício Físico na Promoção de Saúde."
+    },
+    {
+        "code": "MH929",
+        "name": "Métodos e Técnicas de Pesquisa em Biomecânica I",
+        "credits": 3,
+        "syllabus": "Caracterização da análise biomecânica. Evolução histórica dos métodos e técnicas de pesquisa em biomecânica. Sistemas de análise cinemática. Reconstrução tridimensional de movimentos. Sistemas de medição de força. Análise e interpretação de resultados em biomecânica. Aplicações da biomecânica em estudos sobre o desenvolvimento e aprendizagem motora, reabilitação, análise da performance humana no esporte, trabalho ou em atividades da vida diária."
+    },
+    {
+        "code": "MH930",
+        "name": "Prática Aplicada em Ginástica",
+        "credits": 2,
+        "syllabus": "Aplicação dos conhecimentos adquiridos nas disciplinas relacionadas à área da Ginástica, em projetos de extensão à comunidade e em instituições que desenvolvam esta modalidade."
+    },
+    {
+        "code": "MH931",
+        "name": "Pedagogia da Modalidade de Raquete",
+        "credits": 2,
+        "syllabus": "Processo de ensino e aprendizagem das modalidades esportivas de raquete-Tênis de Campo, Mini-Tênis, Tênis de Praia, Tênis de Mesa, Badminton, Squash e Padlle em seus elementos fundamentais no contexto da Educação Física."
+    },
+    {
+        "code": "MH932",
+        "name": "Treinamento Desportivo nas Modalidades de Raquete",
+        "credits": 2,
+        "syllabus": "Técnica e tática das estratégias de treinamento das modalidades de raquete pela visão do técnico/treinador sobre as adaptações das qualidades físicas características de cada modalidade. Auto-análise na visão do jogador frente ao evento competitivo."
+    },
+    {
+        "code": "MH933",
+        "name": "Estágio Supervisionado em Modalidades de Raquete",
+        "credits": 2,
+        "syllabus": "Reconhecimento da realidade sociocultural, através de observação participativa dos atuais estágios de desenvolvimento das modalidades esportivas de raquete, nas diferentes instituições."
+    },
+    {
+        "code": "MH934",
+        "name": "Instrumentação Aplicada aos Esportes",
+        "credits": 2,
+        "syllabus": "Conceitos básicos de instrumentos, características estáticas e dinâmicas. Medidores de intervalo de tempo e seus dispositivos auxiliares. Medidas de posição, velocidade e aceleração durante provas de atletismo."
+    },
+    {
+        "code": "MH935",
+        "name": "Tópicos Especiais em Qualidade de Vida",
+        "credits": 4,
+        "syllabus": "Seleção de temas relativos à atividade física e qualidade de vida relacionados aos aspectos: parâmetros de análise e relação com a atividade física. História natural da doença. Prevenção primária: promoção da saúde e proteção específica. Caracterização cintífica do conhecimento em qualidade de vida. Métodos de pesquisa aplicáveis ao estudo da qualidade de vida. Estruturas de projeto de pesquisa para desenvolvimento do conhecimento na área. Prospecção de temáticas e investigações na área.",
+        "reqBy": [
+            "MH937"
+        ]
+    },
+    {
+        "code": "MH936",
+        "name": "Trampolim Acrobático",
+        "credits": 4,
+        "syllabus": "Procedimentos pedagógicos que levem a uma vivência e aprendizagem do trampolim acrobático, com ênfase na análise dos movimentos básicos e de alta dificuldade. Metodologia de ensino e treinamento. Capacitar os alunos a ministrar aulas nesse esporte. Estudar as regras e abordar a organização de competições na modalidade."
+    },
+    {
+        "code": "MH937",
+        "name": "Seminários em Qualidade de Vida",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de temáticas definidas pelos docentes e alunos que favoreçam a concepção, planejamento e execução de estudos, trabalhos e monografias sobre atividade física e qualidade de vida.",
+        "reqs": [
+            [
+                {
+                    "code": "MH935"
+                }
+            ]
+        ]
+    }
+]

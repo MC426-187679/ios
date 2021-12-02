@@ -1,0 +1,662 @@
+[
+    {
+        "code": "BS100",
+        "name": "Bases Moleculares das Células",
+        "credits": 8,
+        "syllabus": "Integração entre conhecimentos de biologia celular e molecular, genética médica, histologia e clínica médica na compreensão da célula como unidade funcional dos diversos sistemas e como elemento essencial à vida. Desenvolvimento de habilidades em microscopia óptica e informática.",
+        "reqBy": [
+            "BS320",
+            "BS330",
+            "BS340",
+            "MD343",
+            "MD443",
+            "MD445",
+            "MD543"
+        ]
+    },
+    {
+        "code": "BS101",
+        "name": "Bases Anatômicas do Corpo Humano I",
+        "credits": 4,
+        "syllabus": "Estudo da Anatomia Sistêmica, Topográfica e Radiológica dos Sistemas Ósseo, Articular, Muscular e Nervoso Periférico humanos, com correlações anátomo-clínica-radiológicas mais prevalentes do Aparelho Locomotor que auxiliem no entendimento do funcionamento normal dos sistemas. Planos de construção do corpo humano. Leis gerais de crescimento e fatores gerais de variação anatômica.",
+        "reqBy": [
+            "MD443",
+            "MD445",
+            "MD543"
+        ]
+    },
+    {
+        "code": "BS102",
+        "name": "Bases do Desenvolvimento e dos Tecidos do Corpo Humano I",
+        "credits": 6,
+        "syllabus": "Estudo da embriologia humana: gametogênese, fecundação, implantação, gastrulação, neurulação, dobramentos do embrião, placenta e destino dos folhetos embrionários; correlação com anomalias congênitas. Estudo da biologia dos tecidos epitelial, conjuntivo, muscular e neural e biologia tecidual dos sistemas articular, linfóide e tegumentar com correlação clínica para auxiliar no entendimento do funcionamento, interação e constituição normal dos tecidos e sistemas do corpo humano. O estudo da biologia tecidual abordará a forma, estrutura e função das células com o reconhecimento desses tecidos ao microscópio de luz convencional.",
+        "reqBy": [
+            "BS202",
+            "MD443",
+            "MD445",
+            "MD543"
+        ]
+    },
+    {
+        "code": "BS103",
+        "name": "Bases Funcionais do Corpo Humano I",
+        "credits": 4,
+        "syllabus": "Tampões biológicos. Estrutura e função de biomoléculas, proteínas, enzimas. Integração entre o conhecimento de bioquímica e fisiologia das bases funcionais do sistema muscular esquelético. Contração do músculo estriado esquelético e farmacologia da junção neuromuscular. Bioenergética e metabolismo, fontes de energia para célula e fontes de energia para contração do músculo esquelético, metabolismo anaeróbio e aeróbio. Metabolismo de carboidratos, lipídeos e proteínas.",
+        "reqBy": [
+            "BS203",
+            "MD343",
+            "MD443",
+            "MD445",
+            "MD543"
+        ]
+    },
+    {
+        "code": "BS110",
+        "name": "Morfofisiologia Humana I",
+        "credits": 16,
+        "syllabus": "Estudo integrado de anatomia, histologia, embriologia, bioquímica (metabolismo) e fisiologia do corpo humano, abordando do ponto de vista estrutural e funcional os sistemas ósteo-muscular, neuromuscular e cardiovascular. Estudo histofisiológico do sangue e dos órgãos linfoides. Biologia do desenvolvimento humano e correlações com os defeitos congênitos. Vias catabólicas principais. Ciclo de Krebs e cadeia respiratória. Anatomia radiológica do aparelho locomotor.Obs.: Esta disciplina terá a duração de 09 semanas.",
+        "reqBy": [
+            "BS210",
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS111",
+        "name": "A Célula",
+        "credits": 11,
+        "syllabus": "Integração entre conhecimentos de bioquímica, biologia celular e molecular, genética médica, fisiologia e biofísica, histologia e clínica médica na compreensão da célula como unidade funcional dos diversos sistemas e como elemento essencial à vida. Desenvolvimento de habilidades em microscopia óptica e informática.Obs.: Esta disciplina terá a duração de 6 semanas.",
+        "reqBy": [
+            "BS221",
+            "BS222",
+            "BS223",
+            "BS224",
+            "BS320",
+            "BS320",
+            "BS330",
+            "BS340"
+        ]
+    },
+    {
+        "code": "BS115",
+        "name": "Estrutura e Função de Células e Tecidos",
+        "credits": 6,
+        "syllabus": "Aspectos estruturais e funcionais de moléculas, células e tecidos fundamentais. Métodos de estudo de células, das diferentes organelas celulares, sua estrutura e função. Interações celulares e transporte intracelular. Principais tecidos humanos e sua organização. Introdução à Embriologia.",
+        "reqBy": [
+            "BI315",
+            "BM415",
+            "BP515",
+            "BS215",
+            "BS315"
+        ]
+    },
+    {
+        "code": "BS121",
+        "name": "Embriologia Humana",
+        "credits": 2,
+        "syllabus": "Estudo da biologia do desenvolvimento humano: gametogênese, fecundação, implantação, gastrulação, neurulação, dobramentos do embrião, placenta e destino dos folhetos embrionários; correlação do desenvolvimento humano com anomalias congênitas.",
+        "reqBy": [
+            "BS221",
+            "BS222",
+            "BS223",
+            "BS224",
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS122",
+        "name": "Biologia Tecidual",
+        "credits": 2,
+        "syllabus": "Biologia dos tecidos epitelial, conjuntivo, muscular e neural, tecidos e órgãos linfóides.",
+        "reqBy": [
+            "BS221",
+            "BS222",
+            "BS223",
+            "BS224",
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS123",
+        "name": "Aparelho Locomotor",
+        "credits": 8,
+        "syllabus": "Estudo da Anatomia Sistêmica e Topográfica, Histologia, Imaginologia, Bioquímica e Fisiologia dos Sistemas Ósseo, Articular e Muscular humanos, com correlações clínicas que auxiliem no entendimento do funcionamento normal dos sistemas; anatomia e fisiologia do sistema nervoso periférico; fosfocreatina e catabolismo de carboidratos.",
+        "reqBy": [
+            "BS221",
+            "BS222",
+            "BS223",
+            "BS224",
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS124",
+        "name": "Sistema Cardiovascular",
+        "credits": 5,
+        "syllabus": "Estudo da Anatomia Sistêmica e Topográfica, Histologia, Embriologia, Imaginologia e Fisiologia do Sistema Cardiovascular humano, com correlações clínicas que auxiliem no entendimento do funcionamento normal do sistema; fisiologia do músculo liso, produção aeróbia de ATP a partir de lipídios e proteína.",
+        "reqBy": [
+            "BS221",
+            "BS222",
+            "BS223",
+            "BS224",
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS150",
+        "name": "Biologia Estrutural e Funcional I para Fisioterapia",
+        "credits": 16,
+        "syllabus": "Estudo da estrutura e função das células e dos sistemas ósseo, articular, muscular e nervoso, central e periférico, em diferentes situações fisiológicas e patológicas.",
+        "reqBy": [
+            "BB350",
+            "BH550",
+            "BS250",
+            "BS260"
+        ]
+    },
+    {
+        "code": "BS180",
+        "name": "Anatomia, Histologia e Embriologia",
+        "credits": 6,
+        "syllabus": "Noções dos sistemas que compõem os segmentos da cabeça e pescoço e estudo detalhado daqueles envolvidos nos processos fonoarticulatórios. Programa integrado de anatomia, histologia e embriologia. Noções básicas de Histologia. Organização morfo-funcional dos tecidos orgânicos da cabeça, pescoço e tórax. Princípios gerais da organização do corpo humano, em especial de cabeça, pescoço e tórax. Principais etapas do desenvolvimento do embrião humano, procurando correlacionar alterações fisiológicas no organismo materno, o desenvolvimento das funções básicas embrionárias e o desenvolvimento da forma."
+    },
+    {
+        "code": "BS201",
+        "name": "Bases Anatômicas do Corpo Humano II",
+        "credits": 8,
+        "syllabus": "Estudo da Anatomia Sistêmica, Topográfica e Radiológica dos Sistemas Cardiovascular, Respiratório, Digestório e Urogenital humanos, com correlações anátomo-clínica-radiológicas mais prevalentes que auxiliem no entendimento do funcionamento normal dos sistemas.",
+        "reqBy": [
+            "BS320",
+            "MD443",
+            "MD445",
+            "MD543"
+        ]
+    },
+    {
+        "code": "BS202",
+        "name": "Bases do Desenvolvimento e dos Tecidos do Corpo Humano II",
+        "credits": 6,
+        "syllabus": "Estudo da embriologia, das principais anomalias congênitas e da biologia dos tecidos dos Sistemas Cardiovascular, Respiratório, Urinário, Endócrino, Digestório e Reprodutor humanos, com correlações clínicas que auxiliem no entendimento do funcionamento normal dos sistemas. O estudo da biologia tecidual abordará a forma, estrutura e função dos órgãos por meio do reconhecimento de seus tecidos ao microscópio de luz convencional.",
+        "reqs": [
+            [
+                {
+                    "code": "BS102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS320",
+            "MD443",
+            "MD445",
+            "MD543"
+        ]
+    },
+    {
+        "code": "BS203",
+        "name": "Bases Funcionais do Corpo Humano II",
+        "credits": 10,
+        "syllabus": "Sistema nervoso autonômico. Integração entre o conhecimento de bioquímica e fisiologia como bases funcionais dos sistemas cardiovascular, respiratório, digestório, endócrino, renal e reprodutor humano. Fontes de ATP no músculo cardíaco. Hemoglobina e equilíbrio ácido básico no sangue. Vias anabólicas, via das pentoses-fosfato, lipogênese, síntese de glicogênio, síntese de ureia. Regulação hormonal e integração do metabolismo.",
+        "reqs": [
+            [
+                {
+                    "code": "BS103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS320",
+            "MD443",
+            "MD445",
+            "MD543"
+        ]
+    },
+    {
+        "code": "BS210",
+        "name": "Morfofisiologia Humana II",
+        "credits": 23,
+        "syllabus": "Estudo integrado de anatomia, histologia, embriologia, bioquímica (metabolismo) e fisiologia do corpo humano, abordando, do ponto de vista estrutural e funcional os sistemas respiratório, digestório, urinário, neuroendócrino e reprodutor. Biologia do desenvolvimento dos órgãos e sistemas e correlações com os defeitos congênitos. Principais vias anabólicas e integração do metabolismo. Anatomia radiológica de órgãos e sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "BS110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS215",
+        "name": "Estrutura e Função de Órgãos e Sistemas",
+        "credits": 12,
+        "syllabus": "Abordagem da estrutura e função de órgãos e sistemas em humanos, em um enfoque transdisciplinar, integrando conceitos fundamentais de anatomia, histologia e fisiologia.",
+        "reqs": [
+            [
+                {
+                    "code": "BS115",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "BA581",
+            "BH515",
+            "FR157",
+            "FR505",
+            "FR506",
+            "FR610",
+            "FR611",
+            "MD188"
+        ]
+    },
+    {
+        "code": "BS221",
+        "name": "Sistema Respiratório",
+        "credits": 5,
+        "syllabus": "Estudo da Anatomia Sistêmica e Topográfica, Histologia, Embriologia, Fisiologia e Imaginologia do Sistema Respiratório humano, com correlações clínicas que auxiliem no entendimento do funcionamento normal do sistema; construção e interpretação de curva glicêmica, vias metabólicas que ocorrem no período absortivo; glicogênese.",
+        "reqs": [
+            [
+                {
+                    "code": "BS111",
+                    "partial": true
+                },
+                {
+                    "code": "BS121",
+                    "partial": true
+                },
+                {
+                    "code": "BS122",
+                    "partial": true
+                },
+                {
+                    "code": "BS123",
+                    "partial": true
+                },
+                {
+                    "code": "BS124",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS222",
+        "name": "Sistema Digestório",
+        "credits": 5,
+        "syllabus": "Estudo da Anatomia Sistêmica e Topográfica, Histologia, Embriologia, Imaginologia, Bioquímica e Fisiologia do Sistema Digestório humano, com correlações clínicas que auxiliem no entendimento do funcionamento normal do sistema; vias anabólicas (síntese da uréia, lipogênese e via das pentoses-fosfato).",
+        "reqs": [
+            [
+                {
+                    "code": "BS111",
+                    "partial": true
+                },
+                {
+                    "code": "BS121",
+                    "partial": true
+                },
+                {
+                    "code": "BS122",
+                    "partial": true
+                },
+                {
+                    "code": "BS123",
+                    "partial": true
+                },
+                {
+                    "code": "BS124",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS223",
+        "name": "Sistema Endócrino",
+        "credits": 4,
+        "syllabus": "Estudo da Anatomia, Histologia Imaginologia, Bioquímica e Fisiologia do Sistema Neuro-endócrino, com correlações clínicas que auxiliem no entendimento do funcionamento normal do sistema; sinalização celular de hormônios metabólicos; integração: das vias anabólicas, interórgãos e regulação integrada do metabolismo.",
+        "reqs": [
+            [
+                {
+                    "code": "BS111",
+                    "partial": true
+                },
+                {
+                    "code": "BS121",
+                    "partial": true
+                },
+                {
+                    "code": "BS122",
+                    "partial": true
+                },
+                {
+                    "code": "BS123",
+                    "partial": true
+                },
+                {
+                    "code": "BS124",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS224",
+        "name": "Sistema Urogenital",
+        "credits": 6,
+        "syllabus": "Estudo da Anatomia Sistêmica e Topográfica, Embriologia, Histologia, Imaginologia e Fisiologia dos Sistemas Urinário e Genital Masculino e Feminino, com correlações clínicas que auxiliem no entendimento do funcionamento normal dos sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "BS111",
+                    "partial": true
+                },
+                {
+                    "code": "BS121",
+                    "partial": true
+                },
+                {
+                    "code": "BS122",
+                    "partial": true
+                },
+                {
+                    "code": "BS123",
+                    "partial": true
+                },
+                {
+                    "code": "BS124",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS320"
+        ]
+    },
+    {
+        "code": "BS250",
+        "name": "Biologia Estrutural e Funcional II para Fisioterapia",
+        "credits": 16,
+        "syllabus": "Estudo da estrutura e função das células e dos sistemas cardiovascular, respiratório, renal, digestório, endócrino, reprodutor e imunológico, em diferentes situações fisiológicas e patológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "BS150"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BS260",
+        "name": "Biologia do Desenvolvimento Humano",
+        "credits": 4,
+        "syllabus": "Biologia do desenvolvimento humano e defeitos congênitos; Gametogênese e fecundação; Fenômenos pré-implantacionais e implantação; Gastrulação; Neurulação; Dobramentos e fechamento do corpo do embrião; Anexos fetais; Período fetal; Desenvolvimento pré e pós-natal e principais anomalias do sistema nervoso; Desenvolvimento pré e pós-natal e principais anomalias do sistema músculo-esquelético; Desenvolvimento pré e pós-natal e principais anomalias do sistema cardiovascular; Desenvolvimento pré e pós-natal e principais anomalias do sistema respiratório; Transição do ambiente uterino para o meio ambiente.",
+        "reqs": [
+            [
+                {
+                    "code": "BH250"
+                },
+                {
+                    "code": "BS150"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BS280",
+        "name": "Neurociências para a Fonoaudiologia",
+        "credits": 4,
+        "syllabus": "Conceituação geral do sistema nervoso, organização e função. Estruturas e organização do sistema nervoso central e periférico. Estudos dos órgãos dos sentidos e processamento sensorial relacionados com a visão, audição e equilíbrio. Estudo da anatomia e fisiologia dos principais sistemas corticais e subcorticais envolvidos no processo de fonação e audição. Integração entre sistema nervoso autônomo, límbico e a organização da linguagem.",
+        "reqBy": [
+            "MD350"
+        ]
+    },
+    {
+        "code": "BS315",
+        "name": "Microbiologia, Imunologia e Parasitologia I",
+        "credits": 6,
+        "syllabus": "Classificação, crescimento e morte dos microorganismos. Genética bacteriana. Microbiota. Mecanismos de patogenicidade. Epidemiologia das infecções microbianas. Helmintos: ciclo de vida, diagnóstico, patogenia, epidemiologia, tratamento e profilaxia. Funcionalidade do sistema imunológico nas relações com parasitos, com ênfase em: resposta imune inata, função dos anticorpos, reconhecimento antigênico, ativação linfocitária e mecanismos de tolerância.",
+        "reqs": [
+            [
+                {
+                    "code": "BS115",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS415"
+        ]
+    },
+    {
+        "code": "BS320",
+        "name": "Neurociências I",
+        "credits": 14,
+        "syllabus": "Abordagem da organização anatômica e da função do sistema nervoso num enfoque transdisciplinar, integrando conceitos fundamentais da anatomia, neurofisiologia, embriologia, farmacologia do sistema nervoso central e problemas da clinica neurológica. Estudo da anatomia macroscópica, microscópica e morfofuncional do sistema nervoso central e periférico, em correlação com os dados de neuroimagem estrutural e funcional. Estudo da neurofisiologia, analisando mecanismos sinápticos, sistemas de neurotransmissores e sinalização intracelular, funções de codificação, integração, organização e controle da percepção sensorial, motricidade, comportamento e cognição; plasticidade neural.",
+        "reqs": [
+            [
+                {
+                    "code": "BS100"
+                },
+                {
+                    "code": "BS201"
+                },
+                {
+                    "code": "BS202"
+                },
+                {
+                    "code": "BS203"
+                }
+            ],
+            [
+                {
+                    "code": "BS110"
+                },
+                {
+                    "code": "BS111"
+                },
+                {
+                    "code": "BS210"
+                }
+            ],
+            [
+                {
+                    "code": "BS111",
+                    "partial": true
+                },
+                {
+                    "code": "BS121",
+                    "partial": true
+                },
+                {
+                    "code": "BS122",
+                    "partial": true
+                },
+                {
+                    "code": "BS123",
+                    "partial": true
+                },
+                {
+                    "code": "BS124",
+                    "partial": true
+                },
+                {
+                    "code": "BS221",
+                    "partial": true
+                },
+                {
+                    "code": "BS222",
+                    "partial": true
+                },
+                {
+                    "code": "BS223",
+                    "partial": true
+                },
+                {
+                    "code": "BS224",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD443",
+            "MD445",
+            "MD449",
+            "MD543"
+        ]
+    },
+    {
+        "code": "BS330",
+        "name": "Relação Patógeno-Hospedeiro I",
+        "credits": 4,
+        "syllabus": "Aspectos básicos da biologia e estrutura de bactérias. Principais micro-organismos causadores de infecção e seus mecanismos de patogenicidade. Epidemiologia. Resposta imunológica do hospedeiro frente a bactérias patogênicas. Prevenção e controle dos principais micro-organismos bacterianos causadores de infecções.",
+        "reqs": [
+            [
+                {
+                    "code": "BS100"
+                }
+            ],
+            [
+                {
+                    "code": "BS111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS430"
+        ]
+    },
+    {
+        "code": "BS340",
+        "name": "Relação Patógeno-Hospedeiro II",
+        "credits": 2,
+        "syllabus": "Conteúdos de imunologia básica para a compreensão dos mecanismos fundamentais do desenvolvimento, funcionamento e regulação do sistema imunológico e sua inter-relação com outros sistemas fisiológicos. Será dado enfoque especial aos aspectos médico e laboratorial da imunologia, buscando correlação entre o aprendizado fundamental e as perspectivas da sua aplicação. ",
+        "reqs": [
+            [
+                {
+                    "code": "BS100"
+                }
+            ],
+            [
+                {
+                    "code": "BS111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BS420",
+            "BS430"
+        ]
+    },
+    {
+        "code": "BS350",
+        "name": "Biologia do Adoecimento",
+        "credits": 8,
+        "syllabus": "Introdução às principais alterações fisiopatológicas e mecanismos causadores de doenças genéticas, infecções bacterianas e parasitárias e do câncer. Bases moleculares e celulares associadas com os processos patológicos. Características gerais dos microrganismos e parasitas, e sua associação com as doenças a eles relacionadas. Análise de fatores biológicos e ambientais envolvidos nos processos patológicos estudados."
+    },
+    {
+        "code": "BS415",
+        "name": "Microbiologia, Imunologia e Parasitologia II",
+        "credits": 10,
+        "syllabus": "Principais infecções bacterianas, fúngicas e virais em humanos. Protozoários de interesse humano: ciclo de vida, diagnóstico, patogenia, epidemiologia, tratamento e profilaxia. Principais vetores de doenças transmitidas ao homem. Mecanismos imunológicos associados com patologias causadas por microrganismos e parasitos, decorrentes da infecção ou como consequência dela (alergias, imunodeficiências, doenças autoimunes, aloimunização). Vacinas e vacinações.",
+        "reqs": [
+            [
+                {
+                    "code": "BS315",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BS420",
+        "name": "Relação Patógeno-Hospedeiro III",
+        "credits": 6,
+        "syllabus": "Introdução à Parasitologia: conceitos básicos, ciclos evolutivos das principais parasitoses em humanos, patogenia, controle e profilaxia. Resposta imune nas parasitoses. Aspectos básicos da biologia e estrutura de fungos, principais micro-organismos causadores de infecção e seus mecanismos de patogenicidade.",
+        "reqs": [
+            [
+                {
+                    "code": "BS340"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BP326",
+            "BP327"
+        ]
+    },
+    {
+        "code": "BS430",
+        "name": "Relação Patógeno-Hospedeiro IV",
+        "credits": 2,
+        "syllabus": "Aspectos básicos da estrutura, diversidade e patogênese dos vírus que acometem humanos. Principais vírus causadores de infecção e os mecanismos patogênicos dos vírus. Epidemiologia. Resposta imunológica aos vírus. Prevenção e controle.",
+        "reqs": [
+            [
+                {
+                    "code": "BS330"
+                },
+                {
+                    "code": "BS340"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BS580",
+        "name": "Fundamentos de Biologia Celular e Molecular para Física Médica",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo da célula. Noções de Metabolismo. Genética molecular. Organização interna da célula. A célula em seu contexto.",
+        "reqs": [
+            [
+                {
+                    "code": "F 429"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BD681",
+            "BS681",
+            "F 758"
+        ]
+    },
+    {
+        "code": "BS615",
+        "name": "Cultivo de Células Animais - Aplicações em Ensaios Biológicos",
+        "credits": 4,
+        "syllabus": "Infraestrutura e biossegurança em laboratório de cultura celular. Esterilização e avaliação da eficácia. Meios de cultura e soluções complementares. Cultivo celular primário e de linhagens estabelecidas. Estabelecimento de inóculos e avaliação de viabilidade celular. Protocolos de descontaminação de culturas. Medidas de crescimento populacional. Criopreservação; imortalização. Caracterização de linhagens. Princípios, aplicações e técnicas de bioensaios em cultivo celular. Considerações teóricas sobre transformação celular e neoplasias, células tronco, terapia celular e medicina regenerativa.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BS681",
+        "name": "Fundamentos de Anatomia, Histologia e Fisiologia Humana para Física Médica",
+        "credits": 4,
+        "syllabus": "Anatomia Básica: estudo dos sistemas tegumentares, ósseos, articulares e musculares, cardiovasculares, respiratórios, digestivos, renais, reprodutor masculino e feminino. Histologia: bases morfofuncionais dos tecidos fundamentais e dos sistemas. Fisiologia básica: estudos dos sistemas cardiovasculares, digestivos, renais, reprodutor masculino e feminino. Sistema nervos e órgãos dos sentidos.",
+        "reqs": [
+            [
+                {
+                    "code": "BD580"
+                }
+            ],
+            [
+                {
+                    "code": "BS580"
+                }
+            ]
+        ]
+    }
+]

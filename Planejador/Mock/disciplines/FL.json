@@ -1,0 +1,115 @@
+[
+    {
+        "code": "FL110",
+        "name": "Iniciação à Prática de Ensino I",
+        "credits": 4,
+        "syllabus": "Iniciação a atividades docentes, em projetos de iniciação científica, iniciação à docência, monitoria e/ou práticas articuladas entre os sistemas de ensino e instituições educativas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FL210",
+        "name": "Iniciação à Prática de Ensino II",
+        "credits": 4,
+        "syllabus": "Iniciação a atividades docentes, em projetos de iniciação científica, iniciação à docência, monitoria e/ou práticas articuladas entre os sistemas de ensino e instituições educativas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FL310",
+        "name": "Iniciação à Prática de Ensino III",
+        "credits": 4,
+        "syllabus": "Iniciação a atividades docentes, em projetos de iniciação científica, iniciação à docência, monitoria e/ou práticas articuladas entre os sistemas de ensino e instituições educativas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FL701",
+        "name": "Projetos Integrados do Ensino de Física",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de projetos educacionais que poderão ser aplicados em sala de aula e/ou ambientes de ensino não-formal, como museu de ciências, voltadas para o ensino médio em Física. Os projetos deverão refletir sobre diferentes metodologias de ensino que podem ser utilizadas em aula.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EL774"
+                }
+            ],
+            [
+                {
+                    "code": "F 609"
+                }
+            ],
+            [
+                {
+                    "code": "F 901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FL702",
+        "name": "Projetos Integrados do Ensino de Física II",
+        "credits": 8,
+        "syllabus": "Desenvolvimento de projetos educacionais que poderão ser aplicados em sala de aula e/ou ambientes de ensino não formal, como museu de ciências, voltadas para o ensino médio em Física. Os projetos deverão refletir sobre diferentes metodologias de ensino que podem ser utilizadas em aula.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EL774"
+                }
+            ],
+            [
+                {
+                    "code": "F 609"
+                }
+            ],
+            [
+                {
+                    "code": "F 901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FL801",
+        "name": "Práticas de Ensino de Física",
+        "credits": 8,
+        "syllabus": "Iniciação a atividades docentes, em forma de tutorias e plantão de dúvidas, supervisionadas por um docente do Instituto de Física. ",
+        "reqs": [
+            [
+                {
+                    "code": "F 589"
+                }
+            ]
+        ]
+    }
+]

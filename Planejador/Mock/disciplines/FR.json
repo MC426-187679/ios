@@ -1,0 +1,1480 @@
+[
+    {
+        "code": "FR006",
+        "name": "Estudo de Biodisponibilidade e Bioquivalência de Medicamentos",
+        "credits": 4,
+        "syllabus": "Etapa clínico-histórica: novos medicamentos, biodisponibilidade e bioequivalência, estudos clínicos, aspectos de segurança. Administração do medicamento, coleta de material biológico, manuseio de amostras biológicas, documentação, responsabilidades. Etapa analítica: fundamentação teórica e método bioanalítico. Etapa estatística: métodos estatísticos em bioequivalência.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "FR509"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR009",
+        "name": "Biotecnologia Microbiana na Indústria Farmacêutica",
+        "credits": 4,
+        "syllabus": "Compostos farmacologicamente ativos de origem microbiana e suas aplicações em medicina humana e veterinária, assim como na agricultura. Antibióticos, compostos antitumorais, moduladores de resposta imunológica e anti-inflamatórios, entre outros. Biodiversidade microbiana e estratégias de bioprospecção. Isolamento seletivo e caracterização preliminar de bactérias, fungos e leveduras. Bioensaios para detecção de atividade. Preservação e coleções de microrganismos. Utilização de microrganismos como biorreatores. Patentes e proteção de propriedade intelectual.",
+        "reqs": [
+            [
+                {
+                    "code": "FR725"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR014",
+        "name": "Tecnologia de Produção de Plantas Medicinais",
+        "credits": 2,
+        "syllabus": "A formação da planta medicinal. Biodiversidade - trajetória, produtos e interações. Sistemas produtivos: extrativismo, manejo, cultivo orgânico e permacultura. Acesso legal à biodiversidade. Bancos de germoplasma. Produção sustentável de drogas vegetais. Estudos de casos: processos de seleção e de domesticação de espécies nativas. Meio ambiente e controle dos processos produtivos e de pós-colheita.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR015",
+        "name": "Plantas Medicinais e Tóxicas",
+        "credits": 2,
+        "syllabus": "Descrição de espécies de plantas tóxicas comumente encontradas no Brasil, identificação botânica das espécies e mecanismos de sua atividade. Plantas medicinais comumente encontradas no Brasil, identificação botânica das espécies e mecanismos de sua atividade. Uso tradicional das espécies descritas. Visita a canteiros de plantas medicinais."
+    },
+    {
+        "code": "FR018",
+        "name": "Empreendedorismo",
+        "credits": 4,
+        "syllabus": "O empreendedorismo será abordado com aulas dedicadas a plano de negócios, incubadoras e propriedade intelectual.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR021",
+        "name": "Farmacologia Quantitativa",
+        "credits": 4,
+        "syllabus": "Aspectos quantitativos da farmacologia usados no estudo e caracterização de drogas e de novos medicamentos. Conceitos básicos de interação droga-receptor, como curvas dose-resposta, agonistas e antagonistas, atividade intrínseca, eficácia, reserva de receptores, sinergismo, taquifilaxia, desensibilização, tipos de antagonismo. Modelos teóricos. Serão discutidos os métodos utilizados na determinação de parâmetros tais como DE50, CI50, KD, pA2, e na quantificação e classificação de receptores. Também será discutido o uso de modelos teóricos no desenvolvimento de novos medicamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "FR509"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR022",
+        "name": "Farmacologia Clínica e Terapêutica",
+        "credits": 4,
+        "syllabus": "Esta disciplina introduzirá o aluno a estudos clínicos e terapêuticos onde serão discutidos os seguintes tópicos: o que é um estudo clínico, tipos de estudos clínicos, delineamento de um estudo clínico, os aspectos éticos envolvidos nestes estudos (incluindo a legislação vigente), a escolha de voluntários, conflito de interesse e interpretação de dados dentre outros.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "FR509"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR026",
+        "name": "Seminários Gerais",
+        "credits": 2,
+        "syllabus": "Tópicos avançados de integração entre Química, Biologia e Medicina."
+    },
+    {
+        "code": "FR035",
+        "name": "Farmácia Homeopática",
+        "credits": 4,
+        "syllabus": "A disciplina Farmácia Homeopática visa transmitir aos alunos os fundamentos que alicerçam a terapêutica homeopática e as técnicas a serem aplicadas no desempenho das atividades na Farmácia Homeopática.",
+        "reqs": [
+            [
+                {
+                    "code": "FR602"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR037",
+        "name": "Planejamento Estratégico de Carreira",
+        "credits": 2,
+        "syllabus": "Elementos para currículos, carta de apresentação, pesquisa sobre empresa, marketing pessoal, entrevistas, dinâmicas de grupo, gerenciamento de carreira, novo emprego e progresso na carreira."
+    },
+    {
+        "code": "FR038",
+        "name": "Radiofarmácia",
+        "credits": 2,
+        "syllabus": "A disciplina Radiofarmácia visa transmitir aos alunos os fundamentos e as técnicas envolvidas na produção e aplicação clínica e diagnóstica de radiofármacos."
+    },
+    {
+        "code": "FR039",
+        "name": "Tópicos Especiais em Ciências Farmacêuticas I",
+        "credits": 2,
+        "syllabus": "Estudos em temas/conteúdos em Ciências Farmacêuticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR040",
+        "name": "Tópicos Especiais em Ciências Farmacêuticas II",
+        "credits": 2,
+        "syllabus": "Estudos em temas/conteúdos em Ciências Farmacêuticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR041",
+        "name": "Tópicos Especiais em Ciências Farmacêuticas III",
+        "credits": 2,
+        "syllabus": "Estudos em temas/conteúdos em Ciências Farmacêuticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR042",
+        "name": "Tópicos Especiais em Ciências Farmacêuticas IV",
+        "credits": 2,
+        "syllabus": "Estudos em temas/conteúdos em Ciências Farmacêuticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR043",
+        "name": "Tópicos Especiais em Ciências Farmacêuticas V",
+        "credits": 3,
+        "syllabus": "Estudos em temas/conteúdos em Ciências Farmacêuticas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR044",
+        "name": "Ferramentas de Estudo de Bioprocessos",
+        "credits": 2,
+        "syllabus": "Estudo de caso: escolha de um produto do metabolismo microbiano de interesse para a indústria. Estudo e compreensão do processo de forma global. Planejamento experimental para o desenvolvimento e otimização de produção.",
+        "reqs": [
+            [
+                {
+                    "code": "FR725"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR046",
+        "name": "Farmácia Clínica I",
+        "credits": 4,
+        "syllabus": "Farmácia Clínica: histórico, conceitos e perspectivas. Utilização racional de medicamentos, seleção de tratamentos de eleição e alternativos: critérios. Fontes de informação sobre medicamentos (Bases de dados para pesquisa sobre medicamentos – medicina baseada em evidências). Pesquisa sobre interações medicamentosas e possíveis efeitos adversos. Perfil farmacoterapêutico de pacientes. Estudo de guideliness e Diretrizes em ambiente ambulatorial e hospitalar. Manejo e Monitorização farmacoterapêutica de indivíduos. ",
+        "reqs": [
+            [
+                {
+                    "code": "FR603"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR048"
+        ]
+    },
+    {
+        "code": "FR047",
+        "name": "Métodos Modernos Aplicados à Análise de Medicamentos",
+        "credits": 4,
+        "syllabus": " Avanços recentes na análise de insumos farmacêuticos e medicamentos e estudos de pré-formulação e estabilidade por métodos de separação por cromatografia e eletroforese, análise térmica e métodos espectrométricos e espectroscópicos.",
+        "reqs": [
+            [
+                {
+                    "code": "FR508"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR048",
+        "name": "Farmácia Clínica II",
+        "credits": 4,
+        "syllabus": "Perfil e acompanhamento farmacoterapêutico de pacientes internados e ambulatoriais. Manejo e Monitorização farmacoterapêutica de indivíduos. Intervenções farmacêuticas Farmacêutico-Médico-Paciente. Aplicar os conhecimentos teóricos em ambiente de aprendizado real e prático. Trabalhar em equipe multiprofissional.",
+        "reqs": [
+            [
+                {
+                    "code": "FR046"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR049",
+        "name": "Medicina Complementar e Alternativa",
+        "credits": 2,
+        "syllabus": "Coordenadoria"
+    },
+    {
+        "code": "FR050",
+        "name": "Farmacogenética e Farmacogenômica",
+        "credits": 4,
+        "syllabus": "Base Genética de resposta e de eventos adversos aos medicamentos, epigenética, modelos experimentais em farmacogenômica, proteômica, técnicas utilizadas, estudo da medicina personalizada.",
+        "reqs": [
+            [
+                {
+                    "code": "FR506"
+                },
+                {
+                    "code": "FR605"
+                }
+            ],
+            [
+                {
+                    "code": "FR509"
+                },
+                {
+                    "code": "FR605"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR102",
+        "name": "Boas Práticas de Laboratório e Gestão de Resíduos",
+        "credits": 2,
+        "syllabus": "Segurança nas práticas do exercício de atividades de cunho químico ou biológico e boas práticas em laboratórios de pesquisa e de desenvolvimento tecnológico-farmacêutico. Familiarização com produtos, materiais, equipamentos, procedimentos e hábitos seguros para a prevenção, minimização e eliminação de riscos inerentes às atividades nestes ambientes. ",
+        "reqBy": [
+            "FR402"
+        ]
+    },
+    {
+        "code": "FR103",
+        "name": "Introdução à Profissão Farmacêutica",
+        "credits": 2,
+        "syllabus": "Resumo histórico da Farmácia no Brasil. As diretrizes curriculares dos cursos de Graduação em Farmácia e o perfil profissional do farmacêutico. Âmbito profissional. Novas perspectivas profissionais.",
+        "reqBy": [
+            "FR206"
+        ]
+    },
+    {
+        "code": "FR104",
+        "name": "Ética e Bioética",
+        "credits": 2,
+        "syllabus": "Conceitos e suas articulações na sociedade com foco os direitos humanos, a sociedade brasileira e o contexto internacional. Bioética. Pesquisa envolvendo seres humanos e animais. Comissão Nacional de Ética em Pesquisa (CONEPE) e Comitês de Ética em Pesquisa. Reflexão sobre os aspectos éticos envolvidos nas questões relativas a privacidade e confidencialidade, problemas de início e final de vida, alocação de recursos escassos, respeito à pessoa e tomada de decisão e pesquisa.",
+        "reqBy": [
+            "FR206",
+            "FR307",
+            "FR404"
+        ]
+    },
+    {
+        "code": "FR105",
+        "name": "Saúde Pública nas Ciências Farmacêuticas",
+        "credits": 2,
+        "syllabus": "Saúde como direito, direito à saúde. Reforma sanitária brasileira. Sistema Único de Saúde (SUS). Atenção básica. Política de assistência farmacêutica. Propriedade intelectual e insumos estratégicos. Iniquidades e determinantes sociais em saúde. Estado de bem-estar social. Sistemas de saúde comparados. Profissionais da saúde e humanização.",
+        "reqBy": [
+            "FR206",
+            "FR307",
+            "FR404",
+            "FR812"
+        ]
+    },
+    {
+        "code": "FR106",
+        "name": "Metodologia e Informação Científica",
+        "credits": 2,
+        "syllabus": "Compreender o papel da ciência e do cientista na sociedade. A construção do conhecimento científico: juízos de realidade e de valor, o método científico, paradigmas da ciência, influência da atividade do cientista na sociedade. O trabalho científico: resumo e apresentação em congressos, simpósios e eventos similares. Os tipos de monografias científicas: para graduação e especialização (monografia), para Mestrado (dissertação) e para Doutorado (tese). Relatórios."
+    },
+    {
+        "code": "FR110",
+        "name": "Mentoria I",
+        "credits": 1,
+        "syllabus": "Proporcionar maior integração e engajamento à vida acadêmica, favorecendo melhor experiência universitária e contribuindo com o desenvolvimento interpessoal, a permanência e o sucesso acadêmico dos alunos ingressantes."
+    },
+    {
+        "code": "FR157",
+        "name": "Laboratório Clínico I",
+        "credits": 6,
+        "syllabus": "Aspectos teóricos e práticos sobre organização e metodologias empregadas nas diferentes áreas do Laboratório de Análises Clínicas. Conhecimento dos exames laboratoriais mais utilizados para avaliação dos sistemas cardiovascular, digestório, hematológico, imunológico, ósteo-articular, respiratório, tegumentar e urinário. Análise crítica e interpretação dos resultados de exames laboratoriais.",
+        "reqs": [
+            [
+                {
+                    "code": "BM415"
+                },
+                {
+                    "code": "BP515"
+                },
+                {
+                    "code": "BS215"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR158"
+        ]
+    },
+    {
+        "code": "FR158",
+        "name": "Laboratório Clínico II",
+        "credits": 6,
+        "syllabus": "Na disciplina será abordada a fisiopatologia e o diagnóstico laboratorial das doenças do sistema endócrino e do sistema reprodutor, às afecções do sistema nervoso central e distúrbios psiquiátricos, assim como das doenças sexualmente transmissíveis e das doenças virais. Aspectos fisiopatológicos e clínicos na área de Oncologia também serão abordados.",
+        "reqs": [
+            [
+                {
+                    "code": "FR157"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR202",
+        "name": "Estágio em Assistência Farmacêutica na Atenção Básica",
+        "credits": 4,
+        "syllabus": "Atenção Primária à Saúde e Estratégia de Saúde da Família (ESF). Controle social na atenção básica. Organização da atenção básica no Sistema Único de Saúde (SUS). Linhas de cuidados em doenças crônicas e projeto terapêutico singular. Programas na atenção básica: tabagismo, tuberculose, hanseníase, hipertensão e diabetes. Componente básico da assistência farmacêutica. Componente estratégico da assistência farmacêutica. Processo saúde-doença-cuidado no território. Agentes comunitários de saúde e visita domiciliar. Assistência Farmacêutica na Atenção Básica. Atenção Farmacêutica na ESF. Cuidado farmacêutico na atenção básica"
+    },
+    {
+        "code": "FR204",
+        "name": "Ética e Bioética",
+        "credits": 2,
+        "syllabus": "Conceitos e suas articulações na sociedade com foco os direitos humanos, a sociedade brasileira e o contexto internacional. Bioética. Pesquisa envolvendo seres humanos e animais. Comissão Nacional de Ética em Pesquisa (CONEPE) e Comitês de Ética em Pesquisa. Reflexão sobre os aspectos éticos envolvidos nas questões relativas a privacidade e confidencialidade, problemas de início e final de vida, alocação de recursos escassos, respeito à pessoa e tomada de decisão e pesquisa"
+    },
+    {
+        "code": "FR205",
+        "name": "Princípios de Farmacocinética",
+        "credits": 2,
+        "syllabus": "Conceitos fundamentais de Farmacocinética de medicamentos (absorção, distribuição, metabolização e excreção). Farmacodinâmica: princípios básicos da interação fármaco receptor e sinalização intracelular.",
+        "reqBy": [
+            "FR306",
+            "FR402"
+        ]
+    },
+    {
+        "code": "FR206",
+        "name": "Assistência e Atenção Farmacêutica",
+        "credits": 2,
+        "syllabus": "Atenção Farmacêutica: objetivos, organização e estratégias para a promoção do uso racional de medicamentos. Problemas Relacionados a Medicamentos (PRM). Dispensação com ou sem receita (medicamentos isentos de prescrição). Habilidades de comunicação em Atenção Farmacêutica. Planejamento da Atenção Farmacêutica. Metodologias de seguimento/ acompanhamento farmacoterapêutico. Atenção Farmacêutica na atenção básica de saúde.",
+        "reqs": [
+            [
+                {
+                    "code": "FR103"
+                },
+                {
+                    "code": "FR104"
+                },
+                {
+                    "code": "FR105"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR307",
+            "FR404",
+            "FR812"
+        ]
+    },
+    {
+        "code": "FR207",
+        "name": "Genética Humana",
+        "credits": 4,
+        "syllabus": "O gene como unidade de herança. Leis de Mendel e tipos de herança gênica. Interações gênicas e estudos de ligação. Estudo do cariótipo humano. Agentes teratogênicos. Erros Inatos do metabolismo. Noções de genética quantitativa e evolução."
+    },
+    {
+        "code": "FR209",
+        "name": "Projetos de extensão I",
+        "credits": 2,
+        "syllabus": "Atividade integrada e interdisciplinar que promove interação entre o curso de Farmácia e outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa."
+    },
+    {
+        "code": "FR210",
+        "name": "Mentoria II",
+        "credits": 1,
+        "syllabus": "Proporcionar maior integração e engajamento à vida acadêmica, favorecendo melhor experiência universitária e contribuindo com o desenvolvimento interpessoal, a permanência e o sucesso acadêmico dos alunos ingressantes."
+    },
+    {
+        "code": "FR302",
+        "name": "Gestão Farmacêutica",
+        "credits": 2,
+        "syllabus": "Princípios de economia e administração na área da saúde. Liderança e criatividade no ramo farmacêutico. Organização de empresas farmacêuticas. Aspectos administrativos nas áreas operacional, financeira, mercadológica e de recursos humanos de empresas farmacêuticas. Leis trabalhistas e finanças pessoais. Farmacoeconomia."
+    },
+    {
+        "code": "FR304",
+        "name": "Políticas de Saúde",
+        "credits": 2,
+        "syllabus": "Diretrizes, justificativas, prioridades e estratégias. Programa de medicamentos essenciais. Relação Nacional de Medicamentos (RENAME). A política de genéricos. A produção de medicamentos no Brasil.",
+        "reqBy": [
+            "FR603"
+        ]
+    },
+    {
+        "code": "FR305",
+        "name": "Deontologia e Legislação Farmacêutica",
+        "credits": 2,
+        "syllabus": "O Código de Ética da profissão farmacêutica. Legislação farmacêutica. Leis que regulamentam o exercício profissional do farmacêutico. Conselho Federal e Conselhos Regionais de Farmácia. As responsabilidades do profissional farmacêutico. Exemplos de má prática. Simulação de julgamento pelo CRF. Agência Nacional de Vigilância Sanitária (ANVISA) e Centros de Vigilância Sanitárias Estaduais e Municipais."
+    },
+    {
+        "code": "FR306",
+        "name": "Farmacologia",
+        "credits": 6,
+        "syllabus": "Farmacologia do sistema nervoso periférico, do sistema cardiovascular e do sistema nervoso central. (1) Sistema nervoso periférico: Conceitos da transmissão autonômica e somática. Farmacologia da transmissão adrenérgica e muscarínica. Farmacologia da junção neuromuscular, de bloqueadores neuromusculares e de anticolinesterásicos. Anestésicos locais. (2) Sistema cardiovascular: Princípios do controle da pressão arterial. Farmacologia dos principais grupos de fármacos anti-hipertensivas (antagonistas adrenérgicos, do sistema renina angiotensina e de canais de cálcio; diuréticos; óxido nítrico e antianginosos). Tratamento farmacológico da insuficiência cardíaca, de deficiências no metabolismo de lipoproteínas e metabolismo glicídico. Farmacologia da coagulação sanguínea e do processo inflamatório, incluindo asma e artrite reumatoide. (3) Sistema nervoso central (SNC): Farmacologia das principais classes de drogas que modulam distúrbios no SNC (ansiolíticos/hipnóticos, antidepressivos, anticonvulsivantes, antipsicóticos, anti-parkinsonianos) e das substâncias usadas no tratamento da dor, além de inibidores de apetite de ação central e drogas de abuso. Farmacologia dos antibióticos e antivirais. Para os diferentes grupos haverá discussão das características farmacocinéticas e farmacodinâmicas, dos usos clínicos e dos eventuais efeitos adversos e interações medicamentosas.",
+        "reqs": [
+            [
+                {
+                    "code": "FR205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR512",
+            "FR706",
+            "FR708",
+            "FR806"
+        ]
+    },
+    {
+        "code": "FR307",
+        "name": "Estágio em Farmácia",
+        "credits": 8,
+        "syllabus": "Gestão e administração da farmácia. Ciclo da assistência farmacêutica no estabelecimento. Armazenamento e controle de estoque. Conferência e avaliação técnica e legal das prescrições. Dispensação e orientação ao usuário. Boas Práticas Farmacêuticas. Controle de antimicrobianos. Controle de medicamentos e substâncias sujeitos a controle especial (Portaria SVS/MS 344/1998). Gerenciamento de resíduos em farmácia. Prática em farmácia: atendimento farmacêutico, aplicação de injetáveis, aferição de parâmetros fisiológicos e bioquímicos, perfuração de lóbulo auricular, fracionamento de medicamentos. Procedimento Operacional Padrão (POP) e Manual de Boas Práticas Farmacêuticas. Farmacovigilância. Para farmácias com manipulação: Boas Práticas de Manipulação. Manipulação e controle de qualidade de produtos manipulados.",
+        "reqs": [
+            [
+                {
+                    "code": "FR104"
+                },
+                {
+                    "code": "FR105"
+                },
+                {
+                    "code": "FR206"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR402"
+        ]
+    },
+    {
+        "code": "FR309",
+        "name": "Projetos de extensão II",
+        "credits": 2,
+        "syllabus": "Atividade integrada e interdisciplinar que promove interação entre o curso de Farmácia e outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa."
+    },
+    {
+        "code": "FR325",
+        "name": "Iniciação Científica em Ciências Farmacêuticas I",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de projeto de pesquisa em iniciação científica"
+    },
+    {
+        "code": "FR326",
+        "name": "Iniciação Científica em Ciências Farmacêuticas II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de projeto de pesquisa em iniciação científica."
+    },
+    {
+        "code": "FR327",
+        "name": "Iniciação Científica em Ciências Farmacêuticas III",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de projeto de pesquisa em iniciação científica."
+    },
+    {
+        "code": "FR328",
+        "name": "Iniciação Científica em Ciências Farmacêuticas IV",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de projeto de pesquisa em iniciação científica."
+    },
+    {
+        "code": "FR402",
+        "name": "Tecnologia Farmacêutica I",
+        "credits": 4,
+        "syllabus": "Introdução aos conceitos farmacotécnicos e às formas farmacêuticas convencionais para veiculação de medicamentos; desenvolvimento, produção e controle magistral e industrial de ingredientes farmacêuticos.",
+        "reqs": [
+            [
+                {
+                    "code": "F 107",
+                    "partial": true
+                },
+                {
+                    "code": "FR102"
+                },
+                {
+                    "code": "FR205"
+                },
+                {
+                    "code": "FR307"
+                },
+                {
+                    "code": "QF331"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR612",
+            "FR613",
+            "FR704"
+        ]
+    },
+    {
+        "code": "FR404",
+        "name": "Estágio em Farmácia Hospitalar",
+        "credits": 6,
+        "syllabus": "Estrutura organizacional e funcional dos hospitais. Ciclo da assistência farmacêutica em ambientes hospitalares: seleção, programação, aquisição, armazenamento, distribuição e dispensação. Sistema de distribuição de medicamentos por dose unitária. Manipulação de medicamentos estéreis e não estéreis. Nutrição parenteral. Farmácia oncológica. Comissões multidisciplinares de apoio ao uso racional de medicamentos. Prevenção e controle da resistência microbiana e infecção relacionada à assistência. Farmácia clínica. Reconciliação terapêutica. Farmacovigilância, tecnovigilância e controle de qualidade na farmácia hospitalar.",
+        "reqs": [
+            [
+                {
+                    "code": "FR104"
+                },
+                {
+                    "code": "FR105"
+                },
+                {
+                    "code": "FR206"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR406",
+        "name": "Deontologia e Legislação Farmacêutica",
+        "credits": 2,
+        "syllabus": "O Código de Ética da profissão farmacêutica. Legislação farmacêutica. Leis que regulamentam o exercício profissional do farmacêutico. Conselho Federal e Conselhos Regionais de Farmácia. As responsabilidades do profissional farmacêutico. Exemplos de má prática. Simulação de julgamento pelo CRF. Agência Nacional de Vigilância Sanitária (ANVISA) e Centros de Vigilância Sanitárias Estaduais e Municipais.",
+        "reqBy": [
+            "FR603"
+        ]
+    },
+    {
+        "code": "FR407",
+        "name": "Genética Médica",
+        "credits": 2,
+        "syllabus": "Estudo do cariótipo humano. Agentes teratogênicos. Erros Inatos do metabolismo. Hemoglobinopatias. Câncer. Terapia Gênica. Genética Molecular e Aconselhamento Genético.",
+        "reqs": [
+            [
+                {
+                    "code": "BG515",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD182",
+            "MD187",
+            "MD188",
+            "MD189",
+            "MD190"
+        ]
+    },
+    {
+        "code": "FR409",
+        "name": "Projetos de extensão III",
+        "credits": 2,
+        "syllabus": "Atividade integrada e interdisciplinar que promove interação entre o curso de Farmácia e outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa."
+    },
+    {
+        "code": "FR415",
+        "name": "Farmacognosia",
+        "credits": 6,
+        "syllabus": "FARMACOGNOSIA: conceitos e métodos. Extração, identificação e doseamento de princípios ativos naturais e estudo de plantas medicinais e drogas vegetais contendo os principais metabólitos de interesse farmacêutico: terpenos, óleos essenciais e fixos, resinas, alcalóides, taninos, heterosídeos (flavonóides, antraderivados, cardiotônicos, saponinas). Conceituação, identificação e legislação de fitoterápicos. Estudo de príncipios ativos de origem vegetal e sua utillização como matéria prima de medicamentos e cosméticos.",
+        "reqs": [
+            [
+                {
+                    "code": "BB315"
+                },
+                {
+                    "code": "BT315"
+                },
+                {
+                    "code": "FR508"
+                },
+                {
+                    "code": "QO623",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR502",
+        "name": "Epidemiologia para Ciências Farmacêuticas",
+        "credits": 4,
+        "syllabus": "Epidemiologia: definições, histórico, usos. População e saúde. Medidas de frequência de doenças. Indicadores de saúde. Vigilância epidemiológica e sanitária. O laboratório de saúde pública e seu papel na vigilância sanitária e epidemiológica. Investigação epidemiológica. Validação e validade de estudos epidemiológicos. Medidas de risco e causalidade. Estudos epidemiológicos experimentais e observacionais. Fármaco-epidemiologia. Estudos sobre a utilização de medicamentos: conceito, métodos, e aplicações. Farmacovigilância: conceito, métodos e aplicações. Farmacovigilância no Brasil e no mundo.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR504",
+        "name": "Gestão Farmacêutica",
+        "credits": 2,
+        "syllabus": "Princípios de economia e administração na área da saúde. Liderança e criatividade no ramo farmacêutico. Organização de empresas farmacêuticas. Aspectos administrativos nas áreas operacional, financeira, mercadológica e de recursos humanos de empresas farmacêuticas. Leis trabalhistas e finanças pessoais. Farmacoeconomia."
+    },
+    {
+        "code": "FR505",
+        "name": "Anatomia Patológica",
+        "credits": 2,
+        "syllabus": "Introdução à Patologia: inflamação, distúrbios circulatórios, morte celular, neoplasias, autoimunidade e imunodeficiência.",
+        "reqs": [
+            [
+                {
+                    "code": "BS215"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD182",
+            "MD187",
+            "MD188",
+            "MD189",
+            "MD190"
+        ]
+    },
+    {
+        "code": "FR506",
+        "name": "Farmacologia Básica",
+        "credits": 4,
+        "syllabus": "Farmacologia geral (farmacocinética, farmacodinâmica), Farmacologia do sistema nervoso autônomo (neurotransmissão adrenérgica e colinérgica), junção neuromuscular (neurotransmissão, bloqueadores neuromusculares, anticolinesterásicos), Farmacologia cardiovascular e drogas anti-hipertensivas.",
+        "reqs": [
+            [
+                {
+                    "code": "BS215"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR050",
+            "MD182",
+            "MD187",
+            "MD188",
+            "MD189",
+            "MD190"
+        ]
+    },
+    {
+        "code": "FR507",
+        "name": "Introdução à Química Farmacêutica",
+        "credits": 4,
+        "syllabus": "Aspectos gerais sobre fármacos e medicamentos. Bases moleculares da ação dos fármacos e biotransformação e latenciação. Descoberta e planejamento racional. Estereoquímica e análise conformacional. Noções de QSAR e modelagem molecular.",
+        "reqs": [
+            [
+                {
+                    "code": "QO421",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR604",
+            "FR607",
+            "FR707",
+            "MD182",
+            "MD187",
+            "MD188",
+            "MD189",
+            "MD190"
+        ]
+    },
+    {
+        "code": "FR508",
+        "name": "Análise Instrumental",
+        "credits": 6,
+        "syllabus": "Técnicas de preparação de amostra. Princípios de cromatografia e introdução às técnicas clássicas de cromatografia. Fundamentos de ultravioleta-visível (UV/VIS). Fundamentos de infravermelho (IV). Fundamentos de ressonância magnética nuclear (RMN). Fundamentos de espectrometria de massas (EM).\n ",
+        "reqs": [
+            [
+                {
+                    "code": "QA218"
+                },
+                {
+                    "code": "QO421"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR047",
+            "FR415",
+            "FR606",
+            "FR614",
+            "FR708",
+            "FR804"
+        ]
+    },
+    {
+        "code": "FR509",
+        "name": "Princípios de Farmacocinética",
+        "credits": 2,
+        "syllabus": "Conceitos fundamentais de Farmacocinética de medicamentos (absorção, distribuição, metabolização e excreção). Farmacodinâmica: princípios básicos da interação fármaco receptor e sinalização intracelular.",
+        "reqBy": [
+            "FR006",
+            "FR021",
+            "FR022",
+            "FR050",
+            "FR608"
+        ]
+    },
+    {
+        "code": "FR510",
+        "name": "Metodologia e Informação Científica",
+        "credits": 2,
+        "syllabus": "Compreender o papel da ciência e do cientista na sociedade. A construção do conhecimento científico: juízos de realidade e de valor, o método científico, paradigmas da ciência, influência da atividade do cientista na sociedade. O trabalho científico: resumo e apresentação em congressos, simpósios e eventos similares. Os tipos de monografias científicas: para graduação e especialização (monografia), para Mestrado (dissertação) e para Doutorado (tese). Relatórios."
+    },
+    {
+        "code": "FR511",
+        "name": "Bromatologia",
+        "credits": 4,
+        "syllabus": "Introdução a bromatologia. Princípios em tecnologia de alimentos. Tecnologia dos alimentos ricos em carboidratos, alimentos gordurosos, alimentos protéicos. Alteração dos alimentos. Constituintes, composição centesimal e valor nutritivo dos alimentos. Minerais em alimentos. Aditivos e contaminantes em alimentos. Legislação bromatológica. Boas práticas higiênico-sanitárias.",
+        "reqs": [
+            [
+                {
+                    "code": "BB315"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR512",
+        "name": "Biologia Molecular",
+        "credits": 4,
+        "syllabus": "Características e propriedades do DNA, base molecular da mutação e recombinação, código genético (transcrição e tradução), noções de tecnologia do DNA recombinante, controle da expressão gênica em procariotos e eucariotos, elementos de transposição, mecanismos de recombinação em microrganismos e noções sobre biologia do desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "BB315"
+                },
+                {
+                    "code": "FR306"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR810"
+        ]
+    },
+    {
+        "code": "FR602",
+        "name": "Farmacotécnica",
+        "credits": 8,
+        "syllabus": "Introdução à farmacotécnica e às formas farmacêuticas, abordando aspectos fundamentais do planejamento, preparo, estabilidade, acondicionamento de medicamentos sob diferentes formas farmacêuticas. Farmácia Magistral. Operações unitárias aplicadas à Farmácia. Formas farmacêuticas líquidas, semi-sólidas, sólidas, estéreis, moldáveis e de liberação controlada.",
+        "reqs": [
+            [
+                {
+                    "code": "QF331"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR035",
+            "FR705",
+            "FR807"
+        ]
+    },
+    {
+        "code": "FR603",
+        "name": "Assistência e Atenção Farmacêutica",
+        "credits": 2,
+        "syllabus": "Atenção Farmacêutica: objetivos, organização e estratégias para a promoção do uso racional de medicamentos. Problemas Relacionados a Medicamentos (PRM). Dispensação com ou sem receita (medicamentos isentos de prescrição). Habilidades de comunicação em Atenção Farmacêutica. Planejamento da Atenção Farmacêutica. Metodologias de seguimento/acompanhamento farmacoterapêutico. Atenção Farmacêutica na atenção básica de saúde.",
+        "reqs": [
+            [
+                {
+                    "code": "FR304"
+                },
+                {
+                    "code": "FR406"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR046"
+        ]
+    },
+    {
+        "code": "FR604",
+        "name": "Química Farmacêutica Aplicada",
+        "credits": 4,
+        "syllabus": "Química Farmacêutica e planejamento de fármacos para o tratamento de doenças parasitárias e infecciosas causadas por vírus, fungos e bactérias, para a quimioterapia do câncer e para o controle de afecções do sistema nervoso central, hormonal, ósteo-articular, cardiorrespiratório e digestório.",
+        "reqs": [
+            [
+                {
+                    "code": "FR507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR605",
+        "name": "Biologia Molecular",
+        "credits": 4,
+        "syllabus": "Características e propriedades do DNA, base molecular da mutação e recombinação, código genético (transcrição e tradução), noções de tecnologia do DNA recombinante, controle da expressão gênica em procariotos e eucariotos, elementos de transposição, mecanismos de recombinação em microrganismos e noções sobre biologia do desenvolvimento.",
+        "reqs": [
+            [
+                {
+                    "code": "BB315"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR050",
+            "FR050",
+            "FR725"
+        ]
+    },
+    {
+        "code": "FR606",
+        "name": "Bromatologia",
+        "credits": 4,
+        "syllabus": "Introdução a bromatologia. Princípios em tecnologia de alimentos. Tecnologia dos alimentos ricos em carboidratos, alimentos gordurosos, alimentos protéicos. Alteração dos alimentos. Constituintes, composição centesimal e valor nutritivo dos alimentos. Minerais em alimentos. Aditivos e contaminantes em alimentos. Legislação bromatológica. Boas práticas higiênico-sanitárias.",
+        "reqs": [
+            [
+                {
+                    "code": "BB315"
+                },
+                {
+                    "code": "FR508"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR705"
+        ]
+    },
+    {
+        "code": "FR607",
+        "name": "Química Farmacêutica Aplicada I",
+        "credits": 2,
+        "syllabus": "Química Farmacêutica e Planejamento de fármacos para o tratamento de doenças infecciosas e dos sistemas ósteo-articular, cardio-respiratório e digestório.",
+        "reqs": [
+            [
+                {
+                    "code": "FR507"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR608",
+        "name": "Farmacologia Básica I",
+        "credits": 4,
+        "syllabus": "Esta disciplina aborda a farmacodinâmica e a farmacocinética das principais classes de drogas que agem no sistema cardiovascular. São abordados fármacos usados para hipertensão que agem nos receptores adrenérgicos, muscarínicos, sistema renina angiotensina e no controle direto da diurese. Também são abordados os fármacos que controlam distúrbios em hemodinâmica, insuficiência cardíaca e deficiências no metabolismo de lipoproteínas e metabolismo glicídico. Todos estes aspectos são abordados em conjunto com uma apresentação dos conceitos da transmissão autonômica e do controle da pressão arterial. ",
+        "reqs": [
+            [
+                {
+                    "code": "FR509"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR609",
+            "FR806"
+        ]
+    },
+    {
+        "code": "FR609",
+        "name": "Farmacologia Básica II",
+        "credits": 4,
+        "syllabus": "Esta disciplina aborda a farmacodinâmica e a farmacocinética das principais classes de drogas que agem no sistema nervoso central (anticonvulsivantes, drogas de abuso, anti-psicóticos, ansiolíticos, anti-parkinsonianos) e no trato gastrointestinal. Também são abordados os principais fármacos contraceptivos, anti-bacterianos, anti-virais, anti-neoplásicos e anti-inflamatórios. É dado foco também para os efeitos colaterais, interações medicamentosas características farmacocinéticas.",
+        "reqs": [
+            [
+                {
+                    "code": "FR608"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR707"
+        ]
+    },
+    {
+        "code": "FR610",
+        "name": "Laboratório Clínico I",
+        "credits": 4,
+        "syllabus": "Aspectos teóricos sobre organização e metodologias desenvolvidas nas áreas de Bioquímica, Hematologia, Microbiologia e Parasitologia do Laboratório de Patologia Clínica. Conhecimento dos exames laboratoriais mais utilizados para avaliação dos sistemas cardiovascular, ósseo, digestório, hematológico, tegumentar e urinário Análise crítica e interpretação dos resultados de exames laboratoriais.",
+        "reqs": [
+            [
+                {
+                    "code": "BM415"
+                },
+                {
+                    "code": "BP515"
+                },
+                {
+                    "code": "BS215"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR710",
+            "FR711"
+        ]
+    },
+    {
+        "code": "FR611",
+        "name": "Estágio Supervisionado em Laboratório Clínico I",
+        "credits": 6,
+        "syllabus": "Estágio supervisionado em laboratório de análises clínicas nas áreas de Coleta e Recepção de exames, Bioquímica Clínica, Urinálises, Hematologia Laboratorial, Microbiologia e Parasitologia Clínicas.",
+        "reqs": [
+            [
+                {
+                    "code": "BM415"
+                },
+                {
+                    "code": "BP515"
+                },
+                {
+                    "code": "BS215"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR711"
+        ]
+    },
+    {
+        "code": "FR612",
+        "name": "Tecnologia Farmacêutica II",
+        "credits": 4,
+        "syllabus": "Desenvolvimento, produção e controle magistral e industrial de formas farmacêuticas sólidas.",
+        "reqs": [
+            [
+                {
+                    "code": "FR402"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR704",
+            "FR811"
+        ]
+    },
+    {
+        "code": "FR613",
+        "name": "Tecnologia Farmacêutica III",
+        "credits": 4,
+        "syllabus": "Desenvolvimento, produção e controle magistral e industrial de formas farmacêuticas líquidas e semissólidas.",
+        "reqs": [
+            [
+                {
+                    "code": "FR402"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR811"
+        ]
+    },
+    {
+        "code": "FR614",
+        "name": "Farmacognosia",
+        "credits": 6,
+        "syllabus": "Farmacognosia: conceitos e métodos. Extração, identificação e doseamento de princípios ativos naturais e sua utilização como matéria prima de medicamentos e cosméticos. Estudo de plantas medicinais e drogas vegetais contendo os principais metabólitos de interesse farmacêutico: terpenos, óleos essenciais e fixos, gomas, resinas, alcaloides, taninos, cumarinas, heterosídeos (flavonoides, antraderivados, cardiotônicos, saponinas). Conceituação e legislação de fitoterápicos. Uso seguro de plantas medicinais brasileiras.",
+        "reqs": [
+            [
+                {
+                    "code": "BB315"
+                },
+                {
+                    "code": "BT315"
+                },
+                {
+                    "code": "FR508"
+                },
+                {
+                    "code": "QO623",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR706"
+        ]
+    },
+    {
+        "code": "FR703",
+        "name": "Operações Unitárias para Ciências Farmacêuticas",
+        "credits": 2,
+        "syllabus": "Introdução a operações unitárias e princípios  físicos regentes. Introdução ao processo farmacêutico e seus parâmetros  de controle/qualidade. Conceito, equipamento e aplicação das operações unitárias de secagem, separação, modificação de tamanho de partículas, misturas e esterilização.",
+        "reqs": [
+            [
+                {
+                    "code": "F 107"
+                },
+                {
+                    "code": "MS380"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR807"
+        ]
+    },
+    {
+        "code": "FR704",
+        "name": "Cosmetologia",
+        "credits": 4,
+        "syllabus": "Conceitos teóricos referentes a legislação, avaliação de segurança / eficácia e matérias primas cosméticas. Conceito e prática laboratorial de cosméticos: coloridos, infantis; para celulite e estrias; epilatórios; depilatórios e pós depilação; clareadores e despigmentantes; acne; hidratação cutânea; envelhecimento cutâneo; produtos de higiene; fotoprotetores; desodorantes e antitranspirantes.",
+        "reqs": [
+            [
+                {
+                    "code": "FR402"
+                },
+                {
+                    "code": "FR612"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR705",
+        "name": "Controle de Qualidade de Produtos I",
+        "credits": 4,
+        "syllabus": "Amostragem. Padrões e material de referência certificado. Controle da matéria-prima. Controle físico-químico. Validação de métodos. Ensaios clássicos e instrumentais. Estabilidade físico-química de medicamentos. Requisitos e funcionamento de um sistema de qualidade. Sistemas BPL e ISO.",
+        "reqs": [
+            [
+                {
+                    "code": "FR602"
+                },
+                {
+                    "code": "FR606"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR706",
+        "name": "Fitoterapia",
+        "credits": 2,
+        "syllabus": "Legislação brasileira e prescrição de fitoterápicos. Formulações e controle de qualidade. Alimentos com propriedades funcionais ou de saúde. Farmacologia e fitoquímica de fitoterápicos que atuam no sitema nervoso central, sistema cardiovascular, sistema respiratório, sistema digestório e trato genito-urinário. Processo inflamatório e doloroso, imunoestimulantes e adaptógenos.",
+        "reqs": [
+            [
+                {
+                    "code": "FR306"
+                },
+                {
+                    "code": "FR614"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR707",
+        "name": "Química Farmacêutica Aplicada II",
+        "credits": 2,
+        "syllabus": "Química Farmacêutica e Planejamento de fármacos para o tratamento de afecções do sistema nervoso central. Quimioterapia oncológica e antiviral. ",
+        "reqs": [
+            [
+                {
+                    "code": "FR507"
+                },
+                {
+                    "code": "FR609"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR708",
+        "name": "Toxicologia",
+        "credits": 2,
+        "syllabus": "História da toxicologia, epidemiologia das intoxicações, conceitos gerais em toxicologia, toxicocinética, toxicodinâmica, avaliação de toxicidade, avaliação de risco, toxicologia de medicamentos, toxinologia.",
+        "reqs": [
+            [
+                {
+                    "code": "FR306"
+                },
+                {
+                    "code": "FR508"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR809"
+        ]
+    },
+    {
+        "code": "FR709",
+        "name": "Controle de Qualidade Biológico",
+        "credits": 4,
+        "syllabus": "Contaminação microbiana de produtos farmacêuticos, insumos e correlatos; Legislação e compêndios de controle de qualidade microbiológico; Principais técnicas utilizadas para determinação e quantificação de microrganismos; Controle de qualidade da água; Controle de qualidade de alimentos; Controle de qualidade no processo de produção; Controle de qualidade de produtos estéreis e não estéreis; Boas práticas de laboratório e biossegurança; Riscos da contaminação de medicamentos, produtos farmacêuticos, alimentos e água para a saúde do paciente; Educação em saúde na prevenção de contaminação microbiana de produtos farmacêuticos; Gestão da qualidade biológica de produtos; Gestão da qualificação e validação de processos no controle biológico.",
+        "reqs": [
+            [
+                {
+                    "code": "BM415"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR710",
+        "name": "Laboratório Clínico II",
+        "credits": 4,
+        "syllabus": "Aspectos teóricos sobre organização e metodologias desenvolvidas nas áreas de Fisiologia, Líquidos Biológicos e Imunologia do Laboratório de Patologia Clínica. Conhecimento dos exames laboratoriais mais utilizados para avaliação do sistema endócrino e do sistema reprodutor, das afecções do sistema nervoso central e distúrbios psiquiátricos, assim como das doenças sexualmente transmissíveis e das doenças virais.  Marcadores tumorais séricos também serão abordados. Análise crítica e interpretação dos resultados de exames laboratoriais. ",
+        "reqs": [
+            [
+                {
+                    "code": "FR610"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR711",
+        "name": "Estágio Supervisionado em Laboratório Clínico II",
+        "credits": 6,
+        "syllabus": ": Estágio supervisionado em Laboratório de Análises Clínicas nas áreas de Líquidos Biológicos (líquor e derrames cavitários), Imunologia e Fisiologia Clínica (hormônios e marcadores tumorais)",
+        "reqs": [
+            [
+                {
+                    "code": "FR610"
+                },
+                {
+                    "code": "FR611"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR725",
+        "name": "Biotecnologia",
+        "credits": 4,
+        "syllabus": "Princípios e aplicações da biotecnologia. Ferramentas para a obtenção de DNA recombinante e construção de vetores. Fermentação: Enzimas e microrganismos na obtenção de produtos biotecnológicos. Biorreatores: Imobilização, otimização e escalas. Biossensores. Legislação de Biossegurança.",
+        "reqs": [
+            [
+                {
+                    "code": "BM415"
+                },
+                {
+                    "code": "FR605"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR009",
+            "FR044"
+        ]
+    },
+    {
+        "code": "FR804",
+        "name": "Toxicologia Geral",
+        "credits": 6,
+        "syllabus": "História da toxicologia, epidemiologia das intoxicações, conceitos gerais em toxicologia, toxicocinética, toxicodinâmica, avaliação de toxicidade, avaliação de risco, toxicologia de medicamentos, interações medicamentosas, toxicologia de alimentos, toxicologia ocupacional, toxicologia ambiental, toxicologia social, toxinologia (animais peçonhentos) e análises toxicológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "FR508"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR805",
+        "name": "Controle de Qualidade de Produtos II",
+        "credits": 4,
+        "syllabus": "Gerenciamento da qualidade na fabricação de insumos farmacêuticos. Contaminação microbiana de insumos farmacêuticos. Controle do crescimento microbiano. Controle microbiológico de matéria-prima e de produtos acabados. Controle microbiológico de embalagens. Contagem de microrganismos. Agentes químicos conservantes. Testes específicos de controle de identificação de microrganismos. ",
+        "reqs": [
+            [
+                {
+                    "code": "BM415"
+                },
+                {
+                    "code": "BP515"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR806",
+        "name": "Farmacoterapia e Interações Medicamentosas",
+        "credits": 4,
+        "syllabus": "Definição e classificação das interações medicamentosas. Interações medicamento-medicamento, medicamento-alimento, medicamento-álcool e outras drogas. Grupos de Risco. Discussão de Casos clínicos.",
+        "reqs": [
+            [
+                {
+                    "code": "FR306"
+                }
+            ],
+            [
+                {
+                    "code": "FR608"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR807",
+        "name": "Tecnologia Farmacêutica",
+        "credits": 4,
+        "syllabus": "Teoria e prática do desenvolvimento e produção industrial de medicamentos: pré-formulação e deformulação; mecanismos de liberação de fármacos, produção de sólidos, líquidos e semissólidos, escalonamento de produção, tecnologia analítica e validação de processos, quality by design, boas práticas de fabricação, garantia de qualidade, política de medicamentos.",
+        "reqs": [
+            [
+                {
+                    "code": "FR602"
+                },
+                {
+                    "code": "FR703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR808",
+        "name": "Farmacoepidemiologia",
+        "credits": 4,
+        "syllabus": "Epidemiologia: definições, histórico, usos. População e saúde. Medidas de frequência de doenças. Indicadores de saúde. Vigilância epidemiológica e sanitária. O laboratório de saúde pública e seu papel na vigilância sanitária e epidemiológica. Investigação epidemiológica. Validação e validade de estudos epidemiológicos. Medidas de risco e causalidade. Estudos epidemiológicos experimentais e observacionais. Fármaco-epidemiologia. Estudos sobre a utilização de medicamentos: conceito, métodos, e aplicações. Farmacovigilância: conceito, métodos e aplicações. Farmacovigilância no Brasil e no mundo.",
+        "reqs": [
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR809",
+        "name": "Análises Toxicológicas",
+        "credits": 4,
+        "syllabus": "Toxicologia de alimentos, toxicologia ocupacional, toxicologia ambiental, toxicologia social, toxicologia forense. Análises toxicológicas, fluidos biológicos utilizados em análises toxicológicas, técnicas de preparo de amostras, técnicas analíticas utilizadas em análises toxicológicas, validação de métodos em análises toxiocológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "FR708"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR810",
+        "name": "Biotecnologia",
+        "credits": 4,
+        "syllabus": "Princípios e aplicações da biotecnologia. Ferramentas para a obtenção de DNA recombinante e construção de vetores. Fermentação: Enzimas e microrganismos na obtenção de produtos biotecnológicos. Biorreatores: Imobilização, otimização e escalas. Biossensores. Legislação de Biossegurança.",
+        "reqs": [
+            [
+                {
+                    "code": "BM415"
+                },
+                {
+                    "code": "FR512"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR811",
+        "name": "Tecnologia Farmacêutica IV",
+        "credits": 4,
+        "syllabus": "Desenvolvimento, produção e controle magistral e industrial de formas farmacêuticas líquidas e semissólidas.",
+        "reqs": [
+            [
+                {
+                    "code": "FR612"
+                },
+                {
+                    "code": "FR613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR812",
+        "name": "Cuidado Farmacêutico",
+        "credits": 4,
+        "syllabus": "Definição e caracterização do cuidado farmacêutico. Estudo das características étnico raciais, religiosas, culturais e sócio-econômicas da população. Dispensação, prescrição e seguimento farmacoterapêutico. Estudo dos PRMs (problemas relacionados ao medicamento). Avaliação de parâmetros biológicos e sinais vitais. Uso adequado de formas farmacêuticas complexas (insulinas e dispositivos inalatórios). Estudo da farmacoterapia racional. Discute sobre a influência de fatores individuais na terapia. Avalia histórico de doenças pré-existentes e de sensibilidade a fármacos. Prescrição de MIPs. Simulação realística dos tópicos descritos anteriormente voltados ao cuidado farmacêutico.",
+        "reqs": [
+            [
+                {
+                    "code": "FR105"
+                },
+                {
+                    "code": "FR206"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR900",
+        "name": "Estágio Supervisionado em Farmácia",
+        "credits": 10,
+        "syllabus": "Estágio supervisionado por docente do Curso de Farmácia em atividade profissional nas modalidades de: farmácia pública e/ou hospitalar, assistência farmacêutica, controle de qualidade de medicamentos, administração e economia, legislação, deontologia, dispensação e atendimento ao público. Seleção, aquisição, distribuição e uso de medicamentos em farmácias públicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA455",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR901",
+        "name": "Estágio Supervisionado Profissionalizante I",
+        "credits": 15,
+        "syllabus": "Estágio Supervisionado por docente do Curso de Farmácia desenvolvido em estabelecimentos públicos ou privados, legalmente constituídos em atividades regulamentadas para o profissional farmacêutico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR902",
+        "name": "Estágio Supervisionado Profissionalizante II",
+        "credits": 15,
+        "syllabus": "Estágio supervisionado por docente do Curso de Farmácia desenvolvido em estabelecimentos públicos ou privados, legalmente constituídos em atividades complementares ou em continuidade ao do Estágio Supervisionado Profissionalizante I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR903",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 4,
+        "syllabus": "Acompanhamento, discussão e avaliação, em conjunto com os respectivos orientadores, da concepção, planejamento, execução, análise e redação de monografia que será apresentada como trabalho de conclusão de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR904",
+        "name": "Atividades Complementares",
+        "credits": 4,
+        "syllabus": "Coordenadoria"
+    },
+    {
+        "code": "FR905",
+        "name": "Trabalho de Conclusão de Curso I",
+        "credits": 2,
+        "syllabus": "Acompanhamento, discussão e avaliação, em conjunto com os respectivos orientadores, da concepção, planejamento, execução, análise e redação de monografia que será apresentada como trabalho de conclusão de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR906",
+        "name": "Trabalho de Conclusão de Curso II",
+        "credits": 2,
+        "syllabus": "Acompanhamento, discussão e avaliação, em conjunto com os respectivos orientadores, da concepção, planejamento, execução, análise e redação de monografia que será apresentada como trabalho de conclusão de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "FR910",
+        "name": "Atividades de extensão I",
+        "credits": 4,
+        "syllabus": "Participação em atividades de extensão."
+    },
+    {
+        "code": "FR911",
+        "name": "Atividades de extensão II",
+        "credits": 2,
+        "syllabus": "Participação em atividades de extensão."
+    }
+]

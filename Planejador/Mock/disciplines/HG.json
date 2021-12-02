@@ -1,0 +1,5103 @@
+[
+    {
+        "code": "HG001",
+        "name": "Introdução à Lógica",
+        "credits": 4,
+        "syllabus": "O curso tem por objetivo examinar as noções mais elementares da moderna lógica simbólica, como as funções proposicionais, quantificação, função de verdade, verdade lógica, modelo, linguagem formal e método axiomático. Tratar-se-á também de levantar a questão do alcance e limites da aplicação de tais noções na investigação das línguas naturais."
+    },
+    {
+        "code": "HG021",
+        "name": "Introdução à Epistemologia",
+        "credits": 4,
+        "syllabus": "O curso destina-se a introduzir os estudantes a temas da epistemologia contemporânea, com ênfase especial nos problemas da epistemologia das ciências naturais."
+    },
+    {
+        "code": "HG023",
+        "name": "Introdução à Filosofia da Ciência",
+        "credits": 4,
+        "syllabus": "Discussão dos problemas e conceitos fundamentais da filosofia contemporânea da ciência. O conceito de cientificidade. A ciência experimental e o método hipotético-dedutivo. Explicações causais, teleológicas, histórico-genéticas, probabilísticas, estruturais, funcionais."
+    },
+    {
+        "code": "HG031",
+        "name": "Epistemologia da Física",
+        "credits": 2,
+        "syllabus": "O curso tem o caráter de uma introdução aos conceitos fundamentais da epistemologia em geral e da epistemologia da Física, em particular, através de um estudo crítico dos métodos dessa ciência e da estruturação das teorias físicas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG042",
+        "name": "História do Pensamento",
+        "credits": 4,
+        "syllabus": "O curso examinará alguns autores ou temas da filosofia moderna ou contemporânea, particularmente relacionados com a problemática das ciências humanas.",
+        "reqs": [
+            [
+                {
+                    "code": "CE712"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG062",
+        "name": "Filosofia Política",
+        "credits": 4,
+        "syllabus": "O curso estudará alguns autores ou temas clássicos da filosofia política, particularmente das épocas moderna e contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG081",
+        "name": "Tópicos Especiais de Filosofia",
+        "credits": 4,
+        "syllabus": "Trata-se de uma disciplina de caráter propositadamente aberto, destinada a acolher temas variados, cujo estudo se faça particularmente indicado à época da oferta.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG101",
+        "name": "Introdução à Filosofia I",
+        "credits": 4,
+        "syllabus": "O curso de Introdução à Filosofia visará, basicamente, propor ao aluno iniciante as questões gerais com as quais se vê envolvida a Filosofia, de modo claro e sistemático, a começar pela indagação do que é a própria Filosofia e, progressivamente, ir abordando os problemas gerais da disciplina.",
+        "reqBy": [
+            "HG201",
+            "HG202"
+        ]
+    },
+    {
+        "code": "HG102",
+        "name": "Filosofia Geral I",
+        "credits": 4,
+        "syllabus": "Tratará dos problemas gerais da Metafísica (quando possível historicamente) tais como: a questão do ser, a questão da relação ser e ente, a questão da existência ou não de um ser supremo, etc.",
+        "reqBy": [
+            "HG201",
+            "HG202"
+        ]
+    },
+    {
+        "code": "HG107",
+        "name": "Redação Filosófica I",
+        "credits": 8,
+        "syllabus": "A partir da leitura de textos clássicos da História da Filosofia, esta disciplina tem por objetivo: (1) o exercício de interpretação dos textos segundo métodos de análise conceitual e argumentativa; (2) o exercício de confecção de textos interpretativos, conforme as normas técnicas pertinentes e critérios de clareza e consistência lógica da argumentação;  (3) o exercício de habilidades discursivas (de exposição e discussão) ligadas à interpretação e ao ensino da filosofia.",
+        "reqBy": [
+            "HG207"
+        ]
+    },
+    {
+        "code": "HG108",
+        "name": "Introdução à Filosofia Geral I",
+        "credits": 8,
+        "syllabus": "A partir da leitura de textos clássicos da História da Filosofia, esta disciplina tem por objetivo: (1) a introdução de temas básicos da filosofia; (2) o exercício de ferramentas formais da análise filosófica e da interpretação de textos filosóficos; (3) o exercício de habilidades discursivas (de exposição e discussão) ligadas à interpretação e transmissão da filosofia; (4) a introdução de dificuldades básicas ligadas à transmissão da Filosofia.",
+        "reqBy": [
+            "HG208"
+        ]
+    },
+    {
+        "code": "HG201",
+        "name": "Introdução à Filosofia II",
+        "credits": 4,
+        "syllabus": "O curso pretende aprofundar as questões trabalhadas no curso de Introdução à Filosofia I.",
+        "reqs": [
+            [
+                {
+                    "code": "HG101"
+                }
+            ],
+            [
+                {
+                    "code": "HG102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG521",
+            "HG621",
+            "HG625",
+            "HG626",
+            "HG810",
+            "HG811",
+            "HG907",
+            "HG908",
+            "HG909",
+            "HG910",
+            "HG917",
+            "HG918"
+        ]
+    },
+    {
+        "code": "HG202",
+        "name": "Filosofia Geral II",
+        "credits": 4,
+        "syllabus": "O curso pretende aprofundar as questões trabalhadas no curso de Filosofia Geral I.",
+        "reqs": [
+            [
+                {
+                    "code": "HG101"
+                }
+            ],
+            [
+                {
+                    "code": "HG102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG521",
+            "HG621",
+            "HG625",
+            "HG626",
+            "HG810",
+            "HG811",
+            "HG907",
+            "HG908",
+            "HG909",
+            "HG910",
+            "HG917",
+            "HG918"
+        ]
+    },
+    {
+        "code": "HG207",
+        "name": "Redação Filosófica II",
+        "credits": 8,
+        "syllabus": "A partir da leitura de textos clássicos da História da Filosofia, esta disciplina tem por objetivo: (1) o exercício de interpretação dos textos conforme métodos de análise conceitual e argumentativa; (2) o exercício de confecção de textos interpretativos, conforme as normas técnicas pertinentes e critérios de clareza e consistência lógica de argumentação;  (3) o exercício de habilidades discursivas (de exposição e discussão) ligadas à interpretação e ao ensino da filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG107"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG301",
+            "HG302",
+            "HG303",
+            "HG304",
+            "HG307",
+            "HG308",
+            "HG401",
+            "HG402",
+            "HG403",
+            "HG404",
+            "HG407",
+            "HG408",
+            "HG770",
+            "HG861",
+            "HG891",
+            "HG892",
+            "HG893",
+            "HG894"
+        ]
+    },
+    {
+        "code": "HG208",
+        "name": "Introdução à Filosofia Geral II",
+        "credits": 6,
+        "syllabus": "A partir da leitura de textos clássicos da História da Filosofia, esta disciplina tem por objetivo: (1) a introdução de temas básicos da filosofia; (2) o exercício de ferramentas formais da análise filosófica e da interpretação de textos filosóficos; (3) o exercício de habilidades discursivas (de exposição e discussão) ligadas à interpretação e transmissão da filosofia; (4) a introdução de dificuldades básicas ligadas à transmissão da Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG108"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG301",
+            "HG302",
+            "HG303",
+            "HG304",
+            "HG307",
+            "HG308",
+            "HG401",
+            "HG402",
+            "HG403",
+            "HG404",
+            "HG407",
+            "HG408",
+            "HG861"
+        ]
+    },
+    {
+        "code": "HG301",
+        "name": "História da Filosofia Antiga I",
+        "credits": 6,
+        "syllabus": "O curso analisará questões fundamentais da história da Filosofia Antiga, a partir da leitura de textos clássicos pertinentes (notadamente, textos de Platão e/ou Aristótoles).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG530",
+            "HG531",
+            "HG532",
+            "HG631",
+            "HG640",
+            "HG641",
+            "HG642",
+            "HG643",
+            "HG644",
+            "HG645",
+            "HG646",
+            "HG647",
+            "HG648",
+            "HG649",
+            "HG720",
+            "HG721",
+            "HG722",
+            "HG723",
+            "HG724",
+            "HG725",
+            "HG726",
+            "HG727",
+            "HG911",
+            "HG912",
+            "HG923",
+            "HG930",
+            "HG931",
+            "HG932",
+            "HG933",
+            "HG934",
+            "HG935"
+        ]
+    },
+    {
+        "code": "HG302",
+        "name": "História da Filosofia Medieval I",
+        "credits": 6,
+        "syllabus": "O curso analisará questões fundamentais da História da Filosofia Medieval, a partir da leitura de textos clássicos pertinentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG630",
+            "HG740",
+            "HG741",
+            "HG742",
+            "HG743",
+            "HG744",
+            "HG745",
+            "HG746",
+            "HG747",
+            "HG748",
+            "HG930",
+            "HG931",
+            "HG932",
+            "HG933",
+            "HG934",
+            "HG935"
+        ]
+    },
+    {
+        "code": "HG303",
+        "name": "Ética I",
+        "credits": 12,
+        "syllabus": "A partir da leitura de textos clássicos pertinentes ao assunto, o curso analisará o ensino de questões centrais de ética, como a teoria da ação, o bem supremo, a justificação da moralidade, etc.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG520",
+            "HG524",
+            "HG620",
+            "HG820",
+            "HG821",
+            "HG822",
+            "HG823",
+            "HG824",
+            "HG825",
+            "HG826",
+            "HG827",
+            "HG828",
+            "HG854",
+            "HG855",
+            "HG856",
+            "HG857",
+            "HG858",
+            "HG859",
+            "HG913",
+            "HG914",
+            "HG915",
+            "HG921",
+            "HG922"
+        ]
+    },
+    {
+        "code": "HG304",
+        "name": "Teoria do Conhecimento I",
+        "credits": 12,
+        "syllabus": "A partir da leitura de textos clássicos ao assunto, o curso analisará o ensino de problemas filosóficos fundamentais da teoria do conhecimento (problemas de justificação epistemológica; teoria das explicações científicas; gênese do conhecimento, etc.)",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG511",
+            "HG512",
+            "HG513",
+            "HG514",
+            "HG515",
+            "HG517",
+            "HG518",
+            "HG522",
+            "HG611",
+            "HG613",
+            "HG711",
+            "HG712",
+            "HG713",
+            "HG714",
+            "HG715",
+            "HG716",
+            "HG905",
+            "HG906",
+            "HG919",
+            "HG920"
+        ]
+    },
+    {
+        "code": "HG307",
+        "name": "Ensino de Ética",
+        "credits": 8,
+        "syllabus": "A partir da leitura de textos clássicos pertinentes ao assunto, o curso analisará o ensino de questões centrais da ética, como a teoria da ação, o bem supremo, a justificação da moralidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG308",
+        "name": "Ensino de Teoria do Conhecimento",
+        "credits": 8,
+        "syllabus": "A partir da leitura de textos clássicos ao assunto, o curso analisará o ensino de problemas filosóficos fundamentais da teoria do conhecimento (problemas de justificação epistemológica).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG401",
+        "name": "História da Filosofia Moderna I",
+        "credits": 6,
+        "syllabus": "A partir da leitura de textos clássicos pertinentes, a disciplina analisará questões fundamentais da História da Filosofia Moderna.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG531",
+            "HG532",
+            "HG631",
+            "HG720",
+            "HG721",
+            "HG722",
+            "HG723",
+            "HG724",
+            "HG725",
+            "HG726",
+            "HG727",
+            "HG730",
+            "HG750",
+            "HG751",
+            "HG752",
+            "HG753",
+            "HG754",
+            "HG755",
+            "HG756",
+            "HG757",
+            "HG758",
+            "HG759",
+            "HG760",
+            "HG911",
+            "HG912",
+            "HG923",
+            "HG930",
+            "HG931",
+            "HG932",
+            "HG933",
+            "HG934",
+            "HG935"
+        ]
+    },
+    {
+        "code": "HG402",
+        "name": "História da Filosofia Contemporânea I",
+        "credits": 6,
+        "syllabus": "A partir da leitura de textos clássicos pertinentes, a disciplina analisará questões fundamentais da história da Filosofia Contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG830",
+            "HG840",
+            "HG841",
+            "HG842",
+            "HG843",
+            "HG844",
+            "HG845",
+            "HG846",
+            "HG847",
+            "HG848",
+            "HG849",
+            "HG850",
+            "HG930",
+            "HG931",
+            "HG932",
+            "HG933",
+            "HG934",
+            "HG935"
+        ]
+    },
+    {
+        "code": "HG403",
+        "name": "Estética I",
+        "credits": 12,
+        "syllabus": "A partir da leitura de textos clássicos pertinentes, a disciplina analisará o ensino de questões fundamentais da Estética.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG523",
+            "HG615",
+            "HG616",
+            "HG617",
+            "HG618",
+            "HG619",
+            "HG622",
+            "HG623",
+            "HG624",
+            "HG627"
+        ]
+    },
+    {
+        "code": "HG404",
+        "name": "Introdução à Lógica",
+        "credits": 6,
+        "syllabus": "O curso tem por objetivo examinar as noções mais elementares da moderna lógica simbólica, como as funções proposicionais, quantificação, função de verdade, verdade lógica, modelo, linguagem formal e método axiomático. Tratar-se-á também de levantar a questão do alcance e limites da aplicação de tais noções na investigação das línguas naturais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG510",
+            "HG604",
+            "HG605",
+            "HG606",
+            "HG607",
+            "HG608",
+            "HG609",
+            "HG610",
+            "HG710",
+            "HG804",
+            "HG805",
+            "HG806",
+            "HG870",
+            "HG871",
+            "HG872",
+            "HG873",
+            "HG874",
+            "HG875",
+            "HG876",
+            "HG877",
+            "HG878",
+            "HG879",
+            "HG901",
+            "HG902",
+            "HG903",
+            "HG904",
+            "HG916"
+        ]
+    },
+    {
+        "code": "HG407",
+        "name": "Ensino de Estética",
+        "credits": 8,
+        "syllabus": "A partir da leitura de textos pertinentes, a disciplina analisará o ensino de questões fundamentais da Estética.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG207"
+                }
+            ],
+            [
+                {
+                    "code": "HG208"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG408",
+        "name": "Metodologias e Práticas de Ensino em Filosofia",
+        "credits": 4,
+        "syllabus": "A disciplina se iniciará pela exposição sobre história e sociologia da educação, com o intuito de localizar e debater a história do ensino de filosofia no Brasil. A partir da compreensão do quadro histórico e sociológico do ensino de filosofia, o curso abordará então a legislação federal e estadual sobre ensino (LDB e BNCC), fará a análise dos materiais didáticos recomentados pelo PNLD e promoverá debates sobre diferentes abordagens de currículo, didática, avaliação escolar e gestão escolar no ensino médio.",
+        "reqs": [
+            [
+                {
+                    "code": "HG207"
+                },
+                {
+                    "code": "HG208"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG510",
+        "name": "Tópicos Especiais de Lógica I",
+        "credits": 6,
+        "syllabus": "O curso tem por objetivo desenvolver algumas noções da Lógica Contemporânea (pós-Frege), de acordo com pesquisas em andamento dos docentes vinculados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG511",
+        "name": "Tópicos Especiais de Epistemologia Geral I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG512",
+        "name": "Tópicos Especiais de Epistemologia das Ciências Humanas I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia das ciências humanas, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG513",
+        "name": "Tópicos Especiais de Epistemologia das Ciências Naturais I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia das ciências naturais, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG514",
+        "name": "Tópicos Especiais de Filosofia da Matemática",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da matemática, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG515",
+        "name": "Introdução à Filosofia da Ciência",
+        "credits": 4,
+        "syllabus": "Discussão dos problemas e conceitos fundamentais da filosofia contemporânea da ciência. O conceito de cientificidade. A ciência experimental e o método hipotético-dedutivo. Explicações causais, teológicas, histórico-genéticas, probabilísticas, estruturais, funcionais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG516",
+        "name": "Epistemologia da Física",
+        "credits": 4,
+        "syllabus": "O curso tem o caráter de uma introdução aos conceitos fundamentais da epistemologia em geral e da epistemologia da Física, em particular, através de um estudo crítico dos métodos dessa ciência e da estruturação das teorias físicas."
+    },
+    {
+        "code": "HG517",
+        "name": "Tópicos Especiais de Epistemologia Geral II",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG518",
+        "name": "Tópicos Especiais de Epistemologia Geral III",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG520",
+        "name": "Tópicos Especiais de Filosofia Política I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG521",
+        "name": "Tópicos Especiais de Filosofia da Linguagem I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da linguagem, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG522",
+        "name": "Epistemologia das Ciências Sociais",
+        "credits": 4,
+        "syllabus": "O curso destina-se ao estudo de temas e autores contemporâneos da Epistemologia das Ciências Sociais, levando em conta a formação prévia dos estudantes no campo dessa ciência.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG523",
+        "name": "Tópicos Especiais de Estética I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG524",
+        "name": "Filosofia da História",
+        "credits": 4,
+        "syllabus": "O curso constará do estudo de alguns autores ou temas fundamentais da filosofia da história, particularmente na época moderna.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG530",
+        "name": "Tópicos Especiais de História da Filosofia Antiga",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG531",
+        "name": "Tópicos Especiais de Metafísica I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em metafísica, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG532",
+        "name": "Tópicos Especiais de Filosofia Geral",
+        "credits": 6,
+        "syllabus": "O curso de propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG604",
+        "name": "Tópicos Especiais de Lógica VII",
+        "credits": 6,
+        "syllabus": "O curso tem por objetivo desenvolver algumas noções da Lógica Contemporânea (pós-Frege), de acordo com pesquisas em andamento dos docentes vinculados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG605",
+        "name": "Tópicos Especiais de Lógica VIII",
+        "credits": 6,
+        "syllabus": "O curso tem por objetivo desenvolver algumas noções da Lógica Contemporânea (pós-Frege), de acordo com pesquisas em andamento dos docentes vinculados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG606",
+        "name": "Tópicos Especiais de Lógica IX",
+        "credits": 6,
+        "syllabus": "O curso tem por objetivo desenvolver algumas noções da Lógica Contemporânea (pós-Frege), de acordo com pesquisas em andamento dos docentes vinculados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG607",
+        "name": "Tópicos Especiais de Lógica X",
+        "credits": 6,
+        "syllabus": "O curso tem por objetivo desenvolver algumas noções da Lógica Contemporânea (pós-Frege), de acordo com pesquisas em andamento dos docentes vinculados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG608",
+        "name": "Tópicos Especiais de Lógica XI",
+        "credits": 6,
+        "syllabus": "O curso tem por objetivo desenvolver algumas noções da Lógica Contemporânea (pós-Frege), de acordo com pesquisas em andamento dos docentes vinculados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG609",
+        "name": "Tópicos Especiais de Lógica XII",
+        "credits": 6,
+        "syllabus": "O curso tem por objetivo desenvolver algumas noções da Lógica Contemporânea (pós-Frege), de acordo com pesquisas em andamento dos docentes vinculados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG610",
+        "name": "Tópicos Especiais de Lógica II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em lógica, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG611",
+        "name": "Tópicos Especiais de Epistemologia Geral II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG613",
+        "name": "Tópicos Especiais de Epistemologia das Ciências Naturais II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia das ciências naturais, a partir de textos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG615",
+        "name": "Tópicos Especiais de Estética III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG616",
+        "name": "Tópicos Especiais de Estética III",
+        "credits": 6,
+        "syllabus": "O curso de propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG617",
+        "name": "Tópicos Especiais de Estética V",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departmento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG618",
+        "name": "Tópicos Especiais de Estética VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departmento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG619",
+        "name": "Tópicos Especiais de Estética VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departmento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG620",
+        "name": "Tópicos Especiais de Filosofia Política",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG621",
+        "name": "Tópicos Especiais de Filosofia da Linguagem II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da linguagem, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG622",
+        "name": "Tópicos Especiais de Estética VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departmento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG623",
+        "name": "Tópicos Especiais de Estética II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG624",
+        "name": "Tópicos Especiais de Estética IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departmento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG625",
+        "name": "Tópicos Especiais de Filosofia da Linguagem III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da linguagem, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG626",
+        "name": "Tópicos Especiais de Filosofia da Linguagem IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da linguagem, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG627",
+        "name": "Tópicos Especiais de Estética X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em estética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departmento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG630",
+        "name": "Tópicos Especiais de História da Filosofia Medieval",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG631",
+        "name": "Tópicos Especiais de Metafísica II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em metafísica, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG640",
+        "name": "Tópicos Especiais de História da Filosofia Antiga II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG641",
+        "name": "Tópicos Especiais de História da Filosofia Antiga III",
+        "credits": 6,
+        "syllabus": "o curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG642",
+        "name": "Tópicos Especiais em História da Filosofia Antiga IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG643",
+        "name": "Tópicos Especiais de História da Filosofia Antiga V",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG644",
+        "name": "Tópicos Especiais de História da Filosofia Antiga VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG645",
+        "name": "Tópicos Especiais de História da Filosofia Antiga VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG646",
+        "name": "Tópicos Especiais de História da Filosofia Antiga VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG647",
+        "name": "Tópicos Especiais de História da Filosofia Antiga IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG648",
+        "name": "Tópicos Especiais de História da Filosofia Antiga X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG649",
+        "name": "Tópicos Especiais de História da Filosofia Antiga XI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia antiga, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG710",
+        "name": "Tópicos Especiais de Lógica III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em lógica, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG711",
+        "name": "Tópicos Especiais de Epistemologia Geral VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG712",
+        "name": "Tópicos Especiais de Epistemologia Geral VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG713",
+        "name": "Tópicos Especiais de Epistemologia Geral IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG714",
+        "name": "Tópicos Especiais de Epistemologia Geral X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG715",
+        "name": "Tópicos Especiais de Epistemologia Geral XI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG716",
+        "name": "Tópicos Especiais de Epistemologia Geral XII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG720",
+        "name": "Tópicos Especiais da Filosofia Geral IV",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG721",
+        "name": "Tópicos Especiais de Filosofia Geral V",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG722",
+        "name": "Tópicos Especiais de Filosofia Geral VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG723",
+        "name": "Tópicos Especiais de Filosofia Geral VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG724",
+        "name": "Tópicos Especiais de Filosofia Geral VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG725",
+        "name": "Tópicos Especiais de Filosofia Geral IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG726",
+        "name": "Tópicos Especiais de Filosofia Geral X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG727",
+        "name": "Tópicos Especiais de Filosofia Geral XI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG730",
+        "name": "Tópicos Especiais de História da Filosofia Moderna",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG740",
+        "name": "Tópicos Especiais de História da Filosofia Medieval II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG741",
+        "name": "Tópicos Especiais de História da Filosofia Medieval III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG742",
+        "name": "Tópicos Especiais de História da Filosofia Medieval IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG743",
+        "name": "Tópicos Especiais de História da Filosofia Medieval V",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG744",
+        "name": "Tópicos Especiais de História da Filosofia Medieval VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG745",
+        "name": "Tópicos Especiais de História da Filosofia Medieval VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG746",
+        "name": "Tópicos Especiais de História da Filosofia Medieval VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG747",
+        "name": "Tópicos Especiais de História da Filosofia Medieval IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG748",
+        "name": "Tópicos Especiais de História da Filosofia Medieval X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia medieval, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG750",
+        "name": "Tópicos Especiais de História da Filosofia Moderna II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG751",
+        "name": "Tópicos Especiais de História da Filosofia Moderna III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG752",
+        "name": "Tópicos Especiais de História da Filosofia Moderna IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG753",
+        "name": "Tópicos Especiais de História da Filosofia Moderna V",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG754",
+        "name": "Tópicos Especiais de História da Filosofia Moderna VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG755",
+        "name": "Tópicos Especiais de História da Filosofia Moderna VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG756",
+        "name": "Tópicos Especiais de História da Filosofia Moderna VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG757",
+        "name": "Tópicos Especiais de História da Filosofia Moderna IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG758",
+        "name": "Tópicos Especiais de História da Filosofia Moderna X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG759",
+        "name": "Tópicos Especiais de História da Filosofia Moderna XI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG760",
+        "name": "Tópicos Especiais de História da Filosofia Moderna XII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia moderna, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG770",
+        "name": "Monografia I",
+        "credits": 8,
+        "syllabus": "Pesquisa a ser desenvolvida individualmente pelo aluno, sobre qualquer tema pertinente à Filosofia, sob orientação de um professor, tendo por resultado final uma dissertação (a ser julgada por uma banca).",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "HG207"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG880"
+        ]
+    },
+    {
+        "code": "HG804",
+        "name": "Lógica II",
+        "credits": 6,
+        "syllabus": "O curso tem como objetivo introduzir os principais sistemas lógicos não clássicos e os principais temas da filosofia da lógica, como a teoria da verdade e os paradoxos lógicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG805",
+        "name": "Lógica III",
+        "credits": 6,
+        "syllabus": "O curso tem o objetivo de introduzir as principais noções de teoria de conjuntos, na formulação padrão na lógica de primeira ordem, ZFC. Além das componentes formais, o curso introduz o debate sobre o papel fundacional da teoria de conjuntos na matemática.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG806",
+        "name": "Lógica IV",
+        "credits": 6,
+        "syllabus": "O curso tem o objetivo de introduzir as principais lógicas não clássicas e as aplicações delas aos principais problemas da filosofia da lógica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG810",
+        "name": "Tópicos Especiais de História da Filosofia V",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG811",
+        "name": "Tópicos Especiais de História da Filosofia VI",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG820",
+        "name": "Tópicos Especiais de Ética II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG821",
+        "name": "Tópicos Especiais de Ética III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG822",
+        "name": "Tópicos Especiais de Ética IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG823",
+        "name": "Tópicos Especiais de Ética V",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG824",
+        "name": "Tópicos Especiais de Ética VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG825",
+        "name": "Tópicos Especiais de Ética VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG826",
+        "name": "Tópicos Especiais de Ética VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG827",
+        "name": "Tópicos Especiais de Ética IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG828",
+        "name": "Tópicos Especiais de Ética X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG830",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG840",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG841",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da Filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG842",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG843",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea V",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG844",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG845",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG846",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG847",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG848",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG849",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea XI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG850",
+        "name": "Tópicos Especiais de História da Filosofia Contemporânea XII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia contemporânea, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG854",
+        "name": "Tópicos Especiais de Filosofia Política VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG855",
+        "name": "Tópicos Especiais de Filosofia Política VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG856",
+        "name": "Tópicos Especiais de Filosofia Política VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG857",
+        "name": "Tópicos Especiais de Filosofia Política IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG858",
+        "name": "Tópicos Especiais de Filosofia Política X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG859",
+        "name": "Tópicos Especiais de Filosofia Política XI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos sobre o assunto, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG861",
+        "name": "Estágio Supervisionado em Filosofia",
+        "credits": 6,
+        "syllabus": "A disciplina tem por objetivo desenvolver habilidades no ensino de filosofia, através da experiência de observação e interação com atividades de ensino de filosofia no sistema oficial de Ensino, subsidiadas por parâmetros teóricos e discussões coletivas e interdisciplinares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                },
+                {
+                    "code": "HG207"
+                },
+                {
+                    "code": "HG208"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG862"
+        ]
+    },
+    {
+        "code": "HG862",
+        "name": "Estágio Supervisionado em Filosofia II",
+        "credits": 6,
+        "syllabus": "A disciplina tem por objetivo desenvolver habilidades no ensino de filosofia, através da experiência de observação e interação com atividades de ensino de filosofia no sistema oficial de Ensino, subsidiadas por parâmetros teóricos e discussões coletivas e interdisciplinares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG861"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG870",
+        "name": "Tópicos Especiais de Filosofia da Lógica III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG871",
+        "name": "Tópicos Especiais de Filosofia da Lógica IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG872",
+        "name": "Tópicos Especiais de Filosofia da Lógica V",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG873",
+        "name": "Tópicos Especiais de Filosofia da Lógica VI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG874",
+        "name": "Tópicos Especiais de Filosofia da Lógica VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG875",
+        "name": "Tópicos Especiais de Filosofia da Lógica VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG876",
+        "name": "Tópicos Especiais de Filosofia da Lógica IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG877",
+        "name": "Tópicos Especiais de Filosofia da Lógica X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG878",
+        "name": "Tópicos Especiais de Filosofia da Lógica XI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG879",
+        "name": "Tópicos Especiais de Filosofia da Lógica XII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG880",
+        "name": "Monografia II",
+        "credits": 8,
+        "syllabus": "Pesquisa a ser desenvolvida individualmente pelo aluno, sobre qualquer tema pertinente à Filosofia, sob orientação de um professor, tendo por resultado final uma dissertação (a ser julgada por uma banca).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA475",
+                    "special": true
+                },
+                {
+                    "code": "HG770"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG891",
+        "name": "Estudo Dirigido I",
+        "credits": 4,
+        "syllabus": "Roteiro de leituras, sob orientação de um professor, sobre tema filosófico a ser escolhido pelo aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                },
+                {
+                    "code": "HG207"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG892"
+        ]
+    },
+    {
+        "code": "HG892",
+        "name": "Estudo Dirigido II",
+        "credits": 4,
+        "syllabus": "Roteiro de leituras, sob orientação de um professor, sobre tema filosófico a ser escolhido pelo aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA440",
+                    "special": true
+                },
+                {
+                    "code": "HG207"
+                },
+                {
+                    "code": "HG891"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG893"
+        ]
+    },
+    {
+        "code": "HG893",
+        "name": "Estudo Dirigido III",
+        "credits": 4,
+        "syllabus": "Roteiro de leitura, sob orientação de um professor, sobre tema filosófico a ser escolhido pelo aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA450",
+                    "special": true
+                },
+                {
+                    "code": "HG207"
+                },
+                {
+                    "code": "HG892"
+                }
+            ]
+        ],
+        "reqBy": [
+            "HG894"
+        ]
+    },
+    {
+        "code": "HG894",
+        "name": "Estudo Dirigido IV",
+        "credits": 4,
+        "syllabus": "Roteiro de leituras, sob orientação de um professor, sobre tema filosófico a ser escolhido pelo aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA460",
+                    "special": true
+                },
+                {
+                    "code": "HG207"
+                },
+                {
+                    "code": "HG893"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG901",
+        "name": "Tópicos Especiais de Lógica IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em lógica, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG902",
+        "name": "Tópicos Especiais de Lógica V",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em lógica, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG903",
+        "name": "Tópicos Especiais de Filosofia da Lógica I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG904",
+        "name": "Tópicos Especiais de Filosofia da Lógica II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia da lógica, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG905",
+        "name": "Tópicos Especiais de Epistemologia Geral III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG906",
+        "name": "Tópicos Especiais de Epistemologia Geral IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG907",
+        "name": "Tópicos Especiais de História da Filosofia I",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG908",
+        "name": "Tópicos Especiais de História da Filosofia II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG909",
+        "name": "Tópicos Especiais de História da Filosofia III",
+        "credits": 6,
+        "syllabus": "O curso de propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG910",
+        "name": "Tópicos Especiais de História da Filosofia IV",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG911",
+        "name": "Tópicos Especiais de Filosofia Geral II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG912",
+        "name": "Tópicos Especiais de Filosofia Geral III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG913",
+        "name": "Tópicos Especiais de Ética",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em ética, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG914",
+        "name": "Tópicos Especiais de Filosofia Política II",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG915",
+        "name": "Tópicos Especiais de Filosofia Política III",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG916",
+        "name": "Tópicos Especiais de Lógica VI",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em lógica, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG404"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG917",
+        "name": "Tópicos Especiais de História da Filosofia V",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG918",
+        "name": "Tópicos Especiais de História da Filosofia VI",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG201"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG202"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG919",
+        "name": "Tópicos Especiais de Epistemologia Geral V",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG920",
+        "name": "Tópicos Especiais de Epistemologia Geral VI",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em epistemologia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "HG304"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG921",
+        "name": "Tópicos Especiais de Filosofia Política IV",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG922",
+        "name": "Tópicos Especiais de Filosofia Política V",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia política, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG303"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG923",
+        "name": "Tópicos Especiais de Filosofia Geral IV",
+        "credits": 4,
+        "syllabus": "O curso se propõe a desenvolver tópicos em filosofia geral, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG930",
+        "name": "Tópicos Especiais de História da Filosofia VII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG931",
+        "name": "Tópicos Especiais de História da Filosofia VIII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG932",
+        "name": "Tópicos Especiais de História da Filosofia IX",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG933",
+        "name": "Tópicos Especiais de História da Filosofia X",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG934",
+        "name": "Tópicos Especiais de História da Filosofia XI",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG935",
+        "name": "Tópicos Especiais de História da Filosofia XII",
+        "credits": 6,
+        "syllabus": "O curso se propõe a desenvolver tópicos em história da filosofia, a partir de textos clássicos pertinentes, de acordo com as pesquisas em andamento no departamento de Filosofia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA420",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG301"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG302"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG401"
+                }
+            ],
+            [
+                {
+                    "code": "AA420",
+                    "special": true
+                },
+                {
+                    "code": "HG402"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "HG950",
+        "name": "História e Filosofia da Ciência",
+        "credits": 2,
+        "syllabus": "O curso destina-se a introduzir os estudantes na história da ciência e refletir sobre a relevância da história da ciência para a filosofia da ciência e vice-versa."
+    },
+    {
+        "code": "HG951",
+        "name": "Epistemologia da Biologia",
+        "credits": 2,
+        "syllabus": "O curso visa iniciar os estudantes em temas da epistemologia geral, mediante o estudo crítico de algumas dentre as mais importantes filosofias da ciência, e o recurso à história da ciência e à história do método científico."
+    }
+]

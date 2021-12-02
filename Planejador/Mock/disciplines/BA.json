@@ -1,0 +1,236 @@
+[
+    {
+        "code": "BA110",
+        "name": "Anatomia Humana I",
+        "credits": 4,
+        "syllabus": "Introdução ao estudo da Anatomia Humana. Organização morfofuncional do aparelho locomotor e sistemas circulatório e respiratório.",
+        "reqBy": [
+            "BA210"
+        ]
+    },
+    {
+        "code": "BA132",
+        "name": "Anatomia",
+        "credits": 2,
+        "syllabus": "Nomenclatura anatômica, princípios gerais da construção do corpo humano, anatomia do esqueleto cefálico, orelha, músculos da cabeça e pescoço, faringe, nariz, seios paranasais, laringe, traquéia e pulmões."
+    },
+    {
+        "code": "BA133",
+        "name": "Anatomia Humana Básica II",
+        "credits": 6,
+        "syllabus": "Métodos de estudo em Anatomia. Planos de construção do corpo humano. Leis gerais de crescimento e fatores gerais de variação. Estudo dos sistemas tegumentar, ósseo, articular, muscular, cardiovascular, respiratório, digestório, urinário, reprodutor masculino e feminino. Sistema nervoso e órgãos dos sentidos.",
+        "reqBy": [
+            "BA581",
+            "BF284",
+            "BP223",
+            "EN321",
+            "EN322"
+        ]
+    },
+    {
+        "code": "BA210",
+        "name": "Anatomia Humana II",
+        "credits": 4,
+        "syllabus": "Sistema nervoso e órgãos dos sentidos. Sistemas: Digestório e Endócrino. Sistemas: Urinário, Reprodutor Masculino e Reprodutor Feminino.",
+        "reqs": [
+            [
+                {
+                    "code": "BA110"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BF310",
+            "BF312",
+            "EF309"
+        ]
+    },
+    {
+        "code": "BA281",
+        "name": "Anatomia Humana Geral",
+        "credits": 4,
+        "syllabus": "Métodos de estudo em Anatomia. Planos de construção do corpo humano. Nomina anatômica e fatores gerais de variação. Conceitos anatômicos fundamentais dos sistemas orgânicos: ósseo, articular, muscular, cardiovascular, respiratório, digestório, urinário, reprodutor masculino e feminino, nervoso central e periférico.",
+        "reqBy": [
+            "BA581",
+            "BA582",
+            "BA583"
+        ]
+    },
+    {
+        "code": "BA480",
+        "name": "Anatomia Humana Geral",
+        "credits": 4,
+        "syllabus": "Métodos de estudo em Anatomia. Planos de construção do corpo humano. Nomina anatômica e fatores gerais de variação. Conceitos anatômicos fundamentais dos sistemas orgânicos: ósseo, articular, muscular, cardiovascular, respiratório, digestório, urinário, reprodutor masculino e feminino, nervoso central e periférico.",
+        "reqBy": [
+            "BA581",
+            "BA582",
+            "BA583"
+        ]
+    },
+    {
+        "code": "BA500",
+        "name": "Iniciação Científica em Anatomia I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Anatomia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BA581",
+        "name": "Esplancnologia",
+        "credits": 6,
+        "syllabus": "Esplancnologia: sistema circulatório, sistema respiratório, sistema digestório, sistema urogenital (urinário, genital masculino, genital feminino e glândulas mamárias).",
+        "reqs": [
+            [
+                {
+                    "code": "BA133"
+                }
+            ],
+            [
+                {
+                    "code": "BA281"
+                }
+            ],
+            [
+                {
+                    "code": "BA480"
+                }
+            ],
+            [
+                {
+                    "code": "BS215"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BA582",
+        "name": "Bases Anatômicas da Neurobiologia",
+        "credits": 6,
+        "syllabus": "Estudo da anatomia macroscópica e seccional do Sistema Nervoso Central. Vias aferentes e eferentes. Tronco encefálico: vias trigeminais. Cerebelo: vias e córtex cerebelar. Diencéfalo: tálamo, hipotálamo e hipófise. Telencéfalo: áreas motoras, sensitivas e de associação. Sistema límbico. Estudo de temas relacionados à neurobiologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BA281"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BA480"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BA583",
+        "name": "Biologia da Regeneração Nervosa",
+        "credits": 6,
+        "syllabus": "Bases da sobrevivência neuronal e regeneração do Sistema Nervoso após lesões centrais e periféricas e durante o curso de doenças neurodegenerativas. Papel da glia na neuroproteção e neurodegeneração. Modelos experimentais empregados no desenvolvimento de estratégias para regeneração nervosa, com ênfase em lesões do plexo branquial. Estudo anatômico dos plexos branquial e lombossacrale de modelos que mimetizam sua lesão/reparo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BA281"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BA480"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BA600",
+        "name": "Iniciação Científica em Anatomia II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Anatomia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BA692",
+        "name": "Ensino de Biologia 1: Anatomia",
+        "credits": 4,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Anatomia. Abordagem e elaboração de diferentes metodologias para o ensino de Anatomia. Articulação temática e integrada de temas contemporâneos para o ensino de biologia. Criação de conteúdos e formas de ensinar, pautados na ideia de transversalidade no currículo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BA700",
+        "name": "Estágio Supervisionado em Anatomia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de Anatomia, do Departamento de Biologia Funcional e Estrutural.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BA800",
+        "name": "Estágio Supervisionado em Anatomia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de Anatomia, do Departamento de Biologia Estrutural e Funcional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

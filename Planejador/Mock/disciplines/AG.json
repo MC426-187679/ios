@@ -1,0 +1,261 @@
+[
+    {
+        "code": "AG001",
+        "name": "Tópicos Especiais em Agronegócio I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "AG002",
+        "name": "Tópicos Especiais em Agronegócio II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "AG003",
+        "name": "Tópicos Especiais em Agronegócio III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "AG004",
+        "name": "Tópicos Especiais em Agronegócio IV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "AG200",
+        "name": "Fundamentos do Agronegócio",
+        "credits": 4,
+        "syllabus": "A importância do agronegócio para a dinâmica socioeconômica mundial e brasileira. Fatores que interferem na produtividade agrícola. Sistemas de Produção Agrícola. Integração agricultura-pecuária. Conceitos de segurança e soberania alimentar. Estratégias nacionais e internacionais para promoção da seguança alimentar. Evolução Agrícola, Sustentabilidade e Segurança Alimentar.",
+        "reqs": [
+            [
+                {
+                    "code": "MG100"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AG300"
+        ]
+    },
+    {
+        "code": "AG300",
+        "name": "Gestão de Cadeias Agroindustriais",
+        "credits": 4,
+        "syllabus": "Commodity system approach e conceito de agronegócio: Análise de Filiéres (ou cadeias de produção). Níveis de análise do sistema agroindustrial. Sistema agroindustrial, a visão sistêmica e a mesoanálise. Principais aplicações do conceito de cadeia de produção agroindustrial. Câmaras Setoriais. Gestão da Qualidade na Agroindústria.",
+        "reqs": [
+            [
+                {
+                    "code": "AG200"
+                }
+            ],
+            [
+                {
+                    "code": "MG100"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AG806"
+        ]
+    },
+    {
+        "code": "AG600",
+        "name": "Agronegócio e Sustentabilidade",
+        "credits": 4,
+        "syllabus": "Conceitos de Global Reporting Initiative (GRI). Conceitos de Economia Verde. Energia Renovável. Sustentabilidade na cadeia produtiva. Mudanças Climáticas e Produção Agropecuária. Plataformas de Sustentabilidade. Certificação Ambiental. Conceitos de Roundtable and Stewardship relacionados a sustentabilidade."
+    },
+    {
+        "code": "AG700",
+        "name": "Economia do Agronegócio",
+        "credits": 4,
+        "syllabus": "Introdução à Comercialização de Produtos Agrícolas; Fundamentos de oferta e demanda; Elasticidades; Mercados e preços agrícolas; Organização e Desenvolvimento de Mercados; Custos de Comercialização; Análise e Acompanhamento de Mercados Físicos; Distribuição de Alimentos; Gestão de Risco e incertezas; Contratos e Seguros Agrícolas; Noções introdutórias e estratégias em Mercado Futuro e de Opções; Análise Fundamentalista e Grafista; Planejamento da Comercialização, estoques e safras; Comércio internacional de commodities e políticas comerciais.",
+        "reqs": [
+            [
+                {
+                    "code": "GL502"
+                }
+            ],
+            [
+                {
+                    "code": "MG100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG701",
+        "name": "Elaboração de Projetos de Agronegócio I",
+        "credits": 2,
+        "syllabus": "Conceitos básicos sobre projetos, plano de negócios e empreendedorismo. Aspectos administrativos, legais, mercadológicos, técnicos, econômicos e financeiros. Custo e financiamento. Estudo de viabilidade. Análise de risco. Elaboração de projeto ou plano de negócio incluindo aspectos de agronegócio.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ],
+        "reqBy": [
+            "AG801"
+        ]
+    },
+    {
+        "code": "AG702",
+        "name": "Sistemas e Gestão de Cadeias Agroindustriais",
+        "credits": 4,
+        "syllabus": "Commodity system approach e conceito de agronegócio: Cadeias e sistemas agroinsdustriais. Redes de empresas. Uso de matriz insumo-produto. Resposta eficiente ao consumidor. Coordenação de cadeias e sistemas. Aplicação de instrumentos de desenho e análise de cadeias.",
+        "reqs": [
+            [
+                {
+                    "code": "GL506"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG703",
+        "name": "Segurança Alimentar e Ambiental I",
+        "credits": 4,
+        "syllabus": "Conceitos de segurança alimentar e de alimentação segura. Panorama de estudos em segurança alimentar. Política de segurança alimentar e meio ambiente. Experiências internacionais e brasileiras. Análises estatísticas do problema de segurança alimentar.",
+        "reqBy": [
+            "AG802"
+        ]
+    },
+    {
+        "code": "AG704",
+        "name": "Laboratório de Agronegócios",
+        "credits": 2,
+        "syllabus": "Jogos simulando processo de decisão e avaliação de resultados na gestão de empresas em diversas situações de concorrência em agronegócio.",
+        "reqs": [
+            [
+                {
+                    "code": "GL503"
+                },
+                {
+                    "code": "GL603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG705",
+        "name": "Logística Agroindustrial",
+        "credits": 4,
+        "syllabus": "Fundamentos e conceitos gerais de Logística aplicados ao Agronegócio. Localização das atividades econômicas. Teoria da Localização. Caracterização dos sistemas de transporte em agronegócios: sistema rodoviário, sistema ferroviário, sistema hidroviário, sistema portuário. Armazenagem, manuseio e acondicionamento de produtos. Gestão da Logística de Suprimentos para o segmento agroindustrial. Políticas de transporte. Fundamentos da Regulação de Transportes. Logística Agroindustrial Brasileira: atualidade e principais desafios.",
+        "reqs": [
+            [
+                {
+                    "code": "MG100"
+                }
+            ],
+            [
+                {
+                    "code": "MG500"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG706",
+        "name": "Política Agrícola",
+        "credits": 4,
+        "syllabus": "Retrospectiva histórica da agricultura brasileira. Política agrícola para o meio rural: política agrícola e política agrária. Instrumentos de política agrícola: preços mínimos, controle da oferta; estoques reguladores; subsídios, impostos, preços máximos. Evolução da política agrícola no Brasil. Reforma Agrária e Política Fundiária.",
+        "reqs": [
+            [
+                {
+                    "code": "MG100"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG800",
+        "name": "Organização de Mercados do Agronegócio",
+        "credits": 4,
+        "syllabus": "Caracterização dos empreendimentos rurais e mercados do agronegócio. Particularidades dos produtos agroindustriais: oferta e demanda. Mecanismos de comercialização: transações de commodities em mercados spot, a termos futuros, papel do hedging, contratos de longo prazo. O papel do arcabouço regulatório na organização e evolução dos mercados. Otimização de cadeias de comercialização e o papel das novas tecnologias. Determinantes da competitividade das empresas e das cadeias produtivas.",
+        "reqs": [
+            [
+                {
+                    "code": "GL603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG801",
+        "name": "Elaboração de Projetos de Agronegócio II",
+        "credits": 2,
+        "syllabus": "Continuação da elaboração de projeto ou plano de negócios iniciada na disciplina Elaboração de Projetos de Agronegócio I.",
+        "reqs": [
+            [
+                {
+                    "code": "AG701"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG802",
+        "name": "Segurança Alimentar e Ambiental II",
+        "credits": 4,
+        "syllabus": "Forças de mercado e restrições agroambientais. Evolução da consciência ambiental e fracionamento do mercado. Custos ambientais dos sistemas convencionais: avaliação e contabilização. O conceito de agro-ecologia. Tecnologia e custo de produção de sistemas produtivos complexos. Certificação diferenciada como estratégia de ampliação do mercado. Elaboração de relatórios de Impacto Ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "AG703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG803",
+        "name": "Associativismo e Gestão de Cooperativas",
+        "credits": 2,
+        "syllabus": "Tipologia das formas de associação. Cooperativas agroindustriais: evolução e panorama atual. Inserção na cadeia do agronegócio. Características e desafios da gestão cooperativa. Experiências internacionais e no Brasil."
+    },
+    {
+        "code": "AG804",
+        "name": "Gestão de Qualidade na Agroindústria",
+        "credits": 2,
+        "syllabus": "Conceitos e Ferramentas da Qualidade. Diagrama de Pareto. Diagrama de Ishikawa. MASP - Método de Análise e Solução de Problemas. Ciclo PDCA. Qualidade de Produto. Desenvolvimento de Novos Produtos. Análise Descritiva Quantitativa. Qualidade de Processos. Análise de Perigos e Pontos Críticos de Processo (APPCC/HACCP). Boas Práticas de Fabricação (BPF/GMP). Rastreabilidade. Sistemas de Gestão da Qualidade. NBR ISO 9001. NBR ISO 22000. Certificado de Origem.",
+        "reqs": [
+            [
+                {
+                    "code": "LE803"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG805",
+        "name": "Prospecção Tecnológica em Sistemas Agroindustriais",
+        "credits": 4,
+        "syllabus": "Princípios metodológicos básicos sobre gestão de C, T e I. Elementos conceituais de economia da tecnologia no agronegócio. Métodos de gestão aplicados ao desenvolvimento tecnológico e inovação na agricultura e na agroindústria.",
+        "reqs": [
+            [
+                {
+                    "code": "GL603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "AG806",
+        "name": "Comercialização e Marketing do Agronegócio",
+        "credits": 4,
+        "syllabus": "Caracterização dos empreendimentos rurais e mercados do agronegócio. Particularidades dos produtos agroindustriais: oferta e demanda. Mecanismos de comercialização: transações de commodities em mercados spot, a termos futuros, papel do hedging, contratos de longo prazo. O papel do arcabouço regulatório na organização e evolução dos mercados. Otimização de cadeias de comercialização e o papel das novas tecnologias. Marketing no Agronegócio. Segmentação de Mercado. Estratégias de Diferenciação: Certificação de Origem e Indicação Geográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "AG300"
+                }
+            ],
+            [
+                {
+                    "code": "MG100"
+                }
+            ]
+        ]
+    }
+]

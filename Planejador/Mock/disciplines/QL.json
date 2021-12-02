@@ -1,0 +1,43 @@
+[
+    {
+        "code": "QL701",
+        "name": "Projetos Integrados",
+        "credits": 6,
+        "syllabus": "Execução de projetos de Ensino de Química, com articulação de aspectos conceituais desenvolvidos com abordagem teórica e/ou experimental e/ou com aplicação de recursos de informática e outras mídias, direcionados para o ensino médio. A fundamentação dos projetos envolve levantamento bibliográfico crítico e dirigido, com posterior elaboração de texto descritivo da proposta executada. As atividades são orientadas de maneira integrada por profissionais do Instituto de Química e da Faculdade da Educação da Unicamp.",
+        "reqs": [
+            [
+                {
+                    "code": "QG760"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QL702",
+        "name": "Atividades Científico-Culturais I",
+        "credits": 2,
+        "syllabus": "Contato com a produção e divulgação de conhecimentos da Química, da Educação e de áreas afins em atividades científicas e culturais, a partir da participação em eventos como congressos, seminários, palestras e oficinas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "QL703",
+        "name": "Atividades Científico-Culturais II",
+        "credits": 2,
+        "syllabus": "Interação com a produção e a divulgação de conhecimentos da Química, da Educação e de áreas afins em atividades científicas e culturais, mediante a participação comprovada em congressos, seminários, palestras e oficinas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

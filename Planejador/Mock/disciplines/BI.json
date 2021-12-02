@@ -1,0 +1,216 @@
+[
+    {
+        "code": "BI214",
+        "name": "Imunologia",
+        "credits": 3,
+        "syllabus": "Mecanismos naturais de resistência. Fisiologia da resposta imune. Resposta humoral. Resposta celular. Reações antígeno-anticorpo. Imunopatologia.",
+        "reqs": [
+            [
+                {
+                    "code": "BB123"
+                },
+                {
+                    "code": "BH125"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BI573",
+            "EN470"
+        ]
+    },
+    {
+        "code": "BI315",
+        "name": "Imunologia",
+        "credits": 4,
+        "syllabus": "Resposta imune inata e adaptativa. Órgãos e células envolvidas na resposta imune. Imunopatologias. Imunoprofilaxia. Diagnóstico.",
+        "reqs": [
+            [
+                {
+                    "code": "BS115"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BI573",
+            "BM415",
+            "MD190"
+        ]
+    },
+    {
+        "code": "BI381",
+        "name": "Imunologia Básica",
+        "credits": 4,
+        "syllabus": "Propriedades gerais das respostas imunes, abordando os componentes do sistema imune inato e do sistema imune adaptativo, com ênfase na organização estrutural  e funcional. Bases moleculares celulares do reconhecimento de antígenos pelos linfócitos B e T. Desenvolvimento, amadurecimento e ativação de linfócitos. Mecanismos efetores das respostas imunológicas que mantêm a integridade e a homeostasia do hospedeiro. Elaboração de relatórios de aulas práticas e apresentação de seminários em tópicos de Imunologia.",
+        "reqs": [
+            [
+                {
+                    "code": "BC282"
+                }
+            ],
+            [
+                {
+                    "code": "BC283"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BI573",
+            "BI583",
+            "BI584",
+            "BI780"
+        ]
+    },
+    {
+        "code": "BI500",
+        "name": "Iniciação Científica em Imunologia I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Imunologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BI520",
+        "name": "Imunologia Básica",
+        "credits": 4,
+        "syllabus": "Propriedades gerais das respostas imunes, abordando os componentes do sistema imune inato e do sistema imune adaptativo, com ênfase na organização estrutural  e funcional. Bases moleculares celulares do reconhecimento de antígenos pelos linfócitos B e T. Desenvolvimento, amadurecimento e ativação de linfócitos. Mecanismos efetores das respostas imunológicas que mantêm a integridade e a homeostasia do hospedeiro. Elaboração de relatórios de aulas práticas e apresentação de seminários em tópicos de Imunologia.",
+        "reqs": [
+            [
+                {
+                    "code": "BC282"
+                }
+            ],
+            [
+                {
+                    "code": "BC283"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BI573",
+        "name": "Imunologia Comparada",
+        "credits": 4,
+        "syllabus": "Revisão comparada das propriedades gerais das respostas imunes, abordando comparativamente os componentes do sistema imune inato e do sistema imune adaptativo  de diferentes organismos vivos. Aspectos básicos da evolução do sistema imune. Imunidade celular e humoral de invertebrados. Surgimento da imunidade adaptativa e comparação da imunidade adaptativa entre peixes mandibulados e ágnatas. Sistema imune de vertebrados (peixes, anfíbios, repteis, aves e mamíferos). ",
+        "reqs": [
+            [
+                {
+                    "code": "BI214"
+                }
+            ],
+            [
+                {
+                    "code": "BI315"
+                }
+            ],
+            [
+                {
+                    "code": "BI381"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BI583",
+        "name": "Imunologia",
+        "credits": 4,
+        "syllabus": "Genética da resposta imune. Moléculas do sistema imune. Macromoléculas antigênicas. Imunoglobulinas. Marcadores de heterogenicidade e os gens da diversidade de anticorpos. Interleucinas e complemento. Regulação. Metodologia imunológica. Radioimuno ensaio e métodos imunoenzimáticos. Clonotipagem celular. Produção de anticorpos monoclonais.",
+        "reqs": [
+            [
+                {
+                    "code": "BI381"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BI584",
+        "name": "Imunopatogênese das Doenças Tropicais",
+        "credits": 4,
+        "syllabus": "Mecanismos de patogenicidade relacionados as respostas imunes, inata e adaptativa, frente aos aspectos patológicos das principais doenças causadas por parasitas, bactérias ou vírus comumente relacionadas a condições climáticas quentes e úmidas (tropicais) e de relevantes impacto mundial.",
+        "reqs": [
+            [
+                {
+                    "code": "BI381"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BI600",
+        "name": "Iniciação Científica em Imunologia II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Imunologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BI700",
+        "name": "Estágio Supervisionado em Imunologia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Genética, Evolução e Bioagentes, área de Imunologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BI780",
+        "name": "Tópicos Especiais em Imunologia",
+        "credits": 4,
+        "syllabus": "Técnicas de uso corrente utilizadas em Laboratórios de Imunologia: 1) Segurança no laboratório; 2) Lavagem e preparo de vidrarias; 3) Dosagem de proteínas; 4) Preparo de soluções básicas e meios de cultura; 5) Ética na manipulação de animais de laboratório; 6) Manutenção de animais em unidades isoladoras; 7) Obtenção de órgãos linfoides de animais; 8) Preparo de suspensões celulares; 9) Técnicas imuno-histoquímicas; 10) Técnicas imunoenzimáticas; 11) Preparo de vacinas e 12) Produção de anticorpos policlonais.",
+        "reqs": [
+            [
+                {
+                    "code": "BI381"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BI800",
+        "name": "Estágio Supervisionado em Imunologia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em Imunologia, junto ao Departamento de Genética, Evolução e Bioagentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

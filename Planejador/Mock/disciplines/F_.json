@@ -1,0 +1,2561 @@
+[
+    {
+        "code": "F 008",
+        "name": "Introdução à Física",
+        "credits": 6,
+        "syllabus": "Introdução à ciência como forma de conhecimento. A matemática como linguagem da ciência. Grandezas, unidades e medidas. Movimentos no Universo. Energia e potência. Leis do movimento de Newton. Física térmica. Oscilações e Ondas. Ondas sonoras. Óptica. Ondas eletromagnéticas. "
+    },
+    {
+        "code": "F 010",
+        "name": "Estágio em Empresas Júnior - Física",
+        "credits": 4,
+        "syllabus": "Estudo de situações reais em Física, desenvolvimento e acompanhamento de projetos em Física - pesquisa, desenvolvimento, divulgação, ensino - junto a uma Empresa Júnior. O estágio é orientado bilateralmente, incluindo um docente do curso e é concluída com a apresentação de um relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 011",
+        "name": "Tópicos de Física Aplicada I",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Aplicada I",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 012",
+        "name": "Tópicos de Física Aplicada II",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Aplicada II",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 013",
+        "name": "Tópicos de Física Aplicada III",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Aplicada III",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 014",
+        "name": "Tópicos de Física Aplicada IV",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Aplicada IV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 015",
+        "name": "Tópicos de Física Aplicada V",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Aplicada V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 016",
+        "name": "Tópicos de Física Aplicada VI",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Aplicada VI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 017",
+        "name": "Tópicos de Física Aplicada VII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Aplicada VII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 018",
+        "name": "Tópicos de Física Aplicada VIII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Aplicada VIII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 021",
+        "name": "Tópicos de Física da Matéria Condensada I",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física da Matéria Condensada I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 022",
+        "name": "Tópicos de Física da Matéria Condensada II",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física da Matéria Condensada II.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 023",
+        "name": "Tópicos de Física da Matéria Condensada III",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física da Matéria Condensada III.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 024",
+        "name": "Tópicos de Física da Matéria Condensada IV",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física da Matéria Condensada IV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 025",
+        "name": "Tópicos de Física da Matéria Condensada V",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física da Matéria Condensada V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 026",
+        "name": "Tópicos de Física da Matéria Condensada VI",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física da Matéria Condensada VI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 027",
+        "name": "Tópicos de Física da Matéria Condensada VII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física da Matéria Condensada VII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 028",
+        "name": "Tópicos de Física da Matéria Condensada VIII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física da Matéria Condensada VIII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 031",
+        "name": "Tópicos de Astronomia e Astrofísica I",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Astronomia e Astrofísica I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 032",
+        "name": "Tópicos de Astronomia e Astrofísica II",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Astronomia e Astrofísica II.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 033",
+        "name": "Tópicos de Astronomia e Astrofísica III",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Astronomia e Astrofísica III.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 034",
+        "name": "Tópicos de Astronomia e Astrofísica IV",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Astronomia e Astrofísica IV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 035",
+        "name": "Tópicos de Astronomia e Astrofísica V",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Astronomia e Astrofísica V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 036",
+        "name": "Tópicos de Astronomia e Astrofísica VI",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Astronomia e Astrofísica VI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 037",
+        "name": "Tópicos de Astronomia e Astrofísica VII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Astronomia e Astrofísica VII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 038",
+        "name": "Tópicos de Astronomia e Astrofísica VIII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Astronomia e Astrofísica VIII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 041",
+        "name": "Tópicos de Física Matemática I",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Matemática I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 042",
+        "name": "Tópicos de Física Matemática II",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Matemática II.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 043",
+        "name": "Tópicos de Física Matemática III",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Matemática III.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 044",
+        "name": "Tópicos de Física Matemática IV",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Matemática IV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 045",
+        "name": "Tópicos de Física Matemática V",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Matemática V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 046",
+        "name": "Tópicos de Física Matemática VI",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Matemática VI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 047",
+        "name": "Tópicos de Física Matemática VII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Matemática VII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 048",
+        "name": "Tópicos de Física Matemática VIII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Matemática VIII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 051",
+        "name": "Tópicos de Física Computacional I",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Computacional I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 052",
+        "name": "Tópicos de Física Computacional II",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Computacional II.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 053",
+        "name": "Tópicos de Física Computacional III",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Computacional III.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 054",
+        "name": "Tópicos de Física Computacional IV",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Computacional IV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 055",
+        "name": "Tópicos de Física Computacional V",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Computacional V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 056",
+        "name": "Tópicos de Física Computacional VI",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Computacional VI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 057",
+        "name": "Tópicos de Física Computacional VII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Computacional VII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 058",
+        "name": "Tópicos de Física Computacional VIII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Computacional VIII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 061",
+        "name": "Tópicos de História da Física I",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de História da Física I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 062",
+        "name": "Tópicos de História da Física II",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de História da Física II.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 063",
+        "name": "Tópicos de História da Física III",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de História da Física III.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 064",
+        "name": "Tópicos de História da Física IV",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de História da Física IV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 065",
+        "name": "Tópicos de História da Física V",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de História da Física V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 066",
+        "name": "Tópicos de História da Física VI",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de História da Física VI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 067",
+        "name": "Tópicos de História da Física VII",
+        "credits": 4,
+        "syllabus": "Tópcos atuais de História da Física VII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 068",
+        "name": "Tópicos de História da Física VIII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de História da Física VIII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 071",
+        "name": "Tópicos de Física Clássica I",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Clássica I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 072",
+        "name": "Tópicos de Física Clássica II",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Clássica II.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 073",
+        "name": "Tópicos de Física Clássica III",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Clássica III.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 074",
+        "name": "Tópicos de Física Clássica IV",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Clássica IV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 075",
+        "name": "Tópicos de Física Clássica V",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Clássica V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 076",
+        "name": "Tópicos de Física Clássica VI",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Clássica VI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 077",
+        "name": "Tópicos de Física Clássica VII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Clássica VII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 078",
+        "name": "Tópicos de Física Clássica VIII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Clássica VIII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 081",
+        "name": "Tópicos de Física Experimental I",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Experimental I.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 082",
+        "name": "Tópicos de Física Experimental II",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Experimental II.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 083",
+        "name": "Tópicos de Física Experimental III",
+        "credits": 2,
+        "syllabus": "Tópicos atuais de Física Experimental III.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 084",
+        "name": "Tópicos de Física Experimental IV",
+        "credits": 2,
+        "syllabus": "Tópicos de Física Experimental IV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 085",
+        "name": "Tópicos de Física Experimental V",
+        "credits": 2,
+        "syllabus": "Tópicos de Física Experimental V.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 086",
+        "name": "Tópicos de Física Experimental VI",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Experimental VI.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 087",
+        "name": "Tópicos de Física Experimental VII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Experimental VII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 088",
+        "name": "Tópicos de Física Experimental VIII",
+        "credits": 4,
+        "syllabus": "Tópicos atuais de Física Experimental VIII.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 091",
+        "name": "Tópicos em Física, Raios Cósmicos e Partículas Elementares I",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 092",
+        "name": "Tópicos em Física, Raios Cósmicos e Partículas Elementares II",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 093",
+        "name": "Tópicos em Física, Raios Cósmicos e Partículas Elementares III",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 094",
+        "name": "Tópicos em Física, Raios Cósmicos e Partículas Elementares IV",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 095",
+        "name": "Tópicos em Física, Raios Cósmicos e Partículas Elementares V",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 096",
+        "name": "Tópicos de Física, Raios Cósmicos e Partículas Elementares VI",
+        "credits": 4,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 097",
+        "name": "Tópicos de Física, Raios Cósmicos e Partículas Elementares VII",
+        "credits": 4,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 098",
+        "name": "Tópicos de Física, Raios Cósmicos e Partículas Elementares VIII",
+        "credits": 4,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 105",
+        "name": "Física da Fala e Audição",
+        "credits": 4,
+        "syllabus": "Elementos básicos da física acústica: movimento harmônico simples, fenômenos ondulatórios e características das ondas sonoras. Teoria da audição e fonação: princípios físicos e eletroacústica. Elementos básicos de eletroacústicas para a compreenção dos aparelhos eletrônicos.",
+        "reqBy": [
+            "FN205"
+        ]
+    },
+    {
+        "code": "F 107",
+        "name": "Física (Biologia)",
+        "credits": 4,
+        "syllabus": "Introdução. Medidas e unidades. Conceitos de erro experimental e método científico. Princípios de Mecânica Quântica. Radiação. Física Atômica. Física Nuclear e aplicações biomédicas. Conservação de energia. Calor e temperatura: introdução à termodinâmica. Fluidos viscosos. Aplicações biológicas. Eletricidade: carga, campo elétrico e corrente elétrica. Bioeletricidade. Introdução ao magnetismo.",
+        "reqBy": [
+            "FR402",
+            "FR703"
+        ]
+    },
+    {
+        "code": "F 108",
+        "name": "Física Geral e Experimental I",
+        "credits": 6,
+        "syllabus": "Cinemática do ponto. Leis de Newton. Estática e dinâmica da partícula. Trabalho e energia. Conservação da energia. Momento linear e sua conservação. Colisões. Momento Angular da partícula e de sistema de partículas. Rotação de Corpos Rígidos. Experiências de laboratório baseadas na matéria ministrada nas aulas teóricas.",
+        "reqBy": [
+            "F 308"
+        ]
+    },
+    {
+        "code": "F 110",
+        "name": "Introdução à Física para Ciências Humanas e da Terra",
+        "credits": 4,
+        "syllabus": "Leis de Newton e Gravitação; Oscilações e ondas; Óptica (teoria corpuscular e ondulatória); Termodinâmica e entropia; Relatividade restrita; Física quântica; Evolução das teorias físicas: de Newton a Schrödinger; Física nuclear; Física atômica e molecular."
+    },
+    {
+        "code": "F 128",
+        "name": "Física Geral I",
+        "credits": 4,
+        "syllabus": "Cinemática do ponto. Leis de Newton. Estática e dinâmica da partícula. Trabalho e energia. Conservação da Energia. Momento linear e sua conservação. Colisões. Momento angular da partícula e de sistemas de partículas. Rotação de corpos rígidos.",
+        "reqBy": [
+            "CV301",
+            "EC321",
+            "EC322",
+            "EE521",
+            "F 228",
+            "F 229",
+            "F 308",
+            "F 313",
+            "F 315",
+            "F 328",
+            "F 328",
+            "FA370",
+            "FA379",
+            "FA470",
+            "FT210",
+            "FT411",
+            "MS520",
+            "TA431"
+        ]
+    },
+    {
+        "code": "F 129",
+        "name": "Física Experimental I",
+        "credits": 2,
+        "syllabus": "Grandezas físicas e suas medidas. Erros. Instrumentos de medida. Tabelas, gráficos. Leis de Newton. Lei de Hooke. Estatística de dados, método de mínimos quadrados e propagação de erros. Movimento bidimensional. Conservação de energia. Colisões e conservação do movimento linear.",
+        "reqBy": [
+            "CV301",
+            "EC321",
+            "EC322",
+            "EE521",
+            "F 229",
+            "F 308",
+            "F 329",
+            "F 329",
+            "F 429",
+            "FA370",
+            "FT411"
+        ]
+    },
+    {
+        "code": "F 149",
+        "name": "Desenvolvimento de Novos Materiais",
+        "credits": 2,
+        "syllabus": "Técnicas de preparação de materiais volumétricos: reação do estado sólido, técnica de fluxo metálico, fusão a arco, fusão por zona flutuante, etc. Critérios de estabilidade de estrutura. Síntese por aproximação através da substituição química por similitude de valência ou raio iônico. Critérios de busca por propriedade física desejada.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos da Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 589"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 228",
+        "name": "Física Geral II",
+        "credits": 4,
+        "syllabus": "Oscilações. Gravitação. Ondas em meios elásticos. Ondas sonoras. Hidrostática e hidrodinâmica. Viscosidade. Temperatura. Calorimetria e condução de calor. Leis da termodinâmica; teoria cinética dos gases.\nObs.: Recomenda-se que seja cursada previamente MA151 ou disciplina equivalente.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE300",
+            "EE521",
+            "EE522",
+            "EM524",
+            "F 320",
+            "FT310",
+            "FT411"
+        ]
+    },
+    {
+        "code": "F 229",
+        "name": "Física Experimental II",
+        "credits": 2,
+        "syllabus": "Experiências de laboratório sobre: oscilações, gravitação, ondas em meios elásticos, ondas sonoras, hidrostática e hidrodinâmica, viscosidade, temperatura, calorimetria e condução de calor, leis da termodinâmica e teoria cinética dos gases.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "F 129"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE301",
+            "EE521",
+            "EE522",
+            "EM524"
+        ]
+    },
+    {
+        "code": "F 249",
+        "name": "Óptica Aplicada",
+        "credits": 2,
+        "syllabus": "Fontes e Detectores de Luz: fontes contínuas (térmicas), discretas (espectrais) e monocromáticas; detectores térmicos e quânticos. Radiometria, Fotometria, Colorimetria e Espectrometria. Formação de Imagens: aproximação paraxial, sistemas espessos, efeito das aberturas (luminosidade e campo de imagem), aberrações: geométricas e cromática, resolução (efeitos de difração). Lentes de Fresnel. Sistemas Ópticos: microscópios, telescópios, objetivas, condensadores, etc. Aplicações envolvendo a polarização da luz: elipsometria, polarimetria, moduladores, mostradores de cristal líquido, etc. Interferometria: medida de pequenas dimensões, deslocamentos e topografia de superfícies. Filmes Finos: espelhos frios, filtros de interferência e antirrefletores.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos da Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 429"
+                },
+                {
+                    "code": "F 589"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 308",
+        "name": "Física Geral e Experimental III",
+        "credits": 6,
+        "syllabus": "Lei de Coulomb e campo elétrico. Lei de Gauss. Potencial elétrico. Capacitores e dielétricos. Corrente, resistência e força eletromotriz. Circuitos e instrumentos de corrente contínua. Campo magnético de uma corrente. Forças magnéticas sobre correntes. Força eletromotriz induzida. Circuitos de corrente alternada. Experiências de laboratório baseadas na matéria ministrada nas aulas teóricas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 108"
+                },
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "MA141"
+                }
+            ],
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "F 129"
+                },
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "MA141"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 313",
+        "name": "Mecânica Geral",
+        "credits": 4,
+        "syllabus": "Fundamentos da mecânica newtoniana. Estática e dinâmica do ponto material. Sistemas de partículas. Referenciais acelerados. Sistemas de forças aplicados a um corpo rígido. Estática e dinâmica dos corpos rígidos. Vínculos, graus de liberdade, princípio dos trabalhos virtuais.\nObs.: Os alunos do curso de Física não poderão cursar esta disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "MA141"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM423"
+        ]
+    },
+    {
+        "code": "F 315",
+        "name": "Mecânica Geral I",
+        "credits": 4,
+        "syllabus": "Revisão de matrizes e cálculo vetorial. Mecânica Newtoniana. Oscilações lineares. Oscilações não lineares e Caos. Gravitação. Cálculo variacional. Equações de Lagrange e de Hamilton.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV411",
+            "CV431",
+            "CV511",
+            "EM423",
+            "EQ541",
+            "F 415",
+            "LE500"
+        ]
+    },
+    {
+        "code": "F 320",
+        "name": "Termodinâmica",
+        "credits": 4,
+        "syllabus": "Sistemas termodinâmicos, reversibilidade, termometria. Variáveis e equações de estado, diagramas PVT. Trabalho e primeira lei da termodinâmica. Equivalente mecânico de calor. Energia interna, entalpia, ciclo de Carnot. Mudanças de fase. Segunda lei da termodinâmica e entropia. Funções termodinâmicas. Aplicações práticas de termodinâmica. Teoria cinética dos gases. Distribuição de velocidades moleculares.",
+        "reqs": [
+            [
+                {
+                    "code": "F 228"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 604",
+            "F 604",
+            "LE501"
+        ]
+    },
+    {
+        "code": "F 328",
+        "name": "Física Geral III",
+        "credits": 4,
+        "syllabus": "Lei de Coulomb, Campo Elétrico, Lei de Gauss, Potencial Elétrico, Capacitância, Corrente e Resistência, Força Eletromotriz e Circuitos Elétricos, Campo Magnético, Lei de Ampère, Lei da Indução de Faraday, Indutância, Propriedades Magnéticas da Matéria, Oscilações Eletromagnéticas, Correntes Alternadas, Equações de Maxwell.\nObs.: Recomenda-se que seja cursada previamente MA251 ou disciplina equivalente.",
+        "reqs": [
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "MA111"
+                },
+                {
+                    "code": "MA141"
+                }
+            ],
+            [
+                {
+                    "code": "F 128"
+                },
+                {
+                    "code": "GE504"
+                },
+                {
+                    "code": "MA141"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV532",
+            "ET016",
+            "ET017",
+            "ET520",
+            "ET521",
+            "ET616",
+            "F 428",
+            "F 609",
+            "FT741",
+            "FT741",
+            "GE703",
+            "QF530",
+            "QF535",
+            "QF536",
+            "TA737"
+        ]
+    },
+    {
+        "code": "F 329",
+        "name": "Física Experimental III",
+        "credits": 2,
+        "syllabus": "Experiências de laboratório sobre: lei de Coulomb e campo elétrico, lei de Gauss, potencial elétrico, capacitores e dielétricos, corrente, resistência e força eletromotriz, circuitos e instrumentos de corrente contínua, campo magnético de uma corrente, forças magnéticas sobre correntes, força eletromotriz induzida e circuitos de corrente alternada.",
+        "reqs": [
+            [
+                {
+                    "code": "F 129"
+                },
+                {
+                    "code": "MA111"
+                }
+            ],
+            [
+                {
+                    "code": "F 129"
+                },
+                {
+                    "code": "GE504"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CV532",
+            "ET017",
+            "ET616",
+            "F 429",
+            "F 609",
+            "FA425",
+            "FA474"
+        ]
+    },
+    {
+        "code": "F 349",
+        "name": "Introdução à Teoria de Informação: Aspectos Clássicos e Quânticos",
+        "credits": 4,
+        "syllabus": "Definição de informação; entropia, entropia relativa e informação mútua; redundância de códigos; princípios de codificação de erros; princípios de mecânica quântica, definição de canais quânticos, origem de ruídos em sistemas de comunicação e informação quânticos; códigos quânticos de correção de erros; introdução à criptografia.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos da Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 689"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 415",
+        "name": "Mecânica Geral II",
+        "credits": 4,
+        "syllabus": "Forças centrais. Sistemas de partículas. Referenciais não inerciais. Dinâmica de corpos rígidos. Oscilações acopladas. Meios contínuos e ondas. Teoria especial da Relatividade.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos da Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 315"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 515"
+        ]
+    },
+    {
+        "code": "F 428",
+        "name": "Física Geral IV",
+        "credits": 4,
+        "syllabus": "Ondas Eletromagnéticas, Óptica Geométrica, Interferência, Difração, Teoria da Relatividade, Física Quântica, Modelos Atômicos, Condução de Eletricidade em Sólidos, Física Nuclear, Quarks, Léptons, e o Big-Bang.\nObs.: Recomenda-se que seja cursada previamente MA351 ou disciplina equivalente.",
+        "reqs": [
+            [
+                {
+                    "code": "EE521"
+                }
+            ],
+            [
+                {
+                    "code": "F 328"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ET521",
+            "F 502",
+            "F 520",
+            "F 530",
+            "F 540",
+            "F 550",
+            "F 589",
+            "F 640",
+            "F 740",
+            "F 790",
+            "F 809",
+            "F 838",
+            "F 839",
+            "F 840",
+            "F 901",
+            "LE700",
+            "MS620",
+            "QF637"
+        ]
+    },
+    {
+        "code": "F 429",
+        "name": "Física Experimental IV",
+        "credits": 2,
+        "syllabus": "Experiências de laboratório sobre: propriedades magnéticas da matéria, correntes alternadas, ondas eletromagnéticas, reflexão e refração da luz, polarização, interferência e difração da luz e introdução à física atômica e nuclear.",
+        "reqs": [
+            [
+                {
+                    "code": "EE521"
+                },
+                {
+                    "code": "F 129"
+                }
+            ],
+            [
+                {
+                    "code": "F 329"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BD580",
+            "BS580",
+            "F 249",
+            "F 530",
+            "F 540",
+            "F 550",
+            "F 640",
+            "F 740",
+            "F 809",
+            "F 838",
+            "F 839",
+            "F 840"
+        ]
+    },
+    {
+        "code": "F 449",
+        "name": "Lasers e Aplicações",
+        "credits": 4,
+        "syllabus": "Princípio de funcionamento: emissão estimulada, meio ativo, inversão de população e cavidade óptica. Tipos de lasers, tipos de cavidades, laser contínuos e pulsados, amplificação e alargamento de linhas espectrais, limiar de oscilação, saturação do ganho. Espectro de modos. Prisma, redes e espelhos dispersivos para compensação de dispersão da velocidade de grupo. Aplicações científicas do laser (resfriamento a laser, medidas extremamente precisas, holografia, etc). Uso de lasers em telecomunicações; Aplicações em medicina e biofotônica. Aplicações industriais: corte, metrologia, instrumentos a laser.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos da Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 589"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 489",
+        "name": "Estrutura de Matéria II",
+        "credits": 4,
+        "syllabus": "Momentos de dipolo magnético, spin, e taxas de transição. Átomos multieletrônicos. Estatística quântica. Moléculas. Sólidos. Modelos Nucleares. Partículas elementares.",
+        "reqs": [
+            [
+                {
+                    "code": "F 589"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 887"
+        ]
+    },
+    {
+        "code": "F 502",
+        "name": "Eletromagnetismo I",
+        "credits": 4,
+        "syllabus": "Campos eletrostáticos no vácuo e nos materiais dielétricos. Resolução das equações de Poisson e Laplace. Campos magnéticos, correntes estacionárias e materiais não magnéticos. Força eletromotriz induzida e energia magnética. Materiais magnéticos.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 602",
+            "F 755"
+        ]
+    },
+    {
+        "code": "F 515",
+        "name": "Mecânica Geral III",
+        "credits": 4,
+        "syllabus": "Princípios variacionais e equações de Lagrange. Equações de movimento de Hamilton. Transformações canônicas. Teoria de Hamilton-Jacobi. Teoria de perturbação canônica. Introdução as formulações Hamiltonianas e Lagrangeanas para sistemas contínuos de campos.",
+        "reqs": [
+            [
+                {
+                    "code": "F 415"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 520",
+        "name": "Métodos Matemáticos da Física I",
+        "credits": 4,
+        "syllabus": "Análise Vetorial (revisão), o operador nabla, sistemas de coordenadas (revisão), determinantes e matrizes, equações diferenciais, teoria de Sturm-Liouville funções ortogonais, a função gama, funções de Bessel, funções de Legendre, funções especiais.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "MA044"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 620",
+            "F 751",
+            "F 752",
+            "MS520",
+            "MS650"
+        ]
+    },
+    {
+        "code": "F 530",
+        "name": "Instrumentação I",
+        "credits": 4,
+        "syllabus": "Projeto individual de sistemas de medição e controle de experiências e processos físicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 540",
+        "name": "Métodos da Física Experimental I",
+        "credits": 4,
+        "syllabus": "Circuitos básicos DC-AC. Componentes passivos. Instrumentos de medida. Diodos. Transistores. Amplificação. Amplificadores operacionais. Realimentação. Osciladores. Circuitos digitais básicos. Textos de laboratório.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 541",
+            "F 849"
+        ]
+    },
+    {
+        "code": "F 541",
+        "name": "Métodos da Física Experimental V",
+        "credits": 4,
+        "syllabus": "Técnicas avançadas em eletrônica.",
+        "reqs": [
+            [
+                {
+                    "code": "F 540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 549",
+        "name": "Fontes Alternativas de Energia",
+        "credits": 2,
+        "syllabus": "Fontes de Energia Renovável, Combustíveis alternativos: Biodiesel, Bioetanol. Células Solares. Usinas Nucleares. Energia Eólica. Estudos de Impactos Ambientais."
+    },
+    {
+        "code": "F 550",
+        "name": "Radiação: Interação e Detecção",
+        "credits": 4,
+        "syllabus": "Produção da radiação ionizante. Produção de raios X. Aceleradores de partículas. Reatores nucleares e fontes de nêutrons. Decaimentos radioativos. Lei de Poisson e distribuição normal em processos de decaimento radioativo. Estatística de dados. Interação de partículas carregadas com a matéria. Interação de fótons com a matéria. Interação de nêutrons com a matéria. Grandezas radiométricas e dosimétricas. Método Monte Carlo.",
+        "reqs": [
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 551",
+            "F 758",
+            "F 758"
+        ]
+    },
+    {
+        "code": "F 551",
+        "name": "Radiação: Interação e Detecção II",
+        "credits": 4,
+        "syllabus": "Modelo de detector de radiações e modos de trabalho. Caracterização de detectores de radiação. Efeitos de atenuação. Detectores gasosos.  Teoria da cavidade e câmara de ionização. Dosimetria de fótons e elétrons com câmara de ionização. Dosimetria termoluminescente. Dosimetria de estado sólido. Espectroscopia gama e de raios X.",
+        "reqs": [
+            [
+                {
+                    "code": "F 550"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 857"
+        ]
+    },
+    {
+        "code": "F 589",
+        "name": "Estrutura da Matéria",
+        "credits": 4,
+        "syllabus": "Introdução à teoria da relatividade restrita. Radiação térmica e o postulado de Planck. Fótons e as propriedades corpusculares da radiação. Propriedades ondulatórias das partículas e o postulado de De Broglie. O átomo de Bohr. Introdução à equação de Schrödinger e soluções de problemas unidimensionais. O átomo de hidrogênio.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "MA311"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE530",
+            "F 149",
+            "F 249",
+            "F 449",
+            "F 489",
+            "F 689",
+            "F 751",
+            "F 752",
+            "F 856",
+            "FL801",
+            "LE602"
+        ]
+    },
+    {
+        "code": "F 590",
+        "name": "Iniciação Científica I",
+        "credits": 2,
+        "syllabus": "Iniciação a um projeto de pesquisa sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 690"
+        ]
+    },
+    {
+        "code": "F 602",
+        "name": "Eletromagnetismo II",
+        "credits": 4,
+        "syllabus": "Equações de Maxwell. Propagação de ondas eletromagnéticas. Reflexão. Refração. Guias de onda. Radiação. Antenas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 502"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 604",
+        "name": "Física Estatística",
+        "credits": 4,
+        "syllabus": "Introdução às propriedades de sistemas macroscópicos. Conceitos básicos de probabilidade. Interação térmica. Fator de Boltzmann. Relação entre conceitos atômicos e medidas macroscópicas \"Ensemble\" microcanônico. Distribuição canônica na aproximação clássica. Aplicações. Teorema da equipartição da energia. Interação termodinâmica. Termodinâmica estatística. Interação entre sistemas com troca de partículas: o \"Ensemble\" grande canônico. Estatística quântica de gases ideais: estatísticas de fótons, estatísticas de Fermi-Dirac e de Bose-Einstein. Teoria cinética e processos de transporte.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 320"
+                },
+                {
+                    "code": "ME210"
+                }
+            ],
+            [
+                {
+                    "code": "F 320"
+                },
+                {
+                    "code": "ME414"
+                }
+            ],
+            [
+                {
+                    "code": "QF431"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 609",
+        "name": "Tópicos de Ensino de Física I",
+        "credits": 6,
+        "syllabus": "Reflexão sobre o papel do professor de Física, as relações associadas à transposição didática, bem como sobre as metodologias de ensino que podem ser utilizadas nas aulas, tais como experimentação, história da ciência, resolução de problemas, interdisciplinaridade, dentre outros. Uso de tecnologias de informação e comunicação no ensino de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "F 328"
+                },
+                {
+                    "code": "F 329"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 709",
+            "FL701",
+            "FL702"
+        ]
+    },
+    {
+        "code": "F 620",
+        "name": "Métodos Matemáticos da Física II",
+        "credits": 4,
+        "syllabus": "Funções de variáveis complexas I (revisão), funções de variáveis complexas II: cálculo de resíduos (revisão), séries de Fourier, transformações integrais, equações integrais, cálculo de variações.",
+        "reqs": [
+            [
+                {
+                    "code": "F 520"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 625",
+        "name": "Métodos de Computação Científica I",
+        "credits": 4,
+        "syllabus": "Elementos de programação em python. Parte gráfica: visualização e animação. Integração e diferenciação numérica. Transformadas de Fourier e aplicações. Equações diferenciais ordinárias de primeira e segunda ordem.  Equações diferenciais parciais. Problemas de valores de contorno e iniciais. Processos estocásticos e método Monte Carlo. Integração e simulação por métodos Monte Carlo. Método Monte Carlo de Cadeia de Markov. ",
+        "reqs": [
+            [
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 725"
+        ]
+    },
+    {
+        "code": "F 630",
+        "name": "Instrumentação II",
+        "credits": 4,
+        "syllabus": "Projeto individual de sistemas de medição e controle de experiências e processos físicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 640",
+        "name": "Métodos da Física Experimental II",
+        "credits": 4,
+        "syllabus": "Introdução: teoria dos gases rarefeitos. Escoamento de gases. Bombas de vácuo. Descrição quantitativa do bombeamento de sistemas de vácuo. Adsorção, dessorção e evaporação de moléculas em vácuo. Medidores de pressão. Acessórios: armadilhas, anteparos, válvulas, etc. Detecção de vazamennto. Vedação. Soldagem. Limpeza. Métodos e máquinas produtoras de baixa temperatura. Liquefação de gases. Medição de temperatura. Componentes criogênicos.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 689",
+        "name": "Mecânica Quântica I",
+        "credits": 4,
+        "syllabus": "Introdução às idéias fundamentais da teoria quântica. O aparato matemática da mecânica quântica de Schrödinger. Formalização da Mecânica Quântica enunciado-se os postulados. Spin 1/2 e sistemas de dois níveis. O oscilador harmônico unidimensional. Momento angular.",
+        "reqs": [
+            [
+                {
+                    "code": "F 589"
+                },
+                {
+                    "code": "MA327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 349",
+            "F 725",
+            "F 789",
+            "F 885",
+            "F 887",
+            "F 888",
+            "F 889"
+        ]
+    },
+    {
+        "code": "F 690",
+        "name": "Iniciação Científica II",
+        "credits": 2,
+        "syllabus": "Iniciação a um projeto de pesquisa sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 590"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 709",
+        "name": "Tópicos de Ensino de Física II",
+        "credits": 6,
+        "syllabus": "Esta disciplina pretende fornecer ao licenciado uma discussão sobre a inserção dos conceitos de Física diante dos problemas de ensino de Física nas escolas de ensino médio. Deverá ser enfatizado o projeto, a confecção e o uso das demonstrações sobre Física no ensino médio.",
+        "reqs": [
+            [
+                {
+                    "code": "F 609"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 725",
+        "name": "Métodos de Computação Científica II",
+        "credits": 4,
+        "syllabus": "Métodos de Dinâmica molecular e Monte Carlo para amostragem de ensembles estatísticos em sistemas clássicos de muitos graus de liberdade. Transições de fase. Simulação de processos fora do equilíbrio. Métodos Monte Carlo para sistemas quânticos. Soluções de passeio aleatório da equação de Schrödinger. Monte Carlo de Integrais de Trajetória e de Difusão.",
+        "reqs": [
+            [
+                {
+                    "code": "F 625"
+                },
+                {
+                    "code": "F 689"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 730",
+        "name": "Instrumentação III",
+        "credits": 4,
+        "syllabus": "Projeto individual de sistemas de medição e controle de experiências e processos físicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 740",
+        "name": "Métodos da Física Experimental III",
+        "credits": 4,
+        "syllabus": "Experimentos de Física Moderna: Medidas de constantes fundamentais da Física: Emissão Termoiônica. Espectroscopia atômica e nuclear. Movimentos semicondutores. Ressonância magnética.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 837"
+        ]
+    },
+    {
+        "code": "F 749",
+        "name": "Engenharia de Materiais Estruturados e Dispositivos",
+        "credits": 4,
+        "syllabus": "Técnicas de preparação e caracterização de filmes finos e materiais nanoestruturados. Nanomagnetismo. Técnicas de Microscopia, STM e AFM. Engenharia de dispositivos e funcionalização.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos da Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 888"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 751",
+        "name": "Imagens Médicas com Radiação Não-Ionizantes",
+        "credits": 4,
+        "syllabus": "Geração e propagação de ultra-som. Limites de resolução e artefatos. Medidas de fluxo Doppler. Processamento de sinais. Efeitos biológicos e segurança. Fundamentos de ressonância magnética. Geração de sinais e detecção. Sequências de pulso características. Localização de sinais e reconstrução de imagens. Contraste, resolução, ruído e artefatos. Técnicas para imageamento rápido.",
+        "reqs": [
+            [
+                {
+                    "code": "F 520"
+                },
+                {
+                    "code": "F 589"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 752",
+        "name": "Ressonância Magnética Aplicada à Medicina",
+        "credits": 4,
+        "syllabus": "Fundamentos de Ressonância Magnética. Geração de Sinais e Detecção. Sequências de Pulso Características. Localização de Sinais e Reconstrução de Imagens. Contraste, Resolução, Ruído e Artefatos. Técnicas para Imageamento Rápido. Imagens por Difusão e Perfusão. Espectroscopia por RM.",
+        "reqs": [
+            [
+                {
+                    "code": "F 520"
+                },
+                {
+                    "code": "F 589"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 755",
+        "name": "Física Aplicada à Medicina e Biologia I",
+        "credits": 4,
+        "syllabus": "Mecânica aplicada a problemas de músculos e circulação sanguínea. Transporte em um meio infinito. Transporte através de membranas neutras. Impulsos elétricos em células nervosas e músculos. Eletrocardiograma. Biomagmetismo. Eletricidade e magnetismo ao nível celular.",
+        "reqs": [
+            [
+                {
+                    "code": "F 502"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 855"
+        ]
+    },
+    {
+        "code": "F 758",
+        "name": "Radiobiologia e Radioproteção",
+        "credits": 4,
+        "syllabus": "Radioquímica. Teorias e modelos de sobrevivência celular. Fatores que modificam a resposta da radiação. Radiobiologia de tecidos normais e neoplásicos. Carcinogênese e efeitos genéticos da radiação ionizante. Radiação ionizante e saúde pública. Princípios de proteção radiológica. Cálculos de dose de radiação. Normas de proteção radiológica. Cálculos de blindagens. Medidas de radiação. Proteção radiológica em instalações médicas e laboratórios de pesquisa. Gerenciamento de rejeitos radioativos. Transporte de materiais radioativos.",
+        "reqs": [
+            [
+                {
+                    "code": "BD580"
+                },
+                {
+                    "code": "F 550"
+                }
+            ],
+            [
+                {
+                    "code": "BS580"
+                },
+                {
+                    "code": "F 550"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 852",
+            "F 853",
+            "F 854",
+            "MD760",
+            "MD947"
+        ]
+    },
+    {
+        "code": "F 789",
+        "name": "Mecânica Quântica II",
+        "credits": 4,
+        "syllabus": "Forças centrais e o átomo de Hidrogênio. Teoria de Espalhamento de uma partícula por um potencial. Spinores na teoria quântica não-relativística. Adição de momentos angulares. Teoria de perturbação independente do tempo. Estruturas fina e hiperfina do átomo de hidrogênio. Teoria de perturbação dependente do tempo. Partículas idênticas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 689"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 790",
+        "name": "Ferramentas para Processamento de Sinais e Imagens Médicas",
+        "credits": 4,
+        "syllabus": "Percepção visual humana; imagem digital; processamento de imagem; transformada de Fourier contínua e discreta; tranformada de Laplace; filtragem de imagens; transformações geométricas; reconstrução de imagens através de projeções.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "MC102"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 809",
+        "name": "Instrumentação para Ensino",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de projeto de instrumentação sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 830",
+        "name": "Instrumentação IV",
+        "credits": 4,
+        "syllabus": "Projeto individual de sistemas de medição e controle de experiências e processos físicos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 837",
+        "name": "Laboratório de Física Médica",
+        "credits": 4,
+        "syllabus": "Experimentos de Física Médica e Radiação. Espalhamento Compton. Efeito fotoelétrico. Caracterização de detectores de radiação. Lei de Poisson e distribuição normal em processos de decaimento radioativo. Fonte de neutrons e radioatividade induzida. Formação de imagens utilizando simuladores. Formação da imagem por raios-X: Contraste de absorção e contraste de fase. Ressonância Magnética Nuclear. Dosímetros termoluminescentes.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 740"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 838",
+        "name": "Métodos de Física Experimental VII",
+        "credits": 4,
+        "syllabus": "Simetria das redes cristalinas, produção de raios-X, difração por redes de átomos, difração por sólidos cristalinos, determinação de estruturas cristalinas, espalhamento difuso de raios-X; estrutura da matéria desordenada, polímeros e sistemas biológicos.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 839",
+        "name": "Métodos da Física Experimental VI",
+        "credits": 4,
+        "syllabus": "Ótica geométrica, Propagação, Natureza vetorial (relações vetoriais, vetor de Poynting, polarização, reflexão e refração, ondas evanescentes), Interferência e coerência (interferômetros, coerência, autocorrelação, espectro de potência, pulsos), Difração, Holografia (elementos, materiais, reconstrução de uma onda, capacidade e conteúdo de informação). Óptica de sólidos (dielétricos isotrópicos, condutores, interfaces com índices de refração complexos, meios anisotrópicos, cristais eletro-ópticos, óptica não linear.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 840",
+        "name": "Métodos da Física Experimental IV",
+        "credits": 4,
+        "syllabus": "Difração de raios-X. Aparelhamento experimental. Método de Laue. Orientação de monocristais. Método de pó. Medição do parâmetro de rede. Difratômetro de raios-X. Aplicações. Proteção. Interferômetros por divisão de frente de onda, por lâmina de vidro e de Michelson. Luz coerente e luz espontânea. Sistema óptico difrator e formador de imagens. Medição interferométrica de índice de refração de um gás. Medição por holografia da distribuição de temperatura. Sistema Monocromador e espectros de fontes luminosas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                },
+                {
+                    "code": "F 429"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 849",
+        "name": "Instrumentação Científica",
+        "credits": 4,
+        "syllabus": "Aquisição de medidas experimentais eletronicamente: conversão de medidas experimentais em sinais elétricos (corrente ou tensão), medidas de corrente, medidas de tensão, amplificadores, conversão de corrente em tensão, amplificadores \"lock-in\", conversão de sinal analógico em digital, comunicação entre sistemas de aquisição e computadores, protocolos de comunicação, programas para controle de experimentos e aquisição de dados.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos da Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "EE530"
+                }
+            ],
+            [
+                {
+                    "code": "F 540"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 852",
+        "name": "Física da Radiologia",
+        "credits": 4,
+        "syllabus": "Produção de raios-x. Interação dos raios-x com a matéria. Formação da imagem radiográfica. Outras modalidades de imagens analógicas. Modalidades de imagens radiográficas digitais. Controle de qualidade.",
+        "reqs": [
+            [
+                {
+                    "code": "F 758"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 853",
+        "name": "Física da Medicina Nuclear",
+        "credits": 4,
+        "syllabus": "Grandezas e unidades. Decaimento radioativo. Espectrometria. Estatística aplicada à medicina nuclear. Produção de radionuclídeos. Dosimetria interna. Instrumentação. Deteção e medidas da radiação. Sistemas de contagem. Câmaras de cintilação. Qualidade de imagem em Medicina Nuclear. Tomografias tipo SPECT e PET.",
+        "reqs": [
+            [
+                {
+                    "code": "F 758"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 854",
+        "name": "Física da Radioterapia",
+        "credits": 4,
+        "syllabus": "Produção e qualidade dos raios-x. Aparelhos de radioterapia. Cálculo de dose. Planejamento de tratamento. Técnicas especiais de radioterapia. Terapia com feixe de elétrons. Braquiterapia.",
+        "reqs": [
+            [
+                {
+                    "code": "F 758"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD947"
+        ]
+    },
+    {
+        "code": "F 855",
+        "name": "Física Aplicada à Medicina e Biologia II",
+        "credits": 4,
+        "syllabus": "Análise de Sinais. Imagens Médicas. Laser na Medicina. Aplicações Médicas de raios-x. Noções de medicina nuclear.",
+        "reqs": [
+            [
+                {
+                    "code": "F 755"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 856",
+        "name": "Biofotônica",
+        "credits": 4,
+        "syllabus": "Óptica geométrica e instrumentos ópticos - microscópios. Guias de onda e fibras ópticas. Detectores de luz: fotomultiplicadores, APD, e câmeras CCD. Interação da luz com a matéria. Marcadores fluorescentes: proteínas e quantum dots. Funcionalização de interfaces. Espectroscopias de infravermelho e Raman. Óptica não linear. Biossensores fotônicos. Lasers. Cirurgias e terapias com laser. Visualizações fotônicas: OCT, NIR-DOT. Microscopias de fluorescência. Microscopias Multifotônicas. Microscopias Raman. Microscopias com resolução subdifração. Pinças ópticas e medidas biomecânicas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 589"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 857",
+        "name": "Imagens Médicas com Radiação Ionizante",
+        "credits": 4,
+        "syllabus": "Formação da imagem radiográfica. Detectores de imagem analógicos e digitais. Modalidades de imagem radiográfica: mamografia, fluoroscopia e tomografia. Qualidade da imagem radiográfica. Controle de qualidade. Introdução à Medicina Nuclear. Produção de radionuclídeos. Dosimetria interna. Instrumentação. Sistemas de contagem. Câmaras de cintilação. Qualidade de imagem em Medicina Nuclear. Tomografias tipo SPECT e PET.",
+        "reqs": [
+            [
+                {
+                    "code": "F 551"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MD947"
+        ]
+    },
+    {
+        "code": "F 885",
+        "name": "Partículas Elementares e Campos",
+        "credits": 4,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "F 689"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 887",
+        "name": "Física Nuclear",
+        "credits": 4,
+        "syllabus": "O átomo nuclear e o núcleo atômico. O modelo de gás de Fermi. O modelo de partícula independente. Aplicações do modelo de partícula independente. Núcleos com mais que um nucleon fora de camadas fechadas. Supercondutividade nuclear. O modelo coletivo. O modelo unificado. Aplicações do modelo unificado: vibrações.",
+        "reqs": [
+            [
+                {
+                    "code": "F 489"
+                }
+            ],
+            [
+                {
+                    "code": "F 689"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 888",
+        "name": "Física do Estado Sólido",
+        "credits": 4,
+        "syllabus": "O problema geral do sólido e suas aproximações. Movimento de caroços e movimento de elétrons: visão puramente conceitual da aproximação adiabática Born-Oppenheimer. Revisão de estatística quântica: distribuições de Fermi-Dirac, Bose-Einstein e aplicações. Moléculas: ligações e espectros moleculares. Estrutura cristalina e rede recíproca. Condutores, semicondutores, supercondutores. Propriedades magnéticas.",
+        "reqs": [
+            [
+                {
+                    "code": "F 689"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 749"
+        ]
+    },
+    {
+        "code": "F 889",
+        "name": "Física Atômica e Molecular",
+        "credits": 4,
+        "syllabus": "Átomos hidrogenóides. Átomos com mais de um elétron. Equações de Schrödinger. Espectroscopia de átomos. Átomo em campo externo. Espectro molecular: Excitações eletrônicas, vibracionais, rotacionais. Ligação química. Efeito Raman; cálculo de moléculas simples.",
+        "reqs": [
+            [
+                {
+                    "code": "F 689"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 894",
+        "name": "Projeto de Curso em Engenharia Física",
+        "credits": 8,
+        "syllabus": "Encontrar solução de um problema prático específico através da aplicação de princípios físicos, no projeto e construção de um aparelho ou equipamento. Isto será feito sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 895",
+        "name": "Projeto de Curso",
+        "credits": 4,
+        "syllabus": "Encontrar solução de um problema prático específico através da aplicação de princípios físicos, no projeto e construção de um aparelho ou equipamento. Isto será feito sob orientação individual de um professor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 896",
+        "name": "Monografia",
+        "credits": 8,
+        "syllabus": "Esta disciplina consistirá de aulas em sala, enfatizando a organização e o formalismo do desenvolvimento do trabalho científico, incluindo técnicas de redação científica, ferramentas de busca, referências bibliográficas, estruturas formais de divulgação científica, etc.. Na parte prática, deverá ser desenvolvido um tema de pesquisa individualmente pelo aluno, com o formato de um trabalho de Iniciação Científica, sob a orientação de um professor ou pesquisador autorizado pela Comissão de Graduação. A Monografia será avaliada no final da disciplina.",
+        "reqs": [
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 897",
+        "name": "Monografia em Ensino de Física I",
+        "credits": 8,
+        "syllabus": "Esta disciplina enfatiza a organização e o formalismo do desenvolvimento do trabalho escrito voltado para o ensino de Física, incluindo técnicas de redação científica, ferramentas de busca, referências bibliográficas, estruturas formais de divulgação escrita, etc. Na parte prática, o aluno deverá escolher um tema na área de Ensino de Física para estudar a fundo, num formato de trabalho dirigido. Deverão ser entregues a revisão bibliográfica sobre o tema, assim como o planejamento de monografia da parte a ser escrita. O trabalho será desenvolvido sob a orientação de um professor ou pesquisador autorizado pela Comissão de Graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 901",
+        "name": "Estágio Supervisionado I",
+        "credits": 10,
+        "syllabus": "Aplicação de conhecimentos específicos de Física e técnicas didáticas em situações concretas de ensino, possibilitando a realização de mini-projetos, preparação de material didático e recursos paralelos, visando uma maior eficácia do trabalho formativo.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 428"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 902",
+            "FL701",
+            "FL702"
+        ]
+    },
+    {
+        "code": "F 902",
+        "name": "Estágio Supervisionado II",
+        "credits": 10,
+        "syllabus": "Aplicação de conhecimentos específicos de Física e técnicas didáticas em situações concretas de ensino, possibilitando a realização de mini-projetos, preparação de material didático e recursos paralelos, visando uma maior eficácia do trabalho formativo.\nObs.: A autorização AA200 não será aplicada aos alunos dos cursos de Física.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "F 901"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 948",
+        "name": "Estágio Supervisionado em Atividades de Física Médica",
+        "credits": 24,
+        "syllabus": "Continuação de MD947 - Prática supervisionada de atividades de físicos em radiologia, radioterapia e medicina nuclear. Nesta disciplina, a prática poderá ocorrer fora do ambiente hospitalar, mas deverá necessariamente envolver tópicos relacionados com atividades ligadas à Física Médica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MD947"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "F 949",
+        "name": "Estágio em Engenharia Física",
+        "credits": 12,
+        "syllabus": "Estudos de situações reais em engenharia, acompanhamento de projeto, fabricação, especificação, montagem, programação, configuração e teste de equipamento, junto a empresas e centros de pesquisa credenciados pela Universidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA475",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

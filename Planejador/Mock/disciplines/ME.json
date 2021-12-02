@@ -1,0 +1,1020 @@
+[
+    {
+        "code": "ME110",
+        "name": "Noções de Estatística",
+        "credits": 4,
+        "syllabus": "Respostas binárias: experimentos aleatorizados, teste exato de Fisher, valor de significância. Aproximação de distribuições: histograma, momentos, curva normal. Distribuições de Bernoulli e binomial. Inferência para proporção em uma população. Respostas multicategóricas: apresentação dos dados e medidas resumo, estimação, teste qui-quadrado de adequação de ajuste, testes de independência e homogeneidade. Respostas numéricas: estatísticas descritivas, ramos e folhas, gráficos e histogramas. Medidas de posição e dispersão. Regressão. Séries temporais: autocorrelação e alisamento."
+    },
+    {
+        "code": "ME111",
+        "name": "Laboratório de Estatística",
+        "credits": 3,
+        "syllabus": "Atividades de laboratório relacionadas aos conceitos básicos de Estatística, a informática básica e pelo menos um pacote estatístico, incluindo um trabalho final de coleta e análise de dados."
+    },
+    {
+        "code": "ME115",
+        "name": "Linguagem R",
+        "credits": 5,
+        "syllabus": "Introdução ao uso do software R e suas estruturas de dados. Importação e exportação de dados empregando o R. Manipulação de subconjuntos de dados. Formatação e operações vetoriais com diferentes tipos de variáveis inteiros, reais, fatores e data/hora). Criação de funções, introdução à vetorização e estratégias para debugging. Estruturas de controle de fluxo. Introdução à programação paralela.",
+        "reqBy": [
+            "ME315",
+            "ME524"
+        ]
+    },
+    {
+        "code": "ME173",
+        "name": "Estatística Descritiva",
+        "credits": 4,
+        "syllabus": "População e amostras. Levantamento e apuração de dados. Dados registrados e não registrados: censo e estimativa de população. Descrição de dados amostrais: tabelas, gráficos, medidas de posição e de variabilidade. Noções elementares de probabilidade. Análise de uma distribuição de freqüência de natureza qualitativa: coeficientes e índices mais usados. Elementos de demografia."
+    },
+    {
+        "code": "ME176",
+        "name": "Introdução à Estatística Vital",
+        "credits": 2,
+        "syllabus": "Levantamentos e apurações de dados. Introdução à medidas de epidemiologia. Coeficiente e índices mais usados em saúde pública. População e amostra. Descrição de dados amostrais: tabelas, gráficos, medidas de posição e dispersão."
+    },
+    {
+        "code": "ME210",
+        "name": "Probabilidade I",
+        "credits": 4,
+        "syllabus": "Espaço de probabilidade. Axiomas de Kolmogorov, propriedades, independência, probalidade condicional, Teorema de Bayes. Espaços amostrais equiprováveis. Espaços amostrais infinitos. Variáveis e vetores aleatórios discretos bi e tri dimensionais; distribuições marginais, conjuntas e condicionais e independência. Transformações. Momentos. Modelos: uniforme, binomial, geométrica, binomial negativa, hipergeométrica e Poisson. Funções geratrizes. Aproximação da binomial. Variáveis aleatórias contínuas, distribuição, densidade e momentos. Modelos uniformes, exponencial e normal. Simulações.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ],
+        "reqBy": [
+            "F 604",
+            "MC886",
+            "MC949",
+            "ME310",
+            "ME322",
+            "MS515",
+            "MS614"
+        ]
+    },
+    {
+        "code": "ME310",
+        "name": "Probabilidade II",
+        "credits": 4,
+        "syllabus": "Vetores Aleatórios, distribuições conjuntas, marginais e condicionais. Independência. Modelos gama, beta, Cauchy, multinomial, multinormal. Transformações. Distribuições t de student, qui-quadrado e F de Snedecor. Conjuntos e condicionais. Desigualdades de Markov, Tchebychev, Jensen e Cauchy-Schwartz. Elementos básicos e aplicações da função característica. Simulações. Teoremas limites básicos: modos de convergência, sequência de ensaios independentes, lei dos grandes números, Teorema Central do Limite.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "ME210"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME430",
+            "ME501",
+            "ME613",
+            "ME909",
+            "ME921"
+        ]
+    },
+    {
+        "code": "ME315",
+        "name": "Manipulação de Banco de Dados",
+        "credits": 5,
+        "syllabus": "Introdução ao uso de software: R, Python, SAS, Excel. Importação e leitura de dados em diversos formatos. Operadores. Funções. Estruturas de controle. Obtenção, organização e manipulação de dados. Visualização de dados.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MC102"
+                },
+                {
+                    "code": "ME115"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME322",
+        "name": "Inferência",
+        "credits": 6,
+        "syllabus": "Distribuição dos momentos amostrais. Estimação pontual. Métodos de estimação: momentos, máxima verossimilhança, mínimos quadrados.  Teorema de Gauss-Markov. A família exponencial e Suficiência. Estimação por intervalos através do método de pivô. Testes de hipóteses. Erros tipo I e II, região crítica, nível de significância p-valor, tamanho e poder do teste.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                },
+                {
+                    "code": "ME210"
+                }
+            ],
+            [
+                {
+                    "code": "ME323"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME415",
+            "ME524",
+            "ME613",
+            "ME613",
+            "ME623",
+            "ME651",
+            "ME705",
+            "ME706",
+            "ME716",
+            "ME721",
+            "ME909",
+            "ME909",
+            "ME921",
+            "ME921"
+        ]
+    },
+    {
+        "code": "ME323",
+        "name": "Introdução aos Modelos Probabilísticos",
+        "credits": 4,
+        "syllabus": "Introdução à probabilidade. Variáveis aleatórias. Esperança de variável aleatória. Vetor aleatório. Noções de inferência estatística. Introdução aos processos estocásticos.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE881",
+            "EG409",
+            "MC886",
+            "MC906",
+            "MC949",
+            "ME322",
+            "ME430",
+            "ME501",
+            "ME613",
+            "ME651",
+            "ME909",
+            "ME921"
+        ]
+    },
+    {
+        "code": "ME414",
+        "name": "Estatística para Experimentalistas",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de probabilidade e estatística descritiva. Principais distribuições discretas e contínuas: Binomial, Hipergeométrica, Poisson, Normal, t, F, qui-quadrado. Amostragem. Estimação, teste de hipótese e intervalo de confiança para médias, proporções e variâncias. Regressão e correlação. Análise de variância.",
+        "reqs": [
+            [
+                {
+                    "code": "AU222"
+                }
+            ],
+            [
+                {
+                    "code": "MA111"
+                }
+            ],
+            [
+                {
+                    "code": "MS123"
+                }
+            ],
+            [
+                {
+                    "code": "MS220"
+                }
+            ],
+            [
+                {
+                    "code": "MS380"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE323",
+            "CV632",
+            "CV701",
+            "CV914",
+            "EA051",
+            "EM050",
+            "EM050",
+            "EM073",
+            "EM074",
+            "EM095",
+            "EM826",
+            "EM831",
+            "EM831",
+            "EM836",
+            "EM836",
+            "EQ601",
+            "EQ701",
+            "ES704",
+            "ES767",
+            "ES825",
+            "ES825",
+            "F 604",
+            "FA084",
+            "FR502",
+            "FR808",
+            "FT531",
+            "FT531",
+            "MD151",
+            "ME651",
+            "QG636",
+            "TA541",
+            "TA712"
+        ]
+    },
+    {
+        "code": "ME415",
+        "name": "Método Científico e Técnicas de Pesquisa",
+        "credits": 5,
+        "syllabus": "Elaboração de relatórios, levando em consideração as normas para construção de tabelas, gráficos e os tipos de “clientes”. Análise exploratória de dados. Elaboração de relatórios de análise estatística com dados fornecidos pelo professor. Introdução à metodologia científica. Conceito de empirismo. Elaboração de projetos de pesquisa.",
+        "reqs": [
+            [
+                {
+                    "code": "ME322"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME712"
+        ]
+    },
+    {
+        "code": "ME430",
+        "name": "Técnicas de Amostragem",
+        "credits": 5,
+        "syllabus": "Amostragem aleatória simples para se estimar médias, totais, proporções e razões populacionais; amostragem sistemática. Amostragem aleatória estratificada para se estimar médias, totais, proporções e razões populacionais. Estimadores de razão e de regressão. Amostragem por conglomerado em um e dois estágios. Planejamento de amostras. Elaboração de projeto com coleta de dados e análise estatística utilizando as técnicas de amostragem.",
+        "reqs": [
+            [
+                {
+                    "code": "ME310"
+                }
+            ],
+            [
+                {
+                    "code": "ME323"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME501",
+        "name": "Processos Estocásticos",
+        "credits": 5,
+        "syllabus": "Cadeias de Markov a tempo discreto. Classificação de estados, noções de recorrência e transiência. Medida estacionária. Reversibilidade. Processo de Poisson. Cadeias de Markov a tempo contínuo, processos de nascimento e morte. Aplicações: noções de teoria de renovação e teoria de filas, simulações.",
+        "reqs": [
+            [
+                {
+                    "code": "ME310"
+                }
+            ],
+            [
+                {
+                    "code": "ME323"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME502"
+        ]
+    },
+    {
+        "code": "ME502",
+        "name": "Processos Estocásticos II",
+        "credits": 4,
+        "syllabus": "Passeio aleatório simples: leis de arcoseno, recorrência/transiência, funções de Green. Martingais: desigualdades básicas, convergência, teorema de parada opcional. Aplicações. Movimento Browniano. Processos estacionários.",
+        "reqs": [
+            [
+                {
+                    "code": "ME501"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME524",
+        "name": "Computação Aplicada à Estatística",
+        "credits": 6,
+        "syllabus": "Representação de números em base binária. Erros de truncamento e arredondamento. Geração de números pseudo-aleatórios uniformes e não uniformes. Métodos de inversão, aceitação-rejeição e por transformações de variáveis aleatórios. Métodos de Monte Carlo. Método de resolução de sistemas lineares (decomposições QR, Householder, valores singulares, equivalência Gram-Schmidt-QR, número condição). Mínimos quadrados: aplicação à regressão linear. Método de Newton-Raphson. Bootstrap, validação cruzada, jacknife. Aspectos estatísticos em redes neurais. Métodos de simulação usando cadeias de Markov.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "ME115"
+                },
+                {
+                    "code": "ME322"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME601",
+        "name": "Tópicos Especiais em Estatística Aplicada I",
+        "credits": 5,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME607",
+        "name": "Séries Temporais",
+        "credits": 5,
+        "syllabus": "Elementos de processos estocásticos. Estacionaridade. Funções média, correlação e correlação parcial. Equações de diferenças. Distância quadrática média. Aproximação linear ótima. Tendências e sazonalidade. Processos autoregressivos e de média móvel. Não estacionariedade. Métodos: regressão e médias móveis. Processos autoregressivos integrados médias móveis. Estimação da média e correlação parcial. Identificação de modelos. Estimação de parâmetros. Diagnósticos. Critérios de seleção. Previsão. Modelos sazonais. Função de transferência. Modelo ARMAX. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME612",
+        "name": "Métodos Estatísticos para Ciências Biológicas",
+        "credits": 5,
+        "syllabus": "Conceitos básicos de epidemiologia. Ensaios clínicos aleatorizados. Função de sobrevivência e função risco. Principais distribuições utilizadas em análise de sobrevivência. Tabelas de vida em análise de sobrevivência. Comparações de curva de sobrevivência. Modelos paramétricos e semi-paramétricos em análise de sobrevivência. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME613",
+        "name": "Análise de Regressão",
+        "credits": 5,
+        "syllabus": "Correlação. Ajuste de modelos de Regressão Linear Simples e Múltipla. Procedimentos de diagnóstico do modelo: Análise de resíduos, influência, multicolinearidade. Modelos polinomiais. Variáveis indicadoras. Seleção de variáveis e construção de modelos. Noções de regressão não linear. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "ME322"
+                },
+                {
+                    "code": "ME323"
+                }
+            ],
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "ME310"
+                },
+                {
+                    "code": "ME322"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME607",
+            "ME612",
+            "ME652",
+            "ME661",
+            "ME712",
+            "ME714",
+            "ME715",
+            "ME720",
+            "ME731",
+            "ME850",
+            "ME904",
+            "ME905",
+            "ME906",
+            "ME907",
+            "ME908",
+            "ME910",
+            "ME911",
+            "ME912",
+            "ME913",
+            "ME914",
+            "ME915",
+            "ME916",
+            "ME917",
+            "ME918",
+            "ME919",
+            "ME920"
+        ]
+    },
+    {
+        "code": "ME623",
+        "name": "Planejamento e Pesquisa",
+        "credits": 5,
+        "syllabus": "Princípios de experimentação: replicação, aleatorização e blocagem. Experimentos completamente aleatorizados. Diagnóstico do modelo. Contrastes e comparações múltiplas. Experimento em blocos. Quadrado Latino. Tamanho amostral. Experimentos fatoriais. Fatoriais 2(n). Fatoriais fracionados 2(n-p). Fatores fixo e aleatórios. Estrutura entre fatores: cruzados e hierárquicos. Componentes da variância. Experimentos em blocos incompletos. Análise de covariância. Split-Plot. Superfície de respostas. Experimentos não balanceados. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME630",
+        "name": "Iniciação Científica I",
+        "credits": 5,
+        "syllabus": "Atividades de iniciação científica em estatística e/ou probabilidade supervisionadas por docentes do curso e aprovadas pela comissão de docentes responsáveis pela disciplina, resultando em apresentação de seminário(s) e relatório técnico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME730"
+        ]
+    },
+    {
+        "code": "ME651",
+        "name": "Controle Estatístico de Qualidade",
+        "credits": 5,
+        "syllabus": "Ferramentas da Qualidade. Causas de variação. Bases para a construção de Cartas de Controle: Grupos racionais. Cartas de Controle para Variáveis e para Atributos. Análise de padrões em Cartas de Controle. Cartas CUSUM e EWMA. CEP para pequenos lotes. CEP Multivariado. Capacidade de Processo. Análise do Sistema de medição. Planos de aceitação de lotes. Confiabilidade: conceitos, distribuições, tipos de dados e análise não paramétrica. Gestão da Qualidade: Normas e Prêmios. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME322"
+                }
+            ],
+            [
+                {
+                    "code": "ME323"
+                }
+            ],
+            [
+                {
+                    "code": "ME414"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME652",
+        "name": "Controle Estatístico de Qualidade II",
+        "credits": 4,
+        "syllabus": "Pressupostos e limitações do CEP básico. Técnicas especiais de CEP univariado. CEP para processos multivariados. Controle de engenharia de processos. Experimentos planejados para melhoria de processos. Otimização de processos com experimentos. Amostragem de aceitação.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME661",
+        "name": "Métodos Não Paramétricos",
+        "credits": 5,
+        "syllabus": "Teoria e aplicação de testes estatísticos não-paramétricos mais comumente usados, tais como testes do sinal e Wilcoxon, e comparação com suas correspondentes versões paramétricas. Testes para locação de uma e duas amostras, medidas de correlação, testes de aderência, testes de independência, testes para igualdade de variâncias, testes de Kruskal-Wallis e Friedman para análise de variância e outros tópicos selecionados. Ferramentas computacionais para realizar tais testes. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME701",
+        "name": "Tópicos Especiais em Estatística Aplicada II",
+        "credits": 5,
+        "syllabus": "A ementa desta disciplina será definida por ocasião de seu oferecimento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME705",
+        "name": "Inferência Bayesiana",
+        "credits": 5,
+        "syllabus": "Distribuições a priori e posteriori. Princípios gerais da inferência bayesiana e vínculo com a inferência clássica. Conflito entre priori e posteriori. Utilidade e perda. Permutabilidade: Teorema de De Finetti. Distribuições a priori: próprias, impróprias, conjugadas, informativas e não informativas. Fator de Bayes: comparação de modelos, sensibilidade. Teste de hipóteses bayesianos e regiões de credibilidade. Métodos clássicos de aproximação: integração numérica, integração por Monte Carlo e aproximação analítica de Laplace. Amostragem bayesiana e MCMC.",
+        "reqs": [
+            [
+                {
+                    "code": "ME322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME706",
+        "name": "Robustez",
+        "credits": 5,
+        "syllabus": "Modelos normal e de locação-escala. Estimação parâmetros, interesse no outlier e suas causas. Propriedades ótimas de estimadores tradicionais sob hipóteses estritas e impacto dos outliers. Distribuição normal: otimalidade da média amostral sob normalidade. Resistência. Alternativas resistentes aos estimadores tradicionais. Invariância e equivariância dos estimadores de locação e de escala. Curva de sensibilidade e ponto de ruptura. Noção ingênua de robustez qualitativa. Relação entre resistência e robustez qualitativa. Robustez em eficiência.",
+        "reqs": [
+            [
+                {
+                    "code": "ME322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME712",
+        "name": "Consultoria Estatística I",
+        "credits": 8,
+        "syllabus": "Consultoria estatística realizada sob supervisão de docentes do Departamento de Estatística.",
+        "reqs": [
+            [
+                {
+                    "code": "ME415"
+                },
+                {
+                    "code": "ME613"
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME812"
+        ]
+    },
+    {
+        "code": "ME714",
+        "name": "Análise de Dados Discretos",
+        "credits": 5,
+        "syllabus": "Distribuições discretas e funções geratrizes: Binomial, Multinomial, Poisson, Geométrica, Hipergeométrica, Binomial Negativa. Tabelas de Contingência: Teste de Homogeneidade e independência; Teste exato de Fisher; Teste de McNemar; Medidas de associação. Regressão com variáveis categóricas na matriz X: Codificações para a matriz X. Modelos lineares generalizados e a função de ligação. Regressão logística: dados binários e politômicos. Probito. Mínimos quadrados ponderados. Regressão de Poisson.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME715",
+        "name": "Econometria",
+        "credits": 5,
+        "syllabus": "Revisão de técnicas de regressão. Extensões. Equações simultâneas. Mínimos quadrados generalizados. Variáveis instrumentais. Identificação. Estimação em sistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "CE731"
+                }
+            ],
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CE451"
+        ]
+    },
+    {
+        "code": "ME716",
+        "name": "Teoria da Informação",
+        "credits": 5,
+        "syllabus": "Entropia, entropia relativa e informação mútua. Taxas de entropia de um processo estocástico: cadeias de Markov, taxas de entropia de um passeio aleatório. Compressão de dados. Exemplos de códigos. Desigualdade de Kraft. Código de Huffman. Shannon-Fano-Elias coding. Complexidade de Kolmogorov. Modelos de Computação. Complexidade de Kolmogorov e entropia. Algoritmos aleatórios e sequências incompreensíveis. A estatística suficiente de Kolmogorov. Introdução à Channel Capacity. Entropia máxima e estimação espectral. Introdução à teoria da taxa de distorção. Desigualdades em teoria da informação.         ",
+        "reqs": [
+            [
+                {
+                    "code": "ME322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME720",
+        "name": "Modelos Lineares Generalizados",
+        "credits": 5,
+        "syllabus": "Revisão de Modelos Lineares. Conceitos básicos, terminologia e notações. Família exponencial de distribuições e Modelos Lineares Generalizados. Estimação e Inferência. Verificação do ajuste do modelo. Modelos para dados binários. Modelos para dados de contagem. Sobredispersão e modelo binomial negativa. Modelos para dados de contagem com excesso de zeros. Modelos não lineares e Modelos lineares mistos. Elaboração de relatórios que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME721",
+        "name": "Demografia",
+        "credits": 5,
+        "syllabus": "Estudo de população. Recenseamento: normas, erros, composição por sexo, idade, etc. Natalidade, migrações, mortalidade. Tábuas de mortalidade. Modelos estocásticos de crescimento populacional. Projeções.",
+        "reqs": [
+            [
+                {
+                    "code": "ME322"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME730",
+        "name": "Iniciação Científica II",
+        "credits": 5,
+        "syllabus": "Atividades de iniciação científica em estatística e/ou probabilidade supervisionadas por docentes do curso e aprovadas pela comissão de docentes responsáveis pela disciplina, resultando em apresentação de seminário(s) e relatório técnico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "ME630"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME731",
+        "name": "Métodos em Análise Multivariada",
+        "credits": 5,
+        "syllabus": "Distribuição normal multivariada; análise de variância multivariada; análise de componentes principais; análise fatorial; análise de correspondências; análise de correlações canônicas e análise discriminante. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME812",
+        "name": "Consultoria Estatística II",
+        "credits": 12,
+        "syllabus": "Consultoria estatística realizada sob supervisão de docentes do Departamento de Estatística.",
+        "reqs": [
+            [
+                {
+                    "code": "ME712"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME820",
+        "name": "Estágio em Empresa I",
+        "credits": 5,
+        "syllabus": "Estágio que seja válido de acordo com normas internas definidas pela Coordenação de Graduação do Departamento de Estatística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "ME821"
+        ]
+    },
+    {
+        "code": "ME821",
+        "name": "Estágio em Empresa II",
+        "credits": 5,
+        "syllabus": "Estágio que seja válido de acordo com normas internas definidas pela Coordenação de Graduação do Departamento de Estatística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "ME820"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME850",
+        "name": "Seminários de Estatística",
+        "credits": 2,
+        "syllabus": "Palestras sobre temas em diversas áreas da estatística, apresentados por profissionais internos e externos ao âmbito acadêmico.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME860",
+        "name": "Métodos Computacionais",
+        "credits": 5,
+        "syllabus": "Criação e manipulação de arquivos de dados. Estudo de erros. Computações numéricas. Modelos lineares e não lineares. Geração de números aleatórios. Princípios de simulação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME861",
+        "name": "Análise de Regressão II",
+        "credits": 5,
+        "syllabus": "Regressão linear simples e múltipla. Diagnóstico e análise de resíduos. Mínimos quadrados ponderados. Transformações de variáveis. Técnicas de seleção de variáveis. Critérios alternativos a mínimos quadrados.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME904",
+        "name": "Inferência Estatística na Era Computacional",
+        "credits": 5,
+        "syllabus": "Método de Bayes Empírico. Regressão ridge. Modelos lineares generalizados. Árvores de regressão. Análise de sobrevivência. Algoritmo EM. Jacknife. Bootstrap. Validação Cruzada. Erro de predição. Inferência Bayesiana Objetiva.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME905",
+        "name": "Inferência Estatística para Dados de Alta Dimensão",
+        "credits": 5,
+        "syllabus": "Hipóteses em grande escala. Modelagem de dados esparsos. LASSO. LARS. Florestas aleatórias. Boosting. Redes neurais. Deep learning. SVM. Frameworks de Aprendizado de Máquina.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME906",
+        "name": "Métodos em Aprendizado Supervisionado de Máquina",
+        "credits": 5,
+        "syllabus": "Estratégias de aprendizado supervisionado de máquina para problemas de regressão e classificação. Métodos de reamostragem, SVM e árvores de decisão. Expor os alunos a estratégias modernas de modelagem, focando em modelos preditivos. Elaboração de um produto de dados empregando ferramentas computacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME907",
+        "name": "Geoestatística",
+        "credits": 5,
+        "syllabus": "Revisão de processos estocásticos em tempo contínuo, estacionariedade e isotropia, processos Gaussianos. Análise exploratória de dados espaciais e espaço-temporais. Variogramas e covariogramas. Estimação do variograma. Kriging (ordinário, simples, universal). Anisotropia. Kriging com covariáveis e cokriging. Planejamento de experimentos espaciais. Diagnósticos. Thin-plate splines e métodos não-paramétricos. Kriging espaço-temporal, modelos de covariância separáveis e não-separáveis. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME908",
+        "name": "Análise de Sobrevivência",
+        "credits": 5,
+        "syllabus": "Situações de estudo de análise de sobrevivência, notações e conceitos básicos. Principais distribuições utilizadas em análise de sobrevivência. Tabelas de vida, estimador produto-limite, testes para comparações de duas ou mais funções de sobrevivência.  Modelos paramétricos e semi-paramétricos em análise de sobrevivência. Análise de riscos competitivos.  Apresentação de seminários com metodologia e aplicações em análise de sobrevivência.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME909",
+        "name": "Fundamentos de Modelagem via Cópulas",
+        "credits": 5,
+        "syllabus": "Propriedades básicas das cópulas. Teorema de Sklar. Limitantes de Fréchet-Hoeffding para distribuições conjuntas. Métodos de construção de cópulas. Cópulas Arquimedianas. Geradores de cópulas Arquimedianas e suas propriedades. Medidas de Dependência: noções de concordância e medidas. Cópula empírica e processos empíricos de cópula.",
+        "reqs": [
+            [
+                {
+                    "code": "ME310"
+                },
+                {
+                    "code": "ME322"
+                }
+            ],
+            [
+                {
+                    "code": "ME322"
+                },
+                {
+                    "code": "ME323"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME910",
+        "name": "Teoria de Resposta ao Item",
+        "credits": 5,
+        "syllabus": "Revisão de modelos de regressão. Conceitos básicos, terminologia e notações. Exemplos de variáveis latentes, construtos e instrumentos de medida. Principais modelos unidimensionais e multidimensionais para respostas dicotômicas e politômicas. Principais métodos de estimação. Principais métodos de equalização. Construção e interpretação de escalas para os traços latentes. Modelos de desdobramento. Distribuições não gaussianas para os traços latentes. Funções de resposta ao item assimétricas e/ou de caudas pesadas. Recursos computacionais. Tópicos adicionais para pesquisa.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME911",
+        "name": "Modelagem de Equações Estruturais",
+        "credits": 5,
+        "syllabus": "Introdução as variáveis latentes. Análise exploratória envolvendo variáveis latentes. Conceitos básicos, terminologia e notações. Análise de caminho. Modelos de análise fatorial exploratório e confirmatório. Introdução à modelagem de equações estruturais. Modelos de equações estruturais multiníveis, modelos híbridos e efeitos de interação. Estimação, análise de resíduos, comparação de modelos e testes de hipótese sob a ótica clássica. Inferência Bayesiana. Modelos não lineares. Modelos de classes latentes. Inclusão de variáveis qualitativas. Modelos de mistura finita. Modelos de múltiplos grupos.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME912",
+        "name": "Modelagem de Variáveis Latentes",
+        "credits": 5,
+        "syllabus": "Introdução as variáveis latentes. Análise exploratória envolvendo variáveis latentes. Análise fatorial. Análise de perfis latentes. Análise do traço latente. Teoria da Resposta ao Item. Análise de classes latentes. Estimação, análise de resíduos, comparação de modelos e testes de hipótese sob a ótica frequentista. Inferência Bayesiana. Múltiplos grupos. Modelos multidimensionais e multivariados. Dados longitudinais.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME913",
+        "name": "Análise de Dados Hierárquicos",
+        "credits": 5,
+        "syllabus": "Introdução aos dados hierárquicos. Análise exploratória de dados hierárquicos. Conceitos básicos, terminologia e notações. Modelos lineares hierárquicos gaussianos de um, dois e vários níveis. Modelos lineares hierárquicos não gaussianos de um, dois e vários níveis. Estimação, análise de resíduos, comparação de modelos e testes de hipótese sob a ótica frequentista. Inferência Bayesiana. Modelos não lineares.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME914",
+        "name": "Introdução à Teoria dos Jogos",
+        "credits": 5,
+        "syllabus": "Jogo de soma zero para dois jogadores. Teoria da Utilidade. Jogo com soma não-nula para dois jogadores. Jogos para n jogadores.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME915",
+        "name": "Teoria da Decisão",
+        "credits": 5,
+        "syllabus": "Elementos de teoria princípio da perda esperada; informação perfeita, experimentação. Elementos de teoria de decisão clássica: função de risco, estatísticas suficientes, admissibilidade, princípio minimax. Derivação axiomática da teoria de decisão: função de utilidade, loteria de von Neumann- Morgenstern; preferência e indiferença; princípios do resultado certo, da continuidade, da dominância, da preferência condicional. Coeficiente de aversão ao risco; valor da experimentação com utilidade; loteria contínuas. Aplicações: problema do seguro; divisão do risco.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME916",
+        "name": "Regressão Quantílica",
+        "credits": 5,
+        "syllabus": "Revisão de Modelos Lineares. Conceitos básicos, terminologia e notações. Definição geral de quantil. Modelo de regressão quantílica linear simples. Modelo de regressão quantílica linear múltiplo. Modelos de regressão quantílica não lineares. Regressão quantílica com censura. Estimação, análise de resíduos, comparação de modelos e testes de hipótese sob as óticas clássica e bayesiana.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME917",
+        "name": "Introdução a Métodos Não Paramétricos para Estimação de Curvas",
+        "credits": 5,
+        "syllabus": "O histograma. Histograma como um estimador de máxima verossimilhança. Estatísticas do histograma. Estimação de densidades pelo método de Kernel. Estatísticas do estimador por Kernel. A escolha do parâmetro de suavização. Outros estimadores de densidade: séries ortogonais, máxima verossimilhança penalizada. O estimador de Nadaraya-Watson. O método K-nn. Técnicas de regressão não paramétrica para dados correlacionados. Conjunto de dados com outliers: Lowess, L-suavização, R-suavização. Técnicas de regressão não paramétrica por funções de base. Elaboração de um relatório final que inclua análise de dados.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME918",
+        "name": "Produtos de Dados",
+        "credits": 5,
+        "syllabus": "Importação de dados. Formatação e representação de dados.\nDados relacionais. Fluxos de trabalho. Desenvolvimento de produtos utilizando Shiny. Distribuição de produtos Shiny. Criação e distribuição de pacotes R.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME919",
+        "name": "Introdução a Modelos Lineares",
+        "credits": 5,
+        "syllabus": "Revisão de álgebra de matrizes; generalizada; tipos de modelos lineares; modelos classificatórios e modelos funcionais; estimação por mínimos quadrados: equações normais; valor esperado e variância dos estimadores; identificabilidade e estimabilidade; teorema de Gauss-Markov e teorema de Gauss-Markov-Aitken; reparametrização; forma canônica do modelo linear; modelos lineares com restrições nos parâmetros; relação entre OLS e BLUE; distribuição normal multivariada; distribuições T, qui- quadrado e F não-centrais; distribuições de formas quadráticas; teorema de Cochran; teste de hipóteses e intervalos de confiança para funções estimáveis; aplicações do modelo linear geral: modelos com n critérios de classificação (efeitos fixos, efeitos aleatórios e modelo misto), componentes da variância, modelo de regressão; as somas de quadrados tipo I, tipo II, tipo III e tipo IV.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME920",
+        "name": "Introdução à Inferência Causal",
+        "credits": 5,
+        "syllabus": "Conceitos basais; Definição de Causalidade; Inferência de Causalidade; Equações estruturais; Grafos e Intervenções; Teoria de Decisão e Inferência Causal; Inferência Causal como um Problema de Predição; Estratégias de tratamento dinâmicas; Classificação cruzada; Estimação de efeitos diretos e indiretos; Caminhos causais em modelos. não lineares; Inferência causal em Séries Temporais.",
+        "reqs": [
+            [
+                {
+                    "code": "ME613"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME921",
+        "name": "Métodos em Aprendizado Não-Supervisionado de Máquina",
+        "credits": 5,
+        "syllabus": "Introdução à distribuição normal multivariada. Agrupamentos baseados em distância: agrupamentos hierárquicos e agrupamentos de K-médias. Generalizações de distância. Agrupamentos baseados em modelos. Agrupamentos baseados em densidades. Agrupamentos espectrais. Detecção de anomalias.",
+        "reqs": [
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "ME310"
+                },
+                {
+                    "code": "ME322"
+                }
+            ],
+            [
+                {
+                    "code": "MA327"
+                },
+                {
+                    "code": "ME322"
+                },
+                {
+                    "code": "ME323"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "ME951",
+        "name": "Estatística e Probabilidade I",
+        "credits": 4,
+        "syllabus": "Análise exploratória de dados; noções de amostragem e planejamento de experimentos. Cálculo de probabilidades: probabilidade condicional, independência, teorema de Bayes. Variável aleatória: função de probabilidade, função de distribuição, momentos. Princípios de contagem. Modelos discretos: binomial, geométrico, Pascal, hipergeométrico, Poisson. Modelos contínuos: uniforme, normal, exponencial, gamma, beta. Relações entre algumas distribuições.",
+        "reqs": [
+            [
+                {
+                    "code": "MA111"
+                }
+            ]
+        ]
+    }
+]

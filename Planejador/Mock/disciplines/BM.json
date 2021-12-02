@@ -1,0 +1,206 @@
+[
+    {
+        "code": "BM091",
+        "name": "Microrganismos e o Homem e a Natureza: Relações de Simbiose e Parasitismo",
+        "credits": 2,
+        "syllabus": "Microrganismos e a natureza. Atividades metabólicas de bactérias e fungos e a produção de insumos e alimentos. Aspectos biotecnológicos. Conceitos de controle dos microrganismos."
+    },
+    {
+        "code": "BM215",
+        "name": "Microbiologia",
+        "credits": 4,
+        "syllabus": "Morfologia das bactérias, vírus e fungos. Fisiologia dos microrganismos. Crescimento bacteriano \"in vitro\". Genética bacteriana. Métodos de controle dos microrganismos. Microbiota. Mecanismos de patogenicidade. Epidemiologia das doenças infecto contagiosas. Principais grupos de microrganismos causadores de doenças no homem.",
+        "reqs": [
+            [
+                {
+                    "code": "BB123",
+                    "partial": true
+                },
+                {
+                    "code": "BH125",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EN322",
+            "EN470"
+        ]
+    },
+    {
+        "code": "BM320",
+        "name": "Biologia (Microbiologia Básica)",
+        "credits": 4,
+        "syllabus": "Biologia Geral. Reações antígeno-anticorpo. Morfologia, sistemática e fisiologia bacteriana. Noções sobre fungos e vírus. Bacteriologia quantitativa e curva de crescimento de bactérias. Genética de microorganismos. Flora normal e mecanismos gerais de patogenicidade, cultivo e identificação de bactérias. Cadeia epidemiológica. Intoxicações alimentares. Anaeróbios. Exames bacteriológicos dos alimentos. Esterilização e desinfecção. Antibióticos e antibiograma.",
+        "reqBy": [
+            "FT412",
+            "FT412",
+            "FT430",
+            "FT622",
+            "FT722",
+            "FT723",
+            "FT821",
+            "FT822",
+            "TA615",
+            "TA620",
+            "TA622",
+            "TA722",
+            "TA824",
+            "TA826",
+            "TA920"
+        ]
+    },
+    {
+        "code": "BM382",
+        "name": "Microbiologia I",
+        "credits": 4,
+        "syllabus": "Estrutura e função das células procarióticas. Características dos principais grupos de procarióticos. Características gerais dos vírus e dos fungos. Metabolismo microbiano. Controle dos microrganismos. Microbiota. Relações micro-organismos e seus hospedeiros. Relações vírus e seus hospedeiros. Métodos de visualização de bactérias. Crescimento bacteriano \"in vitro\". Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BM584"
+        ]
+    },
+    {
+        "code": "BM415",
+        "name": "Microbiologia",
+        "credits": 4,
+        "syllabus": "Estrutura e função das células procarióticas. Características gerais dos vírus e fungos. Classificação, crescimento e morte dos micro-organismos. Genética bacteriana. Microbiota. Mecanismos de patogenicidade.",
+        "reqs": [
+            [
+                {
+                    "code": "BI315"
+                },
+                {
+                    "code": "BS115"
+                }
+            ]
+        ],
+        "reqBy": [
+            "FR157",
+            "FR610",
+            "FR611",
+            "FR709",
+            "FR725",
+            "FR805",
+            "FR810",
+            "MD189",
+            "MD190"
+        ]
+    },
+    {
+        "code": "BM500",
+        "name": "Iniciação Científica em Microbiologia I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Microbiologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BM584",
+        "name": "Microbiologia (Biologia Molecular)",
+        "credits": 4,
+        "syllabus": "Caracterização de antígenos dos Micro-organismos. Mecanismos de patogenicidade dos Micro-organismos. Ecologia Microbiana, alteração entre os micro-organismos com ambiente, plantas e animais. Ciclos Biogeoquímicos, Bactérias, Vírus e leveduras como carreadores de genes para proteínas de interesse biotecnológico. Engenharia genética de vacinas.",
+        "reqs": [
+            [
+                {
+                    "code": "BM382"
+                }
+            ],
+            [
+                {
+                    "code": "BM720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BM600",
+        "name": "Iniciação Científica em Microbiologia II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Microbiologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BM700",
+        "name": "Estágio Supervisionado em Microbiologia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Genética, Evolução e Bioagentes, área de Microbiologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BM710",
+        "name": "Estágio Supervisionado na Área de Microbiologia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Genética, Evolução e Bioagentes, área de Microbiologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BM720",
+        "name": "Microbiologia",
+        "credits": 4,
+        "syllabus": "Bactérias, fungos e vírus: estrutura e formas de organização. Metabolismo microbiano. Controle dos micro-organismos. Microbiota. Relações micro-organismos e seus hospedeiros. Relações vírus e seus hospedeiros. Métodos de visualização de bactérias e fungos. Crescimento bacteriano \"in vitro\". Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BM584"
+        ]
+    },
+    {
+        "code": "BM800",
+        "name": "Estágio Supervisionado em Microbiologia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas na área de pesquisa de Microbiologia, do Departamento de Genética, Evolução e Bioagentes.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    }
+]

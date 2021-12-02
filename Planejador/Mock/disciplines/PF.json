@@ -1,0 +1,26 @@
+[
+    {
+        "code": "PF093",
+        "name": "Introdução à Prática de Ciências e Artes I",
+        "credits": 8,
+        "syllabus": "Iniciação ao pensamento crítico relativo ao conhecimento científico e senso comum. Inserção do aluno no cotidiano do processo criativo, em atividades de pesquisa laboratoriais ou artísticas. Noções sobre a pesquisa científica e suas características. Apresentação do trabalho de Iniciação Científica - IC na Mostra Científica do ProFIS e opcional a apresentação em qualquer outro evento científico."
+    },
+    {
+        "code": "PF094",
+        "name": "Introdução à Prática de Ciências e Artes II",
+        "credits": 8,
+        "syllabus": "Iniciação ao pensamento crítico relativo ao conhecimento científico e senso comum. Inserção do aluno no cotidiano do processo criativo, em atividades de pesquisa laboratoriais ou artísticas. Noções sobre a pesquisa científica e suas características.  Apresentação obrigatória do trabalho de Iniciação Científica - IC na Mostra Científica do ProFIS e opcional a apresentação em qualquer outro evento científico."
+    },
+    {
+        "code": "PF095",
+        "name": "As Profissões",
+        "credits": 2,
+        "syllabus": "Desenvolvimento de carreira e identidade profissional. Estrutura da Educação Superior. Atividades de autoconhecimento e informações sobre variáveis presentes na escolha de um de curso de graduação. Seminários sobre as atividades e campos de atuação das profissões associadas aos cursos de graduação oferecidos pela UNICAMP."
+    },
+    {
+        "code": "PF096",
+        "name": "Introdução à Economia",
+        "credits": 4,
+        "syllabus": "Economia de mercado: principais elementos, origens e destino da produção. A circulação em uma economia de mercado. As relações econômicas internacionais. O setor público. O sistema financeiro. A unidade produtora e sua inserção no sistema. Repartição da renda e apropriação do produto social. Economia como ciência social. Crescimento e transformação estrutural: desenvolvimento e subdesenvolvimento. Alguns indicadores econômicos e sociais: comparações internacionais históricas."
+    }
+]

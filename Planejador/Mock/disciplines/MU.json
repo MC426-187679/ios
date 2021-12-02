@@ -1,0 +1,5027 @@
+[
+    {
+        "code": "MU007",
+        "name": "Literatura Pianística do Período Romântico",
+        "credits": 2,
+        "syllabus": "Visão geral das obras mais representativas escritas para o piano durante o período romântico.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU013",
+        "name": "Viola da Gamba",
+        "credits": 2,
+        "syllabus": "Estudo progressivo do instrumento. Peças do repertório solista.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU014",
+        "name": "Música de Câmera Barroca",
+        "credits": 2,
+        "syllabus": "Instrumentos barrocos. Repertório e conjuntos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU016",
+        "name": "Árias Antigas - Interpretação",
+        "credits": 2,
+        "syllabus": "Exercícios técnicos dirigidos à compreensão do estilo interpretativo. Estudos biográfico e estético dos autores. Estudos dos textos em sua fonética original.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU024",
+        "name": "Literatura Pianística Brasileira",
+        "credits": 2,
+        "syllabus": "A história do piano no Brasil e sua influência no pensamento musical do país. Obras, compositores e repertório.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU026",
+        "name": "Criação Contemporânea: Obras e Técnicas",
+        "credits": 2,
+        "syllabus": "Análise de uma obra musical, identificação de elementos determinados da estrutura da obra, criação livre a partir desses elementos.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU027",
+        "name": "Introdução à Música do Século XX",
+        "credits": 2,
+        "syllabus": "Ultracronismo de Wagner. Expressionismo. O grupo dos seis. Stravinsky. Experimentalismo. Bartok. Recursos eletroacústicos. Ruidismo.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU035",
+        "name": "Acústica Musical I",
+        "credits": 2,
+        "syllabus": "Estudo de acústica aplicada à música e instrumentos musicais.",
+        "reqBy": [
+            "MU036"
+        ]
+    },
+    {
+        "code": "MU036",
+        "name": "Acústica Musical II",
+        "credits": 2,
+        "syllabus": "Estudo de acústica aplicada à música e instrumentos musicais.",
+        "reqs": [
+            [
+                {
+                    "code": "MU035"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU189"
+        ]
+    },
+    {
+        "code": "MU044",
+        "name": "Eletroacústica I",
+        "credits": 3,
+        "syllabus": "Desenvolvimento de projeto composicional em eletroacústica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "MU243"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU045"
+        ]
+    },
+    {
+        "code": "MU045",
+        "name": "Eletroacústica II",
+        "credits": 3,
+        "syllabus": "Desenvolvimento de projeto composicional em eletroacústica.",
+        "reqs": [
+            [
+                {
+                    "code": "MU044"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU049",
+        "name": "Introdução à Pesquisa",
+        "credits": 2,
+        "syllabus": "Referenciais teóricos e metodológicos básicos com revisão da Língua Portuguesa e realização de projeto de pesquisa no campo da música. Leitura e escrita de textos acadêmicos. Elaboração de projeto de pesquisa com definição de objetivo, objeto de estudo, metodologia, cronograma, bibliografia, conforme padrões vigentes.",
+        "reqs": [
+            [
+                {
+                    "code": "MU105"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU397"
+        ]
+    },
+    {
+        "code": "MU050",
+        "name": "Princípios de Linguagem Musical I",
+        "credits": 2,
+        "syllabus": "Introdução à teoria musical e apreciação. Disciplina voltada aos alunos do certificado de estudos em engenharia de som do curso de Engenharia Elétrica.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE938",
+            "MU051"
+        ]
+    },
+    {
+        "code": "MU051",
+        "name": "Princípios da Linguagem Musical II",
+        "credits": 2,
+        "syllabus": "Introdução à teoria musical e apreciação. Disciplina voltada aos alunos do certificado de estudos em engenharia de som do curso de Engenharia Elétrica.",
+        "reqs": [
+            [
+                {
+                    "code": "MU050"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EE938"
+        ]
+    },
+    {
+        "code": "MU054",
+        "name": "Tópicos Especiais em Música I",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU055"
+        ]
+    },
+    {
+        "code": "MU055",
+        "name": "Tópicos Especiais em Música II",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU054"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU056"
+        ]
+    },
+    {
+        "code": "MU056",
+        "name": "Tópicos Especiais em Música III",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU055"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU057"
+        ]
+    },
+    {
+        "code": "MU057",
+        "name": "Tópicos Especiais em Música IV",
+        "credits": 2,
+        "syllabus": "Estudo programado de assunto relevante em área específica da música.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU056"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU058",
+        "name": "Rítmica I",
+        "credits": 5,
+        "syllabus": "Treinamento auditivo e prática progressiva rítmica. Conceitos, análise, exercícios e ditados.",
+        "reqBy": [
+            "MU059"
+        ]
+    },
+    {
+        "code": "MU059",
+        "name": "Rítmica II",
+        "credits": 5,
+        "syllabus": "Treinamento auditivo e prática progressiva rítmica. Conceitos, análise, exercícios e ditados.",
+        "reqs": [
+            [
+                {
+                    "code": "MU058"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU060"
+        ]
+    },
+    {
+        "code": "MU060",
+        "name": "Rítmica III",
+        "credits": 5,
+        "syllabus": "Treinamento auditivo e prática progressiva rítmica. Conceitos, análise, exercícios e ditados.",
+        "reqs": [
+            [
+                {
+                    "code": "MU059"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU061"
+        ]
+    },
+    {
+        "code": "MU061",
+        "name": "Rítmica IV",
+        "credits": 5,
+        "syllabus": "Treinamento auditivo e prática progressiva rítmica. Conceitos, análise, exercícios e ditados.",
+        "reqs": [
+            [
+                {
+                    "code": "MU060"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU062"
+        ]
+    },
+    {
+        "code": "MU062",
+        "name": "Rítmica V",
+        "credits": 1,
+        "syllabus": "Treinamento auditivo e prática progressiva em rítmica. Conceitos, análise, exercícios e ditados.",
+        "reqs": [
+            [
+                {
+                    "code": "MU061"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU063"
+        ]
+    },
+    {
+        "code": "MU063",
+        "name": "Rítmica VI",
+        "credits": 1,
+        "syllabus": "Treinamento auditivo e prática progressiva em rítmica. Conceitos, análise, exercícios e ditados.",
+        "reqs": [
+            [
+                {
+                    "code": "MU062"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU068",
+        "name": "Laboratório de Instrumentos Harmônicos",
+        "credits": 2,
+        "syllabus": "Estudo ordenado e progressivo de instrumentos harmônicos visando o desenvolvimento técnico-pedagógico do aluno."
+    },
+    {
+        "code": "MU070",
+        "name": "Percussão Aplicada",
+        "credits": 2,
+        "syllabus": "Estudo ordenado e progressivo de instrumentos de percussão visando o desenvolvimento técnico-pedagógico do aluno."
+    },
+    {
+        "code": "MU081",
+        "name": "Madrigal I",
+        "credits": 2,
+        "syllabus": "Prática do canto coral de câmara em nível básico através do Madrigal do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU082"
+        ]
+    },
+    {
+        "code": "MU082",
+        "name": "Madrigal II",
+        "credits": 2,
+        "syllabus": "Prosseguimento da prática do canto coral de câmara em nível básico através do Madrigal do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU081"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU083"
+        ]
+    },
+    {
+        "code": "MU083",
+        "name": "Madrigal III",
+        "credits": 2,
+        "syllabus": "Prática do canto coral de câmara em nível intermediário através do Madrigal do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU082"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU084"
+        ]
+    },
+    {
+        "code": "MU084",
+        "name": "Madrigal IV",
+        "credits": 2,
+        "syllabus": "Prosseguimento da prática do canto coral de câmara em nível intermediário através do Madrigal do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU083"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU085"
+        ]
+    },
+    {
+        "code": "MU085",
+        "name": "Madrigal V",
+        "credits": 2,
+        "syllabus": "Prática de repertório variado do canto coral de câmara através do Madrigal do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU084"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU086"
+        ]
+    },
+    {
+        "code": "MU086",
+        "name": "Madrigal VI",
+        "credits": 2,
+        "syllabus": "Prosseguimento da prática de repertório variado do canto coral de câmara através do Madrigal do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU085"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU091",
+        "name": "Prática de Ensino I",
+        "credits": 3,
+        "syllabus": "Prática de ensino em área de interesse do estudante, supervisionado por docente especializado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU092"
+        ]
+    },
+    {
+        "code": "MU092",
+        "name": "Prática de Ensino II",
+        "credits": 3,
+        "syllabus": "Prática de ensino em área de interesse do estudante, supervisionado por docente especializado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "MU091"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU093"
+        ]
+    },
+    {
+        "code": "MU093",
+        "name": "Prática de Ensino III",
+        "credits": 3,
+        "syllabus": "Prática de ensino em área de interesse do estudante, supervisionado por docente especializado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "MU092"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU094"
+        ]
+    },
+    {
+        "code": "MU094",
+        "name": "Prática de Ensino IV",
+        "credits": 3,
+        "syllabus": "Prática de ensino em área de interesse do estudante, supervisionado por docente especializado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "MU093"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU102",
+        "name": "Instrumento I",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo em Instrumento de escolha do aluno.",
+        "reqBy": [
+            "MU202"
+        ]
+    },
+    {
+        "code": "MU103",
+        "name": "Flauta I",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento, com ênfase em estudos técnicos; estudos de sonoridade, escalas; organização e plano de estudo.",
+        "reqBy": [
+            "MU203"
+        ]
+    },
+    {
+        "code": "MU104",
+        "name": "Oboé I",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.\n ",
+        "reqBy": [
+            "MU204"
+        ]
+    },
+    {
+        "code": "MU105",
+        "name": "Estruturação Musical I",
+        "credits": 2,
+        "syllabus": "Revisão de teoria musical básica. Introdução aos princípios de escrita harmônica e contraponto.",
+        "reqBy": [
+            "MU049",
+            "MU205"
+        ]
+    },
+    {
+        "code": "MU106",
+        "name": "Clarineta I",
+        "credits": 3,
+        "syllabus": "De caráter prático, essa disciplina pretende apresentar aos alunos conceitos fundamentais relacionados ao ato de tocar clarineta, articulando da melhor forma possível a relação entre esforço e resultado obtido a partir de uma postura confortável e ergonômica, com especial ênfase para a correta emissão da coluna de ar, combinando ainda, através do estudo proposto e de um repertório selecionado, elementos de percepção musical e lidando com aspectos da expectativa do aluno em relação ao resultado desejado.",
+        "reqBy": [
+            "MU206"
+        ]
+    },
+    {
+        "code": "MU109",
+        "name": "Violino I",
+        "credits": 3,
+        "syllabus": "Estudos iniciais sobre a técnica básica do violino, seus aspectos relevantes, mecanismos e literatura específica para o instrumento.",
+        "reqBy": [
+            "MU209"
+        ]
+    },
+    {
+        "code": "MU111",
+        "name": "Música Industrializada I",
+        "credits": 2,
+        "syllabus": "Conceitos de industrialização em geral e o caso particular da industrialização do som. Conceitos musicais e de audição em linguagem física. A gravação sonora sob os aspectos histórico e técnico atual.",
+        "reqBy": [
+            "MU231"
+        ]
+    },
+    {
+        "code": "MU112",
+        "name": "Técnica Vocal I",
+        "credits": 2,
+        "syllabus": "Estudos iniciais sobre técnica básica de canto: aparelho fonador, sistema respiratório, noções de ressonância, aplicação técnica e exercícios.",
+        "reqBy": [
+            "MU212"
+        ]
+    },
+    {
+        "code": "MU114",
+        "name": "Análise I",
+        "credits": 2,
+        "syllabus": "Análise sistemática de obras do repertório musical de acordo com conceitos da teoria musical e princípios de organização do material sonoro.",
+        "reqs": [
+            [
+                {
+                    "code": "MU205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU214"
+        ]
+    },
+    {
+        "code": "MU119",
+        "name": "Pedagogia e Didática Musical I",
+        "credits": 6,
+        "syllabus": "Estudo das principais linhas pedagógicas e conceitos de metodologia de ensino aplicados à música.Uso de recursos das tecnologias de informação e comunicação empregados na música e no ensino de música.",
+        "reqBy": [
+            "MU219"
+        ]
+    },
+    {
+        "code": "MU120",
+        "name": "Coral I",
+        "credits": 2,
+        "syllabus": "Participação no coral dos Cursos de Bacharelado em Música e Licenciatura em Música.",
+        "reqBy": [
+            "MU220"
+        ]
+    },
+    {
+        "code": "MU121",
+        "name": "Contrabaixo I",
+        "credits": 3,
+        "syllabus": "Revisão das bases técnicas da performance do contrabaixo acústico;  técnicas de organização do estudo (princípios gerais); princípios da afinação.\n ",
+        "reqBy": [
+            "MU221"
+        ]
+    },
+    {
+        "code": "MU123",
+        "name": "Piano I",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca aspectos pianísticos básicos, contemplando princípios técnicos, ergonômicos, pedalização e leitura.\n ",
+        "reqBy": [
+            "MU223"
+        ]
+    },
+    {
+        "code": "MU124",
+        "name": "Cravo I",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqBy": [
+            "MU224"
+        ]
+    },
+    {
+        "code": "MU126",
+        "name": "Viola I",
+        "credits": 3,
+        "syllabus": "Detecção e correção de problemas posturais; desenvolvimento de bons hábitos de estudo do instrumento; utilização de métodos para construção de base técnica sólida e melhor compreensão da mecânica envolvida na prática de um instrumento de cordas.",
+        "reqBy": [
+            "MU226"
+        ]
+    },
+    {
+        "code": "MU127",
+        "name": "Violoncelo I",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqBy": [
+            "MU227"
+        ]
+    },
+    {
+        "code": "MU128",
+        "name": "Estética e Introdução à Filosofia I",
+        "credits": 2,
+        "syllabus": "Estudo filosófico da obra de arte. Conceitos de estética e introdução à bibliografia específica.",
+        "reqBy": [
+            "MU228"
+        ]
+    },
+    {
+        "code": "MU129",
+        "name": "Baixo Cifrado I",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da técnica de baixo contínuo do período barroco.",
+        "reqBy": [
+            "MU229"
+        ]
+    },
+    {
+        "code": "MU131",
+        "name": "Etnomusicologia I",
+        "credits": 2,
+        "syllabus": "Estudo das manifestações musicais em diferentes culturas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU132",
+        "name": "Trilhas Sonoras I",
+        "credits": 2,
+        "syllabus": "A música como elemento das linguagens audiovisuais. Aspectos histórico e técnico.",
+        "reqBy": [
+            "MU232"
+        ]
+    },
+    {
+        "code": "MU140",
+        "name": "Instrumentação I",
+        "credits": 2,
+        "syllabus": "Estudo de instrumentação: instrumentos de percussão e de cordas.",
+        "reqBy": [
+            "MU240"
+        ]
+    },
+    {
+        "code": "MU142",
+        "name": "Jingle",
+        "credits": 2,
+        "syllabus": "Criação e produção de trilhas sonoras para comerciais de rádio e TV.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU143",
+        "name": "Iniciação à Composição I",
+        "credits": 2,
+        "syllabus": "Introdução às principais técnicas de composição musical. Prática e exercícios supervisionados.",
+        "reqBy": [
+            "MU243"
+        ]
+    },
+    {
+        "code": "MU146",
+        "name": "Harmonia do Período Barroco",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da harmonia por estilos. O período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU246"
+        ]
+    },
+    {
+        "code": "MU147",
+        "name": "Iniciação à Regência I",
+        "credits": 6,
+        "syllabus": "Fundamentos básicos do gestual de regência.",
+        "reqBy": [
+            "MU247"
+        ]
+    },
+    {
+        "code": "MU148",
+        "name": "Regência Coral I",
+        "credits": 6,
+        "syllabus": "Estudo dos principais elementos de regência coral e sua aplicação prática.",
+        "reqs": [
+            [
+                {
+                    "code": "MU247"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU248"
+        ]
+    },
+    {
+        "code": "MU149",
+        "name": "História da Música Popular Brasileira I",
+        "credits": 2,
+        "syllabus": "Estudo da história da música popular brasileira das origens aos dias de hoje. Gêneros, estilos, artistas e movimentos."
+    },
+    {
+        "code": "MU154",
+        "name": "Apreciação Musical I",
+        "credits": 2,
+        "syllabus": "Estudo dos principais elementos da música através de audição analítica de estilos musicais diversos.",
+        "reqBy": [
+            "MU254"
+        ]
+    },
+    {
+        "code": "MU155",
+        "name": "Contraponto e Fuga I",
+        "credits": 2,
+        "syllabus": "Estudo da técnica polifônica da música ocidental. Prática de escrita contrapontística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU205"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU255"
+        ]
+    },
+    {
+        "code": "MU160",
+        "name": "História da Arte I",
+        "credits": 2,
+        "syllabus": "Estudo dos períodos da história da arte com ênfase na inter-relação entre as diversas formas de expressão artística.",
+        "reqBy": [
+            "MU260"
+        ]
+    },
+    {
+        "code": "MU162",
+        "name": "Laboratório de Expressão Corporal I",
+        "credits": 2,
+        "syllabus": "Introdução à expressão corporal. Laboratório de expressão livre.",
+        "reqBy": [
+            "MU262"
+        ]
+    },
+    {
+        "code": "MU164",
+        "name": "Instrumento Complementar I",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU264"
+        ]
+    },
+    {
+        "code": "MU165",
+        "name": "Orquestração I",
+        "credits": 2,
+        "syllabus": "Estudo comparativo das formas de orquestração. Os diversos conjuntos orquestrais. Transcrições.",
+        "reqs": [
+            [
+                {
+                    "code": "MU240"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU265"
+        ]
+    },
+    {
+        "code": "MU168",
+        "name": "Semiótica I",
+        "credits": 2,
+        "syllabus": "Conceitos fundamentais da teoria dos signos com ênfase na linguagem musical.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU268"
+        ]
+    },
+    {
+        "code": "MU171",
+        "name": "Composição I",
+        "credits": 4,
+        "syllabus": "Exercícios de criação musical para distintas formações intrumentais e/ou vocal, com ou sem suporte tecnológico, juntamente a estudo de repertório e análise de obras musicais correlatas, com ênfase na produção musical recente.",
+        "reqs": [
+            [
+                {
+                    "code": "MU243"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU271"
+        ]
+    },
+    {
+        "code": "MU172",
+        "name": "Solfejo I",
+        "credits": 1,
+        "syllabus": "Exercícios de solfejo cantado apresentados em ordem gradual de complexidade. Leitura à primeira vista de melodias, cânones e exemplos do repertório tradicional.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU272"
+        ]
+    },
+    {
+        "code": "MU173",
+        "name": "Estágio Supervisionado I",
+        "credits": 8,
+        "syllabus": "Estágio profissionalizante em área de interesse do estudante, supervisionado por docente especializado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU273"
+        ]
+    },
+    {
+        "code": "MU175",
+        "name": "Regência Orquestral I",
+        "credits": 6,
+        "syllabus": "Estudo dos principais elementos de regência orquestral e sua aplicação prática.",
+        "reqs": [
+            [
+                {
+                    "code": "MU448"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU275"
+        ]
+    },
+    {
+        "code": "MU178",
+        "name": "Música de Câmera I",
+        "credits": 3,
+        "syllabus": "Prática musical em pequenos grupos. Execução de repertório camerístico.",
+        "reqBy": [
+            "MU278"
+        ]
+    },
+    {
+        "code": "MU179",
+        "name": "Prática Orquestral I",
+        "credits": 4,
+        "syllabus": "Introdução aos fundamentos da prática de orquestra através da Orquestra do Departamento de Música da UNICAMP.",
+        "reqBy": [
+            "MU279"
+        ]
+    },
+    {
+        "code": "MU181",
+        "name": "Acompanhamento I",
+        "credits": 1,
+        "syllabus": "Estudo progressivo de técnicas de acompanhamento aplicadas à literatura vocal ou instrumental.",
+        "reqBy": [
+            "MU281"
+        ]
+    },
+    {
+        "code": "MU184",
+        "name": "Trompete I",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do Instrumento realizado por meio de uma revisão sobre postura, respiração e embocadura, além de apresentar estudos referentes à articulação, dinâmica, fraseado, escalas e arpejos.\n ",
+        "reqBy": [
+            "MU284"
+        ]
+    },
+    {
+        "code": "MU186",
+        "name": "Trombone I",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento que será tratado por meio de revisão dos aspectos técnicos, além de apresentar estudos do repertório orquestral, solo e camerístico do trombone.\n ",
+        "reqBy": [
+            "MU286"
+        ]
+    },
+    {
+        "code": "MU188",
+        "name": "Técnicas de Aprendizagem Pianística I",
+        "credits": 2,
+        "syllabus": "Desenvolvimento técnico-pedagógico que possibilite ao aluno o desempenho nas atividades de ensino de teclado (Piano).",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU288"
+        ]
+    },
+    {
+        "code": "MU189",
+        "name": "Criação Musical com Novos Suportes Tecnológicos I",
+        "credits": 4,
+        "syllabus": "Estudo teórico e prático de recursos recentes para a criação musical com auxílio de computador e tecnologias eletrônicas. Estudo de estruturas generativas algorítmicas, síntese, análise e processos interativos que sirvam de suporte para a realização de projetos criativos com suporte computacional como instalações, sonoficação de ambientes, performance de musica mista, sistemas interativos para improvisação em tempo real, entre outros.",
+        "reqs": [
+            [
+                {
+                    "code": "MU036"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU289"
+        ]
+    },
+    {
+        "code": "MU190",
+        "name": "História da Música Brasileira I",
+        "credits": 2,
+        "syllabus": "História da música de concerto e de outras manifestações musicais no Brasil do período colonial aos dias de hoje.",
+        "reqs": [
+            [
+                {
+                    "code": "MU360"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU290"
+        ]
+    },
+    {
+        "code": "MU192",
+        "name": "Percussão I",
+        "credits": 3,
+        "syllabus": "Conceitos Básicos da Percussão, contemplando princípios técnicos, históricos, de leitura e interpretativos.",
+        "reqBy": [
+            "MU292"
+        ]
+    },
+    {
+        "code": "MU193",
+        "name": "Percepção Musical I",
+        "credits": 5,
+        "syllabus": "Treinamento auditivo para músicos. Codificação e decodificação de eventos musicais melódicos e harmônicos apresentados de maneira gradual, por ordem de dificuldade.",
+        "reqBy": [
+            "MU293"
+        ]
+    },
+    {
+        "code": "MU194",
+        "name": "Violão I",
+        "credits": 3,
+        "syllabus": "nesse primeiro semestre o aluno terá que adequar questões de sonoridade, técnica e interpretação para exercícios específicos (arpejos, ligados e escalas) e estudos (em geral, os 25 Estudos Opus 60 de Matteo Carcassi e Estudos de Leo Brouwer). Apenas após esse procedimento o aluno poderá prosseguir com obras-chave do repertório mundial. Essa atividade será retornada nos semestres seguintes, caso necessário.",
+        "reqBy": [
+            "MU294"
+        ]
+    },
+    {
+        "code": "MU196",
+        "name": "Canto I",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca princípios básicos do canto de maneira coletiva, contemplando a detecção e correção de problemas vocais e o desenvolvimento de bons hábitos de estudo do canto; utilização de métodos para a construção de base técnica sólida com a prática de exercícios técnicos e de repertório de câmara brasileiro e italiano do século XIX.",
+        "reqBy": [
+            "MU296"
+        ]
+    },
+    {
+        "code": "MU198",
+        "name": "Tópicos Especiais em Regência Coral I",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto relevante na área de Regência Coral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU298"
+        ]
+    },
+    {
+        "code": "MU199",
+        "name": "Tópicos Especiais em Regência Orquestral I",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto relevante na área de Regência Orquestral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU299"
+        ]
+    },
+    {
+        "code": "MU202",
+        "name": "Instrumento II",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo em Instrumento de escolha do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MU102"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU302"
+        ]
+    },
+    {
+        "code": "MU203",
+        "name": "Flauta II",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento; sonoridade, aspectos da articulação quanto às questões técnicas e musicais e particularidades estilísticas.  Continuação da disciplina MU103.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU103"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU303"
+        ]
+    },
+    {
+        "code": "MU204",
+        "name": "Oboé II",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU104"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU304"
+        ]
+    },
+    {
+        "code": "MU205",
+        "name": "Estruturação Musical II",
+        "credits": 2,
+        "syllabus": "Revisão de teoria musical básica. Introdução aos princípios de escrita harmônica e contraponto.",
+        "reqs": [
+            [
+                {
+                    "code": "MU105"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP110",
+            "MU114",
+            "MU146",
+            "MU155"
+        ]
+    },
+    {
+        "code": "MU206",
+        "name": "Clarineta II",
+        "credits": 3,
+        "syllabus": "De caráter prático, essa disciplina busca sedimentar as relações desenvolvidas na disciplina MU106 – Clarineta I, dando continuidade às discussões sobre otimização de esforço versus resultado obtido, focando ainda na expectativa do aluno, bem como em elementos da percepção musical, na emissão da coluna de ar, postura e ergonomia, e buscando a partir disso trabalhar um posicionamento dos dedos e mãos de forma a obter uma digitação eficiente no repertório de diferentes períodos históricos selecionados.",
+        "reqs": [
+            [
+                {
+                    "code": "MU106"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU306"
+        ]
+    },
+    {
+        "code": "MU209",
+        "name": "Violino II",
+        "credits": 3,
+        "syllabus": "Estratégias de estudo, estudo ordenado e progressivo do instrumento através dos materiais pedagógicos de referência e abordagem do repertório barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU109"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU309"
+        ]
+    },
+    {
+        "code": "MU212",
+        "name": "Técnica Vocal II",
+        "credits": 2,
+        "syllabus": "Técnica vocal para coral; registros vocais; classificação de vozes; leitura e interpretação de textos musicais.",
+        "reqs": [
+            [
+                {
+                    "code": "MU112"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU312",
+            "MU512"
+        ]
+    },
+    {
+        "code": "MU214",
+        "name": "Análise II",
+        "credits": 2,
+        "syllabus": "Análise sistemática de obras do repertório musical de acordo com conceitos da teoria musical e princípios de organização do material sonoro.",
+        "reqs": [
+            [
+                {
+                    "code": "MU114"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU314"
+        ]
+    },
+    {
+        "code": "MU219",
+        "name": "Pedagogia e Didática Musical II",
+        "credits": 6,
+        "syllabus": "Estudo das principais linhas pedagógicas e conceitos de metodologia de ensino aplicados à música.Uso de recursos das tecnologias de informação e comunicação empregados na música e no ensino de música.",
+        "reqs": [
+            [
+                {
+                    "code": "MU119"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU319"
+        ]
+    },
+    {
+        "code": "MU220",
+        "name": "Coral II",
+        "credits": 2,
+        "syllabus": "Iniciação à prática do canto coral através do Coro do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU120"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU320"
+        ]
+    },
+    {
+        "code": "MU221",
+        "name": "Contrabaixo II",
+        "credits": 3,
+        "syllabus": "Introdução ao sistema de 6 posições da mão esquerda (François Rabbath/Barry Green); exercícios de sonoridade (mão direita); técnicas de organização do estudo (técnica pura 1); estudos de afinação (básico).",
+        "reqs": [
+            [
+                {
+                    "code": "MU121"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU321"
+        ]
+    },
+    {
+        "code": "MU223",
+        "name": "Piano II",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca aspectos pianísticos de nível intermediário, contemplando questões técnicas, ergonômicas, pedalização e leitura.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU123"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU323"
+        ]
+    },
+    {
+        "code": "MU224",
+        "name": "Cravo II",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU124"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU324"
+        ]
+    },
+    {
+        "code": "MU226",
+        "name": "Viola II",
+        "credits": 3,
+        "syllabus": "Aprimoramento postural; desenvolvimento de bons hábitos de estudo do instrumento, com organização do estudo diário em 3 blocos: técnica geral, técnica aplicada e repertório. Estudo do repertório do período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU126"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU326"
+        ]
+    },
+    {
+        "code": "MU227",
+        "name": "Violoncelo II",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU127"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU327"
+        ]
+    },
+    {
+        "code": "MU228",
+        "name": "Estética e Introdução à Filosofia II",
+        "credits": 2,
+        "syllabus": "Estudo filosófico da obra de arte. Conceitos de estética e introdução à bibliografia específica.",
+        "reqs": [
+            [
+                {
+                    "code": "MU128"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU229",
+        "name": "Baixo Cifrado II",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da técnica de baixo contínuo do período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU129"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU329"
+        ]
+    },
+    {
+        "code": "MU231",
+        "name": "Música Industrializada II",
+        "credits": 2,
+        "syllabus": "Conseqüências econômicas, sociais, artísticas e culturais da gravação sonora.",
+        "reqs": [
+            [
+                {
+                    "code": "MU111"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU232",
+        "name": "Trilhas Sonoras II",
+        "credits": 2,
+        "syllabus": "A música como elemento das linguagens audiovisuais. Aspectos histórico e técnico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU132"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU234",
+        "name": "Etnomusicologia II",
+        "credits": 2,
+        "syllabus": "Estudo das manifestações musicais em diferentes culturas.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU240",
+        "name": "Instrumentação II",
+        "credits": 2,
+        "syllabus": "Estudo de instrumentação: instrumentos de sopro: madeiras e metais.",
+        "reqs": [
+            [
+                {
+                    "code": "MU140"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU165"
+        ]
+    },
+    {
+        "code": "MU242",
+        "name": "Metodologia de Pesquisa em Música",
+        "credits": 2,
+        "syllabus": "Referenciais teóricos e metodológicos básicos para a realização de pesquisas no campo musical. Exercícios de elaboração de projetos, levantamento e organização de material empírico, elaboração de relatórios e redação."
+    },
+    {
+        "code": "MU243",
+        "name": "Iniciação à Composição II",
+        "credits": 2,
+        "syllabus": "Introdução às principais técnicas de composição musical. Prática e exercícios supervisionados.",
+        "reqs": [
+            [
+                {
+                    "code": "MU143"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU044",
+            "MU171"
+        ]
+    },
+    {
+        "code": "MU246",
+        "name": "Harmonia do Classicismo ao Romantismo",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da harmonia por estilos. O período clássico e introdução ao romantismo.",
+        "reqs": [
+            [
+                {
+                    "code": "MU146"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU346"
+        ]
+    },
+    {
+        "code": "MU247",
+        "name": "Iniciação à Regência II",
+        "credits": 6,
+        "syllabus": "Desenvolvimento dos princípios do gestual de regência.",
+        "reqs": [
+            [
+                {
+                    "code": "MU147"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU148"
+        ]
+    },
+    {
+        "code": "MU248",
+        "name": "Regência Coral II",
+        "credits": 6,
+        "syllabus": "Estudo de diferentes técnicas de regência coral e sua aplicação prática.",
+        "reqs": [
+            [
+                {
+                    "code": "MU148"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU348"
+        ]
+    },
+    {
+        "code": "MU254",
+        "name": "Apreciação Musical II",
+        "credits": 2,
+        "syllabus": "Estudo dos principais elementos da música através de audição de estilos musicais diversos.",
+        "reqs": [
+            [
+                {
+                    "code": "MU154"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU255",
+        "name": "Contraponto e Fuga II",
+        "credits": 2,
+        "syllabus": "Estudo da técnica polifônica da música ocidental. Prática de escrita contrapontística.",
+        "reqs": [
+            [
+                {
+                    "code": "MU155"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU355"
+        ]
+    },
+    {
+        "code": "MU260",
+        "name": "História da Arte II",
+        "credits": 2,
+        "syllabus": "Estudo dos períodos da história da arte com ênfase na inter-relação entre as diversas formas de expressão artística.",
+        "reqs": [
+            [
+                {
+                    "code": "MU160"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU262",
+        "name": "Laboratório de Expressão Corporal II",
+        "credits": 2,
+        "syllabus": "Introdução à expressão corporal. Laboratório de expressão livre.",
+        "reqs": [
+            [
+                {
+                    "code": "MU162"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU264",
+        "name": "Instrumento Complementar II",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "MU164"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU364"
+        ]
+    },
+    {
+        "code": "MU265",
+        "name": "Orquestração II",
+        "credits": 2,
+        "syllabus": "Estudo comparativo das formas de orquestração. Exercícios de orquestração para os diversos conjuntos orquestrais, banda e conjuntos originais.",
+        "reqs": [
+            [
+                {
+                    "code": "MU165"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU268",
+        "name": "Semiótica II",
+        "credits": 2,
+        "syllabus": "Conceitos fundamentais da teoria dos signos com ênfase na linguagem musical.",
+        "reqs": [
+            [
+                {
+                    "code": "MU168"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU271",
+        "name": "Composição II",
+        "credits": 4,
+        "syllabus": "Exercícios de criação musical para distintas formações intrumentais e/ou vocal, com ou sem suporte tecnológico, juntamente a estudo de repertório e análise de obras musicais correlatas, com ênfase na produção musical recente.",
+        "reqs": [
+            [
+                {
+                    "code": "MU171"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU371",
+            "MU372"
+        ]
+    },
+    {
+        "code": "MU272",
+        "name": "Solfejo II",
+        "credits": 1,
+        "syllabus": "Exercícios de solfejo cantado apresentados em ordem gradual de complexidade. Leitura à primeira vista de melodias, cânones e exemplos do repertório tradicional. Continuação da disciplina MU172.",
+        "reqs": [
+            [
+                {
+                    "code": "MU172"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU273",
+        "name": "Estágio Supervisionado II",
+        "credits": 8,
+        "syllabus": "Estágio profissionalizante em área de interesse do estudante, supervisionado por docente especializado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "MU173"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU373"
+        ]
+    },
+    {
+        "code": "MU275",
+        "name": "Regência Orquestral II",
+        "credits": 6,
+        "syllabus": "Estudo de diferentes técnicas de regência orquestral e sua aplicação prática.",
+        "reqs": [
+            [
+                {
+                    "code": "MU175"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU375"
+        ]
+    },
+    {
+        "code": "MU278",
+        "name": "Música de Câmera II",
+        "credits": 3,
+        "syllabus": "Prática musical em pequenos grupos. Execução de repertório camerístico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU178"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU378"
+        ]
+    },
+    {
+        "code": "MU279",
+        "name": "Prática Orquestral II",
+        "credits": 4,
+        "syllabus": "Iniciação à prática orquestral através da Orquestra do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU179"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU379"
+        ]
+    },
+    {
+        "code": "MU281",
+        "name": "Acompanhamento II",
+        "credits": 1,
+        "syllabus": "Estudo progressivo de técnicas de acompanhamento aplicadas à literatura vocal ou instrumental.",
+        "reqs": [
+            [
+                {
+                    "code": "MU181"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU381"
+        ]
+    },
+    {
+        "code": "MU284",
+        "name": "Trompete II",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do Instrumento que continue o trabalho de aprimoramento técnico e interpretativo iniciados na disciplina Trompete I. Será trabalhada uma literatura referente a origem e evolução do trompete, dos seus primórdios até o período barroco",
+        "reqs": [
+            [
+                {
+                    "code": "MU184"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU384"
+        ]
+    },
+    {
+        "code": "MU286",
+        "name": "Trombone II",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento que continue o trabalho de aprimoramento técnico e interpretativo iniciado na disciplina Trombone I. Será trabalhada uma literatura referente a origem e evolução do trombone, dos seus primórdios até o período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU186"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU386"
+        ]
+    },
+    {
+        "code": "MU288",
+        "name": "Técnicas de Aprendizagem Pianística II",
+        "credits": 2,
+        "syllabus": "Desenvolvimento técnico-pedagógico que possibilite ao aluno o desempenho nas atividades de ensino de teclado (Piano).",
+        "reqs": [
+            [
+                {
+                    "code": "MU188"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU388"
+        ]
+    },
+    {
+        "code": "MU289",
+        "name": "Criação Musical com Novos Suportes Tecnológicos II",
+        "credits": 4,
+        "syllabus": "Estudo teórico e prático de recursos recentes para a criação musical com auxílio de computador e tecnologias eletrônicas. Estudo de estruturas generativas algorítmicas, síntese, análise e processos interativos que sirvam de suporte para a realização de projetos criativos com suporte computacional como instalações, sonoficação de ambientes, performance de musica mista, sistemas interativos para improvisação em tempo real, entre outros.",
+        "reqs": [
+            [
+                {
+                    "code": "MU189"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU389"
+        ]
+    },
+    {
+        "code": "MU290",
+        "name": "História da Música Brasileira II",
+        "credits": 2,
+        "syllabus": "História da música de concerto e de outras manisfestações musicais no Brasil do período colonial aos dias de hoje.",
+        "reqs": [
+            [
+                {
+                    "code": "MU190"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU292",
+        "name": "Percussão II",
+        "credits": 3,
+        "syllabus": "Conceitos Intermediários de Percussão e introdução à percussão sinfônica e repertório solo percussivo.",
+        "reqs": [
+            [
+                {
+                    "code": "MU192"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU392"
+        ]
+    },
+    {
+        "code": "MU293",
+        "name": "Percepção Musical II",
+        "credits": 5,
+        "syllabus": "Treinamento auditivo para músicos. Codificação e decodificação de eventos musicais melódicos e harmônicos apresentados de maneira gradual, por ordem de dificuldade. Continuação da disciplina MU193.",
+        "reqs": [
+            [
+                {
+                    "code": "MU193"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU393"
+        ]
+    },
+    {
+        "code": "MU294",
+        "name": "Violão II",
+        "credits": 3,
+        "syllabus": "nesse segundo semestre o aluno aplicará sonoridade, técnica e interpretação para obras do repertório mundial. A ideia é formatar um programa de 50 minutos contendo peças de vários períodos. Inicialmente, o objetivo é abordar os períodos Clássico (no violão, corresponde ao início do século XIX) e Moderno (século XX).",
+        "reqs": [
+            [
+                {
+                    "code": "MU194"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU394"
+        ]
+    },
+    {
+        "code": "MU296",
+        "name": "Canto II",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca princípios intermediários do canto de maneira coletiva, contemplando o aprimoramento postural e técnico-vocal e o desenvolvimento de bons hábitos de estudo, através de exercícios técnicos e do estudo de canções de câmara brasileiras e italiana do século XIX, além de árias de oratórios ingleses do período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU196"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU362",
+            "MU396"
+        ]
+    },
+    {
+        "code": "MU298",
+        "name": "Tópicos Especiais em Regência Coral II",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto relevante na área de Regência Coral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU198"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU398"
+        ]
+    },
+    {
+        "code": "MU299",
+        "name": "Tópicos Especiais em Regência Orquestral II",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto relevante na área de Regência Orquestral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU199"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU399"
+        ]
+    },
+    {
+        "code": "MU302",
+        "name": "Instrumento III",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo em instrumento de escolha do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MU202"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU402"
+        ]
+    },
+    {
+        "code": "MU303",
+        "name": "Flauta III",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento. Estudo de repertório e prática de piccolo.  Continuação da disciplina MU203.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU203"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU403"
+        ]
+    },
+    {
+        "code": "MU304",
+        "name": "Oboé III",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU204"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU404"
+        ]
+    },
+    {
+        "code": "MU306",
+        "name": "Clarineta III",
+        "credits": 3,
+        "syllabus": "De caráter prático, essa disciplina aprofunda elementos da otimização de esforço versus resultado pretendido, tal qual discutido nas disciplinas MU106 e MU206, associando nesse ponto maior fluidez sobre os conceitos já trabalhados, buscando uma maior eficiência das rotinas de estudo, do repertório pretendido, além de uma relação mais sólida com as expectativas do aluno e uma concepção mais madura sobre como combinar esses elementos em uma prática musical criativa.",
+        "reqs": [
+            [
+                {
+                    "code": "MU206"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU406"
+        ]
+    },
+    {
+        "code": "MU309",
+        "name": "Violino III",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento através dos materiais pedagógicos de referência, e introdução ao estilo clássico.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU209"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU409"
+        ]
+    },
+    {
+        "code": "MU312",
+        "name": "Técnica Vocal III",
+        "credits": 2,
+        "syllabus": "Ressoadores, Imagens mentais, musculatura da emissão, aviculação, técnicas respiratórias, leitura e interpretação de textos.",
+        "reqs": [
+            [
+                {
+                    "code": "MU212"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU412"
+        ]
+    },
+    {
+        "code": "MU314",
+        "name": "Análise III",
+        "credits": 2,
+        "syllabus": "Análise sistemática de obras do repertório musical de acordo com conceitos da teoria musical e princípios de organização do material sonoro.",
+        "reqs": [
+            [
+                {
+                    "code": "MU214"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU414"
+        ]
+    },
+    {
+        "code": "MU319",
+        "name": "Pedagogia e Didática Musical III",
+        "credits": 2,
+        "syllabus": "Estudo das principais linhas pedagógicas e conceitos de metodologia de ensino aplicada à música.",
+        "reqs": [
+            [
+                {
+                    "code": "MU219"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU419"
+        ]
+    },
+    {
+        "code": "MU320",
+        "name": "Coral III",
+        "credits": 2,
+        "syllabus": "Prática do canto coral em nível básico através do Coro do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU220"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU420"
+        ]
+    },
+    {
+        "code": "MU321",
+        "name": "Contrabaixo III",
+        "credits": 3,
+        "syllabus": "Estudos em 3ª posição (Green);  repertório de orquestra I afinação, regência, postura; técnicas de organização do estudo (leitura 1); estudos de afinação (intermediário).",
+        "reqs": [
+            [
+                {
+                    "code": "MU221"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU421"
+        ]
+    },
+    {
+        "code": "MU323",
+        "name": "Piano III",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca aspectos pianísticos de nível avançado, contemplando questões técnicas, pedalização e leitura.",
+        "reqs": [
+            [
+                {
+                    "code": "MU223"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU423"
+        ]
+    },
+    {
+        "code": "MU324",
+        "name": "Cravo III",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU224"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU424"
+        ]
+    },
+    {
+        "code": "MU326",
+        "name": "Viola III",
+        "credits": 3,
+        "syllabus": "Maior autonomia na divisão do tempo de estudo; foco em características interpretativas de diferentes períodos estilísticos: barroco e clássico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU226"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU426"
+        ]
+    },
+    {
+        "code": "MU327",
+        "name": "Violoncelo III",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU227"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU427"
+        ]
+    },
+    {
+        "code": "MU329",
+        "name": "Baixo Cifrado III",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da técnica de baixo contínuo do período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU229"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU429"
+        ]
+    },
+    {
+        "code": "MU346",
+        "name": "Harmonia do Romantismo ao Século XX",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da harmonia por estilos. O período romântico e introdução à música do século XX.",
+        "reqs": [
+            [
+                {
+                    "code": "MU246"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU446"
+        ]
+    },
+    {
+        "code": "MU348",
+        "name": "Regência Coral III",
+        "credits": 6,
+        "syllabus": "Regência do Madrigal do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU248"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU448"
+        ]
+    },
+    {
+        "code": "MU355",
+        "name": "Contraponto I",
+        "credits": 2,
+        "syllabus": "Estudo da técnica polifônica da música ocidental. Prática de escrita contrapontística.",
+        "reqs": [
+            [
+                {
+                    "code": "MU255"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU455"
+        ]
+    },
+    {
+        "code": "MU360",
+        "name": "História da Música I",
+        "credits": 2,
+        "syllabus": "Estudo sistematizado dos principais elementos teóricos, estéticos e filosóficos da história da música.",
+        "reqBy": [
+            "MU190",
+            "MU460"
+        ]
+    },
+    {
+        "code": "MU362",
+        "name": "Ópera Estúdio I",
+        "credits": 2,
+        "syllabus": "Montagem completa ou parcial de obra operística.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU296"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU462"
+        ]
+    },
+    {
+        "code": "MU364",
+        "name": "Instrumento Complementar III",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "MU264"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU464"
+        ]
+    },
+    {
+        "code": "MU371",
+        "name": "Composição III",
+        "credits": 4,
+        "syllabus": "Exercícios composicionais em diferentes estilos musicais e/ou formações, observando os processos cognitivos envolvidos na criação artística desencadeados a partir de diversas operações de mimese sobre estruturas referenciais musicais e extramusicais.",
+        "reqs": [
+            [
+                {
+                    "code": "MU271"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU471"
+        ]
+    },
+    {
+        "code": "MU372",
+        "name": "Port-Folio de Composição Musical I",
+        "credits": 6,
+        "syllabus": "Constituição de port-folio de composições musicais permitindo que o aluno do curso de composição conclua seu ciclo de formação com um conjunto de obras compostas compatível com exigências atuais em âmbito acadêmico e demais setores de atividades artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "MU271"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU472"
+        ]
+    },
+    {
+        "code": "MU373",
+        "name": "Estágio Supervisionado III",
+        "credits": 8,
+        "syllabus": "Estágio profissionalizante em área de interesse do estudante, supervisionado por docente especializado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "MU273"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU473"
+        ]
+    },
+    {
+        "code": "MU375",
+        "name": "Regência Orquestral III",
+        "credits": 6,
+        "syllabus": "Prática de regência orquestral, associada à Orquestra do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU275"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU475"
+        ]
+    },
+    {
+        "code": "MU378",
+        "name": "Música de Câmera III",
+        "credits": 3,
+        "syllabus": "Prática musical em pequenos grupos. Execução de repertório camerístico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU278"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU478"
+        ]
+    },
+    {
+        "code": "MU379",
+        "name": "Prática Orquestral III",
+        "credits": 4,
+        "syllabus": "Prática orquestral em nível básico através da Orquestra do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU279"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU479"
+        ]
+    },
+    {
+        "code": "MU381",
+        "name": "Acompanhamento III",
+        "credits": 1,
+        "syllabus": "Estudo progressivo de técnicas de acompanhamento aplicadas à literatura vocal ou instrumental.",
+        "reqs": [
+            [
+                {
+                    "code": "MU281"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU481"
+        ]
+    },
+    {
+        "code": "MU384",
+        "name": "Trompete III",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do Instrumento abrangendo uma introdução aos estudos de transposição e a continuação da aplicação dos métodos de interpretação e técnica abordados em Trompete II.",
+        "reqs": [
+            [
+                {
+                    "code": "MU284"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU484"
+        ]
+    },
+    {
+        "code": "MU386",
+        "name": "Trombone III",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento com a continuidade da aplicação dos conteúdos de interpretação, técnica, extratos orquestrais e repertório camerístico tratados em Trombone II.",
+        "reqs": [
+            [
+                {
+                    "code": "MU286"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU486"
+        ]
+    },
+    {
+        "code": "MU388",
+        "name": "Técnicas de Aprendizagem Pianística III",
+        "credits": 2,
+        "syllabus": "Desenvolvimento técnico-pedagógico que possibilite ao aluno o desempenho nas atividades de ensino de teclado (Piano).",
+        "reqs": [
+            [
+                {
+                    "code": "MU288"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU488"
+        ]
+    },
+    {
+        "code": "MU389",
+        "name": "Criação Musical com Novos Suportes Tecnológicos III",
+        "credits": 4,
+        "syllabus": "Estudo teórico e prático de recursos recentes para a criação musical com auxílio de computador e tecnologias eletrônicas. Estudo de estruturas generativas algorítmicas, síntese, análise e processos interativos que sirvam de suporte para a realização de projetos criativos com suporte computacional como instalações, sonoficação de ambientes, performance de música mista, sistemas interativos para improvisação em tempo real, entre outros.",
+        "reqs": [
+            [
+                {
+                    "code": "MU289"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU489"
+        ]
+    },
+    {
+        "code": "MU392",
+        "name": "Percussão III",
+        "credits": 3,
+        "syllabus": "Aspectos técnicos ligados ao desenvolvimento de repertório solo e solista. ",
+        "reqs": [
+            [
+                {
+                    "code": "MU292"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU492"
+        ]
+    },
+    {
+        "code": "MU393",
+        "name": "Percepção Musical III",
+        "credits": 5,
+        "syllabus": "Treinamento auditivo para músicos. Codificação e decodificação de eventos musicais melódicos e harmônicos apresentados de maneira gradual, por ordem de dificuldade. Continuação da disciplina MU293.",
+        "reqs": [
+            [
+                {
+                    "code": "MU293"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU493"
+        ]
+    },
+    {
+        "code": "MU394",
+        "name": "Violão III",
+        "credits": 3,
+        "syllabus": "Nesse terceiro semestre o aluno prosseguirá na formatação de um programa de 50 minutos, tendo agora como objetivo estudar os períodos Renascentista (século XVI) e Romântico (no violão, corresponde à segunda metade do século XIX e primeira metade do século XX).",
+        "reqs": [
+            [
+                {
+                    "code": "MU294"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU494"
+        ]
+    },
+    {
+        "code": "MU396",
+        "name": "Canto III",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca princípios avançados do canto de maneira coletiva, contemplando maior autonomia no estudo técnico-vocal que permita ao aluno o domínio do canto através de exercícios técnicos e da prática de repertório de câmara brasileiro e italiano dos séculos XIX e XX e alemão do século XIX, além de árias de oratórios e ópera dos períodos barroco e clássico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU296"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU496"
+        ]
+    },
+    {
+        "code": "MU397",
+        "name": "Iniciação Científica I",
+        "credits": 6,
+        "syllabus": "Realização de pesquisa aprovada em agência de fomento à pesquisa no campo da música (performance, musicologia, composição, regência, educação musical).",
+        "reqs": [
+            [
+                {
+                    "code": "MU049"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU497"
+        ]
+    },
+    {
+        "code": "MU398",
+        "name": "Tópicos Especiais em Regência Coral III",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto relevante na área de Regência Coral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU298"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU498"
+        ]
+    },
+    {
+        "code": "MU399",
+        "name": "Tópicos Especiais em Regência Orquestral III",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto relevante na área de Regência Orquestral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU299"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU499"
+        ]
+    },
+    {
+        "code": "MU402",
+        "name": "Instrumento IV",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo em Instrumento de escolha do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MU302"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU502"
+        ]
+    },
+    {
+        "code": "MU403",
+        "name": "Flauta IV",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento. Ênfase na amplitude sonora. Ampliação do repertório e estilos estudados.  Continuação da disciplina MU303.",
+        "reqs": [
+            [
+                {
+                    "code": "MU303"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU503"
+        ]
+    },
+    {
+        "code": "MU404",
+        "name": "Oboé IV",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU304"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU504"
+        ]
+    },
+    {
+        "code": "MU406",
+        "name": "Clarineta IV",
+        "credits": 3,
+        "syllabus": "Essencialmente prática, essa disciplina busca desenvolver diferentes estratégias de estudo, com rotinas individualizadas às necessidades do aluno, ampliando assim o que já foi discutido e praticado nas disciplinas de MU106 a MU306, com atenção a uma maior consistência e domínio das competências adquiridas, bem como a ampliação delas com a inclusão de técnicas estendidas para a música contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "MU306"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU506"
+        ]
+    },
+    {
+        "code": "MU409",
+        "name": "Violino IV",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento através dos materiais pedagógicos de referência, preparação de repertório clássico e introdução ao repertório brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "MU309"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU509"
+        ]
+    },
+    {
+        "code": "MU412",
+        "name": "Técnica Vocal IV",
+        "credits": 2,
+        "syllabus": "Origem das vozes, natureza da voz cantada, registros vocais, exercícios e métodos.",
+        "reqs": [
+            [
+                {
+                    "code": "MU312"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU414",
+        "name": "Análise IV",
+        "credits": 2,
+        "syllabus": "Análise sistemática de obras do repertório musical de acordo com conceitos da teoria musical e princípios de organização do material sonoro.",
+        "reqs": [
+            [
+                {
+                    "code": "MU314"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU419",
+        "name": "Pedagogia e Didática Musical IV",
+        "credits": 2,
+        "syllabus": "Estudo das principais linhas pedagógicas e conceitos de metodologia de ensino aplicada à música.",
+        "reqs": [
+            [
+                {
+                    "code": "MU319"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU420",
+        "name": "Coral IV",
+        "credits": 2,
+        "syllabus": "Prosseguimento da prática do canto coral em nível básico através do Coro do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU320"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU520"
+        ]
+    },
+    {
+        "code": "MU421",
+        "name": "Contrabaixo IV",
+        "credits": 3,
+        "syllabus": "Estudos em 1ª posição (Rabbath); repertório de orquestra II – mov. lentos; repertório solo; técnicas de organização do estudo (técnica pura 2).\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU321"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU521"
+        ]
+    },
+    {
+        "code": "MU423",
+        "name": "Piano IV",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca desenvolvimento de recursos pianísticos em repertório de exigências pianísticas moderadas, contemplando princípios estilísticos de acordo com as variadas características musicais do repertório acatado.",
+        "reqs": [
+            [
+                {
+                    "code": "MU323"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU523"
+        ]
+    },
+    {
+        "code": "MU424",
+        "name": "Cravo IV",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU324"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU524"
+        ]
+    },
+    {
+        "code": "MU426",
+        "name": "Viola IV",
+        "credits": 3,
+        "syllabus": "Consolidação da autonomia na organização do estudo individual; aprimoramento do estudo de obras do período clássico, respectivas características estilísticas e sua relação com a técnica interpretativa.  ",
+        "reqs": [
+            [
+                {
+                    "code": "MU326"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU526"
+        ]
+    },
+    {
+        "code": "MU427",
+        "name": "Violoncelo IV",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU327"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU527"
+        ]
+    },
+    {
+        "code": "MU429",
+        "name": "Baixo Cifrado IV",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da técnica de baixo contínuo do período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU329"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU529"
+        ]
+    },
+    {
+        "code": "MU446",
+        "name": "Harmonia do Século XX",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da harmonia por estilos. A música de século XX.",
+        "reqs": [
+            [
+                {
+                    "code": "MU346"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MP530"
+        ]
+    },
+    {
+        "code": "MU448",
+        "name": "Regência Coral IV",
+        "credits": 6,
+        "syllabus": "Regência do Madrigal do Departamento de Música da UNICAMP e preparação para um concerto público.",
+        "reqs": [
+            [
+                {
+                    "code": "MU348"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU175",
+            "MU548",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU455",
+        "name": "Contraponto II",
+        "credits": 2,
+        "syllabus": "Estudo da técnica polifônica da música ocidental. Prática de escrita contrapontística.",
+        "reqs": [
+            [
+                {
+                    "code": "MU355"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU460",
+        "name": "História da Música II",
+        "credits": 2,
+        "syllabus": "Estudo sistematizado dos principais elementos teóricos, estéticos e filosóficos da história da música.",
+        "reqs": [
+            [
+                {
+                    "code": "MU360"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU560"
+        ]
+    },
+    {
+        "code": "MU462",
+        "name": "Ópera Stúdio II",
+        "credits": 2,
+        "syllabus": "Montagem completa ou parcial de obra operística.",
+        "reqs": [
+            [
+                {
+                    "code": "MU362"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU562"
+        ]
+    },
+    {
+        "code": "MU464",
+        "name": "Instrumento Complementar IV",
+        "credits": 2,
+        "syllabus": "Coordenadoria",
+        "reqs": [
+            [
+                {
+                    "code": "MU364"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU471",
+        "name": "Composição IV",
+        "credits": 4,
+        "syllabus": "Exercícios de composição musical realizados a partir de obras literária e cinematográfica.",
+        "reqs": [
+            [
+                {
+                    "code": "MU371"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU571"
+        ]
+    },
+    {
+        "code": "MU472",
+        "name": "Port-Folio de Composição Musical II",
+        "credits": 6,
+        "syllabus": "Constituição de port-folio de composições musicais permitindo que o aluno do curso de composição conclua seu ciclo de formação com um conjunto de obras compostas compatível com exigências atuais em âmbito acadêmico e demais setores de atividades artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "MU372"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU572"
+        ]
+    },
+    {
+        "code": "MU473",
+        "name": "Estágio Supervisionado IV",
+        "credits": 8,
+        "syllabus": "Estágio profissionalizante em área de interesse do estudante, supervisionado por docente especializado.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "MU373"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU475",
+        "name": "Regência Orquestral IV",
+        "credits": 6,
+        "syllabus": "Prática de regência orquestral, associada à Orquestra do Departamento de Música da UNICAMP e à Orquestra Sinfônica da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU375"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU575"
+        ]
+    },
+    {
+        "code": "MU478",
+        "name": "Música de Câmera IV",
+        "credits": 3,
+        "syllabus": "Prática musical em pequenos grupos. Execução de repertório camerístico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU378"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU578"
+        ]
+    },
+    {
+        "code": "MU479",
+        "name": "Prática Orquestral IV",
+        "credits": 4,
+        "syllabus": "Prosseguimento da prática orquestral em nível básico através da Orquestra do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU379"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU579"
+        ]
+    },
+    {
+        "code": "MU481",
+        "name": "Acompanhamento IV",
+        "credits": 1,
+        "syllabus": "Estudo progressivo de técnicas de acompanhamento aplicadas à literatura vocal ou instrumental.",
+        "reqs": [
+            [
+                {
+                    "code": "MU381"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU581"
+        ]
+    },
+    {
+        "code": "MU484",
+        "name": "Trompete IV",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do Instrumento que introduz à concepção técnico- interpretativa da Escola de Trompete de Boston. Referente ao repertório, serão estudadas obras escritas por compositores do período clássico e início do período romântico. ",
+        "reqs": [
+            [
+                {
+                    "code": "MU384"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU584"
+        ]
+    },
+    {
+        "code": "MU486",
+        "name": "Trombone IV",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento com a continuidade da aplicação dos conteúdos de interpretação, técnica, extratos orquestrais e repertório camerístico tratados em Trombone III. Serão estudadas obras escritas por compositores do período clássico e início do período romântico. ",
+        "reqs": [
+            [
+                {
+                    "code": "MU386"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU586"
+        ]
+    },
+    {
+        "code": "MU488",
+        "name": "Técnicas de Aprendizagem Pianística IV",
+        "credits": 2,
+        "syllabus": "Desenvolvimento técnico-pedagógico que possibilite ao aluno o desempenho nas atividades de ensino de teclado (Piano).",
+        "reqs": [
+            [
+                {
+                    "code": "MU388"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU489",
+        "name": "Criação Musical com Novos Suportes Tecnológicos IV",
+        "credits": 4,
+        "syllabus": "Estudo teórico e prático de recursos recentes para a criação musical com auxílio de computador e tecnologias eletrônicas. Estudo de estruturas generativas algorítmicas, síntese, análise e processos interativos que sirvam de suporte para a realização de projetos criativos com suporte computacional como instalações, sonoficação de ambientes, performance de música mista, sistemas interativos para improvisação em tempo real, entre outros.",
+        "reqs": [
+            [
+                {
+                    "code": "MU389"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU492",
+        "name": "Percussão IV",
+        "credits": 3,
+        "syllabus": "Desenvolvimento técnico instrumental e interpretativo voltado para realização do recital de meio de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MU392"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU592"
+        ]
+    },
+    {
+        "code": "MU493",
+        "name": "Percepção Musical IV",
+        "credits": 5,
+        "syllabus": "Treinamento auditivo para músicos. Codificação e decodificação de eventos musicais melódicos e harmônicos apresentados de maneira gradual, por ordem de dificuldade. Continuação da disciplina MU393.",
+        "reqs": [
+            [
+                {
+                    "code": "MU393"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU557",
+            "MU593",
+            "MU857"
+        ]
+    },
+    {
+        "code": "MU494",
+        "name": "Violão IV",
+        "credits": 3,
+        "syllabus": "Nesse quarto semestre – correspondente à metade do curso - o aluno deverá estudar o período barroco, em especial obras de J. S. Bach (alguma Suíte completa), e obras de Heitor Villa-Lobos (Estudos).",
+        "reqs": [
+            [
+                {
+                    "code": "MU394"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU594"
+        ]
+    },
+    {
+        "code": "MU496",
+        "name": "Canto IV",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca a consolidação da autonomia no estudo técnico-vocal, o aprimoramento no estudo de canções de câmara brasileiras e italianas dos séculos XIX e XX e alemãs do século XIX, com suas respectivas características estilísticas, e o aperfeiçoamento técnico e interpretativo de árias de oratório e ópera dos períodos barroco e clássico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU396"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU596"
+        ]
+    },
+    {
+        "code": "MU497",
+        "name": "Iniciação Científica II",
+        "credits": 6,
+        "syllabus": "Realização de pesquisa aprovada em agência de fomento à pesquisa no campo da música (performance, musicologia, composição, regência, educação musical).",
+        "reqs": [
+            [
+                {
+                    "code": "MU397"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU597"
+        ]
+    },
+    {
+        "code": "MU498",
+        "name": "Tópicos Especiais em Regência Coral IV",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto relevante na área de Regência Coral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU398"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU499",
+        "name": "Tópicos Especiais em Regência Orquestral IV",
+        "credits": 4,
+        "syllabus": "Estudo programado de assunto relevante na área de Regência Orquestral.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU399"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU502",
+        "name": "Instrumento V",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo em instrumento de escolha do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MU402"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU602"
+        ]
+    },
+    {
+        "code": "MU503",
+        "name": "Flauta V",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento. Ampliação de repertório e estilos estudados; peças de concerto.  Continuação da disciplina MU403.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU403"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU603"
+        ]
+    },
+    {
+        "code": "MU504",
+        "name": "Oboé V",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU404"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU604"
+        ]
+    },
+    {
+        "code": "MU506",
+        "name": "Clarineta V",
+        "credits": 3,
+        "syllabus": "Essencialmente prática, o objetivo dessa disciplina é tornar o aluno cada vez mais autônomo em relação às suas necessidades, e, com base nas discussões realizadas nas disciplinas de MU106 a MU406 anteriores, fomentar a tomada de decisões e estratégias personalizadas pelo próprio, com consistência e domínio de competências musicais associadas a um conhecimento mais sólido sobre os estilos musicais e uma prática musical mais criativa, ainda com ênfase nas técnicas estendidas e em diferentes obras do repertório.",
+        "reqs": [
+            [
+                {
+                    "code": "MU406"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU606"
+        ]
+    },
+    {
+        "code": "MU509",
+        "name": "Violino V",
+        "credits": 3,
+        "syllabus": "Abordagem de excertos orquestrais de estilo clássico, estudo ordenado e progressivo do instrumento através dos materiais pedagógicos de referência, e introdução ao repertório de período romântico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU409"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU609"
+        ]
+    },
+    {
+        "code": "MU512",
+        "name": "Dicção I",
+        "credits": 2,
+        "syllabus": "Estudo do alfabeto fonético internacional para o canto e sua utilização no aprendizado das regras de pronúncia de diversas línguas estrangeiras: Latim, Italiano e Alemão.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU212"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU612"
+        ]
+    },
+    {
+        "code": "MU520",
+        "name": "Coral V",
+        "credits": 2,
+        "syllabus": "Prática do canto coral em nível básico intermediário do Coro do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU420"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU620"
+        ]
+    },
+    {
+        "code": "MU521",
+        "name": "Contrabaixo V",
+        "credits": 3,
+        "syllabus": "Estudos em 3ª posição e capotasto; repertório de orquestra III - mov. rápidos ; repertório; solo técnicas de organização do estudo (leitura 2).",
+        "reqs": [
+            [
+                {
+                    "code": "MU421"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU621"
+        ]
+    },
+    {
+        "code": "MU523",
+        "name": "Piano V",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca desenvolvimento de recursos pianísticos em repertório de exigências pianísticas elevadas, contemplando questões estilísticas de acordo com as variadas características musicais do repertório acatado.",
+        "reqs": [
+            [
+                {
+                    "code": "MU423"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU623"
+        ]
+    },
+    {
+        "code": "MU524",
+        "name": "Cravo V",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU424"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU624"
+        ]
+    },
+    {
+        "code": "MU526",
+        "name": "Viola V",
+        "credits": 3,
+        "syllabus": "Introdução de métodos avançados de estudos de técnica aplicada e escalas; início de estudo de obras do período romântico, respectivas características estilísticas e sua relação com a técnica interpretativa.",
+        "reqs": [
+            [
+                {
+                    "code": "MU426"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU626"
+        ]
+    },
+    {
+        "code": "MU527",
+        "name": "Violoncelo V",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU427"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU627"
+        ]
+    },
+    {
+        "code": "MU529",
+        "name": "Baixo Cifrado V",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da técnica de baixo contínuo do período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU429"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU629"
+        ]
+    },
+    {
+        "code": "MU548",
+        "name": "Regência Coral V",
+        "credits": 6,
+        "syllabus": "Preparação de projeto individual de regência coral.",
+        "reqs": [
+            [
+                {
+                    "code": "MU448"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU648"
+        ]
+    },
+    {
+        "code": "MU557",
+        "name": "Percepção Harmônica",
+        "credits": 2,
+        "syllabus": "Identificação de progressões harmônicas. Relações entre melodia e harmonia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU493"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU560",
+        "name": "História da Música III",
+        "credits": 2,
+        "syllabus": "Estudo sistematizado dos principais elementos teóricos, estéticos e filosóficos da história da música.",
+        "reqs": [
+            [
+                {
+                    "code": "MU460"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU660"
+        ]
+    },
+    {
+        "code": "MU562",
+        "name": "Ópera Stúdio III",
+        "credits": 2,
+        "syllabus": "Montagem completa ou parcial de obra operística.",
+        "reqs": [
+            [
+                {
+                    "code": "MU462"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU662"
+        ]
+    },
+    {
+        "code": "MU571",
+        "name": "Composição V",
+        "credits": 4,
+        "syllabus": "Exercícios de criação musical para distintas formações intrumentais e/ou vocal, com ou sem suporte tecnológico, juntamente a estudo de repertório e análise de obras musicais correlatas, com ênfase na produção musical recente.",
+        "reqs": [
+            [
+                {
+                    "code": "MU471"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU671"
+        ]
+    },
+    {
+        "code": "MU572",
+        "name": "Port-Folio de Composição Musical III",
+        "credits": 6,
+        "syllabus": "Constituição de port-folio de composições musicais permitindo que o aluno do curso de composição conclua seu ciclo de formação com um conjunto de obras compostas compatível com exigências atuais em âmbito acadêmico e demais setores de atividades artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "MU472"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU672"
+        ]
+    },
+    {
+        "code": "MU573",
+        "name": "Estágio Pedagógico I",
+        "credits": 6,
+        "syllabus": "O aluno deverá assumir situações de regência supervisionada de classe, planejando, desenvolvendo e avaliando atividades de música dentro da educação formal - em escolas de educação básica (educação infantil, ensino fundamental e médio) ou escolas especializadas de música - ou ainda em espaços de educação não-formal, como projetos sociais, projetos de extensão universitária, igrejas, programas extracurriculares desenvolvidos em escolas, entre outros. Pelo menos 100 (cem) horas das 400 (quatrocentas) horas totais de estágio têm que ser desenvolvidas na educação básica, preferencialmente em escola pública. O aluno deverá apresentar relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "EL874"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU673"
+        ]
+    },
+    {
+        "code": "MU575",
+        "name": "Regência Orquestral V",
+        "credits": 6,
+        "syllabus": "Preparação de projeto individual de regência orquestral.",
+        "reqs": [
+            [
+                {
+                    "code": "MU475"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU675"
+        ]
+    },
+    {
+        "code": "MU578",
+        "name": "Música de Câmera V",
+        "credits": 3,
+        "syllabus": "Prática musical em pequenos grupos. Execução de repertório camerístico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU478"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU678"
+        ]
+    },
+    {
+        "code": "MU579",
+        "name": "Prática Orquestral V",
+        "credits": 4,
+        "syllabus": "Prática orquestral em nível intermediário através da Orquestra do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU479"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU679"
+        ]
+    },
+    {
+        "code": "MU581",
+        "name": "Acompanhamento V",
+        "credits": 1,
+        "syllabus": "Estudo progressivo de técnicas de acompanhamento aplicadas à literatura vocal ou instrumental.",
+        "reqs": [
+            [
+                {
+                    "code": "MU481"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU681"
+        ]
+    },
+    {
+        "code": "MU584",
+        "name": "Trompete V",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do Instrumento que continua o estudo dos métodos técnicos e interpretativos abordados em Trompete IV e inicie o emprego de trompetes construídos com diferentes afinações. ",
+        "reqs": [
+            [
+                {
+                    "code": "MU484"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU684"
+        ]
+    },
+    {
+        "code": "MU586",
+        "name": "Trombone V",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento com a continuidade da aplicação dos conteúdos de interpretação, técnica, extratos orquestrais e repertório camerístico tratados em Trombone IV. Serão iniciados estudos relacionados ao trombone alto.",
+        "reqs": [
+            [
+                {
+                    "code": "MU486"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU686"
+        ]
+    },
+    {
+        "code": "MU592",
+        "name": "Percussão V",
+        "credits": 3,
+        "syllabus": "Introdução aos procedimentos de música aleatória e improvisação livre. ",
+        "reqs": [
+            [
+                {
+                    "code": "MU492"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU692"
+        ]
+    },
+    {
+        "code": "MU593",
+        "name": "Percepção Musical V",
+        "credits": 3,
+        "syllabus": "Treinamento auditivo para músicos. Codificação e decodificação de eventos musicais melódicos e harmônicos apresentados de maneira gradual, por ordem de dificuldade. Continuação da disciplina MU493.",
+        "reqs": [
+            [
+                {
+                    "code": "MU493"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU693"
+        ]
+    },
+    {
+        "code": "MU594",
+        "name": "Violão V",
+        "credits": 3,
+        "syllabus": "Nesse quinto semestre – dando início à segunda parte do curso - o aluno deverá aprimorar o repertório dos dois primeiros anos, além de prosseguir com estudos de técnica básica do violão (arpejos, ligados e escalas).",
+        "reqs": [
+            [
+                {
+                    "code": "MU494"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU694"
+        ]
+    },
+    {
+        "code": "MU596",
+        "name": "Canto V",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca o aperfeiçoamento técnico vocal e aprimoramento interpretativo através de repertório de câmara brasileiro e alemão dos séculos XIX e XX e francês do século XIX, além de árias de ópera clássicas e românticas de diferentes nacionalidades.",
+        "reqs": [
+            [
+                {
+                    "code": "MU496"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU696"
+        ]
+    },
+    {
+        "code": "MU597",
+        "name": "Iniciação Científica III",
+        "credits": 6,
+        "syllabus": "Realização de pesquisa aprovada em agência de fomento à pesquisa no campo da música (performance, musicologia, composição, regência, educação musical).",
+        "reqs": [
+            [
+                {
+                    "code": "MU497"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU697"
+        ]
+    },
+    {
+        "code": "MU599",
+        "name": "Atividades Científico Culturais I",
+        "credits": 2,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico-práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqBy": [
+            "MU699"
+        ]
+    },
+    {
+        "code": "MU602",
+        "name": "Instrumento VI",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo em Instrumento de escolha do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MU502"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU702"
+        ]
+    },
+    {
+        "code": "MU603",
+        "name": "Flauta VI",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento. Ampliação de repertório e estilos estudados; peças de concerto; repertório sinfônico.  Continuação da disciplina MU503.",
+        "reqs": [
+            [
+                {
+                    "code": "MU503"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU703",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU604",
+        "name": "Oboé VI",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU504"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU704",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU606",
+        "name": "Clarineta VI",
+        "credits": 3,
+        "syllabus": "De cunho prático, essa disciplina pretende desenvolver no aluno maior autonomia artística sobre o repertório e as práticas musicais, com maior singularidade na expressão musical e ênfase em olhares criativos sobre o próprio estudo realizado até então nas disciplinas MU106 a MU506 anteriores, estimulando nele o pensamento crítico através de um balanço entre as estratégias adotadas até então e a realidade em que se encontra, e como isso dialoga com o repertório do instrumento já trabalhado e com as expectativas que possui.",
+        "reqs": [
+            [
+                {
+                    "code": "MU506"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU706",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU609",
+        "name": "Violino VI",
+        "credits": 3,
+        "syllabus": "Estudo de excertos orquestrais de período romântico, estudo ordenado e progressivo do instrumento através dos materiais pedagógicos de referência, preparação de repertório romântico, e estudo do repertório brasileiro.",
+        "reqs": [
+            [
+                {
+                    "code": "MU509"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU709",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU612",
+        "name": "Dicção II",
+        "credits": 2,
+        "syllabus": "Estudo do alfabeto fonético internacional para o canto e sua utilização no aprendizado das regras de pronúncia de diversas línguas estrangeiras: Francês, Inglês e Espanhol.",
+        "reqs": [
+            [
+                {
+                    "code": "MU512"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU712"
+        ]
+    },
+    {
+        "code": "MU620",
+        "name": "Coral VI",
+        "credits": 2,
+        "syllabus": "Prosseguimento da prática do canto coral em nível intermediário através do Coro do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU520"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU720"
+        ]
+    },
+    {
+        "code": "MU621",
+        "name": "Contrabaixo VI",
+        "credits": 3,
+        "syllabus": "Estudos em 3ª posição e capotasto; repertório de orquestra IV – peças de concursos; repertório solo; estudos de afinação (avançado).\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU521"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU721",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU623",
+        "name": "Piano VI",
+        "credits": 3,
+        "syllabus": "A disciplina visa ao desenvolvimento de recursos de memorização, desenvolvimento técnico avançado e recursos de sonoridade pianística, por meio do estudo de repertório selecionado.",
+        "reqs": [
+            [
+                {
+                    "code": "MU523"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU723",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU624",
+        "name": "Cravo VI",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU524"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU724",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU626",
+        "name": "Viola VI",
+        "credits": 3,
+        "syllabus": "Continuidade no estudo de métodos avançados de estudos de técnica aplicada e escalas; aprimoramento nas práticas interpretativas do período romântico; introdução ao repertório brasileiro contemporâneo.",
+        "reqs": [
+            [
+                {
+                    "code": "MU526"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU726",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU627",
+        "name": "Violoncelo VI",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU527"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU727",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU629",
+        "name": "Baixo Cifrado VI",
+        "credits": 2,
+        "syllabus": "Estudo progressivo da técnica de baixo contínuo do período barroco.",
+        "reqs": [
+            [
+                {
+                    "code": "MU529"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU648",
+        "name": "Regência Coral VI",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de projeto individual de regência coral.",
+        "reqs": [
+            [
+                {
+                    "code": "MU548"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU660",
+        "name": "História da Música IV",
+        "credits": 2,
+        "syllabus": "Estudo sistematizado dos principais elementos teóricos, estéticos e filosóficos da história da música.",
+        "reqs": [
+            [
+                {
+                    "code": "MU560"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU662",
+        "name": "Ópera Estúdio IV",
+        "credits": 2,
+        "syllabus": "Montagem completa ou parcial de obra operística.",
+        "reqs": [
+            [
+                {
+                    "code": "MU562"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU671",
+        "name": "Composição VI",
+        "credits": 4,
+        "syllabus": "Exercícios de criação musical para distintas formações intrumentais e/ou vocal, com ou sem suporte tecnológico, juntamente a estudo de repertório e análise de obras musicais correlatas, com ênfase na produção musical recente.",
+        "reqs": [
+            [
+                {
+                    "code": "MU571"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU771",
+            "MU999"
+        ]
+    },
+    {
+        "code": "MU672",
+        "name": "Port-Folio de Composição Musical IV",
+        "credits": 6,
+        "syllabus": "Constituição de port-folio de composições musicais permitindo que o aluno do curso de composição conclua seu ciclo de formação com um conjunto de obras compostas compatível com exigências atuais em âmbito acadêmico e demais setores de atividades artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "MU572"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU772"
+        ]
+    },
+    {
+        "code": "MU673",
+        "name": "Estágio Pedagógico II",
+        "credits": 8,
+        "syllabus": "O aluno deverá assumir situações de regência supervisionada de classe, planejando, desenvolvendo e avaliando atividades de música dentro da educação formal - em escolas de educação básica ou escolas especializadas de música - ou ainda em espaços de educação não-formal, como projetos sociais, projetos de extensão universitária, igrejas, programas extracurriculares desenvolvidos em escolas, entre outros. Pelo menos 100 (cem) horas das 400 (quatrocentas) horas totais de estágio têm que ser desenvolvidas na educação básica, preferencialmente em escola pública. O aluno deverá apresentar relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "MU573"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU675",
+        "name": "Regência Orquestral VI",
+        "credits": 6,
+        "syllabus": "Desenvolvimento de projeto individual de regência orquestral.",
+        "reqs": [
+            [
+                {
+                    "code": "MU575"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU678",
+        "name": "Música de Câmera VI",
+        "credits": 3,
+        "syllabus": "Prática musical em pequenos grupos. Execução de repertório camerístico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU578"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU778"
+        ]
+    },
+    {
+        "code": "MU679",
+        "name": "Prática Orquestral VI",
+        "credits": 4,
+        "syllabus": "Prosseguimento da prática orquestral em nível intermediário através da Orquestra do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU579"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU779"
+        ]
+    },
+    {
+        "code": "MU681",
+        "name": "Acompanhamento VI",
+        "credits": 1,
+        "syllabus": "Estudo progressivo de técnicas de acompanhamento aplicadas à literatura vocal ou instrumental.",
+        "reqs": [
+            [
+                {
+                    "code": "MU581"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU684",
+        "name": "Trompete VI",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do Instrumento utilizando os diferenciados tipos de trompetes (Eb, Sib, C e flugel-horn) em obras que empregam esses instrumentos.",
+        "reqs": [
+            [
+                {
+                    "code": "MU584"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU784",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU686",
+        "name": "Trombone VI",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento com a continuidade da aplicação dos conteúdos de interpretação, técnica, extratos orquestrais e repertório camerístico tratados em Trombone V.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU586"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU786",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU692",
+        "name": "Percussão VI",
+        "credits": 3,
+        "syllabus": "Desenvolvimento de técnica avançada de percussão, leitura fluente, conceitos de interpretação, repertório sinfônico de percussão. ",
+        "reqs": [
+            [
+                {
+                    "code": "MU592"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU792",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU693",
+        "name": "Percepção Musical VI",
+        "credits": 3,
+        "syllabus": "Treinamento auditivo para músicos. Codificação e decodificação de eventos musicais melódicos e harmônicos apresentados de maneira gradual, por ordem de dificuldade. Continuação da disciplina MU593.",
+        "reqs": [
+            [
+                {
+                    "code": "MU593"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU694",
+        "name": "Violão VI",
+        "credits": 3,
+        "syllabus": "Nesse sexto semestre o aluno terá que adequar todas as questões dos semestres anteriores (técnica, interpretação) a um repertório de maior peso musical, visando sempre a variedade de estilos (autores de diferentes nacionalidades e períodos).",
+        "reqs": [
+            [
+                {
+                    "code": "MU594"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU794",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU696",
+        "name": "Canto VI",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca a continuidade do aperfeiçoamento técnico vocal e aprimoramento interpretativo através de repertório de câmara brasileiro e alemão dos séculos XIX e XX e francês do século XIX, além de árias de ópera clássicas e românticas de diferentes nacionalidades.",
+        "reqs": [
+            [
+                {
+                    "code": "MU596"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU796",
+            "MU998"
+        ]
+    },
+    {
+        "code": "MU697",
+        "name": "Iniciação Científica IV",
+        "credits": 6,
+        "syllabus": "Realização de pesquisa aprovada em agência de fomento à pesquisa no campo da música (performance, musicologia, composição, regência, educação musical).",
+        "reqs": [
+            [
+                {
+                    "code": "MU597"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU699",
+        "name": "Atividades Científico Culturais II",
+        "credits": 4,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico-práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU599"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU799"
+        ]
+    },
+    {
+        "code": "MU702",
+        "name": "Instrumento VII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo em Instrumento de escolha do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MU602"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU802"
+        ]
+    },
+    {
+        "code": "MU703",
+        "name": "Flauta VII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento. Estudos técnicos de virtuosidade. Ampliação de repertório; repertório sinfônico. Ênfase em expressão e virtuosidade.  Continuação da disciplina MU603.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU603"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU803"
+        ]
+    },
+    {
+        "code": "MU704",
+        "name": "Oboé VII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU604"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU804"
+        ]
+    },
+    {
+        "code": "MU706",
+        "name": "Clarineta VII",
+        "credits": 3,
+        "syllabus": "Disciplina de cunho prático que busca ampliar as discussões envolvidas na criação e singularidade expressiva tal qual discutidas nas disciplinas MU106 a MU606, incentivando no aluno novos olhares sobre o repertório e a prática musical como um todo, com estratégias para desenvolver-se profissional e pessoalmente, com maturidade de concepção para a criação de recitais e apresentações artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "MU606"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU806"
+        ]
+    },
+    {
+        "code": "MU709",
+        "name": "Violino VII",
+        "credits": 3,
+        "syllabus": "Estudo de excertos orquestrais do século XX e XXI, estudo ordenado e progressivo do instrumento através dos materiais pedagógicos de referência, introdução ao repertório dos séculos XX e XXI, abordagem de técnicas estendidas.",
+        "reqs": [
+            [
+                {
+                    "code": "MU609"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU809"
+        ]
+    },
+    {
+        "code": "MU712",
+        "name": "Fisiologia da Voz",
+        "credits": 2,
+        "syllabus": "Anatomia e fisiologia do aparelho fonador e sistema respiratório. Aspectos de higiene vocal.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU612"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU720",
+        "name": "Coral VII",
+        "credits": 2,
+        "syllabus": "Prática de repertório variado do canto coral através do Coro do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU620"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU820"
+        ]
+    },
+    {
+        "code": "MU721",
+        "name": "Contrabaixo VII",
+        "credits": 3,
+        "syllabus": "solo; preparação do recital de formatura.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU621"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU821"
+        ]
+    },
+    {
+        "code": "MU723",
+        "name": "Piano VII",
+        "credits": 3,
+        "syllabus": "A disciplina visa ao desenvolvimento de recursos de memorização, desenvolvimento técnico avançado e recursos de sonoridade pianística, bem como questões performativas voltadas à performance em público, por meio do estudo de repertório selecionado.",
+        "reqs": [
+            [
+                {
+                    "code": "MU623"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU823"
+        ]
+    },
+    {
+        "code": "MU724",
+        "name": "Cravo VII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU624"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU824"
+        ]
+    },
+    {
+        "code": "MU726",
+        "name": "Viola VII",
+        "credits": 3,
+        "syllabus": "Revisão de aspectos técnicos gerais, repertório dos séculos XX e XXI, suas características estilísticas e sua relação com a técnica interpretativa; repertório brasileiro contemporâneo; início de preparação do recital de conclusão do curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MU626"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU826"
+        ]
+    },
+    {
+        "code": "MU727",
+        "name": "Violoncelo VII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU627"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU827"
+        ]
+    },
+    {
+        "code": "MU771",
+        "name": "Composição VII",
+        "credits": 4,
+        "syllabus": "Exercícios de criação musical para distintas formações intrumentais e/ou vocal, com ou sem suporte tecnológico, juntamente a estudo de repertório e análise de obras musicais correlatas, com ênfase na produção musical recente.",
+        "reqs": [
+            [
+                {
+                    "code": "MU671"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU871"
+        ]
+    },
+    {
+        "code": "MU772",
+        "name": "Port-Folio de Composição Musical V",
+        "credits": 6,
+        "syllabus": "Constituição de port-folio de composições musicais permitindo que o aluno do curso de composição conclua seu ciclo de formação com um conjunto de obras compostas compatível com exigências atuais em âmbito acadêmico e demais setores de atividades artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "MU672"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU872"
+        ]
+    },
+    {
+        "code": "MU778",
+        "name": "Música de Câmera VII",
+        "credits": 3,
+        "syllabus": "Prática musical em pequenos grupos. Execução de repertório camerístico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU678"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU878"
+        ]
+    },
+    {
+        "code": "MU779",
+        "name": "Prática Orquestral VII",
+        "credits": 4,
+        "syllabus": "Prática de repertório orquestral com a Orquestra do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU679"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU879"
+        ]
+    },
+    {
+        "code": "MU784",
+        "name": "Trompete VII",
+        "credits": 3,
+        "syllabus": " Estudo ordenado e progressivo do Instrumento que abordem estudos referentes à literatura contemporânea para trompete.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU684"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU884"
+        ]
+    },
+    {
+        "code": "MU786",
+        "name": "Trombone VII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento com a continuidade da aplicação dos conteúdos de interpretação, técnica, extratos orquestrais e repertório camerístico tratados em Trombone VI. Serão iniciados estudos referentes à literatura contemporânea para o Trombone.",
+        "reqs": [
+            [
+                {
+                    "code": "MU686"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU886"
+        ]
+    },
+    {
+        "code": "MU792",
+        "name": "Percussão VII",
+        "credits": 3,
+        "syllabus": "Repertório contemporâneo de percussão nacional e internacional.",
+        "reqs": [
+            [
+                {
+                    "code": "MU692"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU892"
+        ]
+    },
+    {
+        "code": "MU794",
+        "name": "Violão VII",
+        "credits": 3,
+        "syllabus": "Nesse sétimo semestre o aluno terá que se aprofundar em todas as questões dos semestres anteriores objetivando o recital de formatura e possíveis estudos de pós-graduação.",
+        "reqs": [
+            [
+                {
+                    "code": "MU694"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU894"
+        ]
+    },
+    {
+        "code": "MU796",
+        "name": "Canto VII",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca a revisão de aspectos técnico-vocais gerais e a prática da canção de câmara dos séculos XX e XXI de diferentes nacionalidades, além de árias de ópera clássicas, românticas e modernas de diferentes nacionalidades.",
+        "reqs": [
+            [
+                {
+                    "code": "MU696"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU896"
+        ]
+    },
+    {
+        "code": "MU799",
+        "name": "Atividades Científico Culturais III",
+        "credits": 4,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico-práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU699"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU899"
+        ]
+    },
+    {
+        "code": "MU802",
+        "name": "Instrumento VIII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo em instrumento de escolha do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MU702"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU803",
+        "name": "Flauta VIII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento. Estudos técnicos de virtuosidade. Ampliação de repertório. Ênfase em expressão e virtuosidade. Elaboração de programa e apresentação de recital final de Curso.  Continuação da disciplina MU703. ",
+        "reqs": [
+            [
+                {
+                    "code": "MU703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU804",
+        "name": "Oboé VIII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento.",
+        "reqs": [
+            [
+                {
+                    "code": "MU704"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU806",
+        "name": "Clarineta VIII",
+        "credits": 3,
+        "syllabus": "De caráter prático, essa disciplina busca consolidar o aluno enquanto indivíduo autônomo e criativo, dotado de um domínio relativamente satisfatório no tocante às questões técnicas, de cunho artístico e de performance da clarineta, com fluidez no exercício da sua liberdade de expressão e execução de um repertório condizente com as competências e ideias musicais previamente discutidas nas disciplinas de MU106 a MU706.",
+        "reqs": [
+            [
+                {
+                    "code": "MU706"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU809",
+        "name": "Violino VIII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento através dos materiais pedagógicos de referência, além de preparação e apresentação de recital de final de curso.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU709"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU820",
+        "name": "Coral VIII",
+        "credits": 2,
+        "syllabus": "Prosseguimento da prática de repertório variado do canto coral através do Coro do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU720"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU821",
+        "name": "Contrabaixo VIII",
+        "credits": 3,
+        "syllabus": "Preparação do recital de formatura.",
+        "reqs": [
+            [
+                {
+                    "code": "MU721"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU823",
+        "name": "Piano VIII",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca a aspectos de alta performance, prevendo a preparação para o Recital de Formatura com repertório de estilos variados.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU723"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU824",
+        "name": "Cravo VIII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento. Apresentação de recital de final de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MU724"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU826",
+        "name": "Viola VIII",
+        "credits": 3,
+        "syllabus": "Revisão de aspectos técnicos gerais, preparação do recital de formatura ",
+        "reqs": [
+            [
+                {
+                    "code": "MU726"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU827",
+        "name": "Violoncelo VIII",
+        "credits": 3,
+        "syllabus": "Estudo ordenado e progressivo do instrumento. Apresentação de recital de final de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MU727"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU857",
+        "name": "Solfejo Atonal I",
+        "credits": 2,
+        "syllabus": "Estudo dos intervalos musicais organizados por séries e tipo, sem conotação tonal. Decodificação de melodias contemporâneas e atonais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ],
+            [
+                {
+                    "code": "MU493"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU957"
+        ]
+    },
+    {
+        "code": "MU871",
+        "name": "Composição VIII",
+        "credits": 4,
+        "syllabus": "Exercícios de criação musical para distintas formações intrumentais e/ou vocal, com ou sem suporte tecnológico, juntamente a estudo de repertório e análise de obras musicais correlatas, com ênfase na produção musical recente.",
+        "reqs": [
+            [
+                {
+                    "code": "MU771"
+                }
+            ]
+        ],
+        "reqBy": [
+            "MU971"
+        ]
+    },
+    {
+        "code": "MU872",
+        "name": "Port-Folio de Composição Musical VI",
+        "credits": 6,
+        "syllabus": "Constituição de port-folio de composições musicais permitindo que o aluno do curso de composição conclua seu ciclo de formação com um conjunto de obras compostas compatível com exigências atuais em âmbito acadêmico e demais setores de atividades artísticas.",
+        "reqs": [
+            [
+                {
+                    "code": "MU772"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU878",
+        "name": "Música de Câmera VIII",
+        "credits": 3,
+        "syllabus": "Prática musical em pequenos grupos. Execução de repertório camerístico.",
+        "reqs": [
+            [
+                {
+                    "code": "MU778"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU879",
+        "name": "Prática Orquestral VIII",
+        "credits": 4,
+        "syllabus": "Prosseguimento da prática de repertório orquestral com a Orquestra do Departamento de Música da UNICAMP.",
+        "reqs": [
+            [
+                {
+                    "code": "MU779"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU884",
+        "name": "Trompete VIII",
+        "credits": 3,
+        "syllabus": "Preparação da performance do repertório que será apresentado no Recital de final de curso.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU784"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU886",
+        "name": "Trombone VIII",
+        "credits": 3,
+        "syllabus": "Preparação da performance do repertório que será apresentado no Recital de final de curso.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "MU786"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU892",
+        "name": "Percussão VIII",
+        "credits": 3,
+        "syllabus": "Desenvolvimento técnico instrumental e interpretativo voltado para realização do recital de conclusão de curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MU792"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU894",
+        "name": "Violão VIII",
+        "credits": 3,
+        "syllabus": "nesse último semestre, questões pendentes dos semestres anteriores relacionadas a técnica, interpretação e especificidades do repertório violonístico serão finalizadas. O aluno apresentará o recital de formatura.",
+        "reqs": [
+            [
+                {
+                    "code": "MU794"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU896",
+        "name": "Canto VIII",
+        "credits": 3,
+        "syllabus": "A disciplina enfoca a aspectos de alta performance, prevendo a preparação para o Recital de Formatura com repertório de estilos variados.",
+        "reqs": [
+            [
+                {
+                    "code": "MU796"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU899",
+        "name": "Atividades Científico Culturais IV",
+        "credits": 4,
+        "syllabus": "Disciplina que normatiza a participação do aluno em atividades teórico-práticas de ampliação e aprofundamento artístico, cultural, científico e educacional como parte de sua formação profissional, enfocando preferencialmente problemáticas emergentes na vida social contemporânea.",
+        "reqs": [
+            [
+                {
+                    "code": "MU799"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU957",
+        "name": "Solfejo Atonal II",
+        "credits": 2,
+        "syllabus": "Estudo dos intervalos musicais organizados por séries e tipo, sem conotação tonal. Decodificação de melodias contemporâneas e atonais. Continuação da disciplina MU857.",
+        "reqs": [
+            [
+                {
+                    "code": "MU857"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU971",
+        "name": "Composição IX",
+        "credits": 6,
+        "syllabus": "Exercícios composicionais em diferentes estilos musicais e/ou formações instrumentais/tecnológicas, juntamente com o estudo de repertório e análise de obras musicais correlatos, de acordo com a evolução do aluno durante o curso.",
+        "reqs": [
+            [
+                {
+                    "code": "MU871"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU998",
+        "name": "Recital",
+        "credits": 6,
+        "syllabus": "Montagem, preparação e execução de um programa a ser apresentado publicamente na especialidade de cada aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "MU448"
+                }
+            ],
+            [
+                {
+                    "code": "MU603"
+                }
+            ],
+            [
+                {
+                    "code": "MU604"
+                }
+            ],
+            [
+                {
+                    "code": "MU606"
+                }
+            ],
+            [
+                {
+                    "code": "MU609"
+                }
+            ],
+            [
+                {
+                    "code": "MU621"
+                }
+            ],
+            [
+                {
+                    "code": "MU623"
+                }
+            ],
+            [
+                {
+                    "code": "MU624"
+                }
+            ],
+            [
+                {
+                    "code": "MU626"
+                }
+            ],
+            [
+                {
+                    "code": "MU627"
+                }
+            ],
+            [
+                {
+                    "code": "MU684"
+                }
+            ],
+            [
+                {
+                    "code": "MU686"
+                }
+            ],
+            [
+                {
+                    "code": "MU692"
+                }
+            ],
+            [
+                {
+                    "code": "MU694"
+                }
+            ],
+            [
+                {
+                    "code": "MU696"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "MU999",
+        "name": "Projeto Final de Graduação",
+        "credits": 6,
+        "syllabus": "Desenvolvimento de projeto individual ou coletivo na especialidade de escolha do aluno.",
+        "reqs": [
+            [
+                {
+                    "code": "EL874"
+                }
+            ],
+            [
+                {
+                    "code": "MP601"
+                }
+            ],
+            [
+                {
+                    "code": "MP602"
+                }
+            ],
+            [
+                {
+                    "code": "MP603"
+                }
+            ],
+            [
+                {
+                    "code": "MP604"
+                }
+            ],
+            [
+                {
+                    "code": "MP605"
+                }
+            ],
+            [
+                {
+                    "code": "MU671"
+                }
+            ]
+        ]
+    }
+]

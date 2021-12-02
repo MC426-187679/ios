@@ -1,0 +1,594 @@
+[
+    {
+        "code": "BE180",
+        "name": "Introdução à Ecologia",
+        "credits": 6,
+        "syllabus": "Revisão de conteúdos básicos em ecologia e ciências ambientais. A ecologia no nível do indivíduo, populações, comunidades e ecossistemas. Propriedades de sistemas ecológicos. Biomas. O ambiente físico, adaptações, distribuição e abundância. Introdução às interações ecológicas. Aplicação da ecologia a problemas e desafios ambientais atuais. Método científico e formulação de hipóteses em ecologia e fundamentos teórico-práticos. Excursões obrigatórias. Produção e análise de textos em língua portuguesa, incluindo elaboração de projetos, relatórios científicos e apresentações orais e de painel.",
+        "reqBy": [
+            "BE480",
+            "BE781",
+            "BE782"
+        ]
+    },
+    {
+        "code": "BE200",
+        "name": "Biologia e Sociedade",
+        "credits": 2,
+        "syllabus": "Aspectos históricos, filosóficos e sociais da Biologia. O efeito social de teorias biológicas. Polêmicas recentes em Biologia; Discussão de casos concretos. Relações da Biologia com outras ciências e com necessidades sociais.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE310",
+        "name": "Ciências do Ambiente",
+        "credits": 2,
+        "syllabus": "População humana e recursos naturais renováveis e não renováveis. Interação entre o homem e ambientes naturais ou construídos. Ambientes brasileiros terrestres e aquáticos. Análise de ambientes: diagramas energéticos e modelos. O homem como modificador do ambiente. População, energia, clima, ecotoxicologia, extinção, biodiversidade e sustentabilidade. Direito ecológico e política ambiental. Responsabilidade do profissional com relação à sociedade e ao ambiente.",
+        "reqs": [
+            [
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EM066"
+        ]
+    },
+    {
+        "code": "BE480",
+        "name": "Ecologia Básica",
+        "credits": 6,
+        "syllabus": " Fluxo de energia e produtividade primária. Decomposição. Funcionamento de ecossistemas. Estrutura de comunidades ecológicas, riqueza e diversidade de espécies. Interações interespecíficas: predação, competição, mutualismo. Dinâmica populacional e competição intraespecífica. Distribuição e abundância de espécies. Metapopulações. Condições, recursos e adaptações. Ecofisiologia. Serviços ecossistêmicos e aplicação do conhecimento ecológico. Produção e análise de textos em língua portuguesa, incluindo elaboração de projetos e relatórios científicos. Treinamento em apresentações orais e seminários.\n ",
+        "reqs": [
+            [
+                {
+                    "code": "BE180"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BE582",
+            "BE583",
+            "BE584",
+            "BE585",
+            "BE586",
+            "BE589",
+            "BE594",
+            "BE599",
+            "BE694",
+            "BE781",
+            "BE782",
+            "BT793"
+        ]
+    },
+    {
+        "code": "BE500",
+        "name": "Iniciação Científica em Ecologia I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Ecologia. Teorias e hipóteses, levantamento de dados, execução de técnicas e protocolos, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE501",
+        "name": "Iniciação Científica em Ecologia Animal I",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Ecologia Animal. Teorias e hipóteses, levantamento de dados, execução de técnicas e protocolos, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE581",
+        "name": "Ecologia de Organismos e Populações",
+        "credits": 4,
+        "syllabus": "O que é ecologia. Adaptação e Evolução. O ambiente físico. Adaptações de plantas e animais ao ambiente físico. Histórias de vida. Populações: propriedades, crescimento, competição intraespecífica, metapopulações, abundância e regulação populacional. Interações entre espécies: competição interespecífica, predação, parasitismo, mutualismo e decompositores. Ecologia comportamental: seleção sexual, sistemas de acasalamento e comportamento social. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BE583",
+            "BE584",
+            "BE585",
+            "BE586",
+            "BE589",
+            "BE594",
+            "BE694",
+            "BE781",
+            "BE782",
+            "BT793"
+        ]
+    },
+    {
+        "code": "BE582",
+        "name": "Ecologia de Agroecossistemas",
+        "credits": 4,
+        "syllabus": "Esta disciplina visa entender a relação entre ecologia e agriculura. No final da disciplina o aluno deverá entender porque a compreensão das interações ecológicas é fundamental para uma agricultura sustentável, descrever as interações entre plantas que afetam o seu crescimento e sua suscebilidade a pragas e doenças, entender como as redes de interções ecológicas são fundamentais para obter controle biológico de forma autônoma no agroecossistema, compreender como a matriz agrícola afeta a conservação da biodiversidade. Na disciplina será abordado: 1) a relação entre ecologia e agricultura; 2) Interações entre plantas; 3) Interações ecológicas e controle de pragas; 4)Agricultura e biologia da conservação.",
+        "reqs": [
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE681"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE583",
+        "name": "Ecologia Química",
+        "credits": 2,
+        "syllabus": "Ecologia química é o estudo ecológico da origem, função e significância de substãncias químicas presentes em organismos e das interações ecológicas das quais elas fazem parte. Dentro deste contexto a disciplina irá abordar a evolução destas substâncias em organismos, a otimização de defessas químicas em plantas e animais como se determina o papel de substâncias químicas em interações ecológicas.",
+        "reqs": [
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE584",
+        "name": "Tópicos em Ecologia de Organismos, Populações, Comunidades e Ecossistemas I",
+        "credits": 4,
+        "syllabus": "A disciplina abordará temas em Ecologia de Organismos, Populações, comunidades ou Ecossistemas",
+        "reqs": [
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE585",
+        "name": "Tópicos em Ecologia de Organismos, Populações, Comunidades e Ecossistemas II",
+        "credits": 4,
+        "syllabus": "A disciplina abordará temas em Ecologia de Organismos, populações, comunidades ou ecossistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE586",
+        "name": "Tópicos em Ecologia de Organismos, Populações, Comunidades e Ecossistemas III",
+        "credits": 3,
+        "syllabus": "A disciplina abordará temas em ecologia de organismos, populações, comunidades ou ecossistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE587",
+        "name": "Tópicos em Ecologia de Organismos, Populações, Comunidades e Ecossistemas IV",
+        "credits": 2,
+        "syllabus": "A disciplina abordará temas em ecologia de organismos, populações, comunidades ou ecossistemas."
+    },
+    {
+        "code": "BE589",
+        "name": "Introdução à Ciência da Biodiversidade",
+        "credits": 4,
+        "syllabus": "Conceitos de diversidade biológica. Diversidade de espécies, de ecossistemas e genética. Medidas e estimativas locais, regionais e mundiais. Diversidade funcional. Fatores geradores e mantenedores de diversidade. Conservação de biodiversidade: estratégias e alternativas. Biodiversidade no Brasil.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BE881"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                },
+                {
+                    "code": "BE682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE591",
+        "name": "Métodos em Ecologia",
+        "credits": 4,
+        "syllabus": "Fatores quantitativos e categóricos. Métodos de observação, mensuração e experimentais. Organização e tratamento gráfico e estatístico de dados ecológicos. Modelos teóricos e experimentais. Aplicações à avaliação de impacto e monitoramento.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE592",
+        "name": "Ecologia de Campo",
+        "credits": 4,
+        "syllabus": "Disciplina intensiva (10 a 14 dias), em tempo integral, de treinamento em observações e experimentação no campo sobre populações e comunidades vegetais e animais, em diferentes ambientes. Projetos práticos curtos com relatórios escritos e apresentações orais, seminários e palestras.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE593",
+        "name": "Ecologia Genética e Evolutiva",
+        "credits": 4,
+        "syllabus": "Ação de fatores ecológicos sobre a composição genética e a evolução adaptativa de populações, focalizando ciclos de vida, polimorfismos genéticos e estratégias alimentares.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE594",
+        "name": "Ecologia de Interações",
+        "credits": 4,
+        "syllabus": "Ecologia e evolução de interações envolvendo competição, predação, herbivoria, mutualismo e parasitismo.",
+        "reqs": [
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE581"
+                }
+            ],
+            [
+                {
+                    "code": "BE681"
+                }
+            ],
+            [
+                {
+                    "code": "BE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE597",
+        "name": "Educação Ambiental",
+        "credits": 4,
+        "syllabus": "Educação ambiental e cidadania. Percepção da realidade ambiental. A relação Educação Ambiental-Qualidade de vida. Projetos curtos individuais e em grupo e sua realização. Elaboração de roteiros, reflexões e práticas de Educação Ambiental. Integração Escola-Meio Ambiente-Comunidade.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE599",
+        "name": "Agroecologia e Desenvolvimento Rural Sustentável",
+        "credits": 4,
+        "syllabus": "Análise dos diferentes aspectos ecológicos, culturais, sociais e econômicos dos sistemas de produção agrícola. Potencial das técnicas e manejos agroecológicos para a produção suficiente e sustentável de alimentos Biotecnologia: impactos e potenciais benéficos. Papel da agricultura no desenvolvimento e conservação de recursos naturais. Importância de programas de reforma agrária na equidade e produtividade do setor agrícola. Impacto da globalização econômica na sustentabilidade agrícola, segurança alimentar, qualidade ambiental de vida.",
+        "reqs": [
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE881"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE600",
+        "name": "Iniciação Científica em Ecologia II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Ecologia. Teorias e hipóteses, levantamento de dados, execução de protocolos e técnicas, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE601",
+        "name": "Iniciação Científica em Ecologia Animal II",
+        "credits": 4,
+        "syllabus": "Introdução à abordagem científica na solução de problemas relacionados aos estudos em Ecologia Animal. Teorias e hipóteses, levantamento de dados, execução de técnicas e protocolos, análise de resultados. Elaboração de relatórios de pesquisa e de outras formas de divulgação.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA430",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE681",
+        "name": "Ecologia de Comunidades e Ecossistemas",
+        "credits": 2,
+        "syllabus": "Estrutura e dinâmica de comunidades. Fatores influenciando a estrutura de comunidades. Teias tróficas. Ecologia de paisagens. Biogeografia. Ecologia de ecossistemas: fluxo de energia e matéria através de ecossistemas. Padrões de diversidade. Ecologia humana: crescimento populacional, uso de recursos, sustentabilidade, perda de habitat, biodiversidade e conservação, mudanças climáticas globais. Produção e análise de textos em língua portuguesa.",
+        "reqBy": [
+            "BE582",
+            "BE583",
+            "BE584",
+            "BE585",
+            "BE586",
+            "BE589",
+            "BE594",
+            "BE694",
+            "BE781",
+            "BE782",
+            "BT793"
+        ]
+    },
+    {
+        "code": "BE682",
+        "name": "Prática em Ecologia de Organismos, Populações, Comunidades e Ecossistemas",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de projetos de pesquisa de campo em Ecologia de Organismos, Populações, Comunidades ou Ecossistemas.",
+        "reqs": [
+            [
+                {
+                    "code": "BG200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "BE589",
+            "BE781",
+            "BE782",
+            "BT793"
+        ]
+    },
+    {
+        "code": "BE694",
+        "name": "Ensino de Biologia III: Ecologia - O Ambiente Terrestre",
+        "credits": 4,
+        "syllabus": "Planejamento, elaboração, aplicação e avaliação de atividades e programas para o ensino de Ecologia e o ambiente terrestre. Abordagem e elaboração de diferentes metodologias para o ensino de Ecologia. Articulação temática e integrada de temas contemporâneos para o ensino de biologia. Criação de conteúdos e formas de ensinar pautados na ideia de transversalidade no currículo.",
+        "reqs": [
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE700",
+        "name": "Estágio Supervisionado em Ecologia I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Biologia Animal, na área de Ecologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE701",
+        "name": "Estágio Supervisionado em Ecologia Animal I",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Biologia Animal, na área de Ecologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE781",
+        "name": "Ecologia Animal",
+        "credits": 4,
+        "syllabus": "Estudos avançados em Ecologia Animal envolvendo tópicos de Ecologia de Organismos, Populações e Comunidades.",
+        "reqs": [
+            [
+                {
+                    "code": "BE180"
+                }
+            ],
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                },
+                {
+                    "code": "BE682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE782",
+        "name": "Ecologia Animal no Campo",
+        "credits": 2,
+        "syllabus": "Atividades de campo em Ecologia Animal envolvendo tópicos de Ecologia de Organismos, Populações e Comunidades.",
+        "reqs": [
+            [
+                {
+                    "code": "BE180"
+                }
+            ],
+            [
+                {
+                    "code": "BE480"
+                }
+            ],
+            [
+                {
+                    "code": "BE581"
+                },
+                {
+                    "code": "BE681"
+                },
+                {
+                    "code": "BE682"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE800",
+        "name": "Estágio Supervisionado em Ecologia II",
+        "credits": 12,
+        "syllabus": "Estágio supervisionado a ser cumprido por alunos do curso de Bacharelado em Ciências Biológicas em uma das áreas de pesquisa do Departamento de Biologia Animal, na área de Ecologia.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA470",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "BE881",
+        "name": "Ecologia Geral",
+        "credits": 4,
+        "syllabus": "Conceitos básicos de ecologia de organismos, populações, comunidades e ecossistemas.",
+        "reqBy": [
+            "BE589",
+            "BE594",
+            "BE599"
+        ]
+    }
+]

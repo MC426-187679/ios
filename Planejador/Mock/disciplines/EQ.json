@@ -1,0 +1,1771 @@
+[
+    {
+        "code": "EQ001",
+        "name": "Laboratório de Engenharia Química V",
+        "credits": 4,
+        "syllabus": "Experiências de caráter multidisciplinar, envolvendo programação, montagem, medidas e interpretação de resultados no domínio do projeto químico ou de processos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ701"
+                }
+            ],
+            [
+                {
+                    "code": "EQ812",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "EQ817",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "EQ851",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ003",
+        "name": "Estágio de Engenharia Química I",
+        "credits": 4,
+        "syllabus": "Acompanhamento de projetos, montagens e execuções no âmbito da Engenharia Química, junto ao órgão credenciado pelo departamento. O estágio é concluído com a apresentação de um relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ481"
+                },
+                {
+                    "code": "EQ514"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ004",
+        "name": "Estágio de Engenharia Química II",
+        "credits": 12,
+        "syllabus": "Acompanhamento de projetos, montagens e execuções no âmbito da Engenharia Química, junto ao órgão credenciado pelo departamento. O estágio é concluído com a apresentação de um relatório.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ201"
+                },
+                {
+                    "code": "EQ515"
+                },
+                {
+                    "code": "EQ651",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ021",
+        "name": "Processos e Indústrias Químicas",
+        "credits": 4,
+        "syllabus": "Principais processos químicos de uso ou produção industrial. Principais processos unitários da indústria química. Estudo de cadeias e unidades de processamento.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ481"
+                },
+                {
+                    "code": "EQ851",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ022",
+        "name": "Tópicos em Processos de Separação",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de processos de separação.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ852",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ023",
+        "name": "Tópicos em Engenharia das Reações Químicas",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de engenharia das reações químicas.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ812",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ024",
+        "name": "Tópicos em Fenômenos de Transporte, Sistemas Particulados e Meios Porosos",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de fenômenos de transporte, sistemas particulados e meios porosos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ651",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ025",
+        "name": "Tópicos em Tecnologia dos Materiais I",
+        "credits": 4,
+        "syllabus": "Tendências atuais e aplicações na área de tecnologia dos materiais."
+    },
+    {
+        "code": "EQ026",
+        "name": "Tópicos em Tecnologia dos Materiais II",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de tecnologia de materiais.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ531",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ027",
+        "name": "Tópicos em Engenharia de Bioprocessos I",
+        "credits": 4,
+        "syllabus": "Tendências atuais e aplicações na área de engenharia de bioprocessos."
+    },
+    {
+        "code": "EQ028",
+        "name": "Tópicos em Engenharia de Bioprocessos II",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de bioprocessos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ883",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ029",
+        "name": "Tópicos em Engenharia Ambiental I",
+        "credits": 4,
+        "syllabus": "Tendências atuais e aplicação na área de engenharia ambiental."
+    },
+    {
+        "code": "EQ030",
+        "name": "Tópicos em Engenharia Ambiental II",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de engenharia ambiental.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ861",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ033",
+        "name": "Trabalho de Graduação",
+        "credits": 4,
+        "syllabus": "Apresentação escrita e oral de trabalho desenvolvido na disciplina EQ921 ou na disciplina EQ001 para uma banca constituída de, pelo menos, dois professores do curso de engenharia química.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "AA480",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ034",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 10,
+        "syllabus": "Trabalho individual ou em grupo designado por uma Comissão de Trabalho de Conclusão de Curso da Faculdade de Engenharia Química, e supervisionada por um professor, com apresentação final para uma banca examinadora.",
+        "reqs": [
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "EQ922"
+                }
+            ],
+            [
+                {
+                    "code": "AA200",
+                    "special": true
+                },
+                {
+                    "code": "EQ622",
+                    "partial": true
+                },
+                {
+                    "code": "EQ751"
+                },
+                {
+                    "code": "EQ791"
+                },
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ851",
+                    "partial": true
+                },
+                {
+                    "code": "EQ861",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ035",
+        "name": "Tópicos em Engenharia de Processos I",
+        "credits": 4,
+        "syllabus": "Tendências atuais e aplicação na área de engenharia de processos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ036",
+        "name": "Tópicos em Engenharia de Processos II",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de engenharia de processos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ481"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ037",
+        "name": "Tópicos em Engenharia de Processos III",
+        "credits": 4,
+        "syllabus": "Aplicações avançadas na área de engenharia de processos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ852",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ041",
+        "name": "Tópicos em Projeto Químico",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na área de projeto químico.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ852",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ042",
+        "name": "Qualidade na Engenharia Química",
+        "credits": 4,
+        "syllabus": "1)Evolução da qualidade. Inspeção. Controle de qualidade. Garantia de qualidade. Qualidade integrada. 2)Qualidade total. 3)Controle estatístico de processo. 4)Certificações e entidades certificadoras. 5)Estudo de caso.",
+        "reqs": [
+            [
+                {
+                    "code": "AA460",
+                    "special": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ043",
+        "name": "Tópicos em Automação de Processos Químicos I",
+        "credits": 4,
+        "syllabus": "Tendências atuais e aplicações na área de automação de processos químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ101"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ044",
+        "name": "Tópicos em Automação de Processos Químicos II",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de automação de processos químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ817",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ045",
+        "name": "Tópicos em Processos Químicos I",
+        "credits": 4,
+        "syllabus": "Tendências atuais e aplicações na área de processos químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ481",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ046",
+        "name": "Tópicos em Processos Químicos II",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de processos químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ852",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ047",
+        "name": "Tópicos em Engenharia de Produtos",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento na área de engenharia de produtos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ481",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ048",
+        "name": "Tópicos em Ferramentas Computacionais para Engenharia Química",
+        "credits": 4,
+        "syllabus": "Aplicação de ferramentas computacionais em processos de engenharia química.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ481",
+                    "partial": true
+                },
+                {
+                    "code": "MC102",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ050",
+        "name": "Trabalho de Conclusão de Curso",
+        "credits": 9,
+        "syllabus": "Trabalho individual ou em grupo designado por uma Comissão de Trabalho de Conclusão de Curso da Faculdade de Engenharia Química, e supervisionado por um professor, com apresentação final para uma banca examinadora.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ852",
+                    "partial": true
+                },
+                {
+                    "code": "EQ861",
+                    "partial": true
+                },
+                {
+                    "code": "EQ950"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ052",
+        "name": "Tópicos em Processos Químicos",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na área de processos químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ852",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ061",
+        "name": "Tópicos em Análise Técnico-Econômica",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na área de análise técnico-econômica de projetos da indústria química.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ481",
+                    "partial": true
+                },
+                {
+                    "code": "EQ791",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ062",
+        "name": "Tópicos em Gestão Industrial",
+        "credits": 4,
+        "syllabus": "Os objetivos da indústria. Organização funcional e operacional. Fornecedor e cliente. Controle orçamentário. Custo específico industrial. Organogramas. Programas de produção. Qualidade e manutençao. Treinamento da mão-de-obra. Auditoria. Banco de dados. Política de meio ambiente. Comunidades.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ852",
+                    "partial": true
+                },
+                {
+                    "code": "EQ861",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ071",
+        "name": "Tópicos em Catálise",
+        "credits": 4,
+        "syllabus": "Catálise homogênea e heterogênea; importância. Catálise heterogênea e adsorção; isotermas de adsorção. Cinética da catálise heterogênea. O catalisador. Efeitos de difusão. Coleta e interpretação de dados cinéticos. Catálise por metais e não-metais. Processos catalíticos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ712"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ081",
+        "name": "Tópicos em Engenharia de Segurança",
+        "credits": 4,
+        "syllabus": "Introdução. Noções Básicas de Engenharia de Segurança. Segurança Industrial. Proteção contra Incêndios. Higiene do Trabalho. Engenharia de Ventilação Industrial. Normalização e Legislação. Engenharia de Sistemas. Análise de Riscos de Processo e Operação.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ751",
+                    "partial": true
+                },
+                {
+                    "code": "EQ771",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ082",
+        "name": "Tópicos em Análise de Risco",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de análise de risco e segurança em processos químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ641"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ096",
+        "name": "Tecnologia da Fluidização",
+        "credits": 4,
+        "syllabus": "Aplicações industriais dos leitos fluidizados, comportamento fluidodinâmico dos leitos fluidizados, bolhas, mistura e segregação de sólidos, distribuidores, arraste de sólidos e elutriação em leitos fluidizados. Transferência de calor e de massa em leitos fluidizados, leitos fluidizados como reatores químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ651"
+                },
+                {
+                    "code": "EQ741"
+                },
+                {
+                    "code": "EQ751"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ097",
+        "name": "Eficiência Energética em Processos Químicos",
+        "credits": 4,
+        "syllabus": "O problema da energia em processos químicos. Sistemas de utilidades e conversão de energia. Eficiência energética. Integração energética: \"Pinch Technology\".",
+        "reqs": [
+            [
+                {
+                    "code": "EQ751"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ098",
+        "name": "Tópicos em Engenharia de Processos",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na área de engenharia de processos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ651"
+                },
+                {
+                    "code": "EQ751"
+                },
+                {
+                    "code": "EQ852",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ099",
+        "name": "Tópicos em Sistemas Particulados",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na área de sistemas particulados.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ651"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ101",
+        "name": "Introdução a Processos e Indústrias Químicas",
+        "credits": 2,
+        "syllabus": "O que é Engenharia Química? Desenvolvimento de um Processo. Ciências da Engenharia Química. Operações Unitárias. Indústria Química.",
+        "reqBy": [
+            "EQ035",
+            "EQ043",
+            "EQ201",
+            "EQ481"
+        ]
+    },
+    {
+        "code": "EQ201",
+        "name": "Balanços de Massa e Energia",
+        "credits": 4,
+        "syllabus": "Balanços material e energético, com e sem reação química, em equipamentos e processos industriais. Balanços material e energético combinados aplicados a processos. Uso de ferramentas computacionais para resolução de balanços materiais",
+        "reqs": [
+            [
+                {
+                    "code": "EQ101"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ004",
+            "EQ415",
+            "EQ502",
+            "EQ791"
+        ]
+    },
+    {
+        "code": "EQ314",
+        "name": "Termodinâmica I",
+        "credits": 4,
+        "syllabus": "Introdução. Conservação da massa e da energia. Entropia. Equações de estado de substâncias puras.",
+        "reqs": [
+            [
+                {
+                    "code": "MA211",
+                    "partial": true
+                },
+                {
+                    "code": "QG101",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ514"
+        ]
+    },
+    {
+        "code": "EQ415",
+        "name": "Termodinâmica I",
+        "credits": 6,
+        "syllabus": "Revisão e aprofundamento de balanço material e de energia - estados estacionáro e transiente. Entropia - definição e aplicação em processos. Descrição de sistemas simples heterogêneos contendo apenas um componente.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ201"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ515"
+        ]
+    },
+    {
+        "code": "EQ481",
+        "name": "Introdução à Engenharia Química",
+        "credits": 4,
+        "syllabus": "A indústria química. Operações e processos unitários. Estequiometria. Balanços de massa e de energia. Aplicações simples a processos de balanço de massa e energia combinados.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ101",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "QF531",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ003",
+            "EQ021",
+            "EQ036",
+            "EQ045",
+            "EQ047",
+            "EQ048",
+            "EQ061",
+            "QF053"
+        ]
+    },
+    {
+        "code": "EQ482",
+        "name": "Introdução aos Cálculos de Processos Químicos",
+        "credits": 4,
+        "syllabus": "A indústria química. Operações unitárias e tecnologia de processos químicos industriais. Conceitos fundamentais e grandezas utilizadas em cálculos de processos químicos. Introdução a balanços material e energético.",
+        "reqs": [
+            [
+                {
+                    "code": "QF531",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ582",
+            "QF053"
+        ]
+    },
+    {
+        "code": "EQ502",
+        "name": "Introdução à Análise de Processos",
+        "credits": 4,
+        "syllabus": "Simulação e análise de processos. Modelos. Solução de equações diferenciais ordinárias. Métodos numéricos. Solução em séries de potências. Funções de Bessel. Transformação de Laplace. Séries de Fourier. Casos típicos de equações diferenciais parciais; separação de variáveis; métodos numéricos. Técnicas simples de otimização e sua aplicação.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ201",
+                    "partial": true
+                },
+                {
+                    "code": "MA311"
+                },
+                {
+                    "code": "MS211",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ741",
+            "EQ771",
+            "EQ817",
+            "EQ991"
+        ]
+    },
+    {
+        "code": "EQ514",
+        "name": "Termodinâmica II",
+        "credits": 4,
+        "syllabus": "Relações entre grandezas termodinâmicas. Caracterização do equilíbrio. Sistemas heterogêneos de um componente. Soluções. Equilíbrio de fases.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ314"
+                },
+                {
+                    "code": "MA211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ003",
+            "EQ614",
+            "EQ851"
+        ]
+    },
+    {
+        "code": "EQ515",
+        "name": "Termodinâmica II",
+        "credits": 6,
+        "syllabus": "Cálculo de Grandezas Termodinâmicas de Sistemas Multicomponentes. Equilíbrio de Fases: Líquido-Vapor, Líquido-Líquido, Líquido-Líquido-Vapor, Sólido-Líquido. Equilíbrio Osmótico. Equilíbrio Químico.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ415"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ004",
+            "EQ712",
+            "EQ801",
+            "EQ812",
+            "EQ852",
+            "EQ994"
+        ]
+    },
+    {
+        "code": "EQ531",
+        "name": "Aplicações dos Materiais em Engenharia Química",
+        "credits": 4,
+        "syllabus": "Materiais usados em Engenharia Química. Elementos da ciência dos materiais. Metais, polímeros, vidros e cerâmicas. Estrutura, propriedades e comportamento de materiais. Tecnologia dos materiais e tratamento de proteção.",
+        "reqs": [
+            [
+                {
+                    "code": "QG108",
+                    "partial": true
+                },
+                {
+                    "code": "QI145",
+                    "partial": true
+                },
+                {
+                    "code": "QI245",
+                    "partial": true
+                },
+                {
+                    "code": "QO321",
+                    "partial": true
+                },
+                {
+                    "code": "QO421",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "QG108",
+                    "partial": true
+                },
+                {
+                    "code": "QI145",
+                    "partial": true
+                },
+                {
+                    "code": "QI245",
+                    "partial": true
+                },
+                {
+                    "code": "QO321",
+                    "partial": true
+                },
+                {
+                    "code": "QO521",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "QI242",
+                    "partial": true
+                },
+                {
+                    "code": "QI244",
+                    "partial": true
+                },
+                {
+                    "code": "QO323",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "QI242",
+                    "partial": true
+                },
+                {
+                    "code": "QI244",
+                    "partial": true
+                },
+                {
+                    "code": "QO321",
+                    "partial": true
+                },
+                {
+                    "code": "QO421",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "QI242",
+                    "partial": true
+                },
+                {
+                    "code": "QI244",
+                    "partial": true
+                },
+                {
+                    "code": "QO427",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ026",
+            "EQ622",
+            "EQ951",
+            "EQ952",
+            "EQ954"
+        ]
+    },
+    {
+        "code": "EQ541",
+        "name": "Fenômenos de Transporte I",
+        "credits": 4,
+        "syllabus": "Estática e cinemática de fluidos. Equações gerais da dinâmica dos fluidos. Relações integrais e diferenciais. Fluidos Newtonianos e não Newtonianos. Análise dimensional e similaridade. Escoamento laminar e turbulento de fluidos Newtonianos. Camada limite. Escoamento em dutos.",
+        "reqs": [
+            [
+                {
+                    "code": "F 315",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "MA311",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ601",
+            "EQ641",
+            "EQ651",
+            "EQ741",
+            "EQ771",
+            "EQ952",
+            "EQ954"
+        ]
+    },
+    {
+        "code": "EQ582",
+        "name": "Fenômenos de Transporte e Operações Unitárias",
+        "credits": 4,
+        "syllabus": "Princípios de transferência de quantidade de movimento, calor e massa e operações unitárias da indústria química.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ482",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "QF835"
+        ]
+    },
+    {
+        "code": "EQ583",
+        "name": "Bioengenharia I",
+        "credits": 2,
+        "syllabus": "Introdução à Bioengenharia; Conceitos Básicos de Biologia, Bioquímica e Microbiologia; Enzimas; Mecanismos de Funcionamento das Células; Principais Caminhos Metabólicos; Estequiometria do Crescimento Microbiano e Formação de Produto.",
+        "reqs": [
+            [
+                {
+                    "code": "QO323",
+                    "partial": true
+                }
+            ],
+            [
+                {
+                    "code": "QO427",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ883",
+            "EQ985"
+        ]
+    },
+    {
+        "code": "EQ601",
+        "name": "Laboratório de Engenharia Química I",
+        "credits": 4,
+        "syllabus": "Experiências em laboratório de caráter interdisciplinar, envolvendo programação, montagem, medidas e interpretação de resultados, nos domínios da termodinâmica, transferência de momentum.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ541",
+                    "partial": true
+                },
+                {
+                    "code": "ME414"
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ801",
+            "EQ901"
+        ]
+    },
+    {
+        "code": "EQ614",
+        "name": "Termodinâmica III",
+        "credits": 4,
+        "syllabus": "Equilíbrio químico. Métodos de predição de propriedades termodinâmicas. Termodinâmica molecular. Gás perfeito. Gases imperfeitos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ514",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ622",
+        "name": "Eletroquímica e Corrosão",
+        "credits": 4,
+        "syllabus": "Reações eletroquímicas. Soluções de eletrólitos. Transporte de íons. Células eletroquímicas. Armazenamento de energia. Formas e classificação da corrosão. Corrosão eletroquímica. Corrosão na indústria química e petroquímica.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ531",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ034",
+            "EQ921",
+            "EQ951"
+        ]
+    },
+    {
+        "code": "EQ641",
+        "name": "Fenômenos de Transporte II",
+        "credits": 4,
+        "syllabus": "Condução de calor, regime estacionário e transiente. Convecção natural e forçada. Transferência de calor com mudança de fase. Radiação.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ541",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ082",
+            "EQ741",
+            "EQ751",
+            "EQ841",
+            "EQ901"
+        ]
+    },
+    {
+        "code": "EQ651",
+        "name": "Operações Unitárias I",
+        "credits": 4,
+        "syllabus": "Equipamentos para o transporte de fluidos: bombas, válvulas, compressores. Caracterização de partículas sólidas. Dinâmica de partículas. Colunas de recheio. Fluidização. Transporte hidráulico e pneumático. Filtração. Sedimentação. Centrifugação. Tratamento e separação de sólidos. Agitação e mistura.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ541",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ004",
+            "EQ024",
+            "EQ096",
+            "EQ098",
+            "EQ099",
+            "EQ701",
+            "EQ861"
+        ]
+    },
+    {
+        "code": "EQ701",
+        "name": "Laboratório de Engenharia Química II",
+        "credits": 4,
+        "syllabus": "Experiências em laboratório de caráter interdisciplinar, envolvendo programação, montagem, medidas e interpretação de resultados, nos domínios da transferência de Momentum, Operações Unitárias e Materiais.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ651",
+                    "partial": true
+                },
+                {
+                    "code": "ME414"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ001",
+            "EQ902"
+        ]
+    },
+    {
+        "code": "EQ712",
+        "name": "Cinética Química Aplicada",
+        "credits": 4,
+        "syllabus": "Cinética química. Cinética das reações homogêneas. Teoria da cinética de reações elementares em fase gasosa e líquida. Reações complexas. Catálise homogênea. Adsorção e catálise heterogênea.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ515",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ071",
+            "EQ801",
+            "EQ812",
+            "EQ861",
+            "EQ883",
+            "EQ901",
+            "EQ954",
+            "EQ961",
+            "EQ971",
+            "EQ991"
+        ]
+    },
+    {
+        "code": "EQ741",
+        "name": "Fenômenos de Transporte III",
+        "credits": 4,
+        "syllabus": "Introdução. Transferência de massa difusiva. Modelos de difusão em gases, líquidos e sólidos. Transferência de massa convectiva. Transferência de massa em regime transiente. Transferência de massa com reação química. Transferência simultânea de calor e massa. Transferência de massa entre fases.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ502",
+                    "partial": true
+                },
+                {
+                    "code": "EQ541"
+                },
+                {
+                    "code": "EQ641",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ096",
+            "EQ841",
+            "EQ851",
+            "EQ852",
+            "EQ861",
+            "EQ901"
+        ]
+    },
+    {
+        "code": "EQ751",
+        "name": "Operações Unitárias II",
+        "credits": 4,
+        "syllabus": "Trocadores de calor bitubulares, casco e tubos e de placas paralelas. Trocadores com mudança de fase. Redes de trocadores de calor. Cristalização. Refrigeração. Umidificação.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ641",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ034",
+            "EQ081",
+            "EQ096",
+            "EQ097",
+            "EQ098",
+            "EQ852",
+            "EQ902",
+            "EQ921",
+            "EQ994"
+        ]
+    },
+    {
+        "code": "EQ771",
+        "name": "Instrumentação na Indústria Química",
+        "credits": 4,
+        "syllabus": "Diagrama de instrumentação. Instrumentação industrial: medidas de pressão, temperatura, vazão, nível e densidade. Transmissores pneumáticos e eletrônicos. Atuadores industriais. Controladores lógicos programáveis. Sistemas supervisórios.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ502",
+                    "partial": true
+                },
+                {
+                    "code": "EQ541",
+                    "partial": true
+                },
+                {
+                    "code": "MS211"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ081",
+            "EQ817"
+        ]
+    },
+    {
+        "code": "EQ791",
+        "name": "Análise Técnico-Econômica",
+        "credits": 4,
+        "syllabus": "As três revoluções industriais. Variáveis científico-técnicas e econômicas. Crescimento econômico e desenvolvimento tecnológico. Resíduo. Inovação tecnológica. Micro e macroeconomia. Balanços contabilísticos. Custo de fábrica e preço de venda. Investimentos. Riscos. Técnicas de estimativa de custos e de análise de rentabilidade. Diagnóstico de empresa. Previsão tecnológica.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ201"
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ034",
+            "EQ061",
+            "EQ921",
+            "EQ922",
+            "EQ961"
+        ]
+    },
+    {
+        "code": "EQ801",
+        "name": "Laboratório de Engenharia Química III",
+        "credits": 4,
+        "syllabus": "Experiências de caráter interdisciplinar envolvendo programação, montagem, medidas e interpretação de resultados, nos domínios das operações unitárias e das reações químicas.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ515"
+                },
+                {
+                    "code": "EQ601",
+                    "partial": true
+                },
+                {
+                    "code": "EQ712",
+                    "partial": true
+                },
+                {
+                    "code": "QA313"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ812",
+        "name": "Reatores Químicos",
+        "credits": 4,
+        "syllabus": "Reatores químicos. Reatores químicos de comportamento ideal. Desvios do comportamento ideal. Reatores catalíticos heterogêneos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ515"
+                },
+                {
+                    "code": "EQ712",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ001",
+            "EQ023",
+            "EQ034",
+            "EQ050",
+            "EQ052",
+            "EQ062",
+            "EQ902",
+            "EQ917",
+            "EQ921",
+            "EQ922",
+            "EQ941",
+            "EQ991"
+        ]
+    },
+    {
+        "code": "EQ817",
+        "name": "Controle de Processos",
+        "credits": 4,
+        "syllabus": "Introdução ao controle de processos, exemplos, malha aberta e malha fechada. Modelos de sistemas dinâmicos: exemplos e análise. Resposta dinâmica. Transformada de Laplace e resposta temporal. Propriedades básicas de sistemas realimentados. Comportamento em regime permanente, estabilidade e estudo de casos. Projeto e controladores industriais, controladores P, PI e PID.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ502"
+                },
+                {
+                    "code": "EQ771",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ001",
+            "EQ044",
+            "EQ902",
+            "EQ917",
+            "EQ922"
+        ]
+    },
+    {
+        "code": "EQ841",
+        "name": "Tópicos em Métodos Numéricos e Aplicações em Fenômenos de Transporte",
+        "credits": 4,
+        "syllabus": "Equações diferenciais lineares e não-lineares. Resolução das equações através de métodos numéricos. Aplicações em fenômenos de transporte: Transferência de quantidade de movimento, energia e matéria.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ641",
+                    "partial": true
+                },
+                {
+                    "code": "EQ741",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ851",
+        "name": "Operações Unitárias III",
+        "credits": 4,
+        "syllabus": "Destilação. Extração. Lixiviação. Absorção. Operações em estágios e em colunas de recheio.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ514"
+                },
+                {
+                    "code": "EQ741",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ001",
+            "EQ021",
+            "EQ034",
+            "EQ921"
+        ]
+    },
+    {
+        "code": "EQ852",
+        "name": "Operações Unitárias III",
+        "credits": 6,
+        "syllabus": "Destilação. Extração. Lixiviação. Absorção. Adsorção. Secagem.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ515"
+                },
+                {
+                    "code": "EQ741",
+                    "partial": true
+                },
+                {
+                    "code": "EQ751",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ022",
+            "EQ037",
+            "EQ041",
+            "EQ046",
+            "EQ050",
+            "EQ052",
+            "EQ062",
+            "EQ098",
+            "EQ902",
+            "EQ922",
+            "EQ941",
+            "EQ971",
+            "EQ983",
+            "EQ984"
+        ]
+    },
+    {
+        "code": "EQ861",
+        "name": "Preservação do Meio Ambiente",
+        "credits": 4,
+        "syllabus": "Conceitos de poluição e poluentes. Visão histórica. Poluição atmosférica: efeitos regionais e globais, inventário de emissões, controle de emissões. Poluição das águas: qualidade, processo de tratamento, reuso e conservação da água. Resíduos sólidos: classificação, gerenciamento e processos de tratamento e disposição final. Legislação e Normas.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ651"
+                },
+                {
+                    "code": "EQ712",
+                    "partial": true
+                },
+                {
+                    "code": "EQ741",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ030",
+            "EQ034",
+            "EQ050",
+            "EQ062",
+            "EQ921",
+            "EQ922",
+            "EQ984"
+        ]
+    },
+    {
+        "code": "EQ883",
+        "name": "Bioengenharia II",
+        "credits": 4,
+        "syllabus": "Cinética Enzimática; Cinética Microbiana; Biorreatores; Separação e Purificação de Produtos; Culturas Mistas, Culturas de Células Vegetais e Animais.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ583"
+                },
+                {
+                    "code": "EQ712",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ028",
+            "EQ902",
+            "EQ983",
+            "EQ985"
+        ]
+    },
+    {
+        "code": "EQ901",
+        "name": "Laboratório de Engenharia Química IV",
+        "credits": 4,
+        "syllabus": "Experiências de caráter multidisciplinar, envolvendo programação, montagem, medidas e interpretação de resultados, no domínio das operações unitárias, da corrosão e de reações e sínteses químicas.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ601"
+                },
+                {
+                    "code": "EQ641"
+                },
+                {
+                    "code": "EQ712",
+                    "partial": true
+                },
+                {
+                    "code": "EQ741"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ902",
+        "name": "Laboratório de Engenharia Química IV",
+        "credits": 8,
+        "syllabus": "Experiências de caráter multidisciplinar envolvendo programação, montagem, medidas e interpretações de resultados, no domínio das operações unitárias, reações químicas e bioprocessos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ701",
+                    "partial": true
+                },
+                {
+                    "code": "EQ751"
+                },
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ817",
+                    "partial": true
+                },
+                {
+                    "code": "EQ852",
+                    "partial": true
+                },
+                {
+                    "code": "EQ883",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ917",
+        "name": "Tópicos em Controle de Processos por Computador",
+        "credits": 4,
+        "syllabus": "Controle de Processos Químicos. Hardware e Software para o controle por computador. O processo de amostragem. A transformada Z. Resposta em malha fechada de sistemas com amostragem de dados. Estabilidade e projeto de sistemas digitais de controle avançado. Controle multivariável. Controle Supervisório.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ817",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ921",
+        "name": "Projeto Químico",
+        "credits": 4,
+        "syllabus": "Planejamento e projeto. Tipos e estrutura de projetos. Pesquisa e desenvolvimento. Novos produtos e processos. Patentes, Royalties e Know-How. Descrição de processos. Seleção e especificação de equipamentos. Materiais. Localização e implantação. Trabalho de projeto.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ622",
+                    "partial": true
+                },
+                {
+                    "code": "EQ751"
+                },
+                {
+                    "code": "EQ791"
+                },
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ851",
+                    "partial": true
+                },
+                {
+                    "code": "EQ861",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ922",
+        "name": "Projeto Químico",
+        "credits": 10,
+        "syllabus": "Planejamento e projeto. Tipo e estrutura de projetos. Balanços de massa e energia, seleção e especificação dos equipamentos e análise econômica de um processo.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ791",
+                    "partial": true
+                },
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ817",
+                    "partial": true
+                },
+                {
+                    "code": "EQ852",
+                    "partial": true
+                },
+                {
+                    "code": "EQ861",
+                    "partial": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ034"
+        ]
+    },
+    {
+        "code": "EQ941",
+        "name": "Tópicos em Operações e Reatores",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na área de operações unitárias e reatores químicos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ812",
+                    "partial": true
+                },
+                {
+                    "code": "EQ852",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ950",
+        "name": "Introdução ao Trabalho de Conclusão de Curso",
+        "credits": 2,
+        "syllabus": "Apresentação da atividade de Trabalho de Conclusão de Curso e das suas normas. Proposta de tema de trabalho e atribuição de supervisor.",
+        "reqs": [
+            [
+                {
+                    "code": "AA472",
+                    "special": true
+                }
+            ]
+        ],
+        "reqBy": [
+            "EQ050"
+        ]
+    },
+    {
+        "code": "EQ951",
+        "name": "Materiais da Indústria Química",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na área de materiais da indústria química.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ531"
+                },
+                {
+                    "code": "EQ622",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ952",
+        "name": "Introdução ao Processamento de Polímeros",
+        "credits": 4,
+        "syllabus": "Comportamento reológico. Escoamento isotérmico em diversas geometrias. Calor e energia necessários ao processamento de polímeros. Classificação e descrição dos principais processos de processamento de polímeros.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ531"
+                },
+                {
+                    "code": "EQ541"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ954",
+        "name": "Cinética e Reatores de Polimerização",
+        "credits": 4,
+        "syllabus": "Polímeros naturais e sintéticos. Relação estrutura x propriedades. Polimerização por etapa ou condensação. Polimerização em cadeia ou radicalar. Efeito dos grupos substituintes em polimerização por radical livre. Tecnologia da reticulação. Processos de iniciação em cadeia. Técnicas de polimerização. Polimerização iônica. Estereoquímica da polimerização (catálise Ziegler-Natta, metalocenos e a nova geração de catalisadores). Caracterização físico-química das reações de polimerização. Tipos de reatores de polimerização utilizados. Simulação de reatores de polimerização.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ531"
+                },
+                {
+                    "code": "EQ541"
+                },
+                {
+                    "code": "EQ712",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ961",
+        "name": "Tópicos em Energia",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na área de energia na indústria química, com ênfase em energias não convencionais.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ712",
+                    "partial": true
+                },
+                {
+                    "code": "EQ791",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ971",
+        "name": "Tópicos em Termodinâmica Aplicada",
+        "credits": 4,
+        "syllabus": "Aprofundamento e desdobramento de matérias na Área de Termodinâmica Aplicada a processos da indústria química, com ênfase especial em análise termodinâmica de processos de otimização e processos de separação.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ712",
+                    "partial": true
+                },
+                {
+                    "code": "EQ852",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ983",
+        "name": "Tópicos em Processos Biotecnológicos",
+        "credits": 4,
+        "syllabus": "A importância e o impacto de processos não convencionais de separação. Geração e melhoria de seletividade. Recuperação de substâncias a partir de soluções diluídas. Aumento da taxa e da capacidade de sistemas de separação. Desenvolvimento de novas configurações de processos para equipamentos de separação.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ852",
+                    "partial": true
+                },
+                {
+                    "code": "EQ883",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ984",
+        "name": "Otimização de Processos de Separação e Impactos Ambientais",
+        "credits": 4,
+        "syllabus": "Introdução. Processos de Separação Difusionais. Processos de Separação não Convencionais. Otimização de Processos de Separação. Minimização de Poluentes Industriais a partir de Colunas de Separação.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ852",
+                    "partial": true
+                },
+                {
+                    "code": "EQ861",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ985",
+        "name": "Tópicos em Biocatálise",
+        "credits": 4,
+        "syllabus": "Enzimas e células imobilizadas: aspectos cinéticos, de transferência de massa e de reatores.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ583"
+                },
+                {
+                    "code": "EQ883",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ991",
+        "name": "Análise e Simulação de Processos",
+        "credits": 4,
+        "syllabus": "Simulação de processos. Modelos matemáticos e físicos. Simulação de processos por computador. Identificação de parâmetros. Otimização de processos.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ502"
+                },
+                {
+                    "code": "EQ712"
+                },
+                {
+                    "code": "EQ812",
+                    "partial": true
+                }
+            ]
+        ]
+    },
+    {
+        "code": "EQ994",
+        "name": "Incineração Térmica de Resíduos Perigosos",
+        "credits": 4,
+        "syllabus": "Normas de classificação de resíduos sólidos, normas de incineração, cálculos termoquímicos em incineração, tipos de incineradores, tratamento de efluentes gasosos, projeto de unidade de incineração.",
+        "reqs": [
+            [
+                {
+                    "code": "EQ515"
+                },
+                {
+                    "code": "EQ751",
+                    "partial": true
+                }
+            ]
+        ]
+    }
+]

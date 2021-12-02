@@ -1,0 +1,234 @@
+[
+    {
+        "code": "CG001",
+        "name": "Tópicos Especiais em Comércio Internacional I",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CG002",
+        "name": "Tópicos Especiais em Comércio Internacional II",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CG003",
+        "name": "Tópicos Especiais em Comércio Internacional III",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CG004",
+        "name": "Tópicos Especiais em Comércio Internacional IV",
+        "credits": 4,
+        "syllabus": "Esta disciplina terá seu programa definido em função das pesquisas que se realizam na Faculdade de Ciências Aplicadas e das discussões prévias entre alunos e professores."
+    },
+    {
+        "code": "CG010",
+        "name": "Seminários Interdisciplinares em Administração",
+        "credits": 4,
+        "syllabus": "Temas relacionados a grandes problemáticas da sociedade e desafios científicos; fundamentação teórica e analítica e métodos para se abordar distintos problemas de investigação, con ênfase na perspectiva interdisciplinar; forças e debilidades nas abordagens conceituais e metodológicas; implicações para políticas públicas e estratégias organizacionais."
+    },
+    {
+        "code": "CG200",
+        "name": "Introdução ao Comércio Internacional",
+        "credits": 4,
+        "syllabus": "Globalização dos mercados e da produção. Forças que dirigem a globalização. Os benefícios relacionados ao comércio internacional. O papel do governo no comércio internacional. Balanço de pagamentos. Seleção e gerenciamento dos modos de entrada no mercado internacional. Aspectos a considerar no mercado de destino. O profissional de comércio internacional: áreas de atuação.",
+        "reqBy": [
+            "CG702"
+        ]
+    },
+    {
+        "code": "CG500",
+        "name": "Sistemática de Importação e Exportação",
+        "credits": 4,
+        "syllabus": "Despacho aduaneiro na exportação e na importação. Regulamentação aduaneira. Regimes aduaneiros comum e especiais. Câmbio e modalidades de pagamentos internacionais. Tributação no comércio exterior.",
+        "reqs": [
+            [
+                {
+                    "code": "CG702"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG600",
+        "name": "Regimes Aduaneiros Especiais",
+        "credits": 4,
+        "syllabus": "Regulamento Aduaneiro. Regimes comum e especiais. Conceitos aduaneiros. Despacho aduaneiro. Regimes aduaneiros especiais (admissão temporária, exportação temporária, drawback, entreposto aduaneiro, loja franca, zona franca de Manaus, trânsito aduaneiro e outros). Infrações e penalidades. O conceito de despacho aduaneiro expresso (Linha Azul) e operador econômico autorizado (OEA). A organização Mundial das Aduanas (OMA)."
+    },
+    {
+        "code": "CG700",
+        "name": "Comércio e Finanças Internacionais",
+        "credits": 4,
+        "syllabus": "Comércio internacional: teoria e políticas. Instituições multilaterais que regulam o comércio internacional. Acordos regionais de comércio. Investimentos internacionais. Acordos sobre investimentos estrangeiros. Macroeconomia aberta: determinação das taxas de juros e de câmbio. Paridade de poder de compra. Sistema financeiro internacional contemporâneo. O Brasil nos fluxos de comércio e de investimentos internacionais.",
+        "reqs": [
+            [
+                {
+                    "code": "GL603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG701",
+        "name": "Elaboração de Projeto de Comércio Internacional",
+        "credits": 2,
+        "syllabus": "Projetos: tipologia e características. Técnicas de projeto e de avaliação. Características dos projetos de comércio internacional. Elaboração de plano de negócios.",
+        "reqs": [
+            [
+                {
+                    "code": "GL601"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG702",
+        "name": "Gestão do Comércio Internacional",
+        "credits": 4,
+        "syllabus": "Sistema brasileiro de comércio exterior: instituições e políticas. Classificação de mercadorias. Tipologias. Composição da pauta de exportações e de importações do Brasil: principais produtos e perfil das empresas exportadoras e importadoras. Destino das exportações e origem das importações. Infraestrutura brasileira de comércio exterior: principais pontos de entrada/saída. Características das operações de comércio internacional. Incoterms. Tributação no comércio internacional.",
+        "reqs": [
+            [
+                {
+                    "code": "CG200"
+                }
+            ]
+        ],
+        "reqBy": [
+            "CG500",
+            "CG804"
+        ]
+    },
+    {
+        "code": "CG703",
+        "name": "Inglês I",
+        "credits": 4,
+        "syllabus": "Desenvolvimento de habilidades de compreensão e produção orais e escritas de funções e estruturas básicas da língua inglesa. Leitura de textos em inglês, visando o desenvolvimento de estratégias globais de leitura e de análise linguística.",
+        "reqBy": [
+            "CG802"
+        ]
+    },
+    {
+        "code": "CG704",
+        "name": "Laboratório de Comércio Internacional I",
+        "credits": 2,
+        "syllabus": "Jogos simulando processos de decisão e avaliação de resultados em operações de comércio internacional.",
+        "reqs": [
+            [
+                {
+                    "code": "GL603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG705",
+        "name": "Estratégia e Competitividade Internacional",
+        "credits": 4,
+        "syllabus": "Internacionalização da produção ou de outras funções. Estratégias de crescimento das empresas: possibilidades e limites. Empresas multinacionais. Formas de internacionalização. Vantagens competitivas. Marketing internacional."
+    },
+    {
+        "code": "CG706",
+        "name": "Elaboração de Projeto de Comércio Internacional I",
+        "credits": 2,
+        "syllabus": "Conceitos básicos sobre projetos, planos de negócios e empreendedorismo. Aspectos administrativos, legais, mercadológicos, técnicos, econômicos e financeiros. Custo e financiamento. Estudo de viabilidade. Análise de risco. Elaboração de projeto ou plano de negócio incluindo aspectos de comércio internacional."
+    },
+    {
+        "code": "CG707",
+        "name": "Marketing Internacional",
+        "credits": 4,
+        "syllabus": "O ambiente do marketing internacional. Vantagens Competitivas. O composto de marketing no cenário internacional. Formação de preço e canais de distribuição internacional. A questão cultural no Marketing: teoria das cores. Pesquisa em marketing internacional. Variáveis básicas controláveis do conjunto comercial.",
+        "reqs": [
+            [
+                {
+                    "code": "GL603"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG800",
+        "name": "Direito Internacional",
+        "credits": 4,
+        "syllabus": "Direito Internacional Público. Relações com o direito interno. Fontes. Pessoas. Estado e sua dimensão. Organizações Internacionais. Contencioso internacional. Princípios gerais do direito e doutrina. Contratos internacionais e arbitragem.",
+        "reqs": [
+            [
+                {
+                    "code": "GL403"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG801",
+        "name": "Gestão de Finanças Internacionais",
+        "credits": 4,
+        "syllabus": "Mercado financeiro internacional. Mercado cambial no Brasil. Câmbio na exportação e na importação. Sistema administrativo de câmbio para o comércio internacional no Brasil e no exterior. Entradas e saídas de capitais do Brasil: investimentos diretos e de portfólio. Aspectos tributários.",
+        "reqs": [
+            [
+                {
+                    "code": "GL602"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG802",
+        "name": "Inglês II",
+        "credits": 4,
+        "syllabus": "Expansão das habilidades de compreensão e produção orais e escritas de funções e estruturas básicas da língua inglesa. Leitura de textos em inglês em grau avançado de dificuldade.",
+        "reqs": [
+            [
+                {
+                    "code": "CG703"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG803",
+        "name": "Inovação e Competitividade Internacional",
+        "credits": 2,
+        "syllabus": "A inovação como instrumento de concorrência internacional. Formas de incorporação de inovações: desenvolvimento, licenciamento, aquisição de bens e serviços. Joint ventures. Redes mundiais de inovação. Direitos de propriedade intelectual. Patentes.",
+        "reqs": [
+            [
+                {
+                    "code": "GL604"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG804",
+        "name": "Laboratório de Comércio Internacional II",
+        "credits": 2,
+        "syllabus": "Jogos simulando processos de decisão e avaliação em operações de comércio internacional.",
+        "reqs": [
+            [
+                {
+                    "code": "CG702"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG805",
+        "name": "Sistemas Integrados de Produção e Distribuição Internacional",
+        "credits": 4,
+        "syllabus": "Segmentação das cadeias de valor e das etapas da produção. Global Sourcing. Redes mundiais de fornecedores. Comércio intra-firma. Zonas de exportação. Importações temporárias. Logística e operações globais.",
+        "reqs": [
+            [
+                {
+                    "code": "GL605"
+                }
+            ]
+        ]
+    },
+    {
+        "code": "CG806",
+        "name": "Elaboração de Projeto de Comércio Internacional II",
+        "credits": 2,
+        "syllabus": "Continuação da elaboração de projeto ou plano de negócios iniciada na disciplina Elaboração de Projetos de Comércio Internacional I."
+    }
+]
