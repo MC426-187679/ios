@@ -4,11 +4,9 @@ struct Course {
     let code: String
     let name: String
     let tree: CourseTree
-}
 
-extension Course: Item {
-    static func allItems(completion: @escaping ([Course]) -> Void) {
-        let urls = itemNames.compactMap { filename in
+    static func allCourses(completion: @escaping ([Course]) -> Void) {
+        let urls = courseNames.compactMap { filename in
             Bundle.main.url(forResource: filename, withExtension: nil)
         }
 
@@ -24,7 +22,7 @@ extension Course: Item {
         return nil
     }
 
-    static var itemNames: [String] {
+    static var courseNames: [String] {
         [
             "1.json", "10.json", "100.json", "101.json", "102.json", "107.json", "108.json",
             "109.json", "11.json", "110.json", "111.json", "12.json", "13.json", "14.json",

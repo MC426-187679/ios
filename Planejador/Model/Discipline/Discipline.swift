@@ -7,11 +7,9 @@ struct Discipline: Decodable {
     let syllabus: String
     let requirements: [Requirement]?
     let requiredBy: [String]?
-}
 
-extension Discipline: Item {
-    static func allItems(completion: @escaping ([Discipline]) -> Void) {
-        let urls = itemNames.compactMap { filename in
+    static func allDisciplines(completion: @escaping ([Discipline]) -> Void) {
+        let urls = disciplineNames.compactMap { filename in
             Bundle.main.url(forResource: filename, withExtension: nil)
         }
 
@@ -27,7 +25,7 @@ extension Discipline: Item {
         return nil
     }
 
-    static var itemNames: [String] {
+    static var disciplineNames: [String] {
         [
             "AC.json", "AD.json", "AG.json", "AI.json", "AM.json", "AP.json", "AR.json",
             "AU.json", "BA.json", "BB.json", "BC.json", "BD.json", "BE.json", "BF.json",

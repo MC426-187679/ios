@@ -1,8 +1,18 @@
 import SwiftUI
 
 struct DisciplinesView: View {
+    @ObservedObject private var viewModel = DisciplinesViewModel()
+
     var body: some View {
-        ItemsView<Discipline>()
+        Form {
+            ForEach(viewModel.allDisciplines, id: \.self.code) { discipline in
+                NavigationLink(destination: {
+                    Text("Item Page View")
+                }, label: {
+                    Text(discipline.code)
+                })
+            }
+        }
     }
 }
 
