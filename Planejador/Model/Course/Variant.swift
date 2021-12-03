@@ -1,8 +1,6 @@
-//
-//  Variant.swift
-//  Planejador
-//
-//  Created by Leonardo de Sousa Rodrigues on 02/12/21.
-//
-
 import Foundation
+
+struct Variant: Decodable {
+    let name: String
+    let tree: DisciplineTree
+}

@@ -1,8 +1,7 @@
-//
-//  Requirement.swift
-//  Planejador
-//
-//  Created by Leonardo de Sousa Rodrigues on 02/12/21.
-//
-
 import Foundation
+
+struct Requirement: Decodable {
+    let code: String
+    let special: Bool
+    let partial: Bool
+}

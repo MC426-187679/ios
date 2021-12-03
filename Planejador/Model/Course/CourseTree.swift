@@ -1,8 +1,8 @@
 import Foundation
 
-typealias VariantTree = [[String]]
+typealias DisciplineTree = [[String]]
 
 enum CourseTree {
-    case unique
-    case variants
+    case unique(DisciplineTree)
+    case variants([Variant])
 }

@@ -1,8 +1,13 @@
-//
-//  DisciplinesView.swift
-//  Planejador
-//
-//  Created by Leonardo de Sousa Rodrigues on 02/12/21.
-//
+import SwiftUI
 
-import Foundation
+struct DisciplinesView: View {
+    var body: some View {
+        ItemsView<Discipline>()
+    }
+}
+
+struct DisciplinesView_Previews: PreviewProvider {
+    static var previews: some View {
+        DisciplinesView()
+    }
+}
