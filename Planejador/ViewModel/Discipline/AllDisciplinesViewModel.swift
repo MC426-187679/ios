@@ -1,5 +1,7 @@
 import SwiftUI
 
-class AllDisciplinesViewModel: ObservableObject {
-    @Published var initials = Discipline.Factory.shared.disciplineNames
+extension AllDisciplinesView {
+    class ViewModel: ObservableObject {
+        @Published var initials = Discipline.Factory.shared.disciplineNames
+    }
 }

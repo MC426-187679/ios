@@ -1,17 +1,17 @@
 import SwiftUI
 
 struct DisciplineDetailView: View {
-    @ObservedObject private var viewModel: DisciplineDetailViewModel
+    @ObservedObject private var viewModel: ViewModel
 
     init(_ discipline: Discipline) {
-        self.viewModel = DisciplineDetailViewModel(discipline)
+        self.viewModel = ViewModel(discipline)
     }
 
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 16) {
                 Text(viewModel.discipline.name)
-                    .font(.appHeadline)
+                    .font(.appTitle)
                 Text("Créditos: \(viewModel.discipline.credits)")
                     .font(.appBody.bold())
                 Text("Ementa:")
@@ -19,10 +19,12 @@ struct DisciplineDetailView: View {
                 Text(viewModel.discipline.syllabus)
                     .font(.body)
                 if let requirements = viewModel.discipline.requirements {
+                    Text("Pré-requisitos")
+                        .font(.appHeadline)
                     RequirementsView(allRequirements: requirements)
                 }
             }
-            .padding()
+            .padding(.horizontal)
         }
         .navigationTitle(viewModel.discipline.code)
     }

@@ -1,9 +1,11 @@
 import SwiftUI
 
-class CoursesViewModel: ObservableObject {
-    @Published var allCourses = [Course]()
+extension CoursesView {
+    class ViewModel: ObservableObject {
+        @Published var allCourses = [Course]()
 
-    init() {
-        Course.allCourses { self.allCourses.append(contentsOf: $0) }
+        init() {
+            Course.Factory.shared.allCourses { self.allCourses.append(contentsOf: $0) }
+        }
     }
 }

@@ -1,7 +1,7 @@
 import SwiftUI
 
 struct AllDisciplinesView: View {
-    @ObservedObject private var viewModel = AllDisciplinesViewModel()
+    @ObservedObject private var viewModel = ViewModel()
 
     var body: some View {
         Form {

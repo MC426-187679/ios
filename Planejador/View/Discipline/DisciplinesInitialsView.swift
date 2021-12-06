@@ -1,10 +1,10 @@
 import SwiftUI
 
 struct DisciplinesInitialsView: View {
-    @ObservedObject private var viewModel: DisciplinesInitialsViewModel
+    @ObservedObject private var viewModel: ViewModel
 
     init(initials: String) {
-        self.viewModel = DisciplinesInitialsViewModel(initials: initials)
+        self.viewModel = ViewModel(initials: initials)
     }
 
     var body: some View {
