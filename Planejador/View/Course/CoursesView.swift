@@ -7,7 +7,7 @@ struct CoursesView: View {
         Form {
             ForEach(viewModel.allCourses, id: \.self.code) { course in
                 NavigationLink(destination: {
-                    Text("Item Page View")
+                    Text("Course Page View")
                 }, label: {
                     Text(course.code)
                 })

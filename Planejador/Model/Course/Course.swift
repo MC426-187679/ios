@@ -11,7 +11,7 @@ struct Course {
         }
 
         let courses = urls.compactMap { decode(url: $0) }
-        completion(courses)
+        completion(courses.sorted { Int($0.code) ?? 0 < Int($1.code) ?? 0 })
     }
 
     private static func decode(url: URL) -> Course? {

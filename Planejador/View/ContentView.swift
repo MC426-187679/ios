@@ -8,21 +8,21 @@ struct ContentView: View {
     var body: some View {
         TabView {
             NavigationView {
-                DisciplinesView()
-                    .navigationBarTitle(disciplinesViewTitle)
+                AllDisciplinesView()
+                    .navigationTitle(disciplinesViewTitle)
             }
             .navigationViewStyle(navigationStyle)
             .tabItem {
-                Label(disciplinesViewTitle, systemImage: "star")
+                Label(disciplinesViewTitle, systemImage: "book")
             }
 
             NavigationView {
                 CoursesView()
-                    .navigationBarTitle(coursesViewTitle)
+                    .navigationTitle(coursesViewTitle)
             }
             .navigationViewStyle(navigationStyle)
             .tabItem {
-                Label(coursesViewTitle, systemImage: "star")
+                Label(coursesViewTitle, systemImage: "books.vertical")
             }
         }
     }
