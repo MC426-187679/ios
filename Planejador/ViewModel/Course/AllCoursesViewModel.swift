@@ -1,6 +1,6 @@
 import SwiftUI
 
-extension CoursesView {
+extension AllCoursesView {
     class ViewModel: ObservableObject {
         @Published var allCourses = [Course]()
 

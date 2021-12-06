@@ -17,7 +17,7 @@ struct ContentView: View {
             }
 
             NavigationView {
-                CoursesView()
+                AllCoursesView()
                     .navigationTitle(coursesViewTitle)
             }
             .navigationViewStyle(navigationStyle)

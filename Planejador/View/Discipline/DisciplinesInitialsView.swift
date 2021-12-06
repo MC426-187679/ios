@@ -22,7 +22,7 @@ struct DisciplinesInitialsView: View {
     }
 }
 
-struct DisciplinesView_Previews: PreviewProvider {
+struct DisciplinesInitialsView_Previews: PreviewProvider {
     static var previews: some View {
         DisciplinesInitialsView(initials: "MC")
     }

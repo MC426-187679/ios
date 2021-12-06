@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct CoursesView: View {
+struct AllCoursesView: View {
     @ObservedObject private var viewModel = ViewModel()
 
     var body: some View {
@@ -9,15 +9,15 @@ struct CoursesView: View {
                 NavigationLink(destination: {
                     Text("Course Page View")
                 }, label: {
-                    Text(course.code)
+                    Text(course.name)
                 })
             }
         }
     }
 }
 
-struct CoursesView_Previews: PreviewProvider {
+struct AllCoursesView_Previews: PreviewProvider {
     static var previews: some View {
-        CoursesView()
+        AllCoursesView()
     }
 }
