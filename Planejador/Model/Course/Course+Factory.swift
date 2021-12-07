@@ -1,7 +1,7 @@
 import Foundation
 
 extension Course {
-    class Factory {
+    final class Factory {
         static var shared = Factory()
 
         private init() {}

@@ -1,7 +1,7 @@
 import SwiftUI
 
 extension DisciplineDetailView {
-    class ViewModel: ObservableObject {
+    final class ViewModel: ObservableObject {
         @Published var discipline: Discipline
 
         init(_ discipline: Discipline) {
@@ -11,7 +11,7 @@ extension DisciplineDetailView {
 }
 
 extension RequirementCell {
-    class ViewModel: ObservableObject {
+    final class ViewModel: ObservableObject {
         @Published var requirement: Requirement
         @Published var discipline: Discipline?
 

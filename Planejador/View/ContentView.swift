@@ -1,12 +1,22 @@
 import SwiftUI
 
 struct ContentView: View {
+    private let searchViewTitle = "Buscar"
     private let disciplinesViewTitle = "Disciplinas"
     private let coursesViewTitle = "Cursos"
     private let navigationStyle = StackNavigationViewStyle()
 
     var body: some View {
         TabView {
+            NavigationView {
+                SearchView()
+                    .navigationTitle(searchViewTitle)
+            }
+            .navigationViewStyle(navigationStyle)
+            .tabItem {
+                Label(searchViewTitle, systemImage: "magnifyingglass")
+            }
+
             NavigationView {
                 AllDisciplinesView()
                     .navigationTitle(disciplinesViewTitle)

@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A72D8A2D275FDBDD001ABAAE /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = A72D8A2C275FDBDD001ABAAE /* API.swift */; };
+		A72D8A30275FE866001ABAAE /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A72D8A2F275FE866001ABAAE /* SearchView.swift */; };
+		A72D8A32275FECEC001ABAAE /* SearchResultsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A72D8A31275FECEC001ABAAE /* SearchResultsView.swift */; };
+		A72D8A35275FEDB0001ABAAE /* SearchResultsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A72D8A34275FEDB0001ABAAE /* SearchResultsViewModel.swift */; };
+		A72D8A37275FFA6A001ABAAE /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = A72D8A36275FFA6A001ABAAE /* Search.swift */; };
+		A72D8A39276001F8001ABAAE /* AppAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A72D8A38276001F8001ABAAE /* AppAPI.swift */; };
 		A733032527594DAF008ED6DE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A733032427594DAF008ED6DE /* README.md */; };
 		A73303CE27594DBF008ED6DE /* DO.json in Resources */ = {isa = PBXBuildFile; fileRef = A733032827594DBF008ED6DE /* DO.json */; };
 		A73303CF27594DBF008ED6DE /* PF.json in Resources */ = {isa = PBXBuildFile; fileRef = A733032927594DBF008ED6DE /* PF.json */; };
@@ -200,6 +206,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A72D8A2C275FDBDD001ABAAE /* API.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		A72D8A2F275FE866001ABAAE /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		A72D8A31275FECEC001ABAAE /* SearchResultsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsView.swift; sourceTree = "<group>"; };
+		A72D8A34275FEDB0001ABAAE /* SearchResultsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsViewModel.swift; sourceTree = "<group>"; };
+		A72D8A36275FFA6A001ABAAE /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
+		A72D8A38276001F8001ABAAE /* AppAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppAPI.swift; sourceTree = "<group>"; };
 		A733032427594DAF008ED6DE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A733032827594DBF008ED6DE /* DO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DO.json; sourceTree = "<group>"; };
 		A733032927594DBF008ED6DE /* PF.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PF.json; sourceTree = "<group>"; };
@@ -409,8 +421,36 @@
 			children = (
 				A74DD5ED275E916300CD9C3D /* Discipline */,
 				A74DD5EE275E916800CD9C3D /* Course */,
+				A72D8A33275FED92001ABAAE /* Search */,
 			);
 			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		A72D8A2B275FDB9A001ABAAE /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				A72D8A2C275FDBDD001ABAAE /* API.swift */,
+				A72D8A38276001F8001ABAAE /* AppAPI.swift */,
+				A72D8A36275FFA6A001ABAAE /* Search.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		A72D8A2E275FE857001ABAAE /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				A72D8A2F275FE866001ABAAE /* SearchView.swift */,
+				A72D8A31275FECEC001ABAAE /* SearchResultsView.swift */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		A72D8A33275FED92001ABAAE /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				A72D8A34275FEDB0001ABAAE /* SearchResultsViewModel.swift */,
+			);
+			path = Search;
 			sourceTree = "<group>";
 		};
 		A733032627594DBF008ED6DE /* Mock */ = {
@@ -682,6 +722,7 @@
 			children = (
 				A7AF02E527594B4C00DA7288 /* ContentView.swift */,
 				A74DD5E1275E7CBC00CD9C3D /* Font.swift */,
+				A72D8A2E275FE857001ABAAE /* Search */,
 				A74DD5EB275E914200CD9C3D /* Discipline */,
 				A74DD5EC275E914900CD9C3D /* Course */,
 				A74DD5EF275E945400CD9C3D /* Components */,
@@ -711,8 +752,9 @@
 			isa = PBXGroup;
 			children = (
 				A7AF02E327594B4C00DA7288 /* PlanejadorApp.swift */,
-				A733032627594DBF008ED6DE /* Mock */,
 				A7AF02E727594B4D00DA7288 /* Assets.xcassets */,
+				A733032627594DBF008ED6DE /* Mock */,
+				A72D8A2B275FDB9A001ABAAE /* Services */,
 				A77CC77D2759516000FE3E68 /* Model */,
 				A77CC78C275958B400FE3E68 /* View */,
 				A7086091275A4EDF0005407B /* ViewModel */,
@@ -988,6 +1030,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A72D8A2D275FDBDD001ABAAE /* API.swift in Sources */,
 				A77CC7892759529800FE3E68 /* Requirement.swift in Sources */,
 				A74DD5EA275E911000CD9C3D /* AllDisciplinesViewModel.swift in Sources */,
 				A77CC77F2759517700FE3E68 /* Course.swift in Sources */,
@@ -1000,14 +1043,19 @@
 				A7BCE6EF275A82B30085EADB /* AllCoursesViewModel.swift in Sources */,
 				A74DD5E2275E7CBC00CD9C3D /* Font.swift in Sources */,
 				A74DD5FD275ED50E00CD9C3D /* DisciplineCodeCell.swift in Sources */,
+				A72D8A37275FFA6A001ABAAE /* Search.swift in Sources */,
+				A72D8A30275FE866001ABAAE /* SearchView.swift in Sources */,
 				A74DD5E0275E75C100CD9C3D /* DisciplineDetailView.swift in Sources */,
 				A77CC7852759521B00FE3E68 /* Variant.swift in Sources */,
+				A72D8A39276001F8001ABAAE /* AppAPI.swift in Sources */,
 				A77CC7872759525400FE3E68 /* CourseTree.swift in Sources */,
 				A77CC781275951BA00FE3E68 /* Discipline.swift in Sources */,
 				A7A3B20B275A5CF000DDEF45 /* AllCoursesView.swift in Sources */,
+				A72D8A35275FEDB0001ABAAE /* SearchResultsViewModel.swift in Sources */,
 				A74DD5F6275EA8E700CD9C3D /* Course+Factory.swift in Sources */,
 				A74DD5E4275E814200CD9C3D /* DisciplineDetailViewModel.swift in Sources */,
 				A74DD5E8275E90DA00CD9C3D /* AllDisciplinesView.swift in Sources */,
+				A72D8A32275FECEC001ABAAE /* SearchResultsView.swift in Sources */,
 				A74DD5E6275E8DF400CD9C3D /* Discipline+Factory.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1147,7 +1195,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1177,7 +1225,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

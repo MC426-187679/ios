@@ -1,7 +1,7 @@
 import SwiftUI
 
 extension DisciplinesInitialsView {
-    class ViewModel: ObservableObject {
+    final class ViewModel: ObservableObject {
         @Published var initials: String
         @Published var disciplines = [Discipline]()
 
