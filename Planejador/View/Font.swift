@@ -12,4 +12,8 @@ extension Font {
     static var appBody: Font {
         .body
     }
+
+    static var bodyPointSize: CGFloat {
+        UIFont.preferredFont(forTextStyle: .body).pointSize
+    }
 }

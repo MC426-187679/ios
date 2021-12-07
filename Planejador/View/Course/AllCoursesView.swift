@@ -7,7 +7,8 @@ struct AllCoursesView: View {
         Form {
             ForEach(viewModel.allCourses, id: \.self.code) { course in
                 NavigationLink(destination: {
-                    Text("Course Page View")
+                    CourseDetailView(course)
+                        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
                 }, label: {
                     Text(course.name)
                 })

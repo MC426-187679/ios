@@ -19,7 +19,7 @@ extension Course {
             }
 
             var courses = urls.compactMap { decode(url: $0) }
-            courses.sort { Int($0.code) ?? 0 < Int($1.code) ?? 0 }
+            courses.sort { $0.name < $1.name }
             cache = courses
             completion(courses)
         }

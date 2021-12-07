@@ -36,18 +36,37 @@ private struct RequirementsView: View {
     var body: some View {
         ScrollView(.horizontal) {
             VStack(alignment: .leading) {
-                ForEach(allRequirements, id: \.self.first!.code) { requirements in
+                ForEach(0 ..< allRequirements.count) { requirementsIndex in
                     HStack {
-                        ForEach(requirements, id: \.self.code) { requirement in
+                        ForEach(allRequirements[requirementsIndex], id: \.self.code) { requirement in
                             RequirementCell(requirement: requirement)
                         }
 
-                        if allRequirements.last != requirements {
+                        if allRequirements.last != allRequirements[requirementsIndex] {
                             Text("ou")
                         }
                     }
                 }
             }
         }
+    }
+}
+
+struct RequirementCell: View {
+    @ObservedObject private var viewModel: ViewModel
+
+    init(requirement: Requirement) {
+        self.viewModel = ViewModel(requirement: requirement)
+    }
+
+    var body: some View {
+        NavigationLink(destination: {
+            if let discipline = viewModel.discipline {
+                DisciplineDetailView(discipline)
+            }
+        }, label: {
+            DisciplineCodeCell(code: viewModel.requirement.code)
+        })
+        .disabled(viewModel.requirement.special)
     }
 }
