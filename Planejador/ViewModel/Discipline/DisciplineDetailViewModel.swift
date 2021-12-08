@@ -17,8 +17,13 @@ extension RequirementCell {
 
         init(requirement: Requirement) {
             self.requirement = requirement
-            Discipline.Factory.shared.discipline(code: requirement.code) { discipline in
-                self.discipline = discipline
+            Discipline.Factory.shared.discipline(code: requirement.code) { result in
+                switch result {
+                case .success(let discipline):
+                    self.discipline = discipline
+                case .failure(let error):
+                    print(error)
+                }
             }
         }
     }

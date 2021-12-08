@@ -8,12 +8,21 @@ extension Discipline {
 
         private var cache: [Discipline]?
 
-        func discipline(code: String, completion: @escaping (Discipline?) -> Void) {
-            allDisciplines { allDisciplines in
-                if let discipline = allDisciplines.first(where: { $0.code == code }) {
-                    completion(discipline)
-                } else {
-                    completion(nil)
+        private let route = AppAPI.route.appendingPathComponent("disciplina")
+
+        func discipline(code: String, completion: @escaping (Result<Discipline, Error>) -> Void) {
+            let url = route.appendingPathComponent(code)
+            API.call(url: url) { result in
+                switch result {
+                case .success(let data):
+                    do {
+                        let discipline = try JSONDecoder().decode(Discipline.self, from: data)
+                        completion(.success(discipline))
+                    } catch {
+                        completion(.failure(error))
+                    }
+                case .failure(let error):
+                    completion(.failure(error))
                 }
             }
         }

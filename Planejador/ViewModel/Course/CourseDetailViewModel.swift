@@ -17,9 +17,12 @@ extension DisciplineCell {
 
         init(code: String) {
             self.code = code
-            Discipline.Factory.shared.discipline(code: code) { discipline in
-                if let discipline = discipline {
+            Discipline.Factory.shared.discipline(code: code) { result in
+                switch result {
+                case .success(let discipline):
                     self.discipline = discipline
+                case .failure(let error):
+                    print(error)
                 }
             }
         }
