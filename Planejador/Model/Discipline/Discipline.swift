@@ -29,3 +29,9 @@ extension Discipline: Decodable {
         requiredBy = try? values.decode([String].self, forKey: .reqBy)
     }
 }
+
+extension Discipline: Matchable {
+    var cleanCode: String {
+        return code
+    }
+}

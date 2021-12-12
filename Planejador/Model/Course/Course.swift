@@ -28,6 +28,17 @@ extension Course: Decodable {
     }
 }
 
+extension Course: Matchable {
+    var cleanCode: String {
+        let charactersToPad = 3 - code.count
+        var padding = ""
+        for _ in 0 ..< charactersToPad {
+            padding += "0"
+        }
+        return padding + code
+    }
+}
+
 private enum CourseTreeError: Error {
     case invalidCourseTree
 }
