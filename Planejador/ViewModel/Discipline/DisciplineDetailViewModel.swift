@@ -19,6 +19,7 @@ extension RequirementCell {
             self.requirement = requirement
             Discipline.Factory.shared.discipline(code: requirement.code) { discipline in
                 self.discipline = discipline
+
             }
         }
     }

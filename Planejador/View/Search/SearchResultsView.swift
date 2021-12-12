@@ -24,7 +24,6 @@ struct SearchResultsView: View {
             }
         }
     }
-
 }
 
 struct MatchView: View {

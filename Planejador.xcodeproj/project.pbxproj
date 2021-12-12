@@ -203,6 +203,11 @@
 		A7AF02EB27594B4D00DA7288 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7AF02EA27594B4D00DA7288 /* Preview Assets.xcassets */; };
 		A7BCE6ED275A81D80085EADB /* DisciplinesInitialsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7BCE6EC275A81D80085EADB /* DisciplinesInitialsViewModel.swift */; };
 		A7BCE6EF275A82B30085EADB /* AllCoursesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7BCE6EE275A82B30085EADB /* AllCoursesViewModel.swift */; };
+		D7C6CC1827668AA1005E4959 /* SavedDisciplinesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C6CC1727668AA1005E4959 /* SavedDisciplinesView.swift */; };
+		D7C6CC1B27668B67005E4959 /* UserTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C6CC1A27668B67005E4959 /* UserTracker.swift */; };
+		D7C6CC1E27668BCF005E4959 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C6CC1D27668BCF005E4959 /* User.swift */; };
+		D7C6CC2027668C1F005E4959 /* UserActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C6CC1F27668C1F005E4959 /* UserActivity.swift */; };
+		D7C6CC2327669542005E4959 /* SavedViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7C6CC2227669542005E4959 /* SavedViewModel.swift */; };
 		D7FD154A2760F6150011E33C /* Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7FD15492760F6150011E33C /* Match.swift */; };
 /* End PBXBuildFile section */
 
@@ -404,6 +409,11 @@
 		A7AF02EA27594B4D00DA7288 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A7BCE6EC275A81D80085EADB /* DisciplinesInitialsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisciplinesInitialsViewModel.swift; sourceTree = "<group>"; };
 		A7BCE6EE275A82B30085EADB /* AllCoursesViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllCoursesViewModel.swift; sourceTree = "<group>"; };
+		D7C6CC1727668AA1005E4959 /* SavedDisciplinesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedDisciplinesView.swift; sourceTree = "<group>"; };
+		D7C6CC1A27668B67005E4959 /* UserTracker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserTracker.swift; sourceTree = "<group>"; };
+		D7C6CC1D27668BCF005E4959 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		D7C6CC1F27668C1F005E4959 /* UserActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserActivity.swift; sourceTree = "<group>"; };
+		D7C6CC2227669542005E4959 /* SavedViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SavedViewModel.swift; sourceTree = "<group>"; };
 		D7FD15492760F6150011E33C /* Match.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Match.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -421,6 +431,7 @@
 		A7086091275A4EDF0005407B /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				D7C6CC2127669520005E4959 /* Saved */,
 				A74DD5ED275E916300CD9C3D /* Discipline */,
 				A74DD5EE275E916800CD9C3D /* Course */,
 				A72D8A33275FED92001ABAAE /* Search */,
@@ -431,6 +442,7 @@
 		A72D8A2B275FDB9A001ABAAE /* Services */ = {
 			isa = PBXGroup;
 			children = (
+				D7C6CC1927668B18005E4959 /* User */,
 				A72D8A2C275FDBDD001ABAAE /* API.swift */,
 				A72D8A38276001F8001ABAAE /* AppAPI.swift */,
 				A72D8A36275FFA6A001ABAAE /* Search.swift */,
@@ -692,6 +704,7 @@
 		A77CC77D2759516000FE3E68 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				D7C6CC1C27668BC4005E4959 /* User */,
 				D7FD15482760F6020011E33C /* Match */,
 				A77CC7832759520C00FE3E68 /* Discipline */,
 				A77CC7822759520700FE3E68 /* Course */,
@@ -723,6 +736,7 @@
 		A77CC78C275958B400FE3E68 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				D7C6CC1627668A89005E4959 /* Saved */,
 				A7AF02E527594B4C00DA7288 /* ContentView.swift */,
 				A74DD5E1275E7CBC00CD9C3D /* Font.swift */,
 				A72D8A2E275FE857001ABAAE /* Search */,
@@ -772,6 +786,39 @@
 				A7AF02EA27594B4D00DA7288 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D7C6CC1627668A89005E4959 /* Saved */ = {
+			isa = PBXGroup;
+			children = (
+				D7C6CC1727668AA1005E4959 /* SavedDisciplinesView.swift */,
+			);
+			path = Saved;
+			sourceTree = "<group>";
+		};
+		D7C6CC1927668B18005E4959 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				D7C6CC1A27668B67005E4959 /* UserTracker.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		D7C6CC1C27668BC4005E4959 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				D7C6CC1D27668BCF005E4959 /* User.swift */,
+				D7C6CC1F27668C1F005E4959 /* UserActivity.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		D7C6CC2127669520005E4959 /* Saved */ = {
+			isa = PBXGroup;
+			children = (
+				D7C6CC2227669542005E4959 /* SavedViewModel.swift */,
+			);
+			path = Saved;
 			sourceTree = "<group>";
 		};
 		D7FD15482760F6020011E33C /* Match */ = {
@@ -1044,6 +1091,8 @@
 				A72D8A2D275FDBDD001ABAAE /* API.swift in Sources */,
 				A77CC7892759529800FE3E68 /* Requirement.swift in Sources */,
 				A74DD5EA275E911000CD9C3D /* AllDisciplinesViewModel.swift in Sources */,
+				D7C6CC1B27668B67005E4959 /* UserTracker.swift in Sources */,
+				D7C6CC1E27668BCF005E4959 /* User.swift in Sources */,
 				A77CC77F2759517700FE3E68 /* Course.swift in Sources */,
 				A77CC78E275958E000FE3E68 /* DisciplinesInitialsView.swift in Sources */,
 				A74DD5F8275EC49900CD9C3D /* CourseDetailView.swift in Sources */,
@@ -1055,6 +1104,7 @@
 				A74DD5E2275E7CBC00CD9C3D /* Font.swift in Sources */,
 				A74DD5FD275ED50E00CD9C3D /* DisciplineCodeCell.swift in Sources */,
 				A72D8A37275FFA6A001ABAAE /* Search.swift in Sources */,
+				D7C6CC2327669542005E4959 /* SavedViewModel.swift in Sources */,
 				A72D8A30275FE866001ABAAE /* SearchView.swift in Sources */,
 				A74DD5E0275E75C100CD9C3D /* DisciplineDetailView.swift in Sources */,
 				A77CC7852759521B00FE3E68 /* Variant.swift in Sources */,
@@ -1064,11 +1114,13 @@
 				A7A3B20B275A5CF000DDEF45 /* AllCoursesView.swift in Sources */,
 				A72D8A35275FEDB0001ABAAE /* SearchResultsViewModel.swift in Sources */,
 				A74DD5F6275EA8E700CD9C3D /* Course+Factory.swift in Sources */,
+				D7C6CC2027668C1F005E4959 /* UserActivity.swift in Sources */,
 				A74DD5E4275E814200CD9C3D /* DisciplineDetailViewModel.swift in Sources */,
 				A74DD5E8275E90DA00CD9C3D /* AllDisciplinesView.swift in Sources */,
 				A72D8A32275FECEC001ABAAE /* SearchResultsView.swift in Sources */,
 				A74DD5E6275E8DF400CD9C3D /* Discipline+Factory.swift in Sources */,
 				D7FD154A2760F6150011E33C /* Match.swift in Sources */,
+				D7C6CC1827668AA1005E4959 /* SavedDisciplinesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

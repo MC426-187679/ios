@@ -2,9 +2,11 @@ import SwiftUI
 
 struct DisciplineDetailView: View {
     @ObservedObject private var viewModel: ViewModel
+    @State private var isDisciplineSaved = false
 
     init(_ discipline: Discipline) {
         self.viewModel = ViewModel(discipline)
+        self.isDisciplineSaved = UserTracker.shared.fetchIfDisciplineIsSaved(self.viewModel.discipline)
     }
 
     var body: some View {
@@ -26,7 +28,22 @@ struct DisciplineDetailView: View {
             }
             .padding(.horizontal)
         }
+        .onAppear(perform: {
+            UserTracker.shared.logSeenDiscipline(self.viewModel.discipline)
+            self.isDisciplineSaved = UserTracker.shared.fetchIfDisciplineIsSaved(self.viewModel.discipline)
+        })
         .navigationTitle(viewModel.discipline.code)
+        .toolbar {
+            Button {
+                isDisciplineSaved = !isDisciplineSaved
+                UserTracker.shared.logToggleSavedDiscipline(viewModel.discipline)
+            } label: {
+                if isDisciplineSaved {
+                    Image(systemName: "bookmark.fill")
+                } else {
+                    Image(systemName: "bookmark")
+                } }
+        }
     }
 }
 
@@ -67,6 +84,6 @@ struct RequirementCell: View {
         }, label: {
             DisciplineCodeCell(code: viewModel.requirement.code)
         })
-        .disabled(viewModel.requirement.special)
+            .disabled(viewModel.requirement.special)
     }
 }

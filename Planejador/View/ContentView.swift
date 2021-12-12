@@ -4,6 +4,7 @@ struct ContentView: View {
     private let searchViewTitle = "Buscar"
     private let disciplinesViewTitle = "Disciplinas"
     private let coursesViewTitle = "Cursos"
+    private let savedDisciplinesViewTitle = "Minhas Disciplinas"
     private let navigationStyle = StackNavigationViewStyle()
 
     var body: some View {
@@ -33,6 +34,14 @@ struct ContentView: View {
             .navigationViewStyle(navigationStyle)
             .tabItem {
                 Label(coursesViewTitle, systemImage: "books.vertical")
+            }
+            NavigationView {
+                SavedDisciplinesView()
+                    .navigationTitle(savedDisciplinesViewTitle)
+            }
+            .navigationViewStyle(navigationStyle)
+            .tabItem {
+                Label(savedDisciplinesViewTitle, systemImage: "bookmark.fill")
             }
         }
     }
